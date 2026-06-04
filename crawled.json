@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-04T00:00:52.934134+00:00",
+  "generated": "2026-06-04T00:31:10.929795+00:00",
   "date": "2026-06-04",
-  "count": 5,
+  "count": 7,
   "articles": [
     {
       "source": "Zentralplus",
@@ -37,6 +37,20 @@
       "url": "https://www.zentralplus.ch/news/waffenruhe-im-libanon-erneuert-2875774/",
       "summary": "Israel und der Libanon haben sich auf eine Erneuerung der Waffenruhe geeinigt. Das geht aus einer gemeinsamen Erklärung hervor, auf die sich eine israelische und eine libanesische Delegation in Washin",
       "published": "2026-06-04T00:00:52.934134+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Atomare Aufrüstung in Nordkorea",
+      "url": "https://www.zentralplus.ch/news/atomare-aufruestung-in-nordkorea-2875776/",
+      "summary": "Nordkorea soll seine Armee mit mehr Atomwaffen aufrüsten. Das fordert Machthaber Kim Jong-un. Die Produktion von waffenfähigem Nuklearmaterial habe sich in den letzten fünf Jahren mehr als verdoppelt ",
+      "published": "2026-06-04T00:31:10.929795+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Atomstreit mit Nordkorea: Nordkoreas Machthaber will Atomwaffenvorrat radikal ausbauen",
+      "url": "https://www.nzz.ch/international/atomstreit-mit-nordkorea-die-aktuellen-ereignisse-ld.1399947",
+      "summary": "",
+      "published": "2026-06-04T00:31:10.929795+00:00"
     }
   ]
 }
