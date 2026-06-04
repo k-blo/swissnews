@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-04T02:00:52.483612+00:00",
+  "generated": "2026-06-04T02:30:59.220824+00:00",
   "date": "2026-06-04",
-  "count": 13,
+  "count": 15,
   "articles": [
     {
       "source": "Zentralplus",
@@ -93,6 +93,20 @@
       "url": "https://www.nzz.ch/international/atomstreit-mit-nordkorea-nordkoreas-machthaber-will-atomwaffenvorrat-radikal-ausbauen-ld.1399947",
       "summary": "",
       "published": "2026-06-04T02:00:52.483612+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trump unter Druck: Beim vierten Versuch: US-Kongress setzt ein Zeichen gegen den Irankrieg",
+      "url": "https://www.tagesanzeiger.ch/irankrieg-us-repraesentantenhaus-setzt-ein-zeichen-gegen-trumps-krieg-918715242250",
+      "summary": "Das Repräsentantenhaus hat eine Resolution gegen Donald Trumps Krieg angenommen. Frieden ist damit nicht erreicht, doch der Entscheid ist ein Signal an den Präsidenten. Der Unmut wächst.",
+      "published": "2026-06-04T02:30:59.220824+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Trump unter Druck: Beim vierten Versuch: US-Kongress setzt ein Zeichen gegen den Irankrieg",
+      "url": "https://www.bernerzeitung.ch/irankrieg-us-repraesentantenhaus-setzt-ein-zeichen-gegen-trumps-krieg-918715242250",
+      "summary": "Das Repräsentantenhaus hat eine Resolution gegen Donald Trumps Krieg angenommen. Frieden ist damit nicht erreicht, doch der Entscheid ist ein Signal an den Präsidenten. Der Unmut wächst.",
+      "published": "2026-06-04T02:30:59.220824+00:00"
     }
   ]
 }
