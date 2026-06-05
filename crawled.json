@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-05T04:31:05.056395+00:00",
+  "generated": "2026-06-05T05:01:14.702450+00:00",
   "date": "2026-06-05",
-  "count": 105,
+  "count": 111,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -737,6 +737,48 @@
       "url": "https://insideparadeplatz.ch/2026/06/05/bravo-genossen/",
       "summary": "",
       "published": "2026-06-05T04:31:05.056395+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wechsel in die Sozialhilfe – Ukraine-Flüchtlinge: Gemeinden und Kantone fürchten hohe Kosten",
+      "url": "https://www.srf.ch/news/schweiz/wechsel-in-die-sozialhilfe-ukraine-fluechtlinge-gemeinden-und-kantone-fuerchten-hohe-kosten",
+      "summary": "Aargau, St. Gallen und Graubünden rechnen bereits mit Mehrkosten. Andere Kantone fordern mehr Spielraum vom Bund.",
+      "published": "2026-06-05T05:01:14.702450+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Einkäufe im Ausland – Update für Quickzoll: Endlich rechnet die App des Bundes richtig",
+      "url": "https://www.srf.ch/news/dialog/einkaeufe-im-ausland-update-fuer-quickzoll-endlich-rechnet-die-app-des-bundes-richtig",
+      "summary": "Über die App Quickzoll ist es nun möglich, eingeführte Waren immer zum richtigen Steuersatz abzurechnen.",
+      "published": "2026-06-05T05:01:14.702450+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA verzögert Rückzahlung von Trumps Strafzöllen: Justiz verärgert",
+      "url": "https://www.watson.ch/international/usa/239459663-usa-verzoegert-rueckzahlung-von-trumps-strafzoellen-justiz-veraergert",
+      "summary": "",
+      "published": "2026-06-05T05:01:14.702450+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Obduktion von Buckelwal Timmy: Die Erkenntnisse und wie es weitergeht",
+      "url": "https://www.watson.ch/international/deutschland/594813464-obduktion-von-buckelwal-timmy-die-erkenntnisse-und-wie-es-weitergeht",
+      "summary": "",
+      "published": "2026-06-05T05:01:14.702450+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Hurricanes gleichen dank Schlussspurt aus",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-hurricanes-gleichen-dank-schlussspurt-aus",
+      "summary": "",
+      "published": "2026-06-05T05:01:14.702450+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Zürcher 160000 Fr Entlöhnte Erhalten Kita Hilfe",
+      "url": "https://insideparadeplatz.ch/2026/06/05/zuercher-160000-fr-entloehnte-erhalten-kita-hilfe/",
+      "summary": "",
+      "published": "2026-06-05T05:01:14.702450+00:00"
     }
   ]
 }
