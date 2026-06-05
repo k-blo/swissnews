@@ -1,6 +1,14 @@
 {
-  "generated": "2026-06-05T22:00:58.711813+00:00",
+  "generated": "2026-06-05T22:30:59.308668+00:00",
   "date": "2026-06-06",
-  "count": 0,
-  "articles": []
+  "count": 1,
+  "articles": [
+    {
+      "source": "Zentralplus",
+      "title": "Kreml: Putin trifft Ex-Kanzler Schröder",
+      "url": "https://www.zentralplus.ch/news/kreml-putin-trifft-ex-kanzler-schroeder-2876192/",
+      "summary": "Der Kreml teilt mit, dass sich der russische Präsident Wladimir Putin und der Ex-Bundeskanzler Gerhard Schröder zu einem Vieraugengespräch getroffen haben. Zum Inhalt und dabei möglichen Perspektiven ",
+      "published": "2026-06-05T22:30:59.308668+00:00"
+    }
+  ]
 }
