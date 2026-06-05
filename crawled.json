@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-05T01:31:04.101871+00:00",
+  "generated": "2026-06-05T02:31:13.078111+00:00",
   "date": "2026-06-05",
-  "count": 12,
+  "count": 15,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -86,6 +86,27 @@
       "url": "https://www.zentralplus.ch/news/kuba-us-sanktionen-gegen-diaz-canel-2875890/",
       "summary": "Die USA verhängen unter anderem gegen den kubanischen Präsidenten Miguel Díaz-Canel Sanktionen. Konkret werden etwa Vermögenswerte eingefroren, wie das US-Aussenministerium mitteilt. Damit erhöht die ",
       "published": "2026-06-05T01:31:04.101871+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wichtiger SBB-Verkehrsknotenpunkt: Bahnhof Burgdorf BE lichterloh in Flammen",
+      "url": "https://www.blick.ch/schweiz/bern/wichtiger-sbb-verkehrsknotenpunkt-bahnhof-burgdorf-be-lichterloh-in-flammen-id22004692.html",
+      "summary": "Hohe Flammen schiessen aus dem Dach des Bahnhofsgebäudes von Burgdorf BE. Der Ort ist ein wichtiger Verkehrsknotenpunkt der SBB.",
+      "published": "2026-06-05T02:31:13.078111+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Grossbrand im Kanton Bern: Der Bahnhof von Burgdorf brennt lichterloh",
+      "url": "https://www.tagesanzeiger.ch/der-bahnhof-von-burgdorf-brennt-lichterloh-390420136366",
+      "summary": "Das Bahnhofsgebäude in Burgdorf im Kanton Bern steht in Flammen. Die Feuerwehr ist mit einem Grossaufgebot vor Ort.",
+      "published": "2026-06-05T02:31:13.078111+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "US-Repräsentantenhaus für UKR-Hilfe",
+      "url": "https://www.zentralplus.ch/news/us-repraesentantenhaus-fuer-ukr-hilfe-2875892/",
+      "summary": "Das US-Repräsentantenhaus hat mit 226 zu 195 Stimmen einen Gesetzentwurf für weitere Ukraine-Hilfen und neue Sanktionen gegen Russland beschlossen. Dabei geht es um eine Milliarde Dollar an Hilfsgelde",
+      "published": "2026-06-05T02:31:13.078111+00:00"
     }
   ]
 }
