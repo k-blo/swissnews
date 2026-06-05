@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-04T23:31:30.999130+00:00",
+  "generated": "2026-06-05T00:01:11.915840+00:00",
   "date": "2026-06-05",
-  "count": 3,
+  "count": 4,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -23,6 +23,13 @@
       "url": "https://weltwoche.ch/story/aberwitzige-verlierergeschichten/",
       "summary": "",
       "published": "2026-06-04T23:31:30.999130+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Putin zeigt sich siegesgewiss – und fordert den Donbass",
+      "url": "https://www.20min.ch/story/wirtschaftsforum-putin-zeigt-sich-weiter-siegesgewiss-103577233",
+      "summary": "Der russische Präsident Wladimir Putin zeigt sich beim Wirtschaftsforum in St. Petersburg weiter siegessicher und erneuert seine Forderungen für Frieden in der Ukraine.",
+      "published": "2026-06-05T00:01:11.915840+00:00"
     }
   ]
 }
