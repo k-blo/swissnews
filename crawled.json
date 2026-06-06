@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-06T07:30:58.230592+00:00",
+  "generated": "2026-06-06T08:00:37.852055+00:00",
   "date": "2026-06-06",
-  "count": 99,
+  "count": 103,
   "articles": [
     {
       "source": "Zentralplus",
@@ -695,6 +695,34 @@
       "url": "https://www.watson.ch/schweiz/forschung/936395321-eth-evakuiert-zuercher-quartier-wegen-hochgefaehrlicher-chemikalie",
       "summary": "",
       "published": "2026-06-06T07:30:58.230592+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kriens legt den Strom-Riesen neue Verträge vor",
+      "url": "https://www.zentralplus.ch/politik/kriens-legt-den-strom-riesen-neue-vertraege-vor-2876212/",
+      "summary": "Kriens will die Nutzung des öffentlichen Bodens für Stromleitungen neu regeln. Nun muss der Einwohnerrat beraten. Es soll sich um eine kantonsweite Absprache handeln. Die Stadt Kriens will neue Konzes",
+      "published": "2026-06-06T08:00:37.852055+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stromausfall legt Jamaika lahm",
+      "url": "https://www.zentralplus.ch/news/stromausfall-legt-jamaika-lahm-2876215/",
+      "summary": "Ein inselweiter Stromausfall hat Jamaika am Freitagabend weitgehend lahmgelegt. Energieminister Daryl Vaz teilte mit, die Stromversorgung sei zusammengebrochen. Einen Grund für die Störung nannte er z",
+      "published": "2026-06-06T08:00:37.852055+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der bundeseigene Rüstungskonzern Ruag bezahlt nach einem Hackerangriff Lösegeld – ohne das VBS darüber zu informieren",
+      "url": "https://www.nzz.ch/schweiz/ruestungskonzern-ruag-bezahlt-nach-hackerangriff-loesegeld-vbs-wusste-von-nichts-ld.10010175",
+      "summary": "",
+      "published": "2026-06-06T08:00:37.852055+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Google mietet für viel Geld Rechenleistung bei Elon Musks SpaceX",
+      "url": "https://www.watson.ch/digital/google/909842268-google-mietet-fuer-viel-geld-rechenleistung-bei-elon-musks-spacex",
+      "summary": "",
+      "published": "2026-06-06T08:00:37.852055+00:00"
     }
   ]
 }
