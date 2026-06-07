@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-07T07:00:46.102240+00:00",
+  "generated": "2026-06-07T07:30:47.533184+00:00",
   "date": "2026-06-07",
-  "count": 93,
+  "count": 100,
   "articles": [
     {
       "source": "Blick",
@@ -653,6 +653,55 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/198665773-on-drohte-der-schweiz-mit-staatsklage-wegen-kreuz-die-sonntagsnews",
       "summary": "",
       "published": "2026-06-07T07:00:46.102240+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Giftige Chemikalie – Mehr als 250 Personen werden bei ETH Zürich vorsorglich evakuiert",
+      "url": "https://www.srf.ch/news/schweiz/giftige-chemikalie-mehr-als-250-personen-werden-bei-eth-zuerich-vorsorglich-evakuiert",
+      "summary": "Bei der ETH wird eine hochgefährliche Chemikalie abtransportiert. Anwohnende im Umkreis werden präventiv evakuiert.",
+      "published": "2026-06-07T07:30:47.533184+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Das ärgert Angestellte in der Schweiz an ihren Chefs am meisten",
+      "url": "https://www.20min.ch/story/top-5-das-aergert-angestellte-in-der-schweiz-an-ihren-chefs-am-meisten-103577023",
+      "summary": "Chefs in der Schweiz sind beliebter als in den Nachbarländern. Ihre grössten Schwächen sind aber dieselben wie im Ausland.",
+      "published": "2026-06-07T07:30:47.533184+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Messerattacke in Winterthur: Handy des Angreifers kann nicht ausgewertet werden",
+      "url": "https://www.tagesanzeiger.ch/messerangriff-winterthur-handy-des-taeters-bleibt-versiegelt-673253543445",
+      "summary": "Die elektronischen Geräte des mutmasslichen Täters sind versiegelt. Aktuell kann die Bundesanwaltschaft nicht prüfen, ob ein Netzwerk hinter der Tat steckt.",
+      "published": "2026-06-07T07:30:47.533184+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Druck auf Bundesbern: On erzwingt mit Klagedrohungen das Schweizerkreuz auf Schuhen aus Asien",
+      "url": "https://www.tagesanzeiger.ch/swissness-wie-on-das-schweizerkreuz-rettete-200959318789",
+      "summary": "Der Zürcher Sportartikelhersteller hat die Behörden offenbar massiv unter Druck gesetzt, um seine Schuhe weiterhin mit dem Schweizerkreuz schmücken zu dürfen.",
+      "published": "2026-06-07T07:30:47.533184+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gebiet um ETH Zürich evakuiert",
+      "url": "https://www.zentralplus.ch/news/gebiet-um-eth-zuerich-evakuiert-2876300/",
+      "summary": "Rund um die ETH in der Stadt Zürich müssen am Sonntag mehr als 250 Personen ihre Wohnungen für mehrere Stunden verlassen. Aus einem ETH-Labor wird eine Gasflasche mit einer hochgefährlichen Chemikalie",
+      "published": "2026-06-07T07:30:47.533184+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran-Krieg: USA: Zwei iranische Drohnen abgefangen",
+      "url": "https://www.watson.ch/international/liveticker/455779172-iran-krieg-usa-zwei-iranische-drohnen-abgefangen",
+      "summary": "",
+      "published": "2026-06-07T07:30:47.533184+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "AKWs in der Schweiz sind gefährliche Angriffsziele für unsere Feinde",
+      "url": "https://www.watson.ch/schweiz/blogs/728942914-akws-in-der-schweiz-sind-gefaehrliche-angriffsziele-fuer-unsere-feinde",
+      "summary": "",
+      "published": "2026-06-07T07:30:47.533184+00:00"
     }
   ]
 }
