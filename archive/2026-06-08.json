@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-08T00:30:58.757937+00:00",
+  "generated": "2026-06-08T01:00:45.898212+00:00",
   "date": "2026-06-08",
-  "count": 6,
+  "count": 10,
   "articles": [
     {
       "source": "Blick",
@@ -44,6 +44,34 @@
       "url": "https://www.nebelspalter.ch/themen/2026/06/digitalisierung-verschaerft-vorstoss-flut-zur-einreichung-muessen-sie-nicht-einmal-mehr-aufstehen",
       "summary": "",
       "published": "2026-06-08T00:30:58.757937+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tsunami-Warnung nach schwerem Erdbeben auf den Philippinen",
+      "url": "https://www.20min.ch/story/beben-vor-philippinen-bis-zu-drei-meter-hohe-tsunami-wellen-erwartet-103578342",
+      "summary": "Ein Erdbeben der Stärke 7,8 hat die Philippinen erschüttert. Es ist eine Tsunami-Warnung herausgegeben worden.",
+      "published": "2026-06-08T01:00:45.898212+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Prowestliche Regierung liegt bei Wahl in Armenien vorn",
+      "url": "https://www.20min.ch/story/kurs-richtung-europa-prowestliche-regierung-liegt-bei-wahl-in-armenien-vorn-103578338",
+      "summary": "Armenien wird ersten Hochrechnungen nach der Parlamentswahl zufolge seinen prowestlichen Kurs Richtung EU fortsetzen. Regierungschef Paschinjan kann demnach weiterregieren.",
+      "published": "2026-06-08T01:00:45.898212+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Beben der Stärke 7,8: Tsunami-Warnung nach schwerem Erdbeben auf den Philippinen",
+      "url": "https://www.tagesanzeiger.ch/tsunami-warnung-nach-schwerem-erdbeben-auf-den-philippinen-608496619114",
+      "summary": "Ein Erdbeben der Stärke 7,8 hat die Philippinen erschüttert. Es ist eine Tsunami-Warnung herausgegeben worden.",
+      "published": "2026-06-08T01:00:45.898212+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweres Erdbeben vor Philippinen – Tsunami-Warnung",
+      "url": "https://www.watson.ch/international/natur/178486024-schweres-erdbeben-vor-philippinen-tsunami-warnung",
+      "summary": "",
+      "published": "2026-06-08T01:00:45.898212+00:00"
     }
   ]
 }
