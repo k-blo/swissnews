@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-09T04:01:49.283907+00:00",
+  "generated": "2026-06-09T04:31:09.171163+00:00",
   "date": "2026-06-09",
-  "count": 106,
+  "count": 120,
   "articles": [
     {
       "source": "Blick",
@@ -744,6 +744,104 @@
       "url": "https://www.freiburger-nachrichten.ch/story/269953/betr%C3%BCger-und-einbrecher%C2%A0nutzen-airbnbs-als-versteck%C2%A0-jetzt-schl%C3%A4gt-ein-politiker-alarm",
       "summary": "",
       "published": "2026-06-09T04:01:49.283907+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nahe Schweizer Grenze in Evian – Genfer Schreinereien stossen wegen G7-Gipfel an ihre Grenzen",
+      "url": "https://www.srf.ch/news/schweiz/nahe-schweizer-grenze-in-evian-genfer-schreinereien-stossen-wegen-g7-gipfel-an-ihre-grenzen",
+      "summary": "Teure Schutzmassnahmen, geschlossene Geschäfte und erwartete Umsatzeinbussen sorgen für Unmut bei Gewerblern.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ranking der Chancengleichheit: Diese Zürcher Gemeinden bieten Kindern aus ärmeren Familien die besten Aufstiegs­chancen",
+      "url": "https://www.tagesanzeiger.ch/chancenmonitor-zuerich-wo-kinder-am-meisten-aufsteigen-715902699809",
+      "summary": "Eine neue Studie zeigt: Ärmere Kinder verdienen als Erwachsene oft deutlich mehr als ihre Eltern. Doch die Chancen variieren je nach Gemeinde und Quartier stark.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interessenkonflikte in Spitälern: Nach Maisano-Affäre: SP will Zürcher Ärzte zu voller Transparenz zwingen",
+      "url": "https://www.tagesanzeiger.ch/maisano-affaere-sp-fordert-offenlegung-von-aerzteinteressen-397266137979",
+      "summary": "Die SP fordert im Kantonsrat gesetzliche Regeln zu Interessenbindungen und Nebeneinkünften für alle Zürcher Spitäler. Doch die anderen Parteien bezweifeln, ob das nötig ist.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview zum Turnunterricht von heute: «Völkerball gehört in den Unterricht – aber nicht mehr die diskriminierende Variante von früher»",
+      "url": "https://www.tagesanzeiger.ch/schulsport-was-sportunterricht-2026-leisten-muss-117752008164",
+      "summary": "Der Turnunterricht kommt politisch unter Druck. Was wird dort heute eigentlich gelehrt? Und was nicht mehr? Ein Gespräch mit dem obersten Sportlehrer der Schweiz.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Urteil gegen Trump: Gebühr von 100'000 Dollar für Visa ist rechtswidrig",
+      "url": "https://www.tagesanzeiger.ch/h-1b-visa-trumps-100000-dollar-gebuehr-ist-rechtswidrig-687416460534",
+      "summary": "Der US-Präsident unterliegt erneut vor Gericht. Seit Jahresbeginn häufen sich seine Niederlagen. Doch wichtige Urteile stehen noch aus, unter anderem zum Geburtsrecht und zur Briefwahl.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Wohnen im Büro-Hochhaus: Fast alle 87 Wohnungen im ehemaligen Swisscom-Tower sind vermietet: So sehen sie aus",
+      "url": "https://www.derbund.ch/swisscom-hochhaus-bern-aus-bueros-entstanden-87-wohnungen-711241187408",
+      "summary": "Wo Telefone entwickelt wurden, spielen jetzt Kinder. Warum das Umbauen von Büros zu Wohnraum gerade im Trend ist.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "200 Jahre Stadtcasino: Wo sich einst der Basler Daig traf und Theodor Herzl den Judenstaat begründete",
+      "url": "https://www.bazonline.ch/stadtcasino-basel-200-jahre-geschichte-am-barfuesserplatz-413803707073",
+      "summary": "Zionistenkongress, Nazi-Zeit, grosse architektonische (Alb-)Träume: In den mit rotem Brokat tapezierten Räumen des Stadtcasinos spielte sich Basler und Weltgeschichte ab.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Tierquälerei und Diebstahl: Frau stiehlt mehrere Katzen und beklaut ihre Frauenärztin",
+      "url": "https://www.bazonline.ch/katzendiebstahl-reinach-frau-erhaelt-strafbefehl-878431646094",
+      "summary": "Eine junge Frau wurde wegen diverser Vergehen per Strafbefehl verurteilt. Sie befindet sich aktuell in einem betreuten Setting.",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gesundheitsqualität unter Spardruck",
+      "url": "https://www.zentralplus.ch/news/gesundheitsqualitaet-unter-spardruck-2876655/",
+      "summary": "Die Qualitätskommission Gesundheit erhält vom Eidgenössischen Departement des Innern deutlich weniger Geld. Insgesamt werden 4,2 Millionen Franken gestrichen. Das ist rund ein Drittel des Budgets. Der",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Nau",
+      "title": "Die Schweizer Nati musste an der WM 2026 fast das Camp räumen.",
+      "url": "https://www.nau.ch/sport/fussball-int/wm-2026-buschbrand-bedrohte-das-camp-der-schweizer-nati-67136830",
+      "summary": "",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Nau",
+      "title": "Die Winterthurer Stadtpolizei schnappte vier mutmassliche Betrüger. (Symbolbild)",
+      "url": "https://www.nau.ch/news/schweiz/polizei-fasst-vier-mutmassliche-betruger-in-winterthur-67136832",
+      "summary": "",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Nau",
+      "title": "Sichtbarer Leichtbau: Die Motorhaube, die markant ausgestellten vorderen Kotflügel und der Heckflügel bestehen vollständig aus Kohlefaser.",
+      "url": "https://www.nau.ch/lifestyle/auto/radikaler-dreizylinder-toyota-grmn-mit-304-ps-67136710",
+      "summary": "",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erdbeben auf Philippinen: Zahl der Toten und Verletzten steigt weiter",
+      "url": "https://www.watson.ch/international/natur/789678154-erdbeben-auf-philippinen-zahl-der-toten-und-verletzten-steigt-weiter",
+      "summary": "",
+      "published": "2026-06-09T04:31:09.171163+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "OpenAI beantragt Börsengang – Details bleiben geheim",
+      "url": "https://www.watson.ch/wirtschaft/international/975548889-openai-beantragt-boersengang-details-bleiben-geheim",
+      "summary": "",
+      "published": "2026-06-09T04:31:09.171163+00:00"
     }
   ]
 }
