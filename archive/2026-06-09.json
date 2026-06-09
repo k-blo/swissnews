@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-09T20:25:43.642955+00:00",
+  "generated": "2026-06-09T20:31:20.515866+00:00",
   "date": "2026-06-09",
-  "count": 901,
+  "count": 902,
   "articles": [
     {
       "source": "Blick",
@@ -6309,6 +6309,13 @@
       "url": "https://www.watson.ch/sport/tennis/841696680-serena-williams-mit-siegreichem-comeback",
       "summary": "",
       "published": "2026-06-09T20:25:43.642955+00:00"
+    },
+    {
+      "source": "Nau",
+      "title": "Serena Williams hat im Queen's Club in London ihr Comeback gegeben.",
+      "url": "https://www.nau.ch/sport/tennis/serena-williams-lanciert-comeback-mit-sieg-67137180",
+      "summary": "",
+      "published": "2026-06-09T20:31:20.515866+00:00"
     }
   ]
 }
