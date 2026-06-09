@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-09T16:16:10.425865+00:00",
+  "generated": "2026-06-09T16:18:07.641051+00:00",
   "date": "2026-06-09",
-  "count": 789,
+  "count": 791,
   "articles": [
     {
       "source": "Blick",
@@ -5525,6 +5525,20 @@
       "url": "https://www.nau.ch/news/wirtschaft/schweizer-iphone-besitzer-erhalten-zugriff-auf-siri-ai-67137155",
       "summary": "",
       "published": "2026-06-09T16:16:10.425865+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gina H. im Fokus: Schulden, Streit und ihr Pferd «Tiffy»",
+      "url": "https://www.20min.ch/story/prozess-um-fabian-gina-h-im-fokus-schulden-streit-und-ihr-pferd-tiffy-103579253",
+      "summary": "Im Mordprozess um Fabian rückten Chats und Finanzprobleme in den Fokus. Auch eine KI-generierte Trauerrede wurde thematisiert.",
+      "published": "2026-06-09T16:18:07.641051+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Für Tiefgaragen-Putztag stellten alle ihr Auto raus – gebüsst",
+      "url": "https://www.20min.ch/story/illnau-effretikon-zh-fuer-tiefgaragen-putztag-stellten-alle-ihr-auto-raus-gebuesst-103578519",
+      "summary": "Wegen einer Tiefgaragenreinigung stellten die Mieter einer Liegenschaft in Illnau-Effretikon ihre Autos nach draussen. Ein News-Scout erzählt, dass schon am frühen Morgen alle eine Busse erhalten habe",
+      "published": "2026-06-09T16:18:07.641051+00:00"
     }
   ]
 }
