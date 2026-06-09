@@ -1,19 +1,19 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Tue, 09 Jun 2026 07:53:16 GMT",
-    "etag": "\"58006b9b33762382ea765fabb64f0a9e\""
+    "last_modified": "Tue, 09 Jun 2026 08:23:45 GMT",
+    "etag": "\"9165b321d9a1dc27395d977cafc229aa\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"18e04-pwVM7icvAaAZhCpqmD4avDEF3ik\""
+    "etag": "W/\"18caf-F13H+Ohn+IbGTZMdXwf+dAy9DxA\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"f29a-CAvUix1ZeJykDoCKqGMsJ8NgJTI\""
+    "etag": "W/\"f306-gnXldNgUUnog/YDOVTOWBJVFe9E\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"e94e-M+5d+h+KYsZegvep7fHuXzDOXOM\""
+    "etag": "W/\"e9d2-MX2Z9U53fl7XlkWY2ZrTs7huAuA\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Tue, 09 Jun 2026 07:56:38 GMT"
+    "last_modified": "Tue, 09 Jun 2026 08:27:57 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
     "last_modified": "Tue, 09 Jun 2026 08:00:42 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1780985542\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Tue, 09 Jun 2026 08:00:09 GMT"
+    "last_modified": "Tue, 09 Jun 2026 08:26:43 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 09 Jun 2026 07:50:29 GMT",
     "etag": "\"2b8bb773cda76e09c6e2e32c0ac8dcd3\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"e263-3DxdGxW+5CvegSIUPrGwRxNfTDE\""
+    "etag": "W/\"e445-jdgCE4BAsNoRA6elW/0qbOfoqU0\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"efb9-rCjAyQV/vO2vWEMXTqsjKuWDUTU\""
+    "etag": "W/\"ef9d-lkRB+1HFURTQwFjqWjrfoSXeh58\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Tue, 09 Jun 2026 07:17:00 GMT",
@@ -44,6 +44,6 @@
     "etag": "\"1780989420\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
-    "etag": "W/\"21524-4zTvlwpnYyTT5zHUqsLAucBO1tI\""
+    "etag": "W/\"21535-HqvQybrz448QJOe/XtXCAjXZeIk\""
   }
 }
