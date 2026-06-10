@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-10T05:40:52.461598+00:00",
+  "generated": "2026-06-10T06:01:13.922799+00:00",
   "date": "2026-06-10",
-  "count": 153,
+  "count": 164,
   "articles": [
     {
       "source": "Zentralplus",
@@ -1073,6 +1073,83 @@
       "url": "https://rathuus.ch/sitz-platz-medienschau/",
       "summary": "",
       "published": "2026-06-10T05:40:52.461598+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Ausbreitung im Mittelland: Vorsicht vor dieser Raupe beim Badi-Besuch",
+      "url": "https://www.blick.ch/video/aktuell/ausbreitung-im-mittelland-vorsicht-vor-dieser-raupe-beim-badi-besuch-id22001877.html",
+      "summary": "In Bülach ZH und Münsingen BE mussten Ende Mai Teile von Freibädern gesperrt werden. Grund ist der Eichenprozessionsspinner. Die feinen Brennhaare seiner Raupen können Haut, Augen und Atemwege reizen,",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Strategie für die Flughafenregion: Wie die Agglo im Norden zur Weltstadt «New Zurich» werden soll",
+      "url": "https://www.tagesanzeiger.ch/flughafenregion-zuerich-strategie-new-zurich-mit-drei-zielen-277970935825",
+      "summary": "Die Gemeinden nördlich der Stadt Zürich sind längst ein eigenes Wirtschafts-Powerhouse. Jetzt setzt die Flughafenregion Schwerpunkte für ihre neue Identität.",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Augen auf Inflation: Asiatische Börsen fallen wegen Tech-Aktien und Nahost-Krieg",
+      "url": "https://www.tagesanzeiger.ch/asiatische-boersen-kospi-verliert-6-prozent-906210195768",
+      "summary": "Der südkoreanische Kospi verliert zeitweise 6 Prozent, auch Nikkei und Hongkong geben nach. Steigende Ölpreise schüren die Angst vor neuen Zinserhöhungen der US-Notenbank.",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Schweizer Traditionen in den USA: Sie geniessen Rösti und Schwingfeste unter der Sonne Kaliforniens",
+      "url": "https://www.bernerzeitung.ch/swiss-club-san-diego-schweizer-tradition-seit-1939-266510103571",
+      "summary": "Sie heissen Odermatt und Egger, haben eine Kopie des Unspunnensteins anfertigen lassen und feiern den 1. August: Der Swiss Club ist ein Stück Schweiz in San Diego. Ein Augenschein.",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Psychiater im Interview: «Trump hat keine psychische Störung. Und das ist die traurige Botschaft»",
+      "url": "https://www.bernerzeitung.ch/psychiater-trump-handelt-nicht-geisteskrank-sondern-amoralisch-769216843917",
+      "summary": "Der Psychotherapeut und Kabarettist Manfred Lütz warnt vor der falschen Einschätzung von auffälligen Persönlichkeiten – und sagt, wer in Lebenskrisen wirklich helfen kann.",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Bieler Fotografin im Porträt: Die Kunsthochschule lehnte sie ab, heute fotografiert Ella Mettler Weltstars",
+      "url": "https://www.bernerzeitung.ch/ella-mettler-fotografiert-weltstars-mit-23-897429130660",
+      "summary": "Seit ihrem 16. Lebensjahr ist die Schwester von Nemo selbstständig, heute hängen ihre Werke in der ganzen Schweiz. Ihr Ziel: ein Fotoshooting mit Justin Bieber für die «Vogue».",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Unfall und Stau am Hirzel – hier brauchst du Geduld",
+      "url": "https://www.zentralplus.ch/news/unfall-und-stau-am-hirzel-hier-brauchst-du-geduld-2876942/",
+      "summary": "Im Kanton Zug und Luzern kommt es am Mittwochmorgen zu mehreren Staus. Am meisten Zeit verlieren Autofahrerinnen und Autofahrer am Hirzel. Im Kanton Zug und in Richtung Luzern kommt es am Mittwochmorg",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Nau",
+      "title": "Unruhe an den asiatischen Börsen: Die wichtigsten Aktienmärkte verbuchten am Mittwoch zeitweise happige Verluste. (Archivbild)",
+      "url": "https://www.nau.ch/news/wirtschaft/asiatische-borsen-fallen-wegen-tech-aktien-und-nahost-krieg-67137226",
+      "summary": "",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Anthropic veröffentlicht KI-Modell Mythos in abgespeckter Version",
+      "url": "https://www.watson.ch/digital/kuenstliche-intelligenz/269374060-anthropic-veroeffentlicht-ki-modell-mythos-in-abgespeckter-version",
+      "summary": "",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Ubs Schmeisst 71 Jährigen Hypo Kunden Grundlos Raus",
+      "url": "https://insideparadeplatz.ch/2026/06/10/ubs-schmeisst-71-jaehrigen-hypo-kunden-grundlos-raus/",
+      "summary": "",
+      "published": "2026-06-10T06:01:13.922799+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Gierige Fifa vor Leeren Wm Rängen",
+      "url": "https://insideparadeplatz.ch/2026/06/10/gierige-fifa-vor-leeren-wm-raengen/",
+      "summary": "",
+      "published": "2026-06-10T06:01:13.922799+00:00"
     }
   ]
 }
