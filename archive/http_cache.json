@@ -1,16 +1,16 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Wed, 10 Jun 2026 06:18:10 GMT",
-    "etag": "\"34d212d17d932171e752ac3cc7f71d6a\""
+    "last_modified": "Wed, 10 Jun 2026 06:56:50 GMT",
+    "etag": "\"7e10038ea484e19dc3e9b04a6bf7578c\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"18e5a-YJGxoMf00SiOBoPtbQa9I+hHVmg\""
+    "etag": "W/\"18e3d-tDTHEhHJKpxvt3StHsptITtmdKE\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"ea34-HMz5gn5VhHSnyGvg/jrMqBr+57w\""
+    "etag": "W/\"ea0a-c1kHkkx06y/v5lcoFD97hK8+XTk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"e90e-dg0Gqv+ehhkoIdi7LZrAc1Vj8e8\""
+    "etag": "W/\"e8e6-P57ZrFujqy7VkTTbmHWaZ8t/8RQ\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Wed, 10 Jun 2026 05:53:15 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1781068273\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 10 Jun 2026 06:35:02 GMT"
+    "last_modified": "Wed, 10 Jun 2026 06:58:31 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Wed, 10 Jun 2026 06:27:28 GMT",
     "etag": "\"1978c4c2f8be924f64442ad68fa9dc29\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"e47f-nlf+JMOYEKkjktCnek1gUjDpr1c\""
+    "etag": "W/\"e457-QQbHY4HUwk20p9BUHB6zHi6PLg4\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"e52f-WlsPGbQSiGuskR94mquEqfpYKg0\""
+    "etag": "W/\"e5e6-sYUamVJIh3w/5KGQMYmCWKcx4UI\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Wed, 10 Jun 2026 05:59:00 GMT",
@@ -44,7 +44,7 @@
     "etag": "\"1781071140\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
-    "etag": "W/\"216d5-zznuustXv5evW1WHnKBKd2nDHkg\""
+    "etag": "W/\"21715-QJ+43WnCg7fFjm8iwI/iAVo5JAA\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=14": {
     "last_modified": "Tue, 09 Jun 2026 09:03:03 GMT",
