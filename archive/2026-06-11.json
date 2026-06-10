@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-10T23:04:48.444472+00:00",
+  "generated": "2026-06-10T23:31:51.785378+00:00",
   "date": "2026-06-11",
-  "count": 2,
+  "count": 4,
   "articles": [
     {
       "source": "Persönlich",
@@ -16,6 +16,20 @@
       "url": "https://www.persoenlich.com/kategorie-werbung/wasser-als-formbares-material",
       "summary": "Die erste Kampagne für Geberit nach Pitch-Gewinn läuft in 15 Ländern an. Dieser Teil sei ein «Prolog».",
       "published": "2026-06-10T22:02:22.717517+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Fiese Masche mit Fake-Blick-Artikel: «Ich hatte keine Zeit zum Überlegen – dann waren 500 Franken weg»",
+      "url": "https://www.blick.ch/schweiz/zuerich/fiese-masche-mit-fake-blick-artikel-ich-hatte-keine-zeit-zum-ueberlegen-dann-waren-500-franken-weg-id22018546.html",
+      "summary": "Ein gefälschter Blick-Artikel wird Milos J. (36) zum Verhängnis. Der Zürcher landet auf einer dubiosen Online-Handels-Plattform und verliert Geld. Kein Einzelfall, wie frühere Berichte zeigen.",
+      "published": "2026-06-10T23:31:51.785378+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump schwänzt den WM-Auftakt der USA",
+      "url": "https://www.20min.ch/story/fussball-wm-trump-schwaenzt-bei-wm-auftakt-der-usa-103580212",
+      "summary": "Ausgerechnet beim ersten WM-Spiel der US-Nationalmannschaft im eigenen Land wird US-Präsident Donald Trump nicht dabei sein.",
+      "published": "2026-06-10T23:31:51.785378+00:00"
     }
   ]
 }
