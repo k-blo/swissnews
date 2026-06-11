@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-11T03:31:35.135207+00:00",
+  "generated": "2026-06-11T04:02:06.271080+00:00",
   "date": "2026-06-11",
-  "count": 127,
+  "count": 163,
   "articles": [
     {
       "source": "Persönlich",
@@ -891,6 +891,258 @@
       "url": "https://www.aargauerzeitung.ch/sport/aargau/fc-baden-vor-herkulesaufgabe-kann-der-fc-aarau-helfen-ld.4182394",
       "summary": "",
       "published": "2026-06-11T03:31:35.135207+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Städtische Mindestlöhne – Freud und Frust über Bundesgerichtsurteil zu Mindestlöhnen",
+      "url": "https://www.srf.ch/news/schweiz/staedtische-mindestloehne-freud-und-frust-ueber-bundesgerichtsurteil-zu-mindestloehnen",
+      "summary": "Die Gewerkschaften und Linken sehen sich bestätigt. Sie hoffen auf einen Meinungsumschwung in letzter Minute.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Aufrüstung in der Schweiz – Bundesrat Pfister: «Mein Büro wäre nicht vor Drohnen geschützt»",
+      "url": "https://www.srf.ch/news/schweiz/aufruestung-in-der-schweiz-bundesrat-pfister-mein-buero-waere-nicht-vor-drohnen-geschuetzt",
+      "summary": "Er will die Verteidigung der Schweiz stärken. SRF hat Bundesrat Martin Pfister eine Woche lang begleitet.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tamedia-Umfrage: 10-Millionen-Initiative, Zivil­dienstreform: Wie haben Sie abge­stimmt?",
+      "url": "https://www.tagesanzeiger.ch/abstimmung-14-juni-jetzt-an-nachbefragung-teilnehmen-453390283727",
+      "summary": "Am Sonntag stimmt die Schweiz ab. Sagen Sie uns, was auf Ihrem Stimmzettel steht.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Petition lanciert: Familienzentrum vor dem Aus – doch Adliswils Familien geben nicht auf",
+      "url": "https://www.tagesanzeiger.ch/adliswil-ig-lanciert-petition-gegen-schliessung-von-familienzentrum-663169921637",
+      "summary": "Das Parlament hat dem Familienzentrum den Kredit verweigert – mit nur zwei Stimmen Unterschied. Nun kämpft eine Interessengemeinschaft unter dem Motto «Wir bleiben» für den Erhalt.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Glattalbahn Kloten: Naturschützer wollen Glattalbahnverlängerung in Kloten stoppen",
+      "url": "https://www.tagesanzeiger.ch/glattalbahn-kloten-naturschuetzer-wollen-kredit-stoppen-578909063158",
+      "summary": "Am 15. Juni stimmt der Kantonsrat über die staatlichen Beiträge für die Verlängerung der Glattalbahn nach Kloten ab.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Mühleberg vor wichtigem Entscheid: Deponie Teuftal soll mehr Platz erhalten, um Entsorgungsengpass zu verhindern",
+      "url": "https://www.bernerzeitung.ch/deponie-teuftal-muehleberg-stimmt-ueber-erhoehung-ab-904786227580",
+      "summary": "Mitte Juni entscheidet die Gemeindeversammlung Mühleberg über eine Erhöhung der Deponie Teuftal. Eine kommunale Entscheidung mit nationaler Tragweite.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Brisante Schulraumpläne: Burgdorf will bei Bedarf eine «grüne Oase» für ein Schulhaus aufgeben",
+      "url": "https://www.bernerzeitung.ch/burgdorf-petition-gegen-schulhaus-im-gyripark-528809531690",
+      "summary": "Klappt andernorts die Erweiterung nicht, möchte Burgdorf im Gyrischachenquartier mitten im Park ein Schulhaus bauen. Bereits macht sich Widerstand bemerkbar.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wechsel in Uebeschi: «Ein wichtiger Treffpunkt für die Bevölkerung»: Zwei junge Männer retten die Dorfkäserei",
+      "url": "https://www.bernerzeitung.ch/kaeserei-uebeschi-zwei-junge-uebernehmen-traditionsbetrieb-402085307283",
+      "summary": "Jan Durtschi und Matthias Wenger übernehmen die traditionsreiche Käserei in Uebeschi. Sie wollen eine fast vergessene regionale Spezialität wiederbeleben.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Motorengeheul mitten im Quartier: «Bitte leise fahren»: Der Bund will höflich gegen Autoposer vorgehen – den Städten reicht das nicht",
+      "url": "https://www.bernerzeitung.ch/autoposer-in-bern-stadt-fordert-laermblitzer-124924336223",
+      "summary": "In Bern sind die Autoposer unterwegs. Mit ihren Fahrzeugen sorgen sie auch in Wohnquartieren für Ärger. Die Städte fordern vom Bund die Zulassung von Lärmblitzern, doch dieser winkt ab.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Banken-Rochade in Thun: Bank Cler zieht nächste Woche um – Raiffeisenbank steht in den Startlöchern",
+      "url": "https://www.bernerzeitung.ch/bank-cler-thun-umzug-in-ex-cs-filiale-an-der-aarestrasse-888680788645",
+      "summary": "Am 15. Juli bezieht die Bank Cler ihre neue Filiale im ehemaligen CS-Standort beim Kino Rex. Derweil startet die Raiffeisen im Juli mit dem Umbau am frei werden Gebäude im Bälliz.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Foodtruck im Gundeli: «Gipfeli, Weggli, Zopf – ich wünschte mir eine gesündere Ernährung»: Dieser Basler will Hafer als Super­food etablieren",
+      "url": "https://www.bazonline.ch/haferey-basel-startup-will-hafer-zum-trend-food-machen-307225619442",
+      "summary": "Samy Küng’s Haferey bietet süsse und pikante Gerichte aus diesem Getreide an. Nach einer Testphase auf dem Meret-Oppenheim-Platz sucht er ein festes Lokal.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Caran d’Ache: Plastikmüll von südostasiatischen Stränden landet in Schweizer Filzstiften",
+      "url": "https://www.bazonline.ch/caran-dache-produziert-kuenftig-stifte-aus-recycling-plastik-156560429418",
+      "summary": "Die in Basel und Lengnau BE beheimatete Tide Ocean liefert den Recyclingkunststoff für die bunten Stifte. Rund 270 Angestellte in Südostasien sammeln dazu Plastikmüll am Strand.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Kritische Berichterstattung grundsätzlich zulässig: Vergleichsweise Streitbeilegung mit der Wirtschaftskammer Baselland",
+      "url": "https://www.bazonline.ch/basler-zeitung-einigt-sich-mit-wirtschaftskammer-baselland-184394506669",
+      "summary": "Die Basler Zeitung und die Wirtschaftskammer Baselland beenden einen jahrelangen Rechtsstreit mit einem Vergleich.",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wie viele Parkplätze in der Stadt Zürich wirklich abgebaut wurden – und was Velos damit zu tun haben",
+      "url": "https://www.nzz.ch/zuerich/wie-viele-parkplaetze-in-der-stadt-zuerich-wirklich-abgebaut-wurden-und-was-velos-damit-zu-tun-haben-ld.10008303",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "In Trub im Emmental ist die 10-Millionen-Schweiz weit weg – aber die Idylle ist bedroht, egal wie am Sonntag abgestimmt wird",
+      "url": "https://www.nzz.ch/schweiz/in-trub-im-emmental-ist-die-10-millionen-schweiz-weit-weg-aber-die-idylle-ist-bedroht-egal-wie-am-sonntag-abgestimmt-wird-ld.10006051",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK - Die Übernahme der Commerzbank ist ein normaler Vorgang. Ihre Blockade ist zwecklos.",
+      "url": "https://www.nzz.ch/der-andere-blick/die-uebernahme-der-commerzbank-ist-ein-normaler-vorgang-ihre-blockade-ist-zwecklos-ld.10010813",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ AKZENT» - USA und Mexiko: eine komplizierte Fussball-Beziehung",
+      "url": "https://www.nzz.ch/podcast/usa-und-mexiko-eine-komplizierte-fussball-beziehung-ld.10010758",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Preise in Amerika steigen immer schneller an: Der Iran-Krieg hinterlässt deutliche Spuren in der US-Wirtschaft",
+      "url": "https://www.nzz.ch/wirtschaft/die-preise-in-amerika-steigen-immer-schneller-an-der-iran-krieg-hinterlaesst-deutliche-spuren-in-der-us-wirtschaft-ld.10010725",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Jeffrey Epstein habe ihn erpressen wollen, sagt Bill Gates vor dem Kongressausschuss",
+      "url": "https://www.nzz.ch/international/bill-gates-vor-kongress-epstein-erpressung-und-skandale-ld.10010724",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "SpaceX wird der grösste Börsengang der Geschichte: Das sind die zehn wichtigsten Fragen und Antworten dazu",
+      "url": "https://www.nzz.ch/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "10-Millionen-Schweiz: Die Schweiz muss es besser machen als das Ausland",
+      "url": "https://www.nzz.ch/pro/10-millionen-schweiz-die-schweiz-muss-es-besser-machen-als-das-ausland-ld.10010687",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Zuwanderung und Ständemehr: Das Parlament muss entscheiden, wie ernst es die Verfassung nimmt",
+      "url": "https://www.nzz.ch/schweiz/zuwanderung-und-staendemehr-das-parlament-muss-entscheiden-wie-ernst-es-die-verfassung-nimmt-ld.10010651",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Sind amerikanische Leben mehr wert als unsere?» Eine Stadt in Kenya steht kopf, weil die USA dort ein Ebola-Quarantänezentrum für ihre Bürger bauen",
+      "url": "https://www.nzz.ch/international/proteste-in-kenya-streit-um-us-ebola-zentrum-in-nanyuki-ld.10010646",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Getäuscht mit Gold aus der Schweiz? Ein Finanzskandal in Indien führt nach Luzern und ins Tessin",
+      "url": "https://www.nzz.ch/wirtschaft/valcambi-schweizer-goldraffinerie-steht-im-zentrum-von-bilanzskandal-in-indien-ld.10010591",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ MACHTSPIEL» - Wie wird mit Umfragen Politik gemacht, Thomas Petersen?",
+      "url": "https://www.nzz.ch/podcast/wie-wird-mit-umfragen-politik-gemacht-thomas-petersen-ld.10010588",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nationalhelden oder Massenmörder? Ein Streit mit historischem Hintergrund eskaliert zwischen Warschau und Kiew",
+      "url": "https://www.nzz.ch/international/ukraine-und-polen-in-schwerster-krise-seit-kriegsbeginn-ld.10010575",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Das F-Wort zieht immer: Die Linke hat Faschismus zum Kampfbegriff gemacht. Dass damit eine menschenverachtende Ideologie verharmlost wird, nimmt sie in Kauf",
+      "url": "https://www.nzz.ch/meinung/das-f-wort-zieht-immer-die-linke-hat-faschismus-zum-kampfbegriff-gemacht-dass-damit-eine-menschenverachtende-ideologie-verharmlost-wird-nimmt-sie-in-kauf-ld.10010509",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Künstliche Intelligenz löst ein 80 Jahre altes Mathe-Rätsel. «Problem-Prompting» könnte die Zukunft der Mathematik sein",
+      "url": "https://www.nzz.ch/wissenschaft/kuenstliche-intelligenz-loest-ein-80-jahre-altes-mathe-raetsel-problem-prompting-koennte-die-zukunft-der-mathematik-sein-ld.10010491",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Preisen und beten – Mette-Marits kranke Lunge mobilisiert Norwegens Kulturschaffende",
+      "url": "https://www.nzz.ch/feuilleton/preisen-und-beten-mette-marits-kranke-lunge-mobilisiert-norwegens-kulturschaffende-ld.10010487",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Wandertipp von Heiden nach Rheineck Wanderung mit Blick über den Bodensee",
+      "url": "https://www.tagblatt.ch/bergundbeiz/wandertipp-von-heiden-nach-rheineck-wanderung-mit-blick-ueber-den-bodensee-ld.4179336",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach Pfiffen in New York: Trump soll WM-Auftakt der USA sausen lassen",
+      "url": "https://www.watson.ch/sport/international/317975262-nach-pfiffen-in-new-york-trump-soll-wm-auftakt-der-usa-sausen-lassen",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Lässt Sie diese Fussball-WM kalt? Wetten, dass sich das bald ändern wird!",
+      "url": "https://www.freiburger-nachrichten.ch/story/270264/l%C3%A4sst-sie-diese-fussballwm-kalt-wetten-dass-sich-das-bald-%C3%A4ndern-wird",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Widerstand gegen On: «Wir müssen die Marke Schweiz schützen»",
+      "url": "https://www.freiburger-nachrichten.ch/story/270328/widerstand-gegen-on-wir-m%C3%BCssen-die-marke-schweiz-sch%C3%BCtzen",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gefährliche Nähe zu Trump: Das könnte Infantino zu Fall bringen",
+      "url": "https://www.freiburger-nachrichten.ch/story/270327/gef%C3%A4hrliche-n%C3%A4he-zu-trump-das-k%C3%B6nnte-infantino-zu-fall-bringen",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sind Sie fit für die WM 2026? Testen Sie Ihr Wissen!",
+      "url": "https://www.freiburger-nachrichten.ch/story/270326/sind-sie-fit-f%C3%BCr-die-wm-2026-testen-sie-ihr-wissen",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "AKW-Verbot: Hat sich Albert Rösti verpokert?",
+      "url": "https://www.freiburger-nachrichten.ch/story/270325/akwverbot-hat-sich-albert-r%C3%B6sti-verpokert",
+      "summary": "",
+      "published": "2026-06-11T04:02:06.271080+00:00"
     }
   ]
 }
