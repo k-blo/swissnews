@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-11T11:56:12.852244+00:00",
+  "generated": "2026-06-11T12:01:56.413469+00:00",
   "date": "2026-06-11",
-  "count": 513,
+  "count": 517,
   "articles": [
     {
       "source": "Persönlich",
@@ -3593,6 +3593,34 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/632468271-mindestlohn-stadt-zuerich-fdp-nationalrat-will-ihn-weiterhin-abschaffen",
       "summary": "",
       "published": "2026-06-11T11:56:12.852244+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verkehr in Zollikon: Kanton saniert Zollikerstrasse für 6,5 Millionen",
+      "url": "https://www.tagesanzeiger.ch/zollikon-kanton-saniert-zollikerstrasse-fuer-6-5-millionen-301407322313",
+      "summary": "Ein 600 Meter langer Abschnitt wird während 18 Monaten instand gesetzt. Die Forderung nach Tempo 30 auf der Strasse fand beim Kanton jedoch kein Gehör.",
+      "published": "2026-06-11T12:01:56.413469+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "OPTICATELIER Murten – wir schauen rein",
+      "url": "https://www.freiburger-nachrichten.ch/story/270392/opticatelier-murten-wir-schauen-rein",
+      "summary": "",
+      "published": "2026-06-11T12:01:56.413469+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gipfelgespräche – Wo der Fels die Leinwand küsst",
+      "url": "https://www.freiburger-nachrichten.ch/story/270386/gipfelgespr%C3%A4che-wo-der-fels-die-leinwand-k%C3%BCsst",
+      "summary": "",
+      "published": "2026-06-11T12:01:56.413469+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "G7-Gipfel: Freiburger Polizei unterstützt in Genf",
+      "url": "https://www.freiburger-nachrichten.ch/story/270380/g7gipfel-freiburger-polizei-unterst%C3%BCtzt-in-genf",
+      "summary": "",
+      "published": "2026-06-11T12:01:56.413469+00:00"
     }
   ]
 }
