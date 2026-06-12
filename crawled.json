@@ -1,6 +1,14 @@
 {
-  "generated": "2026-06-12T22:32:18.955813+00:00",
+  "generated": "2026-06-12T23:02:28.984727+00:00",
   "date": "2026-06-13",
-  "count": 0,
-  "articles": []
+  "count": 1,
+  "articles": [
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Digitalgeld-Unternehmer: Ex-Krypto-König Bankman-Fried scheitert mit Berufungsantrag",
+      "url": "https://www.tagesanzeiger.ch/ex-krypto-koenig-sam-bankman-fried-ftx-gruender-berufung-gescheitert-919324842413",
+      "summary": "Einst wurde Sam Bankman-Fried als Finanzgenie und Galionsfigur einer Zukunftswelt des Digitalgelds gefeiert. Mit einem Einspruch gegen seine Verurteilung als Betrüger blitzt er nun vor Gericht ab.",
+      "published": "2026-06-12T23:02:28.984727+00:00"
+    }
+  ]
 }
