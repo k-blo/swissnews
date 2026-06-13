@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-13T18:02:22.538909+00:00",
+  "generated": "2026-06-13T18:32:48.925339+00:00",
   "date": "2026-06-13",
-  "count": 509,
+  "count": 511,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -3565,6 +3565,20 @@
       "url": "https://www.infosperber.ch/freiheit-recht/menschenrechte/amnesty-wirft-israel-ethnische-saeuberung-vor/",
       "summary": "",
       "published": "2026-06-13T18:02:22.538909+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Niederländischer Tourist in der Schweiz vermisst",
+      "url": "https://www.20min.ch/story/chillon-vd-niederlaendischer-tourist-in-der-schweiz-vermisst-103581914",
+      "summary": "Seit Freitag fehlt von Hubertus P., der in der Region Chillon VD zu Besuch war, jede Spur.",
+      "published": "2026-06-13T18:32:48.925339+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Katar – Schweiz in San Francisco: WM live im SRF Stream und Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/226800941-katar-schweiz-in-san-francisco-wm-live-im-srf-stream-und-ticker",
+      "summary": "",
+      "published": "2026-06-13T18:32:48.925339+00:00"
     }
   ]
 }
