@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-13T23:02:19.933602+00:00",
+  "generated": "2026-06-13T23:32:14.423254+00:00",
   "date": "2026-06-14",
-  "count": 6,
+  "count": 7,
   "articles": [
     {
       "source": "Blick",
@@ -44,6 +44,13 @@
       "url": "https://www.watson.ch/sport/fussball/991775152-wm-2026-nati-trainer-murat-yakin-nach-katar-remis-es-ist-aufgegangen",
       "summary": "",
       "published": "2026-06-13T23:02:19.933602+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Pas compris»: Fehlende Franz-Kenntnisse führen fast zu Kollision",
+      "url": "https://www.20min.ch/story/sbb-entgeht-unglueck-pas-compris-fehlende-franz-kenntnisse-fuer-fast-zu-zugkollision-103582187",
+      "summary": "Weil sich ein Deutschschweizer Lokomotivführer und die französischsprachige Betriebszentrale nicht verständigen konnten, stiessen in Neuenburg-Vauseyon fast zwei Züge zusammen.",
+      "published": "2026-06-13T23:32:14.423254+00:00"
     }
   ]
 }
