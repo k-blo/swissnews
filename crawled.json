@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-14T07:01:56.707052+00:00",
+  "generated": "2026-06-14T07:31:40.398893+00:00",
   "date": "2026-06-14",
-  "count": 148,
+  "count": 161,
   "articles": [
     {
       "source": "Blick",
@@ -1038,6 +1038,97 @@
       "url": "https://www.infosperber.ch/bildung/__trashed-802__trashed/",
       "summary": "",
       "published": "2026-06-14T07:01:56.707052+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Verkehrsunfall auf der A3: Mann (58) schwer verletzt",
+      "url": "https://www.20min.ch/story/boezbergtunnel-verkehrsunfall-auf-der-a3-mann-58-schwer-verletzt-103582304",
+      "summary": "Ein 58-jähriger Autofahrer ist in der Nacht auf Sonntag bei einem schweren Unfall im Bözbergtunnel auf der A3 verletzt worden.",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall im Bözbergtunnel: Autofahrer kollidiert mit Randstein und prallt gegen die Tunnelwand",
+      "url": "https://www.tagesanzeiger.ch/boezbergtunnel-58-jaehriger-nach-unfall-schwer-verletzt-969063787148",
+      "summary": "In der Nacht auf Sonntag verlor ein Autofahrer im Bözbergtunnel die Kontrolle über sein Fahrzeug und prallte gegen die Tunnelwand. Das Auto erlitt Totalschaden, der Lenker (58) wurde schwer verletzt.",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie KI-Chatbots zu besseren Lern-Coaches werden",
+      "url": "https://www.netzwoche.ch/news/2026-06-14/wie-ki-chatbots-zu-besseren-lern-coaches-werden",
+      "summary": "Viele KI-Systeme beantworten Fragen in Sekunden – und verhindern dabei oft genau das, was Lernen ausmacht: eigenes Denken. Der Machine-Learning-Experte Jakub Mačina entwickelt deshalb Modelle, die Sch",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gute Daten helfen Mensch und Maschine",
+      "url": "https://www.netzwoche.ch/news/2026-06-14/gute-daten-helfen-mensch-und-maschine",
+      "summary": "Künstliche Intelligenz verändert, wie Informationen entstehen und Entscheidungen getroffen werden. Doch die Leistungsfähig­keit der KI hängt entscheidend von einer oft übersehenen Grundlage ab: der AI",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Grosseinsatz im Thurgau: Flohmarkt-Gelände in Kreuzlingen evakuiert",
+      "url": "https://www.nzz.ch/panorama/grosseinsatz-im-thurgau-flohmarkt-gelaende-in-kreuzlingen-evakuiert-ld.10011240",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Appenzeller Kantonalturnfest die Schönsten Bilder",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/appenzeller-kantonalturnfest-die-schoensten-bilder-ld.4184831",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ex-Krypto-König Bankman-Fried scheitert mit Berufungsantrag",
+      "url": "https://www.watson.ch/international/usa/998339518-ex-krypto-koenig-bankman-fried-scheitert-mit-berufungsantrag",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der Kampf um Billigpreise und unserer Ernährung samt ihrem Wert",
+      "url": "https://www.watson.ch/schweiz/blogs/427207042-der-kampf-um-billigpreise-und-unserer-ernaehrung-samt-ihrem-wert",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Tijjani Reijnders verrückter Weg an die Weltspitze",
+      "url": "https://www.watson.ch/sport/fussball/892870903-wm-2026-tijjani-reijnders-verrueckter-weg-an-die-weltspitze",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM-Auftaktspiel Katar - Schweiz: So war die Stimmung",
+      "url": "https://www.watson.ch/sport/videos/709942282-wm-auftaktspiel-katar-schweiz-so-war-die-stimmung",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Palantir-Boss Karp baut Riesenvilla in Liechtenstein",
+      "url": "https://www.watson.ch/digital/international/870042314-palantir-boss-karp-baut-riesenvilla-in-liechtenstein",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Ukraine greift Russland erneut mit Drohnen an",
+      "url": "https://www.watson.ch/international/russland/474501411-die-ukraine-greift-russland-erneut-mit-drohnen-an",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zwei Velofahrer nach Unfällen schwer verletzt",
+      "url": "https://www.freiburger-nachrichten.ch/story/270647/zwei-velofahrer-nach-unf%C3%A4llen-schwer-verletzt",
+      "summary": "",
+      "published": "2026-06-14T07:31:40.398893+00:00"
     }
   ]
 }
