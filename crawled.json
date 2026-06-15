@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-15T19:01:27.770551+00:00",
+  "generated": "2026-06-15T19:31:32.371335+00:00",
   "date": "2026-06-15",
-  "count": 921,
+  "count": 926,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6449,6 +6449,41 @@
       "url": "https://www.bote.ch/nachrichten/kultur/nina-wehrle-aus-luzern-holt-preis-fuer-eines-der-schoensten-deutschen-buecher-art-1708243",
       "summary": "",
       "published": "2026-06-15T19:01:27.770551+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Abstimmung in Zürich: «Kein Misstrauensvotum»: Balthasar Glättli reagiert auf knappes Schulhaus-Ja",
+      "url": "https://www.tagesanzeiger.ch/schulhaus-hoeckler-knappes-ja-wirft-fragen-auf-618797419798",
+      "summary": "Nur 55,7 Prozent stimmten dem Schulhaus Höckler in der Manegg zu – ein Tiefstwert für Schulhausbauten. Der neue Schulvorsteher will von sinkender Akzeptanz für die Schulplanung nichts wissen.",
+      "published": "2026-06-15T19:31:32.371335+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Das ist zum Iran-Deal bekannt",
+      "url": "https://www.watson.ch/international/iran/700543648-das-ist-zum-iran-deal-bekannt",
+      "summary": "",
+      "published": "2026-06-15T19:31:32.371335+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Guy Parmelin empfängt Staatschefs vor G7-Gipfel",
+      "url": "https://www.watson.ch/schweiz/international/934962610-guy-parmelin-empfaengt-staatschefs-vor-g7-gipfel",
+      "summary": "",
+      "published": "2026-06-15T19:31:32.371335+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Autonomes Fahren: Tesla schiesst PR-Eigentor",
+      "url": "https://www.watson.ch/digital/auto/322722861-autonomes-fahren-tesla-schiesst-pr-eigentor",
+      "summary": "",
+      "published": "2026-06-15T19:31:32.371335+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Mit Daniel Gygax kehrt eine schillernde Figur zum FCL zurück",
+      "url": "https://www.freiburger-nachrichten.ch/story/270912/mit-daniel-gygax-kehrt-eine-schillernde-figur-zum-fcl-zur%C3%BCck",
+      "summary": "",
+      "published": "2026-06-15T19:31:32.371335+00:00"
     }
   ]
 }
