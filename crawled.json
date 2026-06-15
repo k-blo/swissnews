@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-15T13:31:38.928071+00:00",
+  "generated": "2026-06-15T14:01:34.419282+00:00",
   "date": "2026-06-15",
-  "count": 626,
+  "count": 680,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -4384,6 +4384,384 @@
       "url": "https://rathuus.ch/wie-planzer-und-coop-den-stau-auf-der-strasse-umfahren/",
       "summary": "",
       "published": "2026-06-15T13:31:38.928071+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Recycling von Zügen – Aus alten SBB-Zügen werden neue Fassaden und Möbel",
+      "url": "https://www.srf.ch/news/schweiz/recycling-von-zuegen-aus-alten-sbb-zuegen-werden-neue-fassaden-und-moebel",
+      "summary": "Das ist Kreislaufwirtschaft: Aus den Bestandteilen von alten SBB-Zügen können neue Möbel oder Fassaden gefertigt werden.",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wegen Touri-Visa: USA drohen Influencern mit Abschiebung",
+      "url": "https://www.20min.ch/story/waehrend-wm-wegen-touri-visa-usa-drohen-influencern-mit-abschiebung-103581355",
+      "summary": "Für die Fussball-Weltmeisterschaft reisen zahlreiche Fans und Influencer in die USA. Nun nimmt die Regierung ausländische Content Creator ins Visier: Wer ohne Arbeitsvisum postet, riskiert die Ausscha",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Amazon-Forscher tricksen Claude aus, USA ziehen den Stecker",
+      "url": "https://www.20min.ch/story/ki-streit-amazon-forscher-tricksen-claude-aus-usa-ziehen-den-stecker-103583341",
+      "summary": "Anthropic musste Fable 5 und Mythos 5 vom Netz nehmen. Auslöser war ein Test bei Amazon. Im Hintergrund streitet die KI-Firma mit dem Pentagon.",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Paar stahl bei 83 Delikten Ware im Wert von über 135'000 Franken",
+      "url": "https://www.20min.ch/story/luzern-paar-stahl-bei-83-delikten-ware-im-wert-von-ueber-135-000-franken-103583489",
+      "summary": "Der Luzerner Polizei ist es gelungen, ein Diebespaar zu überführen. Die Staatsanwaltschaft hat für die Eheleute Untersuchungshaft beantragt.",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bärin fällt betäubt zu Boden – Retter werden heftig kritisiert",
+      "url": "https://www.20min.ch/video/user-reagiern-empoert-auf-baerenrettung-in-arizona-103579393",
+      "summary": "In der Kleinstadt Sahuarita, USA, zog sich eine Bärin mitten im Wohngebiet auf einen Baum zurück. Die Betäubung und die Rettung sorgen online für Empörung. Der Grund: Die Retter unterschätzten offenba",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "ÖV-Ausbau: Kantonsrat sagt Ja zu Millionen für Glattalbahn – auch der umstrittene Veloweg wird bewilligt",
+      "url": "https://www.tagesanzeiger.ch/glattalbahn-kantonsrat-spricht-290-millionen-franken-415775975454",
+      "summary": "Das Zürcher Kantonsparlament hat 290 Millionen Franken für die Verlängerung der Glattalbahn bewilligt. Die SVP scheiterte mit ihrem Versuch, den Betrag für den Veloverkehr zu kürzen.",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "21-Millionen-Projekt: Männedorf sucht Gastronomen für neues Sportbistro im Widenbad",
+      "url": "https://www.tagesanzeiger.ch/maennedorf-sucht-betreiber-fuer-sportbistro-im-widenbad-393068829452",
+      "summary": "Die Gemeinde baut ihre Fussballanlage zum polysportiven Freizeitzentrum aus. Für das Bistro mit Seesicht läuft nun die Ausschreibung.",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich AG: Zürichs Flughafen in Indien nimmt Linienverkehr auf",
+      "url": "https://www.tagesanzeiger.ch/zuerichs-flughafen-in-indien-nimmt-linienverkehr-auf-381751137264",
+      "summary": "Der erste Linienflug ist in Noida gelandet. Für die Flughafen Zürich AG ist es ein Meilenstein. Doch warum dauerte der Bau so viel länger als ursprünglich geplant?",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Polizei schnappt mutmassliches Diebespaar in Luzern",
+      "url": "https://www.zentralplus.ch/news/polizei-schnappt-mutmassliches-diebespaar-in-luzern-2878174/",
+      "summary": "Ein Ehepaar soll im Kanton Luzern über längere Zeit Pakete geplündert haben. Die Polizei nahm die beiden nun fest und fand bei ihnen mutmassliches Diebesgut. Die Luzerner Polizei hat am Samstag im Kan",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Zuger KB mit neuem Leiter Private Banking",
+      "url": "https://www.finews.ch/news/banken/72557-zuger-kantonalbank-alex-mueller-leiter-private-banking-chief-investment-officer",
+      "summary": "Die Zuger Kantonalbank hat Alex Müller zum neuen Leiter Private Banking ernannt. Der Betriebsökonom ist schon seit 16 Jahren als Chief Investment Officer und Leiter Investment Office für die Bank täti",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Abraxas mit neuem Chefentwickler und neuem VRP",
+      "url": "https://www.finews.ch/news/finanzplatz/72556-abraxas-it-dienstleisters-markus-gemperle-verwaltungsratspraesident-gewaehlt-simon-spalinger-wechselt-vom-vr-in-die-geschaeftsleitung-chefentwickler",
+      "summary": "Die Aktionäre des IT-Dienstleisters haben Markus Gemperle zum neuen Verwaltungsratspräsidenten gewählt. Simon Spalinger wechselt vom VR in die Geschäftsleitung und wird «Chefentwickler» bei Abraxas.",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Thank You For The Music",
+      "url": "https://www.persoenlich.com/blog/thank-you-for-the-music",
+      "summary": "«Mamma Mia» in Zürich restlos ausverkauft – doch der Maag-Halle droht der Abriss.",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Ex-Helvetia-Manager wird VR-Präsident",
+      "url": "https://www.persoenlich.com/digital/ex-helvetia-manager-wird-vr-prasident",
+      "summary": "Markus Gemperle präsidiert neu den Verwaltungsrat des St. Galler IT-Dienstleisters. Er folgt auf Matthias Kaiserswerth, der seit 2019 präsidiert hatte und nicht mehr antrat. Zugleich weist das Unterne",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Schweizer Monat",
+      "title": "Mut zur Zersplitterung Europas",
+      "url": "https://schweizermonat.ch/mut-zur-zersplitterung-europas/",
+      "summary": "Europa verdankte seinen Aufstieg dem Wettbewerb zwischen Städten, Kantonen und Staaten. Die Zentralisierung in Brüssel schwächt heute ausgerechnet jene Kräfte, die den Kontinent stark gemacht haben.\nS",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Evian der Heimliche Star am G7 Gipfel ist das Mineralwasser",
+      "url": "https://www.suedostschweiz.ch/news/evian-der-heimliche-star-am-g7-gipfel-ist-das-mineralwasser-1925431",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Marc Sway zum Lake And Sound das Wichtigste ist Nicht die Perfektion Sondern das Herz",
+      "url": "https://www.suedostschweiz.ch/linth/marc-sway-zum-lake-and-sound-das-wichtigste-ist-nicht-die-perfektion-sondern-das-herz-1907879",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wahl Check Graubünden Zwischen Svp Sieg Frauen Power und Kuriosen Zahlen",
+      "url": "https://www.suedostschweiz.ch/graubuenden/wahl-check-graubuenden-zwischen-svp-sieg-frauen-power-und-kuriosen-zahlen-1925439",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Fidea Design Schafft Plätze für Arbeitsintegration",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-fidea-design-schafft-plaetze-fuer-arbeitsintegration-ld.4183798",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Wohlen was Passiert mit dem Manor Block",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/wohlen-was-passiert-mit-dem-manor-block-ld.4183607",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Obergericht Solothurn Verurteilt Brandstifter von Laupersdorf",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/obergericht-solothurn-verurteilt-brandstifter-von-laupersdorf-ld.4186243",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Der Kirchenchor Schenkt Sich und der Kirche eine Chororgel",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/der-kirchenchor-schenkt-sich-und-der-kirche-eine-chororgel-ld.4186691",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Schützenverein Olten Gösgen Zeigt am Eidgenössischen Flagge",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/schuetzenverein-olten-goesgen-zeigt-am-eidgenoessischen-flagge-ld.4186451",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Eppenberg Wöschnau Ortsbürgergemeinde Aarau Saniert Casa Sana",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/eppenberg-woeschnau-ortsbuergergemeinde-aarau-saniert-casa-sana-ld.4186539",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Freiheitsaxt für Regierungsrat Heinz Tännler",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/freiheitsaxt-fuer-regierungsrat-heinz-taennler-ld.4184735",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Fc Baar Ba Junioren Schaffen den Aufstieg in die 1 Stärkeklasse",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/fc-baar-ba-junioren-schaffen-den-aufstieg-in-die-1-staerkeklasse-ld.4186462",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Erfolgreiches Musical vom Kindermusikzentrum Sagadula",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/erfolgreiches-musical-vom-kindermusikzentrum-sagadula-ld.4186209",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Luzerner Polizei fasst mutmassliches Päckli-Diebespaar",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/554968664-luzerner-polizei-fasst-mutmassliches-paeckli-diebespaar",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Drei Bären in Griechenland illegal getötet – Organisation schlägt Alarm",
+      "url": "https://www.watson.ch/international/griechenland/880110860-drei-baeren-in-griechenland-illegal-getoetet-organisation-schlaegt-alarm",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Beatrice Egli kündigt erste Schauspielrolle an",
+      "url": "https://www.watson.ch/schweiz/people-news/942699304-beatrice-egli-kuendigt-erste-schauspielrolle-an",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brasilien: Frau starb bei Bungee-Sprung ohne Seil – neue Details zum Tod",
+      "url": "https://www.watson.ch/international/brasilien/199293084-brasilien-frau-starb-bei-bungee-sprung-ohne-seil-neue-details-zum-tod",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zu real, um schön zu sein",
+      "url": "https://www.freiburger-nachrichten.ch/story/269790/zu-real-um-sch%C3%B6n-zu-sein",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bücher ausleihen (fast) rund um die Uhr",
+      "url": "https://www.freiburger-nachrichten.ch/story/269126/b%C3%BCcher-ausleihen-fast-rund-um-die-uhr",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Siffert wiederholt im Baskenland ihren Prestige-Sieg",
+      "url": "https://www.freiburger-nachrichten.ch/story/270833/siffert-wiederholt-im-baskenland-ihren-prestigesieg",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Kanton schreibt Stipendium im Bereich der bildenden Künste aus",
+      "url": "https://www.freiburger-nachrichten.ch/story/270402/kanton-schreibt-stipendium-im-bereich-der-bildenden-k%C3%BCnste-aus",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "In drei Ländern geschah es: Die Preise für Wohneigentum fallen plötzlich tief",
+      "url": "https://www.freiburger-nachrichten.ch/story/270840/in-drei-l%C3%A4ndern-geschah-es-die-preise-f%C3%BCr-wohneigentum-fallen-pl%C3%B6tzlich-tief",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "10-Millionen-Initiative: Viele stimmten Nein aus Sorge um die bilateralen Verträge",
+      "url": "https://www.freiburger-nachrichten.ch/story/270841/10millioneninitiative%C2%A0viele-stimmten-nein-aus-sorge-um-die-bilateralen-vertr%C3%A4ge",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Mehrzweckverband Sensebezirk wählt neue Organe",
+      "url": "https://www.freiburger-nachrichten.ch/story/270776/mehrzweckverband-sensebezirk-w%C3%A4hlt-neue-organe",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Polizeieinsatz in Faoug",
+      "url": "https://www.freiburger-nachrichten.ch/story/270814/polizeieinsatz-in-faoug",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Brasserie hat einen neuen Gastgeber",
+      "url": "https://www.freiburger-nachrichten.ch/story/269919/die-brasserie-hat-einen-neuen-gastgeber",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Economiesuisse-Präsident Mäder nach der Abstimmung: «Die grössere Herausforderung beginnt jetzt»",
+      "url": "https://www.freiburger-nachrichten.ch/story/270823/economiesuissepr%C3%A4sident-m%C3%A4der-nach-der-abstimmung-die-gr%C3%B6ssere-herausforderung-beginnt-jetzt",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Absage an ein weltfremdes Experiment»: So berichtet die Welt über das Nein zur 10-Millionen-Schweiz",
+      "url": "https://www.freiburger-nachrichten.ch/story/270815/absage-an-ein-weltfremdes-experiment-so-berichtet-die-welt-%C3%BCber-das-nein-zur-10millionenschweiz",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Last Minute»: Beratung für Jugendliche ohne Lehrstelle",
+      "url": "https://www.freiburger-nachrichten.ch/story/270219/last-minute-beratung-f%C3%BCr-jugendliche-ohne-lehrstelle",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "La Chassotte im Mittelpunkt",
+      "url": "https://www.freiburger-nachrichten.ch/story/269474/la-chassotte-im-mittelpunkt",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "10-Millionen-Pleite: «Die SVP hat ihren wichtigsten Hebel verloren»",
+      "url": "https://www.freiburger-nachrichten.ch/story/270796/10millionenpleite-die-svp-hat-ihren-wichtigsten-hebel-verloren",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Jürgen Klopp bringt sich als Nationaltrainer ins Spiel – und muss sich bei Nagelsmann entschuldigen",
+      "url": "https://www.freiburger-nachrichten.ch/story/270816/j%C3%BCrgen-klopp-bringt-sich-als-nationaltrainer-ins-spiel-und-muss-sich-bei-nagelsmann-entschuldigen",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bei der Partnerwahl oder im Restaurant: Wann sollte man aufhören zu suchen?",
+      "url": "https://www.freiburger-nachrichten.ch/story/270369/bei-der-partnerwahl-oder-im-restaurant-wann-sollte-man-aufh%C3%B6ren-zu-suchen",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wohneigentum soll Freude machen – nicht zum Stressfaktor werden",
+      "url": "https://www.freiburger-nachrichten.ch/story/267772/wohneigentum-soll-freude-machen-nicht-zum-stressfaktor-werden",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der Sockel hält den Stein im Gleichgewicht",
+      "url": "https://www.freiburger-nachrichten.ch/story/270453/der-sockel-h%C3%A4lt-den-stein-im-gleichgewicht",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach fast zwei Monaten: Bonnie Tyler ist aus dem Koma aufgewacht",
+      "url": "https://www.bote.ch/nachrichten/kultur/bonnie-tyler-ist-aus-dem-koma-aufgewacht-art-1708175",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nati-Stars Xhaka, Akanji und Embolo lassen wieder Coiffeur einfliegen",
+      "url": "https://www.bote.ch/nachrichten/sport/fussball-wm-2026-nati-stars-xhaka-embolo-und-akanji-lassen-coiffeur-einfliegen-art-1708177",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kapo Schwyz schnappt jungen Autodieb in flagranti",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kapo-schwyz-schnappt-jungen-autodieb-in-flagranti-art-1708176",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Drei Bären in Griechenland illegal getötet",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/griechenland-kallisto-fordert-aufklaerung-nach-baerentoetungen-art-1708171",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzerner Design-Label schafft Plätze für Arbeitsintegration",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-fidea-design-schafft-plaetze-fuer-arbeitsintegration-art-1708169",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Es passiert selten, doch in drei Ländern geschah es: Die Preise für Wohneigentum fallen plötzlich tief",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/immobilien-wo-die-preise-fuer-wohneigentum-ploetzlich-eingebrochen-sind-art-1708093",
+      "summary": "",
+      "published": "2026-06-15T14:01:34.419282+00:00"
     }
   ]
 }
