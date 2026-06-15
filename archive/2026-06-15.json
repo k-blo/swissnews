@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-15T00:01:42.946262+00:00",
+  "generated": "2026-06-15T00:31:26.086305+00:00",
   "date": "2026-06-15",
-  "count": 16,
+  "count": 23,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -114,6 +114,55 @@
       "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-fifa-schreibt-namen-eines-spielers-falsch",
       "summary": "",
       "published": "2026-06-15T00:01:42.946262+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "USA: Absturz eines Flugzeugs mit Fallschirmspringern: Zwölf Tote vermutet",
+      "url": "https://www.tagesanzeiger.ch/flugzeugabsturz-missouri-zwoelf-tote-befuerchtet-788928281495",
+      "summary": "Im US-Bundesstaat Missouri stürzte ein Kleinflugzeug mit Fallschirmspringern an Bord aus noch ungeklärten Gründen ab.",
+      "published": "2026-06-15T00:31:26.086305+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Nur Knappes Ja für Zivildienstreförmchen",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/nur-knappes-ja-fuer-zivildienstrefoermchen",
+      "summary": "",
+      "published": "2026-06-15T00:31:26.086305+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Nein zur Nachhaltigkeitsinitiative Weiter wie Bisher aber wie Lange",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/nein-zur-nachhaltigkeitsinitiative-weiter-wie-bisher-aber-wie-lange",
+      "summary": "",
+      "published": "2026-06-15T00:31:26.086305+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Das Baselbieter Stimmvolk Bestätigt das Verbot von Öl und Gasheizungen",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/das-baselbieter-stimmvolk-bestaetigt-das-verbot-von-oel-und-gasheizungen",
+      "summary": "",
+      "published": "2026-06-15T00:31:26.086305+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Das Iphone und die Sinkende Geburtenrate",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/das-iphone-und-die-sinkende-geburtenrate",
+      "summary": "",
+      "published": "2026-06-15T00:31:26.086305+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Ahv auf dem Weg in den Kollaps",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/die-ahv-auf-dem-weg-in-den-kollaps",
+      "summary": "",
+      "published": "2026-06-15T00:31:26.086305+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Trump-Beauftragter verteidigt Abschiebung von Schiri erneut",
+      "url": "https://www.watson.ch/sport/usa/757304574-wm-2026-trump-beauftragter-verteidigt-abschiebung-von-schiri-erneut",
+      "summary": "",
+      "published": "2026-06-15T00:31:26.086305+00:00"
     }
   ]
 }
