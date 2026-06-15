@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-15T01:01:39.422957+00:00",
+  "generated": "2026-06-15T01:31:52.385416+00:00",
   "date": "2026-06-15",
-  "count": 24,
+  "count": 26,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -170,6 +170,20 @@
       "url": "https://www.watson.ch/international/liveticker/455779172-usa-iran-krieg-oelpreise-fallen-nach-einigung-deutlich",
       "summary": "",
       "published": "2026-06-15T01:01:39.422957+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Demonstration in Genf gegen G7 von Ausschreitungen überschattet",
+      "url": "https://www.watson.ch/schweiz/international/911713578-demonstration-in-genf-gegen-g7-von-ausschreitungen-ueberschattet",
+      "summary": "",
+      "published": "2026-06-15T01:31:52.385416+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: ManUniteds Diallo schiesst Elfenbeinküste zu Sieg gegen Ecuador",
+      "url": "https://www.watson.ch/sport/liveticker/342094762-wm-2026-manuniteds-diallo-schiesst-elfenbeinkueste-zu-sieg-gegen-ecuador",
+      "summary": "",
+      "published": "2026-06-15T01:31:52.385416+00:00"
     }
   ]
 }
