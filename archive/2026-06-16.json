@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-15T23:01:25.558886+00:00",
+  "generated": "2026-06-15T23:31:36.430165+00:00",
   "date": "2026-06-16",
-  "count": 26,
+  "count": 27,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -184,6 +184,13 @@
       "url": "https://www.watson.ch/leben/geld/601295602-eurodreams-glueckspilz-erhaelt-waehrend-30-jahren-22-222-franken-pro-monat",
       "summary": "",
       "published": "2026-06-15T23:01:25.558886+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA-Iran-Krieg: Netanjahu: Ohne Angriffe hätte Iran Atomwaffen",
+      "url": "https://www.watson.ch/international/liveticker/455779172-usa-iran-krieg-netanjahu-ohne-angriffe-haette-iran-atomwaffen",
+      "summary": "",
+      "published": "2026-06-15T23:31:36.430165+00:00"
     }
   ]
 }
