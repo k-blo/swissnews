@@ -4,7 +4,7 @@
     "etag": "\"3188f630c95595fd14a4b41b1859aa3d\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17cad-bV/rOg6QlM/f5As8aCD0cVxE6zI\""
+    "etag": "W/\"17b55-j5uh57x5Q3qaZi57IyEDitBWCBk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
     "etag": "W/\"11547-Ot7UcohMDTtBM4yV28wzGBwQoAw\""
@@ -23,7 +23,7 @@
     "etag": "\"1781644267\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Tue, 16 Jun 2026 21:28:24 GMT"
+    "last_modified": "Tue, 16 Jun 2026 21:58:32 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 16 Jun 2026 13:31:17 GMT",
@@ -36,30 +36,30 @@
     "etag": "W/\"11907-W9IBMnDAtRjpDOnGUm7bgO/cWiE\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Tue, 16 Jun 2026 21:12:26 GMT",
-    "etag": "\"1781644346\""
+    "last_modified": "Tue, 16 Jun 2026 21:33:46 GMT",
+    "etag": "\"1781645626\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Tue, 16 Jun 2026 21:12:26 GMT",
-    "etag": "\"1781644346\""
+    "last_modified": "Tue, 16 Jun 2026 21:33:46 GMT",
+    "etag": "\"1781645626\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
-    "etag": "W/\"21920-HJbFOUAUMZZ1yNru1xfsWtYbWQo\""
+    "etag": "W/\"cb-vNBI8dvR3k21HZQ+ZYmSNW7Hw9s\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=14": {
     "last_modified": "Tue, 16 Jun 2026 07:51:08 GMT",
     "etag": "\"1781596268\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Tue, 16 Jun 2026 21:30:29 GMT",
-    "etag": "W/\"1781645429-gzip\""
+    "last_modified": "Tue, 16 Jun 2026 21:54:05 GMT",
+    "etag": "W/\"1781646845-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Tue, 16 Jun 2026 15:22:38 GMT",
     "etag": "\"bff0c979a9e266e8c783eef7960e7b7d\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Tue, 16 Jun 2026 21:12:01 GMT",
-    "etag": "\"1781644321\""
+    "last_modified": "Tue, 16 Jun 2026 21:55:01 GMT",
+    "etag": "\"1781646901\""
   }
 }
