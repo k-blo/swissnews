@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16T23:02:12.900073+00:00",
+  "generated": "2026-06-16T23:32:28.249816+00:00",
   "date": "2026-06-17",
-  "count": 27,
+  "count": 30,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -191,6 +191,27 @@
       "url": "https://www.watson.ch/sport/fussball/185514302-kein-foul-an-mbappe-das-droht-schiri-nach-entscheid-gegen-frankreich",
       "summary": "",
       "published": "2026-06-16T23:02:12.900073+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Urteil in Brasilien: Sohn von Ex-Präsident Bolsonaro muss wegen Nötigung in Haft",
+      "url": "https://www.tagesanzeiger.ch/brasilien-sohn-von-bolsonaro-wegen-noetigung-verurteilt-379647550436",
+      "summary": "Eduardo Bolsonaro, der Sohn von Ex-Präsident Jair Bolsonaro, wurde zu einer Freiheitsstrafe von vier Jahren und zwei Monaten verurteilt.",
+      "published": "2026-06-16T23:32:28.249816+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "G7 wollen mit neuen Sanktionen Druck auf Russland erhöhen",
+      "url": "https://www.watson.ch/international/russland/400792528-g7-wollen-mit-neuen-sanktionen-druck-auf-russland-erhoehen",
+      "summary": "",
+      "published": "2026-06-16T23:32:28.249816+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Norwegen-Fans gehen mit neuer Wikingertradition viral",
+      "url": "https://www.watson.ch/sport/fussball/803983608-wm-2026-norwegen-fans-gehen-mit-neuer-wikingertradition-viral",
+      "summary": "",
+      "published": "2026-06-16T23:32:28.249816+00:00"
     }
   ]
 }
