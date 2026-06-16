@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16T07:31:28.449463+00:00",
+  "generated": "2026-06-16T08:01:29.016332+00:00",
   "date": "2026-06-16",
-  "count": 298,
+  "count": 317,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -2088,6 +2088,139 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/super-puma-kreist-ueber-baar-und-einsiedeln-art-1708314",
       "summary": "",
       "published": "2026-06-16T07:31:28.449463+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Von der Kita in den Knast – Der Kanton Waadt sucht händeringend Gefängnispersonal",
+      "url": "https://www.srf.ch/news/schweiz/von-der-kita-in-den-knast-der-kanton-waadt-sucht-haenderingend-gefaengnispersonal",
+      "summary": "Volle Gefängnisse, fehlendes Personal: An Infoabenden sollen Menschen für die Arbeit im Strafvollzug begeistert werden.",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nackte Frau (49) verursacht mehrere Unfälle",
+      "url": "https://www.20min.ch/story/menziken-ag-nackte-frau-49-verursachte-mehrere-unfaelle-103584007",
+      "summary": "Eine 49-jährige Frau verursachte in Menziken AG mehrere Unfälle. Passanten verhinderten eine Weiterfahrt.",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ece Irtem (35) feierte Geburtstag – einen Tag später war sie tot",
+      "url": "https://www.20min.ch/story/tuerkische-schauspielerin-ece-irtem-35-feierte-geburtstag-einen-tag-spaeter-war-sie-tot-103584014",
+      "summary": "Die türkische Schauspielerin Ece Irtem ist tot. Ihr Anwalt widerspricht Suizid-Gerüchten – erste Erkenntnisse deuten auf einen Herzinfarkt hin.",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Radioaktivitäts-Messflüge: Darum fliegt diese Woche ein Helikopter tief über Zürich und Zug",
+      "url": "https://www.tagesanzeiger.ch/radioaktivitaet-bund-misst-diese-woche-aus-der-luft-996942901661",
+      "summary": "Ein Super-Puma der Luftwaffe überfliegt Gebiete in Zürich, Zug, Schwyz und Luzern. Die Flüge sollen Referenzdaten für den Ernstfall liefern.",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ausgebeutete Putzfrauen in Gstaad: Die Mutter erhält als Haupttäterin eine Freiheitsstrafe von 6 Jahren",
+      "url": "https://www.tagesanzeiger.ch/regionalgericht-urteil-menschenhandel-gstaad-438244849042",
+      "summary": "Das Regionalgericht in Thun hat ein serbisches Ehepaar und dessen Tochter zu Freiheitsstrafen von bis zu sechs Jahren verurteilt. In rund der Hälfte der vorgeworfenen Fälle gab es Freisprüche.",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Nach Abstimmung zum «Eiger»: Berner Heimatschutz nutzt das Volks-Nein für eine neue Offensive",
+      "url": "https://www.bernerzeitung.ch/kunstmuseum-bern-heimatschutz-fordert-bestandssanierung-119414188552",
+      "summary": "Nach dem Volks-Nein zum 147-Millionen-Projekt «Eiger» will der Berner Heimatschutz den Erweiterungsbau von 1983 langfristig sichern.",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Steuerabzug Basel-Stadt: So funktioniert der neue automatische Steuerabzug vom Lohn",
+      "url": "https://www.bazonline.ch/basel-stadt-was-der-automatische-steuerabzug-bedeutet-169811502671",
+      "summary": "Der Stadtkanton führt als erster Kanton in der Schweiz den direkten Steuerabzug ein. Was Arbeitnehmende jetzt wissen müssen.",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Restaurant Rosengarten: Cham findet neue Pächter",
+      "url": "https://www.zentralplus.ch/gastronomie/restaurant-rosengarten-cham-findet-neue-paechter-2878290/",
+      "summary": "Die Gemeinde Cham hat eine Nachfolge für das Restaurant Rosengart gefunden. Das neue Duo ist in der Zuger Gastro bestens bekannt. Die Gemeinde Cham hat die Nachfolge für das Restaurant Rosengarten ger",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Japan: Zinsen steigen, Nikkei auf neuem Rekord",
+      "url": "https://www.finews.ch/news/finanzplatz/72567-japanische-notenbank-leitzins-nikkei-225-neues-allzeit-hoch",
+      "summary": "Wie erwartet hebt die japanische Notenbank den Leitzins auf 1 Prozent. Dies ist der höchste Stand seit 1995. Der Nikkei-225 steigt erstmals über 70 000 Punkte, das ist ein neues Allzeit-Hoch.&nbsp;",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI-Agent fällt auf Phishing herein und leakt sensible Daten",
+      "url": "https://www.netzwoche.ch/news/2026-06-16/ki-agent-faellt-auf-phishing-herein-und-leakt-sensible-daten",
+      "summary": "Auch KI-Agenten sind nicht vor Phishing-Angriffen gefeit. Tests von Varonis zeigen, dass ein autonomer Agent mit Zugriff auf Unternehmenswerkzeuge sensible Informationen preisgeben kann, wenn er mit s",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Seniorenfahrt der Bürgergemeinde Wangen Bo",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/seniorenfahrt-der-buergergemeinde-wangen-bo-ld.4186767",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Sommergottesdienst Unter Freiem Himmel",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/sommergottesdienst-unter-freiem-himmel-ld.4186800",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Den ganzen Tag Unentschieden gab es bisher noch nie",
+      "url": "https://www.watson.ch/sport/fussball/372471939-wm-2026-den-ganzen-tag-unentschieden-gab-es-bisher-noch-nie",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ständerat will AKW-Thematik nicht an Bundesrat zurückzuweisen",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/928162731-staenderat-will-akw-thematik-nicht-an-bundesrat-zurueckzuweisen",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Inlfation und Zinsen steigen trotz Friedensdeal mit Iran weiter",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/380636668-inlfation-und-zinsen-steigen-trotz-friedensdeal-mit-iran-weiter",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Uff Verdammt",
+      "url": "https://www.infosperber.ch/politik/uff-verdammt/",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Us Konzerne Verschieben Milliarden Gewinne in Steuerparadiese",
+      "url": "https://www.infosperber.ch/wirtschaft/konzerne/us-konzerne-verschieben-milliarden-gewinne-in-steuerparadiese/",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Ich Wünsche Ihm den Sofortigen Ruhestand",
+      "url": "https://www.infosperber.ch/politik/ich-wuensche-ihm-den-sofortigen-ruhestand/",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Minze Richtig Trocknen So Bleiben Aroma und Farbe Erhalten",
+      "url": "https://www.infosperber.ch/gesundheit/ernaehrung/minze-richtig-trocknen-so-bleiben-aroma-und-farbe-erhalten/",
+      "summary": "",
+      "published": "2026-06-16T08:01:29.016332+00:00"
     }
   ]
 }
