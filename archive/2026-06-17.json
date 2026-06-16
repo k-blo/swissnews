@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16T22:32:18.642201+00:00",
+  "generated": "2026-06-16T23:02:12.900073+00:00",
   "date": "2026-06-17",
-  "count": 24,
+  "count": 27,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -170,6 +170,27 @@
       "url": "https://www.bote.ch/service/leserbriefe/150-baeume-art-1708354",
       "summary": "",
       "published": "2026-06-16T22:32:18.642201+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Mutter eines Verhafteten aus der Wetziker Teenie-Gang über das Opfer: «Er wurde gar nicht so schwer verletzt»",
+      "url": "https://www.blick.ch/schweiz/mutter-eines-verhafteten-aus-der-wetziker-teenie-gang-ueber-das-opfer-er-wurde-gar-nicht-so-schwer-verletzt-id22035368.html",
+      "summary": "Nach der brutalen Attacke von Wetzikon werden elf Jugendliche festgenommen. Einige Eltern zeigen sich gegenüber Blick schockiert und überfordert, andere verteidigen ihre Kinder: «Es war gar nicht so s",
+      "published": "2026-06-16T23:02:12.900073+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump entzieht Nato ab sofort wichtige Militärzusage",
+      "url": "https://www.watson.ch/international/eu/204578586-trump-entzieht-nato-ab-sofort-wichtige-militaerzusage",
+      "summary": "",
+      "published": "2026-06-16T23:02:12.900073+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kein Foul an Mbappé? Das droht Schiri nach Entscheid gegen Frankreich",
+      "url": "https://www.watson.ch/sport/fussball/185514302-kein-foul-an-mbappe-das-droht-schiri-nach-entscheid-gegen-frankreich",
+      "summary": "",
+      "published": "2026-06-16T23:02:12.900073+00:00"
     }
   ]
 }
