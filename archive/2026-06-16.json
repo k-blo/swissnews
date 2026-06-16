@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16T00:31:21.275915+00:00",
+  "generated": "2026-06-16T01:01:45.410146+00:00",
   "date": "2026-06-16",
-  "count": 35,
+  "count": 36,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -247,6 +247,13 @@
       "url": "https://www.watson.ch/international/iran/934793508-strasse-von-hormus-mehrere-iranische-schiffe-passieren-us-blockade",
       "summary": "",
       "published": "2026-06-16T00:31:21.275915+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Spaniens Medien mit viel Kritik nach Remis gegen Kap Verde",
+      "url": "https://www.watson.ch/sport/usa/325078724-wm-2026-spaniens-medien-mit-viel-kritik-nach-remis-gegen-kap-verde",
+      "summary": "",
+      "published": "2026-06-16T01:01:45.410146+00:00"
     }
   ]
 }
