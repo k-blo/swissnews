@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16T20:02:19.473094+00:00",
+  "generated": "2026-06-16T20:32:47.458733+00:00",
   "date": "2026-06-16",
-  "count": 910,
+  "count": 914,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6372,6 +6372,34 @@
       "url": "https://rathuus.ch/alle-beitraege/",
       "summary": "",
       "published": "2026-06-16T20:02:19.473094+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Alle News zur WM: Portugals Trainer Martinez tritt nach der WM wohl zurück",
+      "url": "https://www.derbund.ch/fussball-wm-2026-fan-wettet-auf-spanien-und-verliert-1-million-dollar-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli findet in den USA, Mexiko und Kanada die Fussball-WM statt. Alle wichtigen Informationen dazu finden Sie hier.",
+      "published": "2026-06-16T20:32:47.458733+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Frankreich – Senegal im Ticker: Die Franzosen laufen heiss: Mbappé wird der Penalty verwehrt",
+      "url": "https://www.bazonline.ch/fussball-wm-live-frankreich-senegal-um-21-uhr-im-ticker-543957842455",
+      "summary": "Frankreich gilt an der WM als Mitfavorit. Setzt sich das Star-Ensemble gegen Senegal durch? Das Spiel im Ticker.",
+      "published": "2026-06-16T20:32:47.458733+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Fox und FIFA verdienen mit Werbung in Trinkpausen Millionen",
+      "url": "https://www.watson.ch/sport/fussball/478533506-wm-2026-fox-und-fifa-verdienen-mit-werbung-in-trinkpausen-millionen",
+      "summary": "",
+      "published": "2026-06-16T20:32:47.458733+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Miro Muheim fehlt im Nati-Training angeschlagen",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-miro-muheim-fehlt-im-nati-training-angeschlagen",
+      "summary": "",
+      "published": "2026-06-16T20:32:47.458733+00:00"
     }
   ]
 }
