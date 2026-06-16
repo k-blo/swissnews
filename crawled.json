@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16T10:31:30.060737+00:00",
+  "generated": "2026-06-16T11:01:22.217794+00:00",
   "date": "2026-06-16",
-  "count": 476,
+  "count": 487,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3334,6 +3334,83 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/nidwalden-landeskirche-verabschiedet-acht-kirchenraete-art-1708341",
       "summary": "",
       "published": "2026-06-16T10:31:30.060737+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Prozess in Gstaad – Drahtzieherin in Menschenhandel-Fall verurteilt",
+      "url": "https://www.srf.ch/news/schweiz/prozess-in-gstaad-drahtzieherin-in-menschenhandel-fall-verurteilt",
+      "summary": "Das Regionalgericht Berner Oberland verurteilt ein serbisches Ehepaar und dessen Tochter zu mehrjährigen Haftstrafen.",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Unfall am Comersee: Auto stürzt in Comersee – ein Toter, eine Schwerverletzte",
+      "url": "https://www.bernerzeitung.ch/comer-see-auto-stuerzt-ins-wasser-ein-toter-478595713041",
+      "summary": "Der Wagen kam bei Brienno von der Strasse ab, rutschte eine Böschung hinunter und versank im See. Die Beifahrerin konnte sich retten, der Fahrer wurde später tot gefunden.",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Zwischenfall im Theater: Julia rettet Romeo – zwar nicht vor dem Gift, aber vor einer Katze",
+      "url": "https://www.bernerzeitung.ch/katze-stoert-romeo-und-julia-ballett-in-izmir-274987188710",
+      "summary": "Mitten in der Sterbeszene von «Romeo und Julia» macht es sich eine Katze neben dem Tänzer gemütlich und zupft an seinem Haar. Die Episode wird zur Bewährungsprobe – und ist nicht ganz fehl am Platz.",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Quantencomputer soll ab 2028 in der AWS-Cloud rechnen",
+      "url": "https://www.netzwoche.ch/news/2026-06-16/quantencomputer-soll-ab-2028-in-der-aws-cloud-rechnen",
+      "summary": "Quera Computing will bis 2028 einen fehlertoleranten Quantencomputer in Betrieb nehmen und über AWS als Cloud-Dienst anbieten. Das System namens Libra soll Berechnungen ermöglichen, an denen heutige Q",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Salesforce kauft Kundendienst-KI für 3,6 Milliarden",
+      "url": "https://www.inside-it.ch/salesforce-kauft-kundendienst-ki-fuer-3%252C6-milliarden-20260616",
+      "summary": "Mit der Technologie des US-Unternehmens Fin will Salesforce die Agentforce-Plattform um zusätzliche Bereitstellungsoptionen für Dienstleistungsunternehmen ergänzen.",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: EU-Parlament billigt tiefere Zölle auf US-Waren",
+      "url": "https://www.nzz.ch/wirtschaft/trump-und-zoelle-aktuelle-news-und-hintergruende-ld.1869433",
+      "summary": "",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Die Badeente redet jetzt auch drüber",
+      "url": "https://www.persoenlich.com/kategorie-werbung/die-badeente-redet-jetzt-auch-druber",
+      "summary": "Mit absurden KI-Figuren und einem Augenzwinkern macht die Agentur Yallos Angebote zum Gesprächsthema.",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Schulvorstandswahl der Ksab Fällt aus",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/schulvorstandswahl-der-ksab-faellt-aus-ld.4187105",
+      "summary": "",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum Benjamin Netanjahu der grosse Verlierer ist",
+      "url": "https://www.watson.ch/international/analyse/587099097-warum-benjamin-netanjahu-der-grosse-verlierer-ist",
+      "summary": "",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Auto stürzt in Comer See – ein Toter, eine Schwerverletzte",
+      "url": "https://www.watson.ch/international/italien/549415992-auto-stuerzt-in-comer-see-ein-toter-eine-schwerverletzte",
+      "summary": "",
+      "published": "2026-06-16T11:01:22.217794+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trockenheit im Kanton Thurgau: Wasserverbrauch ab Freitag eingeschränkt",
+      "url": "https://www.watson.ch/schweiz/wetter/332576382-trockenheit-im-kanton-thurgau-wasserverbrauch-ab-freitag-eingeschraenkt",
+      "summary": "",
+      "published": "2026-06-16T11:01:22.217794+00:00"
     }
   ]
 }
