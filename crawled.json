@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-17T00:32:28.546545+00:00",
+  "generated": "2026-06-17T01:02:56.938223+00:00",
   "date": "2026-06-17",
-  "count": 41,
+  "count": 44,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -289,6 +289,27 @@
       "url": "https://www.watson.ch/sport/fussball/505390017-granit-xhaka-soll-fuer-schlechte-stimmung-bei-schweizer-nati-sorgen",
       "summary": "",
       "published": "2026-06-17T00:32:28.546545+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Argentinien gegen Algerien – WM 2026 mit Messi live in Ticker und TV",
+      "url": "https://www.watson.ch/sport/liveticker/246622569-argentinien-gegen-algerien-wm-2026-mit-messi-live-in-ticker-und-tv",
+      "summary": "",
+      "published": "2026-06-17T01:02:56.938223+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: YB-Profi Jaouen Hadjam verhandelt mit Champions-League-Klub",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-yb-profi-jaouen-hadjam-verhandelt-mit-champions-league-klub",
+      "summary": "",
+      "published": "2026-06-17T01:02:56.938223+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UFC beim Weissen Haus: 5 Männer wegen geplantem Anschlag angeklagt",
+      "url": "https://www.watson.ch/international/usa/526169096-ufc-beim-weissen-haus-5-maenner-wegen-geplantem-anschlag-angeklagt",
+      "summary": "",
+      "published": "2026-06-17T01:02:56.938223+00:00"
     }
   ]
 }
