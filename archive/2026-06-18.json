@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-17T23:02:24.044176+00:00",
+  "generated": "2026-06-17T23:24:32.544121+00:00",
   "date": "2026-06-18",
-  "count": 19,
+  "count": 21,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -135,6 +135,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/269753/england-bietet-spektakel-und-vier-tore-gegen-kroatien-portugal-und-ronaldo-entt%C3%A4uschen",
       "summary": "",
       "published": "2026-06-17T23:02:24.044176+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA-Iran-Krieg: Iran-Ghalibaf: «Sind jetzt in Position der Stärke»",
+      "url": "https://www.watson.ch/international/liveticker/455779172-usa-iran-krieg-iran-ghalibaf-sind-jetzt-in-position-der-staerke",
+      "summary": "",
+      "published": "2026-06-17T23:24:32.544121+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: England-Fans feiern beim berühmten Public Viewing",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-england-fans-feiern-beim-beruehmten-public-viewing",
+      "summary": "",
+      "published": "2026-06-17T23:24:32.544121+00:00"
     }
   ]
 }
