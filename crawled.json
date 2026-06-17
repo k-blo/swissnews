@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-17T04:02:16.557182+00:00",
+  "generated": "2026-06-17T04:32:20.269000+00:00",
   "date": "2026-06-17",
-  "count": 201,
+  "count": 207,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -1409,6 +1409,48 @@
       "url": "https://www.freiburger-nachrichten.ch/story/271081/trumps-irandeal-was-hinter-der-einigung-steckt",
       "summary": "",
       "published": "2026-06-17T04:02:16.557182+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jetzt auch im Web: Google Earth wird zum Flugsimulator",
+      "url": "https://www.20min.ch/story/programm-ueberarbeitet-jetzt-auch-im-web-google-earth-wird-zum-flugsimulator-103584198",
+      "summary": "Google integriert eine Funktion aus der Desktop-App jetzt auch in der Webversion: «Tools» wurde um einen Flugsimulator ergänzt. So funktioniert er.",
+      "published": "2026-06-17T04:32:20.269000+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gastrokritik Bären, Oberbottigen: Bodenständiges Selbst­gemachtes – und die Grösse des Gugel­hopfs bestimmt der Gast",
+      "url": "https://www.bernerzeitung.ch/restaurant-baeren-oberbottigen-landgasthof-in-bern-im-test-987979543139",
+      "summary": "Im «ländlichen Gasthaus auf Berner Stadt­boden» wird ein zeit­gemässer Kochstil gepflegt und so viel wie möglich selber gemacht. Während der WM gibts einen Burger fast geschenkt.",
+      "published": "2026-06-17T04:32:20.269000+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gesamtsanierung Marzili: Nicht nur Frauen sind gefragt: Was wünscht ihr euch für euren separaten Bereich?",
+      "url": "https://www.bernerzeitung.ch/marzili-bern-stadt-befragt-badegaeste-zur-neuen-ruhezone-475587943013",
+      "summary": "Im beliebten Berner Freibad soll es auch künftig einen Rückzugs­ort geben. Die Fachstelle für Gleich­stellung in Geschlechter­fragen und das Sportamt wollen nun den Puls fühlen.",
+      "published": "2026-06-17T04:32:20.269000+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Warum die neuen EU-Verträge plötzlich bessere Chancen haben",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-06-17/warum-die-neuen-eu-vertraege-ploetzlich-bessere-chancen-haben",
+      "summary": "Krieg in Europa, Handelskonflikte und geopolitische Spannungen spielen den Bilateralen in die Hände: Viele Schweizer wünschen sich laut einer GfS-Umfrage verlässliche Beziehungen zur EU.",
+      "published": "2026-06-17T04:32:20.269000+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tour de Suisse 2026: Alles zum neuen Modus, Strecke und Favoriten",
+      "url": "https://www.watson.ch/sport/velo/495237345-tour-de-suisse-2026-alles-zum-neuen-modus-strecke-und-favoriten",
+      "summary": "",
+      "published": "2026-06-17T04:32:20.269000+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Messi liefert Mega-Show zum WM-Auftakt – und egalisiert den Torrekord von Miroslav Klose",
+      "url": "https://www.bote.ch/nachrichten/sport/messi-show-zum-wm-auftakt-klose-rekord-eingestellt-art-1708488",
+      "summary": "",
+      "published": "2026-06-17T04:32:20.269000+00:00"
     }
   ]
 }
