@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-17T01:32:51.745385+00:00",
+  "generated": "2026-06-17T02:02:41.869827+00:00",
   "date": "2026-06-17",
-  "count": 44,
+  "count": 47,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -310,6 +310,27 @@
       "url": "https://www.watson.ch/international/usa/526169096-ufc-beim-weissen-haus-5-maenner-wegen-geplantem-anschlag-angeklagt",
       "summary": "",
       "published": "2026-06-17T01:02:56.938223+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Trumps zweite Amtszeit: Fünf Männer wegen mutmasslich geplantem Anschlag an Trumps Geburtstag angeklagt",
+      "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-fuenf-maenner-wegen-mutmasslich-geplantem-anschlag-an-trumps-geburtstag-angeklagt-ld.1856621",
+      "summary": "",
+      "published": "2026-06-17T02:02:41.869827+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine: Luftangriffe auf Saporischschja setzen Wohnblock in Flammen",
+      "url": "https://www.watson.ch/international/russland/880754819-ukraine-luftangriffe-auf-saporischschja-setzen-wohnblock-in-flammen",
+      "summary": "",
+      "published": "2026-06-17T02:02:41.869827+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Kaputter Sprinkler sorgt für Fontäne auf Rasen",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-kaputter-sprinkler-sorgt-fuer-fontaene-auf-rasen",
+      "summary": "",
+      "published": "2026-06-17T02:02:41.869827+00:00"
     }
   ]
 }
