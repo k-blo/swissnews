@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-18T04:02:38.813020+00:00",
+  "generated": "2026-06-18T04:32:10.777586+00:00",
   "date": "2026-06-18",
-  "count": 209,
+  "count": 220,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1465,6 +1465,83 @@
       "url": "https://www.bote.ch/nachrichten/sport/fussball-wm-harry-kane-und-thomas-tuchel-praegen-englands-wm-start-art-1708665",
       "summary": "",
       "published": "2026-06-18T04:02:38.813020+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fast jeder Zweite unter 43 lebt von Lohnzahlung zu Lohnzahlung",
+      "url": "https://www.20min.ch/story/finanzsorgen-fast-jeder-zweite-unter-43-lebt-von-lohnzahlung-zu-lohnzahlung-103584877",
+      "summary": "Trotz des Reichtums in der Schweiz kommen viele Menschen kaum über die Runden, besonders die Gen Z und Millennials. Die Work-Life-Balance bleibt trotzdem wichtiger als die Karriere.",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Von Cosplay bis Matschfussball: Hobbys machen uns gesünder und zufriedener – und so finden Sie eines",
+      "url": "https://www.tagesanzeiger.ch/hobbys-darum-sind-sie-der-schluessel-zum-glueck-584489660750",
+      "summary": "Warum sind die Dänen so glücklich? Weil sie so viele Hobbys haben, sagt eine Forscherin: Beschäftigungen in der Freizeit helfen gegen Stress und Einsamkeit. Dabei muss man ein paar Fehler vermeiden.",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "3 Grad wärmer: Sinkende Pegel, steigende Temperaturen in Seen und Flüssen: Trinkwasser­versorger schlagen Alarm",
+      "url": "https://www.tagesanzeiger.ch/schweizer-gewaesser-erwaermung-bedroht-trinkwasserversorgung-366246919092",
+      "summary": "Um 2 bis 3 Grad hat sich das Wasser in Schweizer Gewässern bereits erwärmt, das zeigen neueste Daten. Für die Wasserversorger ist das ein Problem – auch Forschende zeigen sich besorgt.",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Giftiger Staub in Basel: Schutzanzüge statt Pinsel: Basler Ateliers werden wegen Asbest zur Sperrzone",
+      "url": "https://www.bazonline.ch/asbest-im-klybeck-20-kuenstler-fordern-schadenersatz-878363146615",
+      "summary": "Im Klybeck waren Künstlerinnen und Künstler wochenlang asbesthaltigem Staub ausgesetzt. Nun sind ihre Räume gesperrt – und sie fürchten um ihr Lebenswerk und ihren Lebensunterhalt.",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Garten als politische Kampfzone: Tödlich für Igel? Baselbieter Grüne will Rasenmäher-Roboter zeitweise verbieten",
+      "url": "https://www.bazonline.ch/maehroboter-gruene-fordert-nachtverbot-zum-igelschutz-215911266128",
+      "summary": "Flavia Müller fordert staatliche Massnahmen für den Tierschutz. Ein Freisinniger entgegnet, dass dadurch die Souveränität von Privatpersonen beschränkt würde.",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Beschämend!»: Mutter von Brandopfer kritisiert Féraud an Gemeindeversammlung",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-06-18/beschaemend-mutter-von-brandopfer-kritisiert-feraud-an",
+      "summary": "Fünfeinhalb Monate nach dem Brand in der Bar Le Constellation stellte sich Gemeindepräsident Nicolas Féraud erstmals öffentlich den Fragen der Bevölkerung. Die Versammlung wurde zu einem Abend voller ",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Kolumbien gewinnt dank Luis Diaz gegen Debütant Usbekistan",
+      "url": "https://www.watson.ch/sport/fussball/380220291-wm-2026-kolumbien-gewinnt-dank-luis-diaz-gegen-debuetant-usbekistan",
+      "summary": "",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Eine Limousine für eine «Very Very Important Person»",
+      "url": "https://www.freiburger-nachrichten.ch/story/271270/eine-limousine-f%C3%BCr-eine-very-very-important-person",
+      "summary": "",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Vor kapitalem Bosnien-Spiel: Remo Freuler deutet seinen Nati-Rücktritt an",
+      "url": "https://www.freiburger-nachrichten.ch/story/271271/vor-kapitalem-bosnienspiel-remo-freuler-deutet-seinen-natir%C3%BCcktritt-an",
+      "summary": "",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bayern-Star Diaz führt Kolumbien zum WM-Startsieg +++ Ghana kommt in der Nachspielzeit zum Sieg gegen Panama",
+      "url": "https://www.freiburger-nachrichten.ch/story/269753/bayernstar-diaz-f%C3%BChrt-kolumbien-zum-wmstartsieg-ghana-kommt-in-der-nachspielzeit-zum-sieg-gegen-panama",
+      "summary": "",
+      "published": "2026-06-18T04:32:10.777586+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Pks und Ihre Bösen Immo Renditen Blödsinn",
+      "url": "https://insideparadeplatz.ch/2026/06/18/pks-und-ihre-boesen-immo-renditen-bloedsinn/",
+      "summary": "",
+      "published": "2026-06-18T04:32:10.777586+00:00"
     }
   ]
 }
