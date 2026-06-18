@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-18T00:03:14.374454+00:00",
+  "generated": "2026-06-18T00:15:09.673575+00:00",
   "date": "2026-06-18",
-  "count": 26,
+  "count": 27,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -184,6 +184,13 @@
       "url": "https://www.watson.ch/sport/fussball/208209737-wm-2026-dafuer-kritisiert-england-trainer-thomas-tuchel-sein-team",
       "summary": "",
       "published": "2026-06-18T00:03:14.374454+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine-Krieg: Russland feuert mehrere ballistische Raketen auf Kiew",
+      "url": "https://www.watson.ch/international/russland/486744223-ukraine-krieg-russland-feuert-mehrere-ballistische-raketen-auf-kiew",
+      "summary": "",
+      "published": "2026-06-18T00:15:09.673575+00:00"
     }
   ]
 }
