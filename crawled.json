@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-18T07:02:45.439408+00:00",
+  "generated": "2026-06-18T07:32:42.807961+00:00",
   "date": "2026-06-18",
-  "count": 284,
+  "count": 320,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1990,6 +1990,258 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/dies-sind-die-highlights-vom-wochenende-art-1708671",
       "summary": "",
       "published": "2026-06-18T07:02:45.439408+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wettbewerbsfähigkeit – Schweiz fällt auf dritten Rang",
+      "url": "https://www.srf.ch/news/wirtschaft/wettbewerbsfaehigkeit-schweiz-faellt-auf-dritten-rang",
+      "summary": "Die Schweiz wird von ihrem Spitzenplatz als wettbewerbsfähigstes Land verdrängt, sagt die IMD-Business-Schule IMD.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "European Newspaper Award: Blick holt drei Auszeichnungen bei internationalem Wettbewerb",
+      "url": "https://www.blick.ch/schweiz/european-newspaper-award-blick-holt-drei-auszeichnungen-bei-internationalem-wettbewerb-id22039080.html",
+      "summary": "Zwei Blick-Titelseiten und eine Doppelseite haben nicht nur in der Schweiz für Aufsehen gesorgt – sie wurden jetzt auch international ausgezeichnet. Andreas Dietrich, Chefredaktor Blick Print, nahm am",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Schwerer Unfall in Dagmersellen LU: Mann (†78) stirbt bei landwirtschaftlichen Arbeiten",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/luzern/schwerer-unfall-in-dagmarsellen-lu-mann-78-stirbt-bei-landwirtschaftlichen-arbeiten-id22038098.html",
+      "summary": "Am Dienstag hat sich in Dagmersellen ein Mann bei einem Unfall mit einem landwirtschaftlichen Fahrzeug lebensbedrohliche Verletzungen zugezogen. Er verstarb am Mittwoch im Spital.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "SNB-Präsident Martin Schlegel bleibt Nullzinspolitik treu",
+      "url": "https://www.20min.ch/story/leitzins-snb-zinsentscheid-wie-entscheidet-martin-schlegel-heute-103585425",
+      "summary": "Die Schweizerische Nationalbank gibt ihren Zinsentscheid bekannt. Bankexperten erwarten, dass SNB-Chef Martin Schlegel die Nullzinspolitik beibehält.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verwirrung um Feier: 14 Wochen arbeitete die Schweiz auf den Big Day hin – umsonst?",
+      "url": "https://www.tagesanzeiger.ch/iran-deal-warum-der-buergenstock-trotzdem-wichtig-bleibt-452873898047",
+      "summary": "Überraschend hat Donald Trump in Versailles seinen Deal mit dem Iran unterzeichnet. Für das Aussendepartement ist eine Zeremonie auf dem Bürgenstock «nach wie vor vorgesehen». Was gilt jetzt?",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rafael van der Vaart: «Sehen alle gleich aus»: Ex-Oranje-Star irritiert mit Aussage und entschuldigt sich",
+      "url": "https://www.tagesanzeiger.ch/van-der-vaart-entschuldigt-sich-fuer-aussage-ueber-japaner-552620071934",
+      "summary": "Rafael van der Vaart beleidigt Japan während der WM-Partie gegen die Niederlande. Der 43-Jährige dementiert eine rassistische oder diskriminierende Absicht.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wettbewerbsfähigkeit: Schweiz verliert Spitzenplatz im globalen Ranking – an Singapur",
+      "url": "https://www.tagesanzeiger.ch/imd-ranking-schweiz-faellt-von-platz-1-auf-rang-3-527087423971",
+      "summary": "Die Schweiz fällt im IMD-Wettbewerbsranking von Platz 1 auf Rang 3. Handelskonflikte, hohe Preise und ein Einbruch bei der Wirtschaftsleistung belasten den Standort.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: China Eastern fliegt neu nach Shanghai und ist schneller als die Swiss",
+      "url": "https://www.tagesanzeiger.ch/china-eastern-erstflug-shanghaizuerich-gelandet-814276454459",
+      "summary": "China Eastern fliegt neu zwischen Shanghai und Zürich. Und konkurrenziert die Swiss. Nach dem Erstflug gab es in Zürich einen Wassersalut.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neuste Bevölkerungsstatistik: Geburtenrückgang setzt sich fort: 78’200 Neugeborene vergangenes Jahr",
+      "url": "https://www.tagesanzeiger.ch/schweiz-geburtenrueckgang-2025-verlangsamt-sich-581004944287",
+      "summary": "Zum vierten Mal in Folge sinkt die Zahl der Geburten in der Schweiz. Der Geburtenüberschuss beträgt nur noch 6300 Personen – 2016 waren es noch 22’900.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ausfuhren im Wert von 2,11 Milliarden Franken: Uhrenexporte nach Frankreich steigen im Mai um 57 Prozent – in die USA um 12 Prozent",
+      "url": "https://www.tagesanzeiger.ch/schweizer-uhrenexporte-mai-anstieg-nach-april-einbruch-140518078703",
+      "summary": "Die Schweizer Uhrenexporte erholen sich im Mai – dank eines unerwarteten Booms in Frankreich. Das Land profitiert von Trumps Zollpolitik und etabliert sich als Logistikdrehscheibe.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Zukunft der Berner Allmenden: Gemeinderat will Parkplätze im Untergrund, aber keine Rasenfelder nur für YB",
+      "url": "https://www.bernerzeitung.ch/bern-allmend-bekommt-parkhaus-ohne-exklusive-yb-felder-723050729436",
+      "summary": "Die Autos sollen unter den Boden: Ein unterirdisches Parkhaus soll mehr Grünflächen ermöglichen. Die Sportinfrastruktur dürfe nicht nur für den Spitzensport verbessert werden.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Neuste Bevölkerungsstatistik: Geburtenrückgang setzt sich fort: 78’200 Geburten vergangenes Jahr",
+      "url": "https://www.bernerzeitung.ch/schweiz-geburtenrueckgang-2025-verlangsamt-sich-581004944287",
+      "summary": "Zum vierten Mal in Folge sinkt die Zahl der Geburten in der Schweiz. Der Geburtenüberschuss beträgt nur noch 6300 Personen – 2016 waren es noch 22’900.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Deal mit dem Iran: Trump landet in Versailles einen nächtlichen Coup",
+      "url": "https://www.bazonline.ch/iran-abkommen-trump-wird-in-versailles-wie-ein-koenig-empfangen-280491669281",
+      "summary": "Die USA und der Iran haben ihr «Memorandum of Understanding» für einen Frieden überraschenderweise bereits unterschrieben. Dies könnte auch Folgen für die Schweiz haben.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Selbstunfall führt zu Stau auf der A2",
+      "url": "https://www.zentralplus.ch/news/selbstunfall-fuehrt-zu-stau-auf-der-a2-2878865/",
+      "summary": "Auf der A2 zwischen Dagmersellen und Sempach staut sich der Verkehr. Grund ist ein Selbstunfall. Auf der A2 zwischen Dagmersellen und Sempach gab es am Donnerstagmorgen einen Unfall. Gemäss zentralplu",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Pictet Alternative Advisors erwirbt Zürcher Luxushotel",
+      "url": "https://www.finews.ch/news/banken/72602-luxushotellerie-zuerich-zurich-marriott-pictet-alternative-advisors-wealth-management-swiss-banking-finance",
+      "summary": "Pictet Alternative Advisors stärkt seine Präsenz im Schweizer Immobilienmarkt und übernimmt das Zürich Marriott Hotel. Der Vermögensverwalter setzt damit auf den Boom im Zürcher Luxushotelsegment und ",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Partners Group plant zwei Aktienklassen bei Investment-Trust",
+      "url": "https://www.finews.ch/news/finanzplatz/72605-partners-group-aktienstruktur-investment-trust-pgpe",
+      "summary": "Beim Investment-Trust «Partners Group Private Equity Limited» soll die Aktienstruktur verändert werden. Der Verwaltungsrat schlägt die Einführung von zwei Aktienklassen vor.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie Swiss Post Cybersecurity Wissen für die Community zugänglich macht",
+      "url": "https://www.netzwoche.ch/news/2026-06-18/wie-swiss-post-cybersecurity-wissen-fuer-die-community-zugaenglich-macht",
+      "summary": "Die Hack'Events von Swiss Post Cybersecurity lockten über 400 Gäste nach Zürich, Genf, Lugano und Luxemburg. Im Mittelpunkt standen aktuelle Cyberbedrohungen, praxisnahe Fachvorträge und der Austausch",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Bist du müde? Warum spielst du mit diesen Schuhen? Warum trägst du kein Tape?»: Was der Arzt der Schweizer Nationalmannschaft von den Spielern wissen will",
+      "url": "https://www.nzz.ch/wissenschaft/der-arzt-der-schweizer-nati-tipps-gegen-verletzungen-im-fussball-ld.10008882",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Schweiz und Deutschland fallen bei der globalen Wettbewerbsfähigkeit zurück. Doch zwischen den Ländern liegen Welten",
+      "url": "https://www.nzz.ch/wirtschaft/die-schweiz-und-deutschland-fallen-bei-der-globalen-wettbewerbsfaehigkeit-zurueck-doch-zwischen-den-laendern-liegen-welten-ld.10011505",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "KI-Einsatz muss nicht ausgewiesen werden",
+      "url": "https://www.persoenlich.com/medien/ki-einsatz-muss-nicht-ausgewiesen-werden",
+      "summary": "Der Deutsche Presserat spricht sich in der aktuellen Diskussion um den redaktionellen Einsatz von Künstlicher Intelligenz gegen eine generelle Kennzeichnungspflicht aus. Wichtiger sei die Einhaltung d",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Antonia Wanner übernimmt Doppelrolle",
+      "url": "https://www.persoenlich.com/prcorporate-communication/antonia-wanner-ubernimmt-doppelrolle",
+      "summary": "Der Lebensmittelkonzern vereint die Bereiche Kommunikation und Nachhaltigkeit unter einer gemeinsamen Führung.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Zweimal Plus statt Minus: Dachsen konnte an der GV mitten im Jubiläumsjahr Positives berichten",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-06-18/zweimal-plus-statt-minus-dachsen-konnte-an-der-gv-mitten-im",
+      "summary": "Die beiden Dachsener Gemeindeversammlungen, bei denen nur sehr positiv ausgefallene Rechnungsabschlüsse traktandiert waren, wurden jeweils vom Vizepräsidenten geleitet.",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Schnäpplijäger Reissen Sich um Schweizer Luxusuhren",
+      "url": "https://www.bilanz.ch/archiv/schnaepplijaeger-reissen-sich-um-schweizer-luxusuhren/xvegzs1",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Trump Wunsch Ignoriert Fed Hält Leitzins Stabil Unter Warsh",
+      "url": "https://www.bilanz.ch/konjunktur/trump-wunsch-ignoriert-fed-haelt-leitzins-stabil-unter-warsh/nvfrsb2",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Bauernzeitung",
+      "title": "Solange die Kurve Steigt Reicht Keine Ausrede",
+      "url": "https://www.bauernzeitung.ch/artikel/tiere/solange-die-kurve-steigt-reicht-keine-ausrede-0-555892",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Vereinsausflug 2026 Damenturnverein Dtv Solothurn",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/vereinsausflug-2026-damenturnverein-dtv-solothurn-ld.4188475",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Artikel",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/artikel-ld.4188539",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Sergio Ermotti bei der Awg Zug",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/sergio-ermotti-bei-der-awg-zug-ld.4188469",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA-Iran-Krieg: Bürgenstock-Gipfel laut EDA weiterhin geplant",
+      "url": "https://www.watson.ch/international/liveticker/455779172-usa-iran-krieg-buergenstock-gipfel-laut-eda-weiterhin-geplant",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: So gewinnt die Schweiz gegen Bosnien-Herzegowina",
+      "url": "https://www.watson.ch/sport/analyse/985230256-wm-2026-so-gewinnt-die-schweiz-gegen-bosnien-herzegowina",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Singin’ in the Rain» im Schlosshof",
+      "url": "https://www.freiburger-nachrichten.ch/story/271285/singin-in-the-rain-im-schlosshof",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Vor kapitalem Bosnien-Spiel: Remo Freuler deutet seinen Nati-Rücktritt an und sagt, was er vom Xhaka-Rundumschlag hält",
+      "url": "https://www.freiburger-nachrichten.ch/story/271271/vor-kapitalem-bosnienspiel-remo-freuler-deutet-seinen-natir%C3%BCcktritt-an-und-sagt-was-er-vom-xhakarundumschlag-h%C3%A4lt",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schotten trinken Boston leer ++ Bayern-Star Diaz führt Kolumbien zum WM-Startsieg",
+      "url": "https://www.freiburger-nachrichten.ch/story/269753/schotten-trinken-boston-leer-bayernstar-diaz-f%C3%BChrt-kolumbien-zum-wmstartsieg",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Am Ende ging Kerzers etwas die Luft aus",
+      "url": "https://www.freiburger-nachrichten.ch/story/271304/am-ende-ging-kerzers-etwas-die-luft-aus",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trumps Unterschrift wirbelt Pläne durcheinander: Wie es jetzt auf dem Bürgenstock weitergeht",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/trump-und-der-iran-deal-was-auf-dem-buergenstock-geplant-ist-art-1708678",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Im Kanton sollen Patientendaten 120 Jahre geschützt sein",
+      "url": "https://www.bote.ch/nachrichten/schwyz/im-kanton-schwyz-sollen-patientendaten-120-jahre-geschuetzt-sein-art-1708676",
+      "summary": "",
+      "published": "2026-06-18T07:32:42.807961+00:00"
     }
   ]
 }
