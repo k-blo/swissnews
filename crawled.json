@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-18T00:32:30.983627+00:00",
+  "generated": "2026-06-18T01:02:27.412948+00:00",
   "date": "2026-06-18",
-  "count": 32,
+  "count": 34,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -226,6 +226,20 @@
       "url": "https://www.watson.ch/international/liveticker/455779172-usa-iran-krieg-teheran-oeffnet-strasse-von-hormus",
       "summary": "",
       "published": "2026-06-18T00:32:30.983627+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Velofahrer nach Kollision mit PKW in Benken ZH schwerverletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/477782606-velofahrer-nach-kollision-mit-pkw-in-benken-zh-schwerverletzt",
+      "summary": "",
+      "published": "2026-06-18T01:02:27.412948+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UN-Expertin: Tech-Konzerne haben zu viel Macht",
+      "url": "https://www.watson.ch/international/uno/281577561-un-expertin-tech-konzerne-haben-zu-viel-macht",
+      "summary": "",
+      "published": "2026-06-18T01:02:27.412948+00:00"
     }
   ]
 }
