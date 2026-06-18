@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-18T00:15:09.673575+00:00",
+  "generated": "2026-06-18T00:32:30.983627+00:00",
   "date": "2026-06-18",
-  "count": 27,
+  "count": 32,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -191,6 +191,41 @@
       "url": "https://www.watson.ch/international/russland/486744223-ukraine-krieg-russland-feuert-mehrere-ballistische-raketen-auf-kiew",
       "summary": "",
       "published": "2026-06-18T00:15:09.673575+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Kein Baba News für Stadtzürcher Beamte im Büro Sp Schaltet Sich ein",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/kein-baba-news-fuer-stadtzuercher-beamte-im-buero-sp-schaltet-sich-ein",
+      "summary": "",
+      "published": "2026-06-18T00:32:30.983627+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Kkw Debatte die Atomgegner der Energiestiftung Wollen mit der Wasserkraft Punkten",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/kkw-debatte-die-atomgegner-der-energiestiftung-wollen-mit-der-wasserkraft-punkten",
+      "summary": "",
+      "published": "2026-06-18T00:32:30.983627+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Trump Streckt die Waffen der Iran Gewinnt So Wird Man Kein Staatsmann",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/trump-streckt-die-waffen-der-iran-gewinnt-so-wird-man-kein-staatsmann",
+      "summary": "",
+      "published": "2026-06-18T00:32:30.983627+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Remy Wyssmann Eigenverantwortlicher Autofahrer",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/remy-wyssmann-eigenverantwortlicher-autofahrer",
+      "summary": "",
+      "published": "2026-06-18T00:32:30.983627+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA-Iran-Krieg: Teheran öffnet Strasse von Hormus",
+      "url": "https://www.watson.ch/international/liveticker/455779172-usa-iran-krieg-teheran-oeffnet-strasse-von-hormus",
+      "summary": "",
+      "published": "2026-06-18T00:32:30.983627+00:00"
     }
   ]
 }
