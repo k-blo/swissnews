@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-17T23:32:14.175697+00:00",
+  "generated": "2026-06-18T00:03:14.374454+00:00",
   "date": "2026-06-18",
-  "count": 22,
+  "count": 26,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -156,6 +156,34 @@
       "url": "https://www.watson.ch/schweiz/international/310178118-3-schweizer-unis-gehoeren-zu-den-besten-100-der-welt",
       "summary": "",
       "published": "2026-06-17T23:32:14.175697+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tim Cook reagiert auf Chip-Kosten: Preiserhöhung bei Apple-Produkten",
+      "url": "https://www.watson.ch/wirtschaft/digital/643299469-tim-cook-reagiert-auf-chip-kosten-preiserhoehung-bei-apple-produkten",
+      "summary": "",
+      "published": "2026-06-18T00:03:14.374454+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Obama Presidential Center: Michelle Obama ehrt ihre Mutter",
+      "url": "https://www.watson.ch/leben/usa/275048717-obama-presidential-center-michelle-obama-ehrt-ihre-mutter",
+      "summary": "",
+      "published": "2026-06-18T00:03:14.374454+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kuba: Hostien-Not wegen Wirtschaftskrise",
+      "url": "https://www.watson.ch/international/kuba/766575985-kuba-hostien-not-wegen-wirtschaftskrise",
+      "summary": "",
+      "published": "2026-06-18T00:03:14.374454+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Dafür kritisiert England-Trainer Thomas Tuchel sein Team",
+      "url": "https://www.watson.ch/sport/fussball/208209737-wm-2026-dafuer-kritisiert-england-trainer-thomas-tuchel-sein-team",
+      "summary": "",
+      "published": "2026-06-18T00:03:14.374454+00:00"
     }
   ]
 }
