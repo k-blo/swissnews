@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-19T04:02:37.716782+00:00",
+  "generated": "2026-06-19T04:32:20.863595+00:00",
   "date": "2026-06-19",
-  "count": 201,
+  "count": 214,
   "articles": [
     {
       "source": "Blick",
@@ -1409,6 +1409,97 @@
       "url": "https://www.nzz.ch/mobilitaet/elektrisches-mountainbike-von-thoemus-im-test-schneller-als-ein-kleinmotorrad-ld.10011102",
       "summary": "",
       "published": "2026-06-19T04:02:37.716782+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Brisantes Datenleck – Wenn Radiologen mehr verdienen als ein Bundesrat",
+      "url": "https://www.srf.ch/news/dialog/brisantes-datenleck-wenn-radiologen-mehr-verdienen-als-ein-bundesrat",
+      "summary": "Interne Dokumente geben Einblick ins lukrative Geschäftsmodell eines grossen Radiologie-Anbieters in der Schweiz.",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Mehr Felchen im Bodensee – Kompromiss: Felchen-Fangverbot im Bodensee wird leicht gelockert",
+      "url": "https://www.srf.ch/news/schweiz/mehr-felchen-im-bodensee-kompromiss-felchen-fangverbot-im-bodensee-wird-leicht-gelockert",
+      "summary": "Im Bodensee hat es wieder mehr, ältere und grössere Felchen. Deshalb dürfen sie von Mai bis August 2027 gefischt werden.",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wetter in der Schweiz: Omegahoch verlängert die Hitzewelle – fällt der Jahrhundertrekord?",
+      "url": "https://www.tagesanzeiger.ch/hitzewelle-schweiz-bis-ende-juni-ueber-30-grad-922914808207",
+      "summary": "Hohe Temperaturen haben die Schweiz fest im Griff. Abkühlung ist nicht in Sicht, die Trockenheit verstärkt sich. Das sind die Prognosen.",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Seiler liest statt kocht: Diese fünf Bücher machen hungrig – und grosse Lust auf Dolce Vita",
+      "url": "https://www.tagesanzeiger.ch/buecher-fuer-die-ferien-5-kulinarische-literatur-tipps-892808197457",
+      "summary": "Statt Kriminalromane und Reiseführer empfiehlt unser Autor kulinarische Literatur für die Ferien. Guten Leseappetit!",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kriegsverbrechen in Charkiw: Sie eilten zum Einschlagsort, um zu helfen – dann attackierte Russland erneut",
+      "url": "https://www.bernerzeitung.ch/charkiw-trauert-um-fuenf-getoetete-rettungskraefte-830766304853",
+      "summary": "Mit der sogenannten Double-Tap-Technik wurden in Charkiw gezielt Rettungskräfte angegriffen. Nun wurden die Männer beerdigt und in der Ukraine herrscht erneut Entsetzen über die perfide Kriegstaktik.",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Kampf um Schattenplätze: Kinder brutzeln auf neuem Marzili-Spielplatz – «die Stadt hätte da schon mehr machen können», klagt eine Mutter",
+      "url": "https://www.derbund.ch/marzili-kinderbereich-eltern-klagen-ueber-fehlenden-schatten-831498113937",
+      "summary": "Glühend heisse Metall­rutsche, zu wenig Schatten: Nach der 14-Millionen-Sanierung kritisieren Eltern den Sonnenschutz im neuen Kinderbereich. Die Stadt sieht jedoch keinen Handlungsbedarf.",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Vorhang auf zur Manzambi-Show: Das Offensivjuwel erlöst die Schweiz beim 4:1-Sieg gegen Bosnien",
+      "url": "https://www.nzz.ch/sport/wm-2026-die-schweiz-gewinnt-gegen-bosnien-41-ld.10012047",
+      "summary": "",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Freigeist Johan Manzambi flösst den Schweizern beim 4:1-Sieg gegen Bosnien-Herzegowina Leben ein – und macht Trainer Yakins Dilemma noch grösser",
+      "url": "https://www.nzz.ch/sport/fussball/der-freigeist-johan-manzambi-floesst-den-schweizern-beim-41-sieg-gegen-bosnien-herzegowina-leben-ein-und-macht-trainer-yakins-dilemma-noch-groesser-ld.10012053",
+      "summary": "",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Schwedischer Fall Pelicot»: Mann zu mehr als vier Jahren Haft verurteilt",
+      "url": "https://www.nzz.ch/panorama/schwedischer-fall-pelicot-mann-zu-mehr-als-vier-jahren-haft-verurteilt-ld.10011969",
+      "summary": "",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Einmal im Leben eine totale Sonnenfinsternis sehen? Die nächsten Termine und Orte weltweit",
+      "url": "https://www.nzz.ch/visuals/totale-sonnenfinsternis-weltweit-alle-termine-und-orte-ld.10008863",
+      "summary": "",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wie Ich mit Hamstern Gleichgesetzt Wurde",
+      "url": "https://www.suedostschweiz.ch/linth/wie-ich-mit-hamstern-gleichgesetzt-wurde-1931018",
+      "summary": "",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Andy Burnham gewinnt Nachwahl in Grossbritannien: Starmer unter Druck",
+      "url": "https://www.watson.ch/international/grossbritannien/966812628-andy-burnham-gewinnt-nachwahl-in-grossbritannien-starmer-unter-druck",
+      "summary": "",
+      "published": "2026-06-19T04:32:20.863595+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cute News: Herzige Tierbilder von Möwen, Hunden und Delfinen",
+      "url": "https://www.watson.ch/spass/cute-news/393431362-cute-news-herzige-tierbilder-von-moewen-hunden-und-delfinen",
+      "summary": "",
+      "published": "2026-06-19T04:32:20.863595+00:00"
     }
   ]
 }
