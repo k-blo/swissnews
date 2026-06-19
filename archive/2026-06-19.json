@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-19T02:02:31.681305+00:00",
+  "generated": "2026-06-19T02:32:46.683475+00:00",
   "date": "2026-06-19",
-  "count": 45,
+  "count": 59,
   "articles": [
     {
       "source": "Blick",
@@ -317,6 +317,104 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/barde-verstaerkt-geschaeftsleitung-und-schafft-mehr-raum-fuer-wachstumb-art-1708682",
       "summary": "",
       "published": "2026-06-19T02:02:31.681305+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Bahnstörung in Zürich – Zug steht still bei Bahnhof Hardbrücke – Passagiere evakuiert",
+      "url": "https://www.srf.ch/news/schweiz/bahnstoerung-in-zuerich-zug-steht-still-bei-bahnhof-hardbruecke-passagiere-evakuiert",
+      "summary": "In Zürich sorgt eine Fahrleitungsstörung für Chaos im Bahnverkehr. Passagiere müssen aus dem Zug evakuiert werden.",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Nora Möckli ist Schaffhausens aufmüpfigste Umweltschützerin: «Wir müssen uns den Wald zurückholen»",
+      "url": "https://www.shn.ch/region/kanton/2026-06-19/nora-moeckli-ist-schaffhausens-aufmuepfigste-umweltschuetzerin-wir-muessen",
+      "summary": "Im Schaffhauser Wald rumort es. Gestritten wird um Holzschläge und Wiederaufforstungen, doch im Kern tobt ein Kulturkampf um den Wald, wie ein Spaziergang mit der aufmüpfigsten Schaffhauser Waldschütz",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wie Rozafa Kadriu mit Zimtschnecken ihr eigenes Geschäft aufbaut",
+      "url": "https://www.shn.ch/region/stadt/2026-06-19/wie-rozafa-kadriu-mit-zimtschnecken-ihr-eigenes-geschaeft-aufbaut",
+      "summary": "Rozafa Kadriu backt Zimtschnecken zu Hause in Schaffhausen und vermarktet sie regional auf Instagram unter dem Usernamen «RozaRolls». Beim Besuch in ihrer Backstube erzählt sie vom Aufbau ihres Geschä",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die grosse Frage nach der Zukunft: Schaffhauser Kantischüler erhalten Job-Einblicke",
+      "url": "https://www.shn.ch/region/stadt/2026-06-19/die-grosse-frage-nach-der-zukunft-schaffhauser-kantischueler-erhalten-job",
+      "summary": "Zum dritten Mal bietet die Kantonsschule eine Technik- und Informatikwoche an, um ihren Schülerinnen und Schülern verschiedene Perspektiven auf unterschiedliche Berufe zu gewähren. Das Angebot kommt i",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Millionenüberschuss in Stammheim – doch steigende Kosten trüben den Glanz",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-06-19/millionenueberschuss-in-stammheim-doch-steigende-kosten",
+      "summary": "Die Gemeinde Stammheim präsentiert zwar einen Überschuss, gleichzeitig zeigen die stark steigenden Kosten für Bildung, Gesundheit und Soziales erste Warnsignale für die Zukunft.",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Unterwegs mit Bündner Radrennfahrerin Morgens Gibt es Immer Weissbrot Abends Immer Pasta",
+      "url": "https://www.suedostschweiz.ch/regionalsport/unterwegs-mit-buendner-radrennfahrerin-morgens-gibt-es-immer-weissbrot-abends-immer-pasta-1927418",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Gommiswalder ist Gesangscoach bei den Populären Schwiizergoofe Warum er es Liebt",
+      "url": "https://www.suedostschweiz.ch/linth/gommiswalder-ist-gesangscoach-bei-den-populaeren-schwiizergoofe-warum-er-es-liebt-1925493",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Was die Grösse der Garage und der Testosteronspiegel mit dem Abstimmverhalten zu Tun Haben",
+      "url": "https://www.suedostschweiz.ch/graubuenden/was-die-groesse-der-garage-und-der-testosteronspiegel-mit-dem-abstimmverhalten-zu-tun-haben-1928037",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Stadtfest Glarus Bringt Euch mit Diesen Bildern Schon Mal in Feierlaune",
+      "url": "https://www.suedostschweiz.ch/glarus/stadtfest-glarus-bringt-euch-mit-diesen-bildern-schon-mal-in-feierlaune-1722546",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Glarus Nord Aufsichtskommission Gibt dem Gemeinderat Saures",
+      "url": "https://www.suedostschweiz.ch/glarus/glarus-nord-aufsichtskommission-gibt-dem-gemeinderat-saures-1930485",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Bahnjubiläum Sulgen Bischofszell mit Festprogramm am Wochenende",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/bahnjubilaeum-sulgen-bischofszell-mit-festprogramm-am-wochenende-ld.4187959",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Übles Foul sorgt für Rangelei: «Alle hörten Knochen brechen»",
+      "url": "https://www.watson.ch/sport/fussball/799150723-wm-2026-uebles-foul-sorgt-fuer-rangelei-alle-hoerten-knochen-brechen",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Ich habe 148 Länderspiele. Der Zeitpunkt ist gekommen, das zu anerkennen»: Granit Xhaka schlägt nac",
+      "url": "https://www.freiburger-nachrichten.ch/story/271477/ich-habe-148-l%C3%A4nderspiele-der-zeitpunkt-ist-gekommen-das-zu-anerkennen-granit-xhaka-schl%C3%A4gt-nac",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Ich habe 148 Länderspiele. Der Zeitpunkt ist gekommen, das zu anerkennen»: Granit Xhaka schlägt nach Kritik zurück",
+      "url": "https://www.bote.ch/nachrichten/sport/fussball-wm-2026-nach-41-gegen-bosnien-schlaegt-nati-captain-xhaka-zurueck-art-1708849",
+      "summary": "",
+      "published": "2026-06-19T02:32:46.683475+00:00"
     }
   ]
 }
