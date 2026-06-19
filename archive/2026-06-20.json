@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-19T23:02:24.958481+00:00",
+  "generated": "2026-06-19T23:32:13.997103+00:00",
   "date": "2026-06-20",
-  "count": 18,
+  "count": 22,
   "articles": [
     {
       "source": "SRF",
@@ -128,6 +128,34 @@
       "url": "https://www.aargauerzeitung.ch/aargau/brugg/lupfig-muss-abfallreglement-nach-streit-um-gruengut-ueberarbeiten-ld.4189156",
       "summary": "",
       "published": "2026-06-19T23:02:24.958481+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Feuerwehr im Grosseinsatz: Brand und Explosion in Feuerwerkslager in Uitikon ZH",
+      "url": "https://www.blick.ch/schweiz/zuerich/feuerwehr-im-grosseinsatz-brand-und-explosion-in-feuerwerkslager-in-uitikon-zh-id22044787.html",
+      "summary": "Mehrere Explosionen erschütterten am Abend die Zürcher Gemeinde Uitikon. Grund war ein Brand in einem Feuerwerkslager.",
+      "published": "2026-06-19T23:32:13.997103+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Zwerg-Freund»: Ronaldo-Fans attackieren Mitspieler und Freundin",
+      "url": "https://www.20min.ch/story/uebler-shitstorm-zwerg-freund-ronaldo-fans-attackieren-mitspieler-und-freundin-103586750",
+      "summary": "Portugal hat im ersten WM-Spiel gegen den Kongo 1:1 gespielt. Der einzige Torschütze João Neves und dessen Freundin wurden anschliessend Zielscheibe von Internet-Hass.",
+      "published": "2026-06-19T23:32:13.997103+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Algerien legt wegen Lionel Messi Protest ein",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-algerien-legt-wegen-lionel-messi-protest-ein",
+      "summary": "",
+      "published": "2026-06-19T23:32:13.997103+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Johan Manzambi bringt Thomas Müller und Mats Hummels zum Schwärmen",
+      "url": "https://www.watson.ch/sport/bundesliga/150975183-johan-manzambi-bringt-thomas-mueller-und-mats-hummels-zum-schwaermen",
+      "summary": "",
+      "published": "2026-06-19T23:32:13.997103+00:00"
     }
   ]
 }
