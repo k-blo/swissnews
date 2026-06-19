@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-19T01:02:19.057964+00:00",
+  "generated": "2026-06-19T01:23:45.143516+00:00",
   "date": "2026-06-19",
-  "count": 42,
+  "count": 43,
   "articles": [
     {
       "source": "Blick",
@@ -296,6 +296,13 @@
       "url": "https://www.watson.ch/sport/fussball/319184722-wm-2026-kanada-deklassiert-katar-auch-die-schweiz-profitiert",
       "summary": "",
       "published": "2026-06-19T01:02:19.057964+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Katari leidet nach Rüpelfoul mit verletztem Kone",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-katari-leidet-nach-ruepelfoul-mit-verletztem-kone",
+      "summary": "",
+      "published": "2026-06-19T01:23:45.143516+00:00"
     }
   ]
 }
