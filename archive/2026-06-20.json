@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T07:58:39.302881+00:00",
+  "generated": "2026-06-20T08:02:40.831374+00:00",
   "date": "2026-06-20",
-  "count": 260,
+  "count": 261,
   "articles": [
     {
       "source": "SRF",
@@ -1822,6 +1822,13 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/oberrickenbach-nw-tickets-fuer-schwing-und-stampf-fast-weg-art-1709078",
       "summary": "",
       "published": "2026-06-20T07:58:39.302881+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Lummerland und Mordor",
+      "url": "https://www.suedostschweiz.ch/graubuenden/lummerland-und-mordor-1932771",
+      "summary": "",
+      "published": "2026-06-20T08:02:40.831374+00:00"
     }
   ]
 }
