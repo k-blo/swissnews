@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T13:21:06.884844+00:00",
+  "generated": "2026-06-20T13:31:27.161464+00:00",
   "date": "2026-06-20",
-  "count": 400,
+  "count": 401,
   "articles": [
     {
       "source": "SRF",
@@ -2802,6 +2802,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/55-jaehriger-toefffahrer-nach-kollision-im-spital-art-1709090",
       "summary": "",
       "published": "2026-06-20T13:21:06.884844+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Eindrücke vom Umzug: Die Zurich Pride hat die Stadt im Griff",
+      "url": "https://www.bernerzeitung.ch/pride-zurich-2026-tausende-feiern-auf-der-bahnhofstrasse-175064626394",
+      "summary": "Die Stadt kocht und mitten drin feiert sich die LGBTQ+ Community und macht sich für die queere Jugend stark. Wir berichten laufend von der diesjährigen Ausgabe.",
+      "published": "2026-06-20T13:31:27.161464+00:00"
     }
   ]
 }
