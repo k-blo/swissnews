@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T01:32:33.707065+00:00",
+  "generated": "2026-06-20T02:02:16.770253+00:00",
   "date": "2026-06-20",
-  "count": 29,
+  "count": 33,
   "articles": [
     {
       "source": "SRF",
@@ -205,6 +205,34 @@
       "url": "https://www.watson.ch/sport/liveticker/779179774-brasilien-gegen-haiti-die-wm-2026-live-in-ticker-und-stream",
       "summary": "",
       "published": "2026-06-20T00:32:28.873817+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Brand in Uitikon-Waldegg – Feuerwerksdepot in Uitikon-Waldegg brennt ab",
+      "url": "https://www.srf.ch/news/schweiz/brand-in-uitikon-waldegg-feuerwerksdepot-in-uitikon-waldegg-brennt-ab",
+      "summary": "Kurz vor Mitternacht ist ein Feuerwerksdepot in Brand geraten. Verletzte gibt es keine.",
+      "published": "2026-06-20T02:02:16.770253+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Als erster Kanton der Schweiz – Wallis prüft den Abschuss von Luchsen",
+      "url": "https://www.srf.ch/news/schweiz/als-erster-kanton-der-schweiz-wallis-prueft-den-abschuss-von-luchsen",
+      "summary": "Der Kanton Wallis bereitet ein Abschussgesuch vor, um Luchse zu regulieren. Das gab es noch nie.",
+      "published": "2026-06-20T02:02:16.770253+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Uitikon-Waldegg ZH: Laute Knalle – Feuerwerksdepot bei Zürich gerät in Brand",
+      "url": "https://www.tagesanzeiger.ch/brand-in-feuerwerksdepot-in-uitikon-waldegg-zh-654206513230",
+      "summary": "Am späten Freitagabend ist in Uitikon-Waldegg in einem Lager für Feuerwerksartikel ein Feuer ausgebrochen. Inzwischen ist der Brand unter Kontrolle.",
+      "published": "2026-06-20T02:02:16.770253+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Norwegen-Fans bringen Schotten Rudern bei",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-norwegen-fans-bringen-schotten-rudern-bei",
+      "summary": "",
+      "published": "2026-06-20T02:02:16.770253+00:00"
     }
   ]
 }
