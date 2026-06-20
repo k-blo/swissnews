@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T02:32:23.949242+00:00",
+  "generated": "2026-06-20T02:39:10.492675+00:00",
   "date": "2026-06-20",
-  "count": 43,
+  "count": 45,
   "articles": [
     {
       "source": "SRF",
@@ -303,6 +303,20 @@
       "url": "https://www.watson.ch/sport/liveticker/364887224-tuerkei-gegen-paraguay-die-wm-2026-live-in-ticker-und-stream",
       "summary": "",
       "published": "2026-06-20T02:32:23.949242+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Klimaanlagen hoch im Kurs – das ist der Schaffhauser Iceman",
+      "url": "https://www.shn.ch/region/stadt/2026-06-20/klimaanlagen-hoch-im-kurs-das-ist-der-schaffhauser-iceman",
+      "summary": "Wenn in Schaffhausen die Temperaturen über 30 Grad steigen, laufen bei Ante Sertic die Drähte heiss. Der 39-Jährige leitet die Kälteabteilung der Schmid Hutter AG und weiss, was gegen die Sommerhitze ",
+      "published": "2026-06-20T02:39:10.492675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Schweiz braucht Zuwanderung, die Frage ist: Wie viel?",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-06-20/die-schweiz-braucht-zuwanderung-die-frage-ist-wie-viel",
+      "summary": "Das Volk lehnt Angriffe auf die Personenfreizügigkeit an der Urne ab, ein Votum für anhaltend hohe oder gar mehr Zuwanderung ist das aber nicht.",
+      "published": "2026-06-20T02:39:10.492675+00:00"
     }
   ]
 }
