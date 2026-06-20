@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T23:01:42.719630+00:00",
+  "generated": "2026-06-20T23:31:53.762198+00:00",
   "date": "2026-06-21",
-  "count": 1,
+  "count": 4,
   "articles": [
     {
       "source": "Watson",
@@ -9,6 +9,27 @@
       "url": "https://www.watson.ch/sport/deutschland/920358594-wm-2026-deutschland-schlaegt-elfenbeinkueste-dank-deniz-undav-spaet",
       "summary": "",
       "published": "2026-06-20T22:31:25.311868+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Editorial über die 10-Millionen-Schweiz und die SVP: Volle Strassen, leere Versprechen",
+      "url": "https://www.blick.ch/meinung/editorial-ueber-die-10-millionen-schweiz-und-die-svp-volle-strassen-leere-versprechen-id22046491.html",
+      "summary": "Fünf Tage nach der Nachhaltigkeits-Initiative präsentiert SVP-Verkehrsminister Rösti einen Ausbauplan mit massiven Streichungen – was ist jetzt mit der Infrastruktur am Anschlag?",
+      "published": "2026-06-20T23:31:53.762198+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Töfffahrer und Mitfahrerin nach Kollision erheblich verletzt",
+      "url": "https://www.20min.ch/story/gersau-sz-toefffahrer-und-mitfahrerin-nach-kollision-erheblich-verletzt-103587259",
+      "summary": "Bei einem Verkehrsunfall in Gersau SZ sind am Samstagabend ein Töfffahrer und seine Mitfahrerin schwer verletzt worden. Beide mussten mit Rega-Helikoptern in Spitäler geflogen werden.",
+      "published": "2026-06-20T23:31:53.762198+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bürgenstock: JD Vance reist wegen Iran-Krieg in die Schweiz",
+      "url": "https://www.watson.ch/schweiz/international/827389026-buergenstock-jd-vance-reist-wegen-iran-krieg-in-die-schweiz",
+      "summary": "",
+      "published": "2026-06-20T23:31:53.762198+00:00"
     }
   ]
 }
