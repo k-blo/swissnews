@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T21:02:12.386770+00:00",
+  "generated": "2026-06-20T21:31:59.469383+00:00",
   "date": "2026-06-20",
-  "count": 552,
+  "count": 564,
   "articles": [
     {
       "source": "SRF",
@@ -3866,6 +3866,90 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/zwei-schwerverletzte-nach-toeffunfall-auf-der-seestrasse-art-1709100",
       "summary": "",
       "published": "2026-06-20T21:02:12.386770+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Amerikanisches Preisdiktat: Schweizer Medikamente werden wegen Trump teurer – bezahlen sollen die Kantone",
+      "url": "https://www.tagesanzeiger.ch/pharma-fonds-kantone-zahlen-fuer-teurere-medikamente-337810314285",
+      "summary": "Der Druck von US-Präsident Trump ist so stark, dass die Schweiz einen neuen Fonds für die Pharma-Industrie einführen will. Die Kantone werden dafür zur Kasse gebeten.",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Konflikt mit der Schule: 2 Mädchen, 11 Buben: Eltern ziehen Klasseneinteilung vor Bundesgericht",
+      "url": "https://www.tagesanzeiger.ch/klasseneinteilung-eltern-ziehen-schule-vor-bundesgericht-355535224342",
+      "summary": "Der Auftrag zur Gleichstellung sei nicht erfüllt, sagen die Eltern einer Schülerin. Und streiten mit der Schule bis vors höchste Gericht. Dieses muss nun einen Entscheid für die Schweiz fällen.",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Abstimmung vom 27. September: 57 Prozent wollen die Ernährungs-Initiative annehmen – obwohl alle Parteien dagegen sind",
+      "url": "https://www.tagesanzeiger.ch/ernaehrungsinitiative-57-prozent-dafuer-trotz-parteienwiderstands-278256780988",
+      "summary": "Die Umweltaktivistin Franziska Herren scheucht mit der nächsten «Bauernschreck»-Initiative die politische Landschaft auf. Die erste Umfrage war für die Gegner ein Schock – jetzt schlagen sie scharfe T",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Nein zur 10-Millionen-Initiative: Die SVP steht vor der nächsten Niederlage – doch die Partei setzt andere Prioritäten",
+      "url": "https://www.tagesanzeiger.ch/neutralitaetsinitiative-54-prozent-dagegen-999882863599",
+      "summary": "Der Kampf gegen die EU-Verträge ist für die SVP wichtiger als Christoph Blochers Neutralitätsinitiative. Das Volk dürfte diese im Herbst denn auch ablehnen, wie eine Umfrage zeigt.",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Deutschland – Elfenbeinküste im Ticker: Deutschland erhöht den Druck",
+      "url": "https://www.bazonline.ch/fussball-wm-live-deutschland-elfenbeinkueste-um-22-uhr-im-ticker-497589341891",
+      "summary": "Nach dem klaren 7:1 gegen Curaçao ist Deutschland heissgelaufen. Kann die Elfenbeinküste dagegenhalten? Das Spiel im Liveticker.",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kriens Busschleife bei Pilatus Bahnen Geplant",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/kriens-busschleife-bei-pilatus-bahnen-geplant-ld.4189220",
+      "summary": "",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Paraguay-Held klaut dem Schiedsrichter die Uhr",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-paraguay-held-klaut-dem-schiedsrichter-die-uhr",
+      "summary": "",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SBB-Unterbruch bei Luzern: Person klettert Strommast hoch",
+      "url": "https://www.watson.ch/schweiz/sbb/790647076-sbb-unterbruch-bei-luzern-person-klettert-strommast-hoch",
+      "summary": "",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Düdingen II schafft den Aufstieg mit einem Kantersieg",
+      "url": "https://www.freiburger-nachrichten.ch/story/271684/d%C3%BCdingen-ii-schafft-den-aufstieg-mit-einem-kantersieg",
+      "summary": "",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Meloni zu Trump: Meine Beliebtheit geht dich nichts an",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/meloni-kontert-trump-im-streit-um-angebliches-foto-art-1709103",
+      "summary": "",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bei der Talstation der Pilatus-Bahnen entsteht eine Busschleife",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kriens-busschleife-bei-pilatus-bahnen-geplant-art-1709102",
+      "summary": "",
+      "published": "2026-06-20T21:31:59.469383+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Tränen am Burgerstand und kollektive Euphorie im Stadion: So war das Konzert der Toten Hosen",
+      "url": "https://www.bote.ch/nachrichten/kultur/die-toten-hosen-im-letzigrund-so-war-das-konzert-art-1709101",
+      "summary": "",
+      "published": "2026-06-20T21:31:59.469383+00:00"
     }
   ]
 }
