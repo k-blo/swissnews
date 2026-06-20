@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T19:31:29.844512+00:00",
+  "generated": "2026-06-20T20:01:37.769644+00:00",
   "date": "2026-06-20",
-  "count": 526,
+  "count": 538,
   "articles": [
     {
       "source": "SRF",
@@ -3684,6 +3684,90 @@
       "url": "https://www.watson.ch/sport/fussball/248715111-kantersieg-mit-zwei-doppelpacks-niederlande-schlaegt-schwache-schweden",
       "summary": "",
       "published": "2026-06-20T19:31:29.844512+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Neben Marius: Diese Royals landeten schon hinter Gittern",
+      "url": "https://www.20min.ch/story/royals-vor-gericht-neben-marius-diese-royals-landeten-schon-hinter-gittern-103583427",
+      "summary": "Marius Borg Høiby wurde zu vier Jahren Haft verurteilt. Er ist nicht der einzige prominente Fall aus Adel oder Königshaus.",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wer Katastrophenrisiken auf der Blockchain rückversichert, verdient kräftig",
+      "url": "https://www.nzz.ch/wirtschaft/wer-katastrophenrisiken-auf-der-blockchain-rueckversichert-verdient-kraeftig-ld.10012194",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Bauernaufstand gegen Parmelin: Die Schweizer Landwirte lassen ihren engsten Verbündeten im Bundesrat im Stich",
+      "url": "https://www.nzz.ch/wirtschaft/bauernaufstand-gegen-parmelin-die-schweizer-landwirte-lassen-ihren-engsten-verbuendeten-im-bundesrat-im-stich-ld.10012133",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Leopold Aschenbrenner: Was weiss dieses Wunderkind, das die Börse nicht weiss?",
+      "url": "https://www.nzz.ch/finanzen/leopold-aschenbrenner-was-weiss-dieses-wunderkind-das-die-boerse-nicht-weiss-ld.10012073",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Zwischen Nahtod und Euphorie»: Das Fintech-Startup Ellexx wehrt sich gegen Untergangsgerüchte",
+      "url": "https://www.nzz.ch/wirtschaft/zwischen-nahtod-und-euphorie-das-fintech-startup-ellexx-wehrt-sich-gegen-untergangsgeruechte-ld.10011862",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der lange Arm der Bullshit-Jobs: Warum uns sinnbefreite Arbeit bis ins Bett verfolgt",
+      "url": "https://www.nzz.ch/wirtschaft/der-lange-arm-der-bullshit-jobs-warum-uns-sinnbefreite-arbeit-bis-ins-bett-verfolgt-ld.10011562",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Goldstrom hat gedreht: Jetzt könnte die Schweiz von den USA Zoll verlangen",
+      "url": "https://www.nzz.ch/wirtschaft/schweizer-zoll-verhandlungen-mit-usa-das-gold-sorgt-jetzt-fuer-ein-defizit-ld.10010923",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Das waren keine Drohungen»: Die On-Gründer rechtfertigen ihren harten Kampf um das Schweizerkreuz",
+      "url": "https://www.nzz.ch/wirtschaft/das-waren-keine-drohungen-die-on-gruender-rechtfertigen-ihren-harten-kampf-um-das-schweizerkreuz-ld.10010109",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Viele Läden sehen fast so aus wie vor bald 20 Jahren»: Die Denner-Krise kratzt am Image von Migros-Chef Mario Irminger",
+      "url": "https://www.nzz.ch/wirtschaft/viele-laeden-sehen-fast-so-aus-wie-vor-bald-20-jahren-die-denner-krise-kratzt-am-image-von-migros-chef-mario-irminger-ld.10011613",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Druck aus China: Nachrichtendienst warnt vor Städtepartnerschaften",
+      "url": "https://www.nzz.ch/schweiz/druck-aus-china-nachrichtendienst-warnt-vor-staedtepartnerschaften-ld.10011766",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Lücken in der Personenfreizügigkeit: Mit Fake Jobs, Scheinfirmen und falschen Pässen zur Aufenthaltsbewilligung",
+      "url": "https://www.nzz.ch/schweiz/luecken-in-der-personenfreizuegigkeit-mit-scheinfirmen-fake-jobs-und-falschen-paessen-zur-aufenthaltsbewilligung-ld.10012085",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bot-Einsatz bei der Abstimmung zur 10-Millionen-Schweiz",
+      "url": "https://www.watson.ch/schweiz/social-media/777829269-bot-einsatz-bei-der-abstimmung-zur-10-millionen-schweiz",
+      "summary": "",
+      "published": "2026-06-20T20:01:37.769644+00:00"
     }
   ]
 }
