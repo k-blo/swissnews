@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T04:02:34.753489+00:00",
+  "generated": "2026-06-20T04:32:11.236151+00:00",
   "date": "2026-06-20",
-  "count": 174,
+  "count": 180,
   "articles": [
     {
       "source": "SRF",
@@ -1220,6 +1220,48 @@
       "url": "https://www.freiburger-nachrichten.ch/story/270870/freie-w%C3%A4hler-d%C3%BCdingen-haben-sich-neu-organisiert",
       "summary": "",
       "published": "2026-06-20T04:02:34.753489+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Dank AKW-Ja: Die Grünen sind wieder da",
+      "url": "https://www.nzz.ch/meinung/dank-akw-ja-die-gruenen-sind-wieder-da-ld.10012106",
+      "summary": "",
+      "published": "2026-06-20T04:32:11.236151+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Richtige Männer» werden an den Rand gedrängt? Studie über Vorstellungen von Männlichkeit in der Schweiz",
+      "url": "https://www.nzz.ch/panorama/richtige-maenner-werden-an-den-rand-gedraengt-studie-ueber-vorstellungen-von-maennlichkeit-in-der-schweiz-ld.10012134",
+      "summary": "",
+      "published": "2026-06-20T04:32:11.236151+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Uitikon Brand und Explosionen in Feuerwerkdepot",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/uitikon-brand-und-explosionen-in-feuerwerkdepot-ld.4189913",
+      "summary": "",
+      "published": "2026-06-20T04:32:11.236151+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neue Rassismus-Regel kommt an WM zum Einsatz – was hältst du davon?",
+      "url": "https://www.watson.ch/sport/rassismus/921628736-neue-rassismus-regel-kommt-an-wm-zum-einsatz-was-haeltst-du-davon",
+      "summary": "",
+      "published": "2026-06-20T04:32:11.236151+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die treffendsten Trump-Karikaturen und Memes der Woche",
+      "url": "https://www.watson.ch/digital/spass/363850009-die-treffendsten-trump-karikaturen-und-memes-der-woche",
+      "summary": "",
+      "published": "2026-06-20T04:32:11.236151+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zugs Weg ins Mittelmass ist programmiert nach dem Rauswurf von Reto Kläy",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/597638272-zugs-weg-ins-mittelmass-ist-programmiert-nach-dem-rauswurf-von-reto-klaey",
+      "summary": "",
+      "published": "2026-06-20T04:32:11.236151+00:00"
     }
   ]
 }
