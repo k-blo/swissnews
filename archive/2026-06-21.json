@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T04:01:46.582413+00:00",
+  "generated": "2026-06-21T04:31:25.811548+00:00",
   "date": "2026-06-21",
-  "count": 84,
+  "count": 96,
   "articles": [
     {
       "source": "Watson",
@@ -590,6 +590,90 @@
       "url": "https://www.freiburger-nachrichten.ch/story/271181/espace-gruyre-wird-zum-tattootempel",
       "summary": "",
       "published": "2026-06-21T04:01:46.582413+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tausende Schweizerinnen verloren durch Heirat ihr Bürgerrecht",
+      "url": "https://www.20min.ch/story/historisches-unrecht-tausende-schweizerinnen-verloren-durch-heirat-ihr-buergerrecht-103587266",
+      "summary": "Schweizerinnen verloren früher durch Heirat mit einem Ausländer ihr Bürgerrecht – mit gravierenden Folgen. Nun fordert SP-Nationalrätin Michèle Dünki-Bättig eine Aufklärung dieses «dunklen Kapitels».",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Problem mit Radar: Am Flughafen Zürich können wegen technischer Probleme keine Flugzeuge starten",
+      "url": "https://www.tagesanzeiger.ch/flughafen-zuerich-radarausfall-stoppt-starts-am-morgen-490215229882",
+      "summary": "Ein Problem mit einem Radar am Flughafen Zürich verhinderte Starts am Sonntagmorgen. Landungen waren möglich.",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stichentscheid an Gemeindeversammlung: Von wegen, auf eine Stimme kommts nicht an – hier entschied eine Person",
+      "url": "https://www.tagesanzeiger.ch/stichentscheid-wenn-eine-stimme-alles-entscheidet-320369357278",
+      "summary": "In Rafz ging es um ein Feuerwerksverbot, in Wallisellen um Bauregeln. Beide Male resultierte ein Patt, womit ein präsidialer Stichentscheid erging. Das kommt gar nicht so selten vor.",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home: Diese zehn Ideen machen Ihre Mittsommernacht zum Erlebnis",
+      "url": "https://www.tagesanzeiger.ch/mittsommer-2026-10-ideen-fuer-die-schoenste-sommernacht-615558063517",
+      "summary": "Heute ist der längste Tag im Jahr. Geniessen Sie die schönen Sommernächte, feiern Sie Mittsommer und kümmern Sie sich dabei auch ein wenig um Ihr Schlafzimmer.",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Familienpolitik in Adliswil: Breite Allianz will Familienzentrum vor der Schliessung retten",
+      "url": "https://www.tagesanzeiger.ch/familienzentrum-adliswil-fuenf-fraktionen-fordern-zwischenfinanzierung-722032704347",
+      "summary": "Ein Zusammenschluss von fünf Fraktionen möchte eine Zwischenfinanzierung des Zentrums erreichen. Diese soll Angebot sichern, bis das Stimmvolk darüber entscheiden kann.",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kieler Forscher: «Wir sollten Chinas Subventionen ausbeuten. Wenn uns China seine Produkte billig anbietet, sollten wir dieses Geschenk annehmen»",
+      "url": "https://www.nzz.ch/wirtschaft/kieler-forscher-wir-sollten-chinas-subventionen-ausbeuten-wenn-uns-china-seine-produkte-billig-anbietet-sollten-wir-dieses-geschenk-annehmen-ld.10012136",
+      "summary": "",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frankreich verbietet wegen Hitzewelle Alkoholkonsum in Öffentlichkeit",
+      "url": "https://www.watson.ch/international/alkohol/638406969-frankreich-verbietet-wegen-hitzewelle-alkoholkonsum-in-oeffentlichkeit",
+      "summary": "",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Online-Handel: Kriminelle Kunden werden immer mehr zum Problem",
+      "url": "https://www.watson.ch/digital/konsum-detailhandel/366722451-online-handel-kriminelle-kunden-werden-immer-mehr-zum-problem",
+      "summary": "",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Patriot-Abwehrsystem gegen ballistische Raketen «praktisch nutzlos»",
+      "url": "https://www.watson.ch/schweiz/armee/270284245-patriot-abwehrsystem-gegen-ballistische-raketen-praktisch-nutzlos",
+      "summary": "",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Deutschland sorgt sich um Nico Schlotterbeck",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-deutschland-sorgt-sich-um-nico-schlotterbeck",
+      "summary": "",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Sonst verdienen wir keine Subventionen»: Was ein Stardirigent über die Zukunft der Oper sagt",
+      "url": "https://www.freiburger-nachrichten.ch/story/271665/sonst-verdienen-wir-keine-subventionen-was-ein-stardirigent-%C3%BCber-die-zukunft-der-oper-sagt",
+      "summary": "",
+      "published": "2026-06-21T04:31:25.811548+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der grosse Hitze-Guide: Was ein Arzt, ein Hydrologe und ein Rettungsschwimmer raten",
+      "url": "https://www.freiburger-nachrichten.ch/story/271662/der-grosse-hitzeguide-was-ein-arzt-ein-hydrologe-und-ein-rettungsschwimmer-raten",
+      "summary": "",
+      "published": "2026-06-21T04:31:25.811548+00:00"
     }
   ]
 }
