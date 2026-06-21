@@ -1,16 +1,16 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Sun, 21 Jun 2026 11:52:31 GMT",
-    "etag": "\"490863903e37d2b96b3e889db3a96c8c\""
+    "last_modified": "Sun, 21 Jun 2026 11:59:57 GMT",
+    "etag": "\"075db483961d082841b90837c2659cd4\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"181b3-1aB/dhYXwosVusUjboUsQVn89MU\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"11a2f-GqZz58bEhDNBmhuxqplvPJgMqh4\""
+    "etag": "W/\"11a22-P7Vyct6UrU2fD3xdA15m1VUqSpo\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"117ad-YB9nay/WJdbdkjDv+MvR7jIZpkw\""
+    "etag": "W/\"117da-W6KGYXGwOMGa5FcafJQKzJvgz64\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Sun, 21 Jun 2026 11:03:29 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1782040277\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sun, 21 Jun 2026 11:54:32 GMT"
+    "last_modified": "Sun, 21 Jun 2026 11:59:32 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Sun, 21 Jun 2026 06:30:26 GMT",
     "etag": "\"6c28784efed06382829c5d8dd0100a2c\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"11805-/pMTHaO90RaW0D26zWzt4WQH3vQ\""
+    "etag": "W/\"11831-/aZbgsI8K+dUxzDDKn0+fCKl97g\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"1043b-zgtf/U+6ZPtj0ChyVd5W13omqvg\""
+    "etag": "W/\"10472-/ZYYAaNjyUXW7BcgDDvswHEnC+8\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Sun, 21 Jun 2026 11:53:31 GMT",
@@ -44,15 +44,15 @@
     "etag": "\"1782042811\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
-    "etag": "W/\"cb-vNBI8dvR3k21HZQ+ZYmSNW7Hw9s\""
+    "etag": "W/\"2297d-OPVITA4tDM9/X1GIULLL6Mh019U\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=14": {
     "last_modified": "Tue, 16 Jun 2026 07:51:08 GMT",
     "etag": "\"1781596268\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sun, 21 Jun 2026 11:45:08 GMT",
-    "etag": "W/\"1782042308-gzip\""
+    "last_modified": "Sun, 21 Jun 2026 12:00:34 GMT",
+    "etag": "W/\"1782043234-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Fri, 19 Jun 2026 12:40:40 GMT",
