@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T19:31:48.498275+00:00",
+  "generated": "2026-06-21T20:01:49.146006+00:00",
   "date": "2026-06-21",
-  "count": 519,
+  "count": 526,
   "articles": [
     {
       "source": "Watson",
@@ -3635,6 +3635,55 @@
       "url": "https://www.freiburger-nachrichten.ch/story/271835/ein-hauch-von-frieden-murten-feiert-den-weltyogatag-im-zeichen-der-vers%C3%B6hnung",
       "summary": "",
       "published": "2026-06-21T19:31:48.498275+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview zu Smileys im Büro: «Okay, wir erledigt :-)» – Warum Emojis in der Nachricht an den Chef nichts verloren haben",
+      "url": "https://www.tagesanzeiger.ch/emojis-am-arbeitsplatz-sinnvoll-oder-peinlich-808718791334",
+      "summary": "Psychologin Erin Leigh Courtice hat untersucht, wie Emojis unsere professionelle Wirkung beeinflussen. Sie verrät, warum weniger oft mehr ist – und wann sogar ein freundliches Smiley schlecht ankommt.",
+      "published": "2026-06-21T20:01:49.146006+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dank einer Wildcard: Serena Williams feiert Einzel-Comeback in Wimbledon",
+      "url": "https://www.tagesanzeiger.ch/wimbledon-serena-williams-erhaelt-wildcard-fuer-einzel-717701263259",
+      "summary": "Serena Williams wird in London nicht nur im Doppel antreten. Es ist ihr erster Grand-Slam-Auftritt seit 2022.",
+      "published": "2026-06-21T20:01:49.146006+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Interview zu Smileys im Büro: «Okay, wird erledigt 😊»: Warum Emojis in der Nachricht an die Chefin nichts verloren haben",
+      "url": "https://www.derbund.ch/emojis-am-arbeitsplatz-sinnvoll-oder-peinlich-808718791334",
+      "summary": "Psychologin Erin Leigh Courtice hat untersucht, wie Emojis unsere professionelle Wirkung beeinflussen. Sie verrät, wann ein freundliches Smiley passt – und wann nicht.",
+      "published": "2026-06-21T20:01:49.146006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Selenskyj über Lukaschenko: «Entschuldigung kann er für sich behalten»",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/731059007-selenskyj-ueber-lukaschenko-entschuldigung-kann-er-fuer-sich-behalten",
+      "summary": "",
+      "published": "2026-06-21T20:01:49.146006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Djorkaeff schläft während Spanien-Spiel ein",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-djorkaeff-schlaeft-waehrend-spanien-spiel-ein",
+      "summary": "",
+      "published": "2026-06-21T20:01:49.146006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Serena Williams gibt auch im Einzel ihr Comeback",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-serena-williams-gibt-auch-im-einzel-ihr-comeback",
+      "summary": "",
+      "published": "2026-06-21T20:01:49.146006+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Serena Williams gibt auch im Einzel ihr Comeback",
+      "url": "https://www.bote.ch/nachrichten/sport/wimbledon-gibt-serena-williams-die-letzte-wildcard-art-1709167",
+      "summary": "",
+      "published": "2026-06-21T20:01:49.146006+00:00"
     }
   ]
 }
