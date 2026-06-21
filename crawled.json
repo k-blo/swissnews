@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T01:01:21.159205+00:00",
+  "generated": "2026-06-21T01:31:24.318333+00:00",
   "date": "2026-06-21",
-  "count": 14,
+  "count": 15,
   "articles": [
     {
       "source": "Watson",
@@ -100,6 +100,13 @@
       "url": "https://www.20min.ch/story/frankreich-polizei-findet-picasso-gemaelde-bei-drogenrazzia-in-paris-103587264",
       "summary": "Bei einer Drogenrazzia in einem Pariser Vorort stossen Ermittler auf einen unerwarteten Fund: ein als echt bestätigtes Gemälde von Pablo Picasso.",
       "published": "2026-06-21T01:01:21.159205+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cristiano Ronaldo in Kritik – Mitspieler: «War klar, dass so was kommt»",
+      "url": "https://www.watson.ch/sport/cristiano-ronaldo/419700319-cristiano-ronaldo-in-kritik-mitspieler-war-klar-dass-so-was-kommt",
+      "summary": "",
+      "published": "2026-06-21T01:31:24.318333+00:00"
     }
   ]
 }
