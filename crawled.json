@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T05:02:07.810676+00:00",
+  "generated": "2026-06-21T05:31:33.503350+00:00",
   "date": "2026-06-21",
-  "count": 105,
+  "count": 112,
   "articles": [
     {
       "source": "Watson",
@@ -737,6 +737,55 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/technische-stoerung-am-flughafen-zuerich-geht-nichts-mehr-art-1709108",
       "summary": "",
       "published": "2026-06-21T05:02:07.810676+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Landungen weiterhin möglich – Radarstörung: Am Flughafen Zürich können keine Flugzeuge starten",
+      "url": "https://www.srf.ch/news/schweiz/landungen-weiterhin-moeglich-radarstoerung-am-flughafen-zuerich-koennen-keine-flugzeuge-starten",
+      "summary": "Am Sonntagmorgen ist es am Flughafen Zürich zu einer technischen Störung gekommen. Aktuell können Flugzeuge nur landen.",
+      "published": "2026-06-21T05:31:33.503350+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Motion an den Bundesrat: Kommt jetzt die schwarze Liste für übergriffige Kita-Mitarbeitende?",
+      "url": "https://www.tagesanzeiger.ch/schwarze-liste-fuer-kita-mitarbeitende-motion-im-nationalrat-526539207340",
+      "summary": "Nationalrätin Nina Fehr Düsel will Fälle, wie sie jüngst in Bern und Winterthur stattgefunden haben, verhindern. Ihr Vorstoss wurde von Vertretern aller Parteien mitunterzeichnet.",
+      "published": "2026-06-21T05:31:33.503350+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mike Müller im Interview: «Natalie Ricklis Beamte erschufen ein absurdes bürokratisches Monster»",
+      "url": "https://www.tagesanzeiger.ch/mike-mueller-ueber-seine-zensierte-szene-am-schauspielhaus-398209627961",
+      "summary": "Der Satiriker wollte Schlachthofrealität an seinem Hund zeigen – Natalie Ricklis Amt verbot es. Im Interview kritisiert er bürgerliche Weinerlichkeit und eine Schweizer Vollkaskomentalität.",
+      "published": "2026-06-21T05:31:33.503350+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Alle News zur WM: Goalie Room hext Curaçao zu überraschendem Punktgewinn",
+      "url": "https://www.tagesanzeiger.ch/fussball-wm-2026-goalie-room-glaenzt-bei-curacao-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli findet in den USA, Mexiko und Kanada die Fussball-WM statt. Alle wichtigen Informationen dazu finden Sie hier.",
+      "published": "2026-06-21T05:31:33.503350+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sehnsuchtsorte für Hitzegeplagte: Vom Tiefkühllager bis ins Weltall: Hier gibt es garantiert Abkühlung",
+      "url": "https://www.tagesanzeiger.ch/hitzewelle-schweiz-fuenf-orte-mit-extremer-kaelte-290125921706",
+      "summary": "Die Schweiz schwitzt unter extremen Temperaturen. Zeit für eine gedankliche Reise an diese Hotspots der Erfrischung.",
+      "published": "2026-06-21T05:31:33.503350+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Fussball-WM 2026: Alle Spiele, Resultate und Tabellen",
+      "url": "https://www.bazonline.ch/wm-2026-alle-gruppen-spiele-und-termine-heute-931285266696",
+      "summary": "In den USA, Kanada und Mexiko finden in 39 Tagen 104 Partien statt. So viele wie noch nie.",
+      "published": "2026-06-21T05:31:33.503350+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Migrationsbetrug, Alarm wegen Chemikalie und immer mehr Verkehr",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/news-aus-der-sonntagspresse-migration-chemikalien-und-stau-art-1709109",
+      "summary": "",
+      "published": "2026-06-21T05:31:33.503350+00:00"
     }
   ]
 }
