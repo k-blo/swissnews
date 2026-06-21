@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T01:31:24.318333+00:00",
+  "generated": "2026-06-21T02:01:24.221814+00:00",
   "date": "2026-06-21",
-  "count": 15,
+  "count": 18,
   "articles": [
     {
       "source": "Watson",
@@ -107,6 +107,27 @@
       "url": "https://www.watson.ch/sport/cristiano-ronaldo/419700319-cristiano-ronaldo-in-kritik-mitspieler-war-klar-dass-so-was-kommt",
       "summary": "",
       "published": "2026-06-21T01:31:24.318333+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ecuador gegen Curaçao – die WM 2026 live in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/161511093-ecuador-gegen-curacao-die-wm-2026-live-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-06-21T02:01:24.221814+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Putin geht das Benzin aus – in Russland wächst die Panik",
+      "url": "https://www.watson.ch/wirtschaft/international/849621999-putin-geht-das-benzin-aus-in-russland-waechst-die-panik",
+      "summary": "",
+      "published": "2026-06-21T02:01:24.221814+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zm Sommeranfang: Hitze und Unwetter in Deutschland",
+      "url": "https://www.watson.ch/international/extremwetter/165257591-zm-sommeranfang-hitze-und-unwetter-in-deutschland",
+      "summary": "",
+      "published": "2026-06-21T02:01:24.221814+00:00"
     }
   ]
 }
