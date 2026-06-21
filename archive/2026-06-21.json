@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T11:31:28.428984+00:00",
+  "generated": "2026-06-21T11:58:32.443720+00:00",
   "date": "2026-06-21",
-  "count": 276,
+  "count": 284,
   "articles": [
     {
       "source": "Watson",
@@ -1934,6 +1934,62 @@
       "url": "https://www.watson.ch/sport/velo/426244115-tour-de-suisse-marlen-reusser-faehrt-zum-dritten-gesamtsieg",
       "summary": "",
       "published": "2026-06-21T11:31:28.428984+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Du willst dein Daheim kühlen? Profis raten von diesem Gerät ab",
+      "url": "https://www.20min.ch/story/hitzewelle-du-willst-dein-daheim-kuehlen-profis-raten-von-diesem-geraet-ab-103584183",
+      "summary": "Welches Kühlungsgerät bringt tatsächlich Abkühlung – und welches sorgt für falsche Erwartungen? Experten empfehlen für echte Kühlung Split-Klimaanlagen und raten von Luftkühlern ab.",
+      "published": "2026-06-21T11:58:32.443720+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Adligenswil Tag der Offenen Tür im Asylzentrum",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/adligenswil-tag-der-offenen-tuer-im-asylzentrum-ld.4189219",
+      "summary": "",
+      "published": "2026-06-21T11:58:32.443720+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "26 Ehemaligen 90er Grenadier Treffen in Solothurn",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/26-ehemaligen-90er-grenadier-treffen-in-solothurn-ld.4190024",
+      "summary": "",
+      "published": "2026-06-21T11:58:32.443720+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Unterägeri Tanzatelier Zug Zeigt Grosse Jubiläumsshow",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/unteraegeri-tanzatelier-zug-zeigt-grosse-jubilaeumsshow-ld.4190028",
+      "summary": "",
+      "published": "2026-06-21T11:58:32.443720+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rauchsäule über Bern: PubliBike brennt im Wankdorf aus",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/313459931-rauchsaeule-ueber-bern-publibike-brennt-im-wankdorf-aus",
+      "summary": "",
+      "published": "2026-06-21T11:58:32.443720+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Möhlin AG: Zwei mutmassliche E-Bike-Diebe festgenommen",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/185873723-moehlin-ag-zwei-mutmassliche-e-bike-diebe-festgenommen",
+      "summary": "",
+      "published": "2026-06-21T11:58:32.443720+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Viel tänzerisches Feuer in Unterägeri",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/unteraegeri-tanzatelier-zug-zeigt-grosse-jubilaeumsshow-art-1709123",
+      "summary": "",
+      "published": "2026-06-21T11:58:32.443720+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Haus wie eine grosse WG: Die Öffentlichkeit zu Gast im Asylzenrum",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/adligenswil-tag-der-offenen-tuer-im-asylzentrum-art-1709122",
+      "summary": "",
+      "published": "2026-06-21T11:58:32.443720+00:00"
     }
   ]
 }
