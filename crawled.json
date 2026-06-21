@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T00:48:45.191147+00:00",
+  "generated": "2026-06-21T01:01:21.159205+00:00",
   "date": "2026-06-21",
-  "count": 13,
+  "count": 14,
   "articles": [
     {
       "source": "Watson",
@@ -93,6 +93,13 @@
       "url": "https://www.watson.ch/sport/fifa/160144172-wm-2026-niederlaendischer-koenig-witzelt-nach-treffen-mit-infantino",
       "summary": "",
       "published": "2026-06-21T00:48:45.191147+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Polizei findet Picasso-Gemälde bei Drogenrazzia in Paris",
+      "url": "https://www.20min.ch/story/frankreich-polizei-findet-picasso-gemaelde-bei-drogenrazzia-in-paris-103587264",
+      "summary": "Bei einer Drogenrazzia in einem Pariser Vorort stossen Ermittler auf einen unerwarteten Fund: ein als echt bestätigtes Gemälde von Pablo Picasso.",
+      "published": "2026-06-21T01:01:21.159205+00:00"
     }
   ]
 }
