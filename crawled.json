@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T21:01:31.133023+00:00",
+  "generated": "2026-06-21T21:31:54.888272+00:00",
   "date": "2026-06-21",
-  "count": 534,
+  "count": 537,
   "articles": [
     {
       "source": "Watson",
@@ -3740,6 +3740,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/beim-internet-geht-das-ebs-neue-wege-art-1709139",
       "summary": "",
       "published": "2026-06-21T21:01:31.133023+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Alle News zur WM: Belgien enttäuscht erneut: 0:0 gegen den Iran",
+      "url": "https://www.tagesanzeiger.ch/fussball-wm-2026-belgien-enttaeuscht-bei-wm-auch-gegen-den-iran-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli findet in den USA, Mexiko und Kanada die Fussball-WM statt. Alle wichtigen Informationen dazu finden Sie hier.",
+      "published": "2026-06-21T21:31:54.888272+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Belgien enttäuscht mit 0:0 gegen Iran +++ Spanien rehabilitiert sich mit einem 4:0 gegen Saudiarabien",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-belgien-enttaeuscht-mit-00-gegen-iran-spanien-rehabilitiert-sich-mit-einem-40-gegen-saudiarabien-ld.10010036",
+      "summary": "",
+      "published": "2026-06-21T21:31:54.888272+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Gegner Zweimal Deklassiert Sc Kreuzlingen Schafft Halbfinal Qualifikation",
+      "url": "https://www.tagblatt.ch/sport/thurgau/gegner-zweimal-deklassiert-sc-kreuzlingen-schafft-halbfinal-qualifikation-ld.4190224",
+      "summary": "",
+      "published": "2026-06-21T21:31:54.888272+00:00"
     }
   ]
 }
