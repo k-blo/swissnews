@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T00:31:28.427642+00:00",
+  "generated": "2026-06-21T00:48:45.191147+00:00",
   "date": "2026-06-21",
-  "count": 11,
+  "count": 13,
   "articles": [
     {
       "source": "Watson",
@@ -79,6 +79,20 @@
       "url": "https://www.watson.ch/international/iran/248038685-nahost-krieg-iran-schliesst-strasse-von-hormus-trump-reagiert",
       "summary": "",
       "published": "2026-06-21T00:31:28.427642+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: DFB-Team nach 2:1 gegen Côte d’Ivoire in K.-o.-Runde +++ Niederlande in WM-Form – deutlicher Sieg gegen Schweden",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-dfb-team-nach-21-gegen-cote-d-ivoire-in-k-o-runde-niederlande-in-wm-form-deutlicher-sieg-gegen-schweden-ld.10010036",
+      "summary": "",
+      "published": "2026-06-21T00:48:45.191147+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Niederländischer König witzelt nach Treffen mit Infantino",
+      "url": "https://www.watson.ch/sport/fifa/160144172-wm-2026-niederlaendischer-koenig-witzelt-nach-treffen-mit-infantino",
+      "summary": "",
+      "published": "2026-06-21T00:48:45.191147+00:00"
     }
   ]
 }
