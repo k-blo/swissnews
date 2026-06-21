@@ -1,13 +1,13 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Sun, 21 Jun 2026 21:04:59 GMT",
-    "etag": "\"34d6920362c49282370674756f4fc643\""
+    "last_modified": "Sun, 21 Jun 2026 21:56:37 GMT",
+    "etag": "\"ddbaf7596d35c5ee8dbfbadba079ee19\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"1772b-jRr7pa5S/eWFvzr9WaiMb22ZHyw\""
+    "etag": "W/\"17557-aLHT5APbcT1dHgMLX0NMCZm0LKo\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"10620-UZ1h2Wihh47kkWJ2L9iVAqRmzj0\""
+    "etag": "W/\"1063d-9eBvJFQ/aist568ympT23ASgVKg\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"f67e-EjtojVW3IrKDX12+IdypovZgoqA\""
@@ -16,21 +16,21 @@
     "last_modified": "Sun, 21 Jun 2026 15:05:11 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Sun, 21 Jun 2026 21:30:45 GMT"
+    "last_modified": "Sun, 21 Jun 2026 22:00:44 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Sun, 21 Jun 2026 20:11:16 GMT",
     "etag": "\"1782072676\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sun, 21 Jun 2026 21:30:28 GMT"
+    "last_modified": "Sun, 21 Jun 2026 22:00:29 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Sun, 21 Jun 2026 06:30:26 GMT",
     "etag": "\"6c28784efed06382829c5d8dd0100a2c\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"f6d4-Xf7/Xh2j4/ufsUO+ICykFbhsSAI\""
+    "etag": "W/\"f6c0-sI09fmpG3VBZIklyJs22nNDOB8M\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
     "etag": "W/\"fd36-GD6nMh8B9DQeG2REYwsmto1wckE\""
@@ -51,8 +51,8 @@
     "etag": "\"1781596268\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sun, 21 Jun 2026 21:28:58 GMT",
-    "etag": "W/\"1782077338-gzip\""
+    "last_modified": "Sun, 21 Jun 2026 21:39:43 GMT",
+    "etag": "W/\"1782077983-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Fri, 19 Jun 2026 12:40:40 GMT",
