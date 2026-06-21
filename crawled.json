@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T23:31:53.762198+00:00",
+  "generated": "2026-06-21T00:01:24.827837+00:00",
   "date": "2026-06-21",
-  "count": 4,
+  "count": 7,
   "articles": [
     {
       "source": "Watson",
@@ -30,6 +30,27 @@
       "url": "https://www.watson.ch/schweiz/international/827389026-buergenstock-jd-vance-reist-wegen-iran-krieg-in-die-schweiz",
       "summary": "",
       "published": "2026-06-20T23:31:53.762198+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schutz des Schweizer Luftraums: Patriot ist gegen ballistische Raketen aus Russland und dem Iran «praktisch nutzlos»",
+      "url": "https://www.tagesanzeiger.ch/patriot-schweizer-luftverteidigung-gegen-russland-nutzlos-556662786369",
+      "summary": "Der Bundesrat will das Land besser vor Bedrohungen aus der Distanz schützen. Doch die Abwehr ist komplex – und Patriot wirkt nur gegen Raketen aus Entfernungen wie Wien oder Paris. Müssen Deutschland ",
+      "published": "2026-06-21T00:01:24.827837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran-Gespräche: US-Vizepräsident JD Vance reist in die Schweiz",
+      "url": "https://www.watson.ch/international/iran/213856282-iran-gespraeche-us-vizepraesident-jd-vance-reist-in-die-schweiz",
+      "summary": "",
+      "published": "2026-06-21T00:01:24.827837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Toten Hosen im Letzigrund: Tränen und kollektive Euphorie",
+      "url": "https://www.watson.ch/leben/zuerich/396948308-die-toten-hosen-im-letzigrund-traenen-und-kollektive-euphorie",
+      "summary": "",
+      "published": "2026-06-21T00:01:24.827837+00:00"
     }
   ]
 }
