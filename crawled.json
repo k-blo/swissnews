@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-21T00:01:24.827837+00:00",
+  "generated": "2026-06-21T00:31:28.427642+00:00",
   "date": "2026-06-21",
-  "count": 7,
+  "count": 11,
   "articles": [
     {
       "source": "Watson",
@@ -51,6 +51,34 @@
       "url": "https://www.watson.ch/leben/zuerich/396948308-die-toten-hosen-im-letzigrund-traenen-und-kollektive-euphorie",
       "summary": "",
       "published": "2026-06-21T00:01:24.827837+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Diese Bürgerlichen Nationalräte Haben mit den Linken Gestimmt",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/diese-buergerlichen-nationalraete-haben-mit-den-linken-gestimmt",
+      "summary": "",
+      "published": "2026-06-21T00:31:28.427642+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Vor Zehn Jahren Beschlossen die Briten aus der Eu Auszutreten und die Schweiz Schaute zu",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/vor-zehn-jahren-beschlossen-die-briten-aus-der-eu-auszutreten-und-die-schweiz-schaute-zu",
+      "summary": "",
+      "published": "2026-06-21T00:31:28.427642+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Bagtellgebühr im Spital Pfas Chemikalien",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/bagtellgebuehr-im-spital-pfas-chemikalien",
+      "summary": "",
+      "published": "2026-06-21T00:31:28.427642+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nahost-Krieg: Iran schliesst Strasse von Hormus, Trump reagiert",
+      "url": "https://www.watson.ch/international/iran/248038685-nahost-krieg-iran-schliesst-strasse-von-hormus-trump-reagiert",
+      "summary": "",
+      "published": "2026-06-21T00:31:28.427642+00:00"
     }
   ]
 }
