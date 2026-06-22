@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T23:01:43.804864+00:00",
+  "generated": "2026-06-22T23:31:28.514641+00:00",
   "date": "2026-06-23",
-  "count": 34,
+  "count": 38,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -240,6 +240,34 @@
       "url": "https://www.watson.ch/international/usa/221691832-tim-walz-bundesrichter-stoppt-ermittlungen-gegen-trump-gegner",
       "summary": "",
       "published": "2026-06-22T23:01:43.804864+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall in Baden-Württemberg: Gefahrguttransporter auf A8 löst Grosseinsatz aus – Ortschaft teilweise evakuiert",
+      "url": "https://www.tagesanzeiger.ch/gefahrgut-auf-a8-100-personen-in-wiesensteig-evakuiert-435623441794",
+      "summary": "Ein Gefahrgut-Lastwagen hat auf der Autobahn A8 im deutschen Landkreis Göppingen einen Einsatz von Feuerwehr, Polizei und Katastrophenschutz ausgelöst. Wegen der geladenen Chemikalien und der hohen Te",
+      "published": "2026-06-22T23:31:28.514641+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Darum dauern Gewitterunterbrüche in den USA länger",
+      "url": "https://www.watson.ch/sport/usa/626750896-wm-2026-darum-dauern-gewitterunterbrueche-in-den-usa-laenger",
+      "summary": "",
+      "published": "2026-06-22T23:31:28.514641+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EPFL: Schiffsabgase in der Arktis verstärken Wärmeeffekt bei Wolken",
+      "url": "https://www.watson.ch/wissen/forschung/498342946-epfl-schiffsabgase-in-der-arktis-verstaerken-waermeeffekt-bei-wolken",
+      "summary": "",
+      "published": "2026-06-22T23:31:28.514641+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Alvarez äussert bei WM Transferwunsch – Atlético reagiert",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-alvarez-aeussert-bei-wm-transferwunsch-atletico-reagiert",
+      "summary": "",
+      "published": "2026-06-22T23:31:28.514641+00:00"
     }
   ]
 }
