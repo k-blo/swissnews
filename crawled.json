@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T00:01:31.333276+00:00",
+  "generated": "2026-06-22T00:31:30.416713+00:00",
   "date": "2026-06-22",
-  "count": 19,
+  "count": 22,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -135,6 +135,27 @@
       "url": "https://www.watson.ch/sport/fussball/673475004-nach-provokation-von-fans-schlaegt-lamine-yamal-zurueck-hier-bin-ich",
       "summary": "",
       "published": "2026-06-22T00:01:31.333276+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Nachhaltigkeitsinitiative ein Weckruf",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/nachhaltigkeitsinitiative-ein-weckruf",
+      "summary": "",
+      "published": "2026-06-22T00:31:30.416713+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Diese Bürgerlichen Ständeräte Haben mit den Linken Gestimmt",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/diese-buergerlichen-staenderaete-haben-mit-den-linken-gestimmt",
+      "summary": "",
+      "published": "2026-06-22T00:31:30.416713+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Kap Verde begeistert weiter, 2:2 gegen Uruguay",
+      "url": "https://www.watson.ch/sport/fussball/319078970-wm-2026-kap-verde-begeistert-weiter-2-2-gegen-uruguay",
+      "summary": "",
+      "published": "2026-06-22T00:31:30.416713+00:00"
     }
   ]
 }
