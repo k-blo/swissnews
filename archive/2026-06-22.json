@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T21:01:55.191355+00:00",
+  "generated": "2026-06-22T21:31:26.168730+00:00",
   "date": "2026-06-22",
-  "count": 922,
+  "count": 923,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -6456,6 +6456,13 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/cham-genehmigt-rechnung-mit-19-millionen-ueberschuss-art-1709372",
       "summary": "",
       "published": "2026-06-22T21:01:55.191355+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schüsse nahe jüdischer Einrichtung in Montreal: Drei Menschen sterben",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/schuesse-in-montreal-polizei-warnt-bevoelkerung-art-1709392",
+      "summary": "",
+      "published": "2026-06-22T21:31:26.168730+00:00"
     }
   ]
 }
