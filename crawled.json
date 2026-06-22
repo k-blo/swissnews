@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T23:31:28.514641+00:00",
+  "generated": "2026-06-22T23:41:52.296286+00:00",
   "date": "2026-06-23",
-  "count": 38,
+  "count": 39,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -268,6 +268,13 @@
       "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-alvarez-aeussert-bei-wm-transferwunsch-atletico-reagiert",
       "summary": "",
       "published": "2026-06-22T23:31:28.514641+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schüler schiessen auf Schüler – drei Tote",
+      "url": "https://www.20min.ch/story/philippinen-drei-schueler-durch-schuesse-an-schule-getoetet-103588542",
+      "summary": "Panik an einer High School auf den Philippinen: Jugendliche verbarrikadieren Türen, während Mitschüler Schüsse abgeben. Es gibt Tote und Verletzte – aber noch kein Motiv.",
+      "published": "2026-06-22T23:41:52.296286+00:00"
     }
   ]
 }
