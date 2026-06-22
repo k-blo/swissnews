@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T22:31:39.327517+00:00",
+  "generated": "2026-06-22T23:01:43.804864+00:00",
   "date": "2026-06-23",
-  "count": 30,
+  "count": 34,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -212,6 +212,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-schulen-verzeichnen-mehr-nachteilsausgleiche-art-1709412",
       "summary": "",
       "published": "2026-06-22T22:31:39.327517+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Theatergesellschaft Stans Blickt auf Erfolgreiche Saison Zurück",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/theatergesellschaft-stans-blickt-auf-erfolgreiche-saison-zurueck-ld.4187620",
+      "summary": "",
+      "published": "2026-06-22T23:01:43.804864+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brgenstock: Kanton Nidwalden zieht positive Bilanz",
+      "url": "https://www.watson.ch/schweiz/iran/362906757-brgenstock-kanton-nidwalden-zieht-positive-bilanz",
+      "summary": "",
+      "published": "2026-06-22T23:01:43.804864+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump kritisiert vor Rutte-Besuch europäische Nato-Partner",
+      "url": "https://www.watson.ch/international/usa/973902272-trump-kritisiert-vor-rutte-besuch-europaeische-nato-partner",
+      "summary": "",
+      "published": "2026-06-22T23:01:43.804864+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tim Walz: Bundesrichter stoppt Ermittlungen gegen Trump-Gegner",
+      "url": "https://www.watson.ch/international/usa/221691832-tim-walz-bundesrichter-stoppt-ermittlungen-gegen-trump-gegner",
+      "summary": "",
+      "published": "2026-06-22T23:01:43.804864+00:00"
     }
   ]
 }
