@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T00:31:30.416713+00:00",
+  "generated": "2026-06-22T01:01:44.071401+00:00",
   "date": "2026-06-22",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -156,6 +156,20 @@
       "url": "https://www.watson.ch/sport/fussball/319078970-wm-2026-kap-verde-begeistert-weiter-2-2-gegen-uruguay",
       "summary": "",
       "published": "2026-06-22T00:31:30.416713+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Holt sich Ägypten die Tabellenführung?",
+      "url": "https://www.20min.ch/story/neu-aegy-00-holt-sich-aegypten-die-tabellenfuehrung-103587846",
+      "summary": "Ägypten trifft auf Underdog Neuseeland. Mit einem Sieg wären die Pharaonen Gruppenerster. Das Spiel live.",
+      "published": "2026-06-22T01:01:44.071401+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Liedermacher Konstantin Wecker wurde mit Minderjähriger intim",
+      "url": "https://www.watson.ch/international/deutschland/608768719-liedermacher-konstantin-wecker-wurde-mit-minderjaehriger-intim",
+      "summary": "",
+      "published": "2026-06-22T01:01:44.071401+00:00"
     }
   ]
 }
