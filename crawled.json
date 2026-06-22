@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T01:01:44.071401+00:00",
+  "generated": "2026-06-22T01:32:10.710065+00:00",
   "date": "2026-06-22",
-  "count": 24,
+  "count": 26,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -170,6 +170,20 @@
       "url": "https://www.watson.ch/international/deutschland/608768719-liedermacher-konstantin-wecker-wurde-mit-minderjaehriger-intim",
       "summary": "",
       "published": "2026-06-22T01:01:44.071401+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: WM-Märchen der Kap Verden geht mit 2:2 gegen Uruguay weiter +++ Belgien enttäuscht mit 0:0 gegen Iran",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-wm-maerchen-der-kap-verden-geht-mit-22-gegen-uruguay-weiter-belgien-enttaeuscht-mit-00-gegen-iran-ld.10010036",
+      "summary": "",
+      "published": "2026-06-22T01:32:10.710065+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Deutschland, Italien und Co: Europa ächzt unter extremer Hitze",
+      "url": "https://www.watson.ch/international/deutschland/910841883-deutschland-italien-und-co-europa-aechzt-unter-extremer-hitze",
+      "summary": "",
+      "published": "2026-06-22T01:32:10.710065+00:00"
     }
   ]
 }
