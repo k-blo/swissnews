@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T01:32:10.710065+00:00",
+  "generated": "2026-06-22T02:01:50.776694+00:00",
   "date": "2026-06-22",
-  "count": 26,
+  "count": 30,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -184,6 +184,34 @@
       "url": "https://www.watson.ch/international/deutschland/910841883-deutschland-italien-und-co-europa-aechzt-unter-extremer-hitze",
       "summary": "",
       "published": "2026-06-22T01:32:10.710065+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mutter wird während Ferien fälschlicherweise Blinddarm entfernt",
+      "url": "https://www.20min.ch/story/aegypten-sharm-el-sheikh-mutter-aus-england-wird-blinddarm-entfernt-unnoetige-op-103587845",
+      "summary": "Sian Irving aus England wollte mit ihrem Partner erholsame Ferien in Sharm El Sheikh verbringen. Doch es kam anders.",
+      "published": "2026-06-22T02:01:50.776694+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Abelardo de la Espriella: Anwalt steht vor Sieg bei Kolumbien-Wahl",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/390638758-abelardo-de-la-espriella-anwalt-steht-vor-sieg-bei-kolumbien-wahl",
+      "summary": "",
+      "published": "2026-06-22T02:01:50.776694+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bürgenstock-Verhandlungen: So geht es jetzt weiter",
+      "url": "https://www.watson.ch/schweiz/international/814258419-buergenstock-verhandlungen-so-geht-es-jetzt-weiter",
+      "summary": "",
+      "published": "2026-06-22T02:01:50.776694+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US Open: Wyndham Clark triumphiert zum zweiten Mal",
+      "url": "https://www.watson.ch/sport/golf/562692169-us-open-wyndham-clark-triumphiert-zum-zweiten-mal",
+      "summary": "",
+      "published": "2026-06-22T02:01:50.776694+00:00"
     }
   ]
 }
