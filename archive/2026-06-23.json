@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T09:01:30.182431+00:00",
+  "generated": "2026-06-23T09:32:16.021063+00:00",
   "date": "2026-06-23",
-  "count": 389,
+  "count": 443,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -2725,6 +2725,384 @@
       "url": "https://www.vorwaerts.ch/inland/die-krux-mit-der-schweizerisierung/",
       "summary": "",
       "published": "2026-06-23T09:01:30.182431+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Darum hast du bei Hitze weniger Appetit – und nimmst trotzdem zu",
+      "url": "https://www.20min.ch/story/warum-du-bei-hitze-weniger-hunger-hast-aber-trotzdem-zunimmst-103587913",
+      "summary": "30 Grad im Schatten – und plötzlich hast du kaum noch Hunger? Das ist kein Zufall, sondern ein Mix an Schutzmassnahmen des Körpers.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "22-Jähriger stirbt bei Badeunfall in der Aare",
+      "url": "https://www.20min.ch/story/aarau-22-jaehriger-stirbt-bei-badeunfall-in-der-aare-103588716",
+      "summary": "Am Montagnachmittag kam es auf der Zurlindeninsel in Aarau zu einem Badeunfall. Ein 22-jähriger Mann konnte nur noch leblos aus der Aare geborgen werden.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Entführtes Baby: Nachbarin sagt, sie «hatte Angst vor der Mutter»",
+      "url": "https://www.20min.ch/story/renningen-d-entfuehrtes-baby-nachbarin-sagt-sie-hatte-angst-vor-der-mutter-103588668",
+      "summary": "Nach dem Verschwinden eines Babys in Renningen belasten Aussagen einer Nachbarin die Mutter. Viele Fragen zum Tod des Kindes sind weiter offen. Ob gegen jemanden ermittelt wird, ist unklar.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Weshalb hast du dich gegen Kinder entschieden?",
+      "url": "https://www.20min.ch/story/aufruf-weshalb-hast-du-dich-gegen-kinder-entschieden-103588683",
+      "summary": "Die Geburtenrate sinkt, immer weniger Menschen bekommen Kinder. Ein stetig wachsender Teil entscheidet sich bewusst dagegen – erzähl uns, wieso du gewollt kinderlos bist.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach riskanter Flucht: Polizei findet Drogenversteck im Kreis 9",
+      "url": "https://www.20min.ch/story/zuerich-nach-riskanter-flucht-polizei-findet-drogenversteck-im-kreis-9-103588696",
+      "summary": "Bei einer Wohnungs- und Fahrzeugdurchsuchung fand die Stadtpolizei mehrere Kilogramm Betäubungsmittel. Die Polizei nahm drei Tatverdächtige fest.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neue Daten: Depression, Diabetes, ADHS – Schweizer Studie zeigt, wo Arme und Reiche stärker betroffen sind",
+      "url": "https://www.tagesanzeiger.ch/helsana-studie-tiefes-einkommen-verdreifacht-depressions-risiko-712679474388",
+      "summary": "Eine Datenanalyse der Krankenkasse Helsana zeigt, wie oft chronische Krankheiten in bestimmten Einkommenskategorien auftreten.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neues Happening: «In Zürich kann man schnell einsam sein» – ein Apéro soll dies ändern",
+      "url": "https://www.tagesanzeiger.ch/schneeball-apero-zuerichs-monatlicher-treff-fuer-neue-bekanntschaften-776155917129",
+      "summary": "Mit Campingstühlen und billigem Wein möchten junge Erwachsene öffentliche Plätze in Zürich beleben. Aus dem «Schneeball-Apéro» entstanden bereits Freundschaften – und sogar ein Paar.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Prozess in Deutschland: Sie verwüsteten eine israelische Rüstungs­fabrik, filmten die Aktion – und sprechen von Notwehr",
+      "url": "https://www.tagesanzeiger.ch/elbit-prozess-ulm-5-vor-gericht-in-stammheim-126490971068",
+      "summary": "Nach Randalen beim Rüstungs­konzern Elbit in Ulm müssen sich fünf propalästinensische Aktivisten vor Gericht verantworten. Im Prozess argumentiert die als «Ulm 5» bekannte Gruppe moralisch.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bericht des BAG: Kinder und Jugendliche leben insgesamt gesünder – sind aber immer gestresster",
+      "url": "https://www.tagesanzeiger.ch/kinder-und-jugendliche-gesuendere-ernaehrung-mehr-stress-674300208354",
+      "summary": "Mehr Bewegung, weniger Alkohol, und trotzdem ist Übergewicht ein Problem: Ein neues Monitoring analysiert die Gesundheits­entwicklung junger Menschen in der Schweiz.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Prozess in Bern: Nicolas Rimoldi steht wegen Nötigung vor Gericht",
+      "url": "https://www.tagesanzeiger.ch/rimoldi-vor-gericht-mass-voll-chef-wegen-noetigung-angeklagt-953247432151",
+      "summary": "Weil er gegenüber Juso-Politikern gedroht haben soll, muss der Gründer der Bewegung Mass-voll am Dienstag vor Gericht antraben.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Drogenfund im Kreis 9: Polizei nimmt drei Personen fest und beschlagnahmt kiloweise Drogen",
+      "url": "https://www.tagesanzeiger.ch/zuerich-drogendealer-festgenommen-9-kg-marihuana-sichergestellt-687032188724",
+      "summary": "Ein deutscher Autofahrer flieht vor einer Kontrolle in Süddeutschland und wird in Zürich gefasst. Bei den anschliessenden Hausdurchsuchungen stellt sie über 20 Kilogramm Betäubungsmittel sicher.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Leichathletin aus Andelfingen: «Da sollte noch etwas mehr möglich sein» – Angelica Moser jagt ihren Rekord",
+      "url": "https://www.tagesanzeiger.ch/angelica-moser-da-sollte-noch-mehr-moeglich-sein-383442475366",
+      "summary": "Die wichtigen Wochen für die Stabhochsprung-Europameisterin Angelica Moser rücken näher. Eine erstklassige Leistung in Rom vermittelt schon mal Zuversicht.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zwischenfall in Rulantica: 24-Jähriger soll sich im Becken an zwei Mädchen vergangen haben",
+      "url": "https://www.tagesanzeiger.ch/rulantica-erneut-sexueller-uebergriff-auf-zwei-maedchen-657904334818",
+      "summary": "Der Beschuldigte soll die zwei Kinder am Samstagnachmittag in einem der Schwimmbecken unsittlich berührt haben. Er wurde noch im Bad festgenommen.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Pläne für ein Gesundheitszentrum: Müllers übernehmen das Spital Münsingen",
+      "url": "https://www.bernerzeitung.ch/muensingen-gluetschbach-ag-kauft-spitalareal-599612477714",
+      "summary": "Nach langer Suche hat die Gemeinde Münsingen mit Hans-Ulrich und Christian Müller Investoren für das Spitalareal gefunden. Nun soll ein Gesundheits­zentrum aufgebaut werden.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Baustellenleiden im Birstal: «Es ist heiss, es gibt keinen Schatten – und der Bus kommt auch noch zu spät»",
+      "url": "https://www.bazonline.ch/tramlinie-11-verspaetung-hitze-kein-schatten-106414617989",
+      "summary": "Kein Schatten, keine Pünktlichkeit, falsch angeschriebene Busse: Entlang der Tramlinie 11 wächst der Unmut über die Ersatzlösung. Die BLT schweigt zu Fragen nach Verbesserungen.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Swisscom warnt jetzt vor verdächtigen Anrufen",
+      "url": "https://www.netzwoche.ch/news/2026-06-23/swisscom-warnt-jetzt-vor-verdaechtigen-anrufen",
+      "summary": "Swisscom erweitert ihren Callfilter um eine neue Warnfunktion. Der Hinweis \"Vorsicht: Spam-Verdacht\" kennzeichnet potenzielle Werbe- und Betrugsanrufe und soll Kunden bei der Einschätzung eingehender ",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "BILDSTRECKE - Dramen, Hoffnungen und Illusionen: zehn Jahre Brexit in Bildern",
+      "url": "https://www.nzz.ch/fotografie/dramen-hoffnungen-und-illusionen-zehn-jahre-brexit-in-bildern-ld.10004819",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Escholzmatt LU: Frau tot in Bach gefunden",
+      "url": "https://www.nzz.ch/panorama/escholzmatt-lu-frau-tot-in-bach-gefunden-ld.10012524",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "7 Badeplätze im Kanton Zürich abseits vom grossen Gedränge",
+      "url": "https://www.nzz.ch/zuerich/es-wird-heiss-7-badeplaetze-im-kanton-zuerich-abseits-vom-grossen-gedraenge-ld.1490638",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Tobias Keller wird Kommunikationschef",
+      "url": "https://www.persoenlich.com/prcorporate-communication/tobias-keller-wird-kommunikationschef",
+      "summary": "Der Journalist und Kommunikationsberater hat von der Kantonsverwaltung Aargau zur Bundespartei gewechselt.",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Der Code bleibt, die Sujets wechseln",
+      "url": "https://www.persoenlich.com/kategorie-werbung/der-code-bleibt-die-sujets-wechseln",
+      "summary": "Die Zürcher Agentur hat die Kampagne für den Flughafen Zürich um sechs neue Motive erweitert. Gestalterisches Leitmotiv bleibt der Flughafencode ZRH – kombiniert mit sprachlicher Verknappung und einer",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Markus Röösli wird Chefredaktor",
+      "url": "https://www.persoenlich.com/medien/markus-roosli-wird-chefredaktor",
+      "summary": "Der Journalist und Medienmanager kehrt per Herbst von der Fenaco in die Redaktionsverantwortung zurück. Gleichzeitig übernimmt er bei der BauernZeitung die Funktion des stellvertretenden Chefredaktors",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Uhren zum Wandern",
+      "url": "https://www.bilanz.ch/archiv/uhren-zum-wandern/vy9qzyc",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Uhren für den Strand",
+      "url": "https://www.bilanz.ch/archiv/uhren-fuer-den-strand/ln61clb",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Uhren zum Flanieren",
+      "url": "https://www.bilanz.ch/archiv/uhren-zum-flanieren/3n1ppjb",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Uhren für Bbq",
+      "url": "https://www.bilanz.ch/archiv/uhren-fuer-bbq/szpjm7q",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Uhren zum Campen",
+      "url": "https://www.bilanz.ch/archiv/uhren-zum-campen/2jm5rw1",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Valposchiavo Calcio als Bündner Nummer 1 War Dies eine Einmalige Erfolgssaison",
+      "url": "https://www.suedostschweiz.ch/regionalsport/valposchiavo-calcio-als-buendner-nummer-1-war-dies-eine-einmalige-erfolgssaison-1931270",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bauernzeitung",
+      "title": "Petra Wurzer So Viele Leute Leiden Unter Generationenkonflikten",
+      "url": "https://www.bauernzeitung.ch/artikel/landleben/petra-wurzer-so-viele-leute-leiden-unter-generationenkonflikten-555694",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Strandbad Seewen Bademeister Zieht Teenager aus dem See",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/strandbad-seewen-bademeister-zieht-teenager-aus-dem-see-ld.4191094",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Zetzwil Feiert Wieder ein Dorffest nach Langer Pause",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/zetzwil-feiert-wieder-ein-dorffest-nach-langer-pause-ld.4187293",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Baselbieter Landrat Sarah Regez Folgt auf Matthias Liechti",
+      "url": "https://www.bzbasel.ch/basel/baselland/baselbieter-landrat-sarah-regez-folgt-auf-matthias-liechti-ld.4191156",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Einzige Gemeinde mit Bauinspektorat Sonderfall Reinach Erneut auf der Kippe",
+      "url": "https://www.bzbasel.ch/basel/baselland/einzige-gemeinde-mit-bauinspektorat-sonderfall-reinach-erneut-auf-der-kippe-ld.4184659",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurner Altersheime Reagieren auf Urteil zu den Taxen",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/solothurner-altersheime-reagieren-auf-urteil-zu-den-taxen-ld.4191098",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Nach Bally aus Regierungsrat Schützt Archiv und Sammlung",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/nach-bally-aus-regierungsrat-schuetzt-archiv-und-sammlung-ld.4191133",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Kunstturnen Goldmedaille für Francesca Savo aus Schlieren",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/kunstturnen-goldmedaille-fuer-francesca-savo-aus-schlieren-ld.4190831",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Frühschoppen der Musikgesellschaft Steinhausen",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/fruehschoppen-der-musikgesellschaft-steinhausen-ld.4190472",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Erstes Repair Cafe in Steinhausen War ein Erfolg",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/erstes-repair-cafe-in-steinhausen-war-ein-erfolg-ld.4190223",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Stromloch im Winter Gv der Aves Zug",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/stromloch-im-winter-gv-der-aves-zug-ld.4190088",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Show Of The Year 2026 Family in Motion Begeisterte in Steinhausen",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/show-of-the-year-2026-family-in-motion-begeisterte-in-steinhausen-ld.4190216",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Junioren Vierkampfturnier in Zug Zuger Dominanz",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/junioren-vierkampfturnier-in-zug-zuger-dominanz-ld.4190129",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Hev Nidwalden Begrüsst Verzicht auf Objektsteuer",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/hev-nidwalden-begruesst-verzicht-auf-objektsteuer-ld.4190423",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland muss Benzin und Diesel rationieren",
+      "url": "https://www.watson.ch/international/oel/346923260-russland-muss-benzin-und-diesel-rationieren",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Badeunfall in Aarau – 22-Jähriger leblos aus Aare geborgen",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/596976758-badeunfall-in-aarau-22-jaehriger-leblos-aus-aare-geborgen",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI im Studium: Schweizer Unis und Hochschulen prüfen kaum Plagiate",
+      "url": "https://www.watson.ch/schweiz/schule-bildung/558181337-ki-im-studium-schweizer-unis-und-hochschulen-pruefen-kaum-plagiate",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Bei Messi ist sogar Zlatan für einmal bescheiden",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-bei-messi-ist-sogar-zlatan-fuer-einmal-bescheiden",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KidsHealthCH-Bericht: 8 Erkenntnisse zur Gesundheit der Schweizer Jugend",
+      "url": "https://www.watson.ch/schweiz/gesundheit/525188211-kidshealthch-bericht-8-erkenntnisse-zur-gesundheit-der-schweizer-jugend",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krim: Ukraine attackiert erneut Ölterminal",
+      "url": "https://www.watson.ch/international/oel/129830073-krim-ukraine-attackiert-erneut-oelterminal",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Merz kündigt volle Umsetzung von Empfehlungen zu Rentenreform an",
+      "url": "https://www.watson.ch/international/deutschland/156711160-merz-kuendigt-volle-umsetzung-von-empfehlungen-zu-rentenreform-an",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitzewelle in Europa führt zu immer mehr Todesfällen",
+      "url": "https://www.watson.ch/international/gesundheit/355789206-hitzewelle-in-europa-fuehrt-zu-immer-mehr-todesfaellen",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Minigolf-Nachmittag stärkt langjährige Partnerschaft",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/minigolf-nachmittag-staerkt-langjaehrige-partnerschaft-art-1709465",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "HEV Nidwalden begrüsst Verzicht auf Objektsteuer für Zweitliegenschaften",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/hev-nidwalden-begruesst-verzicht-auf-objektsteuer-art-1709463",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach «Zivadiliring»-Aus: Gülsha und Maja Zivadinovic lancieren neuen Podcast",
+      "url": "https://www.bote.ch/nachrichten/kultur/guelsha-und-maja-zivadinovic-planen-neuen-podcast-art-1709459",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Ähm&nbsp;– wer kam noch rein?» Nati-Legende Rodriguez vergisst Super-Joker Manzambi und sagt, ob er nach der WM zurücktritt",
+      "url": "https://www.bote.ch/nachrichten/sport/fussball-wm-2026-nati-legende-rodriguez-ueber-seine-zukunft-und-wunschgegner-art-1709457",
+      "summary": "",
+      "published": "2026-06-23T09:32:16.021063+00:00"
     }
   ]
 }
