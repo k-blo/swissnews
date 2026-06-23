@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T21:01:53.841482+00:00",
+  "generated": "2026-06-23T21:31:48.712064+00:00",
   "date": "2026-06-23",
-  "count": 987,
+  "count": 993,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6911,6 +6911,48 @@
       "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-audrey-werro-mit-europarekord-ueber-600-m",
       "summary": "",
       "published": "2026-06-23T21:01:53.841482+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hitzewelle und Trockenheit – Am heissesten war es in Genf und Basel",
+      "url": "https://www.srf.ch/news/schweiz/hitzewelle-und-trockenheit-am-heissesten-war-es-in-genf-und-basel",
+      "summary": "Die Hitzewelle hat Genf mit 36 Grad den heissesten Tag seit Messbeginn beschert. In Binningen BL waren es gar 36.4 Grad.",
+      "published": "2026-06-23T21:31:48.712064+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "England - Ghana im Ticker: Anthony Gordon mit dem ersten Schuss aufs Tor – nach fast einer Stunde",
+      "url": "https://www.bazonline.ch/fussball-wm-live-england-ghana-um-22-uhr-im-ticker-793705037265",
+      "summary": "Beide haben ihr erstes Gruppenspiel gewonnen. Wer heute auch wieder gewinnt, steht schon sicher im Sechzehntelfinal. Die Partie jetzt im Liveticker.",
+      "published": "2026-06-23T21:31:48.712064+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Deutschland: Bahnverkehr wegen Funkstörung bundesweit eingestellt",
+      "url": "https://www.nzz.ch/panorama/deutschland-bahnverkehr-wegen-funkstoerung-bundesweit-eingestellt-ld.10012641",
+      "summary": "",
+      "published": "2026-06-23T21:31:48.712064+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Landesweite Funkstörung legt Bahnverkehr in Deutschland komplett lahm",
+      "url": "https://www.watson.ch/international/deutschland/742030502-landesweite-funkstoerung-legt-bahnverkehr-in-deutschland-komplett-lahm",
+      "summary": "",
+      "published": "2026-06-23T21:31:48.712064+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ronaldo lässt Kritiker mit Doppelpack vorerst verstummen und schreibt WM-Geschichte",
+      "url": "https://www.freiburger-nachrichten.ch/story/272386/ronaldo-l%C3%A4sst-kritiker-mit-doppelpack-vorerst-verstummen-und-schreibt-wmgeschichte",
+      "summary": "",
+      "published": "2026-06-23T21:31:48.712064+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die nächste EVZ-Eskalationsstufe: CEO Patrick Lengwiler geht von Bord",
+      "url": "https://www.freiburger-nachrichten.ch/story/272385/die-n%C3%A4chste-evzeskalationsstufe-ceo-patrick-lengwiler-geht-von-bord",
+      "summary": "",
+      "published": "2026-06-23T21:31:48.712064+00:00"
     }
   ]
 }
