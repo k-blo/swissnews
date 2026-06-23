@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T01:01:47.951401+00:00",
+  "generated": "2026-06-23T01:31:44.538296+00:00",
   "date": "2026-06-23",
-  "count": 52,
+  "count": 53,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -366,6 +366,13 @@
       "url": "https://www.watson.ch/sport/lionel-messi/759474434-wm-2026-lionel-messis-rekordtor-sorgt-fuer-aerger-bei-oesi-coach-rangnick",
       "summary": "",
       "published": "2026-06-23T01:01:47.951401+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "18-Jähriger stirbt bei Verkehrsunfall in Aranno TI",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/544140558-18-jaehriger-stirbt-bei-verkehrsunfall-in-aranno-ti",
+      "summary": "",
+      "published": "2026-06-23T01:31:44.538296+00:00"
     }
   ]
 }
