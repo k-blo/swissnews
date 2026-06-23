@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T01:31:44.538296+00:00",
+  "generated": "2026-06-23T02:01:23.326717+00:00",
   "date": "2026-06-23",
-  "count": 53,
+  "count": 54,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -373,6 +373,13 @@
       "url": "https://www.watson.ch/schweiz/polizeirapport/544140558-18-jaehriger-stirbt-bei-verkehrsunfall-in-aranno-ti",
       "summary": "",
       "published": "2026-06-23T01:31:44.538296+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Daisy Chain Fields: Olivia Rodrigo richtet weibliches Musikfestival aus",
+      "url": "https://www.watson.ch/leben/usa/556833702-daisy-chain-fields-olivia-rodrigo-richtet-weibliches-musikfestival-aus",
+      "summary": "",
+      "published": "2026-06-23T02:01:23.326717+00:00"
     }
   ]
 }
