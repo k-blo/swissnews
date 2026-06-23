@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T23:41:52.296286+00:00",
+  "generated": "2026-06-23T00:01:37.943737+00:00",
   "date": "2026-06-23",
-  "count": 39,
+  "count": 42,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -275,6 +275,27 @@
       "url": "https://www.20min.ch/story/philippinen-drei-schueler-durch-schuesse-an-schule-getoetet-103588542",
       "summary": "Panik an einer High School auf den Philippinen: Jugendliche verbarrikadieren Türen, während Mitschüler Schüsse abgeben. Es gibt Tote und Verletzte – aber noch kein Motiv.",
       "published": "2026-06-22T23:41:52.296286+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schüsse auf den Philippinen: Schüler schiessen auf Schüler – drei Tote",
+      "url": "https://www.tagesanzeiger.ch/schiessei-an-schule-auf-philippinen-drei-tote-886567198335",
+      "summary": "Panik an einer High School auf den Philippinen: Jugendliche verbarrikadieren Türen, während Mitschüler Schüsse abgeben. Es gibt Tote und Verletzte – aber noch kein Motiv.",
+      "published": "2026-06-23T00:01:37.943737+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Norwegen gegen Senegal – die WM 2026 live im Ticker und im Stream",
+      "url": "https://www.watson.ch/sport/liveticker/828076222-norwegen-gegen-senegal-die-wm-2026-live-im-ticker-und-im-stream",
+      "summary": "",
+      "published": "2026-06-23T00:01:37.943737+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Miroslav Klose gratuliert Messi zu Torrekord",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-miroslav-klose-gratuliert-messi-zu-torrekord",
+      "summary": "",
+      "published": "2026-06-23T00:01:37.943737+00:00"
     }
   ]
 }
