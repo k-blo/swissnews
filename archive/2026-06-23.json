@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T16:02:02.182733+00:00",
+  "generated": "2026-06-23T16:31:54.346578+00:00",
   "date": "2026-06-23",
-  "count": 855,
+  "count": 868,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -5987,6 +5987,97 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/eu-kommission-verhandelt-mit-taliban-ueber-rueckfuehrungen-art-1709519",
       "summary": "",
       "published": "2026-06-23T16:02:02.182733+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wegen der Hitze?: Nestweiher wird für 600 Fische zur Todesfalle",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/wegen-der-hitze-nestweiher-wird-fuer-600-fische-zur-todesfalle-id22053508.html",
+      "summary": "Am Montagnachmittag wurden der Stadtpolizei St. Gallen eine grosse Anzahl toter Fische im Nestweiher gemeldet. Als Sofortmassnahme leitete die Feuerwehr St. Gallen Frischwasser in den Weiher, um die W",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zoé zeigt dir, wie unsere News zu dir kommen",
+      "url": "https://www.20min.ch/video/behind-the-scenes-zoe-zeigt-dir-wie-unsere-news-zu-dir-kommen-103578768",
+      "summary": "Noch vor Sonnenaufgang macht sich Zoé Stoller auf den Weg zur Arbeit. Ihr Tag beginnt früh: Um 5.30 Uhr startet sie am Bahnhof in Bern in den Tag. Auf dem Weg ins Büro nach Zürich wirft sie bereits ei",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gewusst? Das Loch im Schraubenzieher ist nicht zum Aufhängen da",
+      "url": "https://www.20min.ch/story/warum-das-loch-im-schraubenzieher-griff-mehr-kann-als-du-denkst-103588127",
+      "summary": "Viele Schraubenzieher haben am Griff ein Loch. Das allerdings nicht, um das Werkzeug aufhängen zu können, sondern um bei Bedarf mehr Hebelwirkung zu haben.",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zuger PUK: Interessenbindungen «frühzeitig thematisiert»",
+      "url": "https://www.zentralplus.ch/politik/zuger-puk-interessenbindungen-fruehzeitig-thematisiert-2879959/",
+      "summary": "Eine PUK ermittelt in Zug rund um den Grundstückstreit am Ägerisee. Nun hat sich das Gremium erneut zu angeblichen Interessenskonflikten geäussert. Im Zentrum der Untersuchungen der parlamentarischen ",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Frische Idee für die Steuern: Überschüsse gehören den Bürgern",
+      "url": "https://www.nzz.ch/meinung/frische-idee-fuer-die-steuern-ueberschuesse-gehoeren-den-buergern-ld.10012536",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KURZMELDUNGEN - News aus Zürich: Winterthur verbannt Smartwatches aus Klassenzimmern",
+      "url": "https://www.nzz.ch/zuerich/news-aus-zuerich-winterthur-verbannt-smartwatches-aus-klassenzimmern-ld.10012099",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Podcast sucht nach einem neuen Namen",
+      "url": "https://www.persoenlich.com/gesellschaft/podcast-sucht-nach-einem-neuen-namen",
+      "summary": "Maja Zivadinovic und Gülsha Adilji kündigen per Instagram einen neuen Podcast an. Ganz neu ist das nicht.",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kanton Warnt vor Trockenheit Älpler und Landwirte Hoffen auf Regen",
+      "url": "https://www.suedostschweiz.ch/linth/kanton-warnt-vor-trockenheit-aelpler-und-landwirte-hoffen-auf-regen-1936155",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargau die Heisseste Grossratssitzung Aller Zeiten",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/aargau-die-heisseste-grossratssitzung-aller-zeiten-ld.4191429",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Engelberg Vermisster Wanderer Tot Geborgen",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/engelberg-vermisster-wanderer-tot-geborgen-ld.4191633",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: So jubelt das argentinische Team nach einem Tor",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-so-jubelt-das-argentinische-team-nach-einem-tor",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ehemalige St. Galler Nationalrätin Hildegard Fässler ist gestorben",
+      "url": "https://www.watson.ch/schweiz/sp/126202633-ehemalige-st-galler-nationalraetin-hildegard-faessler-ist-gestorben",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wanderer in Engelberg tödlich verunglückt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/engelberg-vermisster-wanderer-tot-geborgen-art-1709524",
+      "summary": "",
+      "published": "2026-06-23T16:31:54.346578+00:00"
     }
   ]
 }
