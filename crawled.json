@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T02:01:23.326717+00:00",
+  "generated": "2026-06-23T02:31:32.872125+00:00",
   "date": "2026-06-23",
-  "count": 54,
+  "count": 61,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -380,6 +380,55 @@
       "url": "https://www.watson.ch/leben/usa/556833702-daisy-chain-fields-olivia-rodrigo-richtet-weibliches-musikfestival-aus",
       "summary": "",
       "published": "2026-06-23T02:01:23.326717+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Stundenlang Tarzan spielen und rasante Runden auf dem Karussell",
+      "url": "https://www.shn.ch/region/stadt/2026-06-23/stundenlang-tarzan-spielen-und-rasante-runden-auf-dem-karussell",
+      "summary": "Sich richtig austoben und bis zum Umfallen spielen: Auf welchen Spielplätzen geht das richtig gut? Die SN haben die vier besten Spielplätze der Stadt und Neuhausen gekürt. Getestet haben sie Kinder im",
+      "published": "2026-06-23T02:31:32.872125+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Brandschutz in Schaffhausen: Kanton tappt im Dunkeln",
+      "url": "https://www.shn.ch/region/kanton/2026-06-23/brandschutz-in-schaffhausen-kanton-tappt-im-dunkeln",
+      "summary": "Nach mehreren teuren Brandjahren und der Katastrophe von Crans-Montana rückt der Brandschutz in Schaffhausen in den Fokus. Das Kontrollsystem scheint gut aufgestellt – doch Fachkräfte sind knapp und w",
+      "published": "2026-06-23T02:31:32.872125+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schaffhausen schwitzt: So verhalten Sie sich bei hohen Temperaturen richtig",
+      "url": "https://www.shn.ch/region/kanton/2026-06-23/schaffhausen-schwitzt-so-verhalten-sie-sich-bei-hohen-temperaturen-richtig",
+      "summary": "Seit letzter Woche herrschen in Schaffhausen Temperaturen von über 30 Grad, und das Wetter wird auch in den kommenden Tagen heiss und trocken bleiben. Wir zeigen, wie die Schaffhauser die hohen Temper",
+      "published": "2026-06-23T02:31:32.872125+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Gescheiterter Landverkauf in Tobel Tägerschen der Käufer Nimmt Stellung",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/gescheiterter-landverkauf-in-tobel-taegerschen-der-kaeufer-nimmt-stellung-ld.4189073",
+      "summary": "",
+      "published": "2026-06-23T02:31:32.872125+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Josef Zeller in Berlingen mit 99 Jahren Aktiv im Alltag",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/josef-zeller-in-berlingen-mit-99-jahren-aktiv-im-alltag-ld.4184035",
+      "summary": "",
+      "published": "2026-06-23T02:31:32.872125+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Thurgau Jedes Vierte Kind Versteht Deutsch zu Wenig",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/thurgau-jedes-vierte-kind-versteht-deutsch-zu-wenig-ld.4182774",
+      "summary": "",
+      "published": "2026-06-23T02:31:32.872125+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das «andere» Freiburg: Was Nova Friburgo bis heute mit unserer Region verbindet",
+      "url": "https://www.freiburger-nachrichten.ch/story/271986/das-andere-freiburg-was-nova-friburgo-bis-heute-mit-unserer-region-verbindet",
+      "summary": "",
+      "published": "2026-06-23T02:31:32.872125+00:00"
     }
   ]
 }
