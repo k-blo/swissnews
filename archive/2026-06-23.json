@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T10:32:08.381896+00:00",
+  "generated": "2026-06-23T10:49:47.069350+00:00",
   "date": "2026-06-23",
-  "count": 506,
+  "count": 517,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3544,6 +3544,83 @@
       "url": "https://www.watson.ch/schweiz/videos/518343497-so-geht-es-menschen-die-bei-hitze-draussen-arbeiten",
       "summary": "",
       "published": "2026-06-23T10:32:08.381896+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich musste sie sehen»: Zendaya shoppt in Zürcher Vintageladen",
+      "url": "https://www.20min.ch/story/hollywoodstar-ich-musste-sie-sehen-zendaya-shoppt-in-zuercher-vintageladen-103588677",
+      "summary": "Hollywoodstar Zendaya war Anfangs Monat in Zürich. Sie shoppte bei Maroni Vintage im Kreis 4. Inhaber Roland schwärmt von ihrem Besuch.",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wegen Hitze? Über 600 Fische sterben in Weiher",
+      "url": "https://www.20min.ch/story/st-gallen-wegen-hitze-ueber-600-fische-sterben-in-weiher-103588751",
+      "summary": "Im Nestweiher in St.Gallen sind zahlreiche Fische verendet. Bis am Montagabend bargen die Einsatzkräfte rund 600 tote Tiere – die Ursache ist noch unklar.",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "SGKB sieht SNB in einer komfortablen Situation",
+      "url": "https://www.finews.ch/news/finanzplatz/72663-sgkb-outlook-makro-zinsen-oelpreis",
+      "summary": "Während viele der grossen Volkswirtschaften mit der steigenden Inflation zu kämpfen haben und die Zinserwartungen für die USA und die Eurozone steigen, ist die Situation für die Schweizerische Nationa",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Bitcoin Suisse erhält MiCAR-Lizenz und nimmt Europa ins Visier",
+      "url": "https://www.finews.ch/news/finanzplatz/72658-bitcoin-suisse-micar-lizenz-blockchain-krypto-finanzplatz-schweiz-crypto-valley-zug",
+      "summary": "Der Zuger Kryptofinanzdienstleister Bitcoin Suisse treibt seine internationale Expansion voran. Die Tochtergesellschaft Bitcoin Suisse (Europe) AG hat von der Finanzmarktaufsicht Liechtenstein die MiC",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Der Kanton Luzern und seine problematischen IT-Projekte",
+      "url": "https://www.inside-it.ch/der-kanton-luzern-und-seine-problematischen-it-projekte-20260623",
+      "summary": "Der Luzerner Regierungsrat legt einen Rechenschaftsbericht zu problembehafteten oder gescheiterten IT-Projekten vor. Aus der Politik kommt bereits Kritik.",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Kanada setzt auf «amerikanische Arroganz» +++ Argentinien ehrt Messi mit einer gigantischen Statue",
+      "url": "https://www.nzz.ch/sport/fussball-wm-fussball-wm-2026-kanada-setzt-auf-amerikanische-arroganz-argentinien-ehrt-messi-mit-einer-gigantischen-statue-ld.10010036",
+      "summary": "",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Fünf Herrliche Wander und Erholtage in Hafling I",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/fuenf-herrliche-wander-und-erholtage-in-hafling-i-ld.4191226",
+      "summary": "",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Herbetswil Budgetiert Kleinen Ertragsüberschuss es Wurde Viel Mehr",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/herbetswil-budgetiert-kleinen-ertragsueberschuss-es-wurde-viel-mehr-ld.4190768",
+      "summary": "",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Am Ironbike Brittnau Auch Familien in Bewegung",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/am-ironbike-brittnau-auch-familien-in-bewegung-ld.4190744",
+      "summary": "",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitzewelle in der Schweiz: So geht es denen, die draussen arbeiten",
+      "url": "https://www.watson.ch/schweiz/videos/518343497-hitzewelle-in-der-schweiz-so-geht-es-denen-die-draussen-arbeiten",
+      "summary": "",
+      "published": "2026-06-23T10:49:47.069350+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Es wird ein Jahr in SVP-Hand: Kantonsrats- und Regierungsratspräsidium neu besetzt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/in-luzern-sind-kantonsratspraesidium-und-regierungsratspraesidium-in-svp-hand-art-1709470",
+      "summary": "",
+      "published": "2026-06-23T10:49:47.069350+00:00"
     }
   ]
 }
