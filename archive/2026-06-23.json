@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T00:31:48.569238+00:00",
+  "generated": "2026-06-23T01:01:47.951401+00:00",
   "date": "2026-06-23",
-  "count": 50,
+  "count": 52,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -352,6 +352,20 @@
       "url": "https://www.watson.ch/international/iran/781513170-tucker-carlson-bricht-endgueltig-mit-der-republikanischen-partei",
       "summary": "",
       "published": "2026-06-23T00:31:48.569238+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Frankreich schlägt Irak dank Mbappé-Doppelpack und Riesenbock",
+      "url": "https://www.watson.ch/sport/liveticker/685898850-wm-2026-frankreich-schlaegt-irak-dank-mbappe-doppelpack-und-riesenbock",
+      "summary": "",
+      "published": "2026-06-23T01:01:47.951401+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Lionel Messis Rekordtor sorgt für Ärger bei Ösi-Coach Rangnick",
+      "url": "https://www.watson.ch/sport/lionel-messi/759474434-wm-2026-lionel-messis-rekordtor-sorgt-fuer-aerger-bei-oesi-coach-rangnick",
+      "summary": "",
+      "published": "2026-06-23T01:01:47.951401+00:00"
     }
   ]
 }
