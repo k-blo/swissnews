@@ -4,36 +4,36 @@
     "etag": "\"acc72abc168bec7c286f65598d3a207f\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"176ad-BviwxxggEqc8t2zPGKHso8RrbNE\""
+    "etag": "W/\"174c8-q7cU5FHqsXgw8yx0kXlT2BEnFAw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"f09b-yyuPEnShafpG6/UJ7s7F5T1Y63E\""
+    "etag": "W/\"f0ef-RR2eZUvLJP6UXUzZ87EO4GNI8Is\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"fc56-XFLVcmaXMmG3JDQVmPe4+pdJVto\""
+    "etag": "W/\"fc62-k3ZgwOOud33ZEIHSTjOtRSY1T/s\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Wed, 24 Jun 2026 20:30:16 GMT"
+    "last_modified": "Wed, 24 Jun 2026 21:50:13 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Wed, 24 Jun 2026 21:30:48 GMT"
+    "last_modified": "Wed, 24 Jun 2026 22:00:42 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Wed, 24 Jun 2026 21:13:36 GMT",
     "etag": "\"1782335616\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 24 Jun 2026 21:30:10 GMT"
+    "last_modified": "Wed, 24 Jun 2026 22:00:18 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Wed, 24 Jun 2026 15:25:21 GMT",
     "etag": "\"ccd61058a02d712654dcdf777464c363\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"f670-sRexJBicOIMrTjv+2ZplQKNpLWA\""
+    "etag": "W/\"f65b-v3SN8DQYh4Mt5mfb8r0e0uqBnEQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"fc7d-RKH3XSIutOror1DqHW8Qckmu86I\""
+    "etag": "W/\"fcd1-Kft4WoNVZPkFQvTCOKduY6viU78\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Wed, 24 Jun 2026 20:42:24 GMT",
@@ -51,15 +51,15 @@
     "etag": "\"1781596268\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 24 Jun 2026 21:30:21 GMT",
-    "etag": "W/\"1782336621-gzip\""
+    "last_modified": "Wed, 24 Jun 2026 22:00:27 GMT",
+    "etag": "W/\"1782338427-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Wed, 24 Jun 2026 14:40:12 GMT",
     "etag": "\"005e54ba90c0e1b93f4f8cde0a3aaab2\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Wed, 24 Jun 2026 21:25:01 GMT",
-    "etag": "\"1782336301\""
+    "last_modified": "Wed, 24 Jun 2026 21:51:01 GMT",
+    "etag": "\"1782337861\""
   }
 }
