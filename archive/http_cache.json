@@ -7,10 +7,10 @@
     "etag": "W/\"17852-HfODuRIYL3xza4WEp+HHTwLgao8\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"f60c-yD7T8qe5Gbrl6iWx0eVBjOrMWeI\""
+    "etag": "W/\"f60c-1FLEWc0jiDf7A+OTZrW2mTkg4nE\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"ff50-G9vSAyffTiUJF0wtc1RQHNjS0kM\""
+    "etag": "W/\"ff50-BaND/YkJl2ksU0vwb3lbksltMNc\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Tue, 23 Jun 2026 18:10:39 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1782259235\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 24 Jun 2026 00:27:36 GMT"
+    "last_modified": "Wed, 24 Jun 2026 00:57:41 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 23 Jun 2026 14:02:23 GMT",
     "etag": "\"6c6ead65166d0ce0f3207531c309839a\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"f4e3-BhHASLM/lTCBW11n+t0Sozna8NY\""
+    "etag": "W/\"f4e3-dc7w2a/PGmyHc2c2kPEMoUD+EPg\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"f21a-HPzGn7at3BkNJVv3I4BDH2sTPU0\""
+    "etag": "W/\"f21a-441hYEgGi6jt4Hw7dDw1Ds5QE3o\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Wed, 24 Jun 2026 00:13:24 GMT",
@@ -51,15 +51,15 @@
     "etag": "\"1781596268\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 24 Jun 2026 00:05:59 GMT",
-    "etag": "W/\"1782259559-gzip\""
+    "last_modified": "Wed, 24 Jun 2026 00:41:25 GMT",
+    "etag": "W/\"1782261685-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Tue, 23 Jun 2026 18:09:16 GMT",
     "etag": "\"c69fa6fbf45d973283714213f184be79\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Wed, 24 Jun 2026 00:31:01 GMT",
-    "etag": "\"1782261061\""
+    "last_modified": "Wed, 24 Jun 2026 00:39:00 GMT",
+    "etag": "\"1782261540\""
   }
 }

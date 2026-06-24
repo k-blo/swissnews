@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-24T00:31:25.787374+00:00",
+  "generated": "2026-06-24T01:01:57.070599+00:00",
   "date": "2026-06-24",
-  "count": 41,
+  "count": 42,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -289,6 +289,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/alphornspieler-aus-neuseeland-sind-zu-gast-art-1709531",
       "summary": "",
       "published": "2026-06-24T00:31:25.787374+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine hofft auf OECD-Kandidatenstatus im Herbst",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/193759295-ukraine-hofft-auf-oecd-kandidatenstatus-im-herbst",
+      "summary": "",
+      "published": "2026-06-24T01:01:57.070599+00:00"
     }
   ]
 }
