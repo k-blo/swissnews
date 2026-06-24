@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-24T01:01:57.070599+00:00",
+  "generated": "2026-06-24T01:31:40.806683+00:00",
   "date": "2026-06-24",
-  "count": 42,
+  "count": 48,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -296,6 +296,48 @@
       "url": "https://www.watson.ch/international/gesellschaft-politik/193759295-ukraine-hofft-auf-oecd-kandidatenstatus-im-herbst",
       "summary": "",
       "published": "2026-06-24T01:01:57.070599+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Houston, wir hatten ein Problem: Cristiano Ronaldo beendet mit historischen Toren vorerst alle Rentendebatten",
+      "url": "https://www.nzz.ch/sport/houston-wir-hatten-ein-problem-cristiano-ronaldo-beendet-mit-historischen-toren-vorerst-alle-rentendebatten-ld.10012647",
+      "summary": "",
+      "published": "2026-06-24T01:31:40.806683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 in Nordamerika: Alle Resultate und Tabellen der Gruppen",
+      "url": "https://www.watson.ch/sport/fussball/164152401-wm-2026-in-nordamerika-alle-resultate-und-tabellen-der-gruppen",
+      "summary": "",
+      "published": "2026-06-24T01:31:40.806683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Kroatien schlägt Panama knapp – und bleibt an England dran",
+      "url": "https://www.watson.ch/sport/fussball/374316607-wm-2026-kroatien-schlaegt-panama-knapp-und-bleibt-an-england-dran",
+      "summary": "",
+      "published": "2026-06-24T01:31:40.806683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "GSM-R-System war Ursache für Bahnausfall in Deutschland",
+      "url": "https://www.watson.ch/international/oev/413977208-gsm-r-system-war-ursache-fuer-bahnausfall-in-deutschland",
+      "summary": "",
+      "published": "2026-06-24T01:31:40.806683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Maya-Stätte mitten im mexikanischen Dschungel entdeckt",
+      "url": "https://www.watson.ch/leben/mexiko/686066185-maya-staette-mitten-im-mexikanischen-dschungel-entdeckt",
+      "summary": "",
+      "published": "2026-06-24T01:31:40.806683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitzewelle: Genf und Basel am Dienstag die heissesten Orte der Schweiz",
+      "url": "https://www.watson.ch/schweiz/basel/142249670-hitzewelle-genf-und-basel-am-dienstag-die-heissesten-orte-der-schweiz",
+      "summary": "",
+      "published": "2026-06-24T01:31:40.806683+00:00"
     }
   ]
 }
