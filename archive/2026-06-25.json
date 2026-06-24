@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-24T22:01:39.308157+00:00",
+  "generated": "2026-06-24T22:31:27.115612+00:00",
   "date": "2026-06-25",
-  "count": 4,
+  "count": 26,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -30,6 +30,160 @@
       "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/ueetliberg-illegaler-velotrail-aergert-stallikon-anzeige-erstattet-ld.4191860",
       "summary": "",
       "published": "2026-06-24T22:01:39.308157+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA: Wohnraumgesetz beschlossen",
+      "url": "https://www.zentralplus.ch/news/usa-wohnraumgesetz-beschlossen-2880385/",
+      "summary": "US-Präsident Donald Trump weigert sich, ein Gesetz zu unterzeichnen, welches das Parlament am Dienstag beschlossen hat. Das Gesetz soll US-Amerikanerinnen und -Amerikanern helfen, sich ein eigenes Hau",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Im Video: So feierte Schaffhausen den Sieg der Nati",
+      "url": "https://www.shn.ch/sport/fussball/2026-06-24/im-video-so-feierte-schaffhausen-den-sieg-der-nati",
+      "summary": "Schon am frühen Abend sah man überall in der Schaffhauser Altstadt Fans im Rot der Schweizer Nati durch die Gassen ziehen. Nach dem Gruppensieg gab es dann kein Halten mehr auf den Schaffhauser Strass",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schottland – Brasilien und Marokko – Haiti: WM 2026 in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/701588566-schottland-brasilien-und-marokko-haiti-wm-2026-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Das freut Murat Yakin nach Schweizer Gruppensieg besonders",
+      "url": "https://www.watson.ch/sport/fussball/798021885-wm-2026-das-freut-murat-yakin-nach-schweizer-gruppensieg-besonders",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland plant gemäss Lettland Raketenangriffe auf Nato-Ostflanke",
+      "url": "https://www.watson.ch/international/russland/293003818-russland-plant-gemaess-lettland-raketenangriffe-auf-nato-ostflanke",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA und Iran planen laut US-Aussenminister Rubio Treffen in der Schweiz",
+      "url": "https://www.watson.ch/schweiz/international/575507248-usa-und-iran-planen-laut-us-aussenminister-rubio-treffen-in-der-schweiz",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wenn «brutale» Architektur begeistert",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wenn-brutale-architektur-begeistert-art-1709701",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wenn Heu zur Streue wird",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wenn-heu-zur-streue-wird-art-1709686",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Tagessieg für die Gebrüder Marco und Remo Heinzer",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/tagessieg-fuer-die-gebrueder-marco-und-remo-heinzer-art-1709711",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Spitex Region Schwyz zügelt von Brunnen weg",
+      "url": "https://www.bote.ch/nachrichten/schwyz/spitex-region-schwyz-zuegelt-von-brunnen-weg-art-1709670",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Spital Schwyz trotz politischem Gegenwind auf Erfolgskurs",
+      "url": "https://www.bote.ch/nachrichten/schwyz/spital-schwyz-trotz-politischem-gegenwind-auf-erfolgskurs-art-1709761",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schlagstrasse",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schlagstrasse-art-1709702",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mythen Center schliesst erste Phase des Umbaus ab",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mythen-center-schliesst-erste-phase-des-umbaus-ab-art-1709704",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Käsermeister Toni Holdener ist Chef von 13’500 Käselaiben",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kaesermeister-toni-holdener-ist-chef-von-13500-kaeselaiben-art-1709710",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Klares Ja zum Finanzbericht trotz verfehlter Ziele",
+      "url": "https://www.bote.ch/nachrichten/schwyz/klares-ja-zum-finanzbericht-trotz-verfehlter-ziele-art-1709733",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kinder trotzen der Hitze",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/kinder-trotzen-der-hitze-art-1709450",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Huskys habens gerne kühl",
+      "url": "https://www.bote.ch/nachrichten/schwyz/huskys-habens-gerne-kuehl-art-1709772",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Helfen statt Gaffen",
+      "url": "https://www.bote.ch/service/leserbriefe/helfen-statt-gaffen-art-1709707",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fünf Gemeinden haben eine neue Führung",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fuenf-gemeinden-haben-eine-neue-fuehrung-art-1709728",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dies sind die Highlights vom Wochenende",
+      "url": "https://www.bote.ch/nachrichten/schwyz/dies-sind-die-highlights-vom-wochenende-art-1709708",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die 50+ der NLA-Damen werden Vize-Schweizer-Meisterinnen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/die-50-der-nla-damen-werden-vize-schweizer-meisterinnen-art-1709741",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Das gibt keinen Soloauftritt: Mathias Bachmann wird mit einem Glanzresultat zum obersten Schwyzer gewählt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/das-gibt-keinen-soloauftritt-mathias-bachmann-wird-mit-einem-glanzresultat-zum-obersten-schwyzer-gewaehlt-art-1709734",
+      "summary": "",
+      "published": "2026-06-24T22:31:27.115612+00:00"
     }
   ]
 }
