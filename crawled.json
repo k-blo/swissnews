@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-24T23:01:30.332694+00:00",
+  "generated": "2026-06-24T23:31:28.920789+00:00",
   "date": "2026-06-25",
-  "count": 34,
+  "count": 38,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -240,6 +240,34 @@
       "url": "https://www.watson.ch/international/russland/457660398-maxim-kruglow-oppositionspolitiker-muss-in-russland-7-jahre-in-haft",
       "summary": "",
       "published": "2026-06-24T23:01:30.332694+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "RUS-Oppositionspolitiker verurteilt",
+      "url": "https://www.zentralplus.ch/news/rus-oppositionspolitiker-verurteilt-2880387/",
+      "summary": "In Russland ist der Oppositionspolitiker Maxim Kruglow wegen des Vorwurfs der Verbreitung von Unwahrheiten über die Armee zu sieben Jahren Strafkolonie verurteilt worden. Das meldeten mehrere russisch",
+      "published": "2026-06-24T23:31:28.920789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stärke von 7,1: Erdbeben erschüttert Venezuela",
+      "url": "https://www.watson.ch/international/natur/290815946-staerke-von-7-1-erdbeben-erschuettert-venezuela",
+      "summary": "",
+      "published": "2026-06-24T23:31:28.920789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Darum musste Nati-Trainer Murat Yakin sein T-Shirt wechseln",
+      "url": "https://www.watson.ch/sport/fussball/181494663-wm-2026-darum-musste-nati-trainer-murat-yakin-sein-t-shirt-wechseln",
+      "summary": "",
+      "published": "2026-06-24T23:31:28.920789+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "495 Möglichkeiten! Das ist der wahrscheinlichste Nati-Gegner im WM-Sechzehntelfinal",
+      "url": "https://www.bote.ch/nachrichten/sport/wm-2026-schweizer-gegner-im-sechzehntelfinal-diese-duelle-sind-moeglich-art-1709816",
+      "summary": "",
+      "published": "2026-06-24T23:31:28.920789+00:00"
     }
   ]
 }
