@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T23:01:47.548723+00:00",
+  "generated": "2026-06-25T23:31:58.339001+00:00",
   "date": "2026-06-26",
-  "count": 23,
+  "count": 27,
   "articles": [
     {
       "source": "NZZ",
@@ -163,6 +163,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/272727/nach-36%C2%A0jahren-siemensmanager-matthias-rebellius-verl%C3%A4sst-den-konzern",
       "summary": "",
       "published": "2026-06-25T23:01:47.548723+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Charles zahlte seit Thronbesteigung 30 Millionen Pfund Steuern",
+      "url": "https://www.20min.ch/story/britische-monarchie-charles-zahlte-seit-thronbesteigung-30-millionen-pfund-steuern-103590758",
+      "summary": "Als erster britischer Monarch hat König Charles III. seine privaten Finanzen öffentlich gemacht. Zudem hat er bekannt gegeben, dass er und Camilla nicht in den Buckingham-Palast ziehen werden.",
+      "published": "2026-06-25T23:31:58.339001+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nächster Knall bei Denner: Jetzt geht ein weiterer Chef",
+      "url": "https://www.freiburger-nachrichten.ch/story/272730/n%C3%A4chster-knall-bei-denner-jetzt-geht-ein-weiterer-chef",
+      "summary": "",
+      "published": "2026-06-25T23:31:58.339001+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schweizer Polizei erhält Zugang zu Europol-Daten – doch es gibt einen Haken",
+      "url": "https://www.freiburger-nachrichten.ch/story/272729/schweizer-polizei-erh%C3%A4lt-zugang-zu-europoldaten-doch-es-gibt-einen-haken",
+      "summary": "",
+      "published": "2026-06-25T23:31:58.339001+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Überraschende Wende: Die Schweiz erhält vielleicht doch schon 2027 Patriot-Systeme",
+      "url": "https://www.freiburger-nachrichten.ch/story/272728/%C3%BCberraschende-wende-die-schweiz-erh%C3%A4lt-vielleicht-doch-schon-2027-patriotsysteme",
+      "summary": "",
+      "published": "2026-06-25T23:31:58.339001+00:00"
     }
   ]
 }
