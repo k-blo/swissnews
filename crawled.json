@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T20:01:56.966798+00:00",
+  "generated": "2026-06-25T20:31:50.832294+00:00",
   "date": "2026-06-25",
-  "count": 1016,
+  "count": 1020,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -7114,6 +7114,34 @@
       "url": "https://www.watson.ch/sport/fussball/419098021-wm-2026-so-viel-verdient-srf-mit-werbespots-in-den-trinkpausen",
       "summary": "",
       "published": "2026-06-25T20:01:56.966798+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Preishammer bei Apple: Macbooks und iPads werden teurer – iPhones noch nicht",
+      "url": "https://www.tagesanzeiger.ch/apple-erhoeht-preise-ipad-kostet-neu-430-franken-226665630048",
+      "summary": "Es gibt kein Entkommen vor den Folgen des KI-Booms. Nun erhöht auch Apple die Preise – doch es gibt einen Trick.",
+      "published": "2026-06-25T20:31:50.832294+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Ecuador – Deutschland im Ticker: Zwei Tore in den Startminuten und ein verunsichertes Deutschland",
+      "url": "https://www.derbund.ch/fussball-wm-live-ecuador-deutschland-um-22-uhr-im-ticker-479217548879",
+      "summary": "Deniz Undav ist nur Ergänzungsspieler, hat aber bereits dreimal getroffen. Macht er das auch heute gegen Ecuador? Das Spiel im Liveticker.",
+      "published": "2026-06-25T20:31:50.832294+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizer Rettungskräfte fliegen ins Erdbebengebiet in Venezuela",
+      "url": "https://www.watson.ch/111309860-schweizer-rettungskraefte-fliegen-ins-erdbebengebiet-in-venezuela",
+      "summary": "",
+      "published": "2026-06-25T20:31:50.832294+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Tragisches Bergunglück am Kleinen Mythen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/tragisches-bergunglueck-am-kleinen-mythen-art-1709995",
+      "summary": "",
+      "published": "2026-06-25T20:31:50.832294+00:00"
     }
   ]
 }
