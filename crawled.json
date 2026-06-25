@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T01:31:27.423996+00:00",
+  "generated": "2026-06-25T02:01:29.647249+00:00",
   "date": "2026-06-25",
-  "count": 58,
+  "count": 60,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -408,6 +408,20 @@
       "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-bosnien-herzegowina-feiert-einzug-in-k-o-phase",
       "summary": "",
       "published": "2026-06-25T01:31:27.423996+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wohnen und Mobilität waren im Mai deutlich teurer",
+      "url": "https://www.20min.ch/story/comparis-wohnen-und-mobilitaet-teurer-teuerung-hoeher-103590067",
+      "summary": "Hohe Treibstoff- und Heizölpreise haben vergangenen Monat das Wohnen und Autofahren verteuert. Gegenüber dem Vorjahr sind die Kosten um rund 63 Franken pro Monat gestiegen.",
+      "published": "2026-06-25T02:01:29.647249+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Stärke 7,2 und 7,5 auf der Richterskala: Zwei starke Erdbeben erschüttern Venezuela – Tausende Tote befürchtet",
+      "url": "https://www.derbund.ch/venezuela-starke-erdbeben-nahe-hauptstadt-caracas-939343112408",
+      "summary": "Mit einer Stärke von 7,2 und 7,5 auf der Richterskala hat nahe der Hauptstadt Caracas die Erde gebebt. Viele Gebäude sind eingestürzt. Es ist mit hohen Opferzahlen zu rechnen.",
+      "published": "2026-06-25T02:01:29.647249+00:00"
     }
   ]
 }
