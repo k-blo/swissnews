@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T22:31:33.578423+00:00",
+  "generated": "2026-06-25T23:01:47.548723+00:00",
   "date": "2026-06-26",
-  "count": 20,
+  "count": 23,
   "articles": [
     {
       "source": "NZZ",
@@ -142,6 +142,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/abschlussfeier-an-der-ksa-wuerdiger-abschluss-und-starke-gemeinschaft-art-1709918",
       "summary": "",
       "published": "2026-06-25T22:31:33.578423+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Elfenbeinküste erstmals in K.o.-Runde – Curaçao raus +++ Auto rast in Feiernde in Mexiko – 17 Verletzte +++ Klopp bricht Interview ab",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-elfenbeinkueste-erstmals-in-ko-runde-curacao-raus-auto-rast-in-feiernde-in-mexiko-17-verletzte-klopp-bricht-interview-ab-ld.10010036",
+      "summary": "",
+      "published": "2026-06-25T23:01:47.548723+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Ecuador-Trainer Beccacece nach Siegtor in Ekstase",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-ecuador-trainer-beccacece-nach-siegtor-in-ekstase",
+      "summary": "",
+      "published": "2026-06-25T23:01:47.548723+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nach 36 Jahren: Siemens-Manager Matthias Rebellius verlässt den Konzern",
+      "url": "https://www.freiburger-nachrichten.ch/story/272727/nach-36%C2%A0jahren-siemensmanager-matthias-rebellius-verl%C3%A4sst-den-konzern",
+      "summary": "",
+      "published": "2026-06-25T23:01:47.548723+00:00"
     }
   ]
 }
