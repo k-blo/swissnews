@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T21:01:51.348546+00:00",
+  "generated": "2026-06-25T21:31:48.957952+00:00",
   "date": "2026-06-25",
-  "count": 1024,
+  "count": 1028,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -7170,6 +7170,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/fans-im-public-viewing-in-brunnen-feiern-die-schweizer-nati-art-1709996",
       "summary": "",
       "published": "2026-06-25T21:01:51.348546+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Live vom Open Air St. Gallen – Jan Delay bringt das Sittertobel zum Glühen",
+      "url": "https://www.srf.ch/radio-srf-3/festivalsommer/live-vom-open-air-st-gallen-jan-delay-bringt-das-sittertobel-zum-gluehen",
+      "summary": "Was passiert auf den Bühnen und dem Festivalgelände am Open Air St. Gallen? Der Ticker hält euch auf dem Laufenden.",
+      "published": "2026-06-25T21:31:48.957952+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Weitsprung anstatt Zehnkampf: Simon Ehammer hadert mit dem EM-Zeitplan – nun will er Gold",
+      "url": "https://www.tagesanzeiger.ch/simon-ehammer-weitsprung-statt-zehnkampf-an-der-em-in-birmingham-232985981629",
+      "summary": "Der Appenzeller ist die Weltnummer 1 im Zehnkampf und Weitsprung. Doch an der EM in Birmingham kann er nur in einer Disziplin antreten. Er hat sich für den Weitsprung entschieden.",
+      "published": "2026-06-25T21:31:48.957952+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Japan – Schweden & Tunesien – Niederlande: WM live in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/137033097-japan-schweden-tunesien-niederlande-wm-live-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-06-25T21:31:48.957952+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "250 Jahre USA: Trump zelebriert sich selbst – doch in einem Punkt überrascht er",
+      "url": "https://www.freiburger-nachrichten.ch/story/272554/250-jahre-usa-trump-zelebriert-sich-selbst-doch-in-einem-punkt-%C3%BCberrascht-er",
+      "summary": "",
+      "published": "2026-06-25T21:31:48.957952+00:00"
     }
   ]
 }
