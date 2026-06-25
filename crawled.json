@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T12:02:00.582839+00:00",
+  "generated": "2026-06-25T12:32:15.719753+00:00",
   "date": "2026-06-25",
-  "count": 605,
+  "count": 625,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4237,6 +4237,146 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/reto-walther-wird-neuer-leiter-des-kantonalen-rechtsdienstes-art-1709881",
       "summary": "",
       "published": "2026-06-25T12:02:00.582839+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Impfstreit zwischen Eltern: Bundesgericht bremst Skeptiker-Vater aus",
+      "url": "https://www.blick.ch/schweiz/bern/impfstreit-zwischen-eltern-bundesgericht-bremst-skeptiker-vater-aus-id22059200.html",
+      "summary": "Eine Mutter wollte ihre Tochter impfen lassen, der Vater war dagegen – obwohl das Mädchen bereits an Keuchhusten erkrankt war. Jetzt gibt das Bundesgericht der Mutter recht.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wie lange kann ein Mensch eigentlich unter Trümmern überleben?",
+      "url": "https://www.20min.ch/story/venezuela-wie-lange-kann-ein-mensch-eigentlich-unter-truemmern-ueberleben-103590287",
+      "summary": "In Venezuela haben zwei heftige Erdbeben zahlreiche Häuser einstürzen lassen. Noch immer ziehen Retter Lebende aus den Trümmern. Doch die Zeit drängt.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kanada-Sieg: Manzambi ist der Liebling – Xhaka fällt durch",
+      "url": "https://www.20min.ch/story/das-sagt-die-community-kanada-sieg-manzambi-ist-der-liebling-xhaka-faellt-durch-103590239",
+      "summary": "Nach dem Sieg gegen Kanada vergibt die 20-Minuten-Community Bestnoten für Johan Manzambi. Captain Granit Xhaka erhält Kritik.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Enttäuscht»: Marc Terenzis Tochter lehnt seine Entschuldigung ab",
+      "url": "https://www.20min.ch/story/marc-terenzi-tochter-summer-rechnet-oeffentlich-mit-dem-saenger-ab-103590265",
+      "summary": "Marc Terenzi will einen Song als Entschuldigung an seine Tochter schreiben. Doch Summer Terenzi reagiert auf Instagram mit einer wütenden Abrechnung.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Regelkunde statt Modebewusstsein: Warum Yakin gegen Kanada plötzlich sein Shirt wechseln musste",
+      "url": "https://www.tagesanzeiger.ch/wm-2026-schiedsrichter-zwingt-murat-yakin-zum-trikotwechsel-876935532891",
+      "summary": "Die erste Halbzeit coacht er sein Team in Weiss, nach der Pause trägt er plötzlich Schwarz. Das Schiedsrichterteam hatte interveniert.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Aufregung in Selzach SO: Drittklässler bringt eine echte Waffe in die Primarschule",
+      "url": "https://www.tagesanzeiger.ch/selzach-drittklaessler-bringt-revolver-in-primarschule-832692762397",
+      "summary": "In Selzach hat die Kantonspolizei gemäss Medienberichten einem Schulbub einen ungeladenen Revolver abnehmen müssen. Er soll damit ein anderes Kind bedroht haben.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gefahren für Europa: Schweizer Geheimdienst warnt vor sich verschlechternder Sicherheitslage",
+      "url": "https://www.tagesanzeiger.ch/ndb-bericht-sicherheitslage-der-schweiz-verschlechtert-sich-175607828110",
+      "summary": "Die grösste Bedrohung für Europa geht von Russland aus. Doch auch der Iran und Terrorismus bereitet dem NDB Kopfzerbrechen.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zuger Verein wappnet Firmen gegen Hackerangriffe",
+      "url": "https://www.zentralplus.ch/technologie-digitales/zuger-verein-wappnet-firmen-gegen-hackerangriffe-2880554/",
+      "summary": "Cyberangriffe treffen Schweizer Firmen immer häufiger. Ein neues Pilotprojekt soll KMU aus der Zentralschweiz besser darauf vorbereiten. Der Verein ITSec4KMU und das Trust-Valley-Programm Trust4SMEs s",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "ICT-Modellverträge erreichen das KI-Zeitalter",
+      "url": "https://www.inside-it.ch/ict-modellvertraege-erreichen-das-ki-zeitalter-20260625",
+      "summary": "Die Modellverträge von Swico und SwissICT decken seit Ende der 1990er-Jahre die gängigsten Vertragstypen im IT-Umfeld ab. Neu sind Regelungen zu KI-Systemen.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Indonesien wollte Gratismahlzeiten für Kinder verteilen – jetzt wird das Programm nach Skandalen zusammengestrichen",
+      "url": "https://www.nzz.ch/international/indonesien-wollte-gratismahlzeiten-fuer-kinder-verteilen-jetzt-wird-das-programm-nach-skandalen-zusammengestrichen-ld.10012871",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schwerverletzte Velofahrerin nach Unfall mit Lastwagen in Henggart",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-06-25/schwerverletzte-velofahrerin-nach-unfall-mit-lastwagen-in",
+      "summary": "Eine Lastwagenfahrerin bog in Henggart in eine Baustelleneinfahrt ein und übersah dabei eine junge Velofahrerin. Diese verletzte sich beim Unfall schwer und musste ins Spital gebracht werden.",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Weitwanderungen und Kunst im Freien Neue Sommerangebote Sind So Divers wie die Gäste",
+      "url": "https://www.suedostschweiz.ch/graubuenden/weitwanderungen-und-kunst-im-freien-neue-sommerangebote-sind-so-divers-wie-die-gaeste-1934380",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mit Diesen 13 Neuen Angeboten Lockt Graubünden Touristen in die Berge",
+      "url": "https://www.suedostschweiz.ch/graubuenden/mit-diesen-13-neuen-angeboten-lockt-graubuenden-touristen-in-die-berge-1933832",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Bauernzeitung",
+      "title": "Warum Geduld Beim Zubereiten von Siedfleisch die Wichtigste Zutat ist",
+      "url": "https://www.bauernzeitung.ch/artikel/landleben/warum-geduld-beim-zubereiten-von-siedfleisch-die-wichtigste-zutat-ist-555120",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Heimweltcup in Luzern Swiss Rowing Testet die Saisonkorrekturen",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/heimweltcup-in-luzern-swiss-rowing-testet-die-saisonkorrekturen-ld.4190978",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Schusswaffe in Primarschule Selzach Niemand Verletzt",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/schusswaffe-in-primarschule-selzach-niemand-verletzt-ld.4192725",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Oftringen Drei Autos Kollidieren Zwei Fahrer Alkoholisiert",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/oftringen-drei-autos-kollidieren-zwei-fahrer-alkoholisiert-ld.4192717",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "MoneyTalks: Klicken statt Kicken – lohnt Fussball-Investment für dich?",
+      "url": "https://www.watson.ch/wirtschaft/blogs/343288684-moneytalks-klicken-statt-kicken-lohnt-fussball-investment-fuer-dich",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neun Boote am Heimweltcup&nbsp;– gibt es am Rotsee die erste Medaille der Saison?",
+      "url": "https://www.bote.ch/nachrichten/sport/heimweltcup-in-luzern-swiss-rowing-testet-die-saisonkorrekturen-art-1709890",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sascha Ruefer und die «Besserwisser» – sind die Experten mit der Nati zu streng?",
+      "url": "https://www.bote.ch/nachrichten/sport/sascha-ruefer-polarisiert-waehrend-des-nati-siegs-gegen-kanada-art-1709887",
+      "summary": "",
+      "published": "2026-06-25T12:32:15.719753+00:00"
     }
   ]
 }
