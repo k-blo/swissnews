@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T01:01:32.957632+00:00",
+  "generated": "2026-06-25T01:31:27.423996+00:00",
   "date": "2026-06-25",
-  "count": 57,
+  "count": 58,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -401,6 +401,13 @@
       "url": "https://www.watson.ch/sport/liveticker/996508877-suedafrika-suedkorea-und-tschechien-mexiko-wm-in-ticker-und-stream",
       "summary": "",
       "published": "2026-06-25T01:01:32.957632+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Bosnien-Herzegowina feiert Einzug in K.o.-Phase",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-bosnien-herzegowina-feiert-einzug-in-k-o-phase",
+      "summary": "",
+      "published": "2026-06-25T01:31:27.423996+00:00"
     }
   ]
 }
