@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T21:01:58.465440+00:00",
+  "generated": "2026-06-26T21:32:14.957112+00:00",
   "date": "2026-06-26",
-  "count": 997,
+  "count": 1003,
   "articles": [
     {
       "source": "NZZ",
@@ -6981,6 +6981,48 @@
       "url": "https://www.watson.ch/international/russland/927648553-selenskyj-ukraine-hat-putin-friedensvorschlag-geschickt",
       "summary": "",
       "published": "2026-06-26T21:01:58.465440+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Arena» zu heissen Eisen – EU, AKW und AHV sorgen für Gewitter zwischen Parteispitzen",
+      "url": "https://www.srf.ch/news/schweiz/arena-zu-heissen-eisen-eu-akw-und-ahv-sorgen-fuer-gewitter-zwischen-parteispitzen",
+      "summary": "Die Parteispitzen machen eine Auslegeordnung zum EU-Paket, zu neuen AKWs, zur AHV-Finanzierung und zum US-Zollstreit.",
+      "published": "2026-06-26T21:32:14.957112+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA greifen Ziele im Iran an",
+      "url": "https://www.zentralplus.ch/news/usa-greifen-ziele-im-iran-an-2881033/",
+      "summary": "Das US-Militär hat eigenen Angaben zufolge trotz vereinbarter Waffenruhe neue Angriffe gegen den Iran durchgeführt. Es handle sich um eine Reaktion auf die Attacke auf ein Frachtschiff am Donnerstag. ",
+      "published": "2026-06-26T21:32:14.957112+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Digitalisierung Luzerner Gemeinden Gründen Verein",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/digitalisierung-luzerner-gemeinden-gruenden-verein-ld.4192178",
+      "summary": "",
+      "published": "2026-06-26T21:32:14.957112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Dembélé schlenzt Frankreich mit Hattrick zum Sieg gegen Norwegens B-Elf",
+      "url": "https://www.watson.ch/sport/fussball/741376887-dembele-schlenzt-frankreich-mit-hattrick-zum-sieg-gegen-norwegens-b-elf",
+      "summary": "",
+      "published": "2026-06-26T21:32:14.957112+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein Freibad weist Gäste «ohne ausreichende Deutschkenntnisse»",
+      "url": "https://www.freiburger-nachrichten.ch/story/272852/ein-freibad-weist-g%C3%A4ste-ohne-ausreichende-deutschkenntnisse",
+      "summary": "",
+      "published": "2026-06-26T21:32:14.957112+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzerner Gemeinden gründen Digitalverein",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/digitalisierung-luzerner-gemeinden-gruenden-verein-art-1710191",
+      "summary": "",
+      "published": "2026-06-26T21:32:14.957112+00:00"
     }
   ]
 }
