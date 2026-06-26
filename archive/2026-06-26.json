@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T11:31:37.025911+00:00",
+  "generated": "2026-06-26T11:38:34.056133+00:00",
   "date": "2026-06-26",
-  "count": 549,
+  "count": 550,
   "articles": [
     {
       "source": "NZZ",
@@ -3845,6 +3845,13 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/gemeinsam-saeen-pflegen-la-wachsae-und-ernten-art-1710069",
       "summary": "",
       "published": "2026-06-26T11:31:37.025911+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schulaufsicht Brugg: Schule Schinznach-Bad besteht vertiefte Qualitätsprüfung",
+      "url": "https://www.tagesanzeiger.ch/schinznach-bad-schule-besteht-kantonale-qualitaetspruefung-435702402462",
+      "summary": "Die kantonale Kontrolle hat ergeben, dass die Schule alle Grundanforderungen erfüllt. Doch Auffälligkeiten in zwei Bereichen machten eine genauere Abklärung nötig.",
+      "published": "2026-06-26T11:38:34.056133+00:00"
     }
   ]
 }
