@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T01:01:33.072360+00:00",
+  "generated": "2026-06-26T01:31:25.963027+00:00",
   "date": "2026-06-26",
-  "count": 39,
+  "count": 41,
   "articles": [
     {
       "source": "NZZ",
@@ -275,6 +275,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/so-viele-halteplaetze-fuer-fahrende-fehlen-im-kanton-luzern-art-1710021",
       "summary": "",
       "published": "2026-06-26T00:31:39.476636+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Schwere Erdbeben erschüttern Venezuela: Ausländische Helfer fliegen mit Suchhunden und Drohnen ein +++ Mindestens 188 Tote und 250 zerstörte Gebäude",
+      "url": "https://www.nzz.ch/panorama/schwere-erdbeben-erschuettern-venezuela-auslaendische-helfer-fliegen-mit-suchhunden-und-drohnen-ein-mindestens-188-tote-und-250-zerstoerte-gebaeude-ld.10012850",
+      "summary": "",
+      "published": "2026-06-26T01:31:25.963027+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Niederlande holt Gruppensieg – Japan und Schweden auch weiter",
+      "url": "https://www.watson.ch/sport/fussball/137033097-wm-2026-niederlande-holt-gruppensieg-japan-und-schweden-auch-weiter",
+      "summary": "",
+      "published": "2026-06-26T01:31:25.963027+00:00"
     }
   ]
 }
