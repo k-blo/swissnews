@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T08:01:49.577465+00:00",
+  "generated": "2026-06-26T08:31:42.957519+00:00",
   "date": "2026-06-26",
-  "count": 329,
+  "count": 362,
   "articles": [
     {
       "source": "NZZ",
@@ -2305,6 +2305,237 @@
       "url": "https://www.infosperber.ch/wirtschaft/dank-luzern-vorkaufsrecht-auf-dem-vormarsch/",
       "summary": "",
       "published": "2026-06-26T08:01:49.577465+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hitzewelle und Trockenheit – Hitzetag Nummer 10: heiss und sonnig bei lokal bis 38 Grad",
+      "url": "https://www.srf.ch/news/schweiz/hitzewelle-und-trockenheit-hitzetag-nummer-10-heiss-und-sonnig-bei-lokal-bis-38-grad",
+      "summary": "Heute steigen die Temperaturen verbreitet auf 32 bis 37 Grad, lokal – etwa im Raum Basel – auch auf bis zu 38 Grad.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bis zu 100'000 Jobs betroffen? VW steht vor nächstem Mega-Abbau",
+      "url": "https://www.20min.ch/story/vier-werke-sollen-weg-bis-zu-100-000-jobs-betroffen-vw-steht-vor-naechstem-mega-abbau-103590896",
+      "summary": "Der deutsche Autoriese VW steht vor einem drastischen Personalabbau, der bis zu 100'000 Arbeitsplätze betreffen könnte.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Die traurige Geschichte hinter diesen emotionalen Jubelbildern",
+      "url": "https://www.20min.ch/story/wm-2026-die-traurige-geschichte-hinter-diesen-emotionalen-jubelbildern-103590804",
+      "summary": "Ecuadors 2:1 gegen Deutschland sorgte für einen emotionalen Jubel von Trainer Sebastian Beccacece, der seiner Familie dankte. Zuvor wurden er und seine Familie übel angefeindet und er wurde zum Rücktr",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Geh nicht weg!»: Erdbeben-Video von altem Paar berührt weltweit",
+      "url": "https://www.20min.ch/video/venezuela-geh-nicht-weg-erdbeben-video-von-altem-paar-beruehrt-weltweit-103590875",
+      "summary": "Ein Video eines älteren Ehepaars während des Doppelbebens in Venezuela berührt viele Menschen weltweit. Der Mann stellte sich schützend über seine Partnerin und liess sie nicht los. \nDerweil geht die ",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Raiffeisen sucht einen Penetration Tester: Was dahintersteckt",
+      "url": "https://www.20min.ch/story/einmal-lachen-bitte-raiffeisen-sucht-einen-penetration-tester-was-dahintersteckt-103578750",
+      "summary": "Raiffeisen sucht einen Penetration Tester, der die Sicherheit überprüft. Damit erfüllt die Bank die Vorgaben der Finanzmarktaufsicht.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "In Wohnungen und Büros: Die Temperatur steigt, das Tabu fällt: Jetzt rüstet die Schweiz mit Klimaanlagen auf",
+      "url": "https://www.tagesanzeiger.ch/klimaanlagen-schweiz-ruestet-bei-hitzewelle-auf-552798271544",
+      "summary": "Die Schweiz verzeichnet neue Hitzerekorde, und Klimaanlagen, die hierzulande lange als verpönt galten, sind plötzlich Verkaufsschlager. Wie sich ein Land an die Hitze anpasst – kulturell und politisch",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Leere Verkaufsregale: Wer jetzt noch ein Klimagerät kaufen will, braucht Glück",
+      "url": "https://www.tagesanzeiger.ch/klimageraete-verkaeufe-steigen-um-50-prozent-in-der-schweiz-912170043040",
+      "summary": "Wohl denjenigen, die eines haben: Detailhändler in der Schweiz, Deutschland und Frankreich verzeichnen Rekordverkäufe bei Kühlgeräten. Viele Modelle sind ausverkauft.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Radikaler Konzernumbau: Volkswagen plant offenbar bis zu 100’000 Stellenstreichungen",
+      "url": "https://www.tagesanzeiger.ch/volkswagen-blume-plant-100000-stellen-abzubauen-577688559912",
+      "summary": "Der Autobauer bereitet laut einem Medienbericht einen deutlich grösseren Sparkurs vor als bisher bekannt. Neben bis zu 100’000 Stellen sollen auch vier Werke geschlossen und der Konzern grundlegend um",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Urteil in Deutschland: Höchststrafe für Todesfahrer vom Magdeburger Weihnachtsmarkt",
+      "url": "https://www.tagesanzeiger.ch/magdeburger-weihnachtsmarkt-todesfahrer-zu-lebenslanger-haft-verurteilt-747929869740",
+      "summary": "Er raste 2024 mit einem Mietwagen durch die Menschenmengen auf dem Weihnachtsmarkt im Osten Deutschlands. Sechs Personen starben, Hunderte wurden verletzt. Jetzt steht das Urteil fest.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Abschiedsfest in Kloten: Rivalinnen, Legenden und ein «Langzeit-Stapi», der grössere Schneemänner bauen will",
+      "url": "https://www.tagesanzeiger.ch/kloten-rene-huber-verabschiedet-sich-nach-20-jahren-als-stapi-165825960940",
+      "summary": "Nach 32 Jahren im Stadtrat und davon 20 Jahren als Stadtpräsident hat sich René Huber (SVP) am Mittwoch von der Politbühne verabschiedet. Ohne Pomp, aber mit Witz und Würde.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bahnhof Winterthur: Blutverschmiertes Bänkli gibt Rätsel auf",
+      "url": "https://www.tagesanzeiger.ch/bahnhof-winterthur-blutverschmiertes-baenkli-gibt-raetsel-auf-995111402887",
+      "summary": "Am Mittwoch schreckte ein Blutfleck an einem Bänkli am Bahnhof Winterthur die Passagiere auf. Selbst Überwachungskameras können nicht klären, was da eigentlich passiert ist.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Sozialdienst Trachselwald: Delegierte bewilligen 770’000 Franken für Soforthilfe",
+      "url": "https://www.bernerzeitung.ch/sozialdienst-trachselwald-770000-franken-fuer-soforthilfe-472827518591",
+      "summary": "100 statt 75 Fälle pro Vollzeitstelle: Das Personal beim Sozialdienst Region Trachselwald ist am Anschlag. Nun sollen zusätzliche Springer überbrücken, bis die neuen Stellen fest besetzt sind.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gemeindeversammlung entscheidet: Pohlern erhöht die Finanz­kompetenz des Gemeinderats",
+      "url": "https://www.bernerzeitung.ch/pohlern-gemeinderat-darf-neu-bis-50000-franken-ausgeben-960923313525",
+      "summary": "Der Gemeinderat darf künftig einmalige Ausgaben bis 50’000 statt 30’000 Franken selbst beschliessen. Nur 24 Stimm­berechtigte nahmen an der Ver­sammlung teil.",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Spritztour endet beim Zoll: «Geldgierig» – Fahrer von «Premium-SUV» beleidigt Zöllner",
+      "url": "https://www.bazonline.ch/zoll-loerrach-verdirbt-spritztour-8000-euro-abgabe-fuer-fahrzeug-728136464230",
+      "summary": "Zwischen Grenzach-Wyhlen und Inzlingen mussten die Beamten das «schicke Auto» aus dem Verkehr ziehen. Der 33-jährige Lenker verhielt sich «überaus ungehalten».",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Feuerverbot in Teilen Graubündens",
+      "url": "https://www.zentralplus.ch/news/feuerverbot-in-teilen-graubuendens-2880788/",
+      "summary": "In einigen Kantonen gibt es wegen Hitze und Trockenheit bereits Feuerverbote, nun auch im Kanton Graubünden. Das Feuerverbot im Freien gelte in mehreren Regionen, schreiben die Behörden: im Churer Rhe",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie KI die Spielregeln der Cybersicherheit verändert",
+      "url": "https://www.netzwoche.ch/news/2026-06-26/wie-ki-die-spielregeln-der-cybersicherheit-veraendert",
+      "summary": "Die 16. Infoguard Security Lounge hat rund 800 Kunden, Partner und Fachpersonen aus der Cybersecurity-Branche zusammengebracht, 300 davon vor Ort im Theater Casino Zug. Im Zentrum standen künstliche I",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KURZMELDUNGEN - «Keine Zündhölzer wegwerfen!» – Kanton verbietet Feuer im Wald und am Waldrand",
+      "url": "https://www.nzz.ch/zuerich/news-aus-zuerich-kanton-verbietet-feuer-im-wald-und-am-waldrand-ld.10012099",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Cartier 3 Preis Technik",
+      "url": "https://www.bilanz.ch/archiv/cartier-3-preis-technik/fv19zl3",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Cartier 2 Preis Technik",
+      "url": "https://www.bilanz.ch/archiv/cartier-2-preis-technik/m8sg0dt",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Cartier 1 Preis Technik",
+      "url": "https://www.bilanz.ch/archiv/cartier-1-preis-technik/f6e9f9b",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Cartier 3 Preis",
+      "url": "https://www.bilanz.ch/archiv/cartier-3-preis/5klg3zh",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Cartier 2 Preis",
+      "url": "https://www.bilanz.ch/archiv/cartier-2-preis/x26r91b",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Cartier 1 Preis",
+      "url": "https://www.bilanz.ch/archiv/cartier-1-preis/yzpw3nk",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Reto Näf Heisst der Neue Dirigent",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/reto-naef-heisst-der-neue-dirigent-ld.4193182",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bronze für Lenia Grimm an der Jugend Ol Em im Sprint",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/bronze-fuer-lenia-grimm-an-der-jugend-ol-em-im-sprint-ld.4193147",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Liveticker der Fc Wil Testet Auswärts Gegen Austria Lustenau",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/liveticker-der-fc-wil-testet-auswaerts-gegen-austria-lustenau-ld.4190070",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "65 Jährige Velofahrerin in Sachseln Schwer Verletzt",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/65-jaehrige-velofahrerin-in-sachseln-schwer-verletzt-ld.4193151",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Goretzka steigt in den falschen Bus ein",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-goretzka-steigt-in-den-falschen-bus-ein",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Grimseltunnel: Röstis Prestigeprojekt fällt bei Experten durch",
+      "url": "https://www.watson.ch/schweiz/analyse/435211836-grimseltunnel-roestis-prestigeprojekt-faellt-bei-experten-durch",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Feuerwerksinitiative kommt nach gescheitertem Gegenvorschlag vors Volk",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/168229868-feuerwerksinitiative-kommt-nach-gescheitertem-gegenvorschlag-vors-volk",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wortgefecht zwischen den Parteien: SVP und FDP bremsen das Wachstum der Verwaltung aus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wortgefecht-zwischen-den-parteien-svp-und-fdp-bremsen-das-wachstum-der-verwaltung-aus-art-1710056",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "65-jährige Velofahrerin bei Sturz schwer verletzt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/65-jaehrige-velofahrerin-in-sachseln-schwer-verletzt-art-1710055",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Der F 35 ist Nur Während 25 Prozent der Zeit Voll Einsatzfähig",
+      "url": "https://www.infosperber.ch/politik/der-f-35-ist-nur-waehrend-25-prozent-der-zeit-voll-einsatzfaehig/",
+      "summary": "",
+      "published": "2026-06-26T08:31:42.957519+00:00"
     }
   ]
 }
