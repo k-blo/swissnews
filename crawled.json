@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T09:02:07.888874+00:00",
+  "generated": "2026-06-26T09:31:57.405153+00:00",
   "date": "2026-06-26",
-  "count": 408,
+  "count": 448,
   "articles": [
     {
       "source": "NZZ",
@@ -2858,6 +2858,286 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/reto-wyss-kuendigt-rueckzug-aus-dem-luzerner-regierungsrat-an-art-1710057",
       "summary": "",
       "published": "2026-06-26T09:02:07.888874+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nach Welle von Überfällen – Polizei fokussiert auf Tiktok-Räuber",
+      "url": "https://www.srf.ch/news/dialog/nach-welle-von-ueberfaellen-polizei-fokussiert-auf-tiktok-raeuber",
+      "summary": "Sie werden über Social Media rekrutiert und stehlen in der Schweiz. Jetzt geht die Polizei konzentriert gegen sie vor.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jetzt trifft die Arbeitslosigkeit auch die Topverdiener in Zug",
+      "url": "https://www.20min.ch/story/reichenkanton-jetzt-trifft-die-arbeitslosigkeit-auch-die-topverdiener-in-zug-103590890",
+      "summary": "Banker, Pharma- und Trading-Angestellte im Kanton Zug sind von Reorganisationen betroffen. Die Arbeitslosenkasse zahlt bis zu knapp 10'000 Franken Taggeld pro Monat.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Roger Federer kommt zu Stan Wawrinkas grosser Abschiedsparty",
+      "url": "https://www.20min.ch/story/tennis-roger-federer-kommt-zu-stan-wawrinkas-grosser-abschiedsparty-103590913",
+      "summary": "Am 19. Dezember 2026 verabschiedet sich Stan Wawrinka im Palexpo Genf. Mit dabei sind Federer, Murray und Monfils.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Rammbockdiebe brechen mit Auto in Einkaufszentrum ein",
+      "url": "https://www.20min.ch/story/haag-sg-rammbockdiebe-brechen-mit-auto-in-einkaufszentrum-ein-103590906",
+      "summary": "In Haag SG verschafften sich Einbrecher in der Nacht auf Freitag mit einem gestohlenen Auto Zugang zum Einkaufszentrum. Wie hoch der Sachschaden ist, wird noch abgeklärt.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Darum werden Apple-Produkte jetzt um einiges teurer",
+      "url": "https://www.20min.ch/story/bis-zu-25-prozent-darum-werden-apple-produkte-jetzt-um-einiges-teurer-103590905",
+      "summary": "Der Ausbau von Rechenzentren für künstliche Intelligenz macht Speicherchips drastisch teurer. Apple hielt die Preise dennoch recht lange weitgehend stabil – doch nun gibt es Aufschläge.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Deepfake: «Nebelspalter» macht Werbung mit einem KI-Video von Beat Jans – er erwägt eine Klage",
+      "url": "https://www.tagesanzeiger.ch/deepfake-beat-jans-prueft-klage-gegen-nebelspalter-290053259566",
+      "summary": "In der 200. Sendung des Satireformats «The Daily Mill» gratulieren mehrere Prominente per KI-Video. Eine Klage dagegen hätte gute Chancen, wie ein ähnlicher Fall aus der Vergangenheit zeigt.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gastbeitrag: Jetzt spricht die Hitze",
+      "url": "https://www.tagesanzeiger.ch/hitze-in-der-schweiz-ich-bin-muede-ein-medienereignis-zu-sein-388695188879",
+      "summary": "Seit Tagen gibts nur ein Thema in der Schweiz, wobei immer wieder dasselbe gesagt wird. Nun meldet sich die Hitze zu Wort.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Helvetia-Baloise-CEO im Interview: «Junge wissen: Ein gerader Lebenslauf garantiert keine ausreichende Rente mehr»",
+      "url": "https://www.tagesanzeiger.ch/helvetia-baloise-ceo-martin-jara-ist-gegen-fruehpensionierung-749646429620",
+      "summary": "Martin Jara sagt, wieso die Prämien steigen und warum er gegen den Bundesratsvorschlag zur Frühpensionierung ist. Und er erklärt, weshalb selbst seine Tochter schon AHV-Auszüge bestellt hat.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Er schuftet bei 43 Grad am Schatten, damit andere in die Ferien fliegen können",
+      "url": "https://www.tagesanzeiger.ch/flughafen-zuerich-er-arbeitet-bei-43-grad-hitze-494062236602",
+      "summary": "Florian Woyda arbeitet als Ramp Supervisor am heissesten Ort des Flughafens. Sein Geheimtipp gegen Hitze: die Kabine einer Embraer.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Das Schweizer WM-Camp: Poker, Pingpong und viel Zeit mit der Familie: So tanken die National­spieler jetzt Energie",
+      "url": "https://www.tagesanzeiger.ch/schweizer-nati-was-im-wm-camp-erlaubt-ist-und-was-nicht-630754839539",
+      "summary": "Acht Tage liegen für die Schweizer Fussballer zwischen dem letzten Gruppen­spiel und dem Sechzehntel­final am nächsten Freitag. Was ihnen Kraft gibt, wie sie sich ablenken und was explizit verboten is",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Arbeitszeit lief ab: Crew von United Airlines leitet ihren Flug um, bevor sie startet",
+      "url": "https://www.tagesanzeiger.ch/united-airlines-flug-zuerichsan-francisco-wegen-crew-limite-umgeleitet-613704216021",
+      "summary": "Ein Flugzeug von United Airlines flog am Donnerstagabend nach New York statt San Francisco. In New York wird die Crew ausgewechselt.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sommer und Hautausschläge: Viele vermuten Krätze – dabei sind es oft Hitze und Insekten",
+      "url": "https://www.tagesanzeiger.ch/kraetze-alarm-in-freiburg-nur-2-prozent-der-faelle-bestaetigt-612515054749",
+      "summary": "Hunderte Menschen liessen in der Romandie Hautausschläge auf Krätze untersuchen. Nun zeigt sich: Hinter den meisten Fällen steckten Sommerhitze oder Insekten. Ärzte raten zu Gelassenheit.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vegane Restaurants in Zürich: Zizi Hattab kocht vegan, behandelt die Angestellten gut – und schafft es damit in den Guide Michelin",
+      "url": "https://www.tagesanzeiger.ch/zizi-hattab-zuerichs-vegane-sternekoechin-setzt-auf-liebe-213200609288",
+      "summary": "Verbrennungen, Sexismus, Panikattacken: Zizi Hattab erfuhr Topgastronomie auf die harte Tour. Und beschloss, es besser zu machen.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "EHC Winterthur Sport AG: Vor dem Neustart wird nochmals ein dickes Minus getilgt",
+      "url": "https://www.tagesanzeiger.ch/ehc-winterthur-schuldenfrei-in-die-myhockey-league-561494022608",
+      "summary": "Der EHC Winterthur hat die teure Swiss League endgültig hinter sich gebracht. Die AG kann dank des Hauptaktionärs schuldenfrei in die höchste Amateurliga starten.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Eidgenössisches Jodlerfest: Jodel-Fieber in der Hitzewelle: Schweizer Traditionen in Basel",
+      "url": "https://www.tagesanzeiger.ch/jodel-fieber-in-der-hitzewelle-schweizer-traditionen-in-basel-103687179503",
+      "summary": "Das Eidgenössische Jodlerfest hat Basel vom Freitag bis am Sonntag im Griff. Ebenso die Hitze. Alle Neuigkeiten und Einblicke in den Grossanlass gibt es hier im Ticker.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Seiler kocht ohne Tierisches: Welches Dessert isst man eigentlich als Veganerin oder Veganer? Dieses hier!",
+      "url": "https://www.tagesanzeiger.ch/vegane-desserts-biscotti-al-vino-rosso-aus-norditalien-395445983476",
+      "summary": "Eine Leserin fragte unseren Kolumnisten nach Desserts ohne Rahm und Butter – und schickt ihm gleich selber ein Rezept.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Historische Gemäuer in Hilterfingen: So sieht es im Schloss Hünegg aus",
+      "url": "https://www.bernerzeitung.ch/so-sieht-es-im-schloss-huenegg-aus-583194398683",
+      "summary": "Das Schloss Hünegg wurde 1861 erbaut.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "One Last Backhand: Federer, Murray und Monfils feiern Wawrinkas Karriere in Genf",
+      "url": "https://www.bernerzeitung.ch/wawrinka-abschiedsevent-in-genf-mit-federer-954723219078",
+      "summary": "Stan Wawrinka lädt zu einem letzten Showmatch ein. Das Abschiedsfest am 19. Dezember soll 23 Jahre Profitennis krönen.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Kaum noch Schutz für Geflüchtete: Oberster Gerichtshof stützt Trumps Asylpolitik – 350’000 Haitianern droht die Abschiebung",
+      "url": "https://www.derbund.ch/oberster-gerichtshof-stuetzt-trumps-asylpolitik-655110547078",
+      "summary": "Die höchsten Richter erlauben Donald Trump, den humanitären Schutz für Haitianer und Syrer aufzuheben. Und sie ermöglichen ihm, das Asylrecht an der US-Grenze zu umgehen.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Grüner Zolli: Hilft es meiner Pflanze, wenn ich mit ihr spreche? Das sagt der Experte",
+      "url": "https://www.bazonline.ch/zoo-basel-sprechen-mit-pflanzen-bringt-nichts-796853855449",
+      "summary": "Meist spielen die Bäume im Zoo Basel die zweite Geige. An der diesjährigen Zolli-Nacht stehen sie im Fokus.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Brand in Hölstein: Feuerwehr verhindert, dass Feuer auf Wald übergreift",
+      "url": "https://www.bazonline.ch/hoelstein-brand-auf-gerstenfeld-in-der-nacht-680618569389",
+      "summary": "Ein abgeerntetes Feld in Hölstein geriet in Brand. Die Ursache ist noch nicht restlos geklärt.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Häufigstes Familienmodell in Schweiz",
+      "url": "https://www.zentralplus.ch/news/haeufigstes-familienmodell-in-schweiz-2880819/",
+      "summary": "Der Vater arbeitet Vollzeit, die Mutter Teilzeit: Dieses Modell ist bei Schweizer Familien am verbreitetsten. Das zeigen Zahlen des Bundes. Wenn Kinder im Haushalt lebten, reduziere oft die Frau ihr P",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stadtrat zerschmettert Seilbahntraum – Initiant schlägt zurück",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/daempfer-fuer-seilbahn-traum-stadtrat-ist-gegen-citylink-2880192/",
+      "summary": "Eine Seilbahn zwischen Ibach und der Luzerner Altstadt: Davon träumt eine IG. Eine Initiative soll den Boden dafür ebnen – doch beim Stadtrat fällt das Projekt durch. Initiant Roger Sonderegger ist tr",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "EU erschwert Schutz für Ukrainer",
+      "url": "https://www.zentralplus.ch/news/eu-erschwert-schutz-fuer-ukrainer-2880820/",
+      "summary": "Ukrainische Männer im wehrpflichtigen Alter sollen in der EU künftig nicht mehr automatisch Schutz erhalten. Das schlägt die EU-Kommission vor. Betroffen sind Männer im Alter zwischen 23 und 60 Jahren",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "SwissICT und Swico aktualisieren ICT-Modellverträge",
+      "url": "https://www.netzwoche.ch/news/2026-06-26/swissict-und-swico-aktualisieren-ict-modellvertraege",
+      "summary": "Die Verbände SwissICT und Swico haben ihre Modellverträge für die ICT-Branche überarbeitet. Dabei haben sie verschiedene Klauseln an moderne Gegebenheiten angepasst - insbesondere im Zusammenhang mit ",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Drohen in der Schweiz Entlassungswellen wegen KI?",
+      "url": "https://www.inside-it.ch/drohen-in-der-schweiz-entlassungswellen-wegen-ki-20260626",
+      "summary": "Börsenkotierte Schweizer Unternehmen kündigen einen Stellenabbau an und setzen auf KI. Experten warnen aber, dass sich KI-Investitionen noch kaum messbar auszahlen.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Volkswagen will offenbar bis zu 100'000 Stellen abbauen",
+      "url": "https://www.nzz.ch/wirtschaft/volkswagen-will-offenbar-bis-zu-100-000-stellen-abbauen-ld.10013092",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Tom Vogel wird neuer Chefredaktor",
+      "url": "https://www.persoenlich.com/medien/tom-vogel-wird-neuer-chefredaktor",
+      "summary": "Der Oberstleutnant im Generalstab übernimmt die Redaktionsleitung per 1. Juli. In der unabhängigen Militärfachzeitschrift hat er bereits unkonventionelle Meinungen geäussert.",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Merlischachen Verformte Bahnschienen Legen Sbb Strecke Still",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/merlischachen-verformte-bahnschienen-legen-sbb-strecke-still-ld.4193271",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Hitze im Wildpark Roggenhausen So Werden Tiere Abgekühlt",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/hitze-im-wildpark-roggenhausen-so-werden-tiere-abgekuehlt-ld.4192697",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Buchs 62 Jähriger Muss nach Brand eines E Scooter Akkus Ins Spital",
+      "url": "https://www.tagblatt.ch/ostschweiz/werdenberg/buchs-62-jaehriger-muss-nach-brand-eines-e-scooter-akkus-ins-spital-ld.4193245",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Glosse Schweisströpfli eine Thurgauer Sommerpösie zum Dahinschmelzen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/glosse-schweisstroepfli-eine-thurgauer-sommerpoesie-zum-dahinschmelzen-ld.4192624",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Bodensee Barbara Husars Kunstinstallation mit Goldenem Schiff und Pinkem Euter",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/bodensee-barbara-husars-kunstinstallation-mit-goldenem-schiff-und-pinkem-euter-ld.4193241",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Entlaufenes Rind Sorgt in Önsingen für Polizeieinsatz",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/entlaufenes-rind-sorgt-in-oensingen-fuer-polizeieinsatz-ld.4193249",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Urdorf Genehmigt 820000 Franken für Dreijährigen Ortsbus Versuch",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/urdorf-genehmigt-820000-franken-fuer-dreijaehrigen-ortsbus-versuch-ld.4193066",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Titlisbahnen Planen Neue Betonhalle Beim Ice Flyer",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/titlisbahnen-planen-neue-betonhalle-beim-ice-flyer-ld.4193112",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Bergkranztraum am Schwarzsee Bleibt Unerfüllt",
+      "url": "https://www.obwaldnerzeitung.ch/leserbeitrag/oz/bergkranztraum-am-schwarzsee-bleibt-unerfuellt-ld.4192983",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wegen Russland: NDB warnt vor sich verschlechternder Sicherheitslage",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/874973759-wegen-russland-ndb-warnt-vor-sich-verschlechternder-sicherheitslage",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Wawrinkas Abschiedsvorstellung in Genf",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-wawrinkas-abschiedsvorstellung-in-genf",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Halle beim Ice Flyer geplant",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/titlisbahnen-planen-neue-betonhalle-beim-ice-flyer-art-1710065",
+      "summary": "",
+      "published": "2026-06-26T09:31:57.405153+00:00"
     }
   ]
 }
