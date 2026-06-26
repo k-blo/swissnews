@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T02:01:50.624683+00:00",
+  "generated": "2026-06-26T02:31:25.848118+00:00",
   "date": "2026-06-26",
-  "count": 46,
+  "count": 52,
   "articles": [
     {
       "source": "NZZ",
@@ -324,6 +324,48 @@
       "url": "https://www.watson.ch/sport/liveticker/213253328-paraguay-australien-tuerkei-usa-wm-2026-live-in-ticker-und-stream",
       "summary": "",
       "published": "2026-06-26T02:01:50.624683+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wo kann man sich mit Kindern am besten abkühlen? Die Schaffhauser Badi-Moms wissen es",
+      "url": "https://www.shn.ch/region/kanton/2026-06-26/wo-kann-man-sich-mit-kindern-am-besten-abkuehlen-die-schaffhauser-badi",
+      "summary": "Eine Gruppe von neun Müttern aus Schaffhausen, die sich lose kennen, hat ein gemeinsames Sommerprojekt. Sie testen Badis im ganzen Kanton und schauen, wie geeignet sie für Säuglinge und Kleinkinder si",
+      "published": "2026-06-26T02:31:25.848118+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Religion im Schulzimmer: Der Spielraum für Lehrer wird kleiner",
+      "url": "https://www.shn.ch/region/kanton/2026-06-26/religion-im-schulzimmer-der-spielraum-fuer-lehrer-wird-kleiner",
+      "summary": "Auf welche religiösen Gefühle muss im Schulunterricht Rücksicht genommen werden und wie? Der Schaffhauser Erziehungsrat hat seine «Empfehlungen» hierzu erneuert: eine Gratwanderung zwischen Schulpflic",
+      "published": "2026-06-26T02:31:25.848118+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Nos Gabentempel in Güttingen 230 Preise im Wert von 270000 Franken",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/nos-gabentempel-in-guettingen-230-preise-im-wert-von-270000-franken-ld.4192437",
+      "summary": "",
+      "published": "2026-06-26T02:31:25.848118+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Ki Brille Wenn Blinde mit den Ohren Sehen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/ki-brille-wenn-blinde-mit-den-ohren-sehen-ld.4188771",
+      "summary": "",
+      "published": "2026-06-26T02:31:25.848118+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Oberdorf Führt Neue Einwohner App ein",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/oberdorf-fuehrt-neue-einwohner-app-ein-ld.4192163",
+      "summary": "",
+      "published": "2026-06-26T02:31:25.848118+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Kommunikationsplattform für Oberdorf",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/oberdorf-fuehrt-neue-einwohner-app-ein-art-1710022",
+      "summary": "",
+      "published": "2026-06-26T02:31:25.848118+00:00"
     }
   ]
 }
