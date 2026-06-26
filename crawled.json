@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T23:01:39.918340+00:00",
+  "generated": "2026-06-26T23:31:55.457885+00:00",
   "date": "2026-06-27",
-  "count": 23,
+  "count": 28,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,41 @@
       "url": "https://www.tagblatt.ch/aboplus/wettbewerbe/wir-verlosen-5-x-2-tickets-fuer-das-open-air-kino-arbon-vom-3-juli-15-august-ld.4186226",
       "summary": "",
       "published": "2026-06-26T23:01:39.918340+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Israel und Libanon erzielen diplomatischen Durchbruch – doch die Hizbullah-Miliz signalisiert bereits Ablehnung",
+      "url": "https://www.nzz.ch/international/israel-und-libanon-erzielen-diplomatischen-durchbruch-doch-die-hizbullah-miliz-signalisiert-bereits-ablehnung-ld.10013213",
+      "summary": "",
+      "published": "2026-06-26T23:31:55.457885+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Iran-Krieg: Iran greift US-Stützpunkte am Persischen Golf an +++ USA greifen Iran an +++ Explosionen im iranischen Sirik gemeldet",
+      "url": "https://www.nzz.ch/international/iran-krieg-iran-greift-us-stuetzpunkte-am-persischen-golf-an-usa-greifen-iran-an-ld.10009801",
+      "summary": "",
+      "published": "2026-06-26T23:31:55.457885+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Schwere Erdbeben erschüttern Venezuela: Regierung militarisiert Katastrophenregion La Guaira +++ Zahl der Toten steigt auf 920",
+      "url": "https://www.nzz.ch/panorama/schwere-erdbeben-erschuettern-venezuela-regierung-militarisiert-katastrophenregion-la-guaira-zahl-der-toten-steigt-auf-920-ld.10012850",
+      "summary": "",
+      "published": "2026-06-26T23:31:55.457885+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Senegal siegt 5:0 gegen Irak und wahrt Chance auf Zwischenrunde +++ Dembélé schiesst Frankreich in Richtung DFB-Duell – 4:1 gegen Norwegen",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-senegal-siegt-50-gegen-irak-und-wahrt-chance-auf-zwischenrunde-dembele-schiesst-frankreich-in-richtung-dfb-duell-41-gegen-norwegen-ld.10010036",
+      "summary": "",
+      "published": "2026-06-26T23:31:55.457885+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SRF Arena: Parteispitzen diskutieren über AKW, AHV, Bilaterale und Trump",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/388857325-srf-arena-parteispitzen-diskutieren-ueber-akw-ahv-bilaterale-und-trump",
+      "summary": "",
+      "published": "2026-06-26T23:31:55.457885+00:00"
     }
   ]
 }
