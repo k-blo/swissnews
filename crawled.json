@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T20:31:58.395058+00:00",
+  "generated": "2026-06-26T21:01:58.465440+00:00",
   "date": "2026-06-26",
-  "count": 994,
+  "count": 997,
   "articles": [
     {
       "source": "NZZ",
@@ -6960,6 +6960,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-stadtfest-eroeffnet-mit-auftritt-von-mimiks-art-1710180",
       "summary": "",
       "published": "2026-06-26T20:31:58.395058+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Live vom Open Air St. Gallen – Brand am Rand des Festivalgeländes wurde rasch gelöscht",
+      "url": "https://www.srf.ch/radio-srf-3/festivalsommer/live-vom-open-air-st-gallen-brand-am-rand-des-festivalgelaendes-wurde-rasch-geloescht",
+      "summary": "Was passiert auf den Bühnen und dem Festivalgelände am Open Air St. Gallen? Der Ticker hält euch auf dem Laufenden.",
+      "published": "2026-06-26T21:01:58.465440+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Militär meldet Angriffe gegen Iran",
+      "url": "https://www.watson.ch/international/iran/679835968-us-militaer-meldet-angriffe-gegen-iran",
+      "summary": "",
+      "published": "2026-06-26T21:01:58.465440+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Selenskyj: Ukraine hat Putin Friedensvorschlag geschickt",
+      "url": "https://www.watson.ch/international/russland/927648553-selenskyj-ukraine-hat-putin-friedensvorschlag-geschickt",
+      "summary": "",
+      "published": "2026-06-26T21:01:58.465440+00:00"
     }
   ]
 }
