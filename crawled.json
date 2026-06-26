@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T22:31:40.900408+00:00",
+  "generated": "2026-06-26T23:01:39.918340+00:00",
   "date": "2026-06-27",
-  "count": 21,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -149,6 +149,20 @@
       "url": "https://www.bote.ch/service/leserbriefe/akw-neubauverbot-aufgehoben-art-1710132",
       "summary": "",
       "published": "2026-06-26T22:31:40.900408+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Die Wikinger entdecken Amerika erneut +++ Spieleraufstand gegen Uruguays Trainer Bielsa",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-die-wikinger-entdecken-amerika-erneut-spieleraufstand-gegen-uruguays-trainer-bielsa-ld.10010036",
+      "summary": "",
+      "published": "2026-06-26T23:01:39.918340+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Wir Verlosen 5 X 2 Tickets für das Open Air Kino Arbon vom 3 Juli 15 August",
+      "url": "https://www.tagblatt.ch/aboplus/wettbewerbe/wir-verlosen-5-x-2-tickets-fuer-das-open-air-kino-arbon-vom-3-juli-15-august-ld.4186226",
+      "summary": "",
+      "published": "2026-06-26T23:01:39.918340+00:00"
     }
   ]
 }
