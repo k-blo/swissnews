@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T12:30:19.588252+00:00",
+  "generated": "2026-06-26T13:01:32.002786+00:00",
   "date": "2026-06-26",
-  "count": 622,
+  "count": 652,
   "articles": [
     {
       "source": "NZZ",
@@ -4356,6 +4356,216 @@
       "url": "https://www.watson.ch/sport/fussball/862663358-wm-2026-elanga-dachte-dass-schweden-ausgeschieden-ist",
       "summary": "",
       "published": "2026-06-26T12:30:19.588252+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Waldbrandgefahr – In diesen Schweizer Regionen gilt ein Feuerverbot",
+      "url": "https://www.srf.ch/news/schweiz/waldbrandgefahr-in-diesen-schweizer-regionen-gilt-ein-feuerverbot",
+      "summary": "Mehrere Kantone rechnen aufgrund der langen Hitzewelle mit hoher Waldbrandgefahr. Nun gelten verschiedene Feuerverbote.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Verbot von Böllern – Feuerwerksinitiative kommt ohne Gegenvorschlag vors Volk",
+      "url": "https://www.srf.ch/news/schweiz/verbot-von-boellern-feuerwerksinitiative-kommt-ohne-gegenvorschlag-vors-volk",
+      "summary": "Der Nationalrat lehnt einen Gegenvorschlag zur Feuerwerksinitiative ab. Damit kommt sie allein vors Volk.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall in Schwyz: 20-Jährige stürzt am Kleinen Mythen in den Tod",
+      "url": "https://www.tagesanzeiger.ch/kleiner-mythen-20-jaehrige-stuerzt-toedlich-ab-418915234320",
+      "summary": "Eine Berggängerin verunglückte am Donnerstagabend im Kanton Schwyz. Beim Aufstieg stürzte die junge Frau in die Tiefe.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Dritte Halbzeit» zur langen Turnierpause: «Irgendwann wirst du die Spannung wieder aufbauen müssen. Das ist schon tricky»",
+      "url": "https://www.tagesanzeiger.ch/wm-2026-die-schweizer-nati-erfaehrt-am-sonntag-ihren-gegner-462199705125",
+      "summary": "Segen oder Fluch? Die Schweiz hat nach dem Gruppensieg acht Tage Pause. Die Experten der «Dritten Halbzeit» analysieren, wie das Team mit dieser untypischen Situation umgeht.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schutz von Minderjährigen: Australien will Social-Media-Verbote für Kinder verschärfen",
+      "url": "https://www.tagesanzeiger.ch/social-media-verbot-australien-plant-verschaerfung-fuer-unter-16-jaehrige-131025599656",
+      "summary": "Viele Jugendliche umgehen die Sperren mit gefälschten Konten oder anderen Tricks. Die australische Regierung prüft nun strengere Regeln.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mitgliederzahl schwindet: Jositsch tritt als Chef der SP-Reform­plattform zurück – Verein diskutiert Auflösung",
+      "url": "https://www.tagesanzeiger.ch/sp-reformplattform-droht-nach-jositsch-abgang-die-aufloesung-124108553284",
+      "summary": "Nach dem Parteiaustritt von Daniel Jositsch ringt der sozialliberale Flügel der SP um seine Zukunft. An der Mitgliederversammlung in Bern geht es um existenzielle Fragen.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verkehr im Zürcher Unterland: Hardwaldstrecke bei Bülach wird übers Wochenende gesperrt",
+      "url": "https://www.tagesanzeiger.ch/hardwaldstrecke-buelach-sperrung-am-ersten-juliwochenende-458376638220",
+      "summary": "Der Kanton nimmt Anfang Juli den neuen Kreisel Chrüzstrass in Betrieb. Autofahrer müssen sich auf Umleitungen über Höri und Neerach einstellen.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Autobahn bei Lyss: Nach Reh-Sichtung auf der A6: Verkehr wieder freigegeben",
+      "url": "https://www.derbund.ch/reh-auf-a6-bei-lyss-wildhueter-im-einsatz-285634831694",
+      "summary": "Auf der A6 Nord wurde kurz vor der Ausfahrt Lyss Süd mehrfach ein Reh gesichtet. Wildhüter waren vor Ort, der Verkehr wurde zeitweise angehalten.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Eidgenössisches Jodlerfest: Jodelfest in der Hitzewelle: Die besten Eindrücke aus Basel",
+      "url": "https://www.derbund.ch/jodel-fieber-in-der-hitzewelle-schweizer-traditionen-in-basel-103687179503",
+      "summary": "Das Eidgenössische Jodlerfest hat Basel vom Freitag bis am Sonntag im Griff. Ebenso die Hitze. Alle Neuigkeiten und Einblicke in den Grossanlass gibt es hier im Ticker.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gefangenenaustausch UKR und RUS",
+      "url": "https://www.zentralplus.ch/news/gefangenenaustausch-ukr-und-rus-2880929/",
+      "summary": "Russland und die Ukraine haben unter Vermittlung der Vereinigten Arabischen Emirate Kriegsgefangene ausgetauscht. 160 ukrainische Soldaten seien nach Hause geholt worden, teilte der ukrainische Präsid",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "In Zug kassieren immer mehr Arbeitslose den Höchstbetrag",
+      "url": "https://www.zentralplus.ch/news/in-zug-kassieren-immer-mehr-arbeitslose-den-hoechstlohn-2880906/",
+      "summary": "Zug steht für hohe Löhne und internationale Konzerne. Nun suchen ausgerechnet mehr Kaderleute eine neue Stelle und die Arbeitslosenkasse zahlt hohes Arbeitslosengeld. Im Kanton Zug melden sich vermehr",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Venezuela: Gesundheitssystem kollabiert",
+      "url": "https://www.zentralplus.ch/news/venezuela-gesundheitssystem-kollabiert-2880923/",
+      "summary": "Neben den vielen Toten hat es beim Erdbeben in Venezuela tausende Verletzte gegeben. Das könne das Gesundheitssystem des Landes nur schwer bewältigen, sagt Lateinamerika-Experte Günther Maihold von de",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schweizer Hilfsdelegation eingetroffen",
+      "url": "https://www.zentralplus.ch/news/schweizer-hilfsdelegation-eingetroffen-2880919/",
+      "summary": "Eine Schweizer Hilfsdelegation ist in Venezuela eingetroffen, um nach dem schweren Erdbeben nach Überlebenden zu suchen. Teil des Hilfsteams sind auch acht Suchhunde von Redog, einer Organisation, die",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Windows 10 bekommt neue Gnadenfrist",
+      "url": "https://www.inside-it.ch/windows-10-bekommt-neue-gnadenfrist-20260626",
+      "summary": "Offenbar aufgrund der hohen Zahl der Userinnen und User hat Microsoft die Zusage für Sicherheitsupdates für Windows 10 erneut verlängert. In der Schweiz sinkt der Marktanteil.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KURZMELDUNGEN - Wirtschaft: Stefan Hartung tritt als Bosch-Chef ab +++ Ex-CEO geht laut Medienbericht nach Kündigung gegen Nestlé vor",
+      "url": "https://www.nzz.ch/wirtschaft/wirtschaft-stefan-hartung-tritt-als-bosch-chef-ab-ex-ceo-geht-laut-medienbericht-nach-kuendigung-gegen-nestle-vor-ld.10010807",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Die Agentur von morgen",
+      "url": "https://www.persoenlich.com/blog/die-agentur-von-morgen",
+      "summary": "Wie sieht die Agentur der Zukunft aus? Eine Woche Cannes Lions 2026 liefert Antworten.",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "43 Studierende schliessen die PH Schaffhausen erfolgreich ab",
+      "url": "https://www.shn.ch/region/kanton/2026-06-26/43-studierende-schliessen-die-ph-schaffhausen-erfolgreich-ab",
+      "summary": "Am Donnerstag feierte die PH Schaffhausen ihre frischgebackenen Lehrpersonen für ihre erfolgreiche «Mission: (Im)possible».",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Die Wahrheit über das Zweite Kind",
+      "url": "https://www.suedostschweiz.ch/graubuenden/die-wahrheit-ueber-das-zweite-kind-1908674",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fc Luzern Gegen Stade Lausanne Ouchy Debüt von Trainer Portmann im Livestream",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fc-luzern-gegen-stade-lausanne-ouchy-debuet-von-trainer-portmann-im-livestream-ld.4186568",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Mitte Sucht Nachfolge für Reto Wyss",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzerner-mitte-sucht-nachfolge-fuer-reto-wyss-ld.4193084",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Gameorama für Schweizer Museumspreis 2026 Nominiert",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/gameorama-fuer-schweizer-museumspreis-2026-nominiert-ld.4193297",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Hagglingen Verscharft den Brandschutz bei Veranstaltungen",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinden/hagglingen-verscharft-den-brandschutz-bei-veranstaltungen-ld.4193497",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Erzo Ara Erste Aufträge für die Neue Klärschlammtrocknung",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/erzo-ara-erste-auftraege-fuer-die-neue-klaerschlammtrocknung-ld.4193101",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Perfekt für die Sommerhitze: 10 Frozen Cocktails – mit Rezepten!",
+      "url": "https://www.watson.ch/leben/sommer/206647562-perfekt-fuer-die-sommerhitze-10-frozen-cocktails-mit-rezepten",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Peter Spuhler kauft Land für neuen Stadler-Standort in Österreich",
+      "url": "https://www.watson.ch/schweiz/oev/245922157-peter-spuhler-kauft-land-fuer-neuen-stadler-standort-in-oesterreich",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Mourinho hat einen speziellen WM-Wunsch",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-mourinho-hat-einen-speziellen-wm-wunsch",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Einzigartige NASA Mission soll Satelliten Swift retten",
+      "url": "https://www.watson.ch/wissen/international/705087228-einzigartige-nasa-mission-soll-satelliten-swift-retten",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der FC Luzern mit neuem Trainer gegen den unterlegenen Cupfinalisten&nbsp;– der Livestream gegen Stade Lausanne-Ouchy",
+      "url": "https://www.bote.ch/nachrichten/sport/fc-luzern-gegen-stade-lausanne-ouchy-debuet-von-trainer-portmann-im-livestream-art-1710084",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach Verzicht von Reto Wyss: Erste Luzerner Mitte-Politiker bringen sich in Stellung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-mitte-sucht-nachfolge-fuer-reto-wyss-art-1710057",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gameorama für Schweizer Museumspreis nominiert",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/gameorama-fuer-schweizer-museumspreis-2026-nominiert-art-1710080",
+      "summary": "",
+      "published": "2026-06-26T13:01:32.002786+00:00"
     }
   ]
 }
