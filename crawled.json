@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T10:31:53.981065+00:00",
+  "generated": "2026-06-26T10:43:58.841963+00:00",
   "date": "2026-06-26",
-  "count": 514,
+  "count": 516,
   "articles": [
     {
       "source": "NZZ",
@@ -3600,6 +3600,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/altdorf-setzt-auf-blumen-an-den-brunnen-art-1710067",
       "summary": "",
       "published": "2026-06-26T10:31:53.981065+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Live vom Open Air St. Gallen – Worüber das OASG nach dem ersten Festivaltag spricht",
+      "url": "https://www.srf.ch/radio-srf-3/festivalsommer/live-vom-open-air-st-gallen-worueber-das-oasg-nach-dem-ersten-festivaltag-spricht",
+      "summary": "Was passiert auf den Bühnen und dem Festivalgelände am Open Air St. Gallen? Der Ticker hält euch auf dem Laufenden.",
+      "published": "2026-06-26T10:43:58.841963+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland verhängt Ausnahmezustand auf der Krim",
+      "url": "https://www.watson.ch/international/russland/606551758-russland-verhaengt-ausnahmezustand-auf-der-krim",
+      "summary": "",
+      "published": "2026-06-26T10:43:58.841963+00:00"
     }
   ]
 }
