@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T19:32:14.953367+00:00",
+  "generated": "2026-06-27T20:01:29.318358+00:00",
   "date": "2026-06-27",
-  "count": 538,
+  "count": 543,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3768,6 +3768,41 @@
       "url": "https://www.tagblatt.ch/sport/fcstgallen/bei-bruetender-hitze-der-fcsg-setzt-sich-gegen-altach-durch-ld.4193643",
       "summary": "",
       "published": "2026-06-27T19:32:14.953367+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Live vom Open Air St. Gallen – Kochen, schwitzen, tanzen: Das passiert aktuell am OASG",
+      "url": "https://www.srf.ch/radio-srf-3/festivalsommer/live-vom-open-air-st-gallen-kochen-schwitzen-tanzen-das-passiert-aktuell-am-oasg",
+      "summary": "Was passiert auf den Bühnen und dem Festivalgelände am Open Air St. Gallen? Der Ticker hält euch auf dem Laufenden.",
+      "published": "2026-06-27T20:01:29.318358+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Badeunfall in Aare: Rega-Helikopter sucht nach vermisster Person bei Brugg AG",
+      "url": "https://www.blick.ch/schweiz/badeunfall-in-aare-rega-helikopter-sucht-nach-vermisster-person-bei-brugg-ag-id22065077.html",
+      "summary": "Am Samstagabend kreist ein Rega-Helikopter bei Brugg AG über der Aare. Die Polizei bestätigt einen Sucheinsatz nach einem Badeunfall.",
+      "published": "2026-06-27T20:01:29.318358+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Kaltschnäuzige und sackfreche Anmassungen» – wie die Postaufsicht Wutbürgern einen Riegel schieben will",
+      "url": "https://www.nzz.ch/schweiz/wutbuerger-und-querulanten-beschaeftigen-post-und-gerichte-ld.10013158",
+      "summary": "",
+      "published": "2026-06-27T20:01:29.318358+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Missbrauch in Hilfswerk: Die Deza finanzierte Ärzte ohne Grenzen in Tschad mit Millionen – trotz schweren Vorwürfen",
+      "url": "https://www.nzz.ch/schweiz/hilfswerke-und-sexueller-missbrauch-macht-ohne-grenzen-ld.10013083",
+      "summary": "",
+      "published": "2026-06-27T20:01:29.318358+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Investor aus der Schweiz will den Batteriehersteller Varta retten. Doch seine Geschäftspraktiken werfen Fragen auf",
+      "url": "https://www.nzz.ch/wirtschaft/ein-investor-aus-der-schweiz-will-den-batteriehersteller-varta-retten-doch-seine-geschaeftspraktiken-werfen-fragen-auf-ld.10012670",
+      "summary": "",
+      "published": "2026-06-27T20:01:29.318358+00:00"
     }
   ]
 }
