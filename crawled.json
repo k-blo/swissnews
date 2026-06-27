@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T00:31:44.060469+00:00",
+  "generated": "2026-06-27T01:01:31.600104+00:00",
   "date": "2026-06-27",
-  "count": 38,
+  "count": 40,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -268,6 +268,20 @@
       "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-panama-spieler-streiten-den-trainer-freut-s",
       "summary": "",
       "published": "2026-06-27T00:31:44.060469+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Protest gegen Rahmenabkommen",
+      "url": "https://www.zentralplus.ch/news/protest-gegen-rahmenabkommen-2881038/",
+      "summary": "Die Einigung auf das Rahmenabkommen zwischen Israel und dem Libanon stösst auf Zuspruch beim israelischen Regierungschef. Benjamin Netanjahu lobt das Abkommen. Ablehnung kommt hingegen von der Hisboll",
+      "published": "2026-06-27T01:01:31.600104+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chat-Futter: Hecht überrascht am Openair St.Gallen mit dem FCSG",
+      "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-hecht-ueberrascht-am-openair-st-gallen-mit-dem-fcsg",
+      "summary": "",
+      "published": "2026-06-27T01:01:31.600104+00:00"
     }
   ]
 }
