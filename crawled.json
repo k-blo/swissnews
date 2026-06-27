@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T04:31:31.304165+00:00",
+  "generated": "2026-06-27T05:01:46.279759+00:00",
   "date": "2026-06-27",
-  "count": 183,
+  "count": 193,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1283,6 +1283,76 @@
       "url": "https://www.watson.ch/digital/spass/206886922-usa-die-besten-trump-karikaturen-und-memes-der-woche",
       "summary": "",
       "published": "2026-06-27T04:31:31.304165+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sommerhitze und Gesundheit: Jetzt wirds schwül – warum die Hitze nun besonders unangenehm ist",
+      "url": "https://www.tagesanzeiger.ch/hitze-so-passt-sich-der-koerper-an-hohe-temperaturen-an-327253292257",
+      "summary": "Der menschliche Körper hat verschiedene Tricks, um sich an die Hitze anzupassen. Doch das funktioniert nicht bei allen gleich gut. Die wichtigsten Fragen und Antworten.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Initiative für Konzernverantwortung: Jans wollte strengere Regeln für die Rohstoffhändler – Parmelin und Rösti verhinderten es",
+      "url": "https://www.tagesanzeiger.ch/kovi-gegenvorschlag-parmelin-stoppte-strengere-rohstoffregeln-715106773422",
+      "summary": "Interne Dokumente zeigen: Das Bundesamt für Justiz wollte der Branche Sorgfaltspflichten auferlegen. Doch es wurde ausgebremst – aus Angst vor Steuerausfällen.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Hitzewelle in der Schweiz: Berner Spitäler verzeichnen leichten Anstieg von Hitzepatienten",
+      "url": "https://www.bernerzeitung.ch/hitzewelle-bern-mehr-patienten-in-spitaelern-aber-kein-ansturm-149296345250",
+      "summary": "Wegen der anhaltenden Hitze suchen mehr Personen das Spital auf. Wie dramatisch ist das? Berner Spitäler geben Auskunft und nennen Tipps für die Bevölkerung.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Zwischen Effekt und Aberglaube: Wie ein kleiner «Entstrahlunsstein» einen ganzen Bauernhof verändert haben soll",
+      "url": "https://www.bernerzeitung.ch/erdstrahlen-in-eggiwil-was-der-stein-im-keller-bewirkte-748485364670",
+      "summary": "Letzten Herbst klebte ein «Entstrahlungsspezialist» einen Stein unter den Bauernhof der Familie Wüthrich. Nicht nur die Kühe seien danach ruhiger geworden – sondern auch die Kinder. Wie kann das sein?",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Thun vor 50 Jahren: Als viele Stellen verloren gingen – und die Arbeitslosigkeit einen Höchststand erreichte",
+      "url": "https://www.bernerzeitung.ch/thun-1976-arbeitslose-reichten-petition-mit-974-unterschriften-ein-695822222534",
+      "summary": "Das Thuner Arbeitslosenkomitee sammelte gegen 1000 Unterschriften für bessere Bedingungen für Arbeitslose.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Neue Bike-Anlage geplant: Sogar ein Olympiasieger wirbt für den Pumptrack in Spiez",
+      "url": "https://www.bernerzeitung.ch/pumptrack-spiez-bau-in-faulensee-fuer-fruehling-2027-geplant-761220550923",
+      "summary": "In Faulensee soll ein einzigartiger Pumptrack entstehen – auch für Snowboard-Legende Gian Simmen. Was sonst noch für die Bikeszene geplant ist.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kampf gegen verschleppte Konkurse: Über 60 Prozent Anstieg bei Konkursen im Kanton Bern – doch die Zölle sind nicht der Grund",
+      "url": "https://www.bernerzeitung.ch/konkurse-in-bern-warum-die-zahlen-2025-explodierten-776159668108",
+      "summary": "Eine Gesetzesänderung lässt Firmenpleiten in Bern stark ansteigen. Was gegen betrügerische Machenschaften helfen soll, kann auch ehrliche Unternehmer in die Bredouille bringen.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gewässer für Geniesser: Die Aare ist nett, aber haben Sie schon einmal in einem See gebadet?",
+      "url": "https://www.bernerzeitung.ch/aare-vs-see-warum-bern-das-falsche-gewaesser-feiert-787589332867",
+      "summary": "Überfüllt, überschätzt und überaus unpraktisch: Flüsse sind die denkbar schlechteste aller Badeoptionen. Eine Lobrede auf das Standgewässer.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Nach Bundesgerichtsurteil: Bern, Basel, Luzern – welche Stadt stoppt die Business Apartments als Nächstes?",
+      "url": "https://www.bernerzeitung.ch/airbnb-urteil-schweizer-staedte-wollen-wohnraum-schuetzen-357178592240",
+      "summary": "Nach der Einschränkung von Temporärwohnungen in Zürich will man auch in anderen Städten gegen die ungeliebten Apartments vorgehen. Der Hauseigentümerverband wehrt sich.",
+      "published": "2026-06-27T05:01:46.279759+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Ein Traum» wird wahr: Kap Verde feiert Sensation – und fordert jetzt den Weltmeister",
+      "url": "https://www.bote.ch/nachrichten/sport/kap-verde-schreibt-wm-geschichte-und-trifft-auf-argentinien-art-1710236",
+      "summary": "",
+      "published": "2026-06-27T05:01:46.279759+00:00"
     }
   ]
 }
