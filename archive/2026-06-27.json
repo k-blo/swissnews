@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T01:31:23.646961+00:00",
+  "generated": "2026-06-27T02:01:51.887935+00:00",
   "date": "2026-06-27",
-  "count": 40,
+  "count": 45,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -282,6 +282,41 @@
       "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-hecht-ueberrascht-am-openair-st-gallen-mit-dem-fcsg",
       "summary": "",
       "published": "2026-06-27T01:01:31.600104+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Katastrophenregion wird militarisiert",
+      "url": "https://www.zentralplus.ch/news/katastrophenregion-wird-militarisiert-2881040/",
+      "summary": "Nach den schweren Erdbeben in Venezuela hat das Militär teilweise die Kontrolle übernommen. In der besonders schwer getroffenen Region La Guaira im Norden des Lands solle die Armee die öffentliche Ord",
+      "published": "2026-06-27T02:01:51.887935+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Wäldi Schulklasse Bekämpft Neophyten in der Gemeinde",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/waeldi-schulklasse-bekaempft-neophyten-in-der-gemeinde-ld.4193217",
+      "summary": "",
+      "published": "2026-06-27T02:01:51.887935+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Mbappé lässt Schiri für ihn laufen",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-mbappe-laesst-schiri-fuer-ihn-laufen",
+      "summary": "",
+      "published": "2026-06-27T02:01:51.887935+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neuseeland – Belgien & Ägypten – Iran: WM 2026 live in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/454747838-neuseeland-belgien-aegypten-iran-wm-2026-live-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-06-27T02:01:51.887935+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Russland blutet aus einer offenen Arterie» – und genau darin liegt die Gefahr",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/hendrik-remmel-im-interview-friedenshoffnungen-im-ukraine-krieg-schwinden-art-1710208",
+      "summary": "",
+      "published": "2026-06-27T02:01:51.887935+00:00"
     }
   ]
 }
