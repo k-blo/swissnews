@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T20:01:29.318358+00:00",
+  "generated": "2026-06-27T20:31:52.712976+00:00",
   "date": "2026-06-27",
-  "count": 543,
+  "count": 544,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3803,6 +3803,13 @@
       "url": "https://www.nzz.ch/wirtschaft/ein-investor-aus-der-schweiz-will-den-batteriehersteller-varta-retten-doch-seine-geschaeftspraktiken-werfen-fragen-auf-ld.10012670",
       "summary": "",
       "published": "2026-06-27T20:01:29.318358+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Kult-Philosoph Slavoj Zizek: «Peter Thiel ist der Antichrist»",
+      "url": "https://www.nzz.ch/feuilleton/kult-philosoph-slavoj-zizek-im-interview-peter-thiel-ist-der-anti-christ-ld.10011047",
+      "summary": "",
+      "published": "2026-06-27T20:31:52.712976+00:00"
     }
   ]
 }
