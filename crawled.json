@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-26T23:31:55.457885+00:00",
+  "generated": "2026-06-27T00:01:45.985556+00:00",
   "date": "2026-06-27",
-  "count": 28,
+  "count": 31,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -198,6 +198,27 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/388857325-srf-arena-parteispitzen-diskutieren-ueber-akw-ahv-bilaterale-und-trump",
       "summary": "",
       "published": "2026-06-26T23:31:55.457885+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Brand nahe des Openair St. Gallen",
+      "url": "https://www.zentralplus.ch/news/brand-nahe-des-openair-st-gallen-2881036/",
+      "summary": "In der Nähe des Festivalgeländes des Openair St. Gallen hat ein kleines Waldstück von rund 10 mal 10 Metern gebrannt. Die Ursache ist nicht bekannt. Einige Zelte in der Nähe wurden vorsorglich evakuie",
+      "published": "2026-06-27T00:01:45.985556+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frankreich brilliert dank Mbappé und Dembélé – doch es gibt ein Problem",
+      "url": "https://www.watson.ch/sport/frankreich/911784447-frankreich-brilliert-dank-mbappe-und-dembele-doch-es-gibt-ein-problem",
+      "summary": "",
+      "published": "2026-06-27T00:01:45.985556+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Uruguay – Spanien & Kap Verde – Saudi-Arabien live in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/616117370-uruguay-spanien-kap-verde-saudi-arabien-live-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-06-27T00:01:45.985556+00:00"
     }
   ]
 }
