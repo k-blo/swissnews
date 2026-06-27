@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T07:01:34.964965+00:00",
+  "generated": "2026-06-27T07:25:54.027390+00:00",
   "date": "2026-06-27",
-  "count": 230,
+  "count": 236,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1612,6 +1612,48 @@
       "url": "https://www.freiburger-nachrichten.ch/story/272738/letzte-aggloratssitzung-ohne-grosses-vallera-aber-mit-einigem-bedauern",
       "summary": "",
       "published": "2026-06-27T07:01:34.964965+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Im Dienst der SNB – Ehemaliger SNB-Chef Hans Meyer mit 90 Jahren gestorben",
+      "url": "https://www.srf.ch/news/schweiz/im-dienst-der-snb-ehemaliger-snb-chef-hans-meyer-mit-90-jahren-gestorben",
+      "summary": "Hans Meyer arbeitete insgesamt rund 30 Jahre für die Schweizerische Nationalbank.",
+      "published": "2026-06-27T07:25:54.027390+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schlachten, Wursten, Würzen – Der Metzgerberuf – im Wandel oder vom Aussterben bedroht?",
+      "url": "https://www.srf.ch/news/schweiz/schlachten-wursten-wuerzen-der-metzgerberuf-im-wandel-oder-vom-aussterben-bedroht",
+      "summary": "Alteingesessene Metzgereien schliessen, Nachfolgelösungen gibt es selten. Junge Metzger müssen kreativ sein.",
+      "published": "2026-06-27T07:25:54.027390+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Regierung lässt Zugang zu neuer KI von OpenAI beschränken",
+      "url": "https://www.watson.ch/digital/international/934045880-us-regierung-laesst-zugang-zu-neuer-ki-von-openai-beschraenken",
+      "summary": "",
+      "published": "2026-06-27T07:25:54.027390+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ehemaliger SNB-Präsident Hans Meyer mit 90 Jahren gestorben",
+      "url": "https://www.watson.ch/schweiz/people/171926871-ehemaliger-snb-praesident-hans-meyer-mit-90-jahren-gestorben",
+      "summary": "",
+      "published": "2026-06-27T07:25:54.027390+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Ägypten vs. Iran – der Pride-Match, der keiner war",
+      "url": "https://www.watson.ch/sport/fussball/355863548-wm-2026-aegypten-vs-iran-der-pride-match-der-keiner-war",
+      "summary": "",
+      "published": "2026-06-27T07:25:54.027390+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Ladenbesitzer in Ecuador jubel mit Hund über Tor",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-ladenbesitzer-in-ecuador-jubel-mit-hund-ueber-tor",
+      "summary": "",
+      "published": "2026-06-27T07:25:54.027390+00:00"
     }
   ]
 }
