@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T23:02:12.423494+00:00",
+  "generated": "2026-06-27T23:31:48.484189+00:00",
   "date": "2026-06-28",
-  "count": 3,
+  "count": 6,
   "articles": [
     {
       "source": "Watson",
@@ -23,6 +23,27 @@
       "url": "https://www.blick.ch/schweiz/tote-huehner-dreck-kannibalismus-polizei-ermittelt-schockbilder-aus-berner-eierbetrieb-id22062810.html",
       "summary": "Verdeckte Aufnahmen aus einem Legehennenbetrieb zeigen qualvoll verendete Hühner. Tierschützer sind geschockt, die Polizei ermittelt wegen möglicher Quälerei.",
       "published": "2026-06-27T23:02:12.423494+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Heisser Draht bei der Spitex: Schon 13'000 Anrufe gegen den Hitzetod",
+      "url": "https://www.blick.ch/politik/heisser-draht-bei-der-spitex-schon-13000-anrufe-gegen-den-hitzetod-id22064742.html",
+      "summary": "In Genf ruft die Spitex täglich Tausende Risikopatienten an. Das Modell gilt als schweizweit einzigartig. Und zeigt, wie gross die Lücken in anderen Kantonen sind.",
+      "published": "2026-06-27T23:31:48.484189+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "US-Militär greift Iran erneut an",
+      "url": "https://www.zentralplus.ch/news/us-militaer-greift-iran-erneut-an-2881110/",
+      "summary": "Das US-Militär hat den Iran den zweiten Tag in Folge angegriffen. Allem Anschein nach betraf es wieder die Region Sirik nahe der Strasse von Hormus. Iranische Staatsmedien berichten von Explosionen. D",
+      "published": "2026-06-27T23:31:48.484189+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: England bleibt Erster – Ghana und Kroatien auch weiter",
+      "url": "https://www.watson.ch/sport/fussball/950735390-wm-2026-england-bleibt-erster-ghana-und-kroatien-auch-weiter",
+      "summary": "",
+      "published": "2026-06-27T23:31:48.484189+00:00"
     }
   ]
 }
