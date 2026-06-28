@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T08:01:49.543732+00:00",
+  "generated": "2026-06-28T08:31:29.176864+00:00",
   "date": "2026-06-28",
-  "count": 186,
+  "count": 207,
   "articles": [
     {
       "source": "Watson",
@@ -1304,6 +1304,153 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/ph-zug-116-lehrpersonen-schliessen-ausbildung-ab-art-1710262",
       "summary": "",
       "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Runder Tisch zu Crans-Montana: «Wir können die Wunden der Betroffenen nicht heilen»",
+      "url": "https://www.blick.ch/politik/runder-tisch-zu-crans-montana-wir-koennen-die-wunden-der-betroffenen-nicht-heilen-id22065305.html",
+      "summary": "Laurent Kurth präsidiert den runden Tisch zur Brandkatastrophe. Im Interview spricht er über Schmerz, Geld und Gerechtigkeit. Und warum der Bund 20 Millionen zahlen soll, obwohl das Wallis gepfuscht h",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Iran-Gespräche auf dem Bürgenstock: Katar übernimmt die Rechnung",
+      "url": "https://www.blick.ch/politik/iran-gespraeche-auf-dem-buergenstock-katar-uebernimmt-die-rechnung-id22065031.html",
+      "summary": "Die Eidgenossenschaft und Pakistan werden finanziell verschont – die Verhandlungen in der Schweiz sollen weitergehen.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Gastkommentar zum elektronischen Patientendossier: Die Schweiz braucht einen digitalen Gesundheitsdatenraum",
+      "url": "https://www.blick.ch/meinung/gastkommentar-zum-elektronischen-patientendossier-die-schweiz-braucht-einen-digitalen-gesundheitsdatenraum-id22065064.html",
+      "summary": "Das elektronische Gesundheitsdossier bleibt eine Illusion, solange Bund und Kantone keine verbindlichen Standards und keine klaren Regeln dafür schaffen, findet Krankenkassen-Experte Felix Schneuwly.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Heftiger Crash bei Laax GR: Mehrere Kollisionen zwischen Car und Personenwagen",
+      "url": "https://www.blick.ch/schweiz/graubuenden/horror-crash-bei-laax-gr-mehrere-kollisionen-zwischen-car-und-personenwagen-id22065830.html",
+      "summary": "Im Verlauf des Samstagnachmittags ist es auf der Hauptstrasse H19 bei Laax zu einer Kollision zwischen einem Reisebus und zwei Personenwagen gekommen. Es wurden mehrere Personen verletzt.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Es entstand Sachschaden: Waldbrand wütete bei Sirnach TG",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/thurgau/es-entstand-sachschaden-waldbrand-wuetete-bei-sirnach-tg-id22065804.html",
+      "summary": "Bei einem Waldbrand in Sirnach entstand in der Nacht auf Sonntag Sachschaden. Die Kantonspolizei Thurgau sucht Zeugen.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Bist du deppert!»: ORF-Kommentator flippt wegen Ösi-Wahnsinn aus",
+      "url": "https://www.20min.ch/story/oesterreich-in-euphorie-bist-du-deppert-orf-kommentator-flippt-wegen-oesi-wahnsinn-aus-103592098",
+      "summary": "Österreich rettet sich in der Nachspielzeit in die K.-o.-Phase der WM 2026. Trainer Ralf Rangnick spricht von einem Spiel, wie er «es noch nie erlebt hat». Auch die Spieler und der ORF-Kommentator sin",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweiz zahlt USA für F-35-Jets halbe Milliarde im Voraus",
+      "url": "https://www.20min.ch/story/ruestungschef-urs-loher-schweiz-zahlt-usa-fuer-f-35-jets-halbe-milliarde-im-voraus-103592083",
+      "summary": "Zuerst stoppte der Bund die Zahlungen, jetzt zahlt die Schweiz fast 500 Millionen Franken früher, als die USA verlangen. «Das Risiko war zu gross», sagt Rüstungschef Urs Loher dazu – etwa für das F-35",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Heftige Kollisionen mit Reisecar fordert 4 Verletzte",
+      "url": "https://www.20min.ch/story/laax-gr-heftige-kollisionen-mit-reisecar-fordert-4-verletzte-103592112",
+      "summary": "Am Samstagnachmittag kam es im Bünderland zu einem Verkehrsunfall mit vier Verletzten. Die Oberalpstrasse war während rund viereinhalb Stunden gesperrt.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mercedes auf dem Dach statt Tram: Fahrerin wird leicht verletzt",
+      "url": "https://www.20min.ch/story/basel-mercedes-auf-dem-dach-statt-tram-fahrerin-wird-leicht-verletzt-103592102",
+      "summary": "Am Sonntagmorgen ist es im Kleinbasel zu einem Selbstunfall gekommen. Die Lenkerin wurde zur Abklärung ins Spital gebracht.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Grosstadtfeeling, aber gern im Grünen? Dann ab nach Vancouver",
+      "url": "https://www.20min.ch/story/vancouver-reisetipps-der-staedtetrip-fuer-natur-und-stadtliebhaber-103573440",
+      "summary": "Städtetrip oder Naturabenteuer? In Vancouver musst du dich nicht entscheiden. Wir waren in «Hollywood North» unterwegs und haben die besten Reisetipps gesammelt.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall im Kanton Aargau: Töfffahrer kracht auf A1 in stehendes Auto und verletzt sich mittelschwer",
+      "url": "https://www.tagesanzeiger.ch/brunegg-auffahrunfall-auf-a1-fuehrt-zu-stau-mann-mittelschwer-verletzt-276281740377",
+      "summary": "Ein 28-jähriger Motorradfahrer prallte am Samstag bei Kolonnenverkehr fast ungebremst in ein Auto. Die Fahrbahn musste anderthalb Stunden teilweise gesperrt werden.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Restaurants im Test: Die Zauberer der Villa Sommerlust in Schaffhausen lassen uns staunen",
+      "url": "https://www.tagesanzeiger.ch/restaurants-im-test-die-zauberer-der-villa-sommerlust-in-schaffhausen-lassen-uns-staunen-304088972083",
+      "summary": "In der Villa Sommerlust ist Essen Kunsthandwerk und der Keller voll flüssigem Glück. Auf den Tisch kommt beides mit Geschichten, die über den Tellerrand hinausführen.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fast 500 Millionen Franken: Bund bezahlt F-35 schneller, als die USA verlangen",
+      "url": "https://www.tagesanzeiger.ch/f-35-schweiz-zahlt-usa-500-mio-franken-vor-faelligkeit-767268873855",
+      "summary": "Eigentlich wollte der Bund im Streit um verspätete Rüstungsgüter gegenüber den USA Härte zeigen. Nun vollzieht Bern eine Kehrtwende.",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ölraffinerie in Krasnodar brennt",
+      "url": "https://www.zentralplus.ch/news/oelraffinerie-in-krasnodar-brennt-2881143/",
+      "summary": "Nachdem eine ukrainische Drohne eine Erdölraffinerie in der südrussischen Region Krasnodar getroffen hat, ist diese in Brand geraten. Bei dem Angriff sei ein Mensch getötet worden, schreibt der Gouver",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Schwerer Töffunfall auf der A1 nach Zubringer Mägenwil",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/schwerer-toeffunfall-auf-der-a1-nach-zubringer-maegenwil-ld.4193855",
+      "summary": "",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Die Schönsten Bilder vom Zuger Seefest 2026",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/die-schoensten-bilder-vom-zuger-seefest-2026-ld.4193854",
+      "summary": "",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Österreich an der WM in Extremis weiter – Reaktionen zum 3:3 vs Algerien",
+      "url": "https://www.watson.ch/sport/fussball/973386403-oesterreich-an-der-wm-in-extremis-weiter-reaktionen-zum-3-3-vs-algerien",
+      "summary": "",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Badi-Ranking: Die beliebtesten Schwimmbäder der Schweiz",
+      "url": "https://www.watson.ch/schweiz/leben/842050315-badi-ranking-die-beliebtesten-schwimmbaeder-der-schweiz",
+      "summary": "",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mehrwertsteuer: Darum wächst sie seit 30 Jahren",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/966619662-mehrwertsteuer-darum-waechst-sie-seit-30-jahren",
+      "summary": "",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Welch ein Festtag in der Sunneblueme!",
+      "url": "https://www.freiburger-nachrichten.ch/story/272895/welch-ein-festtag-in-der-sunneblueme",
+      "summary": "",
+      "published": "2026-06-28T08:31:29.176864+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zwischen Biscuit-Fabrik und Moorlandschaft",
+      "url": "https://www.freiburger-nachrichten.ch/story/272894/zwischen-biscuitfabrik-und-moorlandschaft",
+      "summary": "",
+      "published": "2026-06-28T08:31:29.176864+00:00"
     }
   ]
 }
