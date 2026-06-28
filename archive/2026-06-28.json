@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T21:00:09.016326+00:00",
+  "generated": "2026-06-28T21:32:11.927054+00:00",
   "date": "2026-06-28",
-  "count": 594,
+  "count": 595,
   "articles": [
     {
       "source": "Watson",
@@ -4160,6 +4160,13 @@
       "url": "https://www.watson.ch/wissen/schweiz/570465546-pietro-morettini-der-tessiner-der-europas-festungen-praegte",
       "summary": "",
       "published": "2026-06-28T21:00:09.016326+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Alle News zur WM: Nach spätem Siegtor: Die Kanadier stehen im Achtelfinal",
+      "url": "https://www.bazonline.ch/fussball-wm-2026-oesterreich-gleicht-spaet-gegen-algerien-aus-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli findet in den USA, Mexiko und Kanada die Fussball-WM statt. Alle wichtigen Informationen dazu finden Sie hier.",
+      "published": "2026-06-28T21:32:11.927054+00:00"
     }
   ]
 }
