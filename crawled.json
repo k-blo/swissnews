@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T19:31:25.174822+00:00",
+  "generated": "2026-06-28T19:50:44.367600+00:00",
   "date": "2026-06-28",
-  "count": 580,
+  "count": 584,
   "articles": [
     {
       "source": "Watson",
@@ -4062,6 +4062,34 @@
       "url": "https://www.watson.ch/sport/novak-djokovic/699056679-novak-djokovic-koennte-in-wimbledon-roger-federers-rekord-knacken",
       "summary": "",
       "published": "2026-06-28T19:31:25.174822+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Meeting in Rom: Ponti und Mityukov schwimmen zum Sieg",
+      "url": "https://www.tagesanzeiger.ch/ponti-und-mityukov-schwimmen-zum-sieg-830180833895",
+      "summary": "Noè Ponti und Roman Mityukov überzeugen beim Trofeo Sette Colli. Über 50 m Schmetterling und 200 m Rücken holen sich die beiden Gold.",
+      "published": "2026-06-28T19:50:44.367600+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "550 Jahre Murtenschlacht: Er entmystifiziert die Schweizer Heldengeschichte von 1476",
+      "url": "https://www.derbund.ch/murten-1476-freilichttheater-zur-murtenschlacht-711721057484",
+      "summary": "Der Freiburger Autor Thomas Vaucher hat ein Freilichtstück über die Schlacht von Murten geschrieben. Im Interview sagt der Lehrer und Heavy-Metal-Keyboarder, warum er sie keinesfalls glorifizieren wil",
+      "published": "2026-06-28T19:50:44.367600+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Wetter Ticker Zentralschweiz Hitzerekorde Vielerorts auf Hochkurs",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/wetter-ticker-zentralschweiz-hitzerekorde-vielerorts-auf-hochkurs-ld.4178624",
+      "summary": "",
+      "published": "2026-06-28T19:50:44.367600+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Turnfest Islikon Dtv Zihlschlacht Gewinnt in der 2 Stärkeklasse",
+      "url": "https://www.tagblatt.ch/sport/thurgau/turnfest-islikon-dtv-zihlschlacht-gewinnt-in-der-2-staerkeklasse-ld.4193966",
+      "summary": "",
+      "published": "2026-06-28T19:50:44.367600+00:00"
     }
   ]
 }
