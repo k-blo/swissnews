@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T07:31:47.245939+00:00",
+  "generated": "2026-06-28T08:01:49.543732+00:00",
   "date": "2026-06-28",
-  "count": 171,
+  "count": 186,
   "articles": [
     {
       "source": "Watson",
@@ -1199,6 +1199,111 @@
       "url": "https://www.freiburger-nachrichten.ch/story/272786/matthieu-b%C3%BChrer-als-favorit-an-der-juniorenwm",
       "summary": "",
       "published": "2026-06-28T07:31:47.245939+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Philipp Matthias Bregy – Bregy ist seit einem Jahr Mitte-Präsident – die Bilanz",
+      "url": "https://www.srf.ch/news/schweiz/philipp-matthias-bregy-bregy-ist-seit-einem-jahr-mitte-praesident-die-bilanz",
+      "summary": "Seit genau einem Jahr ist Philipp Matthias Bregy Präsident der Mitte-Partei. Seine wichtigsten Erfolge und Misserfolge.",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Strasse komplett verschüttet»: Polizei rückt wegen Erdrutsch in Mels SG aus",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/strasse-komplett-verschuettet-polizei-rueckt-wegen-erdrutsch-in-mels-sg-aus-id22065774.html",
+      "summary": "Am Samstagabend ist die Weisstannenstrasse in Mels SG durch einen Erdrutsch verschüttet worden. Die Strasse war bis Sonntagmorgen gesperrt. Mittlerweile ist sie wieder eingeschränkt befahrbar.",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Warum die Palme im Tessin plötzlich zum Problem wird",
+      "url": "https://www.20min.ch/story/invasive-art-warum-die-palme-im-tessin-ploetzlich-zum-problem-wird-103591567",
+      "summary": "Sie stehen für Ferien und mediterranes Flair. Doch die sogenannte Tessinerpalme gilt heute als invasive Art. Für viele Gartenbesitzer wird das zunehmend teuer.",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verdichtetes Bauen: Schweiz stoppt die Zersiedelung – und streitet gleich wieder übers Bauland",
+      "url": "https://www.tagesanzeiger.ch/schweiz-stoppt-zersiedelung-historische-trendwende-seit-2019-134361762123",
+      "summary": "Neue Zahlen belegen eine historische Trend­wende im Kampf gegen die «Hüsli-Pest». Doch ausgerechnet jetzt startet die FDP einen neuen Angriff auf die grünen Wiesen.",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die Woche durch unsere Linse: Heisse Schweiz, kultige Kellnerin und ein König am Albanifest – die besten Bilder aus Zürich und Winterthur",
+      "url": "https://www.tagesanzeiger.ch/hitzewelle-schweiz-wo-es-am-heissesten-wird-547404328770",
+      "summary": "Die erste Hitzewelle des Sommers trifft die Schweiz mit voller Wucht, Bauarbeiter pausieren stündlich und Altersheime setzen auf Humor und Tricks – so sah die Woche durch die Kameras von unseren Fotog",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Zoo Basel: Fussbad bei den Tierärzten, Geweih auf dem Kopf: So war die Zolli-Nacht",
+      "url": "https://www.bazonline.ch/zoo-basel-das-war-die-zolli-nacht-494423228243",
+      "summary": "Am Samstag wurde der Zolli zur nächtlichen Erlebniswelt zwischen Infoständen und Tiergehegen. Die BaZ war mit einer Foto-Box Teil des Events.",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Luzerner Seetal soll mehr auf Bahn und Velo setzen",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/luzerner-seetal-soll-mehr-auf-bahn-und-velo-setzen-2881106/",
+      "summary": "Im Seetal stehen grosse Verkehrsprojekte zur Diskussion. Die GLP Hochdorf verlangt nun, dass der Kanton Luzern Bahn, Bus und Veloverbindungen stärker gewichtet. Die GLP Wahlkreis Hochdorf fordert ein ",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Bauernzeitung",
+      "title": "Die Schweiz ist der Wichtigste Exportmarkt für den Tiroler Traktorenhersteller Lindner",
+      "url": "https://www.bauernzeitung.ch/artikel/landtechnik/die-schweiz-ist-der-wichtigste-exportmarkt-fuer-den-tiroler-traktorenhersteller-lindner-0-555853",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Bauernzeitung",
+      "title": "Tierschutz in der Landwirtschaft Wo Beginnt das Versagen",
+      "url": "https://www.bauernzeitung.ch/artikel/agrarpolitik/tierschutz-in-der-landwirtschaft-wo-beginnt-das-versagen-0-556009",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurn Autofahrer Prallt Nachts in Betonblumentrog",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/solothurn-autofahrer-prallt-nachts-in-betonblumentrog-ld.4193851",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Ph Zug 116 Lehrpersonen Schliessen Ausbildung Ab",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/ph-zug-116-lehrpersonen-schliessen-ausbildung-ab-ld.4182009",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "29,4 Grad – Rekord für wärmste Nacht in Deutschland",
+      "url": "https://www.watson.ch/international/deutschland/729252516-29-4-grad-rekord-fuer-waermste-nacht-in-deutschland",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Englands Thomas Tuchel erhält Kritik trotz Gruppensieg",
+      "url": "https://www.watson.ch/sport/fussball/573313128-wm-2026-englands-thomas-tuchel-erhaelt-kritik-trotz-gruppensieg",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann stürzt in Altstätten SG aus der Wohnung in die Tiefe",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/759488202-mann-stuerzt-in-altstaetten-sg-aus-der-wohnung-in-die-tiefe",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir nehmen nicht nur ein Diplom mit nach Hause, sondern auch ganz viele Erinnerungen»: Die PH Zug verabschiedet 116 neue Lehrpersonen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ph-zug-116-lehrpersonen-schliessen-ausbildung-ab-art-1710262",
+      "summary": "",
+      "published": "2026-06-28T08:01:49.543732+00:00"
     }
   ]
 }
