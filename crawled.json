@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T22:31:35.845354+00:00",
+  "generated": "2026-06-28T23:01:39.470926+00:00",
   "date": "2026-06-29",
-  "count": 15,
+  "count": 20,
   "articles": [
     {
       "source": "Blick",
@@ -107,6 +107,41 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/abendsonne-laesst-wolke-aufgluehen-art-1710280",
       "summary": "",
       "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bei zwei Einsätzen innert Stunden: Kapo Bern mehrfach angegriffen",
+      "url": "https://www.20min.ch/story/unruhiges-wochenende-zwei-einsaetze-innert-stunden-kapo-bern-mehrfach-angegriffen-103592557",
+      "summary": "Die Kantonspolizei Bern war innert weniger Stunden gleich bei zwei Einsätzen mit Widerstand konfrontiert. Eine Polizistin wurde im Marzilibad leicht verletzt, in der Nacht zuvor kam Pfefferspray zum E",
+      "published": "2026-06-28T23:01:39.470926+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump will Golfplatz in Washington umbauen lassen",
+      "url": "https://www.watson.ch/international/usa/864803825-trump-will-golfplatz-in-washington-umbauen-lassen",
+      "summary": "",
+      "published": "2026-06-28T23:01:39.470926+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Johan Manzambi zieht Interesse aus Premier League an",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-johan-manzambi-zieht-interesse-aus-premier-league-an",
+      "summary": "",
+      "published": "2026-06-28T23:01:39.470926+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Einsatzkräfte in Bern angegriffen – Pfefferspray eingesetzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/490033835-einsatzkraefte-in-bern-angegriffen-pfefferspray-eingesetzt",
+      "summary": "",
+      "published": "2026-06-28T23:01:39.470926+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Granit Xhaka – Sunderland empfindet Chelsea-Angebot als respektlos",
+      "url": "https://www.watson.ch/sport/premier-league/446539816-granit-xhaka-sunderland-empfindet-chelsea-angebot-als-respektlos",
+      "summary": "",
+      "published": "2026-06-28T23:01:39.470926+00:00"
     }
   ]
 }
