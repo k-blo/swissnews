@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T03:01:34.069694+00:00",
+  "generated": "2026-06-28T03:31:52.167866+00:00",
   "date": "2026-06-28",
-  "count": 60,
+  "count": 83,
   "articles": [
     {
       "source": "Watson",
@@ -422,6 +422,167 @@
       "url": "https://www.bote.ch/nachrichten/kultur/bildung-und-ehe-warum-frauen-haeufiger-nach-unten-heiraten-art-1710257",
       "summary": "",
       "published": "2026-06-28T03:01:34.069694+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zuger Stadtrat will Zug nicht «besitzbarer» machen",
+      "url": "https://www.zentralplus.ch/gesundheit-fitness/zuger-stadtrat-will-zug-nicht-besitzbarer-machen-2881103/",
+      "summary": "Die Stadt Zug sollte mehr Sitzbänke und Orte zum Verweilen erhalten. Der Stadtrat erteilt der Idee eine Absage – aus bestimmten Gründen. Wer aufgrund des Alters oder aus anderen Gründen nicht mehr so ",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Ich hätte gerne gewusst, ob die Bevölkerung hinter mir steht»",
+      "url": "https://www.zentralplus.ch/politik/ich-haette-gerne-gewusst-ob-die-bevoelkerung-hinter-mir-steht-2880553/",
+      "summary": "Rund die Hälfte aller Schweizer Gemeinden hat Mühe, die Sitze im Gemeinderat zu besetzen. Ein Alarmzeichen für Luzern? Das haben wir die Malterser Gemeindepräsidentin und Präsidentin des Luzerner Geme",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Warum Sie noch vor den Sommerferien Ihr Risiko an der Börse zurückfahren sollten",
+      "url": "https://www.nzz.ch/wirtschaft/wieso-es-angezeigt-ist-vor-den-sommerferien-sein-risiko-an-der-boerse-zurueckzufahren-ld.10013228",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Schweiz - USA: Abkommen oder doch kein Abkommen?",
+      "url": "https://www.nzz.ch/schweiz/schweiz-usa-abkommen-oder-doch-kein-abkommen-ld.10013196",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Menschen, die übrig bleiben, wenn eine Stadt aufgewertet wird",
+      "url": "https://www.nzz.ch/feuilleton/menschen-die-uebrig-bleiben-ld.10013127",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Vorsicht, bissiges Schwein! Elfriede Jelinek lässt die Tiere auf den Kapitalismus los",
+      "url": "https://www.nzz.ch/feuilleton/vorsicht-bissiges-schwein-ld.10013124",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Taylor Swift: Heirat nach Lebensplan",
+      "url": "https://www.nzz.ch/feuilleton/taylor-swift-heirat-nach-lebensplan-ld.10013087",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Als ein Heer von Freiwilligen nach Spanien zog",
+      "url": "https://www.nzz.ch/feuilleton/geschichte-spaniens-der-krieg-der-freiwilligen-ld.10013076",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Francis Fukuyama besteht auf seiner These vom Ende der Geschichte",
+      "url": "https://www.nzz.ch/feuilleton/fukuyama-was-tun-mit-der-langeweile-ld.10013075",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der berühmteste Seiltänzer der Welt erzählt sein Leben",
+      "url": "https://www.nzz.ch/feuilleton/der-beruehmteste-hochseillaeufer-der-welt-erzaehlt-sein-leben-ld.10013073",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Astrophysiker zeigt, wie wundersam farbig das Weltall ist",
+      "url": "https://www.nzz.ch/feuilleton/astrophysik-wundersames-farbiges-weltall-ld.10013071",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kann man ein autoritäres System friedlich verändern? Christiane Hoffman über Europas Versäumnisse nach 1989",
+      "url": "https://www.nzz.ch/feuilleton/was-wir-nach-dem-ende-der-sowjetunion-versaeumt-haben-ld.10013061",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Xu Zechen erzählt vom Leben am längsten Kanal der Welt",
+      "url": "https://www.nzz.ch/feuilleton/xu-zechen-erzaehlt-vom-leben-am-laengsten-kanal-der-welt-ld.10013060",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Debatte um die Meinungsfreiheit: Niemand hat das Recht, nicht kritisiert zu werden",
+      "url": "https://www.nzz.ch/feuilleton/niemand-hat-das-recht-nicht-kritisiert-zu-werden-ld.10013059",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Rückt der Tod näher, wächst der Hunger nach Leben, schreibt Gabriele von Arnim",
+      "url": "https://www.nzz.ch/feuilleton/dieser-hunger-nach-leben-ld.10013058",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Corine Pelluchon plädiert für eine Politik der Wertschätzung",
+      "url": "https://www.nzz.ch/feuilleton/corine-pelluchon-plaediert-fuer-eine-politische-achtsamkeit-ld.10013057",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wie sich Elon Musk als Heilsbringer inszeniert",
+      "url": "https://www.nzz.ch/feuilleton/wie-sich-elon-musk-als-heilsbringer-inszeniert-ld.10013056",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Links-rechts-Schema hat ausgedient, sagt Philip Manow",
+      "url": "https://www.nzz.ch/feuilleton/das-links-rechts-schema-hat-ausgedient-ld.10013055",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nahost: USA attackiert erneut Ziele – der Iran reagiert",
+      "url": "https://www.watson.ch/international/iran/748003176-nahost-usa-attackiert-erneut-ziele-der-iran-reagiert",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Quiz: Welches Stängeli-Glace bist du?",
+      "url": "https://www.watson.ch/spass/food/308494205-quiz-welches-staengeli-glace-bist-du",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wegen der Hitze stirbt Bauer Wyssa das Gemüse ab",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/357460677-wegen-der-hitze-stirbt-bauer-wyssa-das-gemuese-ab",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Schottlands Trainer Clarke zurückgetreten",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-schottlands-trainer-clarke-zurueckgetreten",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stromausfall im Zürcher Kreis 10 in der Nacht auf Sonntag",
+      "url": "https://www.watson.ch/schweiz/energie/932313868-stromausfall-im-zuercher-kreis-10-in-der-nacht-auf-sonntag",
+      "summary": "",
+      "published": "2026-06-28T03:31:52.167866+00:00"
     }
   ]
 }
