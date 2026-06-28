@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T23:01:39.470926+00:00",
+  "generated": "2026-06-28T23:31:49.237537+00:00",
   "date": "2026-06-29",
-  "count": 20,
+  "count": 26,
   "articles": [
     {
       "source": "Blick",
@@ -142,6 +142,48 @@
       "url": "https://www.watson.ch/sport/premier-league/446539816-granit-xhaka-sunderland-empfindet-chelsea-angebot-als-respektlos",
       "summary": "",
       "published": "2026-06-28T23:01:39.470926+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unruhiges Wochenende: Bei zwei Einsätzen innert Stunden: Kapo Bern mehrfach angegriffen",
+      "url": "https://www.tagesanzeiger.ch/marzilibad-bern-polizistin-angegriffen-pfefferspray-einsatz-767774727637",
+      "summary": "Die Kantonspolizei Bern war innert weniger Stunden gleich bei zwei Einsätzen mit Widerstand konfrontiert. Eine Polizistin wurde im Marzilibad leicht verletzt, in der Nacht zuvor kam Pfefferspray zum E",
+      "published": "2026-06-28T23:31:49.237537+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Israel zerstört Hisbollah-Tunnel",
+      "url": "https://www.zentralplus.ch/news/israel-zerstoert-hisbollah-tunnel-2881231/",
+      "summary": "Die israelische Armee hat nach eigenen Angaben im Süden des Libanons einen unterirdischen Tunnel der vom Iran unterstützten Hisbollah-Miliz zerstört. Israel sprach von einer «terroristischen Infrastru",
+      "published": "2026-06-28T23:31:49.237537+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Ismaël Koné tanzt nach Sieg mit gebrochenem Bein",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-ismael-kone-tanzt-nach-sieg-mit-gebrochenem-bein",
+      "summary": "",
+      "published": "2026-06-28T23:31:49.237537+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erdbeben in Venezuela: Die Zeit drängt, Papst zeigt Anteilnahme",
+      "url": "https://www.watson.ch/international/natur/432188387-erdbeben-in-venezuela-die-zeit-draengt-papst-zeigt-anteilnahme",
+      "summary": "",
+      "published": "2026-06-28T23:31:49.237537+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Pakistan greift erneut Ziele in Afghanistan an",
+      "url": "https://www.watson.ch/international/afghanistan/413549129-pakistan-greift-erneut-ziele-in-afghanistan-an",
+      "summary": "",
+      "published": "2026-06-28T23:31:49.237537+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Einflussreiche Gruppen im Iran fordern Ende der Gespräche mit den USA",
+      "url": "https://www.watson.ch/international/iran/397665383-einflussreiche-gruppen-im-iran-fordern-ende-der-gespraeche-mit-den-usa",
+      "summary": "",
+      "published": "2026-06-28T23:31:49.237537+00:00"
     }
   ]
 }
