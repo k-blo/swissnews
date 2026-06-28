@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T10:32:13.199514+00:00",
+  "generated": "2026-06-28T11:01:55.356907+00:00",
   "date": "2026-06-28",
-  "count": 284,
+  "count": 298,
   "articles": [
     {
       "source": "Watson",
@@ -1990,6 +1990,104 @@
       "url": "https://www.bote.ch/nachrichten/sport/fussball-wm-2026-so-verhindert-die-schweizer-nati-den-lagerkoller-art-1710269",
       "summary": "",
       "published": "2026-06-28T10:32:13.199514+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Alone Together» – Zu zweit auf einer Insel – woran es bei vier Paaren hakt",
+      "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/alone-together-zu-zweit-auf-einer-insel-woran-es-bei-vier-paaren-hakt",
+      "summary": "Das Experiment fordert vier Singlepaare heraus – doch die meisten scheitern nicht am Gegenüber, sondern an sich selbst.",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "16-jähriger Beifahrer verletzt: Neulenker (18) verliert Kontrolle über 400-PS-Boliden",
+      "url": "https://www.blick.ch/schweiz/zuerich/16-jaehriger-beifahrer-verletzt-neulenker-18-verliert-kontrolle-ueber-400-ps-boliden-id22066052.html",
+      "summary": "Am Samstagabend hat ein Neulenker in Weiningen die Kontrolle über sein leistungsstarkes Auto verloren und verunfallte damit. Einer seiner Mitfahrer wurde leicht verletzt.",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Auf Hitze folgt Gewitter: News-Scouts filmen Blitze-Spektakel",
+      "url": "https://www.20min.ch/story/innerschweiz-auf-hitze-folgt-gewitter-news-scouts-filmen-blitze-spektakel-103592131",
+      "summary": "Am Samstag wurden vielerorts Rekorde gebrochen: Das Thermometer zeigte bis zu 39 Grad. In der Innerschweiz und im Kanton Graubünden entlud sich die Hitze des Tages mit blitzreichen Gewittern.",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Diplomatie in Nidwalden: Katar bezahlt Iran-Gespräche auf dem Bürgenstock",
+      "url": "https://www.tagesanzeiger.ch/katar-bezahlt-iran-gespraeche-auf-dem-buergenstock-925369218689",
+      "summary": "Der Golfstaat Katar hat die Kosten für das geheime Treffen zwischen hochrangigen Vertretern aus den USA und dem Iran im Luxusresort Bürgenstock übernommen.",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wandel in der Arbeitswelt: Content Creator können neu eidgenössischen Fachausweis erwerben",
+      "url": "https://www.tagesanzeiger.ch/content-creator-schweiz-fuehrt-eidgenoessischen-fachausweis-ein-192589295127",
+      "summary": "Bisher galt Content Creator als schwammiger Begriff für alle, die im Internet Videos produzieren. Nun wird die Tätigkeit offiziell professionalisiert.",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die besten Schweizer Gemeinden: Warum die Goldküste erst ab Rang 60 vertreten ist",
+      "url": "https://www.tagesanzeiger.ch/gemeinde-ranking-der-bilanz-2026-zuercher-goldkuesten-orte-weit-hinten-571645761828",
+      "summary": "Das Gemeinderanking der «Bilanz» ermittelt die attraktivsten Schweizer Gemeinden. Die Goldküste liegt hinten – sogar hinter dem linken Seeufer.",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Alle News zur WM: US-Reporterin krebst nach Bosnien-Aussage zurück",
+      "url": "https://www.bernerzeitung.ch/fussball-wm-2026-oesterreich-gleicht-spaet-gegen-algerien-aus-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli findet in den USA, Mexiko und Kanada die Fussball-WM statt. Alle wichtigen Informationen dazu finden Sie hier.",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ingeborg-Bachmann-Preis geht an Schätte",
+      "url": "https://www.zentralplus.ch/news/ingeborg-bachmann-preis-geht-an-schaette-2881175/",
+      "summary": "Die deutsche Schriftstellerin Lena Schätte hat den renommierten Ingeborg-Bachmann-Preis im österreichischen Klagenfurt gewonnen. Die 32-jährige Autorin gewann den Preis für ihren Text «Was wir tragen»",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der FC Schaffhausen bietet dem klaren Favoriten die Stirn – und verliert nur knapp mit 2:3 beim FC Zürich",
+      "url": "https://www.shn.ch/sport/fussball/2026-06-28/der-fc-schaffhausen-bietet-dem-klaren-favoriten-die-stirn-und-verliert",
+      "summary": "Im ersten Testspiel nach Beginn der Saisonvorbereitung muss der FC Schaffhausen gegen Super-League-Vertreter FC Zürich eine knappe 2:3-Niederlage hinnehmen. Colin Odutayo erzielt am Samstag beide Tore",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Stadtfest Rund 55000 Besuchende Trotz Hitze",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzerner-stadtfest-rund-55000-besuchende-trotz-hitze-ld.4187751",
+      "summary": "",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Deutsche Autorin Lena Schätte gewinnt Bachmann-Preis",
+      "url": "https://www.watson.ch/international/deutschland/822342662-deutsche-autorin-lena-schaette-gewinnt-bachmann-preis",
+      "summary": "",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Panzer und Schüsse im Regierungsviertel von Bagdad",
+      "url": "https://www.watson.ch/international/irak/911000310-panzer-und-schuesse-im-regierungsviertel-von-bagdad",
+      "summary": "",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kennst du diese WM-Helden aus den Panini-Alben noch?",
+      "url": "https://www.watson.ch/quiz/sport/924721400-kennst-du-diese-wm-helden-aus-den-panini-alben-noch",
+      "summary": "",
+      "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trotz Hitze grosser Hitze war das Stadtfest ein Erfolg",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-stadtfest-rund-55000-besuchende-trotz-hitze-art-1710271",
+      "summary": "",
+      "published": "2026-06-28T11:01:55.356907+00:00"
     }
   ]
 }
