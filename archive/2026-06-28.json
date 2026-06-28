@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T00:02:04.123637+00:00",
+  "generated": "2026-06-28T00:31:44.876237+00:00",
   "date": "2026-06-28",
-  "count": 8,
+  "count": 13,
   "articles": [
     {
       "source": "Watson",
@@ -58,6 +58,41 @@
       "url": "https://www.watson.ch/wissen/astronomie/395681812-vollmond-am-30-juni-2026-steht-sehr-tief-ueber-dem-himmel",
       "summary": "",
       "published": "2026-06-28T00:02:04.123637+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Den Parlamentariern den Polit Beruf die Krippe Wegziehen",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/den-parlamentariern-den-polit-beruf-die-krippe-wegziehen",
+      "summary": "",
+      "published": "2026-06-28T00:31:44.876237+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ständemehr und Medikamentenversorgung",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/staendemehr-und-medikamentenversorgung",
+      "summary": "",
+      "published": "2026-06-28T00:31:44.876237+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fast zwei Dutzend ukrainische Drohnen vor Moskau abgeschossen",
+      "url": "https://www.watson.ch/international/russland/479330534-fast-zwei-dutzend-ukrainische-drohnen-vor-moskau-abgeschossen",
+      "summary": "",
+      "published": "2026-06-28T00:31:44.876237+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lance Schroyer: Trump nominiert neue Spitze der Einwanderungsbehörde ICE",
+      "url": "https://www.watson.ch/international/usa/593583054-lance-schroyer-trump-nominiert-neue-spitze-der-einwanderungsbehoerde-ice",
+      "summary": "",
+      "published": "2026-06-28T00:31:44.876237+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erdbeben in Venzuela: Bereits über 1400 Tote, viele noch vermisst",
+      "url": "https://www.watson.ch/international/natur/790846847-erdbeben-in-venzuela-bereits-ueber-1400-tote-viele-noch-vermisst",
+      "summary": "",
+      "published": "2026-06-28T00:31:44.876237+00:00"
     }
   ]
 }
