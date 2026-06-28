@@ -1,6 +1,112 @@
 {
-  "generated": "2026-06-28T22:01:50.489800+00:00",
+  "generated": "2026-06-28T22:31:35.845354+00:00",
   "date": "2026-06-29",
-  "count": 0,
-  "articles": []
+  "count": 15,
+  "articles": [
+    {
+      "source": "Blick",
+      "title": "Franzosen-Bande klaut Autos in der Schweiz – jetzt packen die Drahtzieher exklusiv aus: «Wir haben keine Angst vor der Polizei»",
+      "url": "https://www.blick.ch/schweiz/franzosen-bande-klaut-autos-in-der-schweiz-jetzt-packen-die-drahtzieher-exklusiv-aus-wir-haben-keine-angst-vor-der-polizei-id22063363.html",
+      "summary": "In der Anonymität von Social Media planen sie Einbrüche und rekrutieren dafür junge Menschen: französische Auftraggeber. Wieso ist die Schweiz ein beliebtes Ziel? Und wie sind die Autodiebe organisier",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Dubioser Händler knöpft Rosmarie Gräser (95) Schmucksammlung zum Spottpreis ab: «Ich will diesem Gauner das Handwerk legen!»",
+      "url": "https://www.blick.ch/schweiz/graubuenden/dubioser-haendler-knoepft-rosmarie-graeser-95-schmucksammlung-zum-spottpreis-ab-ich-will-diesem-gauner-das-handwerk-legen-id22066915.html",
+      "summary": "Nach dem Tod ihres Mannes will Rosmarie Gräser (95) entrümpeln. Ein angeblicher Händler nutzt die Situation aus und ergaunert Schmuck im Wert von über 20'000 Franken.",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«20 Mieter sind noch immer nicht raus»: Dieses Hochhaus in Bern-Bümpliz wird am Dienstag geräumt",
+      "url": "https://www.blick.ch/wirtschaft/20-mieter-sind-noch-immer-nicht-raus-dieses-hochhaus-in-bern-buempliz-wird-am-dienstag-geraeumt-id22066515.html",
+      "summary": "Ein 20-stöckiges Hochhaus in Bern-Bümpliz muss saniert werden. 144 Mietparteien erhielten vor einem Jahr die Leerkündigung. Bis Dienstag muss das Hochhaus leer geräumt sein. Ein Augenschein vor Ort ze",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Jung, männlich, aus Nordafrika – so perfid gehen Grenzgänger-Autodiebe vor: Hunderte Einbrüche erschüttern die Schweiz",
+      "url": "https://www.blick.ch/schweiz/jung-maennlich-aus-nordafrika-so-perfid-gehen-grenzgaenger-autodiebe-vor-hunderte-einbrueche-erschuettern-die-schweiz-id22063353.html",
+      "summary": "Sie sind jung und männlich. Sie kommen aus Frankreich in die Schweiz und klauen Luxusautos. Jeden Tag. Die Rekrutierung passiert via Social Media. Blick hat den ganzen Prozess mitverfolgt: Undercover,",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Putin glaubt weiter an Sieg in der Ukraine",
+      "url": "https://www.watson.ch/international/russland/774922807-putin-glaubt-weiter-an-sieg-in-der-ukraine",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA-Iran-Verhandlungen sollen trotz Angriffen weitergehen",
+      "url": "https://www.watson.ch/international/iran/947585587-usa-iran-verhandlungen-sollen-trotz-angriffen-weitergehen",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Über 400 junge Turner kämpfen in Sattel um Top-Punktzahlen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ueber-400-junge-turner-kaempfen-in-sattel-um-top-punktzahlen-art-1710297",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vereinsreise der Turnerinnen 50+ Rothenthurm nach Niederbauen",
+      "url": "https://www.bote.ch/nachrichten/vereine/vereinsreise-der-turnerinnen-50-rothenthurm-nach-niederbauen-art-1710122",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Räss wie Schweizer Käse, scharf wie ungarisches Gulasch",
+      "url": "https://www.bote.ch/nachrichten/schwyz/raess-wie-schweizer-kaese-scharf-wie-ungarisches-gulasch-art-1710294",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kinderband der Pfarrei Schwyz lässt Melodien zum Leben erwachen",
+      "url": "https://www.bote.ch/nachrichten/vereine/kinderband-der-pfarrei-schwyz-laesst-melodien-zum-leben-erwachen-art-1710120",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Grümpelturnier wird zum Sommerfestival",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/gruempelturnier-wird-zum-sommerfestival-art-1710279",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gelungene Zimmerpflanzenbörse im Kult-Turm",
+      "url": "https://www.bote.ch/nachrichten/schwyz/gelungene-zimmerpflanzenboerse-im-kult-turm-art-1710295",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Endlich aufatmen: Rekordhitze endet mit Gewittern",
+      "url": "https://www.bote.ch/nachrichten/schwyz/endlich-aufatmen-rekordhitze-endet-mit-gewittern-art-1710282",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bergchilbi im Skihaus Holzegg",
+      "url": "https://www.bote.ch/nachrichten/vereine/bergchilbi-im-skihaus-holzegg-art-1710126",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Abendsonne lässt Wolke aufglühen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/abendsonne-laesst-wolke-aufgluehen-art-1710280",
+      "summary": "",
+      "published": "2026-06-28T22:31:35.845354+00:00"
+    }
+  ]
 }
