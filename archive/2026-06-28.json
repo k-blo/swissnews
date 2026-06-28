@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T01:31:45.943407+00:00",
+  "generated": "2026-06-28T02:01:51.689742+00:00",
   "date": "2026-06-28",
-  "count": 19,
+  "count": 23,
   "articles": [
     {
       "source": "Watson",
@@ -135,6 +135,34 @@
       "url": "https://www.watson.ch/sport/liveticker/544369368-wm-2026-kolumbien-und-portugal-sorgen-trotz-0-0-fuer-spektakel",
       "summary": "",
       "published": "2026-06-28T01:31:45.943407+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM: Auf wen trifft die Schweiz im Sechzehntelfinal? Davon hängt es ab",
+      "url": "https://www.watson.ch/sport/fussball/180536744-wm-auf-wen-trifft-die-schweiz-im-sechzehntelfinal-davon-haengt-es-ab",
+      "summary": "",
+      "published": "2026-06-28T02:01:51.689742+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Manuel Adorni: Argentiniens Kabinettschef tritt nach Skandal zurück",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/887563323-manuel-adorni-argentiniens-kabinettschef-tritt-nach-skandal-zurueck",
+      "summary": "",
+      "published": "2026-06-28T02:01:51.689742+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizer Gegner? Österreich–Algerien live im SRF Stream und im Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/576623332-schweizer-gegner-oesterreich-algerien-live-im-srf-stream-und-im-ticker",
+      "summary": "",
+      "published": "2026-06-28T02:01:51.689742+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Brunnen erhält seine erste Augenarztpraxis</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/bbrunnen-erhaelt-seine-erste-augenarztpraxisb-art-1709498",
+      "summary": "",
+      "published": "2026-06-28T02:01:51.689742+00:00"
     }
   ]
 }
