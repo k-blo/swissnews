@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T20:01:29.243444+00:00",
+  "generated": "2026-06-28T20:31:30.644307+00:00",
   "date": "2026-06-28",
-  "count": 588,
+  "count": 591,
   "articles": [
     {
       "source": "Watson",
@@ -4118,6 +4118,27 @@
       "url": "https://www.watson.ch/international/gesellschaft-politik/107824237-tausende-demonstrieren-in-serbien-gegen-vucic",
       "summary": "",
       "published": "2026-06-28T20:01:29.243444+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wie Jugendliche ihren Beruf wählen: «Zu studieren und dann durch KI ersetzt werden? Das wäre mein Horror»",
+      "url": "https://www.bernerzeitung.ch/berufswahl-wie-jugendliche-mit-der-ki-im-arbeitsmarkt-umgehen-345250418426",
+      "summary": "Die künstliche Intelligenz bedroht gewisse Jobs, bevor junge Menschen überhaupt ins Berufsleben starten. Dennoch lassen sie sich ihre Träume nicht nehmen. Sieben Jugendliche erzählen.",
+      "published": "2026-06-28T20:31:30.644307+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Interview zur Berufswahl: «Den ‹für immer sicheren Beruf› gibt es nicht»",
+      "url": "https://www.bernerzeitung.ch/berufswahl-wie-ki-den-lehrstellenmarkt-veraendert-552926743102",
+      "summary": "Christine Viljehr leitet die Laufbahnberatung des Kantons Zürich . Sie erklärt, weshalb es den sicheren Beruf nicht mehr gibt – und warum die Fähigkeit zur Veränderung immer wichtiger wird.",
+      "published": "2026-06-28T20:31:30.644307+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Audrey Werro siegt in Paris",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-audrey-werro-siegt-in-paris",
+      "summary": "",
+      "published": "2026-06-28T20:31:30.644307+00:00"
     }
   ]
 }
