@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T01:01:23.611971+00:00",
+  "generated": "2026-06-28T01:31:45.943407+00:00",
   "date": "2026-06-28",
-  "count": 18,
+  "count": 19,
   "articles": [
     {
       "source": "Watson",
@@ -128,6 +128,13 @@
       "url": "https://www.watson.ch/schweiz/sp/738233616-wie-der-rechte-fluegel-der-sp-nach-jositschs-rueckzug-ums-ueberleben-ringt",
       "summary": "",
       "published": "2026-06-28T01:01:23.611971+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Kolumbien und Portugal sorgen trotz 0:0 für Spektakel",
+      "url": "https://www.watson.ch/sport/liveticker/544369368-wm-2026-kolumbien-und-portugal-sorgen-trotz-0-0-fuer-spektakel",
+      "summary": "",
+      "published": "2026-06-28T01:31:45.943407+00:00"
     }
   ]
 }
