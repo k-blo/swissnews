@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T00:31:44.876237+00:00",
+  "generated": "2026-06-28T01:01:23.611971+00:00",
   "date": "2026-06-28",
-  "count": 13,
+  "count": 18,
   "articles": [
     {
       "source": "Watson",
@@ -93,6 +93,41 @@
       "url": "https://www.watson.ch/international/natur/790846847-erdbeben-in-venzuela-bereits-ueber-1400-tote-viele-noch-vermisst",
       "summary": "",
       "published": "2026-06-28T00:31:44.876237+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Live vom Open Air St. Gallen – Die Rave-Teufel von Scooter bringen die Hitze zurück ins Tobel",
+      "url": "https://www.srf.ch/radio-srf-3/festivalsommer/live-vom-open-air-st-gallen-die-rave-teufel-von-scooter-bringen-die-hitze-zurueck-ins-tobel",
+      "summary": "Was passiert auf den Bühnen und dem Festivalgelände am Open Air St. Gallen? Der Ticker hält euch auf dem Laufenden.",
+      "published": "2026-06-28T01:01:23.611971+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Droht der Schweiz wegen der Hitze jetzt eine Stromlücke?",
+      "url": "https://www.20min.ch/story/zu-heiss-fuer-solarstrom-droht-der-schweiz-wegen-der-hitze-jetzt-eine-stromluecke-103591986",
+      "summary": "Wegen der Rekordhitze schiessen in Europa am Abend die Strompreise in die Höhe. Warum die Schweiz dennoch besser gerüstet ist als viele Nachbarländer.",
+      "published": "2026-06-28T01:01:23.611971+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mileis Stabschef tritt zurück",
+      "url": "https://www.zentralplus.ch/news/mileis-stabschef-tritt-zurueck-2881112/",
+      "summary": "Manuel Adorni, der Stabschef im Kabinett von des argentinischen Präsidenten Javier Milei, hat sein Amt abgegeben. Grund dafür ist ein Verfahren im Zusammenhang mit unrechtmässiger Bereicherung. Die Ju",
+      "published": "2026-06-28T01:01:23.611971+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Dachstockbrand in Hombrechtikon ZH verursacht grossen Schaden",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/450746337-dachstockbrand-in-hombrechtikon-zh-verursacht-grossen-schaden",
+      "summary": "",
+      "published": "2026-06-28T01:01:23.611971+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wie der rechte Flügel der SP nach Jositschs Rückzug ums Überleben ringt",
+      "url": "https://www.watson.ch/schweiz/sp/738233616-wie-der-rechte-fluegel-der-sp-nach-jositschs-rueckzug-ums-ueberleben-ringt",
+      "summary": "",
+      "published": "2026-06-28T01:01:23.611971+00:00"
     }
   ]
 }
