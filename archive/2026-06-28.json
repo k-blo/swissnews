@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-27T23:31:48.484189+00:00",
+  "generated": "2026-06-28T00:02:04.123637+00:00",
   "date": "2026-06-28",
-  "count": 6,
+  "count": 8,
   "articles": [
     {
       "source": "Watson",
@@ -44,6 +44,20 @@
       "url": "https://www.watson.ch/sport/fussball/950735390-wm-2026-england-bleibt-erster-ghana-und-kroatien-auch-weiter",
       "summary": "",
       "published": "2026-06-27T23:31:48.484189+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Luftabwehrstellungen und Drohnenlager: USA greifen erneut den Iran an",
+      "url": "https://www.watson.ch/international/iran/748003176-luftabwehrstellungen-und-drohnenlager-usa-greifen-erneut-den-iran-an",
+      "summary": "",
+      "published": "2026-06-28T00:02:04.123637+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vollmond am 30. Juni 2026 steht sehr tief über dem Himmel",
+      "url": "https://www.watson.ch/wissen/astronomie/395681812-vollmond-am-30-juni-2026-steht-sehr-tief-ueber-dem-himmel",
+      "summary": "",
+      "published": "2026-06-28T00:02:04.123637+00:00"
     }
   ]
 }
