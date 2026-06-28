@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-28T11:01:55.356907+00:00",
+  "generated": "2026-06-28T11:05:21.413138+00:00",
   "date": "2026-06-28",
-  "count": 298,
+  "count": 305,
   "articles": [
     {
       "source": "Watson",
@@ -2088,6 +2088,55 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-stadtfest-rund-55000-besuchende-trotz-hitze-art-1710271",
       "summary": "",
       "published": "2026-06-28T11:01:55.356907+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Hofladen Diebe in Wohlen Festgenommen",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/hofladen-diebe-in-wohlen-festgenommen-ld.4193899",
+      "summary": "",
+      "published": "2026-06-28T11:05:21.413138+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Torture Ship in Konstanz Fetisch Partyschiff Zieht Blicke an",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/torture-ship-in-konstanz-fetisch-partyschiff-zieht-blicke-an-ld.4177989",
+      "summary": "",
+      "published": "2026-06-28T11:05:21.413138+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Russland blutet aus einer offenen Arterie» – und genau darin liegt die Gefahr",
+      "url": "https://www.freiburger-nachrichten.ch/story/272900/russland-blutet-aus-einer-offenen-arterie-und-genau-darin-liegt-die-gefahr",
+      "summary": "",
+      "published": "2026-06-28T11:05:21.413138+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "100 neue Informationstafeln erklären Biodiversitätsprojekte",
+      "url": "https://www.freiburger-nachrichten.ch/story/272326/100-neue-informationstafeln-erkl%C3%A4ren-biodiversit%C3%A4tsprojekte",
+      "summary": "",
+      "published": "2026-06-28T11:05:21.413138+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Erfolgreiche Freiburger Auftritte in Basel",
+      "url": "https://www.freiburger-nachrichten.ch/story/272893/erfolgreiche-freiburger-auftritte-in-basel",
+      "summary": "",
+      "published": "2026-06-28T11:05:21.413138+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wundervolles eidgenössisches Trachtenchorfest in Sursee",
+      "url": "https://www.freiburger-nachrichten.ch/story/272898/wundervolles-eidgen%C3%B6ssisches-trachtenchorfest-in-sursee",
+      "summary": "",
+      "published": "2026-06-28T11:05:21.413138+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Pro Senectute wanderte zum Energiepark Mont-Soleil",
+      "url": "https://www.freiburger-nachrichten.ch/story/272897/pro-senectute-wanderte-zum-energiepark-montsoleil",
+      "summary": "",
+      "published": "2026-06-28T11:05:21.413138+00:00"
     }
   ]
 }
