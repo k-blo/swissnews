@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T22:32:47.249916+00:00",
+  "generated": "2026-06-29T23:02:46.588500+00:00",
   "date": "2026-06-30",
-  "count": 22,
+  "count": 26,
   "articles": [
     {
       "source": "Blick",
@@ -156,6 +156,34 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/andreas-zimmerli-gewinnt-den-uristier-cup-art-1710450",
       "summary": "",
       "published": "2026-06-29T22:32:47.249916+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ukrainer Oligarch wohl unter Verletzten: Starke Explosion in Monaco – drei Verletzte",
+      "url": "https://www.tagesanzeiger.ch/monaco-explosion-rucksack-vor-wohngebaeude-drei-verletzte-359003861166",
+      "summary": "Ein Rucksack, eine Explosion und drei Verletzte: Das Fürstentum Monaco wird am späten Montagabend von einem Schockmoment wachgerüttelt. Sicherheits- und Rettungskräfte sind im Einsatz.",
+      "published": "2026-06-29T23:02:46.588500+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Explosion in Monaco: Verdächtiger Mann auf der Flucht",
+      "url": "https://www.watson.ch/international/frankreich/995516280-explosion-in-monaco-verdaechtiger-mann-auf-der-flucht",
+      "summary": "",
+      "published": "2026-06-29T23:02:46.588500+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Parmelin in den USA: Noch kein Durchbruch bei Zollverhandlungen",
+      "url": "https://www.watson.ch/schweiz/international/651892074-parmelin-in-den-usa-noch-kein-durchbruch-bei-zollverhandlungen",
+      "summary": "",
+      "published": "2026-06-29T23:02:46.588500+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Deutsche Konzeptkünstlerin Rune Mields im Alter von 91 Jahren gestorben",
+      "url": "https://www.watson.ch/leben/deutschland/911802526-deutsche-konzeptkuenstlerin-rune-mields-im-alter-von-91-jahren-gestorben",
+      "summary": "",
+      "published": "2026-06-29T23:02:46.588500+00:00"
     }
   ]
 }
