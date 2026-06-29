@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T23:02:46.588500+00:00",
+  "generated": "2026-06-29T23:32:24.206659+00:00",
   "date": "2026-06-30",
-  "count": 26,
+  "count": 28,
   "articles": [
     {
       "source": "Blick",
@@ -184,6 +184,20 @@
       "url": "https://www.watson.ch/leben/deutschland/911802526-deutsche-konzeptkuenstlerin-rune-mields-im-alter-von-91-jahren-gestorben",
       "summary": "",
       "published": "2026-06-29T23:02:46.588500+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran weist internationale Minenräumung in der Strasse von Hormus zurück",
+      "url": "https://www.watson.ch/international/iran/666717184-iran-weist-internationale-minenraeumung-in-der-strasse-von-hormus-zurueck",
+      "summary": "",
+      "published": "2026-06-29T23:32:24.206659+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Waldbrand im Tessin oberhalb von Locarno ausgebrochen",
+      "url": "https://www.watson.ch/schweiz/tessin/159040778-waldbrand-im-tessin-oberhalb-von-locarno-ausgebrochen",
+      "summary": "",
+      "published": "2026-06-29T23:32:24.206659+00:00"
     }
   ]
 }
