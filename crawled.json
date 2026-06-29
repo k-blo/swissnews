@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T01:01:27.974940+00:00",
+  "generated": "2026-06-29T01:31:36.782768+00:00",
   "date": "2026-06-29",
-  "count": 38,
+  "count": 41,
   "articles": [
     {
       "source": "Blick",
@@ -268,6 +268,27 @@
       "url": "https://www.watson.ch/schweiz/deutschland/172660219-hitzewelle-in-schweiz-deutschland-und-co-diese-rekorde-sind-gefallen",
       "summary": "",
       "published": "2026-06-29T01:01:27.974940+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Motorradfahrer bei Unfall in Oberwil im Simmental BE verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/939176730-motorradfahrer-bei-unfall-in-oberwil-im-simmental-be-verletzt",
+      "summary": "",
+      "published": "2026-06-29T01:31:36.782768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WHO: Hantavirus-Ausbruch neigt sich Ende zu",
+      "url": "https://www.watson.ch/international/gesundheit/218657782-who-hantavirus-ausbruch-neigt-sich-ende-zu",
+      "summary": "",
+      "published": "2026-06-29T01:31:36.782768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Captain von Kap Verde wird Vergewaltigung vorgeworfen",
+      "url": "https://www.watson.ch/sport/fussball/294431851-wm-2026-captain-von-kap-verde-wird-vergewaltigung-vorgeworfen",
+      "summary": "",
+      "published": "2026-06-29T01:31:36.782768+00:00"
     }
   ]
 }
