@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T00:01:25.468394+00:00",
+  "generated": "2026-06-29T00:31:29.307884+00:00",
   "date": "2026-06-29",
-  "count": 29,
+  "count": 36,
   "articles": [
     {
       "source": "Blick",
@@ -205,6 +205,55 @@
       "url": "https://www.watson.ch/leben/musik/927662029-biopic-michael-ueberholt-oppenheimer-an-kinokassen",
       "summary": "",
       "published": "2026-06-28T23:46:43.369600+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Angriff in Berner Badi: Polizistin im Marzili mit Pfefferspray attackiert",
+      "url": "https://www.blick.ch/schweiz/bern/angriff-in-berner-badi-polizistin-im-marzili-mit-pfefferspray-attackiert-id22067213.html",
+      "summary": "Bei einer Personenkontrolle im Marzili attackierten Unbekannte die Polizei. Anschliessend gab es eine Spontandemo in der Innenstadt.",
+      "published": "2026-06-29T00:31:29.307884+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Machado will zurück nach Venezuela",
+      "url": "https://www.zentralplus.ch/news/machado-will-zurueck-nach-venezuela-2881233/",
+      "summary": "Nach den Erdbeben in Venezuela mit über 1400 Toten will Oppositionsführerin Maria Corina Machado in das südamerikanische Land zurückkehren. Das sagte sie im Interview mit Fox News. Sie wolle mit ihrem",
+      "published": "2026-06-29T00:31:29.307884+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Film Dokumentiert Enge Unrwa Verbindungen zum Hamas Terror",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/film-dokumentiert-enge-unrwa-verbindungen-zum-hamas-terror",
+      "summary": "",
+      "published": "2026-06-29T00:31:29.307884+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ahv und Sicherheit Nicht Gratis zu Haben",
+      "url": "https://www.nebelspalter.ch/themen/2026/06/ahv-und-sicherheit-nicht-gratis-zu-haben",
+      "summary": "",
+      "published": "2026-06-29T00:31:29.307884+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WHO-Chef Ghebreyesus: Hitze für zusätzliche Todesfälle mitverantwortlich",
+      "url": "https://www.watson.ch/international/gesundheit/606652993-who-chef-ghebreyesus-hitze-fuer-zusaetzliche-todesfaelle-mitverantwortlich",
+      "summary": "",
+      "published": "2026-06-29T00:31:29.307884+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nahost: Warum die Kämpfe zwischen USA und Iran wieder aufflammen",
+      "url": "https://www.watson.ch/international/iran/923256944-nahost-warum-die-kaempfe-zwischen-usa-und-iran-wieder-aufflammen",
+      "summary": "",
+      "published": "2026-06-29T00:31:29.307884+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Graz: Neuer Wahlsieg für Kommunisten in österreichischer Grossstadt",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/717779111-graz-neuer-wahlsieg-fuer-kommunisten-in-oesterreichischer-grossstadt",
+      "summary": "",
+      "published": "2026-06-29T00:31:29.307884+00:00"
     }
   ]
 }
