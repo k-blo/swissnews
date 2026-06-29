@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T21:02:38.233250+00:00",
+  "generated": "2026-06-29T21:32:31.299196+00:00",
   "date": "2026-06-29",
-  "count": 1024,
+  "count": 1026,
   "articles": [
     {
       "source": "Blick",
@@ -7170,6 +7170,20 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/schwere-explosion-in-monaco-polizei-prueft-rucksack-hinweis-art-1710523",
       "summary": "",
       "published": "2026-06-29T21:02:38.233250+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Armee muss ihre IT umbauen – Finanzkontrolle warnt vor Risiken",
+      "url": "https://www.20min.ch/story/fuer-200-millionen-franken-armee-muss-ihre-it-umbauen-finanzkontrolle-warnt-vor-risiken-103592901",
+      "summary": "Die Armee muss ihre IT-Systeme umbauen. Sie will nur noch «einsatzkritische» Systeme selbst verwalten, den Rest soll das Bundesamt für Informatik betreiben. Doch nun ortet die Finanzkontrolle Risiken ",
+      "published": "2026-06-29T21:32:31.299196+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Deutschland gegen Paraguay: DFB-Team liegt zur Halbzeit 0:1 zurück",
+      "url": "https://www.nzz.ch/sport/deutschland-gegen-paraguay-kurz-vor-der-pause-trifft-paraguay-zum-10-ld.10013318",
+      "summary": "",
+      "published": "2026-06-29T21:32:31.299196+00:00"
     }
   ]
 }
