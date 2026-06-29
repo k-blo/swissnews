@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T20:32:33.504052+00:00",
+  "generated": "2026-06-29T21:02:38.233250+00:00",
   "date": "2026-06-29",
-  "count": 1017,
+  "count": 1024,
   "articles": [
     {
       "source": "Blick",
@@ -7121,6 +7121,55 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/palo-alto-networks-spezialist-fuer-it-sicherheitsloesungen-art-1710520",
       "summary": "",
       "published": "2026-06-29T20:32:33.504052+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Deutschland – Paraguay im Ticker: Nach attraktiven Startminuten findet das Spiel nur noch in einer Platzhälfte statt",
+      "url": "https://www.bazonline.ch/fussball-wm-live-deutschland-paraguay-um-22-30-uhr-im-ticker-623334912944",
+      "summary": "Deutschland trifft im Sechzehntelfinal auf Paraguay. Das Spiel im Liveticker.",
+      "published": "2026-06-29T21:02:38.233250+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Deutschland gegen Paraguay: Die Deutschen erhöhen den Druck – doch die Torchancen fehlen",
+      "url": "https://www.nzz.ch/sport/deutschland-gegen-paraguay-die-deutschen-erhoehen-den-druck-nach-frechem-start-der-paraguayer-ld.10013318",
+      "summary": "",
+      "published": "2026-06-29T21:02:38.233250+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ammoniak Massnahmen Kantonsrat Unterstützt die Landwirtschaft",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/ammoniak-massnahmen-kantonsrat-unterstuetzt-die-landwirtschaft-ld.4194613",
+      "summary": "",
+      "published": "2026-06-29T21:02:38.233250+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Berichte: Schwere Explosion in Monaco, Verdächtiger Mann auf der Flucht",
+      "url": "https://www.watson.ch/international/frankreich/995516280-berichte-schwere-explosion-in-monaco-verdaechtiger-mann-auf-der-flucht",
+      "summary": "",
+      "published": "2026-06-29T21:02:38.233250+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Lewandowski wechselt in die MLS",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-lewandowski-wechselt-in-die-mls",
+      "summary": "",
+      "published": "2026-06-29T21:02:38.233250+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bauern sollen mehr Geld für die Bekämpfung der Ammoniak-Emissionen erhalten",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ammoniak-massnahmen-kantonsrat-unterstuetzt-die-landwirtschaft-art-1710524",
+      "summary": "",
+      "published": "2026-06-29T21:02:38.233250+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwere Explosion fordert Verletzte: Verdächtiger auf der Flucht",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/schwere-explosion-in-monaco-polizei-prueft-rucksack-hinweis-art-1710523",
+      "summary": "",
+      "published": "2026-06-29T21:02:38.233250+00:00"
     }
   ]
 }
