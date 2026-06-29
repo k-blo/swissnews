@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T07:32:57.726454+00:00",
+  "generated": "2026-06-29T08:02:47.009080+00:00",
   "date": "2026-06-29",
-  "count": 295,
+  "count": 308,
   "articles": [
     {
       "source": "Blick",
@@ -2067,6 +2067,97 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/donald-trump-bleibt-der-fussball-wm-bisher-fern-art-1710378",
       "summary": "",
       "published": "2026-06-29T07:32:57.726454+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rede in Maryland: «What a loser»: Joe Biden greift Donald Trump scharf an",
+      "url": "https://www.tagesanzeiger.ch/joe-biden-greift-trump-frontal-an-what-a-loser-644415218749",
+      "summary": "Als der Ex-Präsident seinen Nachfolger einen «Versager» nennt, applaudieren seine Anhänger. Doch der Auftritt zeigt vor allem eines: Joe Biden will politisch wieder eine Rolle spielen.",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Pressefreiheit: Palantir akzeptiert Zürcher Urteil zur «Republik»-Recherche",
+      "url": "https://www.tagesanzeiger.ch/palantir-akzeptiert-urteil-gegen-republik-153788218306",
+      "summary": "Der US-Datenkonzern akzeptiert die Niederlage vor dem Zürcher Handelsgericht: 22 von 23 Gegendarstellungen wurden abgewiesen. Reporter ohne Grenzen spricht von einem Sieg für die internationale Presse",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Neues Meldetool: Städte bündeln ihre Kräfte gegen Sexismus und Queerfeindlichkeit",
+      "url": "https://www.bernerzeitung.ch/bern-zuerich-luzern-neue-plattform-gegen-sexismus-207202494693",
+      "summary": "Bern, Zürich und Luzern lancieren gemeinsam «wirschauenhin.ch». Betroffene können dort sexistische und queerfeindliche Vorfälle anonym melden.",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "In Weil am Rhein (DE): Drogenkurier auf Elektroroller bei Dreiländerbrücke abgefangen",
+      "url": "https://www.bazonline.ch/drogenkurier-an-dreilaenderbruecke-anklage-erhoben-207153788556",
+      "summary": "Kokain, Ketamin und weitere illegale Substanzen wurden bei dem Mann gefunden, der sich nur auf Spanisch verständigen konnte.",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Delgado: «Krise wird politisiert»",
+      "url": "https://www.zentralplus.ch/news/delgado-krise-wird-politisiert-2881267/",
+      "summary": "Die venezolanische Regierung steht unter Druck und nun sagt die Oppositionspolitikerin Maria Corina Machado, dass sie nach Venezuela zurückkehren will. Die Erdbeben dürften auch die venezolanische Pol",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ärger über die EU-Zölle: In Brüssel lobbyieren der Bundesrat und andere Regierungen gegen neue Handelsbeschränkungen",
+      "url": "https://www.nzz.ch/wirtschaft/aerger-ueber-die-eu-zoelle-in-bruessel-lobbyieren-der-bundesrat-und-andere-regierungen-gegen-neue-handelsbeschraenkungen-ld.10013166",
+      "summary": "",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Schweizer Monat",
+      "title": "Liberale sind zwischen rechts und links eingeklemmt",
+      "url": "https://schweizermonat.ch/liberale-sind-zwischen-rechts-und-links-eingeklemmt/",
+      "summary": "Im massenmedialen Gezänk zwischen rechts und links ist es schwer, liberal zu bleiben. Trotzdem – oder gerade deshalb – muss die Freiheit gegen sozialistische wie nationalistische Kollektivismen vertei",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Engelberg 79 Jähriger und Beifahrerin Verletzen Sich bei Autounfall",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/engelberg-79-jaehriger-und-beifahrerin-verletzen-sich-bei-autounfall-ld.4194164",
+      "summary": "",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kantone prüfen Abschuss von Jungwölfen in Ausserschwyz",
+      "url": "https://www.watson.ch/schweiz/tier/806527952-kantone-pruefen-abschuss-von-jungwoelfen-in-ausserschwyz",
+      "summary": "",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Gewitter nach Hitzewelle: Alle Neuigkeiten im Liveticker",
+      "url": "https://www.watson.ch/schweiz/liveticker/445845474-gewitter-nach-hitzewelle-alle-neuigkeiten-im-liveticker",
+      "summary": "",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der Gletscherschwundtag der Schweiz fällt 2026 auf den 29. Juni",
+      "url": "https://www.watson.ch/schweiz/klima/202111555-der-gletscherschwundtag-der-schweiz-faellt-2026-auf-den-29-juni",
+      "summary": "",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auto prallt frontal gegen einen Baum – zwei Personen verletzt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/engelberg-79-jaehriger-und-beifahrerin-verletzen-sich-bei-autounfall-art-1710381",
+      "summary": "",
+      "published": "2026-06-29T08:02:47.009080+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Rudel hat Nachwuchs erhalten – Kanton prüft wieder Abschuss",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-rudel-hat-nachwuchs-erhalten-kanton-prueft-wieder-abschuss-art-1710379",
+      "summary": "",
+      "published": "2026-06-29T08:02:47.009080+00:00"
     }
   ]
 }
