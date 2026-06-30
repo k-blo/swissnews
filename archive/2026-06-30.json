@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-30T02:02:38.327967+00:00",
+  "generated": "2026-06-30T02:24:49.186395+00:00",
   "date": "2026-06-30",
-  "count": 55,
+  "count": 60,
   "articles": [
     {
       "source": "Blick",
@@ -387,6 +387,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/presseschau-nach-deutschlands-wm-out-das-schreiben-die-medien-art-1710547",
       "summary": "",
       "published": "2026-06-30T02:02:38.327967+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wie gut ist der Munotspielplatz? Das sagt unsere Kinderjury",
+      "url": "https://www.shn.ch/region/stadt/2026-06-30/wie-gut-ist-der-munotspielplatz-das-sagt-unsere-kinderjury",
+      "summary": "Hier wird nicht einfach nur gerutscht und geschaukelt. Kinder klettern auf Bäume, suchen sich eigene Wege durch die Anlage und entdecken immer wieder neue Spielmöglichkeiten. Franka hat ihren Liebling",
+      "published": "2026-06-30T02:24:49.186395+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ein letzter Tanz für zwei erfolgreiche Karrieren",
+      "url": "https://www.shn.ch/sport/regio-sport/2026-06-30/ein-letzter-tanz-fuer-zwei-erfolgreiche-karrieren",
+      "summary": "Romina Ledergerber und Hana Gedawy sind erfolgreiche Kunstradfahrerinnen. Nun gaben die beiden Sportlerinnen aus Schaffhausen aber ihre Abschiedsvorstellung.",
+      "published": "2026-06-30T02:24:49.186395+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bäh, Fussball",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-06-30/baeh-fussball",
+      "summary": "Wie ich den beliebtesten Sport der Welt tolerieren lernte.",
+      "published": "2026-06-30T02:24:49.186395+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Detuschland scheidet an der WM aus: Das sagen interantionale Medien",
+      "url": "https://www.watson.ch/sport/deutschland/952598461-detuschland-scheidet-an-der-wm-aus-das-sagen-interantionale-medien",
+      "summary": "",
+      "published": "2026-06-30T02:24:49.186395+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die nächste Blamage: Deutschland scheitert gegen Paraguay",
+      "url": "https://www.bote.ch/nachrichten/sport/deutschland-verliert-an-wm-2026-sensationell-gegen-paraguay-art-1710548",
+      "summary": "",
+      "published": "2026-06-30T02:24:49.186395+00:00"
     }
   ]
 }
