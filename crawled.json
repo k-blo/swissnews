@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-29T23:32:24.206659+00:00",
+  "generated": "2026-06-30T00:02:14.737678+00:00",
   "date": "2026-06-30",
-  "count": 28,
+  "count": 30,
   "articles": [
     {
       "source": "Blick",
@@ -198,6 +198,20 @@
       "url": "https://www.watson.ch/schweiz/tessin/159040778-waldbrand-im-tessin-oberhalb-von-locarno-ausgebrochen",
       "summary": "",
       "published": "2026-06-29T23:32:24.206659+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Noch kein Durchbruch im Zollstreit",
+      "url": "https://www.zentralplus.ch/news/noch-kein-durchbruch-im-zollstreit-2881479/",
+      "summary": "Bundespräsident Guy Parmelin hat in Washington keinen Durchbruch in den Zollverhandlungen mit den USA erzielt. Die Schweiz setze sich weiterhin mit Nachdruck für die Verlängerung der im vergangenen Ja",
+      "published": "2026-06-30T00:02:14.737678+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Überschwemmungen und Murgänge sorgen für Probleme in Norditalien",
+      "url": "https://www.watson.ch/international/italien/761380138-ueberschwemmungen-und-murgaenge-sorgen-fuer-probleme-in-norditalien",
+      "summary": "",
+      "published": "2026-06-30T00:02:14.737678+00:00"
     }
   ]
 }
