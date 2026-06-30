@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-30T00:32:11.704606+00:00",
+  "generated": "2026-06-30T01:02:15.140351+00:00",
   "date": "2026-06-30",
-  "count": 38,
+  "count": 44,
   "articles": [
     {
       "source": "Blick",
@@ -268,6 +268,48 @@
       "url": "https://www.watson.ch/international/usa/658962442-st-louis-zehnjaehriger-soll-baby-in-den-kopf-geschossen-haben",
       "summary": "",
       "published": "2026-06-30T00:32:11.704606+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EU-Fleischalternativen: Namen wie Seitan-Steak und Veggie-Hühnchen tabu",
+      "url": "https://www.watson.ch/international/eu/689106611-eu-fleischalternativen-namen-wie-seitan-steak-und-veggie-huehnchen-tabu",
+      "summary": "",
+      "published": "2026-06-30T01:02:15.140351+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fernsteuerung der fest installierten Sirenen ist landesweit gestört",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/614116073-fernsteuerung-der-fest-installierten-sirenen-ist-landesweit-gestoert",
+      "summary": "",
+      "published": "2026-06-30T01:02:15.140351+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Niederlande – Marokko – WM 2026 live in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/523739821-niederlande-marokko-wm-2026-live-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-06-30T01:02:15.140351+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WhatsApp führt Benutzernamen ein – Handynummer bleibt privat",
+      "url": "https://www.watson.ch/digital/digital-news/393329664-whatsapp-fuehrt-benutzernamen-ein-handynummer-bleibt-privat",
+      "summary": "",
+      "published": "2026-06-30T01:02:15.140351+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rückschlag für Trump: Gericht lässt Fed-Gouverneurin Lisa Cook im Amt",
+      "url": "https://www.watson.ch/international/usa/230656198-rueckschlag-fuer-trump-gericht-laesst-fed-gouverneurin-lisa-cook-im-amt",
+      "summary": "",
+      "published": "2026-06-30T01:02:15.140351+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kein Durchbruch im Zollstreit - Verhandlungen mit den USA dauern an",
+      "url": "https://www.watson.ch/schweiz/international/651892074-kein-durchbruch-im-zollstreit-verhandlungen-mit-den-usa-dauern-an",
+      "summary": "",
+      "published": "2026-06-30T01:02:15.140351+00:00"
     }
   ]
 }
