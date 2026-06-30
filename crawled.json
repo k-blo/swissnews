@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-30T22:31:53.508642+00:00",
+  "generated": "2026-06-30T23:01:45.689933+00:00",
   "date": "2026-07-01",
-  "count": 22,
+  "count": 25,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -156,6 +156,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/der-gastro-nachwuchs-feiert-seinen-abschluss-art-1710692",
       "summary": "",
       "published": "2026-06-30T22:31:53.508642+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump verliert vor Supreme Court: Staatsbürgerschaft bleibt wie bisher",
+      "url": "https://www.watson.ch/international/usa/272499601-trump-verliert-vor-supreme-court-staatsbuergerschaft-bleibt-wie-bisher",
+      "summary": "",
+      "published": "2026-06-30T23:01:45.689933+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Grosser ukrainischer Drohnenangriff trifft Satellitenzentrum nahe Moskau",
+      "url": "https://www.watson.ch/international/russland/342929150-grosser-ukrainischer-drohnenangriff-trifft-satellitenzentrum-nahe-moskau",
+      "summary": "",
+      "published": "2026-06-30T23:01:45.689933+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Unwetter in Zürich zwingt Linkin Park&nbsp;zu 45-minütiger Pause im ausverkauften Letzigrund Stadion",
+      "url": "https://www.bote.ch/nachrichten/kultur/unwetter-in-zuerich-zwingt-linkin-park-zu-45-minuetiger-pause-art-1710719",
+      "summary": "",
+      "published": "2026-06-30T23:01:45.689933+00:00"
     }
   ]
 }
