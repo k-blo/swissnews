@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-30T23:08:34.602652+00:00",
+  "generated": "2026-06-30T23:32:04.223460+00:00",
   "date": "2026-07-01",
-  "count": 25,
+  "count": 28,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -177,6 +177,27 @@
       "url": "https://www.bote.ch/nachrichten/kultur/unwetter-in-zuerich-zwingt-linkin-park-zu-45-minuetiger-pause-art-1710719",
       "summary": "",
       "published": "2026-06-30T23:01:45.689933+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach VAR-Ärger und aberkanntem Tor – nun spricht der Schiri-Boss",
+      "url": "https://www.20min.ch/story/deutschland-draussen-nach-var-aerger-und-aberkanntem-tor-nun-spricht-der-schiri-boss-103594045",
+      "summary": "Nach der heftigen Kritik am VAR-Eingriff im WM-Sechzehntelfinal zwischen Deutschland und Paraguay stellt sich Schiedsrichterchef Pierluigi Collina hinter die Entscheidung.",
+      "published": "2026-06-30T23:32:04.223460+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Kylian Mbappé schiesst Frankreich gegen Schweden in Achtelfinal",
+      "url": "https://www.watson.ch/sport/frankreich/639613190-wm-2026-kylian-mbappe-schiesst-frankreich-gegen-schweden-in-achtelfinal",
+      "summary": "",
+      "published": "2026-06-30T23:32:04.223460+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lively fordert von Baldoni Millionensumme für Anwaltskosten",
+      "url": "https://www.watson.ch/leben/usa/815710416-lively-fordert-von-baldoni-millionensumme-fuer-anwaltskosten",
+      "summary": "",
+      "published": "2026-06-30T23:32:04.223460+00:00"
     }
   ]
 }
