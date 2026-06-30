@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-30T01:02:15.140351+00:00",
+  "generated": "2026-06-30T01:32:53.710222+00:00",
   "date": "2026-06-30",
-  "count": 44,
+  "count": 51,
   "articles": [
     {
       "source": "Blick",
@@ -310,6 +310,55 @@
       "url": "https://www.watson.ch/schweiz/international/651892074-kein-durchbruch-im-zollstreit-verhandlungen-mit-den-usa-dauern-an",
       "summary": "",
       "published": "2026-06-30T01:02:15.140351+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Waldbrand bricht oberhalb von Locarno aus",
+      "url": "https://www.20min.ch/story/tessin-waldbrand-oberhalb-locarno-madone-gebirge-103589263",
+      "summary": "Am späten Montagabend ist in einem Waldstück im Gebiet Cardada ein Feuer ausgebrochen. Die Ursache ist noch unklar.",
+      "published": "2026-06-30T01:32:53.710222+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Löscharbeiten im Gange: Waldbrand oberhalb von Locarno ausgebrochen",
+      "url": "https://www.tagesanzeiger.ch/tessin-waldbrand-oberhalb-locarno-ausgebrochen-888297370385",
+      "summary": "Am späten Montagabend ist in einem Waldstück im Gebiet Cardada ein Feuer ausgebrochen. Die Ursache ist noch unklar.",
+      "published": "2026-06-30T01:32:53.710222+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Deutschland raus +++ Brasilien im Achtelfinale +++ Lewandowski wechselt nach Chicago",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-deutschland-scheidet-aus-brasilien-steht-im-achtelfinale-lewandowski-wechselt-nach-chicago-ld.10010036",
+      "summary": "",
+      "published": "2026-06-30T01:32:53.710222+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Trumps zweite Amtszeit: Kommissarischer Arbeitsminister soll im Amt bleiben",
+      "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-kommissarischer-arbeitsminister-soll-im-amt-bleiben-ld.1856621",
+      "summary": "",
+      "published": "2026-06-30T01:32:53.710222+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Supreme-Court-Urteile: 3 Niederlagen und 1 Sieg für Tump",
+      "url": "https://www.watson.ch/international/justiz/876808370-supreme-court-urteile-3-niederlagen-und-1-sieg-fuer-tump",
+      "summary": "",
+      "published": "2026-06-30T01:32:53.710222+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Havertz und Deutschland enttäuscht: «Wieder reingeschissen»",
+      "url": "https://www.watson.ch/sport/deutschland/437053487-wm-2026-havertz-und-deutschland-enttaeuscht-wieder-reingeschissen",
+      "summary": "",
+      "published": "2026-06-30T01:32:53.710222+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Supreme Court stärkt Trumps Befugnisse bei Bundesbehörden",
+      "url": "https://www.watson.ch/international/usa/297746460-supreme-court-staerkt-trumps-befugnisse-bei-bundesbehoerden",
+      "summary": "",
+      "published": "2026-06-30T01:32:53.710222+00:00"
     }
   ]
 }
