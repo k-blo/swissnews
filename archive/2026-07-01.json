@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-01T05:31:27.412213+00:00",
+  "generated": "2026-07-01T06:01:30.433640+00:00",
   "date": "2026-07-01",
-  "count": 247,
+  "count": 264,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1731,6 +1731,125 @@
       "url": "https://rathuus.ch/zuerich-schwitzt-die-baeume-leiden-und-gruen-stadt-zuerich-blockt-ab/",
       "summary": "",
       "published": "2026-07-01T05:31:27.412213+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gewitter-Bilanz: Überflutungen, Felsstürze und 25’000 Blitze: So verlief die Unwetter­nacht in der Schweiz",
+      "url": "https://www.tagesanzeiger.ch/unwetter-schweiz-25000-blitze-700-feuerwehreinsaetze-962014368586",
+      "summary": "Über 700 Feuerwehreinsätze im Kanton Zürich, gesperrte Strassen in der Innerschweiz, ein unterbrochenes Konzert und lahmgelegter Flugverkehr am Flughafen Zürich zeugen vom Ausmass der Unwetter.",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ukrainische Tennisspielerin in Wimbledon: «Russische Spielerinnen unterstützen den Angriffskrieg gegen die Ukraine»",
+      "url": "https://www.bernerzeitung.ch/wimbledon-ukrainerin-oleksandra-olijnykowa-klagt-die-wta-an-819103611077",
+      "summary": "Oleksandra Olijnykowa rechnet mit russischen Tennisstars und der Frauentour WTA ab. Die 25-Jährige kämpft gegen ein System, das die Moral dem Business opfert. Und spricht von Einschüchterung.",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Konzert im Letzigrund: Erst stoppt das Gewitter Linkin Park, dann drückt die Band aufs Gas",
+      "url": "https://www.bernerzeitung.ch/linkin-park-zurich-konzert-im-letzigrund-532308332943",
+      "summary": "Mit dem 100. Auftritt schlossen die US-Rocker ihre «From Zero»-Welttournee am Dienstagabend in Zürich ab. Nur einer der Gründe, warum es ein besonders denkwürdiger Abend werden sollte.",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gefährliche Blutvergiftung: Abends plant sie Ferien – zwölf Stunden später kämpft sie auf der Intensiv­station um ihr Leben",
+      "url": "https://www.bernerzeitung.ch/sepsis-so-erkennen-sie-die-gefaehrliche-krankheit-569731866844",
+      "summary": "Die 45-jährige Stephanie Stücheli-Herlach erkrankte an einer Sepsis. Mindestens 4000 Menschen sterben jährlich in der Schweiz an dieser wenig bekannten Krankheit. Das soll sich jetzt ändern.",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Besetzung im Klybeck: Das Zack wird geräumt – Gelände grossflächig abgesperrt",
+      "url": "https://www.bazonline.ch/klybeck-polizei-raeumt-besetztes-zack-areal-in-basel-376541614816",
+      "summary": "Seit Sonntagabend drohte den Besetzern die Räumung – am Mittwochmorgen fuhren die Einsatzkräfte auf.",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Strom: Rasanter Ausbau bei Batterien",
+      "url": "https://www.zentralplus.ch/news/strom-rasanter-ausbau-bei-batterien-2881781/",
+      "summary": "Vor wenigen Tagen ist in Kappel/SO die bisher grösste Batterie eingeweiht worden, um Solarstrom zu speichern. Eine Recherche von SRF zeigt: Der Ausbau in der Schweiz ist rasant. Mit den bereits geplan",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KURZMELDUNGEN - Wirtschaft: Keine Einigung im Millionenstreit zwischen Investor Remo Stoffel und der Bündner Kantonalbank",
+      "url": "https://www.nzz.ch/wirtschaft/wirtschaft-keine-einigung-im-millionenstreit-zwischen-investor-remo-stoffel-und-der-buendner-kantonalbank-ld.10013650",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Juli in der Südostschweiz Eure Schönsten Leserbilder des Monats",
+      "url": "https://www.suedostschweiz.ch/graubuenden/juli-in-der-suedostschweiz-eure-schoensten-leserbilder-des-monats-1946440",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Galderma muss für US-Zulassung von Mittel gegen Falten nachbessern",
+      "url": "https://www.watson.ch/schweiz/gesundheit/190821978-galderma-muss-fuer-us-zulassung-von-mittel-gegen-falten-nachbessern",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Cédric Zesiger will zurück in die Schweiz wechseln",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-cedric-zesiger-will-zurueck-in-die-schweiz-wechseln",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Fünf schielen auf den Sitz im Schloss",
+      "url": "https://www.freiburger-nachrichten.ch/story/273502/f%C3%BCnf-schielen-auf-den-sitz-im-schloss",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wie Gewächshausgemüse vom Gewerbeprodukt zum landwirtschaftlichen Erzeugnis wurde",
+      "url": "https://www.freiburger-nachrichten.ch/story/273500/wie-gew%C3%A4chshausgem%C3%BCse-vom-gewerbeprodukt-zum-landwirtschaftlichen-erzeugnis-wurde",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Seeländisches Turnfest mit Hitzetest",
+      "url": "https://www.freiburger-nachrichten.ch/story/273497/seel%C3%A4ndisches-turnfest-mit-hitzetest",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Open Air Kino Murten",
+      "url": "https://www.freiburger-nachrichten.ch/story/227647/open-air-kino-murten",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Denver und Dallas im Beschaulichen Grenchen",
+      "url": "https://insideparadeplatz.ch/2026/07/01/denver-und-dallas-im-beschaulichen-grenchen/",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Hiv Biotech Gilead Zuger Chef Schlägt um Sich",
+      "url": "https://insideparadeplatz.ch/2026/07/01/hiv-biotech-gilead-zuger-chef-schlaegt-um-sich/",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Uni Spital Zürich 900 Betten 11000 Crew Null Ventilatoren",
+      "url": "https://insideparadeplatz.ch/2026/07/01/uni-spital-zuerich-900-betten-11000-crew-null-ventilatoren/",
+      "summary": "",
+      "published": "2026-07-01T06:01:30.433640+00:00"
     }
   ]
 }
