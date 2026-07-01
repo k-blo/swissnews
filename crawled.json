@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-01T01:32:02.636869+00:00",
+  "generated": "2026-07-01T02:01:39.546654+00:00",
   "date": "2026-07-01",
-  "count": 51,
+  "count": 55,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -359,6 +359,34 @@
       "url": "https://www.watson.ch/digital/international/745600376-us-regierung-hebt-blockade-von-anthropics-ki-modellen-auf",
       "summary": "",
       "published": "2026-07-01T01:32:02.636869+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Präsidiale Einkommenserklärung: Krypto-Geschäfte brachten Trump 2025 über eine Milliarde ein",
+      "url": "https://www.tagesanzeiger.ch/krypto-donald-trump-einkommenserklaerung-2025-offen-gelegt-227586118782",
+      "summary": "Seit Amtsantritt sprudeln die Trumps Gewinne durch Krypto-Geschäfte. Das geht aus seiner fast 1000 Seiten langen Erklärung hervor. Doch auch ein paar Zuwendungen fallen ins Auge.",
+      "published": "2026-07-01T02:01:39.546654+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Schützengesellschaft Safenwil am Eidg Schützenfest in Chur",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/schuetzengesellschaft-safenwil-am-eidg-schuetzenfest-in-chur-ld.4195459",
+      "summary": "",
+      "published": "2026-07-01T02:01:39.546654+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Schulabschlussfeier auf dem Berghof mit Hitziger Note",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/schulabschlussfeier-auf-dem-berghof-mit-hitziger-note-ld.4195446",
+      "summary": "",
+      "published": "2026-07-01T02:01:39.546654+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "World Liberty: Krypto-Geschäfte brachten Trump über eine Milliarde ein",
+      "url": "https://www.watson.ch/international/usa/337091156-world-liberty-krypto-geschaefte-brachten-trump-ueber-eine-milliarde-ein",
+      "summary": "",
+      "published": "2026-07-01T02:01:39.546654+00:00"
     }
   ]
 }
