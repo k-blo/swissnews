@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-01T01:01:30.379477+00:00",
+  "generated": "2026-07-01T01:32:02.636869+00:00",
   "date": "2026-07-01",
-  "count": 46,
+  "count": 51,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -324,6 +324,41 @@
       "url": "https://www.watson.ch/schweiz/wallis/435736070-crans-montanas-gemeindepraesident-feraud-zieht-bilanz-nach-katastrophe",
       "summary": "",
       "published": "2026-07-01T01:01:30.379477+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Blake Lively vs. Justin Baldoni: Jetzt fordert sie Millionen",
+      "url": "https://www.20min.ch/story/blake-lively-justin-baldoni-rechtsstreit-millionen-forderung-uebernahme-anwaltskosten-103594052",
+      "summary": "Nach der Beilegung eines Rechtsstreits um den Film «Nur noch ein einziges Mal» gibt es eine hohe Geldforderung. Wie das Team von Justin Baldoni darauf reagiert, ist noch nicht bekannt.",
+      "published": "2026-07-01T01:32:02.636869+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Irland übernimmt EU-Ratsvorsitz",
+      "url": "https://www.zentralplus.ch/news/irland-uebernimmt-eu-ratsvorsitz-2881768/",
+      "summary": "Die Europäische Union hat seit Mittwoch einen neuen Vorsitz. Irland übernimmt für die nächsten sechs Monate die EU-Ratpräsidentschaft. In dieser Rolle leitet Irland unter anderem Ministertreffen und v",
+      "published": "2026-07-01T01:32:02.636869+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Jugi Gipf Oberfrick am Turnfest in Seengen",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/jugi-gipf-oberfrick-am-turnfest-in-seengen-ld.4195466",
+      "summary": "",
+      "published": "2026-07-01T01:32:02.636869+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Guter Auftakt für Aargauer Duo an der Junioren Ol Wm",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/guter-auftakt-fuer-aargauer-duo-an-der-junioren-ol-wm-ld.4195463",
+      "summary": "",
+      "published": "2026-07-01T01:32:02.636869+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Regierung hebt Blockade von Anthropics KI-Modellen auf",
+      "url": "https://www.watson.ch/digital/international/745600376-us-regierung-hebt-blockade-von-anthropics-ki-modellen-auf",
+      "summary": "",
+      "published": "2026-07-01T01:32:02.636869+00:00"
     }
   ]
 }
