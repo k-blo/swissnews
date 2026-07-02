@@ -7,23 +7,23 @@
     "etag": "W/\"176a1-YVBnXhWfuB2wD63oapCc4W+zV0c\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"10939-U51xAQRKAi1P25NmuDpkViCX8hM\""
+    "etag": "W/\"10586-AFaCJuUEvuZZOvNy4k1OLCT2Fyw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"f65a-DieE77gkLJOmwqlR+0SmlSXBj/k\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Thu, 02 Jul 2026 22:56:25 GMT"
+    "last_modified": "Thu, 02 Jul 2026 23:25:14 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Thu, 02 Jul 2026 23:01:30 GMT"
+    "last_modified": "Thu, 02 Jul 2026 23:31:36 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
-    "last_modified": "Thu, 02 Jul 2026 21:11:04 GMT",
-    "etag": "\"1783026664\""
+    "last_modified": "Thu, 02 Jul 2026 23:10:56 GMT",
+    "etag": "\"1783033856\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Thu, 02 Jul 2026 23:01:05 GMT"
+    "last_modified": "Thu, 02 Jul 2026 23:31:07 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -33,15 +33,15 @@
     "etag": "W/\"f105-WVI8SLQl9ITcvMArn2tMPDXQwR8\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"fa42-QTRsZhdZdS0dW1tyEI72UMq+tHU\""
+    "etag": "W/\"fa42-FZllffEL/VN35QZ8/My/84VrLFc\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Thu, 02 Jul 2026 22:33:55 GMT",
-    "etag": "\"1783031635\""
+    "last_modified": "Thu, 02 Jul 2026 23:23:38 GMT",
+    "etag": "\"1783034618\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Thu, 02 Jul 2026 22:33:55 GMT",
-    "etag": "\"1783031635\""
+    "last_modified": "Thu, 02 Jul 2026 23:23:38 GMT",
+    "etag": "\"1783034618\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"29280-LMicy/XTPKgc+EZ8E03YDgogPs8\""
@@ -51,8 +51,8 @@
     "etag": "\"1782825428\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Thu, 02 Jul 2026 23:00:31 GMT",
-    "etag": "W/\"1783033231-gzip\""
+    "last_modified": "Thu, 02 Jul 2026 23:15:33 GMT",
+    "etag": "W/\"1783034133-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Thu, 02 Jul 2026 14:45:31 GMT",
