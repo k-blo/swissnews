@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-02T08:02:26.983629+00:00",
+  "generated": "2026-07-02T08:32:20.286568+00:00",
   "date": "2026-07-02",
-  "count": 324,
+  "count": 359,
   "articles": [
     {
       "source": "Blick",
@@ -2270,6 +2270,251 @@
       "url": "https://www.infosperber.ch/gesundheit/public-health/belastung-mit-zwei-verbotenen-pfas-sinkt-weltweit/",
       "summary": "",
       "published": "2026-07-02T08:02:26.983629+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Selbstfahrende Autos – Mehr Stau, weil weniger Menschen hinter dem Steuer sitzen?",
+      "url": "https://www.srf.ch/news/schweiz/selbstfahrende-autos-mehr-stau-weil-weniger-menschen-hinter-dem-steuer-sitzen",
+      "summary": "Autonomes Fahren: Der Kanton Aargau stellt sich auf Mehrverkehr ein und plant voraus.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Grösste Abspaltung seit der Reformation: Papst schmeisst Piusbrüder und ihre Anhänger aus der Kirche",
+      "url": "https://www.blick.ch/schweiz/groesste-abspaltung-seit-der-reformation-papst-schmeisst-piusbrueder-und-ihre-anhaenger-aus-der-kirche-id22076863.html",
+      "summary": "Es ist offiziell: Papst schmeisst Piusbrüder und ihre Anhänger aus der Kirche.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Auch Schweizer: Vatikan schliesst erzkonservative Bischöfe aus",
+      "url": "https://www.20min.ch/story/vatikan-auch-schweizer-vatikan-schliesst-erzkonservative-bischoefe-aus-103594997",
+      "summary": "Gegen den ausdrücklichen Willen des Papstes haben die erzkonservativen Piusbrüder in der Schweiz vier Bischöfe geweiht. Das hat nun schwerwiegende Konsequenzen.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "11-Jähriger fährt mit Pick-up in Mönchsgruppe – 8 Tote",
+      "url": "https://www.20min.ch/story/thailand-11-jaehriger-faehrt-mit-pick-up-in-moenchsgruppe-8-tote-103594987",
+      "summary": "In Thailand kam es zu einem tragischen Unfall. Ein 11-Jähriger hat das Fahrzeug seiner Eltern gestohlen und verlor wohl die Kontrolle darüber. Dabei fuhr er in eine Gruppe von Mönchen.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mit Chemo begonnen: Nara Smiths Tochter Whimsy Lou (2) hat Krebs",
+      "url": "https://www.20min.ch/story/nara-smith-tochter-whimsy-lou-2-ist-an-krebs-erkrankt-103594953",
+      "summary": "Nara Smith gibt auf Social Media ein trauriges Familienupdate: Ihre zweijährige Tochter Whimsy Lou ist an Krebs erkrankt. Die Kleine hat mit einer Chemotherapie begonnen.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Harvey Weinstein nach Herzversagen in Klinik",
+      "url": "https://www.20min.ch/story/harvey-weinstein-nach-herzversagen-im-spital-zustand-noch-kritisch-103594923",
+      "summary": "Harvey Weinstein liegt im Krankenhaus: Der frühere Filmmogul erlitt im Gefängnis auf Rikers Island ein Herzversagen infolge einer Lungenentzündung. Er ist weiterhin in Behandlung.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "156 Opfer identifiziert: Frauen betäubt und missbraucht – Schlag gegen Online-Gruppen",
+      "url": "https://www.tagesanzeiger.ch/europol-schlag-gegen-netzwerk-von-maennern-die-partnerinnen-missbrauchen-807615273545",
+      "summary": "Es sind keine Fremden, sondern Partner: Männer betäubten Frauen in ihrem eigenen Zuhause und missbrauchten sie. Europol hat nun erstmals digitale Netzwerke hinter diesen Taten zerschlagen.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Friedensbotschaft über Manhattan: Paar erklimmt Antenne des Empire State Buildings, verlobt sich – und wird abgeführt",
+      "url": "https://www.tagesanzeiger.ch/heiratsantrag-auf-dem-empire-state-building-paar-festgenommen-250508705873",
+      "summary": "Zwei bekannte Rooftopper balancieren ohne Sicherung auf der Antenne des Wolkenkratzers und entrollen ein Banner. Der anschliessende Heiratsantrag in 443 Metern Höhe endet mit einer Festnahme.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview zu Ernährung und Psyche: Macht uns falsches Essen aggressiv?",
+      "url": "https://www.tagesanzeiger.ch/ernaehrung-wie-omega-3-aggression-um-35-prozent-senkt-354676579630",
+      "summary": "Timur Liwinski, Forscher der Uni Basel, erklärt, weshalb Gefängnisinsassen durch eine umgestellte Ernährung friedlicher wurden – und was das für die Allgemeinheit bedeutet.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sinkende Flugpreise: Teuerung bleibt in der Schweiz im Juni stabil",
+      "url": "https://www.tagesanzeiger.ch/schweizer-inflation-jahresteuerung-im-juni-bei-0-5-prozent-775768964658",
+      "summary": "Die Inflation bleibt auf niedrigem Niveau. Steigende Hotelpreise und teureres Gemüse werden durch sinkende Flug- und Heizölpreise aufgewogen.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Nach Murgängen: Sustenpassstrasse wieder für den Verkehr freigegeben",
+      "url": "https://www.bernerzeitung.ch/sustenpassstrasse-nach-murgaengen-wieder-offen-228816999410",
+      "summary": "Die Strasse zwischen Wassen und Innertkirchen ist seit Donnerstag wieder normal befahrbar.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Am Lachenkanal in Thun: Velofahrende dürfen neu den Fussweg benutzen",
+      "url": "https://www.bernerzeitung.ch/thun-fussweg-am-lachenkanal-neu-fuer-velos-freigegeben-213331070680",
+      "summary": "Die Stadt Thun gibt den bisher verbotenen Abschnitt zwischen Lachen­weg und Strand­badweg für den Veloverkehr frei. Es gilt Schritt­tempo, schnelle E-Bikes bleiben verboten.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Eröffnung 2027 geplant: Christoph Merian Stiftung baut das Cartoonmuseum Basel aus",
+      "url": "https://www.bazonline.ch/cartoonmuseum-basel-christoph-merian-stiftung-baut-aus-852476464610",
+      "summary": "Das Museum bekommt Anfang 2027 zusätzliche 300 Quadratmeter an der St. Alban-Vorstadt. Die Besucherzahlen haben sich in 30 Jahren verfünffacht – das Museum stösst an seine Grenzen.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bundesrat spaziert durch Luzern – dann passiert das",
+      "url": "https://www.zentralplus.ch/news/bundesrat-spaziert-durch-luzern-dann-passiert-das-2882145/",
+      "summary": "Umweltminister Albert Rösti ist am Mittwoch bei einem Besuch in Luzern von Klimaaktivistinnen und Klimaaktivisten begleitet und gestört worden. Das Drop-Kollektiv fordert seinen Rücktritt und wirft ih",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Chef von Swiss Re Alternative Capital Partners tritt ab",
+      "url": "https://www.finews.ch/news/versicherungen/72778-chef-von-swiss-re-alternative-capital-partners-tritt-ab-christopher-minter-martin-zingg-ruecktritt-finanzplatz-schweiz",
+      "summary": "Christopher Minter hat seine Funktion als Leiter von Alternative Capital Partners bei Swiss Re aufgegeben. Seine Nachfolge übernimmt Martin Zingg, der bisher den Bereich Corporate Development and Stra",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Wenger Plattner: Technologie- und Datenschutzspezialist als neuer Partner",
+      "url": "https://www.finews.ch/news/finanzplatz/72776-wenger-plattner-anwaltskanzlei-neuer-partner-dirk-spacek-zurich-ip-it-datenschutz",
+      "summary": "Die Wirtschaftskanzlei Wenger Plattner verstärkt ihre Practice Group IP/IT &amp; Datenschutz. Per 1. Juli 2026 trat der Technologie-, IT- und Datenschutzexperte Dirk Spacek als neuer Partner in die Ka",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Sozialwerke in Schieflage: Der IV droht in den nächsten fünf Jahren das Geld auszugehen – und auch bei der AHV sieht es wieder schlechter aus",
+      "url": "https://www.nzz.ch/schweiz/sozialwerke-in-schieflage-der-iv-droht-in-den-naechsten-fuenf-jahren-das-geld-auszugehen-und-auch-bei-der-ahv-sieht-es-wieder-schlechter-aus-ld.10013315",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
+      "url": "https://www.nzz.ch/wirtschaft/niederlage-vor-eugh-google-muss-eu-rekordstrafe-zahlen-ld.10013841",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Konzern muss EU-Rekordstrafe zahlen",
+      "url": "https://www.persoenlich.com/digital/konzern-muss-eu-rekordstrafe-zahlen",
+      "summary": "Der Europäische Gerichtshof hat die letzte Beschwerdemöglichkeit ausgeschöpft: Das Bussgeld ist rechtskräftig.",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Schweizer Monat",
+      "title": "«Die Schweiz läuft erst los, wenn die anderen schon in die erste Kurve einbiegen»",
+      "url": "https://schweizermonat.ch/die-schweiz-laeuft-erst-los-wenn-die-anderen-schon-in-die-erste-kurve-einbiegen/",
+      "summary": "Thomas Zurbuchen kritisiert die Schwäche der Schweiz in der Weltraumforschung. Der frühere Forschungschef der Nasa spricht über unwissenschaftliche Wissenschafter – und verrät, ob es Ausserirdische gi",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Finance Forum Zürich",
+      "url": "https://www.bilanz.ch/finance-forum-zuerich/4b7788k",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "10 Jahre Verein Sterbehospiz Solothurn",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/10-jahre-verein-sterbehospiz-solothurn-ld.4196282",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Grenchen Veranstaltungen für das Wochenende",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/grenchen-veranstaltungen-fuer-das-wochenende-ld.4196251",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Einsamer Fan trotz beim Public Viewing dem Regen",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-einsamer-fan-trotz-beim-public-viewing-dem-regen",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sustenpassstrasse nach Unwetter wieder offen",
+      "url": "https://www.watson.ch/schweiz/auto/477051980-sustenpassstrasse-nach-unwetter-wieder-offen",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vatikan exkommuniziert sechs Beteiligte der Bischofsweihen im Wallis",
+      "url": "https://www.watson.ch/international/papst/302697987-vatikan-exkommuniziert-sechs-beteiligte-der-bischofsweihen-im-wallis",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump gibt sich als Arzt – und legt KI-Promis Fake-Aussagen in den Mund",
+      "url": "https://www.watson.ch/international/das-ist-nicht-normal-ticker/822761134-trump-gibt-sich-als-arzt-und-legt-ki-promis-fake-aussagen-in-den-mund",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ex-CEO der Solothurner Spitäler kassiert eine halbe Million zu viel",
+      "url": "https://www.watson.ch/schweiz/solothurn/234954990-ex-ceo-der-solothurner-spitaeler-kassiert-eine-halbe-million-zu-viel",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frauen betäubt und missbraucht – Schlag gegen Online-Gruppen",
+      "url": "https://www.watson.ch/international/polizeirapport/821400773-frauen-betaeubt-und-missbraucht-schlag-gegen-online-gruppen",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nachtschicht: Diese Frauen haben das Jahr bislang enorm verschönert",
+      "url": "https://www.watson.ch/blogs/nachtschicht/696783568-nachtschicht-diese-frauen-haben-das-jahr-bislang-enorm-verschoenert",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fehler in Prognosen zu Abstimmungen: Finanzkontrolle zieht Fazit",
+      "url": "https://www.watson.ch/schweiz/bundesrat/154309991-fehler-in-prognosen-zu-abstimmungen-finanzkontrolle-zieht-fazit",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM: Bitte kein Penaltyschiessen! Schweizer Nati-Geschichte voller Dramen",
+      "url": "https://www.watson.ch/sport/fussball/192339091-wm-bitte-kein-penaltyschiessen-schweizer-nati-geschichte-voller-dramen",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Schweiz trifft auf Algerien: Wo schaust du den Match?",
+      "url": "https://www.freiburger-nachrichten.ch/story/273529/die-schweiz-trifft-auf-algerien-wo-schaust-du-den-match",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Gegner bis ins letzte Detail analysiert»: Yakin blickt optimistisch auf WM-Sechzehntelfinale",
+      "url": "https://www.bote.ch/nachrichten/sport/murat-yakin-blickt-zuversichtlich-auf-das-wm-duell-mit-algerien-art-1710936",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Alle Bezahlen Strom Zuschlag Konzerne Erhalten Ihn Zurück",
+      "url": "https://www.infosperber.ch/wirtschaft/alle-bezahlen-strom-zuschlag-konzerne-erhalten-ihn-zurueck/",
+      "summary": "",
+      "published": "2026-07-02T08:32:20.286568+00:00"
     }
   ]
 }
