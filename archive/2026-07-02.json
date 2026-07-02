@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-01T23:32:06.668307+00:00",
+  "generated": "2026-07-02T00:02:12.579976+00:00",
   "date": "2026-07-02",
-  "count": 36,
+  "count": 39,
   "articles": [
     {
       "source": "Blick",
@@ -254,6 +254,27 @@
       "url": "https://www.watson.ch/sport/liveticker/147512649-usa-bosnien-herzegowina-wm-sechzehntelfinal-live-in-ticker-und-tv",
       "summary": "",
       "published": "2026-07-01T23:32:06.668307+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sachbeschädigung bei Räumung im Klybeck: Polizei setzt Wasserwerfer ein",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/269346792-sachbeschaedigung-bei-raeumung-im-klybeck-polizei-setzt-wasserwerfer-ein",
+      "summary": "",
+      "published": "2026-07-02T00:02:12.579976+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Belgien schlägt Senegal nach später Wende im Sechzehntelfinal",
+      "url": "https://www.watson.ch/sport/fussball/302702709-wm-2026-belgien-schlaegt-senegal-nach-spaeter-wende-im-sechzehntelfinal",
+      "summary": "",
+      "published": "2026-07-02T00:02:12.579976+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nasa fürchtet wegen El Niño Zigtausende Tote und immense Kosten",
+      "url": "https://www.watson.ch/international/klima/166816265-nasa-fuerchtet-wegen-el-nino-zigtausende-tote-und-immense-kosten",
+      "summary": "",
+      "published": "2026-07-02T00:02:12.579976+00:00"
     }
   ]
 }
