@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-02T22:32:07.176995+00:00",
+  "generated": "2026-07-02T22:34:55.601936+00:00",
   "date": "2026-07-03",
-  "count": 15,
+  "count": 16,
   "articles": [
     {
       "source": "Watson",
@@ -107,6 +107,13 @@
       "url": "https://www.bote.ch/nachrichten/kultur/taylor-swift-hochzeit-soll-bereits-stattgefunden-haben-art-1711117",
       "summary": "",
       "published": "2026-07-02T22:32:07.176995+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cristiano Ronaldo will Portugal-Karriere nach der WM wohl beenden",
+      "url": "https://www.watson.ch/sport/cristiano-ronaldo/497219595-cristiano-ronaldo-will-portugal-karriere-nach-der-wm-wohl-beenden",
+      "summary": "",
+      "published": "2026-07-02T22:34:55.601936+00:00"
     }
   ]
 }
