@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-03T00:49:38.434327+00:00",
+  "generated": "2026-07-03T01:03:26.593027+00:00",
   "date": "2026-07-03",
-  "count": 26,
+  "count": 27,
   "articles": [
     {
       "source": "Watson",
@@ -184,6 +184,13 @@
       "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-marko-arnautovic-tritt-aus-nationalteam-zurueck",
       "summary": "",
       "published": "2026-07-03T00:49:38.434327+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Babyboom im Spital: 17 Pflegerinnen sind schwanger",
+      "url": "https://www.20min.ch/story/us-bundesstaat-ohio-babyboom-im-spital-17-pflegerinnen-sind-schwanger-103595495",
+      "summary": "Im Miami Valley Hospital in Dayton sind 17 schwangere Pflegefachfrauen derselben Geburtsabteilung gleichzeitig schwanger. Das Spital hat damit seinen eigenen Rekord übertroffen.",
+      "published": "2026-07-03T01:03:26.593027+00:00"
     }
   ]
 }
