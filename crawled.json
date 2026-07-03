@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-03T13:02:04.869464+00:00",
+  "generated": "2026-07-03T13:32:07.631982+00:00",
   "date": "2026-07-03",
-  "count": 619,
+  "count": 649,
   "articles": [
     {
       "source": "Watson",
@@ -4335,6 +4335,216 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/unfall-in-eich-19-jaehrige-stirbt-bei-aufbau-fuer-sommerlager-art-1711069",
       "summary": "",
       "published": "2026-07-03T13:02:04.869464+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Brand in Aigle VD: Unbekannte Person tot in Wohnung aufgefunden",
+      "url": "https://www.blick.ch/schweiz/westschweiz/waadt/brand-in-aigle-vd-unbekannte-person-tot-in-wohnung-aufgefunden-id22081202.html",
+      "summary": "Bei einem Wohnungsbrand in Aigle VD starb am Freitagmorgen eine Person. Die Feuerwehr fand die Leiche im Haus an der Rue du Rhône. Die Brandursache ist unklar, Ermittlungen wurden eingeleitet.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Feuerwehr entdeckt nach dem Löschen eine Leiche im Haus",
+      "url": "https://www.20min.ch/story/aigle-vd-feuerwehr-entdeckt-nach-dem-loeschen-eine-leiche-im-haus-103596024",
+      "summary": "Bei einem Brand in einem Wohnhaus in Aigle ist am frühen Freitagmorgen eine Person ums Leben gekommen. Die Brandursache ist noch unklar und wird untersucht.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tibet-Protest: Mann setzt sich vor UN-Hauptquartier in New York selbst in Brand",
+      "url": "https://www.tagesanzeiger.ch/selbstverbrennung-vor-un-in-new-york-mann-stirbt-558277708478",
+      "summary": "Ein 52-Jähriger hat sich vor dem Hauptsitz der Vereinten Nationen in New York selbst angezündet und ist gestorben. Er hielt eine tibetische Flagge hoch.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rekord beim Schwarzfahren: ÖV-Verband pocht auf Nulltoleranz bei Billettkontrollen",
+      "url": "https://www.tagesanzeiger.ch/schwarzfahren-voev-fordert-nulltoleranz-bei-billettkontrollen-609964497842",
+      "summary": "Nach dem Rekord bei den Schwarzfahrten begründet der Branchenverband seine harte Linie. Die meisten Reisenden ohne Ticket würden bewusst schwarzfahren.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Erfolg am Elite16: Die Schweizerinnen überzeugen in Gstaad",
+      "url": "https://www.tagesanzeiger.ch/die-schweizerinnen-ueberzeugen-in-gstaad-650677714964",
+      "summary": "Auch Mäder und Kernen gewinnen endlich: Beim Elite16-Turnier in Gstaad qualifizieren sich gleich drei Schweizer Frauen-Duos direkt für den Achtelfinal.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Cédric Zesiger zu YB: Dieser Transfer ist ein Signal – auch an das Team und den Captain",
+      "url": "https://www.bernerzeitung.ch/zesiger-zu-yb-warum-der-wechsel-ein-signal-der-young-boys-ist-602533114173",
+      "summary": "Die Young Boys verstärken die Innenverteidigung mit einem Spieler, der ein sehr ähnliches Profil hat wie der Captain. Der Transfer ist nötig. Doch was passiert mit Benito?",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Der Sofa-Kritiker: Wann kommt endlich Roger Federer?",
+      "url": "https://www.bernerzeitung.ch/wm-2026-der-schweiz-fehlen-stars-auf-den-zuschauerraengen-380063629577",
+      "summary": "Während Spanien Rosalía und Norwegen Channing Tatum hat, bekommen wir Parmelin und Infantino. Auf den Fanrängen ist für die Schweiz an der WM 2026 noch deutlich Luft nach oben.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "ITA: 340 Kilogramm Kokain in Bananen",
+      "url": "https://www.zentralplus.ch/news/ita-340-kilogramm-kokain-in-bananen-2882597/",
+      "summary": "Die italienischen Behörden haben im Nordwesten des Landes, am Hafen von Vado Ligure, 340 Kilogramm Kokain beschlagnahmt. Die Ware habe einen Wert von rund 120 Millionen Euro, so die italienische Finan",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zusammenarbeit gegen Web-Kriminalität",
+      "url": "https://www.zentralplus.ch/news/zusammenarbeit-gegen-web-kriminalitaet-2882596/",
+      "summary": "Kriminelle Organisationen rekrutieren zunehmend Jugendliche über Snapchat, Tiktok oder Telegram. Sie versprechen etwa mit Aufträgen und Kurierarbeiten schnelles und einfaches Geld. Die Westschweizer K",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Führungswechsel bei Gas&Com",
+      "url": "https://www.inside-it.ch/fuehrungswechsel-bei-gasandcom-20260703",
+      "summary": "Nach zehn Jahren übergibt Sergio Milesi die operative Führung des Unternehmens an Alex Halbeisen.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Sequotech-Gruppe erhält viel Geld für Übernahmen",
+      "url": "https://www.inside-it.ch/sequotech-gruppe-erhaelt-viel-geld-fuer-ubernahmen-20260703",
+      "summary": "Sagard Private Equity Solutions investiert 130 Millionen Franken in die IT-Dienstleistungsgruppe.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Effizient, abgezockt, reif: Nach dem starken Auftritt gegen Algerien dürfen die Schweizer Fussballer vom WM-Viertelfinal träumen",
+      "url": "https://www.nzz.ch/sport/effizient-abgezockt-reif-nach-dem-starken-auftritt-gegen-algerien-duerfen-die-schweizer-fussballer-vom-wm-viertelfinal-traeumen-ld.10014013",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Von Marilyn bis Malcolm X – zehn amerikanische Bild-Ikonen, die Sie vielleicht noch nicht kennen",
+      "url": "https://www.nzz.ch/fotografie/von-marilyn-bis-malcolm-x-zehn-amerikanische-bild-ikonen-die-sie-vielleicht-noch-nicht-kennen-ld.10013522",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Thailand muss Frauen und Kinder besser schützen",
+      "url": "https://www.nzz.ch/meinung/thailand-muss-frauen-und-kinder-besser-schuetzen-ld.10013866",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Neuer Markenauftritt begleitet Wachstum",
+      "url": "https://www.persoenlich.com/prcorporate-communication/neuer-markenauftritt-begleitet-wachstum",
+      "summary": "Die Eventagentur hat neue Büros, neue Standorte im Ausland und dazu nun auch einen überarbeiteten Auftritt.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Bird» macht den Abflug – E-Scooter-Anbieter «Voi» übernimmt in Schaffhausen",
+      "url": "https://www.shn.ch/region/stadt/2026-07-03/bird-macht-den-abflug-e-scooter-anbieter-voi-uebernimmt-in-schaffhausen",
+      "summary": "Der bisherige Anbieter «Bird» zieht sich aus Schaffhausen zurück. Nun rollen die E-Scooter der Marke «Voi» durch die Munotstadt. Der Wechsel soll laut der Stadt ohne Unterbruch erfolgen.",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Naturenergie Plant Felsaushub am Rhein bei Rheinfelden",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/naturenergie-plant-felsaushub-am-rhein-bei-rheinfelden-ld.4196978",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Maienzug in Aarau Stadtrat Spricht zur Bevölkerung",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/maienzug-in-aarau-stadtrat-spricht-zur-bevoelkerung-ld.4197384",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Fms Zug 142 Abschlüsse im Gemeindesaal Steinhausen",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/fms-zug-142-abschluesse-im-gemeindesaal-steinhausen-ld.4186467",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Obwalden Svp Verliert Sitz in der Kantonsratsleitung",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/obwalden-svp-verliert-sitz-in-der-kantonsratsleitung-ld.4193526",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Gurtnellen und Altdorf Zwei Unfälle mit Verletzten",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/gurtnellen-und-altdorf-zwei-unfaelle-mit-verletzten-ld.4197304",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bencic in Wimbledon nach Krimi gegen Kalinskaja im Achtelfinal",
+      "url": "https://www.watson.ch/sport/belinda-bencic/300517770-bencic-in-wimbledon-nach-krimi-gegen-kalinskaja-im-achtelfinal",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Switzerland Great Since 1291: Hier gibt es Parmelins Cap zum nachkaufen",
+      "url": "https://www.watson.ch/leben/konsum-detailhandel/574895585-switzerland-great-since-1291-hier-gibt-es-parmelins-cap-zum-nachkaufen",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Extreme Trockenheit in der Schweiz – und das Wetter bleibt problematisch",
+      "url": "https://www.watson.ch/schweiz/extremwetter/230377746-extreme-trockenheit-in-der-schweiz-und-das-wetter-bleibt-problematisch",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Baut endlich Klima-Anlagen für die Energiewende!",
+      "url": "https://www.freiburger-nachrichten.ch/story/274262/baut-endlich-klimaanlagen-f%C3%BCr-die-energiewende",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Adieu Holperstrasse – hallo Baustelle",
+      "url": "https://www.freiburger-nachrichten.ch/story/274215/adieu-holperstrasse-hallo-baustelle",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "SVP verliert den Kampf um Sitze in der Ratsleitung – und kritisiert die Wahl",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/obwalden-svp-verliert-sitz-in-der-kantonsratsleitung-art-1711212",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Töfffahrer stürzt bei Überholmanöver, E-Bike-Fahrer kollidiert mit Pfosten",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/gurtnellen-und-altdorf-zwei-unfaelle-mit-verletzten-art-1711211",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "45 Personen wechseln in Emmen den Arbeitgeber",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/45-personen-wechseln-in-emmen-den-arbeitgeber-art-1711207",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mit Zeugnis, Rose und viel Applaus in die Zukunft: Die FMS verabschiedet ihre jungen Fachkräfte",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/fms-zug-142-abschluesse-im-gemeindesaal-steinhausen-art-1711205",
+      "summary": "",
+      "published": "2026-07-03T13:32:07.631982+00:00"
     }
   ]
 }
