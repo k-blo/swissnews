@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-03T07:02:13.373535+00:00",
+  "generated": "2026-07-03T07:05:45.411918+00:00",
   "date": "2026-07-03",
-  "count": 268,
+  "count": 271,
   "articles": [
     {
       "source": "Watson",
@@ -1878,6 +1878,27 @@
       "url": "https://www.watson.ch/sport/videos/498702980-wm-2026-public-viewing-um-5-uhr-morgens-watson-war-live-dabei",
       "summary": "",
       "published": "2026-07-03T07:02:13.373535+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "120 Hunde eingeschläfert: Tierquälerei oder häusliche Gewalt? Solothurner Regierung informiert im Fall Ramiswil",
+      "url": "https://www.tagesanzeiger.ch/bodenhof-ramiswil-solothurn-praesentiert-untersuchungsergebnisse-941136326539",
+      "summary": "Im November 2025 liess der Kanton Solothurn über 120 Hunde einschläfern, 42 Pferde wurden an einen anderen Ort gebracht. Das Vorgehen des Veterinäramts wurde kritisiert. Heute präsentiert der Regierun",
+      "published": "2026-07-03T07:05:45.411918+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Offene Barrieren in Domat Ems Technik ist Nicht Alles",
+      "url": "https://www.suedostschweiz.ch/graubuenden/offene-barrieren-in-domat-ems-technik-ist-nicht-alles-1948100",
+      "summary": "",
+      "published": "2026-07-03T07:05:45.411918+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Appenzell Innerrhoden Verbietet Wasserentnahmen aus Bächen",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/appenzell-innerrhoden-verbietet-wasserentnahmen-aus-baechen-ld.4196982",
+      "summary": "",
+      "published": "2026-07-03T07:05:45.411918+00:00"
     }
   ]
 }
