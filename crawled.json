@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-03T00:02:10.503846+00:00",
+  "generated": "2026-07-03T00:32:14.903070+00:00",
   "date": "2026-07-03",
-  "count": 21,
+  "count": 25,
   "articles": [
     {
       "source": "Watson",
@@ -149,6 +149,34 @@
       "url": "https://www.watson.ch/sport/liveticker/259779433-portugal-gegen-kroatien-wm-sechzehntelfinal-live-in-ticker-und-stream",
       "summary": "",
       "published": "2026-07-02T23:32:28.561996+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Klimanotstand Ade Erste Städte und Gemeinden Kehren zum Normalzustand Zurück",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/klimanotstand-ade-erste-staedte-und-gemeinden-kehren-zum-normalzustand-zurueck",
+      "summary": "",
+      "published": "2026-07-03T00:32:14.903070+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Prognosen der Bund Arbeitet mit Fragwürdigen Zahlen",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/prognosen-der-bund-arbeitet-mit-fragwuerdigen-zahlen",
+      "summary": "",
+      "published": "2026-07-03T00:32:14.903070+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Deutschland Wird aus der Wm Geworfen ist es Nicht Symbolisch ein Land im Niederlagen Modus",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/deutschland-wird-aus-der-wm-geworfen-ist-es-nicht-symbolisch-ein-land-im-niederlagen-modus",
+      "summary": "",
+      "published": "2026-07-03T00:32:14.903070+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweiz gegen Algerien live – WM-Sechzehntelfinal in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/927305227-schweiz-gegen-algerien-live-wm-sechzehntelfinal-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-07-03T00:32:14.903070+00:00"
     }
   ]
 }
