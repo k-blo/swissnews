@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-03T01:32:28.072833+00:00",
+  "generated": "2026-07-03T02:02:09.732546+00:00",
   "date": "2026-07-03",
-  "count": 31,
+  "count": 33,
   "articles": [
     {
       "source": "Watson",
@@ -219,6 +219,20 @@
       "url": "https://www.watson.ch/sport/cristiano-ronaldo/852470768-cristiano-ronaldo-feiert-wm-premiere-doch-sein-traumtor-zaehlt-nicht",
       "summary": "",
       "published": "2026-07-03T01:32:28.072833+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "WM-Sechzehntelfinal: Schweiz – Algerien: Xhaka-Jubiläum und volle Offensivpower – Yakin startet gleich mit Ndoye, Vargas und Manzambi",
+      "url": "https://www.bazonline.ch/fussball-wm-live-schweiz-algerien-im-liveticker-um-5-uhr-304644361766",
+      "summary": "Ausgerechnet der ehemalige Schweizer Nationaltrainer ist im Sechzehntelfinal der Gegner des Teams von Coach Murat Yakin. Die Partie live ab 5 Uhr.",
+      "published": "2026-07-03T02:02:09.732546+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sie fiebern um 5 Uhr morgens mit der Nati? Schicken Sie uns Ihr Fan-Bild!",
+      "url": "https://www.bote.ch/nachrichten/sport/nati-um-5-uhr-morgens-public-viewing-oder-tv-zu-hause-art-1711118",
+      "summary": "",
+      "published": "2026-07-03T02:02:09.732546+00:00"
     }
   ]
 }
