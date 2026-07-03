@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-03T01:03:26.593027+00:00",
+  "generated": "2026-07-03T01:32:28.072833+00:00",
   "date": "2026-07-03",
-  "count": 27,
+  "count": 31,
   "articles": [
     {
       "source": "Watson",
@@ -191,6 +191,34 @@
       "url": "https://www.20min.ch/story/us-bundesstaat-ohio-babyboom-im-spital-17-pflegerinnen-sind-schwanger-103595495",
       "summary": "Im Miami Valley Hospital in Dayton sind 17 schwangere Pflegefachfrauen derselben Geburtsabteilung gleichzeitig schwanger. Das Spital hat damit seinen eigenen Rekord übertroffen.",
       "published": "2026-07-03T01:03:26.593027+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Rund um die Uhr geöffnet – Migros startet Pilotprojekt mit einer Filiale in Herisau",
+      "url": "https://www.srf.ch/news/schweiz/rund-um-die-uhr-geoeffnet-migros-startet-pilotprojekt-mit-einer-filiale-in-herisau",
+      "summary": "Die Migros eröffnete am Donnerstagabend in Herisau die erste Filiale, die rund um die Uhr geöffnet ist.",
+      "published": "2026-07-03T01:32:28.072833+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Portugal schlägt Kroatien dramatisch 2:1 +++ Spanien gewinnt 3:0 gegen Österreich",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-portugal-schlaegt-kroatien-dramatisch-21-spanien-gewinnt-30-gegen-oesterreich-ld.10010036",
+      "summary": "",
+      "published": "2026-07-03T01:32:28.072833+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Portugal gewinnt nach spätem Wahnsinn – Kroatien raus",
+      "url": "https://www.watson.ch/sport/cristiano-ronaldo/259779433-wm-2026-portugal-gewinnt-nach-spaetem-wahnsinn-kroatien-raus",
+      "summary": "",
+      "published": "2026-07-03T01:32:28.072833+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cristiano Ronaldo feiert WM-Premiere – doch sein Traumtor zählt nicht",
+      "url": "https://www.watson.ch/sport/cristiano-ronaldo/852470768-cristiano-ronaldo-feiert-wm-premiere-doch-sein-traumtor-zaehlt-nicht",
+      "summary": "",
+      "published": "2026-07-03T01:32:28.072833+00:00"
     }
   ]
 }
