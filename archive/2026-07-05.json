@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-04T22:32:04.449203+00:00",
+  "generated": "2026-07-04T23:02:07.490763+00:00",
   "date": "2026-07-05",
-  "count": 5,
+  "count": 11,
   "articles": [
     {
       "source": "Blick",
@@ -37,6 +37,48 @@
       "url": "https://www.watson.ch/international/usa/405922349-mann-klettert-auf-eiffelturm-und-hisst-us-flagge-festgenommen",
       "summary": "",
       "published": "2026-07-04T22:32:04.449203+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach Todesfall: Erstes Kinderspital führt Eltern-Notrecht ein",
+      "url": "https://www.20min.ch/story/luzern-nach-todesfall-erstes-kinderspital-fuehrt-eltern-notrecht-ein-103596837",
+      "summary": "Mutter wurde als hysterisch bezeichnet und heimgeschickt: Nach dem Tod eines Einjährigem stärkt das erste Kinderspital die Rechte von Eltern.",
+      "published": "2026-07-04T23:02:07.490763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Frankreich gegen Paraguay: Frankreich führt 1:0, Paraguay mit unsportlichem Störfeuer",
+      "url": "https://www.nzz.ch/sport/frankreich-gegen-paraguay-elfmeter-fuer-frankreich-mbappe-trifft-zum-10-ld.10013897",
+      "summary": "",
+      "published": "2026-07-04T23:02:07.490763+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Alpen: SVP-Nationalrat Wandfluh fordert Speicherseen gegen Trockenheit",
+      "url": "https://www.watson.ch/schweiz/svp/445627027-alpen-svp-nationalrat-wandfluh-fordert-speicherseen-gegen-trockenheit",
+      "summary": "",
+      "published": "2026-07-04T23:02:07.490763+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine widerspricht Moskau: kein Verlust der Stadt Kostjantyniwka",
+      "url": "https://www.watson.ch/international/russland/957668262-ukraine-widerspricht-moskau-kein-verlust-der-stadt-kostjantyniwka",
+      "summary": "",
+      "published": "2026-07-04T23:02:07.490763+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Motorradfahrer in Risch Rotkreuz ZG lebensbedrohlich verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/865517713-motorradfahrer-in-risch-rotkreuz-zg-lebensbedrohlich-verletzt",
+      "summary": "",
+      "published": "2026-07-04T23:02:07.490763+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zehntausende protestieren gegen sexualisierte Gewalt in Frankreich",
+      "url": "https://www.watson.ch/international/frankreich/523655034-zehntausende-protestieren-gegen-sexualisierte-gewalt-in-frankreich",
+      "summary": "",
+      "published": "2026-07-04T23:02:07.490763+00:00"
     }
   ]
 }
