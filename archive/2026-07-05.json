@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-04T22:02:17.642025+00:00",
+  "generated": "2026-07-04T22:32:04.449203+00:00",
   "date": "2026-07-05",
-  "count": 0,
-  "articles": []
+  "count": 5,
+  "articles": [
+    {
+      "source": "Blick",
+      "title": "Trennungsstreit vor Bundesgericht: Multimillionär will, dass seine Frau einen Job sucht",
+      "url": "https://www.blick.ch/schweiz/trennungsstreit-vor-bundesgericht-multimillionaer-will-dass-seine-frau-einen-job-sucht-id22081724.html",
+      "summary": "Sie will mehr Unterhalt, er fordert, dass seine Noch-Frau arbeiten geht: Das Bundesgericht musste sich mit dem Konflikt um das Ehe-Aus eines der reichsten Männer der Schweiz befassen.",
+      "published": "2026-07-04T22:32:04.449203+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Deckel für ambulante Behandlungen: Ärzte laufen Sturm – chillt mal",
+      "url": "https://www.blick.ch/meinung/deckel-fuer-ambulante-behandlungen-aerzte-laufen-sturm-chillt-mal-id22083516.html",
+      "summary": "Pro Tag sollen Ärzte künftig maximal noch zwölf Stunden für ambulante Leistungen verrechnen können. Sie wehren sich mit aller Macht dagegen.",
+      "published": "2026-07-04T22:32:04.449203+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Frankreich gegen Paraguay: Zu Beginn der zweiten Halbzeit macht Frankreich richtig Druck",
+      "url": "https://www.nzz.ch/sport/frankreich-gegen-paraguay-00-zur-halbzeit-frankreich-dominiert-doch-paraguay-schlaegt-sich-wacker-ld.10013897",
+      "summary": "",
+      "published": "2026-07-04T22:32:04.449203+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fc Wil Wollte Jordi Quintilla Verpflichten und Besiegt Gc im Testspiel",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/fc-wil-wollte-jordi-quintilla-verpflichten-und-besiegt-gc-im-testspiel-ld.4197686",
+      "summary": "",
+      "published": "2026-07-04T22:32:04.449203+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann klettert auf Eiffelturm und hisst US-Flagge – festgenommen",
+      "url": "https://www.watson.ch/international/usa/405922349-mann-klettert-auf-eiffelturm-und-hisst-us-flagge-festgenommen",
+      "summary": "",
+      "published": "2026-07-04T22:32:04.449203+00:00"
+    }
+  ]
 }
