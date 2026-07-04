@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-04T09:02:23.601125+00:00",
+  "generated": "2026-07-04T09:32:24.961768+00:00",
   "date": "2026-07-04",
-  "count": 296,
+  "count": 307,
   "articles": [
     {
       "source": "Zentralplus",
@@ -2074,6 +2074,83 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/wallis-sieben-festnahmen-nach-einbruch-in-waffengeschaeft-art-1711363",
       "summary": "",
       "published": "2026-07-04T09:02:23.601125+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nach Bergsturz von Blatten – Aufatmen im hinteren Lötschental: Der ÖV ist zurück",
+      "url": "https://www.srf.ch/news/schweiz/nach-bergsturz-von-blatten-aufatmen-im-hinteren-loetschental-der-oev-ist-zurueck",
+      "summary": "Nach einem Jahr Zwangspause fährt wieder ein Postauto auf die beliebte Fafleralp. Doch dazu braucht es ein Ampelsystem.",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Missionieren an Schulen, Jesus-Jubel an WM: Das Freikirchen-Netzwerk hinter Nati-Star Vargas",
+      "url": "https://www.blick.ch/sport/fussball/nati/missionieren-an-schulen-jesus-jubel-an-wm-das-freikirchen-netzwerk-hinter-nati-star-vargas-id22081817.html",
+      "summary": "Strenggläubige Gruppen nutzen die WM für Missionierungskampagnen. Dazu gehört auch Nati-Stürmer Rubén Vargas, der in der Schweiz Predigten der Freikirche ICF besucht.",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Polizeieinsatz im Wallis: Einbruch in Sittener Waffengeschäft: Polizei fasst mutmassliche Täter",
+      "url": "https://www.tagesanzeiger.ch/einbruch-in-waffengeschaeft-sitten-grossfahndung-im-wallis-531278444070",
+      "summary": "Unbekannte haben in der Nacht auf Freitag ein Waffengeschäft in Sitten ausgeraubt. Die Walliser Polizei hat daraufhin mit Drohnen, Hundestaffel und einem Super-Puma-Helikopter nach den Tätern gefahnde",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "250 Jahre Unabhängigkeit: Warum Amerika Donald Trump überleben wird",
+      "url": "https://www.bernerzeitung.ch/250-jahre-usa-was-trump-von-den-gruendervaetern-trennt-563152558309",
+      "summary": "Revolutionäre gründeten am 4. Juli 1776 die Vereinigten Staaten. Lange ein Vorbild für unterdrückte Länder und Völker weltweit, wirken die USA heute angeschlagen – doch nun winkt den Wählerinnen und W",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "250 Jahr Feier die Usa Feiern Geburtstag und Keiner Geht Hin",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/250-jahr-feier-die-usa-feiern-geburtstag-und-keiner-geht-hin-1949953",
+      "summary": "",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Arbeitsunfall in Göschenen Mann Lebensbedrohlich Verletzt",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/arbeitsunfall-in-goeschenen-mann-lebensbedrohlich-verletzt-ld.4197649",
+      "summary": "",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lia Wälti wechselt zu Brighton und verlässt Juventus bereits wieder",
+      "url": "https://www.watson.ch/sport/fussball/481573360-lia-waelti-wechselt-zu-brighton-und-verlaesst-juventus-bereits-wieder",
+      "summary": "",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Unfall in St.Gallen: 19-Jähriger bei Sturz durch Decke verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/812387153-unfall-in-st-gallen-19-jaehriger-bei-sturz-durch-decke-verletzt",
+      "summary": "",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine und Polen im Zwist: Aussenminister haben sich getroffen",
+      "url": "https://www.watson.ch/international/ukraine/103103106-ukraine-und-polen-im-zwist-aussenminister-haben-sich-getroffen",
+      "summary": "",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Unfall auf Baustelle in Flims: 43-Jähriger wird verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/155833714-unfall-auf-baustelle-in-flims-43-jaehriger-wird-verletzt",
+      "summary": "",
+      "published": "2026-07-04T09:32:24.961768+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Drama auf Baustelle in Göschenen: Arbeiter schwebt nach Sturz in Lebensgefahr",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/arbeitsunfall-in-goeschenen-mann-lebensbedrohlich-verletzt-art-1711365",
+      "summary": "",
+      "published": "2026-07-04T09:32:24.961768+00:00"
     }
   ]
 }
