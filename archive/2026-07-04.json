@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-04T00:32:23.817558+00:00",
+  "generated": "2026-07-04T01:02:21.631406+00:00",
   "date": "2026-07-04",
-  "count": 26,
+  "count": 27,
   "articles": [
     {
       "source": "Zentralplus",
@@ -184,6 +184,13 @@
       "url": "https://www.watson.ch/sport/liveticker/221946656-kolumbien-ghana-live-der-wm-sechzehntelfinal-in-ticker-und-stream",
       "summary": "",
       "published": "2026-07-04T00:32:23.817558+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Angebot Gotthardfestung Sasso San Gottardo",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/angebot-gotthardfestung-sasso-san-gottardo-ld.4181840",
+      "summary": "",
+      "published": "2026-07-04T01:02:21.631406+00:00"
     }
   ]
 }
