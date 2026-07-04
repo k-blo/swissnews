@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-04T23:02:07.490763+00:00",
+  "generated": "2026-07-04T23:32:10.537805+00:00",
   "date": "2026-07-05",
-  "count": 11,
+  "count": 15,
   "articles": [
     {
       "source": "Blick",
@@ -79,6 +79,34 @@
       "url": "https://www.watson.ch/international/frankreich/523655034-zehntausende-protestieren-gegen-sexualisierte-gewalt-in-frankreich",
       "summary": "",
       "published": "2026-07-04T23:02:07.490763+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mann stirbt nach Auseinandersetzung",
+      "url": "https://www.zentralplus.ch/news/mann-stirbt-nach-auseinandersetzung-2882749/",
+      "summary": "Bei einem Public Viewing zur Fussball-WM in der dänischen Hauptstadt Kopenhagen ist es zu einer gewaltsamen Auseinandersetzung gekommen. Ein 32-jähriger Mann aus Schweden wurde dabei so schwer verletz",
+      "published": "2026-07-04T23:32:10.537805+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Frankreich gegen Paraguay: Frankreich siegt 1:0 und steht im Viertelfinal",
+      "url": "https://www.nzz.ch/sport/frankreich-gegen-paraguay-frankreich-siegt-10-und-steht-im-viertelfinal-ld.10013897",
+      "summary": "",
+      "published": "2026-07-04T23:32:10.537805+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mbappé sei Dank: Frankreich müht sich gegen Paraguay in den Viertelfinal",
+      "url": "https://www.watson.ch/sport/frankreich/640756883-mbappe-sei-dank-frankreich-mueht-sich-gegen-paraguay-in-den-viertelfinal",
+      "summary": "",
+      "published": "2026-07-04T23:32:10.537805+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erdbeben in Venezuela: Opferzahl steigt auf fast 3000 Tote",
+      "url": "https://www.watson.ch/international/natur/720737751-erdbeben-in-venezuela-opferzahl-steigt-auf-fast-3000-tote",
+      "summary": "",
+      "published": "2026-07-04T23:32:10.537805+00:00"
     }
   ]
 }
