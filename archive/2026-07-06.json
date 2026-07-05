@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T23:02:11.337295+00:00",
+  "generated": "2026-07-05T23:31:49.506385+00:00",
   "date": "2026-07-06",
-  "count": 24,
+  "count": 26,
   "articles": [
     {
       "source": "NZZ",
@@ -170,6 +170,20 @@
       "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-davidovich-fokina-bei-wimbledon-mit-unfassbarem-punktgewinn",
       "summary": "",
       "published": "2026-07-05T23:02:11.337295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mexiko gegen England live: der WM-Achtelfinal in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/314179008-mexiko-gegen-england-live-der-wm-achtelfinal-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-07-05T23:31:49.506385+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bericht: Russische Hacker stehlen Log-ins britischer Beamter",
+      "url": "https://www.watson.ch/digital/russland/494393643-bericht-russische-hacker-stehlen-log-ins-britischer-beamter",
+      "summary": "",
+      "published": "2026-07-05T23:31:49.506385+00:00"
     }
   ]
 }
