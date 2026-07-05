@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T09:31:50.694516+00:00",
+  "generated": "2026-07-05T10:01:59.094312+00:00",
   "date": "2026-07-05",
-  "count": 229,
+  "count": 248,
   "articles": [
     {
       "source": "Blick",
@@ -1605,6 +1605,139 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/badirestaurant-cloud-1-am-baldeggersee-setzt-auf-events-art-1711396",
       "summary": "",
       "published": "2026-07-05T09:31:50.694516+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweiz wagt diplomatisches Comeback bei Kim Jong-un",
+      "url": "https://www.20min.ch/story/schweiz-eroeffnet-buero-in-nordkorea-103595907",
+      "summary": "Während der Corona-Pandemie schloss die Schweiz ihr Kooperationsbüro in Pyongyang und war damit faktisch nicht mehr in Nordkorea vertreten. Nach sechs Jahren soll es nun wieder eröffnet werden.",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trotz Sanktionen: Schweiz schickt wieder Renten nach Russland",
+      "url": "https://www.20min.ch/story/aufatmen-fuer-ahv-bezueger-trotz-sanktionen-schweiz-schickt-wieder-renten-nach-russland-103595155",
+      "summary": "Rund 60 AHV-Bezüger in Russland und Weissrussland erhalten seit Februar keine Rente mehr. Laut dem Bundesamt für Sozialversicherungen (BSV) können sie nun aufatmen: Das Geld soll ab nächster Woche wie",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Was war die grösste Lüge, die du je erzählt hast?",
+      "url": "https://www.20min.ch/story/groesste-luege-wir-wollen-wissen-was-hast-du-je-verheimlicht-103595898",
+      "summary": "Gibt es etwas, das du, vielleicht auch in guter Absicht, verheimlicht hast, und es verfolgt dich bis heute? Erzähl uns davon.",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Massenschläge sind out: Berghütte bietet nun «mehr Privatsphäre»",
+      "url": "https://www.20min.ch/story/grimselgebiet-massenschlaege-sind-out-berghuette-bietet-nun-mehr-privatsphaere-103596970",
+      "summary": "Die Gelmerhütte auf 2412 Metern Höhe im Grimselgebiet erstrahlt nach einer 3,8-Millionen-Renovation in neuem Glanz. Was auffällt: Die Besucherinnen und Besucher wollen kleinere Zimmer. Obwohl damit Be",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Krise am Arbeitsmarkt: «Mir fehlen die Worte» – wie eine Entlassungswelle die Schweiz verunsichert",
+      "url": "https://www.tagesanzeiger.ch/entlassungswelle-wie-die-krise-den-schweizer-arbeitsmarkt-trifft-719262848583",
+      "summary": "Entlassungen, Umstrukturierungen, Abbau: Die Schweizer Wirtschaft kriselt. Und der Zustand dürfte andauern. Ein Betroffener, eine Wirtschaftsanwältin und ein Professor berichten.",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Politisch umstritten: In Zürich herrscht Wohnungsnot – können Einzonungen das Problem lösen?",
+      "url": "https://www.tagesanzeiger.ch/wohnungsnot-zuerich-loesen-einzonungen-das-problem-260540144443",
+      "summary": "150’000 neue Wohnungen braucht der Kanton bis 2055. Die heutigen Reserven reichten dafür wohl nicht aus, sagen Experten. Neue Einzonungen seien aktuell dennoch der falsche Weg.",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Im Schweizer Exil: Er ist die «die jüdische Stimme im deutschen Journalismus» – fühlt sich aber nur noch hier wohl",
+      "url": "https://www.tagesanzeiger.ch/philipp-peyman-engel-wieso-er-die-schweiz-so-liebt-399174549309",
+      "summary": "Für Philipp Peyman Engel, eine der wichtigsten jüdischen Stimmen Deutschlands, ist die Schweiz mehr als ein Wohnort. Sie ist ein Gegenentwurf zu einem Deutschland, das ihm fremd geworden ist. Ein Tref",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall am Greyerzersee: 22-Jähriger stürzt auf der Île d’Ogoz zehn Meter von einem Turm",
+      "url": "https://www.tagesanzeiger.ch/pont-en-ogoz-22-jaehriger-stuerzt-von-turm-im-greyerzersee-491571156958",
+      "summary": "Ein junger Mann stürzte am Samstagabend rund zehn Meter in die Tiefe. Die Rega flog ihn ins Spital, die Polizei untersucht die Umstände.",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stil statt Botox: Wie Mailands elegante alte Damen die Modewelt inspirieren",
+      "url": "https://www.tagesanzeiger.ch/sciura-warum-mailands-alte-damen-die-modewelt-inspirieren-319367937653",
+      "summary": "Sie tragen Seide, Perlen, Kamelhaarmäntel – und Haltung. Mailands «Sciure» zeigen, wie zeitloser Stil Trends überdauert.",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "«Kunst am Schlossberg»: In Melchnau hat ein hölzerner Mann Trump und Putin in der Hand",
+      "url": "https://www.bernerzeitung.ch/kunst-am-schlossberg-53-werke-in-melchnau-bis-23-august-804340669886",
+      "summary": "Die Open-Air-Ausstellung am Schlossberg zeigt 53 Werke zwischen Felsen und Bäumen. Rund 15’000 Besuchende werden erwartet.",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Analyse zum Captain des FC Basel: Was Xherdan Shaqiri mit seinen Aussagen wirklich bezwecken will",
+      "url": "https://www.bazonline.ch/fc-basel-was-shaqiri-mit-seinen-aussagen-wirklich-bezweckt-522512872183",
+      "summary": "Seit er sich alles offen gelassen hat, machen Gerüchte die Runde. Tatsächlich steht der Star viel mehr auf den Hinterbeinen als vor dem Absprung. Es geht um Wertschätzung und wohl auch einen neuen Ver",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Julia Furrer: Gelato, Ginger und ein bisschen ungeduldig",
+      "url": "https://www.zentralplus.ch/gastronomie/julia-furrer-gelato-ginger-und-ein-bisschen-ungeduldig-2879827/",
+      "summary": "Die Luzerner Gastronomin betreibt eine der schrägsten Gelaterias in der Stadt Luzern. Dabei ging ihr früherer Weg in eine ganz andere Richtung. Ein Gespräch über Stinkfrucht, Kalorien und Tauben. Vor ",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Töffraser mit fast 190km/h im Aargau",
+      "url": "https://www.zentralplus.ch/news/toeffraser-mit-fast-190km-h-im-aargau-2882796/",
+      "summary": "Im aargauischen Vordemwald hat die Polizei einen Töfffahrer gestoppt. Dieser sei auf der Kantonsstrasse mit fast 190 Kilometern pro Stunde unterwegs gewesen, sagt die Polizei. Also mit mehr als 100 Ki",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Alpstein Testen sie Ihr Wissen in Unserem Quiz",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/alpstein-testen-sie-ihr-wissen-in-unserem-quiz-ld.4194993",
+      "summary": "",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Raser mit 184 km/h in Elsau festgenommen",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/511770393-raser-mit-184-km-h-in-elsau-festgenommen",
+      "summary": "",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann stürzt auf Ile d'Ogoz von Turm und wird verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/981353306-mann-stuerzt-auf-ile-d-ogoz-von-turm-und-wird-verletzt",
+      "summary": "",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "14'000 Nussgipfel und eine neue Sesselbahn",
+      "url": "https://www.freiburger-nachrichten.ch/story/273404/14000-nussgipfel-und-eine-neue-sesselbahn",
+      "summary": "",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Dieser Sommer wird lecker: Das sind die kultigsten Food-Trends",
+      "url": "https://www.freiburger-nachrichten.ch/story/274497/dieser-sommer-wird-lecker-das-sind-die-kultigsten-foodtrends",
+      "summary": "",
+      "published": "2026-07-05T10:01:59.094312+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "22-Jähriger stürzt auf der Île d’Ogoz zehn Meter in die Tiefe",
+      "url": "https://www.freiburger-nachrichten.ch/story/274495/22j%C3%A4hriger-st%C3%BCrzt-auf-der-le-dogoz-zehn-meter-in-die-tiefe",
+      "summary": "",
+      "published": "2026-07-05T10:01:59.094312+00:00"
     }
   ]
 }
