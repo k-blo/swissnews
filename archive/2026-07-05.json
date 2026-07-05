@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T01:32:04.434441+00:00",
+  "generated": "2026-07-05T02:02:12.317564+00:00",
   "date": "2026-07-05",
-  "count": 30,
+  "count": 34,
   "articles": [
     {
       "source": "Blick",
@@ -212,6 +212,34 @@
       "url": "https://www.watson.ch/schweiz/gesellschaft-politik/557334228-nationalraetin-maya-bally-spricht-ueber-persoenlich-erlebte-gewalt",
       "summary": "",
       "published": "2026-07-05T01:32:04.434441+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mali: Islamisten greifen Städte an",
+      "url": "https://www.zentralplus.ch/news/mali-islamisten-greifen-staedte-an-2882757/",
+      "summary": "Im westafrikanischen Mali haben islamistische Terroristen mehrere Städte angegriffen. Die Angriffe seien abgewehrt worden und die Lage sei unter Kontrolle, teilt die malische Armee mit. Nachrichtenage",
+      "published": "2026-07-05T02:02:12.317564+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Silverstone: Gefrusteter Max Verstappen stellt die Sinnfrage",
+      "url": "https://www.watson.ch/sport/formel-1/731924548-silverstone-gefrusteter-max-verstappen-stellt-die-sinnfrage",
+      "summary": "",
+      "published": "2026-07-05T02:02:12.317564+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Albanische Diaspora demonstriert in Bern gegen Korruption",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/327455097-albanische-diaspora-demonstriert-in-bern-gegen-korruption",
+      "summary": "",
+      "published": "2026-07-05T02:02:12.317564+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Neues Gesundheitszentrum<br />\neröffnet in Schwyz</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/bneues-gesundheitszentrumbr-eroeffnet-in-schwyzb-art-1709526",
+      "summary": "",
+      "published": "2026-07-05T02:02:12.317564+00:00"
     }
   ]
 }
