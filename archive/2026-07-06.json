@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T22:31:50.091994+00:00",
+  "generated": "2026-07-05T23:02:11.337295+00:00",
   "date": "2026-07-06",
-  "count": 20,
+  "count": 24,
   "articles": [
     {
       "source": "NZZ",
@@ -142,6 +142,34 @@
       "url": "https://www.bote.ch/nachrichten/vereine/alpine-rettung-schweiz-og-rigi-zu-besuch-in-tschechien-art-1711198",
       "summary": "",
       "published": "2026-07-05T22:31:50.091994+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zahl der Erdbeben-Toten in Venezuela steigt auf 3342",
+      "url": "https://www.watson.ch/international/natur/960934564-zahl-der-erdbeben-toten-in-venezuela-steigt-auf-3342",
+      "summary": "",
+      "published": "2026-07-05T23:02:11.337295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Alarmstufe Rot in Washington nach Feuerwerk zu US-Geburtstag",
+      "url": "https://www.watson.ch/international/gesundheit/507627158-alarmstufe-rot-in-washington-nach-feuerwerk-zu-us-geburtstag",
+      "summary": "",
+      "published": "2026-07-05T23:02:11.337295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Cristiano Ronaldo ätzt gegen Journalisten",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-cristiano-ronaldo-aetzt-gegen-journalisten",
+      "summary": "",
+      "published": "2026-07-05T23:02:11.337295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chat-Futter: Davidovich Fokina bei Wimbledon mit unfassbarem Punktgewinn",
+      "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-davidovich-fokina-bei-wimbledon-mit-unfassbarem-punktgewinn",
+      "summary": "",
+      "published": "2026-07-05T23:02:11.337295+00:00"
     }
   ]
 }
