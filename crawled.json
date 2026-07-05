@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T07:02:15.563106+00:00",
+  "generated": "2026-07-05T07:32:28.692607+00:00",
   "date": "2026-07-05",
-  "count": 144,
+  "count": 158,
   "articles": [
     {
       "source": "Blick",
@@ -1010,6 +1010,104 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/fast-waere-der-250-geburtstag-der-usa-ins-wasser-gefallen-art-1711388",
       "summary": "",
       "published": "2026-07-05T07:02:15.563106+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polizei sucht Zeugen: Schweizer (†51) stirbt nach medizinischem Notfall am Bahnhof Aarau",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/polizei-sucht-zeugen-schweizer-51-stirbt-nach-medizinischem-notfall-am-bahnhof-aarau-id22084674.html",
+      "summary": "Am letzten Samstag ereignete sich um die Mittagszeit in einem Restaurant am Bahnhof Aarau ein medizinischer Notfall in deren Verlauf letztlich ein 51-jähriger Schweizer verstarb. Die Kantonspolizei Aa",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "In diesen Städten solltest du besonders auf deine Sachen achten",
+      "url": "https://www.20min.ch/story/diebstahl-ranking-in-diesen-staedten-solltest-du-besonders-auf-deine-sachen-achten-103596493",
+      "summary": "Wo wird in 25 Städten Europas am meisten geklaut? In einem Diebstahl-Ranking wurde diese Frage genauer unter die Lupe genommen. Zürich belegt dabei den zehnten Platz.",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Über 1000 Fans und Emotionen: Publikum kürt Schweizer Champion",
+      "url": "https://www.20min.ch/story/red-bull-dance-your-style-ueber-1000-fans-und-emotionen-publikum-kuert-schweizer-champion-103596911",
+      "summary": "Am Red Bull Dance Your Style Final in Basel siegt Zacharie Lamrani alias Zax. Der 24-Jährige aus Vevey steht nun im Weltfinal in Zürich.",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wer gewinnt in Silverstone? Stimme jetzt ab",
+      "url": "https://www.20min.ch/story/gp-grossbritannien-wer-gewinnt-in-silverstone-stimme-jetzt-ab-103596931",
+      "summary": "Am Sonntag steht der GP von Grossbritannien an. Wer gewinnt in Silverstone? Das Rennen ab 16 Uhr live.",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Alle News zur WM: Schweizer Nationalteam verstärkt Ziel von Hasskommentaren",
+      "url": "https://www.tagesanzeiger.ch/fussball-wm-2026-schweizer-nationalteam-verstaerkt-ziel-von-hasskommentaren-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli findet in den USA, Mexiko und Kanada die Fussball-WM statt. Alle wichtigen Informationen dazu finden Sie hier.",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fussball-Weltmeisterschaft 2026: Der WM-Spielplan zum Downloaden und Ausdrucken",
+      "url": "https://www.tagesanzeiger.ch/fussball-wm-2026-spielplan-zum-downloaden-und-ausdrucken-5-576211289191",
+      "summary": "Am 11. Juni 2026 beginnt die Fussball-WM in Kanada, Mexiko und den USA. Alle Partien und Spielorte auf einen Blick.",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kinderspital: Luzern gibt Eltern den Alarmknopf",
+      "url": "https://www.zentralplus.ch/news/kinderspital-luzern-gibt-eltern-den-alarmknopf-2882773/",
+      "summary": "Im Luzerner Kinderspital können Eltern künftig Alarm schlagen, wenn sie sich nicht ernst genommen fühlen. Die neue Regel soll verhindern, dass wichtige Warnungen überhört werden. Das Kinderspital Zent",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Studie sieht Astronomie durch Starlink & Co. bedroht",
+      "url": "https://www.netzwoche.ch/news/2026-07-05/studie-sieht-astronomie-durch-starlink-co-bedroht",
+      "summary": "Immer mehr Satelliten kreisen um die Erde - und es könnten bald noch sehr viel mehr werden. Eine neue Studie der Europäischen Südsternwarte zeigt: Sollten die derzeit geplanten Mega-Konstellationen Re",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Ein 3D-Scanner für elektromagnetische Felder",
+      "url": "https://www.netzwoche.ch/news/2026-07-05/ein-3d-scanner-fuer-elektromagnetische-felder",
+      "summary": "Forschende der ETH Zürich haben ein Verfahren entwickelt, das elektromagnetische Felder über einer Oberfläche mithilfe eines einzelnen Ions erkennt und davon eine dreidimensionale Karte erstellt. Dami",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Neue Katze Viele Fragen Reporter im Tierfachgeschäft Überfordert",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/neue-katze-viele-fragen-reporter-im-tierfachgeschaeft-ueberfordert-ld.4182462",
+      "summary": "",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Mann Stirbt nach Medizinischem Notfall in Einem Aarauer Restaurant",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/mann-stirbt-nach-medizinischem-notfall-in-einem-aarauer-restaurant-ld.4197704",
+      "summary": "",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Diesen Asterix-Comic nimmt Bunderat Parmelin mit in die Ferien",
+      "url": "https://www.watson.ch/schweiz/bundesrat/385326863-diesen-asterix-comic-nimmt-bunderat-parmelin-mit-in-die-ferien",
+      "summary": "",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "51-Jähriger stirbt in Aarauer Restaurant – wohl medizinisches Problem",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/607589953-51-jaehriger-stirbt-in-aarauer-restaurant-wohl-medizinisches-problem",
+      "summary": "",
+      "published": "2026-07-05T07:32:28.692607+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach einer Fahrerflucht hatte Polizeihund Ty seine Glanzstunde",
+      "url": "https://www.bote.ch/nachrichten/schwyz/nach-einer-fahrerflucht-hatte-polizeihund-ty-seine-glanzstunde-art-1711389",
+      "summary": "",
+      "published": "2026-07-05T07:32:28.692607+00:00"
     }
   ]
 }
