@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T03:02:10.429070+00:00",
+  "generated": "2026-07-05T03:31:56.198007+00:00",
   "date": "2026-07-05",
-  "count": 73,
+  "count": 85,
   "articles": [
     {
       "source": "Blick",
@@ -513,6 +513,90 @@
       "url": "https://www.bote.ch/nachrichten/kultur/hans-erni-und-seine-erste-frau-eine-schoepferin-zerbrechlicher-kunst-art-1711384",
       "summary": "",
       "published": "2026-07-05T03:02:10.429070+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Drohnen über Kaserne Jassbach",
+      "url": "https://www.zentralplus.ch/news/drohnen-ueber-kaserne-jassbach-2882763/",
+      "summary": "Mehrere unbekannte Drohnen sind über einen Schweizer Militärstandort geflogen. Das hat Armeechef Pirmin Roos diese Woche bekanntgegeben. Nun schreibt die Sonntagszeitung: Es handle sich um die Kaserne",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zürich zweifelt an Milliardenprojekten – wie dem DBL",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/zuerich-zweifelt-an-milliardenprojekten-wie-dem-dbl-2881629/",
+      "summary": "Kurz schien für die Luzerner Regierung alles gut: Der Bund will den Durchgangsbahnhof bauen. Doch nun kommen die Kritiker. Zürich ist vorne mit dabei. LinkedIn ist spannend. Während Mediensprecher-Chö",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein behinderter Bub erleidet in der Schule einen schweren Unfall – und seine Mutter rätselt, was passiert ist",
+      "url": "https://www.nzz.ch/zuerich/ein-behinderter-bub-erleidet-in-der-schule-einen-schweren-unfall-und-seine-mutter-raetselt-was-passiert-ist-ld.10011963",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nachtzug-Gutscheine, werbefreie Zonen, Hochbeete statt Parkplätze: Auswärtige Aktivisten übernehmen im Zürcher «Klimaquartier». Es locken eine Million Franken aus der Stadtkasse",
+      "url": "https://www.nzz.ch/zuerich/zuercher-klimaquartier-statt-anwohner-machen-auswaertige-aktivisten-mit-ld.10013708",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Talschützen Sulz Trotzen der Hitze am Eidgenössischen",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/talschuetzen-sulz-trotzen-der-hitze-am-eidgenoessischen-ld.4197606",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Lotta Lüthi Wird Jugend Europameisterin im Ol Sprint",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/lotta-luethi-wird-jugend-europameisterin-im-ol-sprint-ld.4197666",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/artikel-ld.4197652",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Der Indiaca Club Feierte Sein 20 Jähriges Jubiläum",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/der-indiaca-club-feierte-sein-20-jaehriges-jubilaeum-ld.4197605",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Sehr Intensives und Äusserst Erfolgreiches Jahr für die Mitte Laupersdorf",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/sehr-intensives-und-aeusserst-erfolgreiches-jahr-fuer-die-mitte-laupersdorf-ld.4197496",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Sekundarschule mit Zwei Schlussfeiern",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/sekundarschule-mit-zwei-schlussfeiern-ld.4197663",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Ok Sitzung für den Ersten Wildeluft Weihnachtszauber in Urdorf",
+      "url": "https://www.limmattalerzeitung.ch/leserbeitrag/li/ok-sitzung-fuer-den-ersten-wildeluft-weihnachtszauber-in-urdorf-ld.4197537",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kaserne Jassbach: Neue Details zu Drohnen über Schweizer Militäranlage",
+      "url": "https://www.watson.ch/schweiz/armee/515679055-kaserne-jassbach-neue-details-zu-drohnen-ueber-schweizer-militaeranlage",
+      "summary": "",
+      "published": "2026-07-05T03:31:56.198007+00:00"
     }
   ]
 }
