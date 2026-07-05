@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T02:02:12.317564+00:00",
+  "generated": "2026-07-05T02:32:09.268674+00:00",
   "date": "2026-07-05",
-  "count": 34,
+  "count": 37,
   "articles": [
     {
       "source": "Blick",
@@ -240,6 +240,27 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/bneues-gesundheitszentrumbr-eroeffnet-in-schwyzb-art-1709526",
       "summary": "",
       "published": "2026-07-05T02:02:12.317564+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Feuerwerk setzt Brooklyn Bridge in Brand",
+      "url": "https://www.20min.ch/story/250-jahr-feier-feuerwerk-setzt-brooklyn-bridge-in-brand-103596903",
+      "summary": "Während der Feuerwerkshow zum US-Nationalfeiertag brach auf der Brooklyn Bridge ein kleiner Brand aus. Verletzt wurde niemand.",
+      "published": "2026-07-05T02:32:09.268674+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump telefoniert mit Putin",
+      "url": "https://www.zentralplus.ch/news/trump-telefoniert-mit-putin-2882759/",
+      "summary": "US-Präsident Donald Trump hat mit dem russischen Staatschef Wladimir Putin telefoniert. Das Gespräch habe fast 90 Minuten gedauert, hiess es danach von russischer Seite. Trump habe seine Hilfe angebot",
+      "published": "2026-07-05T02:32:09.268674+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein Anglerglück für die Jahrtausende",
+      "url": "https://www.freiburger-nachrichten.ch/story/272247/ein-anglergl%C3%BCck-f%C3%BCr-die-jahrtausende",
+      "summary": "",
+      "published": "2026-07-05T02:32:09.268674+00:00"
     }
   ]
 }
