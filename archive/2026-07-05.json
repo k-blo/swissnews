@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T12:55:24.712656+00:00",
+  "generated": "2026-07-05T13:01:55.222308+00:00",
   "date": "2026-07-05",
-  "count": 337,
+  "count": 340,
   "articles": [
     {
       "source": "Blick",
@@ -2361,6 +2361,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/lea-meier-ist-die-92-rosenkoenigin-art-1711407",
       "summary": "",
       "published": "2026-07-05T12:55:24.712656+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Pfadi Willisau",
+      "url": "https://www.luzernerzeitung.ch/sonderthemen/lagerdraht/pfadi-willisau-ld.4188274",
+      "summary": "",
+      "published": "2026-07-05T13:01:55.222308+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Staad Feuerwehr Teams Messen Sich am 28 Sandlochfest",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/staad-feuerwehr-teams-messen-sich-am-28-sandlochfest-ld.4196784",
+      "summary": "",
+      "published": "2026-07-05T13:01:55.222308+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Das Appenzeller Kantonalmusikfest in Bildern",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/das-appenzeller-kantonalmusikfest-in-bildern-ld.4197816",
+      "summary": "",
+      "published": "2026-07-05T13:01:55.222308+00:00"
     }
   ]
 }
