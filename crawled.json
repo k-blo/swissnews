@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T00:31:49.931854+00:00",
+  "generated": "2026-07-06T01:02:10.230825+00:00",
   "date": "2026-07-06",
-  "count": 33,
+  "count": 37,
   "articles": [
     {
       "source": "NZZ",
@@ -233,6 +233,34 @@
       "url": "https://www.watson.ch/sport/fussball/114368368-wm-erling-haaland-richtet-sich-an-kritiker-und-rudert-mit-den-fans",
       "summary": "",
       "published": "2026-07-06T00:31:49.931854+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Neymar verkündet Brasilien-Rücktritt – und bricht in Tränen aus",
+      "url": "https://www.watson.ch/sport/neymar/640646582-wm-2026-neymar-verkuendet-brasilien-ruecktritt-und-bricht-in-traenen-aus",
+      "summary": "",
+      "published": "2026-07-06T01:02:10.230825+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rund 50'000 Besucherinnen und Besucher am Jazzfestival in Ascona",
+      "url": "https://www.watson.ch/schweiz/tessin/515894588-rund-50-000-besucherinnen-und-besucher-am-jazzfestival-in-ascona",
+      "summary": "",
+      "published": "2026-07-06T01:02:10.230825+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Temperatur-Tagesrekord in Locarno TI geknackt",
+      "url": "https://www.watson.ch/schweiz/tessin/580425209-temperatur-tagesrekord-in-locarno-ti-geknackt",
+      "summary": "",
+      "published": "2026-07-06T01:02:10.230825+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Medwedew attackiert USA: «Zuerst eigenes Chaos in den Griff bekommen»",
+      "url": "https://www.watson.ch/international/usa/494749417-medwedew-attackiert-usa-zuerst-eigenes-chaos-in-den-griff-bekommen",
+      "summary": "",
+      "published": "2026-07-06T01:02:10.230825+00:00"
     }
   ]
 }
