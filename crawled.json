@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T01:02:10.230825+00:00",
+  "generated": "2026-07-06T01:31:52.958248+00:00",
   "date": "2026-07-06",
-  "count": 37,
+  "count": 38,
   "articles": [
     {
       "source": "NZZ",
@@ -261,6 +261,13 @@
       "url": "https://www.watson.ch/international/usa/494749417-medwedew-attackiert-usa-zuerst-eigenes-chaos-in-den-griff-bekommen",
       "summary": "",
       "published": "2026-07-06T01:02:10.230825+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ukraine meldet russische Angriffe",
+      "url": "https://www.zentralplus.ch/news/ukraine-meldet-russische-angriffe-2882859/",
+      "summary": "Russland hat erneut Angriffe auf die ukrainische Hauptstadt Kiew geflogen. Wie die Behörden mitteilten, wurde kurz nach Mitternacht Luftalarm ausgelöst und es seien mehrere Explosionen zu hören gewese",
+      "published": "2026-07-06T01:31:52.958248+00:00"
     }
   ]
 }
