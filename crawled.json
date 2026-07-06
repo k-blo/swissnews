@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T20:02:10.573708+00:00",
+  "generated": "2026-07-06T20:32:15.968432+00:00",
   "date": "2026-07-06",
-  "count": 913,
+  "count": 917,
   "articles": [
     {
       "source": "NZZ",
@@ -6393,6 +6393,34 @@
       "url": "https://www.watson.ch/schweiz/bundesrat/782846092-bundesrat-muss-kommunikation-abbauen-und-das-in-zeiten-von-fake-news",
       "summary": "",
       "published": "2026-07-06T20:02:10.573708+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Interaktives Tool: Wie vermögend sind Sie im Vergleich? Unser Rechner sagt es Ihnen",
+      "url": "https://www.bernerzeitung.ch/wohlstandsrechner-wo-stehen-sie-in-der-schweiz-333576985408",
+      "summary": "Gehören Sie noch zum Mittelstand? Finden Sie mit unserem Rechner heraus, wo Sie punkto Einkommen und Vermögen stehen.",
+      "published": "2026-07-06T20:32:15.968432+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Portugal – Spanien im Ticker: Schlüsselspieler muss raus – bitterer Ausfall für Portugal",
+      "url": "https://www.bazonline.ch/fussball-wm-live-portugal-spanien-um-21-uhr-im-liveticker-120141579493",
+      "summary": "Im Achtelfinal treffen mit Portugal und Spanien zwei Titelfavoriten aufeinander, das Duell verspricht Spannung. Das Spiel jetzt im Liveticker.",
+      "published": "2026-07-06T20:32:15.968432+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Crans-Montana: Die Region Lombardei tritt als Zivilklägerin auf",
+      "url": "https://www.watson.ch/schweiz/italien/104304976-crans-montana-die-region-lombardei-tritt-als-zivilklaegerin-auf",
+      "summary": "",
+      "published": "2026-07-06T20:32:15.968432+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Servette-Talent Loun Srdanovic wechselt zu Lille",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-servette-talent-loun-srdanovic-wechselt-zu-lille",
+      "summary": "",
+      "published": "2026-07-06T20:32:15.968432+00:00"
     }
   ]
 }
