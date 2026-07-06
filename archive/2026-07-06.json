@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T01:31:52.958248+00:00",
+  "generated": "2026-07-06T02:01:52.952600+00:00",
   "date": "2026-07-06",
-  "count": 38,
+  "count": 45,
   "articles": [
     {
       "source": "NZZ",
@@ -268,6 +268,55 @@
       "url": "https://www.zentralplus.ch/news/ukraine-meldet-russische-angriffe-2882859/",
       "summary": "Russland hat erneut Angriffe auf die ukrainische Hauptstadt Kiew geflogen. Wie die Behörden mitteilten, wurde kurz nach Mitternacht Luftalarm ausgelöst und es seien mehrere Explosionen zu hören gewese",
       "published": "2026-07-06T01:31:52.958248+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Waldbrand in Bettingen/BS",
+      "url": "https://www.zentralplus.ch/news/waldbrand-in-bettingen-bs-2882861/",
+      "summary": "Einen kleinen Waldbrand gab es am Sonntag in der Schweiz, und zwar am Linsberg in Bettingen im Kanton Basel-Stadt. Dort ist auf einer Fläche von rund 200 Quadratmetern ein Feuer ausgebrochen. Es seien",
+      "published": "2026-07-06T02:01:52.952600+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Supertaifun «Bavi» trifft Rota",
+      "url": "https://www.zentralplus.ch/news/supertaifun-bavi-trifft-rota-2882862/",
+      "summary": "Der Supertaifun «Bavi» ist über die Pazifikinsel Rota gezogen und hat dort offenbar schwere Schäden angerichtet. Noch immer herrschten starke Winde und es gebe Überschwemmungen, teilen die Behörden mi",
+      "published": "2026-07-06T02:01:52.952600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Yvette Cooper warnt: KI-Entwicklung könnte Hiroshima-Effekt auslösen",
+      "url": "https://www.watson.ch/international/grossbritannien/809789695-yvette-cooper-warnt-ki-entwicklung-koennte-hiroshima-effekt-ausloesen",
+      "summary": "",
+      "published": "2026-07-06T02:01:52.952600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Verschütteter in Venezuela berichtet von tagelangen Qualen nach Erdbeben",
+      "url": "https://www.watson.ch/international/natur/683158688-verschuetteter-in-venezuela-berichtet-von-tagelangen-qualen-nach-erdbeben",
+      "summary": "",
+      "published": "2026-07-06T02:01:52.952600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Schwimmerin Summer McIntosh knackt alten Weltrekord",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-schwimmerin-summer-mcintosh-knackt-alten-weltrekord",
+      "summary": "",
+      "published": "2026-07-06T02:01:52.952600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kannibalismus-Verdacht: Australierin nach Tod von Vierjährigem angeklagt",
+      "url": "https://www.watson.ch/international/australien/469316595-kannibalismus-verdacht-australierin-nach-tod-von-vierjaehrigem-angeklagt",
+      "summary": "",
+      "published": "2026-07-06T02:01:52.952600+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die seltsamste Woche des Schuljahres hat begonnen",
+      "url": "https://www.freiburger-nachrichten.ch/story/273940/die-seltsamste-woche-des-schuljahres-hat-begonnen",
+      "summary": "",
+      "published": "2026-07-06T02:01:52.952600+00:00"
     }
   ]
 }
