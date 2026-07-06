@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T23:02:11.222540+00:00",
+  "generated": "2026-07-06T23:32:03.792263+00:00",
   "date": "2026-07-07",
-  "count": 18,
+  "count": 23,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -128,6 +128,41 @@
       "url": "https://www.watson.ch/sport/fussball/716605447-nach-fall-balogun-england-und-frankreich-legen-berufung-bei-fifa-ein",
       "summary": "",
       "published": "2026-07-06T23:02:11.222540+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kanada bestellt deutsche U-Boote",
+      "url": "https://www.zentralplus.ch/news/kanada-bestellt-deutsche-u-boote-2883124/",
+      "summary": "Kanada bestellt beim deutschen Rüstungskonzern Thyssenkrupp Marine Systems bis zu zwölf neue U-Boote. Der Auftrag im Wert von rund 62 Milliarden Euro ist der grösste U-Boot-Auftrag in der Geschichte d",
+      "published": "2026-07-06T23:32:03.792263+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland packt U-Boote in Noworossijsk in Drohnen-Käfige",
+      "url": "https://www.watson.ch/international/russland/883501939-russland-packt-u-boote-in-noworossijsk-in-drohnen-kaefige",
+      "summary": "",
+      "published": "2026-07-06T23:32:03.792263+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA-Verantwortliche begründen den Balogun-Entscheid nach Kritik",
+      "url": "https://www.watson.ch/sport/fifa/663156316-fifa-verantwortliche-begruenden-den-balogun-entscheid-nach-kritik",
+      "summary": "",
+      "published": "2026-07-06T23:32:03.792263+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nato-Gipfel in der Türkei: Alle News und Infos live im Ticker",
+      "url": "https://www.watson.ch/international/liveticker/957171254-nato-gipfel-in-der-tuerkei-alle-news-und-infos-live-im-ticker",
+      "summary": "",
+      "published": "2026-07-06T23:32:03.792263+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frankreichs Präsident Macron besucht Syrien",
+      "url": "https://www.watson.ch/international/syrien/213590734-frankreichs-praesident-macron-besucht-syrien",
+      "summary": "",
+      "published": "2026-07-06T23:32:03.792263+00:00"
     }
   ]
 }
