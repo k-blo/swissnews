@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T02:01:52.952600+00:00",
+  "generated": "2026-07-06T02:31:57.612121+00:00",
   "date": "2026-07-06",
-  "count": 45,
+  "count": 53,
   "articles": [
     {
       "source": "NZZ",
@@ -317,6 +317,62 @@
       "url": "https://www.freiburger-nachrichten.ch/story/273940/die-seltsamste-woche-des-schuljahres-hat-begonnen",
       "summary": "",
       "published": "2026-07-06T02:01:52.952600+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Doppel-Silber am Rotsee für den Ruderclub Schaffhausen",
+      "url": "https://www.shn.ch/sport/2026-07-06/doppel-silber-am-rotsee-fuer-den-ruderclub-schaffhausen",
+      "summary": "Camilla Möller und Claudio Streit vom Ruderclub Schaffhausen sorgten an den Schweizer Meisterschaften für Furore.",
+      "published": "2026-07-06T02:31:57.612121+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Kunst im Kleiderladen: Birgit Blatter stellt im Modegeschäft Faccani aus",
+      "url": "https://www.shn.ch/region/stadt/2026-07-06/kunst-im-kleiderladen-birgit-blatter-stellt-im-modegeschaeft-faccani-aus",
+      "summary": "Seit sieben Jahren verbindet die Reihe «KuK» Kunst und Kleidung. Die neue Ausstellung von Birgit Blatter bringt Farbe, Bewegung und Alltagsfreude ins Fachgeschäft Faccani in Schaffhausen.",
+      "published": "2026-07-06T02:31:57.612121+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Buch über die Gräuel des Kriegs: «Die Geschichte habe ich von einem Priester erfahren»",
+      "url": "https://www.shn.ch/region/klettgau/2026-07-06/buch-ueber-die-graeuel-des-kriegs-die-geschichte-habe-ich-von-einem",
+      "summary": "Der Kern des Romans «Die Lerche» aus der Feder der Löhninger Schriftstellerin Anke Waldvogel-Hülshoff beruht auf einer wahren Geschichte. Beleuchtet wird ein Aspekt der Kriegsführung im Zweiten Weltkr",
+      "published": "2026-07-06T02:31:57.612121+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Roboter im Rebberg und das Problem der Kirschessigfliege: Rebbegehung in Hallau",
+      "url": "https://www.shn.ch/region/klettgau/2026-07-06/roboter-im-rebberg-und-das-problem-der-kirschessigfliege-rebbegehung-in",
+      "summary": "An der Hallauer Rebbegehung wurde das autonome Fahren mit Roboterfahrzeugen vorgestellt. Zugleich war die Bekämpfung der Kirschessigfliege ein Thema.",
+      "published": "2026-07-06T02:31:57.612121+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Paradiesische Sommerserenade im Schlosspark Andelfingen",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-07-06/paradiesische-sommerserenade-im-schlosspark-andelfingen",
+      "summary": "Dass die bekannten Huser-Buebe zusammen mit den Profimusikerinnen Lisa Stoll und Fabienne Romer aufspielten, war eine gelungene Premiere.",
+      "published": "2026-07-06T02:31:57.612121+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ja, ich will: Ein «aufgetankter» Jürgen Klopp macht eine klare Ansage",
+      "url": "https://www.shn.ch/sport/2026-07-06/ja-ich-will-ein-aufgetankter-juergen-klopp-macht-eine-klare-ansage",
+      "summary": "Wie geht es weiter beim DFB nach dem WM-Flop und der Trennung von Jürgen Nagelsmann? Topkandidat Klopp steht «bereit». Es gibt aber Hürden. Es geht um Einfluss, Verträge, Köpfe, Geld und «ein Kopfkino",
+      "published": "2026-07-06T02:31:57.612121+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Vollgepflastert»: Wadephul beklagt zu viele feste Termine",
+      "url": "https://www.watson.ch/international/deutschland/598825480-vollgepflastert-wadephul-beklagt-zu-viele-feste-termine",
+      "summary": "",
+      "published": "2026-07-06T02:31:57.612121+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chinesische Sonde Tianwen 2 erreicht Asteroiden Kamo'oalewa",
+      "url": "https://www.watson.ch/leben/raumfahrt/820013023-chinesische-sonde-tianwen-2-erreicht-asteroiden-kamo-oalewa",
+      "summary": "",
+      "published": "2026-07-06T02:31:57.612121+00:00"
     }
   ]
 }
