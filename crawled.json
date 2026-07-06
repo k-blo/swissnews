@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T23:31:49.506385+00:00",
+  "generated": "2026-07-06T00:01:58.282421+00:00",
   "date": "2026-07-06",
-  "count": 26,
+  "count": 29,
   "articles": [
     {
       "source": "NZZ",
@@ -184,6 +184,27 @@
       "url": "https://www.watson.ch/digital/russland/494393643-bericht-russische-hacker-stehlen-log-ins-britischer-beamter",
       "summary": "",
       "published": "2026-07-05T23:31:49.506385+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "FIFA-Kehrtwende bei Balogun polarisiert",
+      "url": "https://www.zentralplus.ch/news/fifa-kehrtwende-bei-balogun-polarisiert-2882857/",
+      "summary": "Der Weltfussballverband FIFA hat die Sperre gegen den US-Spieler Folarin Balogun aufgehoben. Balogun war wegen einer roten Karte im Spiel gegen Bosnien-Herzegowina gesperrt worden. Nun berichten mehre",
+      "published": "2026-07-06T00:01:58.282421+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Das Cabrio stirbt aus: Warum kaum noch jemand offen fährt",
+      "url": "https://www.watson.ch/leben/auto/748455707-das-cabrio-stirbt-aus-warum-kaum-noch-jemand-offen-faehrt",
+      "summary": "",
+      "published": "2026-07-06T00:01:58.282421+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland fliegt neue Angriffe auf Ukraine",
+      "url": "https://www.watson.ch/international/russland/311821502-russland-fliegt-neue-angriffe-auf-ukraine",
+      "summary": "",
+      "published": "2026-07-06T00:01:58.282421+00:00"
     }
   ]
 }
