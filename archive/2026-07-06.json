@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T21:02:17.893945+00:00",
+  "generated": "2026-07-06T21:32:01.140035+00:00",
   "date": "2026-07-06",
-  "count": 921,
+  "count": 922,
   "articles": [
     {
       "source": "NZZ",
@@ -6449,6 +6449,13 @@
       "url": "https://www.bote.ch/nachrichten/sport/ioc-fordert-garantien-fuer-olympia-2038-in-der-schweiz-art-1711649",
       "summary": "",
       "published": "2026-07-06T21:02:17.893945+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Merino erlöst Spanien in der Nachspielzeit gegen Portugal",
+      "url": "https://www.watson.ch/sport/fussball/528025901-wm-2026-merino-erloest-spanien-in-der-nachspielzeit-gegen-portugal",
+      "summary": "",
+      "published": "2026-07-06T21:32:01.140035+00:00"
     }
   ]
 }
