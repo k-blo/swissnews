@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T15:02:24.089790+00:00",
+  "generated": "2026-07-07T15:32:39.739012+00:00",
   "date": "2026-07-07",
-  "count": 758,
+  "count": 804,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -5308,6 +5308,328 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/britischer-parteichef-farage-will-parlamentsmandat-abgeben-art-1711753",
       "summary": "",
       "published": "2026-07-07T15:02:24.089790+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Umweltsünden – Wie sich der Umweltschutz im Aargau verändert hat",
+      "url": "https://www.srf.ch/news/schweiz/umweltsuenden-wie-sich-der-umweltschutz-im-aargau-veraendert-hat",
+      "summary": "Vor 40 Jahren gründeten die Kantone erste Umweltabteilungen. Noch heute kämpfen sie mit den Sünden der Vergangenheit.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Blöcke werden abgerissen: Zürich Versicherung stellt 200 Mieter auf die Strasse",
+      "url": "https://www.blick.ch/wirtschaft/bloecke-werden-abgerissen-zuerich-versicherung-stellt-200-mieter-auf-die-strasse-id22090683.html",
+      "summary": "In Zürich-Witikon verlieren bis zu 200 Menschen ihr Zuhause: Die Siedlungen Wiesliacher und Stodolastrasse werden abgerissen. Betroffene bangen um bezahlbaren Wohnraum und ihre Zukunft.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Widmer oder Vargas: Barber bewertet die WM-Frisuren",
+      "url": "https://www.20min.ch/story/fussball-wm-frisuren-barber-kuert-mbappe-und-verreisst-widmers-look-103598359",
+      "summary": "An der WM geht es längst nicht nur um Tore und Pässe: Die Fussballer setzen mit ihrem Auftreten Trends. Ein Barber verrät, welche Frisuren du dir vom Spielfeld abschauen solltest und wer eher daneben ",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Musste die Reissleine ziehen, weil ich weltbekannt geworden bin»",
+      "url": "https://www.20min.ch/story/helispotter-pipo-zieht-sich-wegen-weltbekannheit-zurueck-103598288",
+      "summary": "Rega-Fan Philipp Boppart hat seine Heli-Videos gelöscht. Der St. Galler erklärt, warum ihm seine Bekanntheit zu gross wurde.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Auroras Traumhochzeit endet im Reisechaos",
+      "url": "https://www.20min.ch/story/vulkan-ausbruch-auroras-traumhochzeit-endet-im-reisechaos-103598321",
+      "summary": "Aurora Ramazzotti und Goffredo Cerzas romantisches Hochzeitswochenende endet im Chaos. Wegen eines Vulkanausbruchs und eines Flugstreiks kommen ihre Gäste nicht mehr nach Hause.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweizer gratuliert USA auf besondere Art zum Geburtstag",
+      "url": "https://www.20min.ch/story/ohio-schweizer-gratuliert-usa-auf-besondere-art-zum-geburtstag-103598393",
+      "summary": "Am 4. Juli sorgte die aussergewöhnliche Flugroute einer Cessna 182RG in Ohio für Aufsehen. Dahinter steckt eine mehrstündige Aktion des Schweizer Auswanderers Eric Genier.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Anonymer Gönner zahlt allen Kindern den Eintritt in die Badi",
+      "url": "https://www.20min.ch/story/sommerferien-anonymer-goenner-zahlt-allen-kindern-den-eintritt-in-die-badi-103598410",
+      "summary": "Ein Mann, der lieber anonym bleiben möchte, bezahlt in Schwalmstadt allen Kindern und Jugendlichen den Badi-Eintritt. Er will damit mehr als nur Abkühlung ermöglichen.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Erdogan empfängt Nato-Spitze in seinem 1100-Zimmer-Palast",
+      "url": "https://www.20min.ch/story/prestige-objekt-erdogan-empfaengt-nato-spitze-in-seinem-1100-zimmer-palast-103598375",
+      "summary": "Am Dienstag richtet Erdogan ein Nato-Gipfeltreffen aus. Dieser findet in seinem Palast statt – ein Prestige-Projekt voller Prunk.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "SVP will linke Chaoten für Schäden zur Kasse bitten",
+      "url": "https://www.20min.ch/story/basel-svp-will-linke-chaoten-fuer-schaeden-zur-kasse-bitten-103597522",
+      "summary": "Besprühte Fassaden, eingeschlagene Schaufenster: Nach der Spontan-Demo von vergangener Woche will ein SVP-Grossrat wissen, wer für die Reinigung und Schäden aufkommt.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Leerkündigungen in Zürich: Über 200 Haushalte müssen ausziehen: In Witikon trifft es drei benachbarte Siedlungen",
+      "url": "https://www.tagesanzeiger.ch/zuerich-weitere-leerkuendigungen-in-witikon-478755474693",
+      "summary": "156 der betroffenen Wohnungen gehören der Zurich-Versicherung, 59 weitere der UBS. Betroffene sprechen von einer Zerstörung des sozialen Gefüges im Quartier.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Weiterer Skandal in Uster: Stadtpolizei manipulierte Rechnungen, um Kontrolle des Stadtrats zu umgehen",
+      "url": "https://www.tagesanzeiger.ch/uster-stadtpolizei-manipulierte-rechnungen-182891440461",
+      "summary": "Die Stadtpolizei Uster überzog ihr Budget um 1,4 Millionen Franken und machte Anschaffungen, für die sie keine Genehmigung hatte. Und auch die Busseneinnahmen sind «auffällig».",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Orientierungslauf-Titelkämpfe: Aebersold wird überlegen Sprint-Weltmeisterin",
+      "url": "https://www.tagesanzeiger.ch/simona-aebersold-weltmeisterin-im-ol-sprint-in-genua-846480179661",
+      "summary": "Simona Aebersold triumphiert an der OL-WM in Genua. Die Schweizer Männer gehen leer aus.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wohnpolitik in der Stadt Zürich: Also doch: Auf dem Josefareal sollen 170 gemeinnützige Wohnungen entstehen",
+      "url": "https://www.tagesanzeiger.ch/josefareal-zuerich-140-bis-170-guenstige-wohnungen-geplant-688348640416",
+      "summary": "Der Stadtrat kommt der Forderung des Gemeinderats nach und plant günstige Wohnungen auf der Brache im Kreis 5. Kritikerinnen geht er zu wenig weit.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schweizer Löhne im Check: Gewerkschaften gegen Arbeitgeber – wie fair sind die Löhne in der Schweiz wirklich?",
+      "url": "https://www.tagesanzeiger.ch/schweizer-loehne-wer-hat-recht-sgb-oder-arbeitgeber-813251676390",
+      "summary": "Arbeitgeber und Gewerkschaften streiten über die Lohnentwicklung mit völlig gegensätzlichen Zahlen. Ein Check bringt Klarheit.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bekenntnisse eines Deutschen: Mein Sohn ist Schweiz-Fan – zum Glück!",
+      "url": "https://www.tagesanzeiger.ch/schweiz-fan-werden-ein-deutschland-fan-ueberlegt-es-sich-132267641873",
+      "summary": "Sie sind eine ganz normale deutsche Familie und leben in Berlin. Doch der Sohn drückt beim Fussball der Schweiz die Daumen. Was ist da falsch gelaufen? Beziehungsweise: richtig?",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sanktionen weitgehend aufgehoben: Russische Athletinnen und Athleten dürfen in die Sportwelt zurückkehren",
+      "url": "https://www.tagesanzeiger.ch/iok-hebt-russland-sanktionen-fuer-olympia-2028-auf-738075939641",
+      "summary": "Trotz des anhaltenden Krieges in der Ukraine ändert das IOK seinen Russland-Kurs. Sportlerinnen und Sportlern aus dem Land wird die Teilnahme an internationalen Wettbewerben erleichtert.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall im Kanton Aargau: 28-Jähriger fährt Strassenlampe um",
+      "url": "https://www.tagesanzeiger.ch/unfall-murgenthal-audi-rammt-strassenlampe-329548744279",
+      "summary": "Ein Automobilist kam am Dienstag in Murgenthal von der Strasse ab und zerstörte eine Strassenlampe. Der Polizei sagte er, er sei einem Tier ausgewichen.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stäfa: Über 50 Personen übernachten erstmals im Seebad Lattenberg",
+      "url": "https://www.tagesanzeiger.ch/staefa-erste-zeltnacht-im-seebad-lattenberg-mit-50-gaesten-777250224779",
+      "summary": "Die Gemeinde hat erstmals eine Zeltnacht am Zürichsee organisiert. Familien verbrachten einen Tag mit Programm und schliefen in ihren Zelten.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hardwald-Kreisel bei Bülach: Fahrt durch den neuen Kreisel: Feierabend verläuft ohne Stau",
+      "url": "https://www.tagesanzeiger.ch/hardwald-kreisel-bei-buelach-feierabend-fahrt-verlaeuft-ohne-stau-680816608375",
+      "summary": "Seit Sonntagabend ist der neue tiefergelegte Kreisel beim Hardwald offen. Die Testfahrt am Montag-Feierabend zeigt: Es läuft flüssig.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Burst Fade statt Blond-Gate: Nati-Coiffeur über die Frisuren der Spieler: «Amenda hat den besten Schnitt»",
+      "url": "https://www.bernerzeitung.ch/wm-2026-burst-fade-ist-die-frisur-des-turniers-909317399567",
+      "summary": "Florian Emini hat den Schweizer Spielern die Haare geschnitten. Wir haben mit dem Bieler Coiffeur auf die Frisurentrends des Turniers geschaut.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Industriegebiet in Utzenstorf: Einst Gas, heute Abgase – das Papieri-Areal sorgt seit 20 Jahren für Diskussionen",
+      "url": "https://www.bernerzeitung.ch/utzenstorf-seit-20-jahren-wird-um-das-papieri-areal-gestritten-968610187700",
+      "summary": "Erst plante die BKW ein Gaskraftwerk, jetzt will Digitec Galaxus ein Logistikzentrum bauen. Das Areal der ehemaligen Papierfabrik Utzenstorf polarisiert.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Urteil nach Gewalttat in Zürich Selnau: Richter zum jugendlichen Messerstecher: «Jemanden töten zu wollen, nur weil er Jude ist, ist Mord»",
+      "url": "https://www.derbund.ch/messerangriff-zuerich-jugendlicher-zu-einem-jahr-freiheitsstrafe-verurteilt-969379540479",
+      "summary": "Ein Sekschüler schaute IS-Videos, schwor dem Terror Treue und stach auf einen Fremden ein. Das Gericht in Dielsdorf verurteilt ihn nun zur härtesten Strafe, die das Jugendstrafrecht kennt.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Verein zu Klybeck-Besetzung: Eine Stadt lässt sich nicht auf dem Reissbrett entwickeln",
+      "url": "https://www.bazonline.ch/klybeck-swiss-life-scheitert-als-stadtentwicklerin-795836580877",
+      "summary": "Die Hausbesetzung weist auf die eklatante Verdrängung von Raum für (junge) Menschen hin – eine Entwicklung, die seit Jahren voranschreitet. Ein Gastbeitrag des Vereins Zukunft.Klybeck.",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Mindestlohnverstoss: «Man muss nur googeln» – Richterin hat mit Kosmetikerin keine Gnade",
+      "url": "https://www.bazonline.ch/basler-mindestlohn-kosmetikerin-scheitert-mit-berufung-869560406707",
+      "summary": "Eine Basler Kosmetikerin hatte einer Teilzeitangestellten nicht den Mindestlohn bezahlt, wie im Rahmen einer Kontrolle beanstandet wurde. Sie bezahlte die Differenz umgehend. Die Strafe aber wollte si",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Verfasser von Drohungen freigesprochen",
+      "url": "https://www.zentralplus.ch/news/verfasser-von-drohungen-freigesprochen-2883361/",
+      "summary": "Der Verfasser von anonymen Drohungen gegen die Universität Zürich wurde vom Aargauer Obergericht freigesprochen. Das Gericht befand, die Kantonspolizei Zürich habe die Beweise gegen den 32-jährigen Ma",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Luzerner Theater: Jetzt kann die Bevölkerung mitreden",
+      "url": "https://www.zentralplus.ch/news/luzerner-theater-jetzt-kann-die-bevoelkerung-mitreden-2883336/",
+      "summary": "Nach dem Nein an der Urne startet die Stadt einen neuen Anlauf für das Luzerner Theater. Dieses Mal soll die Bevölkerung Ideen einbringen können. Die Stadt Luzern startet einen Prozess zur Weiterentwi",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Olympisches Komitee hebt Sanktionen gegen Russland vorerst auf",
+      "url": "https://www.nzz.ch/sport/olympisches-komitee-hebt-sanktionen-gegen-russland-vorerst-auf-ld.10014549",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "U-Boot-Auftrag an TKMS: Kanada, Deutschland und Norwegen schmieden eine neue maritime Allianz",
+      "url": "https://www.nzz.ch/pro/tkms-was-kanadas-u-boot-deal-mit-der-kieler-werft-fuer-die-nato-bedeutet-ld.10014488",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Rechtspopulist Farage Tritt die Flucht nach Vorne an",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/rechtspopulist-farage-tritt-die-flucht-nach-vorne-an-1952841",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Pta Kunterbunt Unterwalden",
+      "url": "https://www.luzernerzeitung.ch/sonderthemen/lagerdraht/pta-kunterbunt-unterwalden--ld.4188330",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "W Lfli Meggen",
+      "url": "https://www.luzernerzeitung.ch/sonderthemen/lagerdraht/w-lfli-meggen-ld.4188242",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Brugger Senior Wird auf Neumarktplatz Niedergeschlagen",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/brugger-senior-wird-auf-neumarktplatz-niedergeschlagen-ld.4199052",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Lenzburg Freischaren Starten die Manöver Vorbereitung",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/lenzburg-freischaren-starten-die-manoever-vorbereitung-ld.4198762",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Tübach Landhaus Bambusgarten Eröffnet Wieder",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/tuebach-landhaus-bambusgarten-eroeffnet-wieder-ld.4171778",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Basler Polizei Verzeichnet Höchsten Rekrutierungswert Seit Jahren",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/basler-polizei-verzeichnet-hoechsten-rekrutierungswert-seit-jahren-ld.4198808",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Bezirksgericht Dietikon Kantischüler Hinterfragen Justizsystem",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/bezirksgericht-dietikon-kantischueler-hinterfragen-justizsystem-ld.4194497",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Neuer Vorstand des Kunsthauses Zug Setzt auf Zukunft",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/neuer-vorstand-des-kunsthauses-zug-setzt-auf-zukunft-ld.4198832",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Port Air Ag in Ennetbürgen Stellt den Betrieb ein",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/port-air-ag-in-ennetbuergen-stellt-den-betrieb-ein-ld.4198757",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Olympische Spiele: IOC hebt Russlands Suspendierung vorläufig auf",
+      "url": "https://www.watson.ch/sport/russland/831341378-olympische-spiele-ioc-hebt-russlands-suspendierung-vorlaeufig-auf",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "New York: Hochhaus wegen Einsturzgefahr evakuiert",
+      "url": "https://www.watson.ch/international/usa/786438664-new-york-hochhaus-wegen-einsturzgefahr-evakuiert",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bei Gandria im Tessin tödlich verunglückter Mann war Deutscher",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/194283460-bei-gandria-im-tessin-toedlich-verunglueckter-mann-war-deutscher",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Argentinien trifft im Achtelfinal auf Ägypten – im Liveticker",
+      "url": "https://www.watson.ch/sport/liveticker/456231563-wm-2026-argentinien-trifft-im-achtelfinal-auf-aegypten-im-liveticker",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "So erleben Sue Piller und Loic Galley die Sport-RS",
+      "url": "https://www.freiburger-nachrichten.ch/story/274971/so-erleben-sue-piller-und-loic-galley-die-sportrs",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bomben bei Macron-Besuch in Damaskus: Kehrt der Islamische Staat zurück?",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/damaskus-sprengsaetze-waehrend-macron-besuch-art-1711763",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Frischer Wind im Kunsthaus Zug: Neu formierter Vorstand stellt erste Weichen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/neuer-vorstand-des-kunsthauses-zug-setzt-auf-zukunft-art-1711762",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach 49 Jahren: Ennetbürger Reisebüro Port-Air AG stellt Betrieb ein",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/port-air-ag-in-ennetbuergen-stellt-den-betrieb-ein-art-1711761",
+      "summary": "",
+      "published": "2026-07-07T15:32:39.739012+00:00"
     }
   ]
 }
