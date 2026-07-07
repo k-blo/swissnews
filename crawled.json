@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T21:02:05.706930+00:00",
+  "generated": "2026-07-07T21:32:12.355381+00:00",
   "date": "2026-07-07",
-  "count": 953,
+  "count": 957,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6673,6 +6673,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/275144/00-zur-pause-schweiz-k%C3%A4mpft-schwerer-stand-f%C3%BCr-embolo-kolumbien-ist-aktiver",
       "summary": "",
       "published": "2026-07-07T21:02:05.706930+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Amadou Onana mit Kreuzbandriss",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-amadou-onana-mit-kreuzbandriss",
+      "summary": "",
+      "published": "2026-07-07T21:32:12.355381+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "NATO-Gipfel in Ankara: Trump wetter über Europa",
+      "url": "https://www.watson.ch/international/usa/467529994-nato-gipfel-in-ankara-trump-wetter-ueber-europa",
+      "summary": "",
+      "published": "2026-07-07T21:32:12.355381+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UN-Bericht sieht Nachhaltigkeitsziele durch Finanzlücke gefährdet",
+      "url": "https://www.watson.ch/international/klima/627569345-un-bericht-sieht-nachhaltigkeitsziele-durch-finanzluecke-gefaehrdet",
+      "summary": "",
+      "published": "2026-07-07T21:32:12.355381+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Glück für die Schweiz: Suàrez verzieht alleine vor Kobel",
+      "url": "https://www.freiburger-nachrichten.ch/story/275144/gl%C3%BCck-f%C3%BCr-die-schweiz-surez-verzieht-alleine-vor-kobel",
+      "summary": "",
+      "published": "2026-07-07T21:32:12.355381+00:00"
     }
   ]
 }
