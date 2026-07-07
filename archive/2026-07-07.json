@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T00:32:21.767620+00:00",
+  "generated": "2026-07-07T01:02:07.570453+00:00",
   "date": "2026-07-07",
-  "count": 48,
+  "count": 52,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -338,6 +338,34 @@
       "url": "https://www.bote.ch/service/leserbriefe/auch-wir-fuehlten-uns-hilflos-art-1711554",
       "summary": "",
       "published": "2026-07-07T00:32:21.767620+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Südkoreanischer Elektronikriese: Samsung verbucht dritten Rekordgewinn in Folge",
+      "url": "https://www.tagesanzeiger.ch/47-milliarden-franken-samsung-verbucht-einen-rekordgewinn-493632416441",
+      "summary": "Samsung Electronics profitiert vom anhaltenden KI-Boom – und steigert den Betriebsgewinn im Vergleich zum Vorjahreszeitraum um mehr als 1800 Prozent.",
+      "published": "2026-07-07T01:02:07.570453+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Abend zum Weinen: Mit dem WM-Aus geht auch die Ära Ronaldo zu Ende",
+      "url": "https://www.nzz.ch/sport/ein-abend-zum-weinen-mit-dem-wm-aus-geht-auch-die-aera-ronaldo-zu-ende-ld.10014404",
+      "summary": "",
+      "published": "2026-07-07T01:02:07.570453+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Im Zuge des KI-Booms: Samsung verbucht nächsten Rekordgewinn",
+      "url": "https://www.watson.ch/wirtschaft/samsung/414249757-im-zuge-des-ki-booms-samsung-verbucht-naechsten-rekordgewinn",
+      "summary": "",
+      "published": "2026-07-07T01:02:07.570453+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Guy Parmelin spricht mit ISS-Crew über Wein und Fussball",
+      "url": "https://www.watson.ch/schweiz/international/638899672-guy-parmelin-spricht-mit-iss-crew-ueber-wein-und-fussball",
+      "summary": "",
+      "published": "2026-07-07T01:02:07.570453+00:00"
     }
   ]
 }
