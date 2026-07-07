@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T01:02:07.570453+00:00",
+  "generated": "2026-07-07T01:32:09.009789+00:00",
   "date": "2026-07-07",
-  "count": 52,
+  "count": 59,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -366,6 +366,55 @@
       "url": "https://www.watson.ch/schweiz/international/638899672-guy-parmelin-spricht-mit-iss-crew-ueber-wein-und-fussball",
       "summary": "",
       "published": "2026-07-07T01:02:07.570453+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Samsung verzeichnet erneut einen Rekordgewinn",
+      "url": "https://www.20min.ch/story/ki-boom-samsung-verzeichnet-erneut-einen-rekordgewinn-103598039",
+      "summary": "Der koreanische Elektronikriese erwartet fürs zweite Quartal den höchsten Betriebsgewinn seiner Geschichte. Verantwortlich ist die hohe KI-Nachfrage.",
+      "published": "2026-07-07T01:32:09.009789+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Elektronikriese übertrifft alle Erwartungen: Samsung verbucht dritten Rekordgewinn in Folge",
+      "url": "https://www.bernerzeitung.ch/47-milliarden-franken-samsung-verbucht-einen-rekordgewinn-493632416441",
+      "summary": "Samsung Electronics profitiert vom anhaltenden KI-Boom – und steigert den Betriebsgewinn im Vergleich zum Vorjahreszeitraum um mehr als 1800 Prozent.",
+      "published": "2026-07-07T01:32:09.009789+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran soll Schiffe beschossen haben",
+      "url": "https://www.zentralplus.ch/news/iran-soll-schiffe-beschossen-haben-2883130/",
+      "summary": "Im Golf von Oman sind im Bereich der Strasse von Hormus erneut Handelsschiffe angegriffen worden. Nach Angaben von US-Behörden feuerte der Iran mindestens zwei Raketen auf zivile Schiffe, wodurch zwei",
+      "published": "2026-07-07T01:32:09.009789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Junge erfährt gerade, wie England gespielt hat",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-junge-erfaehrt-gerade-wie-england-gespielt-hat",
+      "summary": "",
+      "published": "2026-07-07T01:32:09.009789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fall Balogun: Das Internet ist sauer auf die FIFA – zeigen diese Memes",
+      "url": "https://www.watson.ch/sport/spass/275906277-fall-balogun-das-internet-ist-sauer-auf-die-fifa-zeigen-diese-memes",
+      "summary": "",
+      "published": "2026-07-07T01:32:09.009789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kylian Mbappé von Paraguay-Senatorin rassistisch beleidigt – er kontert",
+      "url": "https://www.watson.ch/sport/fussball/227289740-kylian-mbappe-von-paraguay-senatorin-rassistisch-beleidigt-er-kontert",
+      "summary": "",
+      "published": "2026-07-07T01:32:09.009789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Grillierer hat den Waldbrand in Bettingen BS fahrlässig verursacht",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/720955595-grillierer-hat-den-waldbrand-in-bettingen-bs-fahrlaessig-verursacht",
+      "summary": "",
+      "published": "2026-07-07T01:32:09.009789+00:00"
     }
   ]
 }
