@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T22:32:18.463155+00:00",
+  "generated": "2026-07-07T23:02:21.821479+00:00",
   "date": "2026-07-08",
-  "count": 20,
+  "count": 24,
   "articles": [
     {
       "source": "Watson",
@@ -142,6 +142,34 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/adelbert-marty-gelingt-zum-fuenften-mal-der-cupsieg-art-1711743",
       "summary": "",
       "published": "2026-07-07T22:32:18.463155+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wie fandest du den Auftritt der Nati? Bewerte das Team",
+      "url": "https://www.20min.ch/story/spiel-gegen-kolumbien-wie-fandest-du-den-auftritt-der-nati-bewerte-das-team-103598798",
+      "summary": "Die Nati wollte in den WM-Viertelfinal. Das gelang auf dramatische Art und Weise. Bewerte das Team.",
+      "published": "2026-07-07T23:02:21.821479+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die Lesernoten: Wie beurteilen Sie die Schweizer nach dem historischen Viertelfinal-Einzug?",
+      "url": "https://www.tagesanzeiger.ch/die-lesernoten-wie-beurteilen-sie-die-schweizer-spieler-983238153371",
+      "summary": "Die Schweiz bezwingt Kolumbien im Penaltyschiessen. Wer hat Sie überzeugt und wer nicht? Stimmen Sie ab.",
+      "published": "2026-07-07T23:02:21.821479+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Argentinien ist Viertelfinal-Gegner: Nun trifft die Schweiz auf Messi – und auf die Erinnerung an 2014",
+      "url": "https://www.tagesanzeiger.ch/wm-viertelfinal-schweiz-trifft-auf-argentinien-136456457269",
+      "summary": "Nach dem Sieg gegen Kolumbien wartet im Viertelfinal Weltmeister Argentinien. Da war doch was: São Paulo 2014, Di Marias spätes Tor, Dzemailis Pfosten – und ein Messi, der auch heute noch alles überst",
+      "published": "2026-07-07T23:02:21.821479+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kolumbiens Wahlsieger stoppt Übergang nach Betrugsvorwürfen",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/371752540-kolumbiens-wahlsieger-stoppt-uebergang-nach-betrugsvorwuerfen",
+      "summary": "",
+      "published": "2026-07-07T23:02:21.821479+00:00"
     }
   ]
 }
