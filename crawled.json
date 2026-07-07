@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T01:32:09.009789+00:00",
+  "generated": "2026-07-07T02:02:35.232643+00:00",
   "date": "2026-07-07",
-  "count": 59,
+  "count": 63,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -415,6 +415,34 @@
       "url": "https://www.watson.ch/schweiz/polizeirapport/720955595-grillierer-hat-den-waldbrand-in-bettingen-bs-fahrlaessig-verursacht",
       "summary": "",
       "published": "2026-07-07T01:32:09.009789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kino: Blue testet eine Neuerung, über die sich nicht alle freuen dürften",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/717882576-kino-blue-testet-eine-neuerung-ueber-die-sich-nicht-alle-freuen-duerften",
+      "summary": "",
+      "published": "2026-07-07T02:02:35.232643+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Putins Ukraine-Krieg: Geheimdienst warnt vor Bankenkrise in Russland",
+      "url": "https://www.watson.ch/international/banken/782602797-putins-ukraine-krieg-geheimdienst-warnt-vor-bankenkrise-in-russland",
+      "summary": "",
+      "published": "2026-07-07T02:02:35.232643+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Angriff auf Tanker in der Strasse von Hormus gemeldet",
+      "url": "https://www.watson.ch/international/naher-osten/340914308-angriff-auf-tanker-in-der-strasse-von-hormus-gemeldet",
+      "summary": "",
+      "published": "2026-07-07T02:02:35.232643+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kostenlos parken: In England dürfen Autos direkt auf den Strand",
+      "url": "https://www.watson.ch/leben/auto/382105070-kostenlos-parken-in-england-duerfen-autos-direkt-auf-den-strand",
+      "summary": "",
+      "published": "2026-07-07T02:02:35.232643+00:00"
     }
   ]
 }
