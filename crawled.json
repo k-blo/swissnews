@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T20:01:57.446725+00:00",
+  "generated": "2026-07-07T20:32:18.339658+00:00",
   "date": "2026-07-07",
-  "count": 944,
+  "count": 950,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6610,6 +6610,48 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/asylwohnungen-in-trachslau-happige-vorwuerfe-an-den-bezirksrat-art-1711756",
       "summary": "",
       "published": "2026-07-07T20:01:57.446725+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Public Viewing in Bern: Grossandrang beim Museumspark: So fiebern die Schweiz-Fans mit",
+      "url": "https://www.bernerzeitung.ch/fussball-wm-bern-fiebert-beim-spiel-schweiz-gegen-kolumbien-866573626002",
+      "summary": "Viele Bernerinnen und Berner wollen den WM-Achtelfinal Schweiz-Kolumbien in der Menge verfolgen. Bei der Bar im Museumspark mussten viele abgewiesen werden.",
+      "published": "2026-07-07T20:32:18.339658+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Krieg in der Ukraine: Kämpfe an den Fronten der Ukraine dauern an +++ Grossangriff auf Moskau, Schäden in russischen Regionen",
+      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-kaempfe-an-den-fronten-der-ukraine-dauern-an-grossangriff-auf-moskau-schaeden-in-russischen-regionen-ld.10009803",
+      "summary": "",
+      "published": "2026-07-07T20:32:18.339658+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Iran-Krieg: USA setzen Sanktionen auf iranisches Öl wieder in Kraft +++ Angriffe auf Tanker in der Strasse von Hormuz",
+      "url": "https://www.nzz.ch/international/iran-krieg-usa-setzen-sanktionen-auf-iranisches-oel-wieder-in-kraft-angriffe-auf-tanker-in-der-strasse-von-hormuz-ld.10009801",
+      "summary": "",
+      "published": "2026-07-07T20:32:18.339658+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kämpfe an den Fronten der Ukraine dauern an",
+      "url": "https://www.watson.ch/international/russland/376256706-kaempfe-an-den-fronten-der-ukraine-dauern-an",
+      "summary": "",
+      "published": "2026-07-07T20:32:18.339658+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nahostexperte Volker Perthes: «Iran hat einen Pyrrhussieg errungen»",
+      "url": "https://www.watson.ch/international/interview/215279356-nahostexperte-volker-perthes-iran-hat-einen-pyrrhussieg-errungen",
+      "summary": "",
+      "published": "2026-07-07T20:32:18.339658+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Es winkt der historische WM-Viertelfinal: Die Nati kämpft, Kolumbien drückt",
+      "url": "https://www.freiburger-nachrichten.ch/story/275144/es-winkt-der-historische-wmviertelfinal-die-nati-k%C3%A4mpft-kolumbien-dr%C3%BCckt",
+      "summary": "",
+      "published": "2026-07-07T20:32:18.339658+00:00"
     }
   ]
 }
