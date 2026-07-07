@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-06T23:32:03.792263+00:00",
+  "generated": "2026-07-07T00:01:58.197478+00:00",
   "date": "2026-07-07",
-  "count": 23,
+  "count": 27,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -163,6 +163,34 @@
       "url": "https://www.watson.ch/international/syrien/213590734-frankreichs-praesident-macron-besucht-syrien",
       "summary": "",
       "published": "2026-07-06T23:32:03.792263+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Senatorin beleidigt Mbappé",
+      "url": "https://www.zentralplus.ch/news/senatorin-beleidigt-mbappe-2883128/",
+      "summary": "Nach dem WM-Achtelfinal zwischen Frankreich un Paraguay sorgt eine paraguayische Senatorin für Schlagzeilen. Celeste Amarilla beleidigte den französischen Captain Kylian Mbappé nach dessen Siegestor a",
+      "published": "2026-07-07T00:01:58.197478+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Balogun trotz Sperre im Einsatz",
+      "url": "https://www.zentralplus.ch/news/balogun-trotz-sperre-im-einsatz-2883126/",
+      "summary": "Trotz internationaler Proteste steht der US-Stürmer Folarin Balogun im WM-Achtelfinal gegen Belgien in Seattle in der Startformation. Die FIFA hat den Einsatz des eigentlich wegen einer roten Karte ge",
+      "published": "2026-07-07T00:01:58.197478+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach Fahrverbot Mitte Februar: Teile der M113-Flotte wieder einsatzfähig",
+      "url": "https://www.watson.ch/schweiz/armee/567062816-nach-fahrverbot-mitte-februar-teile-der-m113-flotte-wieder-einsatzfaehig",
+      "summary": "",
+      "published": "2026-07-07T00:01:58.197478+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Änderung bei beliebtem Messenger: WhatsApp macht das iPad zum Hauptgerät",
+      "url": "https://www.watson.ch/digital/ipad/647462164-aenderung-bei-beliebtem-messenger-whatsapp-macht-das-ipad-zum-hauptgeraet",
+      "summary": "",
+      "published": "2026-07-07T00:01:58.197478+00:00"
     }
   ]
 }
