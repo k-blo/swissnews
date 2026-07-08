@@ -1,13 +1,13 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Wed, 08 Jul 2026 13:06:29 GMT",
-    "etag": "\"fb9f74898e8dc8040e30afd722eec5a6\""
+    "last_modified": "Wed, 08 Jul 2026 13:29:41 GMT",
+    "etag": "\"364611a55e3ee1efef16e056d9ad10c6\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"17a37-sMaqZZ2jFZDXnZYoFzqQ/DQKdjo\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"10469-cuSvSwRjgq8qlgWdxiS3NAweovs\""
+    "etag": "W/\"10468-dz3BVpR7+TIxpviOQUJxelJp+ZU\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"fe16-yIdNFMpJckqn8l6fhEMa9jc1vVc\""
@@ -23,7 +23,7 @@
     "etag": "\"1783512694\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 08 Jul 2026 13:26:04 GMT"
+    "last_modified": "Wed, 08 Jul 2026 13:31:04 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -51,16 +51,16 @@
     "etag": "\"1782825428\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 08 Jul 2026 13:16:16 GMT",
-    "etag": "W/\"1783516576-gzip\""
+    "last_modified": "Wed, 08 Jul 2026 13:30:44 GMT",
+    "etag": "W/\"1783517444-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Wed, 08 Jul 2026 13:15:49 GMT",
     "etag": "\"d1fc9c92cdc5e02f1f8af514b31ed668\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Wed, 08 Jul 2026 13:23:01 GMT",
-    "etag": "\"1783516981\""
+    "last_modified": "Wed, 08 Jul 2026 13:31:01 GMT",
+    "etag": "\"1783517461\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Wed, 08 Jul 2026 13:16:29 GMT",

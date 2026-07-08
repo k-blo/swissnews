@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T13:29:53.305647+00:00",
+  "generated": "2026-07-08T13:32:09.014008+00:00",
   "date": "2026-07-08",
-  "count": 634,
+  "count": 638,
   "articles": [
     {
       "source": "Watson",
@@ -4440,6 +4440,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/benno-hafner-zum-chateau-guetsch-in-luzern-kein-verkauf-geplant-art-1711903",
       "summary": "",
       "published": "2026-07-08T13:29:53.305647+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "71% der Schweizer Firmen berichten Cybervorfälle",
+      "url": "https://www.inside-it.ch/71percent-der-schweizer-firmen-berichten-cybervorfaelle-20260708",
+      "summary": "Swiss Post Cybersecurity muss eingestehen, dass auch das Post-Tochterunternehmen keinen absoluten Schutz vor Cyberangriffen bieten kann.",
+      "published": "2026-07-08T13:32:09.014008+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Lagerdraht 2026 So Gehen die Zentralschweizer Sommerlager mit dem Wetter um",
+      "url": "https://www.luzernerzeitung.ch/lagerdraht/lagerdraht-2026-so-gehen-die-zentralschweizer-sommerlager-mit-dem-wetter-um-ld.4199407",
+      "summary": "",
+      "published": "2026-07-08T13:32:09.014008+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Bevölkerungswachstum Uri 40700 Personen im Jahr 2040 Sind Realistisch",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/bevoelkerungswachstum-uri-40700-personen-im-jahr-2040-sind-realistisch-ld.4197031",
+      "summary": "",
+      "published": "2026-07-08T13:32:09.014008+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Urner Bevölkerung könnte auf 40'700 Personen anwachsen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/bevoelkerungswachstum-uri-40700-personen-im-jahr-2040-sind-realistisch-art-1711904",
+      "summary": "",
+      "published": "2026-07-08T13:32:09.014008+00:00"
     }
   ]
 }
