@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T01:02:15.177687+00:00",
+  "generated": "2026-07-08T01:32:39.657658+00:00",
   "date": "2026-07-08",
-  "count": 48,
+  "count": 52,
   "articles": [
     {
       "source": "Watson",
@@ -338,6 +338,34 @@
       "url": "https://www.watson.ch/sport/fussball/350552416-wm-2026-xhaka-stolz-auf-nati-akanji-nach-penaltyfehlschuss-erleichtert",
       "summary": "",
       "published": "2026-07-08T01:02:15.177687+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die Schweizer in der Einzelkritik: Kobel hat seinen langersehnten Heldenmoment. Aber er ist nicht der Einzige mit Note 6",
+      "url": "https://www.tagesanzeiger.ch/wm-2026-die-noten-der-nati-beim-penaltykrimi-gegen-kolumbien-122957100714",
+      "summary": "Der Goalie pariert einen Penalty und lenkt einen weiteren mit höherer Macht an die Latte. Und ein Verteidiger spielt so gut, dass er unbedingt eine Sondergenehmigung von Gianni Infantino braucht.",
+      "published": "2026-07-08T01:32:39.657658+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM: Welche Noten gibst du den Schweizer Helden nach Viertelfinal-Einzug?",
+      "url": "https://www.watson.ch/sport/user-unser/733668450-wm-welche-noten-gibst-du-den-schweizer-helden-nach-viertelfinal-einzug",
+      "summary": "",
+      "published": "2026-07-08T01:32:39.657658+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rätselraten um Gesundheitszustand von US-Senator Mitch McConnell",
+      "url": "https://www.watson.ch/international/usa/415530341-raetselraten-um-gesundheitszustand-von-us-senator-mitch-mcconnell",
+      "summary": "",
+      "published": "2026-07-08T01:32:39.657658+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zum Nachschauen: Das Penaltyschiessen und Stimmen zu Schweiz gegen Kolumbien",
+      "url": "https://www.bote.ch/nachrichten/sport/schweiz-kolumbien-das-penaltyschiessen-im-wm-achtelfinal-2026-art-1711840",
+      "summary": "",
+      "published": "2026-07-08T01:32:39.657658+00:00"
     }
   ]
 }
