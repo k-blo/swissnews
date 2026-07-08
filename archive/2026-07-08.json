@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T21:02:11.595951+00:00",
+  "generated": "2026-07-08T21:32:02.366205+00:00",
   "date": "2026-07-08",
-  "count": 990,
+  "count": 992,
   "articles": [
     {
       "source": "Watson",
@@ -6932,6 +6932,20 @@
       "url": "https://www.watson.ch/international/iran/259014428-usa-lancieren-erneut-angriffe-auf-den-iran",
       "summary": "",
       "published": "2026-07-08T21:02:11.595951+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "EFK kritisiert Informatikprojekte",
+      "url": "https://www.zentralplus.ch/news/efk-kritisiert-informatikprojekte-2883645/",
+      "summary": "Der Bund wiederholt bei wichtigen Informatikprojekten frühere Fehler. Zu diesem Schluss kommt die Eidgenössische Finanzkontrolle (EFK) in einem neu veröffentlichten Bericht. Betroffen seien Vorhaben m",
+      "published": "2026-07-08T21:32:02.366205+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sportchef Sutter muss gehen – GC beginnt mit neuen Besitzern «bei null»",
+      "url": "https://www.freiburger-nachrichten.ch/story/275485/sportchef-sutter-muss-gehen-gc-beginnt-mit-neuen-besitzern-bei-null",
+      "summary": "",
+      "published": "2026-07-08T21:32:02.366205+00:00"
     }
   ]
 }
