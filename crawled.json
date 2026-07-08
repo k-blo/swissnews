@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T00:02:58.578239+00:00",
+  "generated": "2026-07-08T00:32:15.899779+00:00",
   "date": "2026-07-08",
-  "count": 41,
+  "count": 46,
   "articles": [
     {
       "source": "Watson",
@@ -289,6 +289,41 @@
       "url": "https://www.freiburger-nachrichten.ch/story/275203/die-natinoten-zum-historischen-abend-der-eisvogel-%C3%BCberragt-alle-und-der-juniorchef-entt%C3%A4uscht",
       "summary": "",
       "published": "2026-07-08T00:02:58.578239+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Neue US-Angriffe auf Iran offenbar stärker als zuvor",
+      "url": "https://www.nzz.ch/international/iran-krieg/neue-us-angriffe-auf-iran-offenbar-staerker-als-zuvor-ld.10014583",
+      "summary": "",
+      "published": "2026-07-08T00:32:15.899779+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Guy Parmelin zum Zweiten und Bald Auch Üli Maurer Ansturm auf Switzerland Kappe Geht Weiter",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/guy-parmelin-zum-zweiten-und-bald-auch-ueli-maurer-ansturm-auf-switzerland-kappe-geht-weiter",
+      "summary": "",
+      "published": "2026-07-08T00:32:15.899779+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Protest Ärzte Wehren Sich Gegen den Tarifdeckel",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/protest-aerzte-wehren-sich-gegen-den-tarifdeckel",
+      "summary": "",
+      "published": "2026-07-08T00:32:15.899779+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Amerika ist 250 Jahre Alt der Schweizer Beitrag Teil I",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/amerika-ist-250-jahre-alt-der-schweizer-beitrag-teil-i",
+      "summary": "",
+      "published": "2026-07-08T00:32:15.899779+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tausende Fans feiern mit Pyros Nati-Erfolg gegen Kolumbien",
+      "url": "https://www.watson.ch/videos/fussball/871338962-tausende-fans-feiern-mit-pyros-nati-erfolg-gegen-kolumbien",
+      "summary": "",
+      "published": "2026-07-08T00:32:15.899779+00:00"
     }
   ]
 }
