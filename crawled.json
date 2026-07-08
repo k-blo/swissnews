@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T04:02:29.685935+00:00",
+  "generated": "2026-07-08T04:32:17.106462+00:00",
   "date": "2026-07-08",
-  "count": 203,
+  "count": 213,
   "articles": [
     {
       "source": "Watson",
@@ -1423,6 +1423,76 @@
       "url": "https://www.watson.ch/leben/musik/623725374-rolling-stones-mick-jagger-hofft-auf-konzerte-im-jahr-2027",
       "summary": "",
       "published": "2026-07-08T04:02:29.685935+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Umstrittene Neophyten – Nicht jede eingeschleppte Pflanze ist schädlich",
+      "url": "https://www.srf.ch/news/schweiz/umstrittene-neophyten-nicht-jede-eingeschleppte-pflanze-ist-schaedlich",
+      "summary": "Invasive Arten werden jedes Jahr mit Millionen Franken bekämpft. Doch manche könnten künftig ganz nützlich werden.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Neues Sandsport-Zentrum – Wie 600 Tonnen Sand aufs Dach kommen",
+      "url": "https://www.srf.ch/news/schweiz/neues-sandsport-zentrum-wie-600-tonnen-sand-aufs-dach-kommen",
+      "summary": "In Bern entsteht das grösste Beachvolleyball-Zentrum der Schweiz. Eine sandige Angelegenheit.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nutztiere – Hitze im Stall: Wie Bauern ihre Tiere schützen",
+      "url": "https://www.srf.ch/news/schweiz/nutztiere-hitze-im-stall-wie-bauern-ihre-tiere-schuetzen",
+      "summary": "Kühe, Schweine und Hühner leiden unter der Hitze. Bauern setzen deshalb auf Ventilatoren, Nachtweiden und Spezialfutter.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Belastung der Lehrpersonen: Weniger «Gratisarbeit» an Zürcher Schulen: Politik und Verbände starten Abstimmungs­kampagne",
+      "url": "https://www.tagesanzeiger.ch/zuerich-so-viel-gratis-arbeit-leisten-lehrpersonen-taeglich-594331746926",
+      "summary": "1,5 Stunden unbezahlte Arbeit am Tag leisteten Zürcher Lehrpersonen heute, sagen die Personalverbände. Das soll sich nun ändern – auch zum Wohl der Schulkinder.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Sperrung der Binningerstrasse: Grosser Frust im Leimental: «Die Basler Welt hört an der Kantonsgrenze auf»",
+      "url": "https://www.bazonline.ch/binningerstrasse-binningen-wuetend-ueber-einjaehrige-sperrung-357411989914",
+      "summary": "Für ein ganzes Jahr ist die Verkehrsachse stadteinwärts nicht befahrbar. Binningen befürchtet Verkehrschaos – einmal mehr wird im Baselbiet auch die Kommunikation aus der Stadt kritisiert.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Hitzewelle und fehlende Hausärzte: Ärztin zum Jodlerfest: «Gewisse Notfallstationen konnten keine Patienten mehr nehmen»",
+      "url": "https://www.bazonline.ch/jodlerfest-basel-notfallstationen-wegen-hitzewelle-ueberlastet-135896549368",
+      "summary": "Während des Traditionsanlasses ist das Universitätsspital Basel an seine Kapazitätsgrenzen gestossen. Mit solch einem hohen Aufkommen hat man nicht gerechnet.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "BaZ-Sommerrätsel mit -minu: Nummer 9: Welcher 48-jährige Stuttgarter führt Basels ethnografisches Juwel?",
+      "url": "https://www.bazonline.ch/museum-der-kulturen-basel-raetselspass-im-sommer-394996151175",
+      "summary": "Jede der 35 Sprossen richtig erraten, den Lösungsspruch einschicken und vielleicht einen speziellen Preis gewinnen. Das BaZ-Sommerrätsel mit -minu.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Baut sie in Emmen bald F-35 für Europa zusammen?",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-07-08/baut-sie-in-emmen-bald-f-35-fuer-europa-zusammen",
+      "summary": "Lockheed Martin hat die Offset-Geschäfte für den F-35 massiv erhöht – von 3 auf 3,7 Milliarden Dollar. Damit schaffen es einige Schweizer Unternehmen in die Lieferkette des Kampfjets F-35.",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Jetzt ist es nicht mehr weit bis zum WM-Titel»: Das sind die Helden von Vancouver",
+      "url": "https://www.bote.ch/nachrichten/sport/fussball-wm-2026-kobel-xhaka-akanji-und-vargas-das-sind-die-nati-helden-art-1711860",
+      "summary": "",
+      "published": "2026-07-08T04:32:17.106462+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Rätsel um Monaco Attentat",
+      "url": "https://insideparadeplatz.ch/2026/07/08/raetsel-um-monaco-attentat/",
+      "summary": "",
+      "published": "2026-07-08T04:32:17.106462+00:00"
     }
   ]
 }
