@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T22:31:56.832749+00:00",
+  "generated": "2026-07-08T23:01:46.443838+00:00",
   "date": "2026-07-09",
-  "count": 10,
+  "count": 17,
   "articles": [
     {
       "source": "Blick",
@@ -72,6 +72,55 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/lotenbach-art-1711898",
       "summary": "",
       "published": "2026-07-08T22:31:56.832749+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tram entgleist nach Kollision mit Reisecar: 17-Jährige verletzt",
+      "url": "https://www.20min.ch/story/basel-tram-entgleist-nach-kollision-mit-reisecar-17-jaehrige-verletzt-103599551",
+      "summary": "Ein Tram ist am Mittwochabend auf dem Messeplatz in Basel nach einer Kollision mit einem Reisecar entgleist. Eine 17-jährige Passagierin wurde leicht verletzt.",
+      "published": "2026-07-08T23:01:46.443838+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bewährungsstrafe nach U-Bootunglück",
+      "url": "https://www.zentralplus.ch/news/bewaehrungsstrafe-nach-u-bootunglueck-2883650/",
+      "summary": "Vor knapp neun Jahren ist vor der argentinischen Küste ein Militär-U-Boot gesunken. Nun hat ein Gericht den früheren Chef der U-Boot-Flotte zu einer dreijährigen Freiheitsstrafe auf Bewährung verurtei",
+      "published": "2026-07-08T23:01:46.443838+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tribüne stürzt bei Umbauarbeiten ein",
+      "url": "https://www.zentralplus.ch/news/tribuene-stuerzt-bei-umbauarbeiten-ein-2883649/",
+      "summary": "Im Weserstadion, dem Stadion des deutschen Fussballclubs Werder Bremen, ist ein Teil einer Tribüne eingestürzt. Verletzt wurde niemand, wie der Club mitteilt. Passiert sei es bei Umbauarbeiten. Es sei",
+      "published": "2026-07-08T23:01:46.443838+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach tödlicher Juni-Hitze rollt nächste Welle auf die Schweiz zu",
+      "url": "https://www.watson.ch/schweiz/gesundheit/177634674-nach-toedlicher-juni-hitze-rollt-naechste-welle-auf-die-schweiz-zu",
+      "summary": "",
+      "published": "2026-07-08T23:01:46.443838+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stadtzürcher Parlament kämpft um Imbiss-Stände am Bellevue",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/961913462-stadtzuercher-parlament-kaempft-um-imbiss-staende-am-bellevue",
+      "summary": "",
+      "published": "2026-07-08T23:01:46.443838+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fall Balogun: Donald Trumps WM-Beauftragter beschimpft Schiri",
+      "url": "https://www.watson.ch/sport/fussball/318007867-fall-balogun-donald-trumps-wm-beauftragter-beschimpft-schiri",
+      "summary": "",
+      "published": "2026-07-08T23:01:46.443838+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "17-Jährige bei Tram-Kollision in Basel leicht verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/780850675-17-jaehrige-bei-tram-kollision-in-basel-leicht-verletzt",
+      "summary": "",
+      "published": "2026-07-08T23:01:46.443838+00:00"
     }
   ]
 }
