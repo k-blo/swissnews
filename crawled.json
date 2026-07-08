@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T20:32:16.307733+00:00",
+  "generated": "2026-07-08T21:02:11.595951+00:00",
   "date": "2026-07-08",
-  "count": 988,
+  "count": 990,
   "articles": [
     {
       "source": "Watson",
@@ -6918,6 +6918,20 @@
       "url": "https://www.watson.ch/sport/tennis/892210257-wimbledon-zverev-trifft-auf-fery",
       "summary": "",
       "published": "2026-07-08T20:32:16.307733+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Finanzkontrolle rüffelt: Bund lernt bei IT-Projekten nicht dazu",
+      "url": "https://www.20min.ch/story/e-id-polycom-co-finanzkontrolle-rueffelt-bund-lernt-bei-it-projekten-nicht-dazu-103599267",
+      "summary": "Grosse IT-Projekte des Bundes sind trotz Warnungen vor zehn Jahren weiterhin mit Fehlern durchzogen. Die Finanzkontrolle kommt zum Schluss: Der Staat lernt nicht dazu.",
+      "published": "2026-07-08T21:02:11.595951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA lancieren erneut Angriffe auf den Iran",
+      "url": "https://www.watson.ch/international/iran/259014428-usa-lancieren-erneut-angriffe-auf-den-iran",
+      "summary": "",
+      "published": "2026-07-08T21:02:11.595951+00:00"
     }
   ]
 }

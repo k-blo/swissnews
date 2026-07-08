@@ -1,13 +1,13 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Wed, 08 Jul 2026 20:01:10 GMT",
-    "etag": "\"4d58c21fc51f7166747c770a3cc6d2b7\""
+    "last_modified": "Wed, 08 Jul 2026 20:56:28 GMT",
+    "etag": "\"915c068ea3052dd26f60f1a8605bc96a\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17c4f-nJuka8iqW8W7WBIIocaNwqqZwDk\""
+    "etag": "W/\"17c4b-jQLoMHPyexnmd7vIIhv5wMG51EQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"f9a9-oFEk85MYWw8skI9BU9JotfXP53g\""
+    "etag": "W/\"f61d-WGn1JWsIwacIsNNYrMGKJs+zTIc\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"f5a5-5jhzfP7u9+yxI9pLOikoOeiKo4M\""
@@ -23,7 +23,7 @@
     "etag": "\"1783541508\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 08 Jul 2026 20:27:03 GMT"
+    "last_modified": "Wed, 08 Jul 2026 20:57:06 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -36,12 +36,12 @@
     "etag": "W/\"f01d-kng9DdttGhg9XixZOyPMzMcASxw\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Wed, 08 Jul 2026 18:35:08 GMT",
-    "etag": "\"1783535708\""
+    "last_modified": "Wed, 08 Jul 2026 20:44:22 GMT",
+    "etag": "\"1783543462\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Wed, 08 Jul 2026 18:35:08 GMT",
-    "etag": "\"1783535708\""
+    "last_modified": "Wed, 08 Jul 2026 20:44:22 GMT",
+    "etag": "\"1783543462\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2c812-W6SX4Efis4JuGwJwdF6YArZvVCg\""
@@ -51,8 +51,8 @@
     "etag": "\"1782825428\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 08 Jul 2026 20:15:37 GMT",
-    "etag": "W/\"1783541737-gzip\""
+    "last_modified": "Wed, 08 Jul 2026 21:00:30 GMT",
+    "etag": "W/\"1783544430-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Wed, 08 Jul 2026 14:33:50 GMT",
