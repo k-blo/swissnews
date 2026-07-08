@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-07T23:32:43.586932+00:00",
+  "generated": "2026-07-08T00:02:58.578239+00:00",
   "date": "2026-07-08",
-  "count": 34,
+  "count": 41,
   "articles": [
     {
       "source": "Watson",
@@ -240,6 +240,55 @@
       "url": "https://www.freiburger-nachrichten.ch/story/275203/der-eisvogel-%C3%BCberragt-alle-und-der-juniorchef-entt%C3%A4uscht",
       "summary": "",
       "published": "2026-07-07T23:32:43.586932+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stimmen zum historischen Schweizer Sieg: «Wir haben Geschichte geschrieben, das ist einfach geil»",
+      "url": "https://www.tagesanzeiger.ch/schweiz-im-wm-viertelfinal-stimmen-zum-penaltyschiessen-818108580720",
+      "summary": "Die Emotionen gehen hoch nach dem Schlusspfiff gegen Kolumbien. Akanji sagt, er werde keine Penaltys mehr schiessen und Xhaka ist stolz auf seine Generation.",
+      "published": "2026-07-08T00:02:58.578239+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Schweiz steht erstmals in der Neuzeit in einem WM-Viertelfinal – sie hat sich das Glück im Penalty-Drama gegen Kolumbien erkämpft",
+      "url": "https://www.nzz.ch/sport/die-schweiz-steht-erstmals-in-der-neuzeit-in-einem-wm-viertelfinal-sie-hat-sich-das-glueck-im-penalty-drama-gegen-kolumbien-erkaempft-ld.10014520",
+      "summary": "",
+      "published": "2026-07-08T00:02:58.578239+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Das sagen Schweizer Penalty-Helden Kobel und Vargas",
+      "url": "https://www.watson.ch/sport/fussball/950378045-wm-2026-das-sagen-schweizer-penalty-helden-kobel-und-vargas",
+      "summary": "",
+      "published": "2026-07-08T00:02:58.578239+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Militär meldet «heftige Angriffe» gegen den Iran – das ist bekannt",
+      "url": "https://www.watson.ch/international/iran/841338640-us-militaer-meldet-heftige-angriffe-gegen-den-iran-das-ist-bekannt",
+      "summary": "",
+      "published": "2026-07-08T00:02:58.578239+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Auf dem Weg nach Pakistan: Frachtmaschine über Arabischem Meer vermisst",
+      "url": "https://www.watson.ch/international/luftfahrt/737648889-auf-dem-weg-nach-pakistan-frachtmaschine-ueber-arabischem-meer-vermisst",
+      "summary": "",
+      "published": "2026-07-08T00:02:58.578239+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Angst vor Betrug: Indien will die WhatsApp-Nutzernamen nun stoppen",
+      "url": "https://www.watson.ch/digital/indien/320644554-angst-vor-betrug-indien-will-die-whatsapp-nutzernamen-nun-stoppen",
+      "summary": "",
+      "published": "2026-07-08T00:02:58.578239+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Nati-Noten zum historischen Abend: Der Eisvogel überragt alle und der Junior-Chef enttäuscht",
+      "url": "https://www.freiburger-nachrichten.ch/story/275203/die-natinoten-zum-historischen-abend-der-eisvogel-%C3%BCberragt-alle-und-der-juniorchef-entt%C3%A4uscht",
+      "summary": "",
+      "published": "2026-07-08T00:02:58.578239+00:00"
     }
   ]
 }
