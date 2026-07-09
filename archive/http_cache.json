@@ -4,16 +4,16 @@
     "etag": "\"c915deba0abec9ec2d076c4c46db44d8\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"179a1-VveEvH/5mQ7WjvrcNg6csmrxVdI\""
+    "etag": "W/\"179a5-HArPktk9tkVq19xo16Bwl1XQvWk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"10ad7-ChGMyXnczctXKmzaMw5KtdYL2Os\""
+    "etag": "W/\"10724-P3s0U54igK+S8xuRwNCa1aMGQxk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"f19c-L3otVXPD7R1vVOd2MybY2DvzDo8\""
+    "etag": "W/\"f1ae-2w+o1l2B40gs00rlN2QBEen/o7I\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Thu, 09 Jul 2026 19:57:36 GMT"
+    "last_modified": "Thu, 09 Jul 2026 20:05:14 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
     "last_modified": "Thu, 09 Jul 2026 20:00:47 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1783623052\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Thu, 09 Jul 2026 20:00:33 GMT"
+    "last_modified": "Thu, 09 Jul 2026 20:15:35 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"f9d7-zNO10WAtaUSCVHv2cVIBcZUFIDo\""
+    "etag": "W/\"f9e9-iODbRz0PK1/NGqaPR4IQCSqvLWc\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"eefa-L2bsppqTg32/HaJ/GHFb07QognY\""
+    "etag": "W/\"ec27-KR4BHBDlh8sr40xyvZ1TdWpZ4xQ\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Thu, 09 Jul 2026 19:49:22 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1782825428\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Thu, 09 Jul 2026 20:00:26 GMT",
-    "etag": "W/\"1783627226-gzip\""
+    "last_modified": "Thu, 09 Jul 2026 20:15:19 GMT",
+    "etag": "W/\"1783628119-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Thu, 09 Jul 2026 17:02:35 GMT",
