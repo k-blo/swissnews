@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-09T00:32:19.145480+00:00",
+  "generated": "2026-07-09T01:01:51.921924+00:00",
   "date": "2026-07-09",
-  "count": 26,
+  "count": 32,
   "articles": [
     {
       "source": "Blick",
@@ -184,6 +184,48 @@
       "url": "https://www.watson.ch/international/frankreich/764346591-le-pen-holt-bardella-ins-boot-und-uebersieht-einen-entscheidenden-punkt",
       "summary": "",
       "published": "2026-07-09T00:32:19.145480+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trump genehmigt neue Attacken gegen Iran und warnt, es könnte noch «viel schlimmer» kommen",
+      "url": "https://www.nzz.ch/international/trump-genehmigt-neue-attacken-gegen-iran-und-warnt-es-koennte-noch-viel-schlimmer-kommen-ld.10014754",
+      "summary": "",
+      "published": "2026-07-09T01:01:51.921924+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mutter von «Dirty Dancing»-Star Grey «auf eigenen Wunsch» gestorben",
+      "url": "https://www.watson.ch/leben/usa/348912707-mutter-von-dirty-dancing-star-grey-auf-eigenen-wunsch-gestorben",
+      "summary": "",
+      "published": "2026-07-09T01:01:51.921924+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ICE-Beamter erschiesst mexikanischen Einwanderer: Sohn widerspricht",
+      "url": "https://www.watson.ch/international/usa/671025778-ice-beamter-erschiesst-mexikanischen-einwanderer-sohn-widerspricht",
+      "summary": "",
+      "published": "2026-07-09T01:01:51.921924+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bericht zeigt: Bei Informatikprojekten wiederholt Bund frühere Fehler",
+      "url": "https://www.watson.ch/schweiz/digital/490475629-bericht-zeigt-bei-informatikprojekten-wiederholt-bund-fruehere-fehler",
+      "summary": "",
+      "published": "2026-07-09T01:01:51.921924+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann hat 39 Opfer mit falschen Uhrengeschäften getäuscht",
+      "url": "https://www.watson.ch/schweiz/justiz/764337737-mann-hat-39-opfer-mit-falschen-uhrengeschaeften-getaeuscht",
+      "summary": "",
+      "published": "2026-07-09T01:01:51.921924+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Le Pen holt Bardella ins Wahlticket – und übersieht einen entscheidenden Punkt",
+      "url": "https://www.freiburger-nachrichten.ch/story/275499/le-pen-holt-bardella-ins-wahlticket%C2%A0-und-%C3%BCbersieht-einen-entscheidenden-punkt",
+      "summary": "",
+      "published": "2026-07-09T01:01:51.921924+00:00"
     }
   ]
 }
