@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-09T09:31:56.522682+00:00",
+  "generated": "2026-07-09T10:01:59.104304+00:00",
   "date": "2026-07-09",
-  "count": 476,
+  "count": 522,
   "articles": [
     {
       "source": "Blick",
@@ -3334,6 +3334,328 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/kredit-fuer-strassensanierung-in-gersau-sz-reicht-nicht-aus-art-1712043",
       "summary": "",
       "published": "2026-07-09T09:31:56.522682+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wichtige Informatikprojekte – Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung",
+      "url": "https://www.srf.ch/news/schweiz/wichtige-informatikprojekte-schluesselprojekte-im-fokus-efk-rueffelt-bundesverwaltung",
+      "summary": "Der Bund mache den gleichen Fehler wie vor 10 Jahren, schreibt die Eidgenössische Finanzkontrolle in einem Bericht.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Unfall in Haag SG: Zwei Autos landen nach Frontalcrash auf dem Dach",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/unfall-in-haag-sg-zwei-autos-landen-nach-frontalcrash-auf-dem-dach-id22096041.html",
+      "summary": "Schwerer Unfall in Haag im Kanton St. Gallen: Am Mittwochabend kollidierten zwei Autos frontal miteinander. Beide Fahrzeuge überschlugen sich und landeten im Strassengraben.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Noch nie erlebt»: Nati-Fan leidet mit Tochter bei Penalty-Krimi",
+      "url": "https://www.20min.ch/story/einmal-um-die-welt-noch-nie-erlebt-nati-fan-leidet-mit-tochter-bei-penalty-krimi-103599552",
+      "summary": "Marcel Rohner feiert nach über 30 Jahren als Superfan der Nati gegen Kolumbien in Vancouver den bislang grössten Moment des Schweizer Fussballs – mit unfassbaren Emotionen.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Normal im Bündnerland»: Skoda-Fahrer geht mit Transport viral",
+      "url": "https://www.20min.ch/story/rueun-gr-normal-im-buendnerland-skoda-fahrer-geht-mit-transport-viral-103599670",
+      "summary": "In Rueun kontrollierte die Kantonspolizei einen Autofahrer mit einer auffälligen Rohrladung. Die Sicht war eingeschränkt, die Kennzeichnung fehlte.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "37 Grad erwartet: Die Hitzewelle kommt mit voller Wucht",
+      "url": "https://www.20min.ch/story/schweiz-37-grad-erwartet-die-hitzewelle-kommt-mit-voller-wucht-103599723",
+      "summary": "Aktuell ist kein Ende der Hitzeperiode in Sicht. Bis Mitte kommender Woche bleiben die Temperaturen über 30 Grad. Auch die Trockenheit verschärft sich weiter.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gefahr nicht erkannt: Selbstfahrendes Auto fährt durch Feuerwerk",
+      "url": "https://www.20min.ch/video/san-francisco-waymo-selbstfahrendes-auto-faehrt-durch-feuerwerk-103599720",
+      "summary": "Rose und ihre Freundin waren am US-Nationalfeiertag mit einem fahrerlosen Waymo-Auto unterwegs. Das fuhr mitten durch ein Feuerwerk. Das Fahrzeug erkannte die Gefahr nicht. Glücklicherweise blieben di",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweizer wissen nicht, wo überall PFAS drinstecken",
+      "url": "https://www.20min.ch/story/pfas-chemie-eth-studie-schweiz-lebensmittel-103599726",
+      "summary": "Was weiss die Schweizer Bevölkerung über PFAS, auch bekannt als Ewigkeitschemikalien? Nicht sehr viel, sagen nun die ETH und das Bundesamt für Umwelt in einer neuen Befragung.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "KI-Chatbot Claude zitiert russische Propaganda als News",
+      "url": "https://www.20min.ch/story/studie-ki-chatbot-claude-zitiert-russische-propaganda-als-news-103599646",
+      "summary": "Viele Menschen nutzen mittlerweile KI-Chatbots statt die Google-Suche. Dort hoffen sie auf neutrale Informationen. Doch die bekommen sie offenbar nicht immer.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Niederlage für Lieferdienst: Uber Eats Switzerland muss sich als Postanbieterin registrieren",
+      "url": "https://www.tagesanzeiger.ch/uber-eats-switzerland-niederlage-vor-bundesverwaltungsgericht-278504090216",
+      "summary": "Das Bundesverwaltungsgericht weist eine Beschwerde von Uber Eats ab. Weil der Dienst auch Alltagsprodukte ausliefert, gilt er neu als Postanbieter mit Meldepflicht.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Digitale Vermessung: Messfahrzeug scannt Aarauer Strassen in 3D",
+      "url": "https://www.tagesanzeiger.ch/aarau-messfahrzeug-scannt-strassen-in-3d-486647797277",
+      "summary": "Die Stadt Aarau lässt ihren gesamten Strassenraum hochauflösend erfassen. Die Daten sollen präziser sein als bei Google Street View.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Freibäder Stadt Bern: 853’000 Badegäste trotz verspätetem Start – Marzili bricht Rekord",
+      "url": "https://www.bernerzeitung.ch/freibaeder-bern-853000-besuche-bis-anfang-juli-774396652144",
+      "summary": "Ein aussergewöhnlich heisser Juni lockte die Bernerinnen und Berner in Scharen in die Freibäder. Am 28. Juni zählte das Marzili 24’000 Badende – ein neuer Tagesrekord.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Bilanz des Gipfels von Ankara: Die Unberechenbarkeit der Schutzmacht Amerika bringt Europa in Gefahr",
+      "url": "https://www.derbund.ch/nato-gipfel-ankara-europa-wird-staerker-das-buendnis-schwaecher-252129833089",
+      "summary": "Erst beschimpft Trump die Verbündeten, dann überschüttet er sie mit «Liebe». Dieser Gipfel verdeutlicht: Die Nato ist lebendig und tot zugleich.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Der erste Steuerrabatt der Schweiz wird bekämpft",
+      "url": "https://www.zentralplus.ch/politik/der-erste-steuerrabatt-der-schweiz-wird-bekaempft-2883720/",
+      "summary": "Für Linke fatal, für Bürgerliche gerecht: Der Zuger Kantonsrat hat einen Steuerrabatt beschlossen. Hinter den Kulissen braut sich Widerstand zusammen. Das Referendum rückt näher. Nachdem der Zuger Kan",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kooperationsbüro in Syrien",
+      "url": "https://www.zentralplus.ch/news/kooperationsbuero-in-syrien-2883721/",
+      "summary": "Die Schweiz hat neu ein Kooperationsbüro in Syrien. Diese aufgewertete Präsenz in der Hauptstadt Damaskus soll einen Beitrag leisten zum politischen Wandel und zur Entwicklung in dem Land, teilte das ",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Aus der Branchen Versicherung wird die visavis Versicherung",
+      "url": "https://www.finews.ch/news/versicherungen/72892-umfirmierung-branchen-versicherung-visavis-genossenschaft-metzger-fleischgewerbe-rebranding",
+      "summary": "Die Branchen Versicherung firmiert neu unter visavis Versicherung. Damit soll die Ausrichtung als Unternehmensversicherung mit Lösungen auf Augenhöhe unterstrichen werden.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Mobilezone verliert seinen COO an die Post",
+      "url": "https://www.netzwoche.ch/news/2026-07-09/mobilezone-verliert-seinen-coo-an-die-post",
+      "summary": "Seit November 2025 ist Lars Keller COO von Mobile Zone. Ende 2026 verlässt er das Unternehmen wieder und wechselt zur Schweizerischen Post. Mobile Zone plant bereits Kellers Nachfolge.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Walkthrough durch die Dating-Questreihe",
+      "url": "https://www.netzwoche.ch/netzwitzig/2026-07-09/walkthrough-durch-die-dating-questreihe",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Steigende Preise bremsen den PC-Markt",
+      "url": "https://www.netzwoche.ch/news/2026-07-09/steigende-preise-bremsen-den-pc-markt",
+      "summary": "Die weltweiten Verkäufe von Desktops, Notebooks und Workstations sind im zweiten Quartal 2026 im Vergleich zum Vorjahreszeitraum um knapp 4 Prozent zurückgegangen. Als Grund nennt der Marktforscher Om",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Zürich investiert Millionen in KI-Plattform für die Verwaltung",
+      "url": "https://www.inside-it.ch/zuerich-investiert-millionen-in-ki-plattform-fuer-die-verwaltung-20260709",
+      "summary": "Mit dem Projekt \"SynerKI\" will der Kanton den Einsatz von Künstlicher Intelligenz koordinieren und dauerhaft verankern – auch bei schützenswerten Daten.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Emiliano Martínez ist kein gewöhnlicher Torhüter. Erst als er kam, wurde Lionel Messi endlich Weltmeister",
+      "url": "https://www.nzz.ch/sport/emiliano-martinez-ist-kein-gewoehnlicher-torhueter-erst-als-er-kam-wurde-lionel-messi-endlich-weltmeister-ld.10014732",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Lukullus testet das «Oso» in Schaffhausen",
+      "url": "https://www.shn.ch/leben-genuss/2026-07-09/lukullus-testet-das-oso-in-schaffhausen",
+      "summary": "Unser Gourmet ist heute im «OSO Art of Tapas» unterwegs. So schmeckte es ihm dort.",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Strassensperrung zwischen Buch und Murbach (D): Linie 25 wird wegen Belagsarbeiten umgeleitet",
+      "url": "https://www.shn.ch/region/2026-07-09/strassensperrung-zwischen-buch-und-murbach-d-linie-25-wird-wegen-belagsarbeiten",
+      "summary": "Wegen Belagsarbeiten auf der Kantonsstrasse zwischen Buch und Murbach (D) kommt es bei der Buslinie 25 der Verkehrsbetriebe Schaffhausen zu Umleitungen und Anpassungen im Fahrplan. Mehrere Haltestelle",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Chinas Weinmarkt Steht am Abgrund",
+      "url": "https://www.bilanz.ch/enjoy/wein/chinas-weinmarkt-steht-am-abgrund/0b07s07",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Live Sascha Ring ist mit Apparat der Meister Kontrollierter Detonation",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/luzern-live-sascha-ring-ist-mit-apparat-der-meister-kontrollierter-detonation-ld.4198481",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Public Viewings im Kanton Luzern für die Fussball Nati",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/public-viewings-im-kanton-luzern-fuer-die-fussball-nati-ld.4199657",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Wil Trotz Leerer Brunnen Wird der Kunstrasen Gewässert",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/wil-trotz-leerer-brunnen-wird-der-kunstrasen-gewaessert-ld.4199654",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Quo Vadis Volley Toggenburg der Ligärhalt Wird Nicht um Jeden Preis Angestrebt",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/quo-vadis-volley-toggenburg-der-ligaerhalt-wird-nicht-um-jeden-preis-angestrebt-ld.4198748",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Rorschach ist in Toronto ein Begriff Dank einer Populären Brauerei",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/rorschach-ist-in-toronto-ein-begriff-dank-einer-populaeren-brauerei-ld.4199310",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Altstätten 32 Jähriger nach Selbstunfall Angehalten",
+      "url": "https://www.tagblatt.ch/ostschweiz/rheintal/altstaetten-32-jaehriger-nach-selbstunfall-angehalten-ld.4200318",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Glosse die Wm Macht Weinfelder zu Frühaufstehern",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/glosse-die-wm-macht-weinfelder-zu-fruehaufstehern-ld.4199580",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Skifest Rothrist mit Sommer Biathlon und Partyprogramm",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/skifest-rothrist-mit-sommer-biathlon-und-partyprogramm-ld.4198843",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Herisau Timo Meier Kehrt für Hockey Camp in die Heimat Zurück",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/herisau-timo-meier-kehrt-fuer-hockey-camp-in-die-heimat-zurueck-ld.4199615",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Feuerverbot in Nid und Obwalden Tritt Ab Sofort in Kraft",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/feuerverbot-in-nid-und-obwalden-tritt-ab-sofort-in-kraft-ld.4200265",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bonnie Tylers grösste Songs",
+      "url": "https://www.watson.ch/leben/people/830218546-bonnie-tylers-groesste-songs",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "NATO-Gipfel in Ankara – Die schrägsten Momente",
+      "url": "https://www.watson.ch/videos/nato/617125771-nato-gipfel-in-ankara-die-schraegsten-momente",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "New Yorker Künstler verkauft Müll von Taylor Swifts Hochzeit",
+      "url": "https://www.watson.ch/leben/konsum/777870662-new-yorker-kuenstler-verkauft-muell-von-taylor-swifts-hochzeit",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Feuerverbot auf den ganzen Kanton ausgeweitet",
+      "url": "https://www.freiburger-nachrichten.ch/story/275571/feuerverbot-auf-den-ganzen-kanton-ausgeweitet",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gemeinsamer Spaziergang der KAB Sektionen",
+      "url": "https://www.freiburger-nachrichten.ch/story/275608/gemeinsamer-spaziergang-der-kab-sektionen",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der Champion ist entthront: Was die Firmen in Ihrem Kanton und Ihrer Gemeinde wert sind",
+      "url": "https://www.freiburger-nachrichten.ch/story/275606/der-champion-ist-entthront-was-die-firmen-in-ihrem-kanton-und-ihrer-gemeinde-wert-sind",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ausflug über den Sensegraben",
+      "url": "https://www.freiburger-nachrichten.ch/story/275596/ausflug-%C3%BCber-den-sensegraben",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ikone mit Reibeisenstimme: Sängerin Bonnie Tyler ist tot",
+      "url": "https://www.freiburger-nachrichten.ch/story/275599/ikone-mit-reibeisenstimme-s%C3%A4ngerin-bonnie-tyler-ist-tot",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Murtner 30+-NLA-Damen sind Vize-Schweizer-Meister",
+      "url": "https://www.freiburger-nachrichten.ch/story/275582/murtner-30nladamen-sind-vizeschweizermeister",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Börsen-Barometer: Sandoz und Galderma kommen rein, Swisscom fliegt raus",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/smi-sandoz-kommt-swisscom-fliegt-raus-art-1712050",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Apparat kommt nach Luzern – der Meister der kontrollierten Detonation",
+      "url": "https://www.bote.ch/nachrichten/kultur/luzern-live-sascha-ring-ist-mit-apparat-der-meister-kontrollierter-detonation-art-1712049",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auch Nid- und Obwalden erlassen Feuer- und Feuerwerksverbot",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/feuerverbot-in-nid-und-obwalden-tritt-ab-sofort-in-kraft-art-1712048",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Public Viewings – wo die grösste Fussball-Partynacht in Luzern gemeinsam gefeiert wird",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/public-viewings-im-kanton-luzern-fuer-die-fussball-nati-art-1712045",
+      "summary": "",
+      "published": "2026-07-09T10:01:59.104304+00:00"
     }
   ]
 }
