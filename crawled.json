@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-09T22:31:13.430581+00:00",
+  "generated": "2026-07-09T23:01:45.643641+00:00",
   "date": "2026-07-10",
-  "count": 17,
+  "count": 21,
   "articles": [
     {
       "source": "Zentralplus",
@@ -121,6 +121,34 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/auch-spitzenschuetzen-trainieren-im-tannerli-art-1712053",
       "summary": "",
       "published": "2026-07-09T22:31:13.430581+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die Frau, die nicht aufgab: Älteste Frau im All: Luftfahrtpionierin Wally Funk ist tot",
+      "url": "https://www.tagesanzeiger.ch/wally-funk-gestorben-aelteste-frau-im-all-wurde-87-817417948056",
+      "summary": "Sie bestand bereits in den 1960er-Jahren die Astronautentests der NASA – fliegen durfte sie trotzdem nie. Erst mit 82 Jahren erfüllte sich Wally Funk ihren Lebenstraum. Nun ist die Luftfahrtpionierin ",
+      "published": "2026-07-09T23:01:45.643641+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: Frankreich verschärft Sicherheitsmassnahmen +++ So tickt der Schweizer Fussballfan",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-frankreich-verschaerft-sicherheitsmassnahmen-so-tickt-der-schweizer-fussballfan-ld.10010036",
+      "summary": "",
+      "published": "2026-07-09T23:01:45.643641+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mbappé führt Frankreich gegen Marokko ins WM-Halbfinal",
+      "url": "https://www.nzz.ch/sport/wm-spiel-frankreich-gegen-marokko-trotz-elfer-fehlschuss-ist-frankreich-im-halbfinal-ld.10014937",
+      "summary": "",
+      "published": "2026-07-09T23:01:45.643641+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mbappé brilliert erneut – Frankreich schlägt Marokko im WM-Viertelfinal",
+      "url": "https://www.watson.ch/sport/fussball/709957734-mbappe-brilliert-erneut-frankreich-schlaegt-marokko-im-wm-viertelfinal",
+      "summary": "",
+      "published": "2026-07-09T23:01:45.643641+00:00"
     }
   ]
 }
