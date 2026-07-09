@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T23:01:46.443838+00:00",
+  "generated": "2026-07-09T00:01:44.427472+00:00",
   "date": "2026-07-09",
-  "count": 17,
+  "count": 20,
   "articles": [
     {
       "source": "Blick",
@@ -121,6 +121,27 @@
       "url": "https://www.watson.ch/schweiz/polizeirapport/780850675-17-jaehrige-bei-tram-kollision-in-basel-leicht-verletzt",
       "summary": "",
       "published": "2026-07-08T23:01:46.443838+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA lancieren erneut Angriffe auf den Iran",
+      "url": "https://www.watson.ch/international/liveticker/259014428-usa-lancieren-erneut-angriffe-auf-den-iran",
+      "summary": "",
+      "published": "2026-07-09T00:01:44.427472+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump verwechselt Iran mit Japan – das Internet reagiert",
+      "url": "https://www.watson.ch/spass/iran/645611468-trump-verwechselt-iran-mit-japan-das-internet-reagiert",
+      "summary": "",
+      "published": "2026-07-09T00:01:44.427472+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Prinz Harry verliert gegen die «Daily Mail» – warum das Urteil mehr als nur eine Niederlage ist",
+      "url": "https://www.freiburger-nachrichten.ch/story/275504/prinz-harry-verliert-gegen-die-daily-mail-warum-das-urteil-mehr-als-nur-eine-niederlage-ist",
+      "summary": "",
+      "published": "2026-07-09T00:01:44.427472+00:00"
     }
   ]
 }
