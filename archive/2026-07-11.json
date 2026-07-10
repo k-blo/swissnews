@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-10T22:31:22.125832+00:00",
+  "generated": "2026-07-10T23:01:41.724265+00:00",
   "date": "2026-07-11",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Zentralplus",
@@ -156,6 +156,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/amtsschimmel-oder-einsprachenflut-kanton-und-verkehrsclub-im-zwist-wegen-verzoegerungen-im-strassenbau-art-1712233",
       "summary": "",
       "published": "2026-07-10T22:31:22.125832+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vorwurf des Diebstahls: Apple verklagt ChatGPT-Firma OpenAI",
+      "url": "https://www.tagesanzeiger.ch/apple-vs-openai-chatgpt-klage-vorwurf-diebstahl-von-firmengeheimnissen-144089206797",
+      "summary": "Die ChatGPT-Firma OpenAI entwickelt ein Gerät speziell für die Nutzung mit Künstlicher Intelligenz. Dabei wurden auch Apple-Mitarbeiter verpflichtet. Jetzt gibt es eine Klage.",
+      "published": "2026-07-10T23:01:41.724265+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Firmengeheimnisse gestohlen»",
+      "url": "https://www.zentralplus.ch/news/firmengeheimnisse-gestohlen-2884237/",
+      "summary": "Der iPhone-Hersteller Apple verklagt OpenAI, das Unternehmen hinter ChatGPT. Apple wirft OpenAI vor, Firmengeheimnisse von Apple gestohlen zu haben. Das heisst es in der Klage, die das Unternehmen bei",
+      "published": "2026-07-10T23:01:41.724265+00:00"
     }
   ]
 }
