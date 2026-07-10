@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-10T23:01:41.724265+00:00",
+  "generated": "2026-07-10T23:17:08.423576+00:00",
   "date": "2026-07-11",
-  "count": 24,
+  "count": 25,
   "articles": [
     {
       "source": "Zentralplus",
@@ -170,6 +170,13 @@
       "url": "https://www.zentralplus.ch/news/firmengeheimnisse-gestohlen-2884237/",
       "summary": "Der iPhone-Hersteller Apple verklagt OpenAI, das Unternehmen hinter ChatGPT. Apple wirft OpenAI vor, Firmengeheimnisse von Apple gestohlen zu haben. Das heisst es in der Klage, die das Unternehmen bei",
       "published": "2026-07-10T23:01:41.724265+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VEN: Zahl der Todesopfer auf über 4000",
+      "url": "https://www.zentralplus.ch/news/ven-zahl-der-todesopfer-auf-ueber-4000-2884239/",
+      "summary": "Die Zahl der Todesopfer nach den verheerenden Erdbeben in Venezuela ist auf über 4100 angestiegen. Fast 17&#8217;000 Menschen wurden verletzt. Tausende sind weiterhin obdachlos, und nach wie vor wird ",
+      "published": "2026-07-10T23:17:08.423576+00:00"
     }
   ]
 }
