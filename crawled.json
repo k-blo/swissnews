@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-10T01:01:16.032940+00:00",
+  "generated": "2026-07-10T01:31:24.264777+00:00",
   "date": "2026-07-10",
-  "count": 34,
+  "count": 35,
   "articles": [
     {
       "source": "Zentralplus",
@@ -240,6 +240,13 @@
       "url": "https://www.watson.ch/sport/fussball/516425736-ayyoub-bouaddi-das-sagt-er-nach-wm-aus-gegen-geburtsland-frankreich",
       "summary": "",
       "published": "2026-07-10T01:01:16.032940+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "SRF Donnschtig-Jass: Die jüngste Jasserin verhilft Horgen zum Sieg – nun kommt die Live-Sendung an den Zürichsee",
+      "url": "https://www.tagesanzeiger.ch/srf-donnschtig-jass-horgen-schlaegt-meilen-und-holt-die-live-sendung-den-zuerichsee-259486683468",
+      "summary": "Im luzernischen Römerswil gewinnt Horgen das Jass-Duell gegen Meilen klar. Unter anderem dank der 14-jährigen Giulia Graf. Nun erwartet man in Horgen rund 4000 Gäste und hat in Meilen eine Niederlage ",
+      "published": "2026-07-10T01:31:24.264777+00:00"
     }
   ]
 }
