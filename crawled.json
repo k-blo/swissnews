@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-10T14:01:28.943975+00:00",
+  "generated": "2026-07-10T14:07:37.138844+00:00",
   "date": "2026-07-10",
-  "count": 619,
+  "count": 626,
   "articles": [
     {
       "source": "Zentralplus",
@@ -4335,6 +4335,55 @@
       "url": "https://www.freiburger-nachrichten.ch/story/275704/keine-strafanzeige-ohne-termin-mehr",
       "summary": "",
       "published": "2026-07-10T14:01:28.943975+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Reha-Patientin (56) erschossen: Polizei fahndet nach Mann",
+      "url": "https://www.20min.ch/story/faido-ti-reha-patientin-tot-sie-wurde-mit-schussverletzung-entdeckt-103600565",
+      "summary": "Am Donnerstagabend wurde bei der Rehaklinik in Faido eine Frau tot mit Schussverletzungen gefunden. Ein Mann wird gesucht.",
+      "published": "2026-07-10T14:07:37.138844+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wegen anhaltender Trockenheit: Erste Gemeinden verbieten Grillieren mit Holzkohle auf dem Balkon",
+      "url": "https://www.tagesanzeiger.ch/trockenheit-zuerich-verbietet-holzkohlegrill-auf-balkon-483410184797",
+      "summary": "Richterswil, Hombrechtikon und weitere Gemeinden verschärfen das kantonale Feuerverbot drastisch. Selbst auf Balkonen und Terrassen darf kein offenes Feuer mehr entfacht werden.",
+      "published": "2026-07-10T14:07:37.138844+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Drohnenattacken und Treibstoffkrise: Putin steht unter Druck – droht jetzt die nächste Eskalation?",
+      "url": "https://www.tagesanzeiger.ch/putin-droht-russland-mit-neuer-mobilmachung-im-donbas-151837218993",
+      "summary": "Ukrainische Angriffe treffen Russland empfindlich. Doch ob der russische Machthaber so weit geht, eine zweite Mobilmachung auszurufen, ist fraglich.",
+      "published": "2026-07-10T14:07:37.138844+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "KI-Modelle sehr anfällig für mehrstufige Angriffe",
+      "url": "https://www.inside-it.ch/ki-modelle-sehr-anfaellig-fuer-mehrstufige-angriffe-20260710",
+      "summary": "Wenn KI-Modelle in einfachen Sicherheitstests gut abschneiden, bedeutet dies laut einem Cisco-Report nicht viel.",
+      "published": "2026-07-10T14:07:37.138844+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mit dem Falschen Arm auf das Podest ein Selbstversuch im Armbrustschiessen",
+      "url": "https://www.suedostschweiz.ch/linth/mit-dem-falschen-arm-auf-das-podest-ein-selbstversuch-im-armbrustschiessen-1927317",
+      "summary": "",
+      "published": "2026-07-10T14:07:37.138844+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine-Krieg: Kreml schickt Soldaten auf tödliche Propaganda-Mission",
+      "url": "https://www.watson.ch/international/russland/755289375-ukraine-krieg-kreml-schickt-soldaten-auf-toedliche-propaganda-mission",
+      "summary": "",
+      "published": "2026-07-10T14:07:37.138844+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schon am Montag beginnen die Bauarbeiten für den nächsten Kreisel",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schon-am-montag-beginnen-die-bauarbeiten-fuer-den-naechsten-kreisel-art-1712230",
+      "summary": "",
+      "published": "2026-07-10T14:07:37.138844+00:00"
     }
   ]
 }
