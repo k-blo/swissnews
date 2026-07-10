@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-09T23:31:27.565633+00:00",
+  "generated": "2026-07-10T00:01:16.437228+00:00",
   "date": "2026-07-10",
-  "count": 21,
+  "count": 23,
   "articles": [
     {
       "source": "Zentralplus",
@@ -149,6 +149,20 @@
       "url": "https://www.watson.ch/sport/fussball/709957734-mbappe-brilliert-erneut-frankreich-schlaegt-marokko-im-wm-viertelfinal",
       "summary": "",
       "published": "2026-07-09T23:01:45.643641+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Älteste Frau im All: Luftfahrtpionierin Wally Funk ist tot",
+      "url": "https://www.20min.ch/story/mit-82-ins-all-aelteste-frau-im-all-luftfahrtpionierin-wally-funk-ist-tot-103600265",
+      "summary": "Sie bestand bereits in den 1960er-Jahren die Astronautentests der NASA – fliegen durfte sie trotzdem nie. Erst mit 82 Jahren erfüllte sich ihr Lebenstraum.",
+      "published": "2026-07-10T00:01:16.437228+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VEN: Gesundheitsversorgung unterbrochen",
+      "url": "https://www.zentralplus.ch/news/ven-gesundheitsversorgung-unterbrochen-2883945/",
+      "summary": "Zwei Wochen nach dem schweren Doppel-erdbeben in Venezuela ist die Gesundheitsversorgung teils unterbrochen, wie die Panamerikanische Gesundheitsorganisation mitteilt. Überfüllte Notunterkünfte und fe",
+      "published": "2026-07-10T00:01:16.437228+00:00"
     }
   ]
 }
