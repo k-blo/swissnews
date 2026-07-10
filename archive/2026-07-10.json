@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-10T01:31:24.264777+00:00",
+  "generated": "2026-07-10T02:01:30.402863+00:00",
   "date": "2026-07-10",
-  "count": 35,
+  "count": 37,
   "articles": [
     {
       "source": "Zentralplus",
@@ -247,6 +247,20 @@
       "url": "https://www.tagesanzeiger.ch/srf-donnschtig-jass-horgen-schlaegt-meilen-und-holt-die-live-sendung-den-zuerichsee-259486683468",
       "summary": "Im luzernischen Römerswil gewinnt Horgen das Jass-Duell gegen Meilen klar. Unter anderem dank der 14-jährigen Giulia Graf. Nun erwartet man in Horgen rund 4000 Gäste und hat in Meilen eine Niederlage ",
       "published": "2026-07-10T01:31:24.264777+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "150 Feuerwehrleute im Einsatz: Mindestens zwölf Tote bei Waldbrand im Süden Spaniens",
+      "url": "https://www.tagesanzeiger.ch/waldbrand-in-andalusien-mindestens-zwoelf-tote-288795917685",
+      "summary": "Bei einem Waldbrand in der südspanischen Region Andalusien sind mindestens zwölf Menschen ums Leben gekommen. Noch nie forderte ein Waldbrand in der Region so viele Todesopfer.",
+      "published": "2026-07-10T02:01:30.402863+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Adieu Montreux! Wieso das Festival am Genfersee viel von seiner Strahlkraft eingebüsst hat",
+      "url": "https://www.bote.ch/nachrichten/kultur/montreux-jazzfestival-wird-60-warum-es-an-strahlkraft-verliert-art-1712166",
+      "summary": "",
+      "published": "2026-07-10T02:01:30.402863+00:00"
     }
   ]
 }
