@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T01:01:38.545575+00:00",
+  "generated": "2026-07-11T01:33:20.013024+00:00",
   "date": "2026-07-11",
-  "count": 34,
+  "count": 35,
   "articles": [
     {
       "source": "Zentralplus",
@@ -240,6 +240,13 @@
       "url": "https://www.watson.ch/sport/fussball/132894938-wm-belgien-goalie-courtois-wurde-gegen-seinen-willen-ausgewechselt",
       "summary": "",
       "published": "2026-07-11T01:01:38.545575+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "McDonald's wehrt sich gegen Nein zum Baugesuch in Windisch",
+      "url": "https://www.20min.ch/story/aargau-windisch-gemeinde-gegen-mcdonalds-mit-mcdrive-baugesuch-abgelehnt-beschwerde-103600913",
+      "summary": "Der Gemeinderat von Windisch AG hat das Baugesuch des Fast-Food-Riesen abgelehnt. McDonald's will aber am Lokal mit McDrive festhalten.",
+      "published": "2026-07-11T01:33:20.013024+00:00"
     }
   ]
 }
