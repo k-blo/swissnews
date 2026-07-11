@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T23:32:30.004909+00:00",
+  "generated": "2026-07-11T23:51:32.329132+00:00",
   "date": "2026-07-12",
-  "count": 7,
+  "count": 12,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -51,6 +51,41 @@
       "url": "https://www.watson.ch/sport/liveticker/668192912-wm-2026-schweiz-trifft-im-viertelfinal-auf-argentinien-im-liveticker",
       "summary": "",
       "published": "2026-07-11T23:32:30.004909+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Schafft die Schweiz die Sensation im WM-Viertelfinale gegen Argentinien? Mit dieser Aufstellung soll der Coup gelingen",
+      "url": "https://www.nzz.ch/sport/schafft-die-schweiz-die-sensation-im-wm-viertelfinale-gegen-argentinien-mit-dieser-aufstellung-soll-der-coup-gelingen-ld.10015046",
+      "summary": "",
+      "published": "2026-07-11T23:51:32.329132+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran schliesst Strasse von Hormus – Warnschüsse auf Schiff",
+      "url": "https://www.watson.ch/international/iran/295509659-iran-schliesst-strasse-von-hormus-warnschuesse-auf-schiff",
+      "summary": "",
+      "published": "2026-07-11T23:51:32.329132+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Konstantin Wecker erwirkt Verbot von Enthüllungsbericht",
+      "url": "https://www.watson.ch/leben/deutschland/129368850-konstantin-wecker-erwirkt-verbot-von-enthuellungsbericht",
+      "summary": "",
+      "published": "2026-07-11T23:51:32.329132+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran schliesst Strasse von Hormus – Warnschuss auf Schiff",
+      "url": "https://www.watson.ch/international/iran/859719386-iran-schliesst-strasse-von-hormus-warnschuss-auf-schiff",
+      "summary": "",
+      "published": "2026-07-11T23:51:32.329132+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nati-Aufstellung ist da: Vargas auf der Bank, Sow darf beginnen – Schweizer Halbfinal-Gegner bekannt",
+      "url": "https://www.bote.ch/nachrichten/sport/schweiz-argentinien-liveticker-wm-viertelfinal-2026-art-1712413",
+      "summary": "",
+      "published": "2026-07-11T23:51:32.329132+00:00"
     }
   ]
 }
