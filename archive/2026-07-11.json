@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-10T23:32:04.429549+00:00",
+  "generated": "2026-07-11T00:01:27.348791+00:00",
   "date": "2026-07-11",
-  "count": 25,
+  "count": 26,
   "articles": [
     {
       "source": "Zentralplus",
@@ -177,6 +177,13 @@
       "url": "https://www.zentralplus.ch/news/ven-zahl-der-todesopfer-auf-ueber-4000-2884239/",
       "summary": "Die Zahl der Todesopfer nach den verheerenden Erdbeben in Venezuela ist auf über 4100 angestiegen. Fast 17&#8217;000 Menschen wurden verletzt. Tausende sind weiterhin obdachlos, und nach wie vor wird ",
       "published": "2026-07-10T23:17:08.423576+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Apple verklagt ChatGPT-Firma OpenAI",
+      "url": "https://www.20min.ch/story/apple-vs-chatgpt-openai-klage-vorwurf-diebstahl-firmengeheimnisse-103600905",
+      "summary": "Die ChatGPT-Firma OpenAI entwickelt ein Gerät speziell für die Nutzung mit Künstlicher Intelligenz. Dabei wurden auch Apple-Mitarbeiter verpflichtet. Jetzt gibt es eine Klage.",
+      "published": "2026-07-11T00:01:27.348791+00:00"
     }
   ]
 }
