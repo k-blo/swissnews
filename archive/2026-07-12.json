@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T23:02:48.879101+00:00",
+  "generated": "2026-07-11T23:32:30.004909+00:00",
   "date": "2026-07-12",
-  "count": 3,
+  "count": 7,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -23,6 +23,34 @@
       "url": "https://www.watson.ch/sport/fussball/730345967-wm-2026-england-tor-haette-aus-kuriosem-grund-nicht-zaehlen-duerfen",
       "summary": "",
       "published": "2026-07-11T23:02:48.879101+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Vom historischen Viertelfinal: Wie Morgenstreich im Sommer – so fiebert Basel in dieser Freinacht mit der Nati mit",
+      "url": "https://www.bazonline.ch/schweiz-gegen-argentinien-so-fiebert-basel-mit-der-nati-mit-699508801070",
+      "summary": "Wird ein Sommermärchen wahr? In wenigen Stunden wissen wir es. Bis dahin berichten wir live aus der Stadt.",
+      "published": "2026-07-11T23:32:30.004909+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran: Strasse von Hormus wieder zu",
+      "url": "https://www.zentralplus.ch/news/iran-strasse-von-hormus-wieder-zu-2884358/",
+      "summary": "Die iranischen Revolutionsgarden haben die Strasse von Hormus bis auf Weiteres wieder für den gesamten Schiffsverkehr gesperrt. Das teilten sie am frühen Sonntagmorgen über die Staatsmedien mit. Grund",
+      "published": "2026-07-11T23:32:30.004909+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Klitschko warnt vor Zunahme russischer Angriffe auf Kiew",
+      "url": "https://www.watson.ch/international/russland/113054347-klitschko-warnt-vor-zunahme-russischer-angriffe-auf-kiew",
+      "summary": "",
+      "published": "2026-07-11T23:32:30.004909+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Schweiz trifft im Viertelfinal auf Argentinien – im Liveticker",
+      "url": "https://www.watson.ch/sport/liveticker/668192912-wm-2026-schweiz-trifft-im-viertelfinal-auf-argentinien-im-liveticker",
+      "summary": "",
+      "published": "2026-07-11T23:32:30.004909+00:00"
     }
   ]
 }
