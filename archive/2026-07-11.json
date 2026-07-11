@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T00:01:27.348791+00:00",
+  "generated": "2026-07-11T00:31:32.410811+00:00",
   "date": "2026-07-11",
-  "count": 26,
+  "count": 31,
   "articles": [
     {
       "source": "Zentralplus",
@@ -184,6 +184,41 @@
       "url": "https://www.20min.ch/story/apple-vs-chatgpt-openai-klage-vorwurf-diebstahl-firmengeheimnisse-103600905",
       "summary": "Die ChatGPT-Firma OpenAI entwickelt ein Gerät speziell für die Nutzung mit Künstlicher Intelligenz. Dabei wurden auch Apple-Mitarbeiter verpflichtet. Jetzt gibt es eine Klage.",
       "published": "2026-07-11T00:01:27.348791+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA fordern Garantien für Schiffe",
+      "url": "https://www.zentralplus.ch/news/usa-fordern-garantien-fuer-schiffe-2884241/",
+      "summary": "Die USA verlangen vom Iran eine öffentliche Erklärung, dass die Schifffahrt in der Strasse von Hormus offen ist und es keine Angriffe auf Schiffe in der Meerenge mehr geben werde. Das sagte ein Regier",
+      "published": "2026-07-11T00:31:32.410811+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Eu Parlament Ebnet Weg für Chatkontrolle Trotz Massivem Widerstand",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/eu-parlament-ebnet-weg-fuer-chatkontrolle-trotz-massivem-widerstand",
+      "summary": "",
+      "published": "2026-07-11T00:31:32.410811+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Hündli Statt Chindli",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/huendli-statt-chindli",
+      "summary": "",
+      "published": "2026-07-11T00:31:32.410811+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Bundesbern Streitet über Klimaanlagen",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/bundesbern-streitet-ueber-klimaanlagen",
+      "summary": "",
+      "published": "2026-07-11T00:31:32.410811+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Atom Atom Atom Nun Sieht es Selbst die Oecd ein an Atomkraft Führt Kein Weg Vorbei",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/atom-atom-atom-nun-sieht-es-selbst-die-oecd-ein-an-atomkraft-fuehrt-kein-weg-vorbei",
+      "summary": "",
+      "published": "2026-07-11T00:31:32.410811+00:00"
     }
   ]
 }
