@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T17:02:26.150256+00:00",
+  "generated": "2026-07-11T17:32:27.362499+00:00",
   "date": "2026-07-11",
-  "count": 523,
+  "count": 536,
   "articles": [
     {
       "source": "Zentralplus",
@@ -3663,6 +3663,97 @@
       "url": "https://www.watson.ch/schweiz/luftfahrt/236083016-flugschueler-fliegt-schweizerkreuz-fuer-fussball-nati",
       "summary": "",
       "published": "2026-07-11T17:02:26.150256+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Person vermisst: Such-Heli weht Aareböötler fast weg",
+      "url": "https://www.20min.ch/story/bern-person-vermisst-such-heli-windet-aareboeoetler-fast-weg-103601118",
+      "summary": "Am Samstag wird an der Aare bei Bern eine Person vermisst. Per Helikopter wird nach ihr gesucht. Ein News-Scout beschreibt die Auswirkungen des tieffliegenden Helis.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Super-Taifun Bavi zwingt 1,7 Millionen Menschen zur Flucht",
+      "url": "https://www.20min.ch/story/china-super-taifun-bavi-zwingt-17-millionen-menschen-zur-flucht-103601115",
+      "summary": "Taifun Bavi hat Ostchina erreicht. Millionen Menschen wurden evakuiert, Flüge gestrichen und Schulen geschlossen. Mindestens 17 Menschen starben auf den Philippinen.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wohnhaus vollständig zerstört: Femizid erschüttert das Tessin – Tatverdächtiger stirbt bei Explosion",
+      "url": "https://www.tagesanzeiger.ch/femizid-im-tessin-taeter-stirbt-bei-explosion-in-leontica-746618243235",
+      "summary": "Ein 59-Jähriger steht im Fokus der Ermittlungen. Er soll seine Ex-Frau in einer Rehaklinik in Faido erschossen haben und danach bei einer Explosion im Wohnhaus seines Bruders verstorben sein. Es ist b",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "US-Senatswahlen in Maine: Der Skandal um Platner ist ein Desaster für die Demokraten",
+      "url": "https://www.tagesanzeiger.ch/graham-platner-das-ist-ein-desaster-fuer-die-us-demokraten-987202203300",
+      "summary": "Die Partei in Maine muss ihren Kandidaten für den Senat in Washington fallen lassen – wegen Vergewaltigungsvorwürfen. Damit schwinden die Chancen, die Kammer im Herbst zurückzuerobern.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Keine Lust auf Alkohol: «Die WM war ein Flop» – auch die deutschen Bierbrauer stecken in der Krise",
+      "url": "https://www.tagesanzeiger.ch/biermarkt-deutschland-absatz-bricht-dramatisch-ein-903553165530",
+      "summary": "Das frühe WM-Aus schadet nicht nur dem deutsche Fussball. Die Brauereien in der Bier-Nation haben zu kämpfen: Der Absatz bricht dramatisch ein, viele Standorte werden geschlossen.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kinderlähmung Polio: Wohl letzte Nutzerin der Eisernen Lunge stirbt mit 78 Jahren in Oklahoma",
+      "url": "https://www.tagesanzeiger.ch/martha-lillard-letzte-polio-patientin-in-eiserner-lunge-gestorben-697899301632",
+      "summary": "Martha Lillard war seit 1953 auf das historische Beatmungsgerät angewiesen. Mit ihrem Tod endet eine medizinische Ära. Ersatzteile und Techniker gab es zuletzt kaum noch.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vom Mysterium zum Gewinner der WM: Er hat 68 Länderspiele bestritten – so richtig kennen lernt die Schweiz Denis Zakaria aber erst jetzt",
+      "url": "https://www.bernerzeitung.ch/wm-murat-yakin-coachte-fc-thun-neun-spieler-mit-yb-bezug-933849477078",
+      "summary": "Der FC Thun war die erste Profimannschaft, die Nationaltrainer Murat Yakin betreute, neun Spieler haben einen YB-Bezug: Wie viel Bern im Team steckt, das im WM-Viertelfinal Argentinien fordert.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "In der Nähe des Dählhölzli: Rega sucht mit Helikopter nach vermisster Person in der Aare",
+      "url": "https://www.bernerzeitung.ch/aare-bern-person-nahe-daehlhoelzli-vermisst-657078117852",
+      "summary": "Beim Tierpark Dählhölzli wird am Samstag eine Person in der Aare vermisst. Rega-Helikopter und Suchboot sind im Einsatz.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Brand in Laufen: Ballenpresse fängt Feuer und löst Flächenbrand aus",
+      "url": "https://www.bazonline.ch/brand-in-laufen-ballenpresse-zuendet-felder-und-wald-177082671326",
+      "summary": "Bei einem Brand einer Ballenpresse wurden am Samstagnachmittag ein Feld, Heuballen und eine Waldböschung beschädigt. Eine Person verletzte sich leicht, die Brandursache ist unklar.",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Toter wurde polizeilich gesucht",
+      "url": "https://www.zentralplus.ch/news/toter-wurde-polizeilich-gesucht-2884335/",
+      "summary": "Nach der Explosion in einem Haus im Tessiner Bleniotal ist die tote Person identifiziert. Es handle sich um einen 59-jährigen Schweizer, teilen die Tessiner Kantonspolizei und die Staatsanwaltschaft m",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Laufen Ballenpresse und Angrenzendes Feld Brennen Lichterloh",
+      "url": "https://www.bzbasel.ch/basel/baselland/laufen-ballenpresse-und-angrenzendes-feld-brennen-lichterloh-ld.4201557",
+      "summary": "",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EU-Chefin Ursula von der Leyen fordert Social-Media-Verbot für Kinder",
+      "url": "https://www.watson.ch/international/eu/996798924-eu-chefin-ursula-von-der-leyen-fordert-social-media-verbot-fuer-kinder",
+      "summary": "",
+      "published": "2026-07-11T17:32:27.362499+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kühltuch oder Kühlweste: Diese Hitze-Gadgets sorgen für Abkühlung",
+      "url": "https://www.watson.ch/leben/gadgets/941784823-kuehltuch-oder-kuehlweste-diese-hitze-gadgets-sorgen-fuer-abkuehlung",
+      "summary": "",
+      "published": "2026-07-11T17:32:27.362499+00:00"
     }
   ]
 }
