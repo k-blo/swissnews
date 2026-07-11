@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T22:33:01.285119+00:00",
+  "generated": "2026-07-11T23:02:48.879101+00:00",
   "date": "2026-07-12",
-  "count": 1,
+  "count": 3,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -9,6 +9,20 @@
       "url": "https://www.shn.ch/sport/wintersport/2026-07-12/link-test",
       "summary": "",
       "published": "2026-07-11T22:33:01.285119+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Klitschko warnt vor mehr Angriffen",
+      "url": "https://www.zentralplus.ch/news/klitschko-warnt-vor-mehr-angriffen-2884356/",
+      "summary": "Der Kiewer Bürgermeister Vitali Klitschko warnt vor mehr russischen Angriffen auf die ukrainische Hauptstadt. Er habe so etwas seit Kriegsbeginn noch nicht erlebt, so Klitschko angesichts mehrerer sch",
+      "published": "2026-07-11T23:02:48.879101+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: England-Tor hätte aus kuriosem Grund nicht zählen dürfen",
+      "url": "https://www.watson.ch/sport/fussball/730345967-wm-2026-england-tor-haette-aus-kuriosem-grund-nicht-zaehlen-duerfen",
+      "summary": "",
+      "published": "2026-07-11T23:02:48.879101+00:00"
     }
   ]
 }
