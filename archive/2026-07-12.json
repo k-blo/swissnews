@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T00:32:31.095890+00:00",
+  "generated": "2026-07-12T01:02:35.880311+00:00",
   "date": "2026-07-12",
-  "count": 19,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -135,6 +135,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/bellingham-schiesst-england-gegen-norwegen-in-den-wm-halbfinal-art-1712414",
       "summary": "",
       "published": "2026-07-12T00:32:31.095890+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Schweiz-Spiel im Public Viewing: Schafft die Nati die Sensation? So fiebern Bernerinnen und Berner mit",
+      "url": "https://www.bernerzeitung.ch/schweiz-argentinien-so-fiebern-bernerinnen-und-berner-mit-929112462775",
+      "summary": "Wecker stellen oder direkt vom Ausgang zum Public Viewing: In Bern kommen mitten in der Nacht hunderte Leute zusammen, um den Viertelfinal-Knaller gegen Argentinien live mitzuverfolgen.",
+      "published": "2026-07-12T01:02:35.880311+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "GB: Neuer Verdächtiger festgenommen",
+      "url": "https://www.zentralplus.ch/news/gb-neuer-verdaechtiger-festgenommen-2884360/",
+      "summary": "Die Polizei hat im Fall der getöteten britischen Brexit-Politikerin Ann Widdecombe einen neuen Verdächtigen festgenommen. Dabei handelt es sich um einen 28-jährigen Briten. Die 78-jährige konservative",
+      "published": "2026-07-12T01:02:35.880311+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweiz – Argentinien live – der WM-Viertelfinal in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/668192912-schweiz-argentinien-live-der-wm-viertelfinal-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-07-12T01:02:35.880311+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "England-Trainer Thomas Tuchel schnauzt Reporter an – und kritisiert Team",
+      "url": "https://www.watson.ch/sport/fussball/845894770-england-trainer-thomas-tuchel-schnauzt-reporter-an-und-kritisiert-team",
+      "summary": "",
+      "published": "2026-07-12T01:02:35.880311+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Jetzt live: Schafft die Schweiz im WM-Viertelfinal gegen Argentinien die Sensation?",
+      "url": "https://www.freiburger-nachrichten.ch/story/276148/jetzt-live-schafft-die-schweiz-im-wmviertelfinal-gegen-argentinien-die-sensation",
+      "summary": "",
+      "published": "2026-07-12T01:02:35.880311+00:00"
     }
   ]
 }
