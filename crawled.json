@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T00:02:18.399513+00:00",
+  "generated": "2026-07-12T00:32:31.095890+00:00",
   "date": "2026-07-12",
-  "count": 13,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -93,6 +93,48 @@
       "url": "https://www.watson.ch/sport/fussball/828483353-wm-2026-england-trifft-im-viertelfinal-auf-norwegen-im-liveticker",
       "summary": "",
       "published": "2026-07-12T00:02:18.399513+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ist Krieg Nützlich oder Nutzlos",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/ist-krieg-nuetzlich-oder-nutzlos",
+      "summary": "",
+      "published": "2026-07-12T00:32:31.095890+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Iv Defizit Zunahme von Psychischen Erkrankungen",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/iv-defizit-zunahme-von-psychischen-erkrankungen",
+      "summary": "",
+      "published": "2026-07-12T00:32:31.095890+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Das gilt wegen der Hitzewelle jetzt für Bars und Restaurants in Spanien",
+      "url": "https://www.watson.ch/international/reisen/627225249-das-gilt-wegen-der-hitzewelle-jetzt-fuer-bars-und-restaurants-in-spanien",
+      "summary": "",
+      "published": "2026-07-12T00:32:31.095890+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mutmasslicher Mord an Ann Widdecombe: Erneut Verdächtiger festgenommen",
+      "url": "https://www.watson.ch/international/grossbritannien/304560987-mutmasslicher-mord-an-ann-widdecombe-erneut-verdaechtiger-festgenommen",
+      "summary": "",
+      "published": "2026-07-12T00:32:31.095890+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran schliesst Strasse von Hormus – USA starten neue Angriffswelle",
+      "url": "https://www.watson.ch/international/iran/295509659-iran-schliesst-strasse-von-hormus-usa-starten-neue-angriffswelle",
+      "summary": "",
+      "published": "2026-07-12T00:32:31.095890+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bellingham schiesst die «Three Lions» in den Halbfinal",
+      "url": "https://www.bote.ch/nachrichten/sport/bellingham-schiesst-england-gegen-norwegen-in-den-wm-halbfinal-art-1712414",
+      "summary": "",
+      "published": "2026-07-12T00:32:31.095890+00:00"
     }
   ]
 }
