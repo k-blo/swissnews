@@ -1,13 +1,13 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Sun, 12 Jul 2026 10:15:04 GMT",
-    "etag": "\"34a5ca7a833bae56f6857372e94afe92\""
+    "last_modified": "Sun, 12 Jul 2026 10:22:10 GMT",
+    "etag": "\"7931180649eea9085903addf3c587d97\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"1762a-UAmsKl8In63AbnYZ+/GqXkNp9Xs\""
+    "etag": "W/\"1765a-punD0fHBJE076ytpqtXpKsy2xqs\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"10a55-3hLZpqRr2D6TVIoEye1gpPUx/kU\""
+    "etag": "W/\"10a55-OXF13a80mNNwzGlV/3Gkl/lZLp0\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"10a8a-RCuXrrmM/B64RnsYRmdLc1ooeYY\""
@@ -16,14 +16,14 @@
     "last_modified": "Sun, 12 Jul 2026 10:03:19 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Sun, 12 Jul 2026 10:19:02 GMT"
+    "last_modified": "Sun, 12 Jul 2026 10:31:27 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Sun, 12 Jul 2026 09:13:16 GMT",
     "etag": "\"1783847596\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sun, 12 Jul 2026 10:14:54 GMT"
+    "last_modified": "Sun, 12 Jul 2026 10:29:55 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -33,7 +33,7 @@
     "etag": "W/\"f29f-ihZ/wqNtHQP4EWwEOYzYJ+mncMw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"11438-syCfhhb3QL9WRI5pYyajbU1CUs8\""
+    "etag": "W/\"11438-BF9BksiFapigf0b7FMhaI9xMhrI\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Sun, 12 Jul 2026 10:09:45 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1782825428\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sun, 12 Jul 2026 10:15:43 GMT",
-    "etag": "W/\"1783851343-gzip\""
+    "last_modified": "Sun, 12 Jul 2026 10:30:25 GMT",
+    "etag": "W/\"1783852225-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Fri, 10 Jul 2026 16:09:37 GMT",
