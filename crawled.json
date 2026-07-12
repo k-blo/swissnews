@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T23:02:14.896318+00:00",
+  "generated": "2026-07-12T23:32:06.618130+00:00",
   "date": "2026-07-13",
-  "count": 24,
+  "count": 26,
   "articles": [
     {
       "source": "Blick",
@@ -170,6 +170,20 @@
       "url": "https://www.watson.ch/international/deutschland/594854804-buckelwal-timmy-bekommt-theaterstueck-in-hamburg",
       "summary": "",
       "published": "2026-07-12T23:02:14.896318+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Inferno in Thailand: Opfer von Bangkoker Brand in Toiletten gefangen",
+      "url": "https://www.tagesanzeiger.ch/bangkok-brand-mindestens-27-tote-in-bierlokal-906951971497",
+      "summary": "Drama in Bangkok: In einem beliebten Pub bricht mitten in der Nacht ein Feuer aus – es gibt mindestens 27 Todesopfer. Was wir bisher wissen – und was nicht.",
+      "published": "2026-07-12T23:32:06.618130+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mehrere Tote bei ukrainischen Angriffen auf Enerhodar",
+      "url": "https://www.watson.ch/international/russland/997488164-mehrere-tote-bei-ukrainischen-angriffen-auf-enerhodar",
+      "summary": "",
+      "published": "2026-07-12T23:32:06.618130+00:00"
     }
   ]
 }
