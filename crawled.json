@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T23:51:32.329132+00:00",
+  "generated": "2026-07-12T00:02:18.399513+00:00",
   "date": "2026-07-12",
-  "count": 12,
+  "count": 13,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -86,6 +86,13 @@
       "url": "https://www.bote.ch/nachrichten/sport/schweiz-argentinien-liveticker-wm-viertelfinal-2026-art-1712413",
       "summary": "",
       "published": "2026-07-11T23:51:32.329132+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: England trifft im Viertelfinal auf Norwegen – im Liveticker",
+      "url": "https://www.watson.ch/sport/fussball/828483353-wm-2026-england-trifft-im-viertelfinal-auf-norwegen-im-liveticker",
+      "summary": "",
+      "published": "2026-07-12T00:02:18.399513+00:00"
     }
   ]
 }
