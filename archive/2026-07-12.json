@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T18:25:37.845022+00:00",
+  "generated": "2026-07-12T18:32:12.738515+00:00",
   "date": "2026-07-12",
-  "count": 490,
+  "count": 491,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3432,6 +3432,13 @@
       "url": "https://www.watson.ch/sport/usa/182941088-mcgregor-comeback-endet-nach-69-sekunden",
       "summary": "",
       "published": "2026-07-12T18:25:37.845022+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Technische Störung am Niederhorn: Standseilbahn zwischen Beatenbucht und Beatenberg stand still",
+      "url": "https://www.derbund.ch/niederhorn-standseilbahn-beatenbucht-ausser-betrieb-992405173779",
+      "summary": "Am Sonntagnachmittag blockierte eine technische Störung die Standseilbahn zwischen Beatenbucht und Beatenberg. Reisende mussten auf Postautos über Interlaken ausweichen.",
+      "published": "2026-07-12T18:32:12.738515+00:00"
     }
   ]
 }
