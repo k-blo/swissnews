@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T20:07:28.441883+00:00",
+  "generated": "2026-07-12T20:32:28.451978+00:00",
   "date": "2026-07-12",
-  "count": 515,
+  "count": 519,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3607,6 +3607,34 @@
       "url": "https://www.zentralplus.ch/news/iran-meldet-weitere-explosionen-2884427/",
       "summary": "Der Iran hat nach den US-Angriffen in der Nacht auf Sonntag erneut Explosionen an der Südküste gemeldet. Die iranische Nachrichtenagentur Tasnim berichtete über Detonationen in der Hafenstadt Bandar A",
       "published": "2026-07-12T20:07:28.441883+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interaktives Tool zur Berufsbildung: Abbruchquoten von über 20 Prozent: In diesen Berufen steigen die meisten aus",
+      "url": "https://www.tagesanzeiger.ch/lehrabbruch-schweiz-diese-berufe-haben-die-hoechsten-quoten-200559356979",
+      "summary": "Jedes Jahr verlassen Tausende junge Menschen die Berufslehre. Wir zeigen, welche Ausbildungen betroffen sind, wo die Gründe liegen – und wie sich Abbrüche vermeiden lassen.",
+      "published": "2026-07-12T20:32:28.451978+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Brandkatastrophe in Thailand: Mindestens 27 Tote bei Grossbrand in Pub in Bangkok",
+      "url": "https://www.tagesanzeiger.ch/pub-brand-in-bangkok-mindestens-27-tote-271504831745",
+      "summary": "In einem Nachtlokal im Norden der Stadt ist ein Feuer ausgebrochen. Die Brandursache ist noch unklar – Thailands Ministerpräsident verschaffte sich vor Ort ein Bild der Lage.",
+      "published": "2026-07-12T20:32:28.451978+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trauermarsch in Nizza",
+      "url": "https://www.zentralplus.ch/news/trauermarsch-in-nizza-2884429/",
+      "summary": "Am Dienstag jährt sich der Terroranschlag von Nizza zum zehnten Mal. Im Gedenken an die Opfer der tödlichen Lastwagenfahrt hat am Sonntag ein Trauermarsch in Nizza stattgefunden. Rund 1000 Menschen ve",
+      "published": "2026-07-12T20:32:28.451978+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mindestens 27 Tote bei Feuer in Pub in Bangkok",
+      "url": "https://www.watson.ch/international/thailand/246077948-mindestens-27-tote-bei-feuer-in-pub-in-bangkok",
+      "summary": "",
+      "published": "2026-07-12T20:32:28.451978+00:00"
     }
   ]
 }
