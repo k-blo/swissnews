@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T01:02:35.880311+00:00",
+  "generated": "2026-07-12T01:32:14.616277+00:00",
   "date": "2026-07-12",
-  "count": 24,
+  "count": 28,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -170,6 +170,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/276148/jetzt-live-schafft-die-schweiz-im-wmviertelfinal-gegen-argentinien-die-sensation",
       "summary": "",
       "published": "2026-07-12T01:02:35.880311+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Die Schweiz liegt im WM-Viertelfinal gegen Argentinien nach nur zehn Minuten bereits 0:1 in Rückstand",
+      "url": "https://www.nzz.ch/sport/die-schweiz-liegt-im-wm-viertelfinal-gegen-argentinien-nach-nur-zehn-minuten-bereits-01-in-rueckstand-ld.10015046",
+      "summary": "",
+      "published": "2026-07-12T01:32:14.616277+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Penatgon veröffentlicht neue UFO-Videos und UFO-Dokumente",
+      "url": "https://www.watson.ch/wissen/international/726598644-penatgon-veroeffentlicht-neue-ufo-videos-und-ufo-dokumente",
+      "summary": "",
+      "published": "2026-07-12T01:32:14.616277+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bitter! Die Schweiz im Rückstand – das gibt uns Hoffnung",
+      "url": "https://www.freiburger-nachrichten.ch/story/276148/bitter-die-schweiz-im-r%C3%BCckstand-das-gibt-uns-hoffnung",
+      "summary": "",
+      "published": "2026-07-12T01:32:14.616277+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Daumendrücken um drei Uhr nachts: So fiebert die Schweiz mit der Nati mit",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/fussball-wm-so-fiebert-die-schweiz-beim-viertelfinal-mit-art-1712415",
+      "summary": "",
+      "published": "2026-07-12T01:32:14.616277+00:00"
     }
   ]
 }
