@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T20:02:07.678258+00:00",
+  "generated": "2026-07-12T20:07:28.441883+00:00",
   "date": "2026-07-12",
-  "count": 514,
+  "count": 515,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3600,6 +3600,13 @@
       "url": "https://www.bote.ch/nachrichten/sport/jannik-sinner-besiegt-zverev-und-gewinnt-wimbledon-art-1712505",
       "summary": "",
       "published": "2026-07-12T20:02:07.678258+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran meldet weitere Explosionen",
+      "url": "https://www.zentralplus.ch/news/iran-meldet-weitere-explosionen-2884427/",
+      "summary": "Der Iran hat nach den US-Angriffen in der Nacht auf Sonntag erneut Explosionen an der Südküste gemeldet. Die iranische Nachrichtenagentur Tasnim berichtete über Detonationen in der Hafenstadt Bandar A",
+      "published": "2026-07-12T20:07:28.441883+00:00"
     }
   ]
 }
