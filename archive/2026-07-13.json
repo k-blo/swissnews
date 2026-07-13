@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-13T00:02:54.736461+00:00",
+  "generated": "2026-07-13T00:32:13.664494+00:00",
   "date": "2026-07-13",
-  "count": 28,
+  "count": 33,
   "articles": [
     {
       "source": "Blick",
@@ -198,6 +198,41 @@
       "url": "https://www.watson.ch/sport/fussball/819850807-var-eingriff-bei-embolo-rot-spaltet-selbst-die-schiedsrichter-experten",
       "summary": "",
       "published": "2026-07-13T00:02:54.736461+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ölpreise legen nach Eskalation zu",
+      "url": "https://www.zentralplus.ch/news/oelpreise-legen-nach-eskalation-zu-2884435/",
+      "summary": "Die Ölpreise sind nach der jüngsten Eskalation in Nahost wieder deutlich gestiegen. So kostete ein Barrel (159 Liter) Rohöl der Referenzsorte Brent am frühen Montagmorgen 78,35 US-Dollar. Das sind 3,0",
+      "published": "2026-07-13T00:32:13.664494+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wettrüsten am Maschendraht der Heckenkrieg von Block B",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/wettruesten-am-maschendraht-der-heckenkrieg-von-block-b",
+      "summary": "",
+      "published": "2026-07-13T00:32:13.664494+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Glückliche und Sorgenfreie Schweiz",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/glueckliche-und-sorgenfreie-schweiz",
+      "summary": "",
+      "published": "2026-07-13T00:32:13.664494+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rätselraten um Gesundheit: US-Senator Mitch McConnell äussert sich",
+      "url": "https://www.watson.ch/international/usa/995387423-raetselraten-um-gesundheit-us-senator-mitch-mcconnell-aeussert-sich",
+      "summary": "",
+      "published": "2026-07-13T00:32:13.664494+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM: Spaniens Ex-Premier Rajoy äussert sich rassistisch über Frankreich",
+      "url": "https://www.watson.ch/sport/rassismus/340008571-wm-spaniens-ex-premier-rajoy-aeussert-sich-rassistisch-ueber-frankreich",
+      "summary": "",
+      "published": "2026-07-13T00:32:13.664494+00:00"
     }
   ]
 }
