@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T23:32:06.618130+00:00",
+  "generated": "2026-07-13T00:02:54.736461+00:00",
   "date": "2026-07-13",
-  "count": 26,
+  "count": 28,
   "articles": [
     {
       "source": "Blick",
@@ -184,6 +184,20 @@
       "url": "https://www.watson.ch/international/russland/997488164-mehrere-tote-bei-ukrainischen-angriffen-auf-enerhodar",
       "summary": "",
       "published": "2026-07-12T23:32:06.618130+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Waldbrand nahe Paris breitet sich aus",
+      "url": "https://www.zentralplus.ch/news/waldbrand-nahe-paris-breitet-sich-aus-2884433/",
+      "summary": "Ein Waldbrand ist bei der Stadt Fontainebleau rund 50 Kilometer südlich von Paris ausgebrochen und breitet sich seither rasch aus. Ausgebrochen war das Feuer am späten Sonntagnachmittag. Bis Mitternac",
+      "published": "2026-07-13T00:02:54.736461+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "VAR-Eingriff bei Embolo-Rot spaltet selbst die Schiedsrichter-Experten",
+      "url": "https://www.watson.ch/sport/fussball/819850807-var-eingriff-bei-embolo-rot-spaltet-selbst-die-schiedsrichter-experten",
+      "summary": "",
+      "published": "2026-07-13T00:02:54.736461+00:00"
     }
   ]
 }
