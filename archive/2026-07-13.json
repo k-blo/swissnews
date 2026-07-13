@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-13T12:02:54.833164+00:00",
+  "generated": "2026-07-13T12:32:17.936585+00:00",
   "date": "2026-07-13",
-  "count": 464,
+  "count": 492,
   "articles": [
     {
       "source": "Blick",
@@ -3250,6 +3250,202 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/erbsenschiessen-in-witcham-wm-zum-53-mal-art-1712581",
       "summary": "",
       "published": "2026-07-13T12:02:54.833164+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Milune schockt Pfarrer mit Video in seiner Kirche – Klage droht",
+      "url": "https://www.20min.ch/story/schweizer-saengerin-milune-schockt-pfarrer-mit-video-in-seiner-kirche-klage-droht-103602257",
+      "summary": "Sängerin Milune hat in einer deutschen Kirche ohne Drehbewilligung ein provokantes Musikvideo gedreht. Die Basilika St. Emmeram leitet rechtliche Schritte ein.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "17-Jähriger sinkt im See – Freund retten ihn vom Grund",
+      "url": "https://www.20min.ch/story/genf-brite-17-droht-zu-ertrinken-freund-rettet-ihn-103602352",
+      "summary": "Ein britischer Jugendlicher erlitt im Genfersee einen Schwächeanfall und drohte zu ertrinken. Einem seiner Freunde gelang es, ihn vom Seegrund zu retten. Der 17-Jährige überlebte.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Der Sofa-Kritiker: Haben Sie schon mal auf die Schuhe von Michael Olisé geachtet? Es lohnt sich",
+      "url": "https://www.tagesanzeiger.ch/michael-olise-warum-er-alte-nike-schuhe-traegt-988254291062",
+      "summary": "Er ist der Schuhromantiker des Weltfussballs: Michael Olisé trägt jahrealte Modelle, die nicht mehr produziert werden. Und verzichtet auf Millionenverträge.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Live-Streaming-Plattformen: «Ihr Business ist Einsamkeit»",
+      "url": "https://www.tagesanzeiger.ch/twitch-streamer-machen-business-mit-einsamen-menschen-138605431036",
+      "summary": "Junge Menschen verbringen viel Zeit in Livestreams, sie schicken ihren Internetidolen Geld. Plattformen wie Twitch gaukeln Nähe vor. Warum das gefährlich werden kann, erklärt eine Psychologin.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mit 97 Jahren gestorben: Er sagte: «Ich habe Dinge erlebt, an die ich mich nicht erinnern will»",
+      "url": "https://www.tagesanzeiger.ch/winterthur-stefan-erdoes-stirbt-kurz-vor-98-geburtstag-985291801770",
+      "summary": "Mit 16 verlor Stefan Erdös seine Eltern, seine Heimat, alles. Als Erwachsener war der Winterthurer so häufig im Parlament und auf Leserbriefseiten präsent wie kein anderer. Nun ist er gestorben.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Dritte Halbzeit» zum Schweizer WM-Aus: «Diesem Match wird man noch lange nachtrauern»",
+      "url": "https://www.tagesanzeiger.ch/schweizer-nati-frust-ueber-verpassten-wm-halbfinal-sitzt-tief-467495070410",
+      "summary": "Die Schweiz scheitert im WM-Viertelfinal mit 1:3 nach Verlängerung an Argentinien. Im Podcast «Dritte Halbzeit» analysieren die Hosts das bittere Aus und eine verpasste historische Chance.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Rodrigo Ābols: Der SCB sichert sich Verstärkung aus der NHL",
+      "url": "https://www.bernerzeitung.ch/sc-bern-verpflichtet-rodrigo-abols-von-den-philadelphia-flyers-198792950994",
+      "summary": "Der lettische Center Rodrigo Ābols unterschreibt beim SCB einen Dreijahresvertrag.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "U-Boot-Lücken gefährden Millionen Geräte",
+      "url": "https://www.netzwoche.ch/news/2026-07-13/u-boot-luecken-gefaehrden-millionen-geraete",
+      "summary": "Sicherheitsforschende haben sechs Schwachstellen im weit verbreiteten Open-Source-Bootloader U-Boot entdeckt. Zwei davon könnten Angreifern erlauben, bereits vor dem Start des Betriebssystems Schadcod",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Kommando Cyber verabschiedet sich von Microsoft",
+      "url": "https://www.inside-it.ch/kommando-cyber-verabschiedet-sich-von-microsoft-20260713",
+      "summary": "Statt mit M365 sollen die Cyberspezialisten der Armee schon ab Oktober mit Opendesk arbeiten. Grund ist der \"US Cloud Act\".",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Alterskontrollen im Internet sind ein Albtraum für die Privatsphäre",
+      "url": "https://www.nzz.ch/meinung/alterskontrollen-im-internet-sind-ein-albtraum-fuer-die-privatsphaere-ld.10014839",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "85-jährige Wandreklame in Zug freigelegt",
+      "url": "https://www.persoenlich.com/kategorie-werbung/85-jahrige-wandreklame-in-zug-freigelegt",
+      "summary": "Beim Abbruch eines Hauses beim Bahnhof ist eine monumentale Werbung für den Nähmaschinenhersteller sichtbar geworden.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Eine neue Wahlkampfwaffe bringt selbst Aussenseiter an die Macht – jetzt interessiert sich die SVP dafür",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-07-13/eine-neue-wahlkampfwaffe-bringt-selbst-aussenseiter-an-die-macht",
+      "summary": "Alle paar Jahre verändern neue Technologien die Kunst der Wählergewinnung. Nun zeichnet sich der nächste Trend ab.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wutach: Motorradfahrer nahe der Schaffhauser Grenze tödlich verunfallt",
+      "url": "https://www.shn.ch/region/kanton/2026-07-13/wutach-motorradfahrer-nahe-der-schaffhauser-grenze-toedlich-verunfallt",
+      "summary": "Informieren Sie sich mit unserem Blaulicht-Ticker laufend über die neusten Vorfälle in und um die Region Schaffhausen.",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Geschmackssinn Nestle Peppt Wegen Fett Weg Boom Lebensmittel auf",
+      "url": "https://www.bilanz.ch/the-wall-street-journal/geschmackssinn-nestle-peppt-wegen-fett-weg-boom-lebensmittel-auf/00xe1rn",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ex Gemeindepräsident Stellt Zweitwohnungen im Ferienpark Tulai in Scuol Infrage",
+      "url": "https://www.suedostschweiz.ch/graubuenden/ex-gemeindepraesident-stellt-zweitwohnungen-im-ferienpark-tulai-in-scuol-infrage-2087911",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sommerklänge Zug Esther Hoppe als Preisträgerin des Schweizer Musikpreises",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/sommerklaenge-zug-esther-hoppe-als-preistraegerin-des-schweizer-musikpreises-ld.4198621",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Amt F R Sport und Gesundheitsf Rderung",
+      "url": "https://www.luzernerzeitung.ch/sonderthemen/lagerdraht/amt-f-r-sport-und-gesundheitsf-rderung-ld.4188273",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Wandergeselle Phillipe Saner über Seine Drei Jahre auf der Walz",
+      "url": "https://www.bzbasel.ch/basel/baselland/wandergeselle-phillipe-saner-ueber-seine-drei-jahre-auf-der-walz-ld.4200820",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polizeiverband fordert mehr Personal im Kampf gegen Femizide",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/778747244-polizeiverband-fordert-mehr-personal-im-kampf-gegen-femizide",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Singapur: Trinkhalm-Streich könnte Franzose ins Gefängnis bringen",
+      "url": "https://www.watson.ch/international/singapur/193838490-singapur-trinkhalm-streich-koennte-franzose-ins-gefaengnis-bringen",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Flucht vor der Winterthurer Polizei endet in Strassenlaterne",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/321222673-flucht-vor-der-winterthurer-polizei-endet-in-strassenlaterne",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Crans-Montana erwartet trotz Brandkatastrophe stabile Sommersaison",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/955302004-crans-montana-erwartet-trotz-brandkatastrophe-stabile-sommersaison",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "VBZ wollen Cobra-Trams mit neuem Sicherheitssystem nachrüsten",
+      "url": "https://www.watson.ch/schweiz/oev/431362866-vbz-wollen-cobra-trams-mit-neuem-sicherheitssystem-nachruesten",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Marius Borg Høiby: Er darf schon bald nach Hause",
+      "url": "https://www.watson.ch/leben/justiz/125270906-marius-borg-hoiby-er-darf-schon-bald-nach-hause",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "So klingt’s am Les Georges",
+      "url": "https://www.freiburger-nachrichten.ch/story/276381/so-klingts-am-les-georges",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Abscheulich»: Rassismus-Eklat vor Halbfinal zwischen Spanien und Frankreich",
+      "url": "https://www.bote.ch/nachrichten/sport/mariano-rajoy-sorgt-mit-rassismus-eklat-vor-halbfinal-fuer-empoerung-art-1712590",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Star unter Freunden an den Sommerklängen Zug: Preisträgerin des Schweizer Musikpreises 2026",
+      "url": "https://www.bote.ch/nachrichten/kultur/sommerklaenge-zug-esther-hoppe-als-preistraegerin-des-schweizer-musikpreises-art-1712589",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Personen nach Einschleichediebstahl gefasst",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zwei-personen-nach-einschleichediebstahl-gefasst-art-1712587",
+      "summary": "",
+      "published": "2026-07-13T12:32:17.936585+00:00"
     }
   ]
 }
