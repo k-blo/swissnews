@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-13T03:02:07.889547+00:00",
+  "generated": "2026-07-13T03:32:10.599789+00:00",
   "date": "2026-07-13",
-  "count": 123,
+  "count": 142,
   "articles": [
     {
       "source": "Blick",
@@ -863,6 +863,139 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/politprominenz-probt-an-der-uni-zuerich-den-weltuntergang-art-1712544",
       "summary": "",
       "published": "2026-07-13T03:02:07.889547+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wegen Naturgefahren – Nach Camping-Schliessung strömen Gäste ins Goms",
+      "url": "https://www.srf.ch/news/schweiz/wegen-naturgefahren-nach-camping-schliessung-stroemen-gaeste-ins-goms",
+      "summary": "Im März mussten im Wallis 13 Campingplätze per sofort schliessen. Jetzt läuft die Saison – auch dank Schutzmassnahmen.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Therapiehunde hinter Gittern – Bernhardinerhündin bringt Ablenkung ins Gefängnis",
+      "url": "https://www.srf.ch/news/schweiz/therapiehunde-hinter-gittern-bernhardinerhuendin-bringt-ablenkung-ins-gefaengnis",
+      "summary": "Therapie auf vier Pfoten: Warum Hunde in der Justizvollzugsanstalt Lenzburg zum Einsatz kommen.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Versicherungsschutz – Krebs vom Arbeiten an der Sonne? Dann zahlt Unfallversicherung",
+      "url": "https://www.srf.ch/news/schweiz/versicherungsschutz-krebs-vom-arbeiten-an-der-sonne-dann-zahlt-unfallversicherung",
+      "summary": "Wer an beruflich bedingtem Hautkrebs leidet, erhält bessere Leistungen als «normal» Erkrankte.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Das Schweizer Fussball-Wunder: Wie viel ist der Erfolg der Nati wert?",
+      "url": "https://www.tagesanzeiger.ch/das-schweizer-fussball-wunder-wie-viel-ist-der-erfolg-der-nati-wert-265800242463",
+      "summary": "Trotz des Ausscheidens im Viertelfinal: Die Schweiz hat an der WM einen bleibenden Eindruck hinterlassen. Unsere Reporter vor Ort ordnen ein, was das historische Turnier für die Nationalmannschaft bed",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zürcher Sommerquiz, Teil 1: Erkennen Sie diese Attraktion am Zürichsee?",
+      "url": "https://www.tagesanzeiger.ch/sommerquiz-zuerich-testen-sie-ihr-wissen-ueber-die-stadt-864066477126",
+      "summary": "Machen Sie mit bei unserem Sommerquiz, und testen Sie Ihr Wissen über die Stadt Zürich. Den Anfang machen wir heute mit diesem Bilderrätsel.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Günstiger Wohnraum in Zürich: In fast jeder fünften Stadtwohnung verdienen die Mietenden zu viel",
+      "url": "https://www.tagesanzeiger.ch/stadtwohnungen-zuerich-fast-ein-fuenftel-zu-reich-830713191063",
+      "summary": "In 18,4 Prozent aller kontrollierten Stadt­wohnungen leben Menschen mit zu hohem Einkommen. Weil es eine Toleranz­grenze von 15 Prozent gibt, haben nur wenige etwas zu befürchten.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dating wie Taylor Swift und Travis Kelce: Lassen wir in der Liebe wieder die Hosen runter",
+      "url": "https://www.tagesanzeiger.ch/chalant-dating-warum-ehrliche-gefuehle-beim-daten-gewinnen-447648865570",
+      "summary": "Immer mehr Singles wollen beim Dating offen zu ihren Gefühlen stehen, statt sich cool zu geben. Travis Kelce und Taylor Swift machen vor, wie sich Verletzlichkeit auszahlen kann.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tipps für den Sprungturm: Frage an die Europameisterin: Wie gelingt die perfekte Arschbombe?",
+      "url": "https://www.tagesanzeiger.ch/arschbombe-tipps-vom-sprungturm-profi-michelle-heimberg-775509209057",
+      "summary": "Die beste Fontäne gibts bei einem Winkel von 45 Grad: Die Schweizer Wasser­springerin Michelle Heimberg sagt, wie man Treppe, «Kopfkino» und den Königs­sprung der Freibäder meistert.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "True Crime aus dem Heidiland: Wegen Streit unter Superreichen: Prozess gegen Meisterschwindler platzt",
+      "url": "https://www.tagesanzeiger.ch/steven-heidegger-prozess-gegen-meisterschwindler-platzt-569373372605",
+      "summary": "Bald hätte der Ostschweizer Serienbetrüger vor Gericht stehen sollen. Nun wird die Verhandlung wegen einer Auseinandersetzung innerhalb der vermögenden Sandoz-Familie verschoben.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Martha’s Rule» in Luzern: Schlagen besorgte Eltern Alarm, muss das Spital eine Zweitmeinung einholen",
+      "url": "https://www.tagesanzeiger.ch/marthas-rule-kinderspital-luzern-fuehrt-notknopf-fuer-eltern-ein-717774870040",
+      "summary": "Nach mehreren tragischen Todesfällen in Kinderspitälern sollen Warnsignale von Eltern besser beachtet werden. Im Kinderspital Luzern können Angehörige eine unabhängige Zweitmeinung anfordern.",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Bedroht eine KI-Blase die Vorsorgegelder?",
+      "url": "https://www.nzz.ch/meinung/bedroht-eine-ki-blase-die-vorsorgegelder-ld.10013882",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der 15-Jährige wollte Mediamatiker werden. Geklappt hat es nicht. Nun sagt er: «Ich bin arbeitslos, bevor ich eine Lehrstelle habe. Das ist wirklich nicht angenehm»",
+      "url": "https://www.nzz.ch/zuerich/herausforderungen-bei-der-lehrstellensuche-im-kanton-zuerich-ld.10014535",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Eine Autofahrerin ärgert sich über Velofahrer, die ohne Licht unterwegs sind – dann kommt es zu gefährlichen Manövern auf der Strasse",
+      "url": "https://www.nzz.ch/zuerich/zuerich-autofahrerin-aergert-sich-ueber-velofahrer-die-ohne-licht-unterwegs-sind-ld.10010184",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Meteoschweiz-Direktor Uhlenbrook warnt vor Folgen der Sparmassnahmen",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/548823978-meteoschweiz-direktor-uhlenbrook-warnt-vor-folgen-der-sparmassnahmen",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schwimmen: Warum Kraulen lernen im Trockenen beginnt",
+      "url": "https://www.watson.ch/wissen/schweiz/533535846-schwimmen-warum-kraulen-lernen-im-trockenen-beginnt",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Boss einer neuen Supermafia sitzt in der Schweiz",
+      "url": "https://www.watson.ch/schweiz/italien/667658880-boss-einer-neuen-supermafia-sitzt-in-der-schweiz",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eine neue Wahlkampfwaffe bringt Aussenseiter an die Macht",
+      "url": "https://www.watson.ch/schweiz/svp/763033181-eine-neue-wahlkampfwaffe-bringt-aussenseiter-an-die-macht",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EU und Ukraine-Unterstützer beraten über weitere Hilfen",
+      "url": "https://www.watson.ch/international/eu/358263063-eu-und-ukraine-unterstuetzer-beraten-ueber-weitere-hilfen",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Verändern Hitzewellen die Einstellung der Menschen?",
+      "url": "https://www.freiburger-nachrichten.ch/story/276335/ver%C3%A4ndern-hitzewellen%C2%A0die-einstellung-der-menschen",
+      "summary": "",
+      "published": "2026-07-13T03:32:10.599789+00:00"
     }
   ]
 }
