@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T22:01:40.167119+00:00",
+  "generated": "2026-07-15T22:31:31.596618+00:00",
   "date": "2026-07-16",
-  "count": 3,
+  "count": 6,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -23,6 +23,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/275729/schaffe-und-immer-positiv-bleiben-das-rezept-f%C3%BCr-ein-langes-leben",
       "summary": "",
       "published": "2026-07-15T22:01:40.167119+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Gewitter Bringen Starkregen und Hagel",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzern-gewitter-bringen-starkregen-und-hagel-ld.4178624",
+      "summary": "",
+      "published": "2026-07-15T22:31:31.596618+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Total vermasselt»: Vance räumt Fehler bei Epstein-Akten ein",
+      "url": "https://www.watson.ch/international/usa/233969056-total-vermasselt-vance-raeumt-fehler-bei-epstein-akten-ein",
+      "summary": "",
+      "published": "2026-07-15T22:31:31.596618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwanau",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwanau-art-1712877",
+      "summary": "",
+      "published": "2026-07-15T22:31:31.596618+00:00"
     }
   ]
 }
