@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T23:01:34.111916+00:00",
+  "generated": "2026-07-15T23:31:33.967685+00:00",
   "date": "2026-07-16",
-  "count": 11,
+  "count": 15,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -79,6 +79,34 @@
       "url": "https://www.watson.ch/schweiz/gesellschaft-politik/209354761-tiefseebergbau-greenpeace-protestiert-mit-fotos-an-schloss-chillon-vd",
       "summary": "",
       "published": "2026-07-15T23:01:34.111916+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trägt England-Trainer Thomas Tuchel Schuld am WM-Aus? Das sagen Experten",
+      "url": "https://www.watson.ch/sport/fussball/758669927-traegt-england-trainer-thomas-tuchel-schuld-am-wm-aus-das-sagen-experten",
+      "summary": "",
+      "published": "2026-07-15T23:31:33.967685+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Seebad Romanshorn TG ist wegen Sturmschäden geschlossen",
+      "url": "https://www.watson.ch/schweiz/wetter/473594345-seebad-romanshorn-tg-ist-wegen-sturmschaeden-geschlossen",
+      "summary": "",
+      "published": "2026-07-15T23:31:33.967685+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Glückspilz gewinnt eine Million Franken bei Swiss Lotto",
+      "url": "https://www.watson.ch/schweiz/leben/569383563-glueckspilz-gewinnt-eine-million-franken-bei-swiss-lotto",
+      "summary": "",
+      "published": "2026-07-15T23:31:33.967685+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Drohne tötet Chefingenieur des AKW Saporischschja",
+      "url": "https://www.watson.ch/international/russland/685319689-drohne-toetet-chefingenieur-des-akw-saporischschja",
+      "summary": "",
+      "published": "2026-07-15T23:31:33.967685+00:00"
     }
   ]
 }
