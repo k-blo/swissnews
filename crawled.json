@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T15:01:50.403561+00:00",
+  "generated": "2026-07-15T15:05:37.704314+00:00",
   "date": "2026-07-15",
-  "count": 665,
+  "count": 667,
   "articles": [
     {
       "source": "Blick",
@@ -4657,6 +4657,20 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/einkaufstourismus-produkte-im-ausland-deutlich-guenstiger-art-1712936",
       "summary": "",
       "published": "2026-07-15T15:01:50.403561+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Salesforce-Chef fordert Haftungsregeln für KI-Anbieter",
+      "url": "https://www.netzwoche.ch/news/2026-07-15/salesforce-chef-fordert-haftungsregeln-fuer-ki-anbieter",
+      "summary": "Marc Benioff hat am AI for Good Global Summit in Genf klare Haftungsregeln für die KI-Branche gefordert. Der Salesforce-CEO verlangt, dass Unternehmen für Schäden durch ihre KI-Systeme geradestehen. M",
+      "published": "2026-07-15T15:05:37.704314+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Was Tun die Männerturner vom Stv Küngoldingen in der Sommerpause",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/was-tun-die-maennerturner-vom-stv-kuengoldingen-in-der-sommerpause-ld.4203625",
+      "summary": "",
+      "published": "2026-07-15T15:05:37.704314+00:00"
     }
   ]
 }
