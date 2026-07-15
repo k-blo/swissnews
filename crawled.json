@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T16:31:59.488253+00:00",
+  "generated": "2026-07-15T17:01:58.246801+00:00",
   "date": "2026-07-15",
-  "count": 737,
+  "count": 748,
   "articles": [
     {
       "source": "Blick",
@@ -5161,6 +5161,83 @@
       "url": "https://www.woz.ch/2629/wetterleuchten/mascha-und-der-oligarch/!1EJQ76HYDEC0",
       "summary": "",
       "published": "2026-07-15T16:31:59.488253+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nach Ja der Stimmbevölkerung – HEV-Präsident bekämpft Vorkaufsrecht der Stadt Luzern vor Gericht",
+      "url": "https://www.srf.ch/news/schweiz/nach-ja-der-stimmbevoelkerung-hev-praesident-bekaempft-vorkaufsrecht-der-stadt-luzern-vor-gericht",
+      "summary": "Es fehle eine rechtliche Basis für das Vorkaufsrecht auf grössere Immobilien, sagt der Hauseigentümerverband.",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ukraine hat jetzt eine «Theorie des Sieges»: 136 Tanker getroffen",
+      "url": "https://www.20min.ch/story/energiekrise-in-russland-ukraine-hat-jetzt-eine-theorie-des-sieges-136-tanker-getroffen-103603607",
+      "summary": "Putin räumt ein Problem ein. Die Krim ruft den Ausnahmezustand aus. Die Ukraine trifft weiter Energietanker. Bringt die neue «Theorie des Sieges» der Ukraine den Erfolg?",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vermögensverwaltung: Partners Group zieht im Halbjahr weitere Kundengelder an",
+      "url": "https://www.tagesanzeiger.ch/partners-group-16-mrd-dollar-neugelder-im-halbjahr-970410005556",
+      "summary": "Partners Group übertrifft mit 16 Milliarden Dollar an Kapitalzusagen die Erwartungen der Analysten. Doch die Performanceerträge bleiben unter dem eigenen Ziel.",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Tour de France: Norweger Waerenskjold gewinnt schnellste Etappe der Tour-Geschichte",
+      "url": "https://www.bernerzeitung.ch/tour-de-france-soeren-waerenskjold-gewinnt-11-etappe-206811439395",
+      "summary": "Sören Waerenskjold sichert sich seinen ersten Etappensieg. Am Donnerstag wartet bereits die nächste Chance auf die Sprinter.",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Piusbruderschaft wehrt sich gegen Papst",
+      "url": "https://www.zentralplus.ch/news/piusbruderschaft-wehrt-sich-gegen-papst-2885241/",
+      "summary": "Die Piusbruderschaft wehrt sich gegen den Ausschluss von sechs ihrer Bischöfe aus der katholischen Kirche und hat Rekurs eingereicht. Anfang Juli hatte die erzkonservative Piusbruderschaft im Wallis v",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Drei tödliche ICE-Vorfälle in sieben Tagen: Agiert die Einwanderungspolizei wieder ohne Rücksicht auf Verluste?",
+      "url": "https://www.nzz.ch/international/ice-in-der-kritik-drei-fatale-vorfaelle-in-sieben-tagen-ld.10015620",
+      "summary": "",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der Bessere gewinnt nicht immer – das macht Fussball so besonders",
+      "url": "https://www.shn.ch/sport/fussball/2026-07-15/der-bessere-gewinnt-nicht-immer-das-macht-fussball-so-besonders",
+      "summary": "Ungerechtigkeit ist ein Wesensmerkmal des Fussballs – wie sie ein Wesensmerkmal des Lebens ist.",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Iseppi ist Favorit Doch ein Vierter Kandidat Mischt die St Moritzer Wahl auf",
+      "url": "https://www.suedostschweiz.ch/graubuenden/iseppi-ist-favorit-doch-ein-vierter-kandidat-mischt-die-st-moritzer-wahl-auf-2089534",
+      "summary": "",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Girondins Bordeaux steigt mindestens in die 6. Liga ab",
+      "url": "https://www.watson.ch/sport/fussball/854323695-girondins-bordeaux-steigt-mindestens-in-die-6-liga-ab",
+      "summary": "",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Epstein-Affäre: Justizministerium von New Mexico blockt Ermittlungen",
+      "url": "https://www.watson.ch/international/usa/855132846-epstein-affaere-justizministerium-von-new-mexico-blockt-ermittlungen",
+      "summary": "",
+      "published": "2026-07-15T17:01:58.246801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Feuerwehrkommandant warnt: «Wir sind auf die Hilfe der Bevölkerung angewiesen»",
+      "url": "https://www.freiburger-nachrichten.ch/story/276662/feuerwehrkommandant-warnt-wir-sind-auf-die-hilfe-der-bev%C3%B6lkerung-angewiesen",
+      "summary": "",
+      "published": "2026-07-15T17:01:58.246801+00:00"
     }
   ]
 }
