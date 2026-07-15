@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T05:01:40.515633+00:00",
+  "generated": "2026-07-15T05:31:38.816768+00:00",
   "date": "2026-07-15",
-  "count": 183,
+  "count": 194,
   "articles": [
     {
       "source": "Blick",
@@ -1283,6 +1283,83 @@
       "url": "https://www.watson.ch/international/iran/818338076-bericht-so-wollte-der-mossad-ahmadineschad-im-iran-an-die-macht-bringen",
       "summary": "",
       "published": "2026-07-15T05:01:40.515633+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Alpinismus im Hitzesommer – Matterhorn wird gefährlicher: Unerfahrene Bergsteiger in Kritik",
+      "url": "https://www.srf.ch/news/schweiz/alpinismus-im-hitzesommer-matterhorn-wird-gefaehrlicher-unerfahrene-bergsteiger-in-kritik",
+      "summary": "Wegen der hohen Temperaturen ist die Steinschlaggefahr am Matterhorn erhöht. Bergführer fordern nun eine Besuchergrenze.",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Regen, Hagel, Sturmböen – Bund warnt: Neue Gewitterzellen steuern auf die Schweiz zu",
+      "url": "https://www.blick.ch/schweiz/regen-hagel-sturmboeen-bund-warnt-neue-gewitterzellen-steuern-auf-die-schweiz-zu-id22110044.html",
+      "summary": "Heftige Unwetter drohen: Am Nachmittag warnt der Bund in grossen Teilen der Schweiz vor Gewittern mit Blitz, Hagel und Sturmböen. Hier könnte es besonders krachen.",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Hatte er Klasse für den Halbfinal?» Franzosen attackieren Schiri",
+      "url": "https://www.20min.ch/story/nach-wm-out-hatte-er-klasse-fuer-den-halbfinal-franzosen-attackieren-schiri-103603233",
+      "summary": "Die Franzosen sind raus – raus aus dem Kampf um den WM-Titel. Der Frust ist gross, also wurde der Schiri zum Thema.",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Lausige Les Bleus»: Franzosen werden nach WM-Out verrissen",
+      "url": "https://www.20min.ch/story/presseschau-lausige-les-bleus-franzosen-werden-nach-wm-out-zerissen-103603237",
+      "summary": "Frankreich kann nicht mehr Weltmeister werden. Hier gibts die Presseschau.",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Brandkatastrophe in Bangkok: Thailand prüft nach Pub-Feuer Regeln für Vergnügungsstätten",
+      "url": "https://www.tagesanzeiger.ch/bangkok-thailand-verschaerft-regeln-nach-pub-brand-mit-30-toten-772693916999",
+      "summary": "Blockierte Notausgänge, fehlender Brandschutz: Nach dem Unglück mit 30 Toten soll es Konsequenzen geben. Im Fokus stehen nicht nur Gesetze, sondern auch das Verhalten der Clubbetreiber.",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Trockenheit macht Bäume zum Risiko: Stadt Bern warnt vor herabfallenden Ästen in Badis",
+      "url": "https://www.bernerzeitung.ch/trockenheit-in-bern-gefahr-durch-aeste-in-badis-763459109769",
+      "summary": "Die Hitze setzt Berns Bäumen zu – und bringt die Stadt an den Anschlag. Weil sie bei der Bewässerung kaum mehr nachkommt, muss sie externe Hilfe beiziehen.",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann im Tessin in Swimmingpool ertrunken",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/945765804-mann-im-tessin-in-swimmingpool-ertrunken",
+      "summary": "",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Polizei meldet neuen Todesfall im Kontext von ICE-Einsatz",
+      "url": "https://www.watson.ch/international/usa/227897421-us-polizei-meldet-neuen-todesfall-im-kontext-von-ice-einsatz",
+      "summary": "",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Senatoren stellen Gesetz für neue Russland-Sanktionen vor",
+      "url": "https://www.watson.ch/international/usa/285616803-us-senatoren-stellen-gesetz-fuer-neue-russland-sanktionen-vor",
+      "summary": "",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Riesen Betrugsloch bei Schweizer Post",
+      "url": "https://insideparadeplatz.ch/2026/07/15/riesen-betrugsloch-bei-schweizer-post/",
+      "summary": "",
+      "published": "2026-07-15T05:31:38.816768+00:00"
+    },
+    {
+      "source": "Rathuus",
+      "title": "Zürcher Stadtrat an Bord Jetzt Wird nach Strassburg Gerudert",
+      "url": "https://rathuus.ch/zuercher-stadtrat-an-bord-jetzt-wird-nach-strassburg-gerudert/",
+      "summary": "",
+      "published": "2026-07-15T05:31:38.816768+00:00"
     }
   ]
 }
