@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T23:31:33.967685+00:00",
+  "generated": "2026-07-15T23:42:22.155618+00:00",
   "date": "2026-07-16",
-  "count": 15,
+  "count": 16,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -107,6 +107,13 @@
       "url": "https://www.watson.ch/international/russland/685319689-drohne-toetet-chefingenieur-des-akw-saporischschja",
       "summary": "",
       "published": "2026-07-15T23:31:33.967685+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Medien: Trump erwägt, Bodentruppen im Iran einzusetzen",
+      "url": "https://www.watson.ch/international/iran/877322021-us-medien-trump-erwaegt-bodentruppen-im-iran-einzusetzen",
+      "summary": "",
+      "published": "2026-07-15T23:42:22.155618+00:00"
     }
   ]
 }
