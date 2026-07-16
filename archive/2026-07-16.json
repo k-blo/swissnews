@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-16T01:01:34.446798+00:00",
+  "generated": "2026-07-16T01:31:33.375819+00:00",
   "date": "2026-07-16",
-  "count": 32,
+  "count": 37,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -226,6 +226,41 @@
       "url": "https://www.watson.ch/schweiz/frankreich/823882781-frankreich-erlaubt-sterbehilfe-fuer-schwerkranke-das-gilt-in-der-schweiz",
       "summary": "",
       "published": "2026-07-16T01:01:34.446798+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Völkerrechts-Debatte bei «Markus Lanz»: Experte macht Putin-Vergleich",
+      "url": "https://www.watson.ch/international/tv/274042035-voelkerrechts-debatte-bei-markus-lanz-experte-macht-putin-vergleich",
+      "summary": "",
+      "published": "2026-07-16T01:31:33.375819+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann wegen Mord an Lebenspartnerin zu 20 Jahren Haft verurteilt",
+      "url": "https://www.watson.ch/schweiz/justiz/790954555-mann-wegen-mord-an-lebenspartnerin-zu-20-jahren-haft-verurteilt",
+      "summary": "",
+      "published": "2026-07-16T01:31:33.375819+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Israels Parlament schwächt Kontrolle der Regierung",
+      "url": "https://www.watson.ch/international/israel/348464611-israels-parlament-schwaecht-kontrolle-der-regierung",
+      "summary": "",
+      "published": "2026-07-16T01:31:33.375819+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump erwägt Einsatz von Bodentruppen im Iran",
+      "url": "https://www.watson.ch/international/iran/318085514-trump-erwaegt-einsatz-von-bodentruppen-im-iran",
+      "summary": "",
+      "published": "2026-07-16T01:31:33.375819+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: So verliessen die Engländer das Stadion",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-so-verliessen-die-englaender-das-stadion",
+      "summary": "",
+      "published": "2026-07-16T01:31:33.375819+00:00"
     }
   ]
 }
