@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T23:42:22.155618+00:00",
+  "generated": "2026-07-16T00:01:45.028898+00:00",
   "date": "2026-07-16",
-  "count": 16,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -114,6 +114,13 @@
       "url": "https://www.watson.ch/international/iran/877322021-us-medien-trump-erwaegt-bodentruppen-im-iran-einzusetzen",
       "summary": "",
       "published": "2026-07-15T23:42:22.155618+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Chefingenieur des AKW getötet",
+      "url": "https://www.zentralplus.ch/news/chefingenieur-des-akw-getoetet-2885269/",
+      "summary": "Der russische Chefingenieur des besetzten ukrainischen Atomkraftwerks Saporischschja ist dem Anschein nach bei einem Angriff getötet worden. Laut dem russischen Atomkonzern Rosatom schlug eine ukraini",
+      "published": "2026-07-16T00:01:45.028898+00:00"
     }
   ]
 }
