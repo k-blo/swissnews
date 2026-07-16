@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-16T22:01:45.042241+00:00",
+  "generated": "2026-07-16T22:31:52.425903+00:00",
   "date": "2026-07-17",
-  "count": 1,
+  "count": 4,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -9,6 +9,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/276494/die-dorfbrunnen-waren-in-kundigen-h%C3%A4nden",
       "summary": "",
       "published": "2026-07-16T22:01:45.042241+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kreislauftag der Firma Eberhard: Viele Böden landen wegen Ewigkeitschemikalien PFAS in Deponien",
+      "url": "https://www.tagesanzeiger.ch/pfas-erde-landet-wegen-ewigkeitschemikalien-auf-deponien-752474660778",
+      "summary": "Die Bauunternehmungen Eberhard in Kloten sind führend bei der Schadstoffsanierung von Baumaterial. Doch die Wiederverwendung harzt.",
+      "published": "2026-07-16T22:31:52.425903+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Requisite aus «Star Wars» versteigert",
+      "url": "https://www.zentralplus.ch/news/requisite-aus-star-wars-versteigert-2885472/",
+      "summary": "Eine Requisite aus der Filmreihe «Star Wars» ist an einer Auktion für umgerechnet rund drei Millionen Schweizer Franken versteigert worden. Das teilte das Auktionshaus Heritage Auctions mit. Es handel",
+      "published": "2026-07-16T22:31:52.425903+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "24 neue Schreinerinnen und Schreiner starten ins Berufsleben",
+      "url": "https://www.bote.ch/nachrichten/schwyz/24-neue-schreinerinnen-und-schreiner-starten-ins-berufsleben-art-1713047",
+      "summary": "",
+      "published": "2026-07-16T22:31:52.425903+00:00"
     }
   ]
 }
