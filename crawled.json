@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-16T01:31:33.375819+00:00",
+  "generated": "2026-07-16T02:01:34.084505+00:00",
   "date": "2026-07-16",
-  "count": 37,
+  "count": 42,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -261,6 +261,41 @@
       "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-so-verliessen-die-englaender-das-stadion",
       "summary": "",
       "published": "2026-07-16T01:31:33.375819+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "2,6 Millionen Franken für Podcast-Werbung",
+      "url": "https://www.persoenlich.com/marketing/2-6-millionen-franken-fur-podcast-werbung",
+      "summary": "Sam, der Sound Ad Marketplace der Podcastschmiede, veröffentlicht erstmals Daten zum Schweizer Podcast-Werbemarkt. Der «Swiss Podcast Ad Monitor» soll von nun an quartalweise erscheinen.",
+      "published": "2026-07-16T02:01:34.084505+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Weinfelder Pferdesporttage über 100 Gespanne am Start",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/weinfelder-pferdesporttage-ueber-100-gespanne-am-start-ld.4203404",
+      "summary": "",
+      "published": "2026-07-16T02:01:34.084505+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lionel Messi nach England-Sieg deutlich: «Uns schenkt niemand etwas»",
+      "url": "https://www.watson.ch/sport/lionel-messi/793163091-lionel-messi-nach-england-sieg-deutlich-uns-schenkt-niemand-etwas",
+      "summary": "",
+      "published": "2026-07-16T02:01:34.084505+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die russischen Tentakeln einer mutmasslichen Geldwäschereikrake",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/653131887-die-russischen-tentakeln-einer-mutmasslichen-geldwaeschereikrake",
+      "summary": "",
+      "published": "2026-07-16T02:01:34.084505+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So kämpfen die Lager in der Schweiz mit den Wetterextremen",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/316110470-so-kaempfen-die-lager-in-der-schweiz-mit-den-wetterextremen",
+      "summary": "",
+      "published": "2026-07-16T02:01:34.084505+00:00"
     }
   ]
 }
