@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-16T22:31:52.425903+00:00",
+  "generated": "2026-07-16T23:01:44.504360+00:00",
   "date": "2026-07-17",
-  "count": 4,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -30,6 +30,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/24-neue-schreinerinnen-und-schreiner-starten-ins-berufsleben-art-1713047",
       "summary": "",
       "published": "2026-07-16T22:31:52.425903+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Pelé-Trikot von WM 1958 für 4,88 Mio.",
+      "url": "https://www.zentralplus.ch/news/pele-trikot-von-wm-1958-fuer-488-mio-2885474/",
+      "summary": "Ein altes Fussball-Trikot von Brasiliens Fussball-Legende Pelé ist für 4,88 Millionen Dollar versteigert worden, wie das traditionsreiche Auktionshaus Sotheby’s mitteilt. Pelé trug das Trikot im Final",
+      "published": "2026-07-16T23:01:44.504360+00:00"
     }
   ]
 }
