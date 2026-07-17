@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-17T01:01:35.540552+00:00",
+  "generated": "2026-07-17T01:32:00.013718+00:00",
   "date": "2026-07-17",
-  "count": 26,
+  "count": 29,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,27 @@
       "url": "https://www.watson.ch/schweiz/international/898761423-juni-hitzewelle-fordert-mindestens-12-000-todesopfer-in-europa",
       "summary": "",
       "published": "2026-07-17T01:01:35.540552+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump: «Schockierende Schwachstellen» im US-Wahlsystem",
+      "url": "https://www.20min.ch/story/rede-an-die-nation-trump-schockierende-schwachstellen-im-us-wahlsystem-103604538",
+      "summary": "In der Nacht hat US-Präsident Donald Trump eine Rede an die Nation gehalten.",
+      "published": "2026-07-17T01:32:00.013718+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Starship-Rakete muss Testflug vor Start abbre",
+      "url": "https://www.watson.ch/international/raumfahrt/978567886-starship-rakete-muss-testflug-vor-start-abbre",
+      "summary": "",
+      "published": "2026-07-17T01:32:00.013718+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Pelés WM-Trikot erzielt 4,88 Millionen Dollar bei Auktion",
+      "url": "https://www.watson.ch/sport/fussball/731186640-peles-wm-trikot-erzielt-4-88-millionen-dollar-bei-auktion",
+      "summary": "",
+      "published": "2026-07-17T01:32:00.013718+00:00"
     }
   ]
 }
