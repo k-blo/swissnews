@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-17T15:54:11.520787+00:00",
+  "generated": "2026-07-17T16:02:28.414450+00:00",
   "date": "2026-07-17",
-  "count": 748,
+  "count": 755,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5238,6 +5238,55 @@
       "url": "https://www.bote.ch/nachrichten/sport/ev-zug-praesident-hans-peter-strebel-verteidigt-wechsel-und-das-oym-art-1713288",
       "summary": "",
       "published": "2026-07-17T15:54:11.520787+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nach Überfall in Solothurn – Wann darf die Polizei schiessen? Ein Experte ordnet ein",
+      "url": "https://www.srf.ch/news/schweiz/nach-ueberfall-in-solothurn-wann-darf-die-polizei-schiessen-ein-experte-ordnet-ein",
+      "summary": "Nach einem Überfall auf ein Waffengeschäft kam es zu einer Schussabgabe. Nun wird der Fall untersucht.",
+      "published": "2026-07-17T16:02:28.414450+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Aus Spargründen kommt es im internationalen Genf zur grossen «Züglete»",
+      "url": "https://www.nzz.ch/schweiz/aus-spargruenden-kommt-es-im-internationalen-genf-zur-grossen-zueglete-ld.10015934",
+      "summary": "",
+      "published": "2026-07-17T16:02:28.414450+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Live sie Holen die Bands Interview mit den Programmverantwortlichen",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/luzern-live-sie-holen-die-bands-interview-mit-den-programmverantwortlichen-ld.4203881",
+      "summary": "",
+      "published": "2026-07-17T16:02:28.414450+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Beinwil am See Segelinstruktor Fordert Begrenzung von Stand Up Paddles",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/beinwil-am-see-segelinstruktor-fordert-begrenzung-von-stand-up-paddles-ld.4204304",
+      "summary": "",
+      "published": "2026-07-17T16:02:28.414450+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Oym Hall ist Vier Meter Höher die Bilder",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/oym-hall-ist-vier-meter-hoeher-die-bilder-ld.4204834",
+      "summary": "",
+      "published": "2026-07-17T16:02:28.414450+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nicht jede Polizeimeldung wird zur Schlagzeile: Das sind unsere Kriterien",
+      "url": "https://www.freiburger-nachrichten.ch/story/277149/nicht-jede-polizeimeldung-wird-zur-schlagzeile-das-sind-unsere-kriterien",
+      "summary": "",
+      "published": "2026-07-17T16:02:28.414450+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schule Hergiswil vervollständigt die Schulleitung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/schule-hergiswil-vervollstaendigt-die-schulleitung-art-1713290",
+      "summary": "",
+      "published": "2026-07-17T16:02:28.414450+00:00"
     }
   ]
 }
