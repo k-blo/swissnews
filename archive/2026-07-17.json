@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-17T00:01:59.390655+00:00",
+  "generated": "2026-07-17T00:32:09.271619+00:00",
   "date": "2026-07-17",
-  "count": 19,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -135,6 +135,48 @@
       "url": "https://www.watson.ch/wirtschaft/netflix/585427796-netflix-steigert-umsatz-und-gewinn-nach-zweifeln-der-anleger",
       "summary": "",
       "published": "2026-07-17T00:01:59.390655+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sturmböen, Blitze, Hagel und Starkregen",
+      "url": "https://www.zentralplus.ch/news/sturmboeen-blitze-hagel-und-starkregen-2885480/",
+      "summary": "Unwetter haben in der Nacht auf Freitag in mehreren Teilen der Schweiz gewütet. So hat die Einsatzzentrale in Zürich rund 550 Feuerwehrnotrufe entgegengenommen, wie «Schutz &#038; Rettung Zürich» mitt",
+      "published": "2026-07-17T00:32:09.271619+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Löli des Tages Wmd Jean Luc Bächler Richterlicher Kunstexperte",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/loeli-des-tages-wmd-jean-luc-baechler-richterlicher-kunstexperte",
+      "summary": "",
+      "published": "2026-07-17T00:32:09.271619+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Klimaneutrale Wasserstoff Mobilität in der Schweiz das Ende ist Nah",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/klimaneutrale-wasserstoff-mobilitaet-in-der-schweiz-das-ende-ist-nah",
+      "summary": "",
+      "published": "2026-07-17T00:32:09.271619+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Hitachi Geht nach Otelfingen und Nicht nach Wettingen ein Schmierenstück aus dem Aargau",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/hitachi-geht-nach-otelfingen-und-nicht-nach-wettingen-ein-schmierenstueck-aus-dem-aargau",
+      "summary": "",
+      "published": "2026-07-17T00:32:09.271619+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "95-Jähriger im Lago Maggiore ertrunken",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/118752472-95-jaehriger-im-lago-maggiore-ertrunken",
+      "summary": "",
+      "published": "2026-07-17T00:32:09.271619+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schüler wegen Mordes an Aufsichtsperson zu 18 Jahren Haft verurteilt",
+      "url": "https://www.watson.ch/international/frankreich/718943921-schueler-wegen-mordes-an-aufsichtsperson-zu-18-jahren-haft-verurteilt",
+      "summary": "",
+      "published": "2026-07-17T00:32:09.271619+00:00"
     }
   ]
 }
