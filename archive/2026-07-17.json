@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-16T23:32:07.707480+00:00",
+  "generated": "2026-07-17T00:01:59.390655+00:00",
   "date": "2026-07-17",
-  "count": 12,
+  "count": 19,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -86,6 +86,55 @@
       "url": "https://www.watson.ch/sport/fussball/432600883-kritik-an-fifa-wegen-menschenrechtsverletzungen-bei-wm",
       "summary": "",
       "published": "2026-07-16T23:32:07.707480+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Live-Sendung aus Horgen: «Donnschtig-Jass» wird evakuiert – und findet dann doch statt",
+      "url": "https://www.tagesanzeiger.ch/donnschtig-jass-in-horgen-zuerst-eine-evakuierung-dann-findet-die-sendung-doch-statt-158810303308",
+      "summary": "Kurz vor Sendebeginn des «Donnschtig-Jass» kam es wegen eines Unwetters zu dramatischen Szenen auf der Horgner Allmend. Tausende Zuschauer mussten evakuiert werden.",
+      "published": "2026-07-17T00:01:59.390655+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zwei Tote bei Fluten in Texas - Heftiger Regen erwartet",
+      "url": "https://www.watson.ch/international/usa/447827060-zwei-tote-bei-fluten-in-texas-heftiger-regen-erwartet",
+      "summary": "",
+      "published": "2026-07-17T00:01:59.390655+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Angriffe auf Frachtschiffe: Ukraine greift Putins Weizenexporte an",
+      "url": "https://www.watson.ch/international/russland/449001292-angriffe-auf-frachtschiffe-ukraine-greift-putins-weizenexporte-an",
+      "summary": "",
+      "published": "2026-07-17T00:01:59.390655+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nicaragua bricht diplomatische Beziehungen zu Italien ab",
+      "url": "https://www.watson.ch/international/italien/422231760-nicaragua-bricht-diplomatische-beziehungen-zu-italien-ab",
+      "summary": "",
+      "published": "2026-07-17T00:01:59.390655+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Berichte: USA greifen Brücken und Flughafen im Iran an",
+      "url": "https://www.watson.ch/international/iran/167987039-berichte-usa-greifen-bruecken-und-flughafen-im-iran-an",
+      "summary": "",
+      "published": "2026-07-17T00:01:59.390655+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Touristen lesen in Hagia Sophia aus Bibel vor – Festnahmen",
+      "url": "https://www.watson.ch/international/tuerkei/384180578-touristen-lesen-in-hagia-sophia-aus-bibel-vor-festnahmen",
+      "summary": "",
+      "published": "2026-07-17T00:01:59.390655+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Netflix steigert Umsatz und Gewinn nach Zweifeln der Anleger",
+      "url": "https://www.watson.ch/wirtschaft/netflix/585427796-netflix-steigert-umsatz-und-gewinn-nach-zweifeln-der-anleger",
+      "summary": "",
+      "published": "2026-07-17T00:01:59.390655+00:00"
     }
   ]
 }
