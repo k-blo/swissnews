@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-17T06:31:59.019494+00:00",
+  "generated": "2026-07-17T07:02:06.149649+00:00",
   "date": "2026-07-17",
-  "count": 284,
+  "count": 298,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1990,6 +1990,104 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277055/r%C3%BCckenwind-f%C3%BCr-freiburgs-vapeverbot",
       "summary": "",
       "published": "2026-07-17T06:31:59.019494+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Ein Bahnhof im Dauerumbau – Der Umbaumarathon am Zürcher Hauptbahnhof geht weiter",
+      "url": "https://www.srf.ch/news/schweiz/ein-bahnhof-im-dauerumbau-der-umbaumarathon-am-zuercher-hauptbahnhof-geht-weiter",
+      "summary": "Tiefbahnhof, Gleishalle, Südtrakt, Nordtrakt – der Zürcher HB ist eine Dauerbaustelle.",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Diplomatischer Zwist: Nicaragua bricht diplomatische Beziehungen zu Italien ab",
+      "url": "https://www.tagesanzeiger.ch/nicaragua-bricht-beziehungen-zu-italien-ab-353415492510",
+      "summary": "Rom fordert die Auslieferung eines verurteilten Ex-Mitglieds der Roten Brigaden. Der Mann soll 1978 an der Ermordung von Aldo Moro beteiligt gewesen sein. Nicaragua reagiert empört.",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Keine Kaiserin Aiko: Japan will Monarchie mit Adoption bewahren",
+      "url": "https://www.tagesanzeiger.ch/japan-monarchie-soll-durch-adoption-maennlicher-erben-gerettet-werden-853527111331",
+      "summary": "Japans Monarchie geht der Nachwuchs aus. Nur Männer dürfen auf den Thron. Daran ändert auch eine Revision des Kaiserhausgesetzes nicht. Die Hoffnung vieler auf eine Kaiserin Aiko bleibt unerfüllt.",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Weisses Haus: Trumps Teleprompter-Mann wettete mit Insiderwissen auf Redeninhalte",
+      "url": "https://www.tagesanzeiger.ch/weisses-haus-wetten-auf-trump-reden-enthuellt-212519435256",
+      "summary": "Ein Mitarbeiter des Weissen Hauses soll über 100’000 Dollar verdient haben, indem er auf Wörter in Trump-Reden wettete. Die Handelsaufsicht CFTC ermittelt, der Mann wurde beurlaubt.",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "SRF-Ikone: «Ich bin ja Luzerner, ein höflicher Typ»",
+      "url": "https://www.zentralplus.ch/news/srf-ikone-ich-bin-ja-luzerner-ein-hoeflicher-typ-2885502/",
+      "summary": "Der bekannteste Wettermann des Landes geht in Pension. Nun spricht Thomas Bucheli über seine Karriere, über das Klima und seinen ersten Auftritt im Fernsehen. SRF-Meteo-Star Thomas Bucheli geht dieses",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Feuerverbote in Zürich und Winterthur",
+      "url": "https://www.zentralplus.ch/news/feuerverbote-in-zuerich-und-winterthur-2885509/",
+      "summary": "Nach der Stadt Zürich erlässt nun auch Winterthur ein absolutes Feuerverbot auf dem gesamten Stadtgebiet. Dieses gilt ab Freitagmittag. Die Städte Zürich und Winterthur gehen damit weiter als der Kant",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Blitzschlag löst Flurbrand aus",
+      "url": "https://www.zentralplus.ch/news/blitzschlag-loest-flurbrand-aus-2885500/",
+      "summary": "Ein Blitzschlag hat am Donnerstag im Alpstein im Kanton Appenzell Innerrhoden den Boden in Brand gesetzt. Die ausgerückte Feuerwehr habe den Flurbrand rasch unter Kontrolle bringen und vollständig lös",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "New York beschliesst Moratorium für Rechenzentren",
+      "url": "https://www.netzwoche.ch/news/2026-07-17/new-york-beschliesst-moratorium-fuer-rechenzentren",
+      "summary": "New York hat als erster US-amerikanischer Bundesstaat ein Moratorium für den Bau grosser Rechenzentren verhängt. Aufgrund des hohen Strom- und Wasserverbrauchs üben aktuell zahlreiche US-Amerikaner Kr",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Georg Fischer AG kämpft mit schwierigen Marktverhältnissen",
+      "url": "https://www.shn.ch/region/regionale-wirtschaft/2026-07-17/georg-fischer-ag-kaempft-mit-schwierigen-marktverhaeltnissen",
+      "summary": "Nach einem schwierigen Jahresstart hat die Georg Fischer AG im zweiten Quartal 2026 zugelegt. Für das zweite Halbjahr erwartet die GF eine deutliche Verbesserung.",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Heftige Sommergewitter 268 Feuerwehreinsätze im Kanton Zürich",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/heftige-sommergewitter-268-feuerwehreinsaetze-im-kanton-zuerich-ld.4204322",
+      "summary": "",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Rauch aus Kanada sorgt in New York für schlechte Luftqualität",
+      "url": "https://www.watson.ch/sport/usa/188459193-wm-2026-rauch-aus-kanada-sorgt-in-new-york-fuer-schlechte-luftqualitaet",
+      "summary": "",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Comeback für Mujinga Kambundji in Luzern – noch fehlt das Tempo",
+      "url": "https://www.watson.ch/sport/leichtathletik/439915887-comeback-fuer-mujinga-kambundji-in-luzern-noch-fehlt-das-tempo",
+      "summary": "",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Unwetterschäden in der Schweiz - Freiburg bleibt verschont",
+      "url": "https://www.freiburger-nachrichten.ch/story/277328/unwettersch%C3%A4den-in-der-schweiz-freiburg-bleibt-verschont",
+      "summary": "",
+      "published": "2026-07-17T07:02:06.149649+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kanton schränkt Wasserentnahme aus Gewässern ein",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kanton-schwyz-schraenkt-wasserentnahme-aus-gewaessern-ein-art-1713209",
+      "summary": "",
+      "published": "2026-07-17T07:02:06.149649+00:00"
     }
   ]
 }
