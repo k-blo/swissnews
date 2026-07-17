@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-17T22:32:22.475706+00:00",
+  "generated": "2026-07-17T23:02:03.796788+00:00",
   "date": "2026-07-18",
-  "count": 15,
+  "count": 16,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -107,6 +107,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/abba-sound-und-sommerstimmung-auf-dem-schwyzer-dorfplatz-art-1713306",
       "summary": "",
       "published": "2026-07-17T22:32:22.475706+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Blick Check»: Das ist die beste Bergbeiz der Deutschschweiz",
+      "url": "https://www.blick.ch/schweiz/blick-check-das-ist-die-beste-bergbeiz-der-deutschschweiz-id22117501.html",
+      "summary": "Reto Scherrer machte sich für «Blick Check» auf in die Berge, um sie zu finden: die beste Bergbeiz in der Deutschschweiz. Und er hat sie gefunden. Das Restaurant Moosalp im Wallis siegt in der Abstimm",
+      "published": "2026-07-17T23:02:03.796788+00:00"
     }
   ]
 }
