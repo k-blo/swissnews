@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-17T17:32:00.779448+00:00",
+  "generated": "2026-07-17T18:01:36.749040+00:00",
   "date": "2026-07-17",
-  "count": 795,
+  "count": 808,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5567,6 +5567,97 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/oym-hall-ev-zug-dach-um-vier-meter-angehoben-art-1713269",
       "summary": "",
       "published": "2026-07-17T17:32:00.779448+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Ausgefallene Glace-Idee: So schmeckt Rhein am Stiel",
+      "url": "https://www.blick.ch/wirtschaft/ausgefallene-glace-idee-so-schmeckt-rhein-am-stiel-id22117508.html",
+      "summary": "Eine Glace wie der Rhein: Seit dem 10. Juli begeistert die Zürcher Rhein Glace Badegäste in Flaach. Hergestellt aus Algen und regionalen Zutaten, verbindet sie Genuss mit Umweltbewusstsein – und sorgt",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Erdbeben der Stärke 7,4: Tsunami-Warnung herausgegeben",
+      "url": "https://www.20min.ch/story/mexiko-erdbeben-der-staerke-74-tsunami-warnung-herausgegeben-103604916",
+      "summary": "Nach dem Erdbeben vor der Küste von Chiapas verlassen Menschen ihre Häuser. Der Zivilschutz prüft mögliche Schäden – bislang gibt es keine Meldungen über Verletzte.",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Johan Manzambi: Bis zu 70 Millionen Euro: Rekord-Transfer des Schweizer WM-Stars ist perfekt",
+      "url": "https://www.tagesanzeiger.ch/johan-manzambi-wechsel-zu-aston-villa-fuer-70-mio-euro-408795685567",
+      "summary": "Johan Manzambis Wechsel vom SC Freiburg zu Aston Villa ist nun offiziell. Der 20-Jährige ist neuer Rekordtransfer für die Freiburger.",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Leseraufruf: Überflutete Zeltplätze oder Frostbeulen am Berghang? Erzählen Sie uns Ihre Ferienlager-Story",
+      "url": "https://www.tagesanzeiger.ch/pfadi-lager-was-haben-sie-in-freizeitlagern-erlebt-805844932905",
+      "summary": "Nach dem Abbruch eines Pfadilagers möchten wir von Ihnen wissen: Welche aussergewöhnlichen Erlebnisse haben Sie in Freizeitlagern gemacht?",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Historische Sommer im «Gesprächsstoff» (1/2): Als Bern im Tränengas versank und «Tanz dich frei» in Strassenschlachten endete",
+      "url": "https://www.bernerzeitung.ch/tanz-dich-frei-als-bern-2013-in-traenengas-versank-106849696137",
+      "summary": "Im Mai 2013 eskalierte in Bern die Partydemo «Tanz dich frei» komplett. Warum die Polizei nicht früher eingriff und was heute noch vom «Tanz dich frei»-Geist im Berner Nachtleben übrig ist.",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Alle News zur WM: Spaniens Königsfamilie am Final – Argentiniens Präsident verzichtet",
+      "url": "https://www.bazonline.ch/fussball-wm-2026-yamal-trainiert-nur-individuell-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli findet in den USA, Mexiko und Kanada die Fussball-WM statt. Alle wichtigen Informationen dazu finden Sie hier.",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Deutlich kostspieliger als einst Xhaka: Johan Manzambi ist jetzt der teuerste Schweizer Fussballer aller Zeiten",
+      "url": "https://www.nzz.ch/sport/deutlich-kostspieliger-als-einst-xhaka-johan-manzambi-ist-jetzt-der-teuerste-schweizer-fussballer-aller-zeiten-ld.10015790",
+      "summary": "",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Etappensieg für Pentagon im Rechtsstreit",
+      "url": "https://www.persoenlich.com/medien/etappensieg-fur-pentagon-im-rechtsstreit",
+      "summary": "Ein Gericht gibt dem Pentagon vorerst recht: Medienschaffende dürfen sich nur noch begleitet bewegen.",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bundesgericht Bestätigt Haft für Vater aus Region Aarau",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/bundesgericht-bestaetigt-haft-fuer-vater-aus-region-aarau-ld.4203775",
+      "summary": "",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Ernst Stocker Zieht Bilanz als Zürcher Finanzdirektor",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/ernst-stocker-zieht-bilanz-als-zuercher-finanzdirektor-ld.4204855",
+      "summary": "",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Warum nur?",
+      "url": "https://www.freiburger-nachrichten.ch/story/277230/warum-nur",
+      "summary": "",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fluch und Segen: So wirkt sich das wechselhafte Wetter auf die Landwirtschaft aus",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/landwirtschaft-unter-wetterdruck-regen-hilft-hagel-schadet-art-1713301",
+      "summary": "",
+      "published": "2026-07-17T18:01:36.749040+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Schwarzer Peter Sorgt für Sommer Stürmli",
+      "url": "https://insideparadeplatz.ch/2026/07/17/schwarzer-peter-sorgt-fuer-sommer-stuermli/",
+      "summary": "",
+      "published": "2026-07-17T18:01:36.749040+00:00"
     }
   ]
 }
