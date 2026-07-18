@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T20:31:21.571712+00:00",
+  "generated": "2026-07-18T20:50:08.192938+00:00",
   "date": "2026-07-18",
-  "count": 479,
+  "count": 481,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3355,6 +3355,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/toefffahrer-im-grind-tunnel-bei-sturz-schwer-verletzt-art-1713402",
       "summary": "",
       "published": "2026-07-18T20:31:21.571712+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Kundgebung am Samstagabend: Greenpeace protestiert in Basel gegen Tiefseebergbau",
+      "url": "https://www.bazonline.ch/greenpeace-protestiert-in-basel-gegen-allseas-tiefseebergbau-764072809412",
+      "summary": "Aktivisten projizierten einen Film auf die Alte Universität am Rheinufer, der Allseas kritisiert. Das Freiburger Unternehmen plant mit einem kanadischen Partner den Abbau von Metallen im Pazifik.",
+      "published": "2026-07-18T20:50:08.192938+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Fussball-WM 2026: England und Frankreich bestreiten die Strafaufgabe gegeneinander – wer beendet das Turnier auf Rang drei?",
+      "url": "https://www.nzz.ch/sport/fussball-wm-2026-england-und-frankreich-bestreiten-die-strafaufgabe-gegeneinander-wer-beendet-das-turnier-auf-rang-drei-ld.10015983",
+      "summary": "",
+      "published": "2026-07-18T20:50:08.192938+00:00"
     }
   ]
 }
