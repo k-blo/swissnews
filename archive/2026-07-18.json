@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T20:02:03.638598+00:00",
+  "generated": "2026-07-18T20:31:21.571712+00:00",
   "date": "2026-07-18",
-  "count": 476,
+  "count": 479,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3334,6 +3334,27 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/521656210-hoehere-benzinpreise-wegen-trockenheit-in-der-schweiz-gruende-und-folgen",
       "summary": "",
       "published": "2026-07-18T20:02:03.638598+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Letztes FCB-Testspiel: Degen äussert sich zu Otele und Metinho, Lichtsteiner zur Nummer 1 im Sturm",
+      "url": "https://www.bazonline.ch/fc-basel-degen-aeussert-sich-zu-oteles-und-metinhos-zukunft-973685773344",
+      "summary": "Der FC Basel und Juventus Turin trennen sich 0:0. Valentin Stocker sagt, bei den Zugängen werde sich nicht mehr viel tun.",
+      "published": "2026-07-18T20:31:21.571712+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Töfffahrer im Grind Tunnel bei Sturz Schwer Verletzt",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/toefffahrer-im-grind-tunnel-bei-sturz-schwer-verletzt-ld.4204977",
+      "summary": "",
+      "published": "2026-07-18T20:31:21.571712+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Töfffahrer verletzt sich nach Selbstunfall im Grind-Tunnel erheblich",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/toefffahrer-im-grind-tunnel-bei-sturz-schwer-verletzt-art-1713402",
+      "summary": "",
+      "published": "2026-07-18T20:31:21.571712+00:00"
     }
   ]
 }
