@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T06:32:08.937266+00:00",
+  "generated": "2026-07-18T07:01:47.984149+00:00",
   "date": "2026-07-18",
-  "count": 191,
+  "count": 203,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1339,6 +1339,90 @@
       "url": "https://www.watson.ch/international/liveticker/295509659-iran-krieg-live-huthi-miliz-warnt-saudi-arabien-vor-belagerung",
       "summary": "",
       "published": "2026-07-18T06:32:08.937266+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "bis zu 3 Stunden Wartezeit – 20 Kilometer Stau vor dem Gotthard-Nordportal",
+      "url": "https://www.srf.ch/news/schweiz/bis-zu-3-stunden-wartezeit-20-kilometer-stau-vor-dem-gotthard-nordportal",
+      "summary": "Zwischen Altdorf und Göschenen müssen Reisende bis zu 3 Stunden im Stau warten. Es gibt Alternativrouten.",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Unfall in Wolfwil SO: 13-Jähriger kollidiert mit Auto – die Rega fliegt ihn ins Spital",
+      "url": "https://www.bernerzeitung.ch/unfall-wolfwil-13-jaehriger-nach-kollision-mit-auto-im-spital-542310682715",
+      "summary": "Ein Jugendlicher wurde am Freitagnachmittag in Wolfwil auf dem Fahrrad von einem Auto erfasst. Er erlitt mittelschwere Verletzungen. Die Polizei ermittelt.",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ferienverkehr am Nordportal: 20 Kilometer Stau am Gotthard – über 3 Stunden Verzögerung bereits am Morgen",
+      "url": "https://www.bernerzeitung.ch/gotthard-stau-15-kilometer-wartezeit-am-samstag-600790270369",
+      "summary": "Der Sommerferienverkehr bringt den Gotthard-Tunnel erneut an seine Grenzen. Reisende verlieren über drei Stunden.",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "In Emmen wird das Feuerverbot missachtet",
+      "url": "https://www.zentralplus.ch/news/in-emmen-wird-das-feuerverbot-missachtet-2885696/",
+      "summary": "Trotz hoher Waldbrandgefahr und eines kantonsweiten Feuerverbots wird in Emmen weiterhin Feuer gemacht. Seit dem 25. Juni gilt im Kanton Luzern ein absolutes Feuerverbot im Wald und bis 50 Meter vom W",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Irre – EVZ hebt das gesamte Stadiondach an",
+      "url": "https://www.zentralplus.ch/news/irre-evz-hebt-das-gesamte-stadiondach-an-2885690/",
+      "summary": "Als «Schlüsselmoment» bezeichnet der EVZ, was am Donnerstag erreicht wurde. Der Verein hat für seine Erweiterung das Dach der OYM Hall angehoben. Man kann Häuser verschieben, Wände anheben und auch ga",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "DB-Mitarbeiter stürzt aus einem Zug",
+      "url": "https://www.zentralplus.ch/news/db-mitarbeiter-stuerzt-aus-einem-zug-2885692/",
+      "summary": "Ein Mitarbeiter der Deutschen Bahn ist am Freitagabend bei einem Streit mit einem Passagier aus einem fahrenden Zug gestürzt und wurde lebensgefährlich verletzt.  Wie die Polizei und die Staatsanwalts",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Venezuela IWF-Gelder für Wiederaufbau",
+      "url": "https://www.zentralplus.ch/news/venezuela-iwf-gelder-fuer-wiederaufbau-2885693/",
+      "summary": "Venezuela bezieht 346 Millionen US-Dollar beim Internationalen Währungsfonds IWF. Das Geld solle für den Wiederaufbau und zur Unterstützung der von den Erdbeben betroffenen Familien verwendet werden, ",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Manchmal ist es einfach zu spät» – der Neuhauser Stefan Caprez bricht auf, um Geflüchtete im Mittelmeer zu retten",
+      "url": "https://www.shn.ch/region/neuhausen/2026-07-18/manchmal-ist-es-einfach-zu-spaet-der-neuhauser-stefan-caprez-bricht-auf",
+      "summary": "Während immer mehr Menschen versuchen, das Mittelmeer zu überqueren, wird die zivile Seenotrettung zunehmend erschwert. Stefan Caprez von SOS Méditerranée über Rettungseinsätze zwischen humanitärer Pf",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Wolfwil 13 Jähriger nach Kollision mit Auto Verletzt",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/wolfwil-13-jaehriger-nach-kollision-mit-auto-verletzt-ld.4204928",
+      "summary": "",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: England und Frankreich spielen um Bronze – das wartet auf dich",
+      "url": "https://www.watson.ch/sport/fussball/215346765-wm-2026-england-und-frankreich-spielen-um-bronze-das-wartet-auf-dich",
+      "summary": "",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizerin stirbt in Italien und bleibt zwei Monate unentdeckt",
+      "url": "https://www.watson.ch/schweiz/italien/273938374-schweizerin-stirbt-in-italien-und-bleibt-zwei-monate-unentdeckt",
+      "summary": "",
+      "published": "2026-07-18T07:01:47.984149+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vier Verletzte bei Kollision mit drei Autos in Riedikon",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/riedikon-vier-verletzte-bei-unfall-mit-drei-autos-art-1713387",
+      "summary": "",
+      "published": "2026-07-18T07:01:47.984149+00:00"
     }
   ]
 }
