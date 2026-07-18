@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T03:01:48.092606+00:00",
+  "generated": "2026-07-18T03:31:48.420377+00:00",
   "date": "2026-07-18",
-  "count": 126,
+  "count": 131,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -884,6 +884,41 @@
       "url": "https://www.bote.ch/nachrichten/kultur/heiner-kielholz-der-grosse-unbekannte-der-schweizer-kunst-art-1713363",
       "summary": "",
       "published": "2026-07-18T03:01:48.092606+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ticketkontrolle eskaliert: Bahn-Mitarbeiter stürzt aus Zug",
+      "url": "https://www.20min.ch/story/deutschland-ticketkontrolle-eskaliert-bahn-mitarbeiter-stuerzt-aus-zug-103604996",
+      "summary": "Ein Mitarbeiter der DB Sicherheit wurde am Freitagabend lebensgefährlich verletzt, als er während einer Auseinandersetzung aus einem fahrenden Zug stürzte.",
+      "published": "2026-07-18T03:31:48.420377+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Verkehrshaus hat ein echtes Problem mit alten Autos",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/verkehrshaus-hat-ein-echtes-problem-mit-alten-autos-2885536/",
+      "summary": "Das Verkehrshaus der Schweiz hat eine enorm grosse Sammlung an alten Autos. Das sorgt für Schwierigkeiten bei der Lagerung. Das meistbesuchte Museum der Schweiz steuert auf ein gewaltiges Problem zu: ",
+      "published": "2026-07-18T03:31:48.420377+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Polizei verliert fast jeden dritten Intensivtäter aus dem Asylbereich innert weniger Monate aus den Augen",
+      "url": "https://www.nzz.ch/schweiz/die-polizei-verliert-fast-jeden-dritten-intensivtaeter-aus-dem-asylbereich-innert-weniger-monate-aus-den-augen-ld.10015738",
+      "summary": "",
+      "published": "2026-07-18T03:31:48.420377+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Polizei trickst beim Stellen von Rechnungen – dann kommt es zu Mehrausgaben von 1,4 Millionen Franken: In Uster führt eine rätselhafte Finanzaffäre zu Protesten",
+      "url": "https://www.nzz.ch/zuerich/manipulierte-rechnungen-polizei-affaere-in-uster-weitet-sich-aus-ld.10015488",
+      "summary": "",
+      "published": "2026-07-18T03:31:48.420377+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Alle wollen ein bisschen tanzen und einen Matcha trinken. Das hat aber überhaupt nichts mit einem Rave zu tun. Ich will, dass die Leute die Sau rauslassen können»",
+      "url": "https://www.nzz.ch/zuerich/partyveranstalter-packt-ueber-bravheit-der-jungen-und-luxus-wuensche-der-dj-aus-ld.10015566",
+      "summary": "",
+      "published": "2026-07-18T03:31:48.420377+00:00"
     }
   ]
 }
