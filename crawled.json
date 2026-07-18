@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T13:23:51.271506+00:00",
+  "generated": "2026-07-18T13:31:28.527104+00:00",
   "date": "2026-07-18",
-  "count": 342,
+  "count": 343,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2396,6 +2396,13 @@
       "url": "https://www.watson.ch/international/polizeirapport/779841321-oesterreich-autofahrerin-verletzt-7-personen-bei-fahrt-in-restaurant",
       "summary": "",
       "published": "2026-07-18T13:23:51.271506+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Israel lässt US-Tankflugzeuge neu bei der Luftwaffe stationieren",
+      "url": "https://www.watson.ch/international/luftfahrt/105966541-israel-laesst-us-tankflugzeuge-neu-bei-der-luftwaffe-stationieren",
+      "summary": "",
+      "published": "2026-07-18T13:31:28.527104+00:00"
     }
   ]
 }
