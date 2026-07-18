@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T22:31:32.900196+00:00",
+  "generated": "2026-07-18T23:01:26.951015+00:00",
   "date": "2026-07-19",
-  "count": 4,
+  "count": 7,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -30,6 +30,27 @@
       "url": "https://www.watson.ch/sport/liveticker/238246158-frankreich-gegen-england-live-wm-spiel-um-platz-3-in-ticker-und-stream",
       "summary": "",
       "published": "2026-07-18T22:31:32.900196+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zwei tödliche Unfälle in Österreich",
+      "url": "https://www.zentralplus.ch/news/zwei-toedliche-unfaelle-in-oesterreich-2885791/",
+      "summary": "In den österreichischen Bergen sind zwei Bergsteiger aus Deutschland tödlich abgestürzt. In Vorarlberg verlor ein 58-Jähriger auf einem Klettersteig in Mittelberg das Gleichgewicht und stürzte hundert",
+      "published": "2026-07-18T23:01:26.951015+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "GB: Burnham gegen digitale Ausweise",
+      "url": "https://www.zentralplus.ch/news/gb-burnham-gegen-digitale-ausweise-2885789/",
+      "summary": "Der künftige britische Premierminister Andy Burnham will nach seinem voraussichtlichen Amtsantritt am Montag die umstrittenen Pläne für einen digitalen Personalausweis kippen. Das dafür vorgesehene Ge",
+      "published": "2026-07-18T23:01:26.951015+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "An Argentinien scheiden sich die Geister:",
+      "url": "https://www.freiburger-nachrichten.ch/story/277599/an-argentinien-scheiden-sich-die-geister%C2%A0",
+      "summary": "",
+      "published": "2026-07-18T23:01:26.951015+00:00"
     }
   ]
 }
