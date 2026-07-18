@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T23:18:14.643527+00:00",
+  "generated": "2026-07-18T23:31:52.846325+00:00",
   "date": "2026-07-19",
-  "count": 7,
+  "count": 10,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -51,6 +51,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277599/an-argentinien-scheiden-sich-die-geister%C2%A0",
       "summary": "",
       "published": "2026-07-18T23:01:26.951015+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "UAE fordern Ende der Feindseligkeit",
+      "url": "https://www.zentralplus.ch/news/uae-fordern-ende-der-feindseligkeit-2885793/",
+      "summary": "Nach den jüngsten Angriffen im Nahen Osten fordern die Vereinigten Arabischen Emirate ein sofortiges Ende der Feindseligkeiten. Das Aussenministerium in Abu Dhabi rief die Konfliktparteien eindringlic",
+      "published": "2026-07-18T23:31:52.846325+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: England gewinnt spektakuläres Spiel um Platz 3 gegen Frankreich",
+      "url": "https://www.watson.ch/sport/fussball/238246158-wm-2026-england-gewinnt-spektakulaeres-spiel-um-platz-3-gegen-frankreich",
+      "summary": "",
+      "published": "2026-07-18T23:31:52.846325+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Kylian Mbappé neu Rekordhalter – die besten Torschützen",
+      "url": "https://www.watson.ch/sport/lionel-messi/484213283-wm-2026-kylian-mbappe-neu-rekordhalter-die-besten-torschuetzen",
+      "summary": "",
+      "published": "2026-07-18T23:31:52.846325+00:00"
     }
   ]
 }
