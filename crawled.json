@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T00:39:02.983369+00:00",
+  "generated": "2026-07-19T00:52:04.941631+00:00",
   "date": "2026-07-19",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.watson.ch/international/russland/392370524-proteste-in-der-ukraine-selenskyj-fuehrt-gespraeche-mit-militaers",
       "summary": "",
       "published": "2026-07-19T00:39:02.983369+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA-Präsident Gianni Infantino flog während WM zweimal um die Welt",
+      "url": "https://www.watson.ch/sport/fifa/353050818-fifa-praesident-gianni-infantino-flog-waehrend-wm-zweimal-um-die-welt",
+      "summary": "",
+      "published": "2026-07-19T00:52:04.941631+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Danger Dan abgesetzt: «Anstalt»-Macher kritisieren ZDF",
+      "url": "https://www.watson.ch/international/deutschland/578721242-danger-dan-abgesetzt-anstalt-macher-kritisieren-zdf",
+      "summary": "",
+      "published": "2026-07-19T00:52:04.941631+00:00"
     }
   ]
 }
