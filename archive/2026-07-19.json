@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T23:31:52.846325+00:00",
+  "generated": "2026-07-19T00:01:48.955043+00:00",
   "date": "2026-07-19",
-  "count": 10,
+  "count": 12,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -72,6 +72,20 @@
       "url": "https://www.watson.ch/sport/lionel-messi/484213283-wm-2026-kylian-mbappe-neu-rekordhalter-die-besten-torschuetzen",
       "summary": "",
       "published": "2026-07-18T23:31:52.846325+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Chelsea kauft wohl Morgan Rogers für Rekordsumme",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-chelsea-kauft-wohl-morgan-rogers-fuer-rekordsumme",
+      "summary": "",
+      "published": "2026-07-19T00:01:48.955043+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schützenfest im Kleinfinal: England gewinnt irres 6:4-Spektakel gegen Frankreich",
+      "url": "https://www.freiburger-nachrichten.ch/story/277603/sch%C3%BCtzenfest-im-kleinfinal-england-gewinnt-irres-64spektakel-gegen-frankreich",
+      "summary": "",
+      "published": "2026-07-19T00:01:48.955043+00:00"
     }
   ]
 }
