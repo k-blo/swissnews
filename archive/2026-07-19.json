@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T02:01:19.753654+00:00",
+  "generated": "2026-07-19T02:31:45.075090+00:00",
   "date": "2026-07-19",
-  "count": 33,
+  "count": 49,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -233,6 +233,118 @@
       "url": "https://www.watson.ch/international/naher-osten/591092491-piraten-kapern-tanker-im-golf-von-aden",
       "summary": "",
       "published": "2026-07-19T02:01:19.753654+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Vom Einkaufszettel bis zum KI-Bild – so viel kostet dein Prompt",
+      "url": "https://www.20min.ch/story/ki-kosten-im-check-so-viel-kostet-ein-prompt-wirklich-vom-text-bis-zum-video-103603539",
+      "summary": "Die meisten bezahlen für KI ein Monatsabo. Im Hintergrund kostet aber jede Anfrage Geld. Ein KI-Experte erklärt, wie teuer typische Anwendungen tatsächlich sind.",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Alle reden von Token – was ist das überhaupt?",
+      "url": "https://www.20min.ch/story/fragen-an-den-experten-alle-reden-von-token-was-ist-das-ueberhaupt-103603486",
+      "summary": "Immer mehr Unternehmen messen ihren KI-Einsatz mit sogenannten Tokens – ein hoher Tokenverbrauch bedeutet aber nicht automatisch mehr Produktivität. KI-Experte Roger Basler de Roca beantwortet die wic",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wir suchen hier keinen Stress» – so wild feiert das Festivalvolk",
+      "url": "https://www.20min.ch/video/gurtenfestival-wir-suchen-hier-keinen-stress-so-wild-feiert-das-festivalvolk-103605213",
+      "summary": "Bis in die frühen Morgenstunden wurde auf dem Gurten in Bern vier Tage lang gefeiert – mit vielen Konzerten und Partymusik. Wir wollten von der Crowd wissen: Wie wars?",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich wollte Videos bewerten – am Ende waren 10'900 Franken weg»",
+      "url": "https://www.20min.ch/story/betrugsmasche-ich-wollte-videos-bewerten-am-ende-waren-10-900-franken-weg-103605168",
+      "summary": "Ein 75-Jähriger aus dem Raum Luzern hält sich selbst eigentlich für misstrauisch. Trotzdem fiel er auf eine Betrugsmasche auf Tiktok herein.",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kein Bock mehr auf Clubs: «Ich will am Sonntag keinen Kater»",
+      "url": "https://www.20min.ch/story/clubsterben-kein-bock-mehr-auf-clubs-ich-will-am-sonntag-keinen-kater-103605182",
+      "summary": "Kater, hohe Preise und immer gleiche Partys: Viele junge Leute sagen, sie gehen kaum noch in Clubs. Stattdessen ziehen sie Daydances, Festivals oder gemütliche Abende mit Freunden vor.",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Video zeigt Anschlag auf Oligarchen in Monaco",
+      "url": "https://www.20min.ch/video/video-zeigt-paketbomben-anschlag-von-monaco-103605263",
+      "summary": "Die ukrainische Staatsanwaltschaft veröffentlichte ein Video, das den Anschlag mit einer Paketbombe auf den ukrainischen Unternehmer Vadim Ermolaev, seine mutmassliche Geliebte und einen Jungen zeigt.",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "5 versteckte Schweizer Täler, die du einmal im Leben sehen musst",
+      "url": "https://www.20min.ch/story/unbekannte-taeler-schweiz-5-versteckte-naturparadiese-103597732",
+      "summary": "Die Schweiz hat unzählige Täler zu bieten – eines schöner als das andere. Wir stellen fünf dieser Naturparadiese vor. Perfekte Orte, um den Alltag hinter dir zu lassen.",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Riss durch «Geld und Gülle»-Allianz bringt Mercosur ins Wanken",
+      "url": "https://www.20min.ch/story/freihandelsabkommen-riss-durch-geld-und-guelle-allianz-bringt-mercosur-ins-wanken-103600500",
+      "summary": "Das neue Freihandelsabkommen zwischen der Schweiz und den Mercosur-Staaten steht auf wackeligen Beinen: Die Bauern bäumen sich zusammen mit den Linken gegen die Wirtschaft auf – und lösen damit einen ",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wegen ihr drücken Frauen heute den Spaniern die Daumen im Final",
+      "url": "https://www.20min.ch/story/laura-abla-die-influencerin-wird-neben-dem-platz-zum-heimlichen-wm-star-103603497",
+      "summary": "Laura Abla ist längst mehr als nur die Frau an der Seite von Spanien-Star Dani Olmo. Mit aussergewöhnlichen WM-Looks, einer Chanel-Glückskette und viel Humor begeistert die Influencerin inzwischen Mil",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bundesamt kritisiert Güterwägen-Zustand",
+      "url": "https://www.zentralplus.ch/news/bundesamt-kritisiert-gueterwaegen-zustand-2885798/",
+      "summary": "Das Bundesamt für Verkehr kritisiert den Zustand von Güterwagen, die auf dem Schweizer Schienen-netz unterwegs sind. Gegenüber dem «SonntagsBlick» schreibt das Bundesamt, Mängel wie Risse in den Plane",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tate-Brüder in den USA festgenommen",
+      "url": "https://www.zentralplus.ch/news/tate-brueder-in-den-usa-festgenommen-2885797/",
+      "summary": "Der Influencer Andrew Tate und sein Bruder Tristan Tate sind in den USA festgenommen worden. Wie die US-Behörden mitteilten, erfolgte die Festnahme auf Antrag Grossbritanniens. Wie die britische Staat",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bahn statt Strasse: Stimmvolk setzt klare Prioritäten",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-07-19/bahn-statt-strasse-stimmvolk-setzt-klare-prioritaeten",
+      "summary": "Eine neue Umfrage belegt: Die Milliardeninvestitionen in den Bahnausbau haben gute Chancen in einer Abstimmung. Selbst der umstrittene Grimseltunnel kommt gut an.",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Humanoide Roboter prügeln sich im Ring",
+      "url": "https://www.watson.ch/international/videos/325502519-humanoide-roboter-pruegeln-sich-im-ring",
+      "summary": "",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Hündeler» demonstrieren für Sihlzugang auf der Zürcher Allmend",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/186782288-huendeler-demonstrieren-fuer-sihlzugang-auf-der-zuercher-allmend",
+      "summary": "",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kubanischer Regierungskritiker Alcántara in den USA im Exil",
+      "url": "https://www.watson.ch/international/usa/733457733-kubanischer-regierungskritiker-alcantara-in-den-usa-im-exil",
+      "summary": "",
+      "published": "2026-07-19T02:31:45.075090+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "35-jähriger Franzose stürzt von Tessiner Alp in den Tod",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/221068684-35-jaehriger-franzose-stuerzt-von-tessiner-alp-in-den-tod",
+      "summary": "",
+      "published": "2026-07-19T02:31:45.075090+00:00"
     }
   ]
 }
