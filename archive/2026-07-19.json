@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T08:01:59.667271+00:00",
+  "generated": "2026-07-19T08:31:54.381289+00:00",
   "date": "2026-07-19",
-  "count": 155,
+  "count": 169,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1087,6 +1087,104 @@
       "url": "https://www.watson.ch/sport/fussball/895087108-wm-2026-ein-versoehnlicher-abschluss-fuer-thomas-tuchel",
       "summary": "",
       "published": "2026-07-19T08:01:59.667271+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Schon wieder 10 Kilometer!: Stau-Wahnsinn am Gotthard geht am Sonntagmorgen weiter",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/uri/schon-wieder-10-kilometer-stau-wahnsinn-am-gotthard-geht-am-sonntagmorgen-weiter-id22119632.html",
+      "summary": "Es nimmt kein Ende: Am Sonntagmorgen staut sich der Verkehr vor dem Gotthard Richtung Süden auf 10 Kilometern. Die A2 ist erneut verstopft.",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die Woche durch unsere Linse: Mediterrane Wiesen und ein warmer Empfang für die Nati: die besten Bilder aus Zürich und Umgebung",
+      "url": "https://www.tagesanzeiger.ch/die-besten-bilder-der-woche-286109487775",
+      "summary": "Eine Badi lässt nur Einheimische rein, die Schweiz ist ausgetrocknet und die Fussball-Nati wird frenetisch empfangen – die Woche in starken Bildern von unseren Fotografinnen und Fotografen.",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Entgleisung im Gotthard-Basistunnel: Bund kritisiert den Zustand von Güterwaggons – die Betreiber warnen vor Zusatzkosten durch verschärfte Kontrollen",
+      "url": "https://www.tagesanzeiger.ch/gotthard-basistunnel-sbb-verschaerft-radkontrollen-nach-entgleisung-162682491422",
+      "summary": "Der Bund verlangt seit der Entgleisung 2023 strengere Prüfungen aller Güterwagen – mehrere Unternehmen wehren sich vor Gericht dagegen.",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rettungshelikopter im Einsatz: Frau stürzt beim Wandern auf das Balmflueh­köpfli steilen Hang hinunter",
+      "url": "https://www.tagesanzeiger.ch/unfall-im-kanton-solothurn-wanderin-stuerzt-hang-hinunter-385494944316",
+      "summary": "In Balm bei Günsberg geriet eine Wanderin auf dem Ostgrat ins Stolpern und stürzte in die Tiefe. Die Rega musste die 29-Jährige aus dem unwegsamen Gelände bergen.",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Restaurants im Test: Das Essen im Schloss Laufen kann mit der Kulisse nicht ganz mithalten",
+      "url": "https://www.tagesanzeiger.ch/das-essen-im-schloss-laufen-kann-mit-der-kulisse-nicht-ganz-mithalten-187152343044",
+      "summary": "Das Restaurant Schloss Laufen am Rheinfall kann mit seiner lauschigen Terrasse an heissen Tagen punkten. Doch der Tourismus-Hotspot hat seine Schattenseiten.",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zug droht Asyl-Millionenrechnung",
+      "url": "https://www.zentralplus.ch/news/zug-droht-asyl-millionenrechnung-2885808/",
+      "summary": "Seit Wochen wird über Ukrainer mit B-Ausweis debattiert. Nun hat sich die Zuger Regierung geäussert, die Angleichung an Schweizerinnen kritisiert und Zahlen vorgelegt. Nach fünf Jahren erhalten Schutz",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Facebook grüsst aus dem Jenseits: Was tun mit den Online-Konten von Verstorbenen?",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-07-19/facebook-gruesst-aus-dem-jenseits-was-tun-mit-den-online",
+      "summary": "Stirbt ein Angehöriger, hinterlässt er nicht nur Geld und Haus, sondern auch ein Linkedin-Profil, Streaming-Abos und vielleicht auch Bitcoins. Das müssen Sie beachten.",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Sonntagsquiz Graubunden in Emojis",
+      "url": "https://www.suedostschweiz.ch/graubuenden/sonntagsquiz-graubunden-in-emojis-2086414",
+      "summary": "",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "25 Jähriger Verursacht in Fahrunfähigem Zustand Unfall Führerausweis Weg",
+      "url": "https://www.tagblatt.ch/ostschweiz/rheintal/25-jaehriger-verursacht-in-fahrunfaehigem-zustand-unfall-fuehrerausweis-weg-ld.4204994",
+      "summary": "",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Wanderin bei Balm bei Günsberg Erheblich Verletzt",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/wanderin-bei-balm-bei-guensberg-erheblich-verletzt-ld.4204995",
+      "summary": "",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Dann wird man Donald Trum beim Final sehen",
+      "url": "https://www.watson.ch/sport/fifa/683394575-wm-2026-dann-wird-man-donald-trum-beim-final-sehen",
+      "summary": "",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026 im Tagesticker: Nilpferd Moo Deng tippt den WM-Final",
+      "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-nilpferd-moo-deng-tippt-den-wm-final",
+      "summary": "",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Museumsperlen in der Region",
+      "url": "https://www.freiburger-nachrichten.ch/story/277120/museumsperlen-in-der-region",
+      "summary": "",
+      "published": "2026-07-19T08:31:54.381289+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Opernverein meldet Konkurs an",
+      "url": "https://www.freiburger-nachrichten.ch/story/276699/opernverein-meldet-konkurs-an",
+      "summary": "",
+      "published": "2026-07-19T08:31:54.381289+00:00"
     }
   ]
 }
