@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T23:02:14.538742+00:00",
+  "generated": "2026-07-19T23:32:42.221320+00:00",
   "date": "2026-07-20",
-  "count": 32,
+  "count": 37,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -226,6 +226,41 @@
       "url": "https://www.watson.ch/sport/analyse/877627952-spanien-ist-weltmeister-so-hat-es-auch-argentinien-geschlagen",
       "summary": "",
       "published": "2026-07-19T23:02:14.538742+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nachwuchs beim US-Vizepräsidenten: J. D. und Usha Vance begrüssen viertes Kind",
+      "url": "https://www.tagesanzeiger.ch/jd-vance-viertes-kind-alec-neel-geboren-103546925678",
+      "summary": "Drei Kinder hatte das Ehepaar Vance schon, nun kam das jüngste Mitglied der Familie auf die Welt.",
+      "published": "2026-07-19T23:32:42.221320+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "JD und Usha Vance verkünden die Geburt ihres vierten Kindes",
+      "url": "https://www.watson.ch/international/usa/707970028-jd-und-usha-vance-verkuenden-die-geburt-ihres-vierten-kindes",
+      "summary": "",
+      "published": "2026-07-19T23:32:42.221320+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM-Final: Argentinien geht nach Niederlage auf Spanier los",
+      "url": "https://www.watson.ch/sport/fussball/518397564-wm-final-argentinien-geht-nach-niederlage-auf-spanier-los",
+      "summary": "",
+      "published": "2026-07-19T23:32:42.221320+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russischer Angriff mit Lenkbomben – Erneut Tote in Saporischschja",
+      "url": "https://www.watson.ch/international/russland/521320379-russischer-angriff-mit-lenkbomben-erneut-tote-in-saporischschja",
+      "summary": "",
+      "published": "2026-07-19T23:32:42.221320+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Spanien-Fans feiern den Sieg im WM-Final gegen Argentinien in Zürich",
+      "url": "https://www.watson.ch/schweiz/sport/788621545-spanien-fans-feiern-den-sieg-im-wm-final-gegen-argentinien-in-zuerich",
+      "summary": "",
+      "published": "2026-07-19T23:32:42.221320+00:00"
     }
   ]
 }
