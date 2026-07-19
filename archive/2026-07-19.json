@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T00:31:31.042087+00:00",
+  "generated": "2026-07-19T00:39:02.983369+00:00",
   "date": "2026-07-19",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,13 @@
       "url": "https://www.watson.ch/international/russland/796516904-mit-ballistischen-raketen-russland-nimmt-kiew-ins-visier",
       "summary": "",
       "published": "2026-07-19T00:31:31.042087+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Proteste in der Ukraine: Selenskyj führt Gespräche mit Militärs",
+      "url": "https://www.watson.ch/international/russland/392370524-proteste-in-der-ukraine-selenskyj-fuehrt-gespraeche-mit-militaers",
+      "summary": "",
+      "published": "2026-07-19T00:39:02.983369+00:00"
     }
   ]
 }
