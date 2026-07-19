@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T03:02:04.765751+00:00",
+  "generated": "2026-07-19T03:31:32.727625+00:00",
   "date": "2026-07-19",
-  "count": 77,
+  "count": 81,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -541,6 +541,34 @@
       "url": "https://www.bote.ch/nachrichten/sport/fcl-bleibt-zum-saisonstart-ohne-sieg-auf-der-allmend-art-1713407",
       "summary": "",
       "published": "2026-07-19T03:02:04.765751+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Ähm, Pizza?» Was Touristen über Luzerns Kultur wissen",
+      "url": "https://www.zentralplus.ch/kultur/aehm-pizza-was-touristen-ueber-luzerns-kultur-wissen-2885651/",
+      "summary": "Die Stadt Luzern möchte sich als Kulturstadt profilieren und Festivals stärker mit dem Tourismus verbinden. Doch auf der Strasse zeigt sich: Die meisten Gäste kommen noch immer wegen See, Bergen und K",
+      "published": "2026-07-19T03:31:32.727625+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Informatiker soll zu seiner Partnerin gesagt haben, sie sei eine tote Frau, wenn die Pflanze sterbe – bei der Einvernahme verprügelt er die Staatsanwältin",
+      "url": "https://www.nzz.ch/zuerich/informatiker-verpruegelt-staatsanwaeltin-urteil-gefaellt-ld.10015902",
+      "summary": "",
+      "published": "2026-07-19T03:31:32.727625+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Merz drückt aufs Tempo bei Suche nach Spahn-Nachfolge",
+      "url": "https://www.watson.ch/international/deutschland/369877839-merz-drueckt-aufs-tempo-bei-suche-nach-spahn-nachfolge",
+      "summary": "",
+      "published": "2026-07-19T03:31:32.727625+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "IT-Sytemprobleme bei Arbeitslosenkassen offenbar schon länger bekannt",
+      "url": "https://www.watson.ch/schweiz/ahv/227895612-it-sytemprobleme-bei-arbeitslosenkassen-offenbar-schon-laenger-bekannt",
+      "summary": "",
+      "published": "2026-07-19T03:31:32.727625+00:00"
     }
   ]
 }
