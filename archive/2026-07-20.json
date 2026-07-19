@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T22:32:17.072164+00:00",
+  "generated": "2026-07-19T23:02:14.538742+00:00",
   "date": "2026-07-20",
-  "count": 28,
+  "count": 32,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -198,6 +198,34 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/als-die-schweiz-noch-versiegelt-war-art-1713432",
       "summary": "",
       "published": "2026-07-19T22:32:17.072164+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump auf WM-Foto verewigt – Messi weint bittere Tränen",
+      "url": "https://www.20min.ch/story/spanien-ist-weltmeister-donald-trump-vor-ort-die-siegerehrung-laeuft-103606007",
+      "summary": "Spanien ist Weltmeister! Die Siegerehrung jetzt live.",
+      "published": "2026-07-19T23:02:14.538742+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "JD und Usha Vance begrüssen viertes Kind",
+      "url": "https://www.20min.ch/story/us-vizepraesident-alec-neel-jd-und-usha-vance-begruessen-vierten-kindes-103606013",
+      "summary": "Drei Kinder hatte das Ehepaar Vance schon, nun kam das jüngste Mitglied der Familie auf die Welt.",
+      "published": "2026-07-19T23:02:14.538742+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Eine kleine Horror-Show: Madonna, Shakira und Justin Bieber hetzten durch die 30-minütige Halbzeitpause des WM-Finals",
+      "url": "https://www.nzz.ch/sport/fussball/eine-kleine-horror-show-madonna-shakira-und-justin-bieber-hetzten-durch-die-30-minuetige-halbzeitpause-des-wm-finals-ld.10016151",
+      "summary": "",
+      "published": "2026-07-19T23:02:14.538742+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Spanien ist Weltmeister! So hat es auch Argentinien geschlagen",
+      "url": "https://www.watson.ch/sport/analyse/877627952-spanien-ist-weltmeister-so-hat-es-auch-argentinien-geschlagen",
+      "summary": "",
+      "published": "2026-07-19T23:02:14.538742+00:00"
     }
   ]
 }
