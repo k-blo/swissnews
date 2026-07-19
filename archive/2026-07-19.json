@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T04:31:29.578065+00:00",
+  "generated": "2026-07-19T04:59:11.208053+00:00",
   "date": "2026-07-19",
-  "count": 103,
+  "count": 104,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -723,6 +723,13 @@
       "url": "https://www.watson.ch/sport/wm-tagesticker/896058623-wm-2026-im-tagesticker-messi-richtet-sich-vor-final-an-argentinien",
       "summary": "",
       "published": "2026-07-19T04:01:41.409170+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Superzelle trifft Bad-Bunny-Konzert – Verletzte durch Hagel",
+      "url": "https://www.20min.ch/story/mailand-superzelle-trifft-bad-bunny-konzert-verletzte-durch-hagel-103605354",
+      "summary": "Ein Konzert des puerto-ricanischen Sängers in Italien muss wegen eines schweren Hagelschauers abgebrochen werden. Nach Angaben der Feuerwehr werden mehrere Zuschauer von Hagelkörnern verletzt.",
+      "published": "2026-07-19T04:59:11.208053+00:00"
     }
   ]
 }
