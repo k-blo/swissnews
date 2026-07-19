@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T04:59:11.208053+00:00",
+  "generated": "2026-07-19T05:02:04.435324+00:00",
   "date": "2026-07-19",
-  "count": 104,
+  "count": 108,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -730,6 +730,34 @@
       "url": "https://www.20min.ch/story/mailand-superzelle-trifft-bad-bunny-konzert-verletzte-durch-hagel-103605354",
       "summary": "Ein Konzert des puerto-ricanischen Sängers in Italien muss wegen eines schweren Hagelschauers abgebrochen werden. Nach Angaben der Feuerwehr werden mehrere Zuschauer von Hagelkörnern verletzt.",
       "published": "2026-07-19T04:59:11.208053+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Lücken im Kontrollsystem: Ein Mann stirbt nach Listerien im Raclette – aber der Bund darf nicht öffentlich warnen",
+      "url": "https://www.tagesanzeiger.ch/listerien-im-raclettekaese-todesfall-blieb-ohne-warnung-373093141965",
+      "summary": "Listeriose-Erkrankungen wegen verunreinigtem Käse häufen sich in der Schweiz. Ein aktueller Fall zeigt, weshalb bürokratische Hürden teils sogar verhindern, dass die Öffentlichkeit davon erfährt.",
+      "published": "2026-07-19T05:02:04.435324+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Getränke aus Oetwil am See: In ihrer Manufaktur stellt sie Sirup und Mischungen für preisgekrönten Gin her",
+      "url": "https://www.tagesanzeiger.ch/gin-aus-oetwil-am-see-manufaktur-gewinnt-preise-978163293956",
+      "summary": "Sandra und Roger Müller stellen in Handarbeit Getränke mit Zutaten aus dem eigenen Garten her. Was als private Liebhaberei begann, entwickelte sich zu einer grossen Leidenschaft – die jüngst belohnt w",
+      "published": "2026-07-19T05:02:04.435324+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ausflugstipps für diesen Sommer: Über Pässe, auf Gipfel und durch Tunnel – fünf empfehlenswerte Zugfahrten",
+      "url": "https://www.bernerzeitung.ch/sommertipps-fuenf-zugfahrten-in-der-schweiz-mit-wow-aussicht-970526752701",
+      "summary": "Vom Goldenpass-Express über die Dampfbahn aufs Brienzer Rothorn bis zum «Bipperlisi»: Auf diesen Eisenbahnstrecken ist der Weg das Ziel.",
+      "published": "2026-07-19T05:02:04.435324+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Hitze auf der Schynigen Platte: Sie schützt den Alpengarten vor Trockenheit und unerwünschten Auswüchsen",
+      "url": "https://www.bernerzeitung.ch/alpengarten-schynige-platte-klimawandel-fordert-gaertnerinnen-542169471465",
+      "summary": "Die Waldgrenze steigt, Tessiner Pflanzen versamen sich, und das Wasser wird knapp. Jasmin Senn und ihr Team stemmen sich auf 2000 Metern gegen die Folgen des Klimawandels.",
+      "published": "2026-07-19T05:02:04.435324+00:00"
     }
   ]
 }
