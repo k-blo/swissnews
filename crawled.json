@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T01:31:22.672406+00:00",
+  "generated": "2026-07-19T02:01:19.753654+00:00",
   "date": "2026-07-19",
-  "count": 30,
+  "count": 33,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,27 @@
       "url": "https://www.watson.ch/international/reisen/427694467-streit-um-sonnenschirme-an-der-algarvre-ministerin-schaltet-sich-ein",
       "summary": "",
       "published": "2026-07-19T01:31:22.672406+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Manosphere-Influencer: Tate-Brüder in den USA festgenommen",
+      "url": "https://www.tagesanzeiger.ch/andrew-tate-festnahme-in-miami-wegen-sexualdelikten-325838717503",
+      "summary": "Der umstrittene Influencer Andrew Tate und sein Bruder Tristan sind in den USA wegen mutmasslicher Sexualdelikte festgenommen worden. Nach dem Willen der britischen Staatsanwaltschaft sollen sie nun a",
+      "published": "2026-07-19T02:01:19.753654+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ausweitung der Angriffe: Experte warnt vor US-Bodenoffensive im Iran",
+      "url": "https://www.watson.ch/international/iran/384327321-ausweitung-der-angriffe-experte-warnt-vor-us-bodenoffensive-im-iran",
+      "summary": "",
+      "published": "2026-07-19T02:01:19.753654+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Piraten kapern Tanker im Golf von Aden",
+      "url": "https://www.watson.ch/international/naher-osten/591092491-piraten-kapern-tanker-im-golf-von-aden",
+      "summary": "",
+      "published": "2026-07-19T02:01:19.753654+00:00"
     }
   ]
 }
