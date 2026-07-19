@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T07:01:27.245134+00:00",
+  "generated": "2026-07-19T07:31:33.799176+00:00",
   "date": "2026-07-19",
-  "count": 142,
+  "count": 146,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -996,6 +996,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277613/auf-diesem-campingplatz-sind-kinder-verboten%C2%A0-die-chefinnen-ziehen-eine-%C3%BCberraschende-bilanz",
       "summary": "",
       "published": "2026-07-19T07:01:27.245134+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Die Grundlagen einer neuen wissenschaftlichen Disziplin",
+      "url": "https://www.netzwoche.ch/news/2026-07-19/die-grundlagen-einer-neuen-wissenschaftlichen-disziplin",
+      "summary": "Klimawandel, Ressourcenverbrauch und Energiekrise stellen unsere Gesellschaft vor grosse Herausforderungen. Robotik könnte einen wesentlichen Beitrag zu deren Bewältigung leisten - doch dafür braucht ",
+      "published": "2026-07-19T07:31:33.799176+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Einfluss der Souveränität auf die ICT-Beschaffung",
+      "url": "https://www.netzwoche.ch/news/2026-07-19/einfluss-der-souveraenitaet-auf-die-ict-beschaffung",
+      "summary": "Das veränderte globale Risikobewusstsein und die zunehmenden geopolitischen Spannungen hinterlassen Spuren in den Chefetagen von Schweizer Unternehmen. Cybersecurity, Lieferketten-Instabilitäten und r",
+      "published": "2026-07-19T07:31:33.799176+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die geplanten Auftritte der Bundesräte am 1. August Nationalfeiertag",
+      "url": "https://www.watson.ch/schweiz/leben/508745024-die-geplanten-auftritte-der-bundesraete-am-1-august-nationalfeiertag",
+      "summary": "",
+      "published": "2026-07-19T07:31:33.799176+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Micheline Calmy-Rey im Interview über Sparkurs bei Entwicklungshilfe",
+      "url": "https://www.watson.ch/schweiz/interview/840798223-micheline-calmy-rey-im-interview-ueber-sparkurs-bei-entwicklungshilfe",
+      "summary": "",
+      "published": "2026-07-19T07:31:33.799176+00:00"
     }
   ]
 }
