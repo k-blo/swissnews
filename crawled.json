@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T01:01:36.844923+00:00",
+  "generated": "2026-07-19T01:31:22.672406+00:00",
   "date": "2026-07-19",
-  "count": 25,
+  "count": 30,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -177,6 +177,41 @@
       "url": "https://www.watson.ch/international/deutschland/578721242-danger-dan-abgesetzt-anstalt-macher-kritisieren-zdf",
       "summary": "",
       "published": "2026-07-19T00:52:04.941631+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tate-Brüder Andrew und Tristan in den USA festgenommen",
+      "url": "https://www.watson.ch/international/usa/239673460-tate-brueder-andrew-und-tristan-in-den-usa-festgenommen",
+      "summary": "",
+      "published": "2026-07-19T01:31:22.672406+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lindsey Vonn: So geht es dem Ski-Star 5 Monate nach Olympia-Sturz",
+      "url": "https://www.watson.ch/sport/wintersport/324129726-lindsey-vonn-so-geht-es-dem-ski-star-5-monate-nach-olympia-sturz",
+      "summary": "",
+      "published": "2026-07-19T01:31:22.672406+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Was tun mit den Online-Konten von Verstorbenen?",
+      "url": "https://www.watson.ch/digital/facebook/627603223-was-tun-mit-den-online-konten-von-verstorbenen",
+      "summary": "",
+      "published": "2026-07-19T01:31:22.672406+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bahnmitarbeiter stürzt nach Angriff aus Zug: Verdächtiger frei",
+      "url": "https://www.watson.ch/international/oev/266806231-bahnmitarbeiter-stuerzt-nach-angriff-aus-zug-verdaechtiger-frei",
+      "summary": "",
+      "published": "2026-07-19T01:31:22.672406+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Streit um Sonnenschirme an der Algarvre: Ministerin schaltet sich ein",
+      "url": "https://www.watson.ch/international/reisen/427694467-streit-um-sonnenschirme-an-der-algarvre-ministerin-schaltet-sich-ein",
+      "summary": "",
+      "published": "2026-07-19T01:31:22.672406+00:00"
     }
   ]
 }
