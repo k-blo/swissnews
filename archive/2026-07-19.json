@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T21:02:28.363739+00:00",
+  "generated": "2026-07-19T21:32:16.731535+00:00",
   "date": "2026-07-19",
-  "count": 476,
+  "count": 480,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3334,6 +3334,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277708/die-schlussphase-im-wmfinal-zwischen-argentinien-und-spanien-l%C3%A4uft-sticht-ein-joker",
       "summary": "",
       "published": "2026-07-19T21:02:28.363739+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Brand im Hotel Continental Park in Luzern",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/brand-im-hotel-continental-park-in-luzern-ld.4205164",
+      "summary": "",
+      "published": "2026-07-19T21:32:16.731535+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ZDF-Kommentator bezeichnet Gianni Infantino als Lakai von Donald Trump",
+      "url": "https://www.watson.ch/sport/schaun-mer-mal/895129275-zdf-kommentator-bezeichnet-gianni-infantino-als-lakai-von-donald-trump",
+      "summary": "",
+      "published": "2026-07-19T21:32:16.731535+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Feuer in Luzerner Hotel unter Kontrolle - Keine Verletzten",
+      "url": "https://www.watson.ch/schweiz/luzern/288753225-feuer-in-luzerner-hotel-unter-kontrolle-keine-verletzten",
+      "summary": "",
+      "published": "2026-07-19T21:32:16.731535+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Verlängerung läuft – Argentinien nach Fernandez-Rot gegen Spanien in Unterzahl",
+      "url": "https://www.freiburger-nachrichten.ch/story/277708/die-verl%C3%A4ngerung-l%C3%A4uft-argentinien-nach-fernandezrot-gegen-spanien-in-unterzahl",
+      "summary": "",
+      "published": "2026-07-19T21:32:16.731535+00:00"
     }
   ]
 }
