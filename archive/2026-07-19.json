@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-19T10:31:22.892603+00:00",
+  "generated": "2026-07-19T11:01:25.360051+00:00",
   "date": "2026-07-19",
-  "count": 220,
+  "count": 226,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1542,6 +1542,48 @@
       "url": "https://www.suedostschweiz.ch/glarus/bildergalerie-vom-bergschwinget-im-kloental-schwingen-wo-andere-baden-2092753",
       "summary": "",
       "published": "2026-07-19T10:31:22.892603+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Entgleisung im Gotthard-Basistunnel: Bund kritisiert Zustand von Güterwaggons – Betreiber warnen vor Zusatzkosten",
+      "url": "https://www.bernerzeitung.ch/gotthard-basistunnel-sbb-verschaerft-radkontrollen-nach-entgleisung-162682491422",
+      "summary": "Der Bund verlangt seit der Entgleisung 2023 strengere Prüfungen aller Güterwagen – mehrere Unternehmen wehren sich vor Gericht dagegen.",
+      "published": "2026-07-19T11:01:25.360051+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wegwerfverbot für unverkaufte Kleider",
+      "url": "https://www.zentralplus.ch/news/wegwerfverbot-fuer-unverkaufte-kleider-2885840/",
+      "summary": "Grosse Unternehmen in der Europäischen Union dürfen unverkaufte Kleidung, Kopfbedeckungen oder Schuhe nicht mehr vernichten. Eine entsprechende EU-Vorschrift gilt seit Sonntag. Betroffene Firmen könne",
+      "published": "2026-07-19T11:01:25.360051+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Erstes Interview: Thomas Gottschalk ist «momentan krebsfrei»",
+      "url": "https://www.nzz.ch/panorama/erstes-interview-thomas-gottschalk-ist-momentan-krebsfrei-ld.10016105",
+      "summary": "",
+      "published": "2026-07-19T11:01:25.360051+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Bildergalerie aus Grüsch So Wars am Ältesten Hiphop Festival der Schweiz",
+      "url": "https://www.suedostschweiz.ch/graubuenden/bildergalerie-aus-gruesch-so-wars-am-aeltesten-hiphop-festival-der-schweiz-2094350",
+      "summary": "",
+      "published": "2026-07-19T11:01:25.360051+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: So verlief das letzte Spiel von Didier Deschamps",
+      "url": "https://www.watson.ch/sport/fussball/927539400-wm-2026-so-verlief-das-letzte-spiel-von-didier-deschamps",
+      "summary": "",
+      "published": "2026-07-19T11:01:25.360051+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Israel richtet Sperrzone gegen Marsch für neue Gaza-Siedlungen ein",
+      "url": "https://www.watson.ch/international/israel/689002721-israel-richtet-sperrzone-gegen-marsch-fuer-neue-gaza-siedlungen-ein",
+      "summary": "",
+      "published": "2026-07-19T11:01:25.360051+00:00"
     }
   ]
 }
