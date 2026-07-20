@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T00:02:33.206198+00:00",
+  "generated": "2026-07-20T01:32:50.849060+00:00",
   "date": "2026-07-20",
-  "count": 44,
+  "count": 57,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -310,6 +310,97 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277750/remco-evenepoel-gewinnt-15-etappe-jonas-vingegaard-st%C3%BCrzt-und-gibt-auf",
       "summary": "",
       "published": "2026-07-20T00:02:33.206198+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Der Weltmeister im Porträt: Alles für eine Spielidee – Spanien ist wieder das Epizentrum des Fussballs",
+      "url": "https://www.tagesanzeiger.ch/spanien-weltmeister-rodri-de-la-fuente-und-das-kollektiv-952942116970",
+      "summary": "Rodri ist der Beste, aber Luis de la Fuente formt Spanien zu einem Kollektiv. Dass er zuvor die U-Nationalmannschaften trainierte, ist kein Zufall. Spanien dominiert den Weltfussball – auch bei den Fr",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nächtliche US-Angriffe auf Iran",
+      "url": "https://www.zentralplus.ch/news/naechtliche-us-angriffe-auf-iran-2885959/",
+      "summary": "Im Nahen Osten hat die US-Armee in der Nacht auf Montag eine weitere Welle von Luftangriffen gegen Ziele im Iran geflogen, wie sie das seit über einer Woche täglich tut. Der Iran reagierte erneut mit ",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Gemeine Klimawissenschaftler",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/der-gemeine-klimawissenschaftler",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Us Fussballnationalmannschaft Teilt Preisgeld ist das Lohngleichheit",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/us-fussballnationalmannschaft-teilt-preisgeld-ist-das-lohngleichheit",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ferran Torres nach Tor im WM-Final: «Ich wurde viel kritisiert»",
+      "url": "https://www.watson.ch/sport/spanien/662658024-ferran-torres-nach-tor-im-wm-final-ich-wurde-viel-kritisiert",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Festnahme nach Einbruch in eine Autogarage in Gampelen BE",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/314015329-festnahme-nach-einbruch-in-eine-autogarage-in-gampelen-be",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Danger Dan im Fokus: Private AfD-Adressen landen im Internet",
+      "url": "https://www.watson.ch/international/deutschland/883034964-danger-dan-im-fokus-private-afd-adressen-landen-im-internet",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann stirbt in Italien, nachdem Polizisten minutenlang auf ihm knien",
+      "url": "https://www.watson.ch/digital/international/779869131-mann-stirbt-in-italien-nachdem-polizisten-minutenlang-auf-ihm-knien",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "46-jähriger Mann im Genfersee in Rolle VD ertrunken",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/457764993-46-jaehriger-mann-im-genfersee-in-rolle-vd-ertrunken",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Demokraten kritisieren Trump nach Tod von US-Soldaten scharf",
+      "url": "https://www.watson.ch/international/iran/348149258-demokraten-kritisieren-trump-nach-tod-von-us-soldaten-scharf",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Strasse von Hormus: Schiff nahe dem Oman steht in Flammen",
+      "url": "https://www.watson.ch/international/iran/803488229-strasse-von-hormus-schiff-nahe-dem-oman-steht-in-flammen",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ab Montag gilt es für Andy Burnham ernst: Das kommt auf ihn zu",
+      "url": "https://www.watson.ch/international/grossbritannien/811717781-ab-montag-gilt-es-fuer-andy-burnham-ernst-das-kommt-auf-ihn-zu",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Statistik zeigt, wie schwach Messi und Argentinien im WM-Final waren",
+      "url": "https://www.watson.ch/sport/lionel-messi/350377717-statistik-zeigt-wie-schwach-messi-und-argentinien-im-wm-final-waren",
+      "summary": "",
+      "published": "2026-07-20T01:32:50.849060+00:00"
     }
   ]
 }
