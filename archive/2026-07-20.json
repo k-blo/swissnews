@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T04:02:18.256033+00:00",
+  "generated": "2026-07-20T04:32:43.738787+00:00",
   "date": "2026-07-20",
-  "count": 193,
+  "count": 204,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -1353,6 +1353,83 @@
       "url": "https://www.watson.ch/spass/leben/344441759-diese-13-alltagsgegenstaende-haben-geheime-funktionen",
       "summary": "",
       "published": "2026-07-20T04:02:18.256033+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Umfrage zur Abstimmung – Stimmberechtigte entscheiden auf den letzten Drücker",
+      "url": "https://www.srf.ch/news/schweiz/umfrage-zur-abstimmung-stimmberechtigte-entscheiden-auf-den-letzten-druecker",
+      "summary": "Im Aargau geht über die Hälfte der Stimmen erst in der Schlusswoche ein. Die Urne bleibt derweil fast leer.",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kampf gegen Fachkräftemangel – Kürzere Arbeitszeiten am Spital Uster als Modell für die Zukunft?",
+      "url": "https://www.srf.ch/news/schweiz/kampf-gegen-fachkraeftemangel-kuerzere-arbeitszeiten-am-spital-uster-als-modell-fuer-die-zukunft",
+      "summary": "Chirurgen am Spital Uster loben ein neues Modell mit verkürzten Arbeitszeiten. Nur: Perfekt ist das System noch nicht.",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tipps bei Meinungsverschiedenheiten: Wie Sie besser streiten",
+      "url": "https://www.tagesanzeiger.ch/diskussion-ohne-konflikte-wie-sie-besser-streiten-696761064252",
+      "summary": "Diskussionen scheitern selten an fehlenden Argumenten, sondern an gegenseitigem Unverständnis. Drei Ansätze für bessere Debatten.",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Zwischen Rowdys und Musterschülern: «Ab und zu überfahre ich eine rote Ampel», sagt der oberste Berner Velo-Lobbyist",
+      "url": "https://www.derbund.ch/velofahren-bern-pro-velo-praesident-ueber-rowdys-und-rotlichter-463019017221",
+      "summary": "Im Stadtberner Velo­verkehr herrscht Anarchie. Stimmt das Klischee wirklich? Michael Sutter erklärt, warum Velo­fahrende gerne zu Sünden­böcken gemacht werden.",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Tierärztin zu Qualzuchten: Mops, Chihuahua, Perserkatze: «Man kultiviert gezielt Gendefekte, die Leiden verursachen.»",
+      "url": "https://www.derbund.ch/qualzuchten-tieraerztin-fordert-importverbot-380299351818",
+      "summary": "Haustiere mit kurzen Nasen sind im Trend – trotz Atemnot und chronischer Schmerzen. Doch warum kaufen Menschen teure Tiere, die offenkundig leiden? Monika Benninger kennt die Gründe.",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "BaZ-Sommerrätsel mit -minu: Nummer 19: Ein Wetterhäuschen voller Erinnerungen",
+      "url": "https://www.bazonline.ch/basel-welches-farbengeschaeft-steht-in-der-clarastrasse-450772062104",
+      "summary": "Jede der 35 Sprossen richtig erraten, den Lösungsspruch einschicken und vielleicht einen speziellen Preis gewinnen. Das BaZ-Sommerrätsel mit -minu.",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der virtuelle Sommelier – zwei Westschweizer bringen Jungen den Wein näher",
+      "url": "https://www.nzz.ch/schweiz/der-virtuelle-sommelier-zwei-westschweizer-bringen-jungen-den-wein-naeher-ld.10015843",
+      "summary": "",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA erwarten trotz Spannungen Besuch von Chinas Staatschef",
+      "url": "https://www.watson.ch/international/usa/866180487-usa-erwarten-trotz-spannungen-besuch-von-chinas-staatschef",
+      "summary": "",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweiz hilft Ländern beim Steuern eintreiben – Hilfe ist umstritten",
+      "url": "https://www.watson.ch/schweiz/international/173865320-schweiz-hilft-laendern-beim-steuern-eintreiben-hilfe-ist-umstritten",
+      "summary": "",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gelb und Rot für Unverbesserliche, und rot für den Einen",
+      "url": "https://www.freiburger-nachrichten.ch/story/277755/gelb-und-rot-f%C3%BCr-unverbesserliche-und-rot-f%C3%BCr-den-einen",
+      "summary": "",
+      "published": "2026-07-20T04:32:43.738787+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Grossbrand im Continental Park – Hotelgast: «Es war sehr unheimlich»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/brand-im-hotel-continental-park-in-luzern-art-1713450",
+      "summary": "",
+      "published": "2026-07-20T04:32:43.738787+00:00"
     }
   ]
 }
