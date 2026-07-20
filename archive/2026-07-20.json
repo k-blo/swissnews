@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T10:02:31.785688+00:00",
+  "generated": "2026-07-20T10:32:18.424261+00:00",
   "date": "2026-07-20",
-  "count": 410,
+  "count": 430,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -2872,6 +2872,146 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/engelberger-gewinnen-heimturniere-im-seilziehen-art-1713525",
       "summary": "",
       "published": "2026-07-20T10:02:31.785688+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Deutsche Zeitung gibt Anleitung für Gratisferien in der Schweiz",
+      "url": "https://www.20min.ch/story/braucht-nur-gutes-herz-deutsche-zeitung-gibt-anleitung-fuer-gratisferien-in-der-schweiz-103606171",
+      "summary": "Kostenlos übernachten in einer Ferienwohnung mit gefülltem Kühlschrank: Einzige Bedingung ist Hundesitting.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tate-Brüder sollen noch heute vor Gericht erscheinen",
+      "url": "https://www.20min.ch/story/nach-festnahme-tate-brueder-sollen-noch-heute-vor-gericht-erscheinen-103606219",
+      "summary": "Am Wochenende wurden die Influencer in Miami festgenommen. Die Frage ist nun, ob sie nach Grossbritannien ausgeliefert werden. Das soll bereits heute vor Gericht entschieden werden.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kurioser Rechtsstreit: Der Bund schliesst Swisscom von Millionen­beschaffung aus – wegen eines «Verschreibers»",
+      "url": "https://www.tagesanzeiger.ch/swisscom-verliert-streit-um-e-signatur-auftrag-des-bundes-727140470614",
+      "summary": "Der Telecomkonzern gehört im Geschäft mit elektronischen Unterschriften zu den Marktführern. Doch 534 fehlende Arbeitsstunden führen zum Ausschluss beim neuen E-Signatur-Validator.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rekordstrafe gegen Onlineshop: Aliexpress muss 550 Millionen Euro wegen illegaler Produkte zahlen",
+      "url": "https://www.tagesanzeiger.ch/aliexpress-eu-verhaengt-550-millionen-busse-429932105141",
+      "summary": "Die EU bestraft den chinesischen Online-Riesen für den Verkauf von Fälschungen und gefährlichem Spielzeug. Laut Brüssel fehlte es an Personal, und verbotene Waren wurden sogar beworben.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Würg-Angriff beim WM-Final: Nach dem Abpfiff brannten ihm die Sicherungen durch: So wurde Leandro Paredes zum unfairsten Spieler der WM",
+      "url": "https://www.bernerzeitung.ch/wm-final-argentiniens-leandro-paredes-wuergt-spanien-spieler-465133864484",
+      "summary": "Im Final sieht der Mittel­feld­spieler Rot, weil er nach dem Schluss­pfiff zwei Spaniern an den Hals ging. Damit verkörpert er trotz aller Brillanz das argentinische Team perfekt.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Bundesrecht verbietet Abschuss: Wildhut vergrämt Wolf im Jagdbanngebiet Schwarzhorn",
+      "url": "https://www.bernerzeitung.ch/wolf-verletzt-vermutlich-kalb-im-jagdbanngebiet-schwarzhorn-728134714439",
+      "summary": "Bei Schattenhalb hat vermutlich ein Wolf ein Kalb so schwer verletzt, dass es notgetötet werden musste. Die Wildhut setzt nun auf Vergrämung und Fotofallen.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Baustellenbesuch im Pionier-Solarpark: Das Adjektiv «riesig» ist hier keine Übertreibung: «Wir müssen äusserst effizient vorgehen»",
+      "url": "https://www.bernerzeitung.ch/solarpark-madrisa-alpines-pionierprojekt-bei-klosters-540066729464",
+      "summary": "Der Solarpark Madrisa ist der erste, der aus dem «Solarexpress» des Bundes hervorgeht. Die Anlage soll auch im Winter 3500 Haushalten Strom liefern. Ein Rundgang auf über 2000 Metern.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Anklage gegen Aargauer Ex-Grossrat: «Warum sollte ich mich schämen, mich zu zeigen? Er muss sich schämen, für das, was er mir angetan hat»",
+      "url": "https://www.derbund.ch/ex-svp-grossrat-patrick-frei-soll-15-jaehrige-missbraucht-haben-849450080298",
+      "summary": "Ein ehemaliger SVP-Politiker verging sich laut Staatsanwaltschaft immer wieder an bewusstlosen Frauen. Er bestreitet wesentliche Teile der Vorwürfe. Nun schildern Paula L. (18) und ihre Mutter ihr Mar",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Erneut Angriffe auf Iran: Trump verlegt Kampfjets in den Nahen Osten – ist Washington zu einem grösseren Krieg bereit?",
+      "url": "https://www.derbund.ch/iran-krieg-usa-verlegen-f-16-und-f-35-in-nahen-osten-626236037014",
+      "summary": "Das US-Militär hat in der bereits neunten Nacht in Folge Ziele im Iran bombardiert. Zugleich holte Teheran erneut zum Gegenschlag aus. Die Sorge vor einem umfassenderen Krieg wächst.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Andy Burnham übernimmt von Keir Starmer",
+      "url": "https://www.zentralplus.ch/news/andy-burnham-uebernimmt-von-keir-starmer-2886030/",
+      "summary": "Grossbritannien erhält den fünften Premierminister innerhalb von fünf Jahren. Andy Burnham übernimmt ab sofort als Nachfolger von Keir Starmer. Starmer kündigte vor einem Monat wegen schlechter Umfrag",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "James Gray wird ausgezeichnet",
+      "url": "https://www.persoenlich.com/gesellschaft/james-gray-erhalt-preis-fur-gesamtwerk",
+      "summary": "Der US-Regisseur wird am 9. August auf der Piazza Grande mit dem Pardo della Carriera geehrt.",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wenn Kinder das Chillen geniessen: Der Spielplatz Breitenauwegli im Test",
+      "url": "https://www.shn.ch/region/stadt/2026-07-20/wenn-kinder-das-chillen-geniessen-der-spielplatz-breitenauwegli-im-test",
+      "summary": "Es braucht nicht viel, damit Kinder sich austoben können und glücklich sind. Während Eltern den Quartierspielplatz auf der Breite als wenig spektakulär betrachten, sind die Kinder vom Spielplatz begei",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Wie Schurkenstaaten Kryptowährungen Nutzen um Sanktionen zu Umgehen",
+      "url": "https://www.bilanz.ch/the-wall-street-journal/wie-schurkenstaaten-kryptowaehrungen-nutzen-um-sanktionen-zu-umgehen/k4257br",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Lula Kids Cafe in Luzern Trifft das Konzept auf Anklang",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/lula-kids-cafe-in-luzern-trifft-das-konzept-auf-anklang-ld.4182553",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Fgow Zieht Gegen Bazl Entscheid zum Flugplatz Kägiswil Weiter",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/fgow-zieht-gegen-bazl-entscheid-zum-flugplatz-kaegiswil-weiter-ld.4205297",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Keir Starmer tritt als Premierminister zurück – Andy Burnham übernimmt",
+      "url": "https://www.watson.ch/international/grossbritannien/944980348-keir-starmer-tritt-als-premierminister-zurueck-andy-burnham-uebernimmt",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WM 2026: Die besten Memes zum Final zwischen Argentinien und Spanien",
+      "url": "https://www.watson.ch/sport/lionel-messi/955219657-wm-2026-die-besten-memes-zum-final-zwischen-argentinien-und-spanien",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zoo Basel: Flusspferde töten Strauss im Zolli",
+      "url": "https://www.watson.ch/schweiz/basel/948334685-zoo-basel-flusspferde-toeten-strauss-im-zolli",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FGOW akzeptiert Entscheid des BAZL nicht",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/fgow-zieht-gegen-bazl-entscheid-zum-flugplatz-kaegiswil-weiter-art-1713528",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Lula Kids Café»: Warum das neue Familiencafé ankommt – und welche Regeln gelten",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/lula-kids-cafe-in-luzern-trifft-das-konzept-auf-anklang-art-1713527",
+      "summary": "",
+      "published": "2026-07-20T10:32:18.424261+00:00"
     }
   ]
 }
