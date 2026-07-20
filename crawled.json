@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T23:02:34.197179+00:00",
+  "generated": "2026-07-20T23:32:10.418795+00:00",
   "date": "2026-07-21",
-  "count": 20,
+  "count": 23,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -142,6 +142,27 @@
       "url": "https://www.watson.ch/sport/fussball/376041512-nati-stuermer-embolo-bricht-nach-wm-rot-gegen-argentinien-sein-schweigen",
       "summary": "",
       "published": "2026-07-20T23:02:34.197179+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Richterin legt Warner-Übernahme für zwei Wochen auf Eis",
+      "url": "https://www.watson.ch/international/usa/313783788-us-richterin-legt-warner-uebernahme-fuer-zwei-wochen-auf-eis",
+      "summary": "",
+      "published": "2026-07-20T23:32:10.418795+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran-Krieg live: Erneut Tanker in Strasse von Hormus angegriffen",
+      "url": "https://www.watson.ch/international/liveticker/295509659-iran-krieg-live-erneut-tanker-in-strasse-von-hormus-angegriffen",
+      "summary": "",
+      "published": "2026-07-20T23:32:10.418795+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump kündigt neue Zölle gegen Kanada an",
+      "url": "https://www.watson.ch/international/usa/820263439-trump-kuendigt-neue-zoelle-gegen-kanada-an",
+      "summary": "",
+      "published": "2026-07-20T23:32:10.418795+00:00"
     }
   ]
 }
