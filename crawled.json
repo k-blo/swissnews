@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T09:47:14.506245+00:00",
+  "generated": "2026-07-20T09:50:40.180684+00:00",
   "date": "2026-07-20",
-  "count": 387,
+  "count": 392,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -2711,6 +2711,41 @@
       "url": "https://rathuus.ch/der-sonntagsblick-und-die-samstagswette/",
       "summary": "",
       "published": "2026-07-20T09:47:14.506245+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ferienverkehr: Reisende in den Süden brauchen vor dem Gotthard-Nordportal Geduld",
+      "url": "https://www.bernerzeitung.ch/gotthard-stau-11-kilometer-vor-nordportal-in-goeschenen-447637477505",
+      "summary": "Der Ferienverkehr bringt die A2 am Gotthard erneut an ihre Grenzen. Der TCS empfiehlt die Ausweichroute über den San Bernardino.",
+      "published": "2026-07-20T09:50:40.180684+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Mehr Garderoben für Allmend Süd Gefordert",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-mehr-garderoben-fuer-allmend-sued-gefordert-ld.4205262",
+      "summary": "",
+      "published": "2026-07-20T09:50:40.180684+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Urner Kmu Booster Schafft Orientierung zu Netto Null",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/urner-kmu-booster-schafft-orientierung-zu-netto-null-ld.4204255",
+      "summary": "",
+      "published": "2026-07-20T09:50:40.180684+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Stadt Luzern soll schnell zusätzliche Garderoben auf der Allmend schaffen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-mehr-garderoben-fuer-allmend-sued-gefordert-art-1713523",
+      "summary": "",
+      "published": "2026-07-20T09:50:40.180684+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "KMU-Booster schafft Orientierung für die Herausforderungen von morgen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/urner-kmu-booster-schafft-orientierung-zu-netto-null-art-1713522",
+      "summary": "",
+      "published": "2026-07-20T09:50:40.180684+00:00"
     }
   ]
 }
