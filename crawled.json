@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T06:32:20.699482+00:00",
+  "generated": "2026-07-20T07:02:54.979320+00:00",
   "date": "2026-07-20",
-  "count": 241,
+  "count": 256,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -1689,6 +1689,111 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277764/erleichterung-f%C3%BCr-passagiere-im-rollstuhl-swissport-lanciert-neuheit",
       "summary": "",
       "published": "2026-07-20T06:32:20.699482+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«US-Präsident und sein Telefonjoker»: ZDF-Mann verhöhnt Infantino",
+      "url": "https://www.20min.ch/story/im-wm-final-us-praesident-und-sein-telefonjoker-zdf-mann-verhoehnt-infantino-103606104",
+      "summary": "Im WM-Final zwischen Spanien und Argentinien nennt ZDF-Kommentator Oliver Schmidt Fifa-Chef Gianni Infantino Trumps «Lakai» – und wird dafür auf Social Media gefeiert.",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "WM-Feier endet tragisch: 13-Jähriger kommt ums Leben",
+      "url": "https://www.20min.ch/story/in-spanien-wm-feier-endet-tragisch-13-jaehriger-kommt-ums-leben-103606112",
+      "summary": "Nach Spaniens WM-Triumph stürzt in Ciudad Rodrigo ein Brunnen ein. Ein 13-Jähriger stirbt, drei weitere Personen werden schwer verletzt.",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Pokalübergabe beim WM-Finale: Trump will mit aufs Siegerfoto",
+      "url": "https://www.tagesanzeiger.ch/trump-beim-wm-finale-er-will-mit-aufs-siegerfoto-306345955221",
+      "summary": "Donald Trump hat die WM zu einer hochpolitischen Veranstaltung gemacht. Zum Abschluss überreicht er den Pokal den Spaniern, deren Land er jüngst «Horrorshow» nannte – und bleibt danach einfach stehen.",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Epidemie in Zentralafrika: Zahl der Ebola-Todesopfer im Kongo auf mehr als 900 gestiegen",
+      "url": "https://www.tagesanzeiger.ch/ebola-ausbruch-im-kongo-mehr-als-930-todesopfer-244864326891",
+      "summary": "Mitte Mai wurde der Ebola-Ausbruch in der Demokratischen Republik Kongo bekannt gegeben. Inzwischen sind 930 Menschen daran gestorben.",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wetter der Woche: Sommerwetter mit bis zu 27 Grad",
+      "url": "https://www.bernerzeitung.ch/wetter-im-kanton-bern-bis-27-grad-am-mittwoch-571286082675",
+      "summary": "Der Kanton Bern erlebt eine trockene und sommerliche Woche. Die Temperaturen sind angenehm, mit einem Spitzenwert von 27 Grad, der am Mittwoch in Biel erwartet wird. Der Wind ist meist nur schwach bis",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Feuerwehrmann leicht verletzt: Hotel beim Bahnhof Luzern wegen Dachstockbrand evakuiert",
+      "url": "https://www.bernerzeitung.ch/brand-im-hotel-continental-in-luzern-710910514222",
+      "summary": "Ein Dachstockbrand an der Murbacherstrasse in Luzern hat am Sonntagabend ein Grossaufgebot der Feuerwehr ausgelöst. Das Hotel Continental wurde vollständig evakuiert, die Nachbarhäuser teilweise. Ein ",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Rechtsbürgerliche verschärfen den Druck",
+      "url": "https://www.persoenlich.com/medien/rechtsburgerliche-verscharfen-den-druck",
+      "summary": "Trotz klarer Ablehnung der Halbierungsinitiative bleibt die SRG politisch in der Zange. Eine Recherche der Republik zeigt, wie KI-gestützte «Ausgewogenheits»-Analysen, eine mögliche Bussenkompetenz fü",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schaffhauser misst sich mit Europas Speerwurf-Elite",
+      "url": "https://www.shn.ch/sport/leichtathletik/2026-07-20/schaffhauser-misst-sich-mit-europas-speerwurf-elite",
+      "summary": "Der Schweizer Leichtathletikverband lobt Niklas Merk vom LC Schaffhausen für seinen Wettkampf sowie seine professionelle Einstellung.",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Viva Espana So Feiern Spanier in Rapperswil den Wm Titel",
+      "url": "https://www.suedostschweiz.ch/linth/viva-espana-so-feiern-spanier-in-rapperswil-den-wm-titel-2094883",
+      "summary": "",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Marcel Bieri Gewinnt Einzigen Zuger Kranz auf der Rigi",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/marcel-bieri-gewinnt-einzigen-zuger-kranz-auf-der-rigi-ld.4205173",
+      "summary": "",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Murten-Classic-Konzerte im bisherigen Rahmen",
+      "url": "https://www.freiburger-nachrichten.ch/story/277777/murtenclassickonzerte-im-bisherigen-rahmen",
+      "summary": "",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wenn Kinderfragen Welten bewegen",
+      "url": "https://www.freiburger-nachrichten.ch/story/277769/wenn-kinderfragen-welten-bewegen",
+      "summary": "",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Absolut unentschuldbar»: Argentinier gehen nach WM-Final auf Spanier los",
+      "url": "https://www.freiburger-nachrichten.ch/story/277773/absolut-unentschuldbar-argentinier-gehen-nach-wmfinal-auf-spanier-los",
+      "summary": "",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "La Roja ist Weltmeister – Fans feiern ausgelassen",
+      "url": "https://www.bote.ch/nachrichten/sport/spanien-ist-weltmeister-fans-feiern-ausgelassen-in-zuerich-art-1713508",
+      "summary": "",
+      "published": "2026-07-20T07:02:54.979320+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Später Schlungg ins Glück: Marcel Bieri holt den einzigen Zuger Kranz auf der Rigi",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/marcel-bieri-gewinnt-einzigen-zuger-kranz-auf-der-rigi-art-1713507",
+      "summary": "",
+      "published": "2026-07-20T07:02:54.979320+00:00"
     }
   ]
 }
