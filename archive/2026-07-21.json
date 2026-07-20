@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T22:33:07.588341+00:00",
+  "generated": "2026-07-20T23:02:34.197179+00:00",
   "date": "2026-07-21",
-  "count": 16,
+  "count": 20,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -114,6 +114,34 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/ab-donnerstag-wird-schwyz-einmal-mehr-zum-mekka-fuer-pferdesportfreunde-art-1713547",
       "summary": "",
       "published": "2026-07-20T22:33:07.588341+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Proklamation unterzeichnet: Von Autos bis Wein: Trump verhängt 50-Prozent-Zölle gegen Kanada",
+      "url": "https://www.bernerzeitung.ch/trump-verhaengt-50-prozent-zoelle-auf-kanadische-importe-433667432750",
+      "summary": "Die neuen Abgaben sollen in 30 Tagen in Kraft treten und könnten die Beziehungen zwischen den beiden Nachbarländern weiter verschlechtern.",
+      "published": "2026-07-20T23:02:34.197179+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Putins Zustimmungswerte stürzen ab – tiefster Stand seit Herbst 2022",
+      "url": "https://www.watson.ch/international/russland/590755976-putins-zustimmungswerte-stuerzen-ab-tiefster-stand-seit-herbst-2022",
+      "summary": "",
+      "published": "2026-07-20T23:02:34.197179+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Britischer Premier Burnham telefoniert mit Trump und stellt Kabinett auf",
+      "url": "https://www.watson.ch/international/grossbritannien/900093776-britischer-premier-burnham-telefoniert-mit-trump-und-stellt-kabinett-auf",
+      "summary": "",
+      "published": "2026-07-20T23:02:34.197179+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nati-Stürmer Embolo bricht nach WM-Rot gegen Argentinien sein Schweigen",
+      "url": "https://www.watson.ch/sport/fussball/376041512-nati-stuermer-embolo-bricht-nach-wm-rot-gegen-argentinien-sein-schweigen",
+      "summary": "",
+      "published": "2026-07-20T23:02:34.197179+00:00"
     }
   ]
 }
