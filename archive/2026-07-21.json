@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-21T01:51:58.372959+00:00",
+  "generated": "2026-07-21T02:02:32.926091+00:00",
   "date": "2026-07-21",
-  "count": 41,
+  "count": 43,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -289,6 +289,20 @@
       "url": "https://www.watson.ch/international/usa/931570101-das-wird-den-tate-bruedern-andrew-und-tristan-konkret-vorgeworfen",
       "summary": "",
       "published": "2026-07-21T01:51:58.372959+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Verletzte bei Protesten nach Tod von Einwanderer",
+      "url": "https://www.20min.ch/story/polizeigewalt-in-italien-verletzte-bei-protesten-nach-tod-von-einwanderer-103606506",
+      "summary": "In Bologna stirbt ein Marokkaner, während ihn zwei Polizeibeamte auf den Boden drücken. Am Abend gehen in mehreren Städten Menschen auf die Strasse. Dabei gibt es auch Krawalle.",
+      "published": "2026-07-21T02:02:32.926091+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Die sechs Nominierten stehen fest",
+      "url": "https://www.persoenlich.com/marketing/die-sechs-nominierten-stehen-fest",
+      "summary": "Die Jury hat die Kandidatinnen und Kandidaten für den fünften Award bestimmt. Die Gewinnerin oder der Gewinner wird am 20. August während der Award Night im LaSalle in Zürich gefeiert – im Rahmen des ",
+      "published": "2026-07-21T02:02:32.926091+00:00"
     }
   ]
 }
