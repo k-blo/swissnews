@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-20T23:32:10.418795+00:00",
+  "generated": "2026-07-21T00:02:43.997546+00:00",
   "date": "2026-07-21",
-  "count": 23,
+  "count": 26,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,27 @@
       "url": "https://www.watson.ch/international/usa/820263439-trump-kuendigt-neue-zoelle-gegen-kanada-an",
       "summary": "",
       "published": "2026-07-20T23:32:10.418795+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "LKW-Fahrer verliert nach Bienenstich Kontrolle über sein Fahrzeug",
+      "url": "https://www.watson.ch/international/deutschland/116141667-lkw-fahrer-verliert-nach-bienenstich-kontrolle-ueber-sein-fahrzeug",
+      "summary": "",
+      "published": "2026-07-21T00:02:43.997546+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eine neue Umfrage zeigt: Die Brandmauer gegen die AfD wackelt gewaltig",
+      "url": "https://www.watson.ch/international/deutschland/451693585-eine-neue-umfrage-zeigt-die-brandmauer-gegen-die-afd-wackelt-gewaltig",
+      "summary": "",
+      "published": "2026-07-21T00:02:43.997546+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Proteste in Italien nach Tod von Einwanderer durch die Polizei",
+      "url": "https://www.watson.ch/international/italien/257694786-proteste-in-italien-nach-tod-von-einwanderer-durch-die-polizei",
+      "summary": "",
+      "published": "2026-07-21T00:02:43.997546+00:00"
     }
   ]
 }
