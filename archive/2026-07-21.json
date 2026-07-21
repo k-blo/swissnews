@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-21T06:32:36.730379+00:00",
+  "generated": "2026-07-21T07:02:22.567951+00:00",
   "date": "2026-07-21",
-  "count": 274,
+  "count": 292,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1920,6 +1920,132 @@
       "url": "https://www.watson.ch/sport/fussball/230682062-fifa-boss-gianni-infantino-offen-fuer-abseits-revolution",
       "summary": "",
       "published": "2026-07-21T06:32:36.730379+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Meteotsunami überflutet Ferienorte an der Adriaküste",
+      "url": "https://www.20min.ch/story/wetterphaenomen-meteotsunami-ueberflutet-ferienorte-an-der-adriakueste-103606546",
+      "summary": "Erneut hat eine plötzliche Flutwelle Küstenabschnitte in Kroatien überschwemmt. Die Anwohner und Touristen kamen mit einem Schrecken davon. Hinter dem Phänomen steckt eine plötzliche Veränderung des L",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vorfall in Athen: Messerangriff vor der Akropolis – Touristenpaar verletzt",
+      "url": "https://www.bernerzeitung.ch/messerangriff-bei-akropolis-touristenpaar-verletzt-935695310080",
+      "summary": "Ein Mann soll nahe dem Eingang zur Athener Akropolis mehrere Passanten bedroht und danach ein Touristenpaar aus den USA angegriffen haben.",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "DZ Privatbank Schweiz baut Generaldirektion aus",
+      "url": "https://www.finews.ch/news/banken/73009-dz-privatbank-schweiz-generaldirektion-ausbau-finanzplatz-swiss-banking-wealth-management",
+      "summary": "Die DZ Privatbank Schweiz erweitert die Generaldirektion, um die strategischen Ziele der kommenden Jahre zu erreichen. Wolfgang Thiere wechselt ab September intern, Anna Poser kommt später von Julius ",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Mehr Marketing, kleinere Packungen",
+      "url": "https://www.persoenlich.com/marketing/mehr-marketing-und-kleinere-packungen",
+      "summary": "Der Konzern intensiviert seine Werbeaktivitäten. Grund sind eingebrochene Absatzmengen nach den jüngsten Preiserhöhungen von 11,8 Prozent. Zusätzlich zu mehr Werbung setzt das Unternehmen auf kleinere",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Pierin Vincenz das Doppelleben des Raiffeisen Bankers",
+      "url": "https://www.bilanz.ch/unternehmen/pierin-vincenz-das-doppelleben-des-raiffeisen-bankers/cp6r796",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Stau auf der Strasse Stau im Kopf",
+      "url": "https://www.suedostschweiz.ch/graubuenden/stau-auf-der-strasse-stau-im-kopf-2095280",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Philipp Molls über das Thurgauer Handelsregister und die Verzögerungen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/philipp-molls-ueber-das-thurgauer-handelsregister-und-die-verzoegerungen-ld.4203146",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Gratulation zum 101 Geburtstag",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/gratulation-zum-101-geburtstag-ld.4205702",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Zu Besuch Beim Berggasthaus Alter Säntis",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/zu-besuch-beim-berggasthaus-alter-saentis-ld.4205737",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Julius Bär schreibt Rekordgewinn im ersten Halbjahr 2026",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/316003030-julius-baer-schreibt-rekordgewinn-im-ersten-halbjahr-2026",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Infantino zückt ide Rote Karte für die «Blaue Karte»",
+      "url": "https://www.watson.ch/sport/fifa/772255526-infantino-zueckt-ide-rote-karte-fuer-die-blaue-karte",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA weg aus Zürich? Infantino lässt beim Kongress am Freitag abstimmen",
+      "url": "https://www.watson.ch/schweiz/sport/841020288-fifa-weg-aus-zuerich-infantino-laesst-beim-kongress-am-freitag-abstimmen",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA Klub-WM: Real Madrids Carlo Ancelotti erteilt Infantino eine Absage",
+      "url": "https://www.watson.ch/sport/champions-league/859131052-fifa-klub-wm-real-madrids-carlo-ancelotti-erteilt-infantino-eine-absage",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Klub-WM droht FIFA und Gianni Infantino um die Ohren zu fliegen",
+      "url": "https://www.watson.ch/sport/fifa/716460022-die-klub-wm-droht-fifa-und-gianni-infantino-um-die-ohren-zu-fliegen",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA-Wegzug aus Zürich: Der Schweizer Verband hat eine klare Haltung",
+      "url": "https://www.watson.ch/sport/fifa/580355002-fifa-wegzug-aus-zuerich-der-schweizer-verband-hat-eine-klare-haltung",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Quiz: Erkenne diese legendären Fussballer aus den USA",
+      "url": "https://www.watson.ch/quiz/sport/711285777-quiz-erkenne-diese-legendaeren-fussballer-aus-den-usa",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sepp Blatter gibt zu: «Ich habe mit der FIFA ein Monster kreiert»",
+      "url": "https://www.watson.ch/sport/interview/722246606-sepp-blatter-gibt-zu-ich-habe-mit-der-fifa-ein-monster-kreiert",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wie viel Steuern bezahlt die FIFA in der Schweiz? Die nackten Zahlen",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/712769465-wie-viel-steuern-bezahlt-die-fifa-in-der-schweiz-die-nackten-zahlen",
+      "summary": "",
+      "published": "2026-07-21T07:02:22.567951+00:00"
     }
   ]
 }
