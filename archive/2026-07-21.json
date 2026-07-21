@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-21T02:03:57.053343+00:00",
+  "generated": "2026-07-21T02:32:43.771387+00:00",
   "date": "2026-07-21",
-  "count": 43,
+  "count": 55,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -303,6 +303,90 @@
       "url": "https://www.persoenlich.com/marketing/die-sechs-nominierten-stehen-fest",
       "summary": "Die Jury hat die Kandidatinnen und Kandidaten für den fünften Award bestimmt. Die Gewinnerin oder der Gewinner wird am 20. August während der Award Night im LaSalle in Zürich gefeiert – im Rahmen des ",
       "published": "2026-07-21T02:02:32.926091+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Polizeigewalt in Italien: Verletzte bei Protesten nach Tod von Einwanderer",
+      "url": "https://www.tagesanzeiger.ch/polizeigewalt-in-bologna-proteste-eskalieren-nach-tod-von-marokkaner-928668666321",
+      "summary": "In Bologna stirbt ein Marokkaner, während ihn zwei Polizeibeamte auf den Boden drücken. Am Abend gehen in mehreren Städten Menschen auf die Strasse. Dabei gibt es auch Krawalle.",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Pflegezentrum-Neubau in Neuhausen: Kann das Volk mitreden?",
+      "url": "https://www.shn.ch/region/neuhausen/2026-07-21/pflegezentrum-neubau-in-neuhausen-kann-das-volk-mitreden",
+      "summary": "Rund 50 Millionen wird das künftige Neuhauser Pflegeheim kosten und damit ungefähr gleich viel wie das neue Schulhaus plus Sporthalle. Doch wohl nur bei einem Projekt kann die Bevölkerung mitbestimmen",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Volg muss temporär umziehen: Landi Weinland plant in Ossingen mit 15 Mietwohnungen",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-07-21/volg-muss-temporaer-umziehen-landi-weinland-plant-in-ossingen",
+      "summary": "Zwei Bauten an der Mitteldorfstrasse dürften in naher Zukunft verschwinden. Das letzte Wort haben die Genossenschafter.",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Kennen Sie das bestgehütete Geheimnis von Schaffhausen? Tipp: Es ist in Merishausen zu finden",
+      "url": "https://www.shn.ch/region/reiat/2026-07-21/kennen-sie-das-bestgehuetete-geheimnis-von-schaffhausen-tipp-es-ist-in",
+      "summary": "Badi-Mom Irina Zehnder lebt in Merishausen und wusste zuvor nicht, dass es in ihrem Ort am Rande eine kleine Badi gibt. Sie ist mit nur dem Nötigsten ausgestattet, aber das reicht, um Kleinkinder glüc",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Zu Besuch in Wilchingen: Hat sie ihren Titel als «schönste Badi» verdient?",
+      "url": "https://www.shn.ch/region/stadt/2026-07-21/zu-besuch-in-wilchingen-hat-sie-ihren-titel-als-schoenste-badi-verdient",
+      "summary": "Für uns Badi-Moms ist dieser Besuch eine Premiere im doppelten Sinne: Wir sind zum ersten Mal in Wilchingen und dazu kommen auch noch die Väter mit. Wird die Premiere ein Erfolg?",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Von der Vorbereitung Bis zum Ernstfall So Überrascht Euch Beim Wandern Nichts",
+      "url": "https://www.suedostschweiz.ch/regionalsport/von-der-vorbereitung-bis-zum-ernstfall-so-ueberrascht-euch-beim-wandern-nichts-2090733",
+      "summary": "",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "In Weesen Ins Schwarze Getroffen das ist die Schweizer Königin im Armbrustschiessen",
+      "url": "https://www.suedostschweiz.ch/linth/in-weesen-ins-schwarze-getroffen-das-ist-die-schweizer-koenigin-im-armbrustschiessen-2089005",
+      "summary": "",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Verkehrsfluss Versus Dorfruhe das Dosierungssystem im Härtetest",
+      "url": "https://www.suedostschweiz.ch/graubuenden/verkehrsfluss-versus-dorfruhe-das-dosierungssystem-im-haertetest-2095004",
+      "summary": "",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "D1cf695f 3a3e 45ed B510 Fe2e422c5dd3",
+      "url": "https://www.suedostschweiz.ch/glarus/d1cf695f-3a3e-45ed-b510-fe2e422c5dd3-2089325",
+      "summary": "",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Quaggamuscheln am Bodensee So Mühsam Wird der Weg Ins Wasser",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/quaggamuscheln-am-bodensee-so-muehsam-wird-der-weg-ins-wasser-ld.4203311",
+      "summary": "",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Einspracherecht bei Bauprojekten Hrs Fordert Änderungen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/einspracherecht-bei-bauprojekten-hrs-fordert-aenderungen-ld.4203755",
+      "summary": "",
+      "published": "2026-07-21T02:32:43.771387+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ZDF-Intendant räumt Fehler im Fall Danger Dan ein",
+      "url": "https://www.watson.ch/international/deutschland/106771910-zdf-intendant-raeumt-fehler-im-fall-danger-dan-ein",
+      "summary": "",
+      "published": "2026-07-21T02:32:43.771387+00:00"
     }
   ]
 }
