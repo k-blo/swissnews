@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-21T22:01:26.456315+00:00",
+  "generated": "2026-07-21T22:31:33.279734+00:00",
   "date": "2026-07-22",
-  "count": 2,
+  "count": 9,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -16,6 +16,55 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277623/die-seekuh-ist-wieder-im-einsatz",
       "summary": "",
       "published": "2026-07-21T22:01:26.456315+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Artikel",
+      "url": "https://www.aargauerzeitung.ch/paidcontent/ratgeber-gesundheit/artikel-ld.4200253",
+      "summary": "",
+      "published": "2026-07-21T22:31:33.279734+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mit Hammer getötet: Neue Details zum Mord an Ann Widdecombe",
+      "url": "https://www.watson.ch/international/grossbritannien/526699755-mit-hammer-getoetet-neue-details-zum-mord-an-ann-widdecombe",
+      "summary": "",
+      "published": "2026-07-21T22:31:33.279734+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer feiern bei schwierigen Bedingungen starke Erfolge in Herisau",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyzer-feiern-bei-schwierigen-bedingungen-starke-erfolge-in-herisau-art-1713706",
+      "summary": "",
+      "published": "2026-07-21T22:31:33.279734+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ist der Boom vorbei? Schwyzer bauen immer weniger Solaranlagen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ist-der-boom-vorbei-schwyzer-bauen-immer-weniger-solaranlagen-art-1713668",
+      "summary": "",
+      "published": "2026-07-21T22:31:33.279734+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dämpfer für Fach Auto Tech bei den Rennen in Paul Ricard",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/daempfer-fuer-fach-auto-tech-bei-den-rennen-in-paul-ricard-art-1713687",
+      "summary": "",
+      "published": "2026-07-21T22:31:33.279734+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dreimal Gold, zweimal Silber und zweimal Bronze: Schwyzerin räumt an Meisterschaften gross ab",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/dreimal-gold-zweimal-silber-und-zweimal-bronze-schwyzerin-raeumt-an-meisterschaften-gross-ab-art-1713686",
+      "summary": "",
+      "published": "2026-07-21T22:31:33.279734+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Alpine Rettungsstation OG Rigi pflegt internationale Kameradschaft in Tschechien",
+      "url": "https://www.bote.ch/nachrichten/vereine/alpine-rettungsstation-og-rigi-pflegt-internationale-kameradschaft-in-tschechien-art-1713683",
+      "summary": "",
+      "published": "2026-07-21T22:31:33.279734+00:00"
     }
   ]
 }
