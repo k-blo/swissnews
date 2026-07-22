@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-21T23:31:34.651901+00:00",
+  "generated": "2026-07-22T00:01:37.008777+00:00",
   "date": "2026-07-22",
-  "count": 13,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -93,6 +93,34 @@
       "url": "https://www.watson.ch/international/iran/868606715-anhoerung-im-us-senat-von-hegseth-eskaliert-sie-sind-der-versager",
       "summary": "",
       "published": "2026-07-21T23:31:34.651901+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ann Widdecombe beim Mittagessen mit 21 Hammerschlägen getötet",
+      "url": "https://www.20min.ch/story/staatsanwaltschaft-britische-politikerin-widdecombe-mit-21-hammerschlaegen-getoetet-103607027",
+      "summary": "Im Fall des Mordes an der britischen Politikerin Ann Widdecombe sind grausame Details bekannt geworden. Ein britisches Gericht ordnete Untersuchungshaft für einen 28-jährigen Briten an.",
+      "published": "2026-07-22T00:01:37.008777+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Staatsanwaltschaft teilt mit: Britische Politikerin Widdecombe mit 21 Hammerschlägen getötet",
+      "url": "https://www.tagesanzeiger.ch/britische-politikerin-widdecombe-mit-21-hammerschlaegen-getoetet-617048923756",
+      "summary": "Im Fall des Mordes an der britischen Politikerin Ann Widdecombe sind grausame Details bekannt geworden. Ein britisches Gericht ordnete Untersuchungshaft für einen 28-jährigen Briten an.",
+      "published": "2026-07-22T00:01:37.008777+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warnung in Frankreich vor Trinken von Wasser aus Gebirge",
+      "url": "https://www.watson.ch/international/gesundheit/182522758-warnung-in-frankreich-vor-trinken-von-wasser-aus-gebirge",
+      "summary": "",
+      "published": "2026-07-22T00:01:37.008777+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI von OpenAI spielt eigenständig Computer-Hacker",
+      "url": "https://www.watson.ch/digital/usa/969905513-ki-von-openai-spielt-eigenstaendig-computer-hacker",
+      "summary": "",
+      "published": "2026-07-22T00:01:37.008777+00:00"
     }
   ]
 }
