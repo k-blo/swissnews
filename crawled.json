@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T22:01:43.110168+00:00",
+  "generated": "2026-07-22T22:31:31.058043+00:00",
   "date": "2026-07-23",
-  "count": 2,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277390/goethes-makabres-mitbringsel-vom-beinhaus",
       "summary": "",
       "published": "2026-07-22T22:01:43.110168+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Serie Rhein in Gefahr – Teil 1 im Quellgebiet: Gold-Gusti freut sich, Hydrologin warnt: «Hier müsste doppelt so viel Wasser fliessen»",
+      "url": "https://www.blick.ch/schweiz/graubuenden/serie-rhein-in-gefahr-teil-1-im-quellgebiet-gold-gusti-freut-sich-hydrologin-warnt-hier-muesste-doppelt-so-viel-wasser-fliessen-id22128319.html",
+      "summary": "Blauer Himmel. 25 Grad. Ferienwetter. Doch das Wasserschloss Schweiz ist bedroht. In einer Blick-Serie entlang des Rheins beleuchten wir die Folgen des Wassermangels und sprechen mit Menschen vor Ort.",
+      "published": "2026-07-22T22:31:31.058043+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Regierung unterzeichnet Atom-Deal mit Saudi-Arabien",
+      "url": "https://www.watson.ch/international/usa/274482317-us-regierung-unterzeichnet-atom-deal-mit-saudi-arabien",
+      "summary": "",
+      "published": "2026-07-22T22:31:31.058043+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "23 Schwyzer Athleten treten im Letzigrund an den Schweizer Meisterschaften an",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/23-schwyzer-athleten-treten-im-letzigrund-an-den-schweizer-meisterschaften-an-art-1713802",
+      "summary": "",
+      "published": "2026-07-22T22:31:31.058043+00:00"
     }
   ]
 }
