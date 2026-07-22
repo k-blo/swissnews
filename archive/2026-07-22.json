@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T21:01:26.524474+00:00",
+  "generated": "2026-07-22T21:31:57.858647+00:00",
   "date": "2026-07-22",
-  "count": 827,
+  "count": 829,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -5791,6 +5791,20 @@
       "url": "https://www.watson.ch/leben/film-news/805619961-the-odyssey-matt-damon-verraet-warum-sein-stunt-double-eine-frau-war",
       "summary": "",
       "published": "2026-07-22T21:01:26.524474+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Google-Mutter Alphabet übertrifft Erwartungen",
+      "url": "https://www.20min.ch/story/tech-riese-google-mutter-alphabet-uebertrifft-erwartungen-103607455",
+      "summary": "Werbung und Cloud treiben das Geschäft von Alphabet an, gleichzeitig investiert der Konzern Milliarden in KI.",
+      "published": "2026-07-22T21:31:57.858647+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Abkommen zwischen USA & Saudi-Arabien",
+      "url": "https://www.zentralplus.ch/news/abkommen-zwischen-usa-saudi-arabien-2886631/",
+      "summary": "Die USA und Saudi-Arabien haben ein Abkommen zur Zusammenarbeit bei einem zivilen Atomprogramm für Saudi-Arabien unterzeichnet, wie das US-Energieministerium mitteilte. Das Abkommen eröffne US-amerika",
+      "published": "2026-07-22T21:31:57.858647+00:00"
     }
   ]
 }
