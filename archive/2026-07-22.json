@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T02:17:46.138905+00:00",
+  "generated": "2026-07-22T02:31:21.077080+00:00",
   "date": "2026-07-22",
-  "count": 31,
+  "count": 34,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -219,6 +219,27 @@
       "url": "https://www.zentralplus.ch/news/iran-krieg-kostete-usa-375-mrd-dollar-2886411/",
       "summary": "Der Krieg der USA gegen den Iran hat nach Schätzungen bislang 37,5 Milliarden Dollar gekostet. Das sagte US-Verteidigungsminister Pete Hegseth im Senat. Die Summe umfasse neben den bisherigen Ausgaben",
       "published": "2026-07-22T02:17:46.138905+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wer braucht Lenny Kravitz, Gölä und Sting? Diese Talentstage-Acts beim «Stars in Town» sind mindestens genauso gut",
+      "url": "https://www.shn.ch/region/stadt/2026-07-22/wer-braucht-lenny-kravitz-goelae-und-sting-diese-talentstage-acts-beim",
+      "summary": "Während auf dem Herrenacker das «Stars in Town» mit Weltstars lockt, findet man auf der «Talentstage» eher kleinere Künstler – unter denen es einige gibt, die man auf keinen Fall verpassen sollte.",
+      "published": "2026-07-22T02:31:21.077080+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bei der A4 zwischen Benken und Marthalen gibt es nun eine Umleitung über eine besondere Route",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-07-22/bei-der-a4-zwischen-benken-und-marthalen-gibt-es-nun-eine",
+      "summary": "Die Bauarbeiten auf und an der Brücke über die A4 zwischen Benken und Marthalen laufen auf Hochtouren. Vorübergehend wird der Fuss- und Veloverkehr umgeleitet – über eine besondere Route.",
+      "published": "2026-07-22T02:31:21.077080+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Bäuerinnen am Anschlag Hilfe Gegen Burn Out",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/baeuerinnen-am-anschlag-hilfe-gegen-burn-out-ld.4198490",
+      "summary": "",
+      "published": "2026-07-22T02:31:21.077080+00:00"
     }
   ]
 }
