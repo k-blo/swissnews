@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T00:01:37.008777+00:00",
+  "generated": "2026-07-22T00:31:24.593056+00:00",
   "date": "2026-07-22",
-  "count": 17,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -121,6 +121,55 @@
       "url": "https://www.watson.ch/digital/usa/969905513-ki-von-openai-spielt-eigenstaendig-computer-hacker",
       "summary": "",
       "published": "2026-07-22T00:01:37.008777+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Beim Debüt des neuen Trainers: Ein Experte prognostiziert den Abstieg – dann legt der FC Thun eine Halbzeit hin, die beeindruckt",
+      "url": "https://www.bernerzeitung.ch/debuet-von-privitelli-fc-thun-ueberzeugt-gegen-dinamo-zagreb-163618286557",
+      "summary": "Die Chancen des Meisters, in die 3. Qualifikationsrunde der Champions League einzuziehen, sind nach dem 1:1 zu Hause gegen Dinamo Zagreb gering. Mut machen dürfte der erste Saisonauftritt dennoch.",
+      "published": "2026-07-22T00:31:24.593056+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Tränengas statt Jobs – Indiens Jugend studiert am Arbeitsmarkt vorbei und protestiert",
+      "url": "https://www.nzz.ch/international/traenengas-statt-jobs-indiens-jugend-studiert-am-markt-vorbei-und-protestiert-ld.10016332",
+      "summary": "",
+      "published": "2026-07-22T00:31:24.593056+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Berner Kantonspolizei Rät Messerangreifer zu Siezen",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/berner-kantonspolizei-raet-messerangreifer-zu-siezen",
+      "summary": "",
+      "published": "2026-07-22T00:31:24.593056+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Anfang vom Ende der Europäischen Klimapolitik",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/der-anfang-vom-ende-der-europaeischen-klimapolitik",
+      "summary": "",
+      "published": "2026-07-22T00:31:24.593056+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Generika: Trump kündigt Zölle in Höhe von 100 Prozent an",
+      "url": "https://www.watson.ch/schweiz/international/489831114-generika-trump-kuendigt-zoelle-in-hoehe-von-100-prozent-an",
+      "summary": "",
+      "published": "2026-07-22T00:31:24.593056+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EU stellt Unterstützung für Kunstbiennale in Venedig ein",
+      "url": "https://www.watson.ch/international/eu/420758019-eu-stellt-unterstuetzung-fuer-kunstbiennale-in-venedig-ein",
+      "summary": "",
+      "published": "2026-07-22T00:31:24.593056+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Studie deckt Missstände und Unterschiede bei Antibiotika-Nutzung auf",
+      "url": "https://www.watson.ch/leben/forschung/795543097-studie-deckt-missstaende-und-unterschiede-bei-antibiotika-nutzung-auf",
+      "summary": "",
+      "published": "2026-07-22T00:31:24.593056+00:00"
     }
   ]
 }
