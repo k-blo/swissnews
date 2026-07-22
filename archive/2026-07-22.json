@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T00:31:24.593056+00:00",
+  "generated": "2026-07-22T01:01:31.757706+00:00",
   "date": "2026-07-22",
-  "count": 24,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -170,6 +170,13 @@
       "url": "https://www.watson.ch/leben/forschung/795543097-studie-deckt-missstaende-und-unterschiede-bei-antibiotika-nutzung-auf",
       "summary": "",
       "published": "2026-07-22T00:31:24.593056+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran-Krieg: Explosionen in Teheran - Flugabwehr im Einsatz",
+      "url": "https://www.watson.ch/international/iran/947138625-iran-krieg-explosionen-in-teheran-flugabwehr-im-einsatz",
+      "summary": "",
+      "published": "2026-07-22T01:01:31.757706+00:00"
     }
   ]
 }
