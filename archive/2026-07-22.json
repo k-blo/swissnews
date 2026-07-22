@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T01:01:31.757706+00:00",
+  "generated": "2026-07-22T01:31:15.663538+00:00",
   "date": "2026-07-22",
-  "count": 25,
+  "count": 27,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -177,6 +177,20 @@
       "url": "https://www.watson.ch/international/iran/947138625-iran-krieg-explosionen-in-teheran-flugabwehr-im-einsatz",
       "summary": "",
       "published": "2026-07-22T01:01:31.757706+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Herzliche Gratulation zum 90 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/herzliche-gratulation-zum-90-geburtstag-ld.4205200",
+      "summary": "",
+      "published": "2026-07-22T01:31:15.663538+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Australischer Politiker Joyce schreit in TV-Interview seinen Hund an",
+      "url": "https://www.watson.ch/international/tv/878563140-australischer-politiker-joyce-schreit-in-tv-interview-seinen-hund-an",
+      "summary": "",
+      "published": "2026-07-22T01:31:15.663538+00:00"
     }
   ]
 }

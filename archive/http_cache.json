@@ -4,7 +4,7 @@
     "etag": "\"b991c0437fa76f8d2d42d14d041335b6\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17fbb-Ys0q9n0HW/apg0Su9f9O2qHqOVc\""
+    "etag": "W/\"17fba-bjdJVp51sZEf/gLIvy8zKKs5Zuk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
     "etag": "W/\"f690-x+HBj69C1n/hWIUuzkpWFp0UjHs\""
@@ -16,14 +16,14 @@
     "last_modified": "Tue, 21 Jul 2026 23:30:13 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Wed, 22 Jul 2026 01:00:41 GMT"
+    "last_modified": "Wed, 22 Jul 2026 01:30:33 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Wed, 22 Jul 2026 00:11:22 GMT",
     "etag": "\"1784679082\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 22 Jul 2026 00:58:11 GMT"
+    "last_modified": "Wed, 22 Jul 2026 01:28:25 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -36,12 +36,12 @@
     "etag": "W/\"f13b-OLldBP5OcbzeEkJNtz0IxuvNKq4\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Tue, 21 Jul 2026 23:42:43 GMT",
-    "etag": "\"1784677363\""
+    "last_modified": "Wed, 22 Jul 2026 01:13:49 GMT",
+    "etag": "\"1784682829\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Tue, 21 Jul 2026 23:42:43 GMT",
-    "etag": "\"1784677363\""
+    "last_modified": "Wed, 22 Jul 2026 01:13:49 GMT",
+    "etag": "\"1784682829\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2cad7-RaC3zkCvXfwMa2ZYxfUsC3Nys20\""
@@ -51,8 +51,8 @@
     "etag": "\"1784436628\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 22 Jul 2026 00:42:21 GMT",
-    "etag": "W/\"1784680941-gzip\""
+    "last_modified": "Wed, 22 Jul 2026 01:15:10 GMT",
+    "etag": "W/\"1784682910-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Mon, 20 Jul 2026 12:49:38 GMT",
