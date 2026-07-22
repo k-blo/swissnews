@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T07:01:35.806172+00:00",
+  "generated": "2026-07-22T07:31:41.695694+00:00",
   "date": "2026-07-22",
-  "count": 244,
+  "count": 255,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1710,6 +1710,83 @@
       "url": "https://insideparadeplatz.ch/2026/07/22/v-zug-meldet-gewinn-plus-insider-sprechen-von-burnouts/",
       "summary": "",
       "published": "2026-07-22T07:01:35.806172+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Ein Albtraum in 6 Akten: Erst schimmeln die Wände, dann klingelt die Polizei",
+      "url": "https://www.blick.ch/schweiz/zuerich/ein-albtraum-in-6-akten-erst-schimmeln-die-waende-dann-klingelt-die-polizei-id22126369.html",
+      "summary": "In der Neubauwohnung der Zürcher Familie Zaugg frisst sich schwarzer Schimmel durch die Wand. Es ist der Auftakt einer juristischen Odyssee, die letztlich beim Betreibungsamt endet.",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ukraine greift erneut Lager des Onlinehändlers Wildberries an",
+      "url": "https://www.20min.ch/video/russland-ukraine-greift-erneut-lager-des-onlinehaendlers-wildberries-an-103607128",
+      "summary": "In der Nacht zum 22. Juli haben ukrainische Drohnen Logistikzentren des russischen Onlinehändlers Wildberries in Krasnodar und Newinnomyssk (Stawropol) angegriffen. \n\n\nWildberries-Chefin Tatiana Kim b",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Streit um Baderegeln: Genfer Gericht setzt Burkini-Verbot in Schwimmbädern vorläufig aus",
+      "url": "https://www.tagesanzeiger.ch/burkini-verbot-in-genf-vorlaeufig-ausgesetzt-406651577839",
+      "summary": "Das Genfer Verfassungsgericht stützt sich auf die Religionsfreiheit und den Zugang zu öffentlichen Bädern. Betroffene Frauen dürfen vorerst wieder im Burkini schwimmen.",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Von Long Beach nach Hollywood: Leben von Rap-Ikone Snoop Dogg kommt ins Kino",
+      "url": "https://www.tagesanzeiger.ch/snoop-dogg-film-kinostart-am-6-august-2027-137635321473",
+      "summary": "Wie ist Calvin Cordozar Broadus Jr. zu Snoop Dogg geworden? Ein Biopic erzählt die Geschichte des Rappers.",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Die Arbeitslosigkeit steigt - und KI dürfte ein Grund sein",
+      "url": "https://www.netzwoche.ch/news/2026-07-22/die-arbeitslosigkeit-steigt-und-ki-duerfte-ein-grund-sein",
+      "summary": "Seit der Einführung von ChatGPT ist die Arbeitslosigkeit in KI-exponierten Berufen stärker gestiegen als in weniger betroffenen Feldern. Dies zeigt eine Untersuchung, gestützt auf Daten des Arbeitslos",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Die Mächtigsten und Schwächsten Reisepässe der Welt",
+      "url": "https://www.bilanz.ch/enjoy/reisen/die-maechtigsten-und-schwaechsten-reisepaesse-der-welt/6cz0dbn",
+      "summary": "",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Pensionierten Ausflug Carrosserie Hess Ag Bellach",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/pensionierten-ausflug-carrosserie-hess-ag-bellach-ld.4206230",
+      "summary": "",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polizeimeldung: Schweizer Töfffahrer stirbt bei Unfall in Österreich",
+      "url": "https://www.watson.ch/international/polizeirapport/797776972-polizeimeldung-schweizer-toefffahrer-stirbt-bei-unfall-in-oesterreich",
+      "summary": "",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland: Ukrainische Drohnen setzen Wildberries Lager in Brand",
+      "url": "https://www.watson.ch/international/drohnen/565379068-russland-ukrainische-drohnen-setzen-wildberries-lager-in-brand",
+      "summary": "",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Skilliday»: Junge wollen sich im Urlaub weiterbilden",
+      "url": "https://www.watson.ch/schweiz/reisen/929498635-skilliday-junge-wollen-sich-im-urlaub-weiterbilden",
+      "summary": "",
+      "published": "2026-07-22T07:31:41.695694+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Indianapolis-Flair auf der Offenen Rennbahn",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/offene-rennbahn-oerlikon-bringt-indianapolis-flair-art-1713800",
+      "summary": "",
+      "published": "2026-07-22T07:31:41.695694+00:00"
     }
   ]
 }
