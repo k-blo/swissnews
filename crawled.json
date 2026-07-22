@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T06:01:46.073700+00:00",
+  "generated": "2026-07-22T06:31:54.172549+00:00",
   "date": "2026-07-22",
-  "count": 219,
+  "count": 232,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1535,6 +1535,97 @@
       "url": "https://insideparadeplatz.ch/2026/07/22/kryptobank-amina-im-elend-assets-rasseln-in-tiefe/",
       "summary": "",
       "published": "2026-07-22T06:01:46.073700+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "30 Minuten nach WM-Final: Spanien-Fans kassieren Busse fürs Hupen",
+      "url": "https://www.20min.ch/story/sion-vs-30-minuten-nach-wm-final-spanien-fans-kassieren-busse-fuers-hupen-103607088",
+      "summary": "Nach dem Feiern des spanischen Sieges beklagt eine Familie, dass sie gebüsst wurde, während die Hupen auf Hochtouren liefen. Die Walliser Polizei sagt, sie lege den Fokus auf Sicherheit.",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "OpenAI gibt zu: KI brach aus und hackte eine fremde Website",
+      "url": "https://www.20min.ch/story/zwischenfall-openai-gibt-zu-ki-brach-bei-test-aus-und-hackte-fremde-website-103607073",
+      "summary": "OpenAI verkündete am Dienstag, dass ihre Modelle bei einem Testlauf «ausgebrochen» sind und die KI-Plattform Hugging Face gehackt haben, um die Testaufgabe zu lösen.",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zahlreiche Personen evakuiert: Schreinerei steht in Vollbrand",
+      "url": "https://www.20min.ch/story/spiringen-ur-umfahren-sie-das-gebiet-schreinerei-steht-in-vollbrand-103607090",
+      "summary": "In Spiringen UR ist am Mittwochmorgen eine Schreinerei in Brand geraten. Mehrere Personen wurden evakuiert und blieben unverletzt. Alert Swiss warnt vor Rauch.",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Alle News zur WM: Mexikos Goalie-Legende Ochoa hört auf",
+      "url": "https://www.bernerzeitung.ch/fussball-wm-2026-embolo-meldet-sich-erstmals-zu-wort-885412667353",
+      "summary": "Vom 11. Juni bis 19. Juli fand in den USA, Mexiko und Kanada die Fussball-WM statt. Was immer noch zu reden gibt, finden Sie hier.",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Sommerserie «Perspektivenwechsel»: «Dass etwas nicht nach Plan läuft, ist am Flughafen quasi die Regel»",
+      "url": "https://www.derbund.ch/flughafen-zuerich-der-load-coordinator-sorgt-fuer-sichere-starts-759052942900",
+      "summary": "Mirko Bozic ist Load Coordinator am Flughafen Zürich: Er weiss, wie Flugzeuge so mit Koffern beladen werden, dass sie sicher starten können. Sein wichtigstes Werkzeug: ein Büro auf Rädern.",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nach dem Award baut Hotel in Kriens für 6 Millionen um",
+      "url": "https://www.zentralplus.ch/wohnen-bauen/nach-dem-award-baut-hotel-in-kriens-fuer-6-millionen-um-2886423/",
+      "summary": "Das Hotel Sonnenberg oberhalb von Kriens will sich neu erfinden. Es plant einen Umbau mit neuen Hotelzimmern, einer Holzfassade, zusätzlichen Ausbildungsräumen und eine eigene Ausbildungsküche. Auf de",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schreinerei steht in Vollbrand",
+      "url": "https://www.zentralplus.ch/news/schreinerei-steht-in-vollbrand-2886425/",
+      "summary": "In einer Schreinerei in Spiringen im Urner Schächental ist ein Brand ausgebrochen. Wie ein Sprecher der Urner Kantonspolizei sagte, steht die Schreinerei in Vollbrand. Die Behörden warnen vor starker ",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Frankreich verbietet Social Media für Unter-15-Jährige",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-07-22/frankreich-verbietet-social-media-fuer-unter-15-jaehrige",
+      "summary": "Nach langem Ringen beschliesst Frankreich ein Social-Media-Verbot für unter 15-Jährige. Auch andere EU-Länder denken über ähnliche Schritte nach.",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fcsg Gegen Benfica der Portugiesische Klub im Grossen Zahlenvergleich",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/fcsg-gegen-benfica-der-portugiesische-klub-im-grossen-zahlenvergleich-ld.4206022",
+      "summary": "",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Super League: Das sind die neuen Regeln in der kommenden Saison",
+      "url": "https://www.watson.ch/sport/super-league/632902221-super-league-das-sind-die-neuen-regeln-in-der-kommenden-saison",
+      "summary": "",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: «Backsteinmauer aus Guadalajara» Ochoa hört auf",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-backsteinmauer-aus-guadalajara-ochoa-hoert-auf",
+      "summary": "",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Der Blick auf das Wesentliche wird frei»",
+      "url": "https://www.freiburger-nachrichten.ch/story/275968/der-blick-auf-das-wesentliche-wird-frei",
+      "summary": "",
+      "published": "2026-07-22T06:31:54.172549+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein Fussballfest braucht etwas Vorlauf",
+      "url": "https://www.freiburger-nachrichten.ch/story/276671/ein-fussballfest-braucht-etwas-vorlauf",
+      "summary": "",
+      "published": "2026-07-22T06:31:54.172549+00:00"
     }
   ]
 }
