@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T23:01:20.965325+00:00",
+  "generated": "2026-07-22T23:31:15.876650+00:00",
   "date": "2026-07-23",
-  "count": 10,
+  "count": 14,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -72,6 +72,34 @@
       "url": "https://www.watson.ch/wirtschaft/tesla/572674750-tesla-macht-zwar-deutlich-mehr-umsatz-verfehlt-aber-gewinnerwartung",
       "summary": "",
       "published": "2026-07-22T23:01:20.965325+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Naher Waldbrand – Tausende Feriengäste müssen Campingplatz räumen",
+      "url": "https://www.20min.ch/story/waldbrand-europa-bei-bordeaux-gironde-touristen-campingplatz-evakuiert-103607458",
+      "summary": "Wegen eines Waldbrandes an der Atlantikküste müssen zahlreiche Feriengäste Campingplätze und Strände verlassen. Die Behörden setzen auf umfangreiche Evakuierungen und warnen vor weiteren Gefahren.",
+      "published": "2026-07-22T23:31:15.876650+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schiff im Roten Meer unter Beschuss",
+      "url": "https://www.zentralplus.ch/news/schiff-im-roten-meer-unter-beschuss-2886635/",
+      "summary": "Die vom Iran unterstützten Huthi-Rebellen im Jemen hatten Anfang Woche eine Seeblockade gegen Saudi-Arabien angekündigt. Nun teilen sie mit, sie hätten zwei Schiffe im Roten Meer angegriffen. Zwei sau",
+      "published": "2026-07-22T23:31:15.876650+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Waldbrand in Spanien: Rund 32'000 Hektar zerstört",
+      "url": "https://www.watson.ch/international/klima/112474356-waldbrand-in-spanien-rund-32-000-hektar-zerstoert",
+      "summary": "",
+      "published": "2026-07-22T23:31:15.876650+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zeitweise höchster Stand seit Mitte Juni: Ölpreise legen deutlich zu",
+      "url": "https://www.watson.ch/wirtschaft/international/322947724-zeitweise-hoechster-stand-seit-mitte-juni-oelpreise-legen-deutlich-zu",
+      "summary": "",
+      "published": "2026-07-22T23:31:15.876650+00:00"
     }
   ]
 }
