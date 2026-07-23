@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T01:31:46.066763+00:00",
+  "generated": "2026-07-23T02:01:38.403107+00:00",
   "date": "2026-07-23",
-  "count": 29,
+  "count": 33,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -205,6 +205,34 @@
       "url": "https://www.shn.ch/multimedia/publireportagen/2026-07-23/vollbepackt-bei-35-grad-das-halten-nur-intakte-bremsen-aus",
       "summary": "Die Schaffhauser Sommerferien begannen am 4. Juli, und viele Familien planen bereits die Fahrt in den Süden. Gleichzeitig sorgen gesperrte Bahnstrecken und Baustellen in der Region für mehr Verkehr au",
       "published": "2026-07-23T01:31:46.066763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Alphabet verdient mit Youtube und Suchresultaten so viel wie noch nie – und doch reicht das nicht, um die enormen Investitionen in KI zu finanzieren",
+      "url": "https://www.nzz.ch/wirtschaft/alphabet-verdient-mit-youtube-und-suchresultaten-so-viel-wie-noch-nie-und-doch-reicht-das-nicht-um-die-enormen-investitionen-in-ki-zu-finanzieren-ld.10016621",
+      "summary": "",
+      "published": "2026-07-23T02:01:38.403107+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Trockenheit im Thurgau Renergon Testet Pflanzenkohle",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/trockenheit-im-thurgau-renergon-testet-pflanzenkohle-ld.4198576",
+      "summary": "",
+      "published": "2026-07-23T02:01:38.403107+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Google-Mutter Alphabet übertrifft Wall-Street-Erwartungen",
+      "url": "https://www.watson.ch/wirtschaft/google/790552965-google-mutter-alphabet-uebertrifft-wall-street-erwartungen",
+      "summary": "",
+      "published": "2026-07-23T02:01:38.403107+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump macht Wahlkampf in Georgia – viral geht ein Zuschauer hinter ihm",
+      "url": "https://www.watson.ch/spass/usa/761665371-trump-macht-wahlkampf-in-georgia-viral-geht-ein-zuschauer-hinter-ihm",
+      "summary": "",
+      "published": "2026-07-23T02:01:38.403107+00:00"
     }
   ]
 }
