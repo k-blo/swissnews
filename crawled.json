@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T17:24:30.195815+00:00",
+  "generated": "2026-07-23T17:31:25.216778+00:00",
   "date": "2026-07-23",
-  "count": 711,
+  "count": 713,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4979,6 +4979,20 @@
       "url": "https://www.watson.ch/schweiz/fdp/989844867-neuenburger-fdp-grossrat-quentin-di-meo-wegen-vergewaltigung-angeklagt",
       "summary": "",
       "published": "2026-07-23T17:24:30.195815+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zali gibt Justiz-Dossier ab",
+      "url": "https://www.zentralplus.ch/news/zali-gibt-justiz-dossier-ab-2886921/",
+      "summary": "Der Tessiner Regierungsrat hat sich am Donnerstag in Anwesenheit von Claudio Zali in einer ausserordentlichen Sitzung mit den Fällen befasst. Er habe dabei zur Kenntnis genommen, dass die Staatsanwalt",
+      "published": "2026-07-23T17:31:25.216778+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Einige tausend Ausländer durften wählen gehen: Hat Donald Trump etwa doch recht, wenn er von Wahlbetrug spricht?",
+      "url": "https://www.nzz.ch/international/auslaender-im-waehlerregister-der-fall-in-new-jersey-spielt-trump-in-die-haende-ld.10016741",
+      "summary": "",
+      "published": "2026-07-23T17:31:25.216778+00:00"
     }
   ]
 }
