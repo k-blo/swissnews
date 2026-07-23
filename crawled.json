@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T04:01:46.511069+00:00",
+  "generated": "2026-07-23T04:31:54.266466+00:00",
   "date": "2026-07-23",
-  "count": 204,
+  "count": 205,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1430,6 +1430,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/anwohner-kaufen-strasse-vom-koenig-der-schweiz-art-1713819",
       "summary": "",
       "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Personen nach Auffahrunfall auf der Autobahn bei Sempach verletzt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zwei-personen-nach-auffahrunfall-auf-der-autobahn-bei-sempach-verletzt-art-1713953",
+      "summary": "",
+      "published": "2026-07-23T04:31:54.266466+00:00"
     }
   ]
 }
