@@ -7,7 +7,7 @@
     "etag": "W/\"17f6b-DjCK922JoO+Ts4yrb6wjHDkgqF8\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"fbea-+kfzY71RldFX9JKevMTDPwt30Oc\""
+    "etag": "W/\"fbbd-eFL/sZC9Svqd0FE2iWRVI8E2NYo\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"e845-Lq2cXGA1J/3depqu6OxR/VoOjrs\""
@@ -16,14 +16,14 @@
     "last_modified": "Thu, 23 Jul 2026 10:25:14 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Thu, 23 Jul 2026 10:30:37 GMT"
+    "last_modified": "Thu, 23 Jul 2026 10:34:37 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Thu, 23 Jul 2026 09:11:33 GMT",
     "etag": "\"1784797893\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Thu, 23 Jul 2026 10:28:32 GMT"
+    "last_modified": "Thu, 23 Jul 2026 10:33:29 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -33,15 +33,15 @@
     "etag": "W/\"e2ed-M84OCUaUZL3k1D79mI8U7wXwpzM\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"e4f8-qRikl8l8BJmu2P6uFf6iPni4CUY\""
+    "etag": "W/\"e4bf-2gxscB+S23+r9DOZMnLIITB/1zk\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Thu, 23 Jul 2026 09:14:40 GMT",
-    "etag": "\"1784798080\""
+    "last_modified": "Thu, 23 Jul 2026 10:23:16 GMT",
+    "etag": "\"1784802196\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Thu, 23 Jul 2026 09:14:40 GMT",
-    "etag": "\"1784798080\""
+    "last_modified": "Thu, 23 Jul 2026 10:23:16 GMT",
+    "etag": "\"1784802196\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2d17e-/H3XOBE/VBwDOOraU7h2AxwoOfI\""
@@ -59,8 +59,8 @@
     "etag": "\"7c05e8e18d9b51aeee2b30c61f84e331\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Thu, 23 Jul 2026 10:30:02 GMT",
-    "etag": "\"1784802602\""
+    "last_modified": "Thu, 23 Jul 2026 10:35:00 GMT",
+    "etag": "\"1784802900\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Thu, 23 Jul 2026 10:13:21 GMT",

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T10:31:28.164278+00:00",
+  "generated": "2026-07-23T10:35:41.483860+00:00",
   "date": "2026-07-23",
-  "count": 401,
+  "count": 404,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2809,6 +2809,27 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/nestle-wassergeschaeft-wird-mit-platinum-equity-in-paris-gebuendelt-art-1713974",
       "summary": "",
       "published": "2026-07-23T10:31:28.164278+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verstösse gegen Wettbewerb: EU verhängt 890 Millionen Euro Strafe gegen Google",
+      "url": "https://www.tagesanzeiger.ch/eu-buesst-google-mit-890-millionen-euro-823827116709",
+      "summary": "Wegen unfairer Geschäftspraktiken verhängt die Europäische Union eine Rekordstrafe gegen den US-Konzern.",
+      "published": "2026-07-23T10:35:41.483860+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Verbot am Nationalfeiertag Luzern Sagt Feuerwerke Ab",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/verbot-am-nationalfeiertag-luzern-sagt-feuerwerke-ab-ld.4206863",
+      "summary": "",
+      "published": "2026-07-23T10:35:41.483860+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Grösstes 1.-Augustfeuer der Schweiz» darf nicht stattfinden: Kanton Luzern erlässt absolutes Feuerverbot",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/verbot-am-nationalfeiertag-luzern-sagt-feuerwerke-ab-art-1713975",
+      "summary": "",
+      "published": "2026-07-23T10:35:41.483860+00:00"
     }
   ]
 }
