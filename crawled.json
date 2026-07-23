@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T00:01:20.339449+00:00",
+  "generated": "2026-07-23T00:31:39.616319+00:00",
   "date": "2026-07-23",
-  "count": 19,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -135,6 +135,48 @@
       "url": "https://www.watson.ch/schweiz/migros/383494405-migrolino-pocht-in-zuerich-und-winterthur-auf-sonntagsarbeit",
       "summary": "",
       "published": "2026-07-23T00:01:20.339449+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Feuerwehr in FRA und ESP im Einsatz",
+      "url": "https://www.zentralplus.ch/news/feuerwehr-in-fra-und-esp-im-einsatz-2886641/",
+      "summary": "Feuerwehren in Spanien und Frankreich bekämpfen weiterhin grosse Waldbrände. So sind in der Nähe von Bordeaux in Frankreich über 3000 Personen von einem Campingplatz in Sicherheit gebracht worden, zus",
+      "published": "2026-07-23T00:31:39.616319+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Lisa Mazzone Oppositionspolitikerin Par Excellence",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/lisa-mazzone-oppositionspolitikerin-par-excellence",
+      "summary": "",
+      "published": "2026-07-23T00:31:39.616319+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Viele Korallen Sind Gegenüber Wärme Widerstandsfähiger als Erwartet",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/viele-korallen-sind-gegenueber-waerme-widerstandsfaehiger-als-erwartet",
+      "summary": "",
+      "published": "2026-07-23T00:31:39.616319+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Repräsentantenhaus ermöglicht deutlich höheren Verteidigungsetat",
+      "url": "https://www.watson.ch/international/usa/791604944-us-repraesentantenhaus-ermoeglicht-deutlich-hoeheren-verteidigungsetat",
+      "summary": "",
+      "published": "2026-07-23T00:31:39.616319+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ewigkeitschemikalie TFA  giftiger als gedacht",
+      "url": "https://www.watson.ch/schweiz/international/830993629-ewigkeitschemikalie-tfa-giftiger-als-gedacht",
+      "summary": "",
+      "published": "2026-07-23T00:31:39.616319+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum Patrick Frei des versuchten Mordes bezichtigt wird",
+      "url": "https://www.watson.ch/schweiz/svp/954660252-warum-patrick-frei-des-versuchten-mordes-bezichtigt-wird",
+      "summary": "",
+      "published": "2026-07-23T00:31:39.616319+00:00"
     }
   ]
 }
