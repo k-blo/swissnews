@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T05:01:52.080286+00:00",
+  "generated": "2026-07-23T05:32:04.293434+00:00",
   "date": "2026-07-23",
-  "count": 213,
+  "count": 219,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1493,6 +1493,48 @@
       "url": "https://insideparadeplatz.ch/2026/07/23/rechtsberatung-unter-sanktionsvorbehalt/",
       "summary": "",
       "published": "2026-07-23T05:01:52.080286+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Atom-Debatte – Wenn Studien zur Kernenergie zu politischen Waffen werden",
+      "url": "https://www.srf.ch/news/schweiz/atom-debatte-wenn-studien-zur-kernenergie-zu-politischen-waffen-werden",
+      "summary": "AKW-Befürworter und -Gegner setzen auffällig häufig auf Studien. Sie wollen vom guten Ruf der Wissenschaft profitieren.",
+      "published": "2026-07-23T05:32:04.293434+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "USA – Saudiarabien: «Schrecklicher Fehler»: Kritiker fürchten, der Deal könnte den Weg für saudische Atomwaffen ebnen",
+      "url": "https://www.bernerzeitung.ch/usa-saudiarabien-atomabkommen-loest-besorgnis-aus-598948581690",
+      "summary": "Die USA erlauben Saudiarabien die Urananreicherung – mitten im Krieg gegen den Iran. «Versucht Trump, den Iran zu provozieren?», fragt eine Nahost-Expertin.",
+      "published": "2026-07-23T05:32:04.293434+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mysteriöse Durchfall-Welle bei Luzerns Kühen",
+      "url": "https://www.zentralplus.ch/news/mysterioese-durchfall-welle-bei-luzerns-kuehen-2886646/",
+      "summary": "Durchfall, Fieber und massive Milcheinbrüche beschäftigen derzeit zahlreiche Bauernhöfe in Luzern und Bern. Fachleute haben zwei Vermutungen. Plötzlich geben Kühe nur halb so viel Milch, haben Fieber ",
+      "published": "2026-07-23T05:32:04.293434+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Arrividerci San Pellegrino? Nestlé lagert sein Mineralwassergeschäft aus und spannt mit einem Private-Equity Unternehmen zusammen",
+      "url": "https://www.nzz.ch/wirtschaft/arrividerci-san-pellegrino-nestle-lagert-sein-mineralwassergeschaeft-aus-und-spannt-mit-einem-private-equity-unternehmen-zusammen-ld.10016668",
+      "summary": "",
+      "published": "2026-07-23T05:32:04.293434+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nestlé gliedert Wassergeschäft in Joint Venture aus",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/388603918-nestle-gliedert-wassergeschaeft-in-joint-venture-aus",
+      "summary": "",
+      "published": "2026-07-23T05:32:04.293434+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Kispi 750 Mio für Palast zu Wenig Rollstühle für Kinder",
+      "url": "https://insideparadeplatz.ch/2026/07/23/kispi-750-mio-fuer-palast-zu-wenig-rollstuehle-fuer-kinder/",
+      "summary": "",
+      "published": "2026-07-23T05:32:04.293434+00:00"
     }
   ]
 }
