@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T03:31:41.680330+00:00",
+  "generated": "2026-07-23T04:01:46.511069+00:00",
   "date": "2026-07-23",
-  "count": 167,
+  "count": 204,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1171,6 +1171,265 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/legte-immer-wert-auf-gesunde-nahrungsmittel-goldauerin-feiert-102-geburtstag-art-1713818",
       "summary": "",
       "published": "2026-07-23T03:31:41.680330+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Weltweiter Tourismusmagnet – Kerker und Massaker auf Schloss Chillon",
+      "url": "https://www.srf.ch/news/schweiz/weltweiter-tourismusmagnet-kerker-und-massaker-auf-schloss-chillon",
+      "summary": "Schloss Chillon ist ein Schweizer Tourismus-Hotspot. Doch es war auch ein Ort für Verbrechen. Drei Schauplätze.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kanton Genf – Tödlicher Unfall rückt illegale Strassenrennen wieder ins Zentrum",
+      "url": "https://www.srf.ch/news/dialog/kanton-genf-toedlicher-unfall-rueckt-illegale-strassenrennen-wieder-ins-zentrum",
+      "summary": "Nach einem weiteren tödlichen Unfall in Genf wächst der Druck auf die Behörden. Was wird gegen Raserdelikte unternommen?",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schweizer Alpen-Club warnt – So gefährlich ist die Situation in den Bergen",
+      "url": "https://www.srf.ch/news/schweiz/schweizer-alpen-club-warnt-so-gefaehrlich-ist-die-situation-in-den-bergen",
+      "summary": "Wie sich die Verhältnisse in den Bergen wegen der anhaltenden Hitze verändern, weiss Bergführer Severin Karrer.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wohnen in Zürich: Schluss mit Zonen für Einfamilienhäuser: Die GLP will den Zürichberg verdichten",
+      "url": "https://www.tagesanzeiger.ch/glp-will-zuerichberg-verdichten-schluss-mit-einfamilienhaeusern-609838207456",
+      "summary": "Höher bauen, dichter wohnen, Millionen für die Stadtkasse: Der GLP-Politiker Sven Sobernheim sieht viel Potenzial zwischen den Villen am Zürichberg. Ein Beispiel: das Waldhaus Dolder.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nuklearenergie: «Das ist absurd» – USA erlauben Saudiarabien Urananreicherung",
+      "url": "https://www.tagesanzeiger.ch/usa-saudiarabien-atomabkommen-loest-besorgnis-aus-598948581690",
+      "summary": "Ein Abkommen ermöglicht US-Unternehmen, in saudische Atomkraftwerke zu investieren. Kritiker befürchten, es könnte den Weg für saudische Atomwaffen ebnen – und den Iran provozieren.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neues Urteil: Bundesgericht entscheidet: Besucherparkplätze dürfen auch von Fremden genutzt werden",
+      "url": "https://www.tagesanzeiger.ch/besucherparkplatz-wann-die-polizei-keine-busse-ausstellen-darf-791379771529",
+      "summary": "Ein «Besucher»-Schild allein reicht nicht, um Wildparkierer büssen zu können. Das Bundesgericht stellt damit eine weitverbreitete Annahme infrage. Teuer könnte es trotzdem werden.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "E-Leihfahrzeuge in Zürich: Mehr als die Hälfte der E-Trottis dürfte bald aus der Stadt verschwinden",
+      "url": "https://www.tagesanzeiger.ch/leihfahrzeuge-in-zuerich-stadt-will-zahl-von-7350-auf-3000-senken-526585370488",
+      "summary": "In Zürich soll es nur noch 3000 Leihfahrzeuge geben statt wie aktuell 7350. Das plant der Stadtrat. SP und Grüne fordern darüber hinaus fixe Stationen in der ganzen Stadt.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Exploits an der Tour de France: Sie sind schneller als in der Doping-Ära – wie ist das möglich?",
+      "url": "https://www.tagesanzeiger.ch/tour-de-france-warum-pogacar-4-minuten-schneller-ist-506321997485",
+      "summary": "Von der Ernährung bis zur Aerodynamik: Es sind die vielen Details, die den Unterschied machen. Wie das Prinzip der «marginal gains» den Radsport verändert.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Grosse Zürcher Badi-Übersicht: In diesen Badis gibt es das beste Essen, die schönste Architektur – oder richtiges Strandfeeling",
+      "url": "https://www.tagesanzeiger.ch/badis-im-kanton-zuerich-die-besten-tipps-fuer-die-sommerferien-786108241104",
+      "summary": "Im Kanton gibt es Dutzende See- und Freibäder zu entdecken. Unsere Übersicht liefert über 30 Ideen für die Sommerferien – und stellt Ihnen vielleicht eine neue Lieblings-Badi vor.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home: 10 einfache Rezepte für faule Ferientage",
+      "url": "https://www.tagesanzeiger.ch/sommerrezepte-10-einfache-gerichte-fuer-die-ferienzeit-177458439561",
+      "summary": "Ob Pasta oder ein Reisgericht, die am nächsten Tag als Salat serviert werden können, Feines aus dem Backofen oder goldene Schnitzel mit Tartarsauce: Diese Sommergerichte sind schnell und ohne grossen ",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trockenheit in den Alpen: Jeder fünften Berghütte droht das Wasser auszugehen – auch im Oberland",
+      "url": "https://www.tagesanzeiger.ch/sac-huetten-wasserknappheit-bedroht-betrieb-im-sommer-2026-850963751955",
+      "summary": "Der Klimawandel lässt Gletscher schmelzen, Quellen versiegen und stellt Hüttenwartinnen und Hüttenwarte vor Herausforderungen bei der Wasserversorgung. Reichen die Reserven bis Ende Saison?",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "100 Jahre Ozonmessung: Was als Tuberkulose-Forschung begann, liefert heute globale Warnung",
+      "url": "https://www.tagesanzeiger.ch/ozonmessung-arosa-100-jahre-daten-zeigen-langsame-erholung-565682819371",
+      "summary": "Seit 1926 wird in Arosa und Davos das Ozon gemessen – die längste Messreihe der Welt. Die Daten zeigen: Trotz Schutzmassnahmen erholt sich die lebenswichtige Ozonschicht nur langsam.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Berner Autorin in Kairo: «Am Anfang war es die totale Überforderung»",
+      "url": "https://www.bernerzeitung.ch/thuner-autorin-in-kairo-am-anfang-totale-ueberforderung-423929948375",
+      "summary": "Bettina Gugger erhielt von der Stadt Thun die Möglichkeit, in Kairo ihr neues Buch fertig zu schreiben. Kurz vor ihrer Rückreise blickt sie auf die Zeit in der ägyptischen Metropole zurück.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Grüne Grossrätin Jo Vergeat: «Klimaanlagen allein lösen die Hitzekrise nicht»",
+      "url": "https://www.bazonline.ch/basler-gruene-klimaanlagen-als-teil-der-hitzeloesung-168790700706",
+      "summary": "Es gibt grosse Hürden für Klima­anlagen in Basel-Stadt. Die Grüne Gross­rätin spricht nun von einem Umdenken bei ihrer Partei – insbesondere bei Schulen und Altersheimen.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Gastro-Innovation: Dieser Basler Roboter bereitet in 90 Sekunden eine Crêpe zu",
+      "url": "https://www.bazonline.ch/start-up-aus-basel-roboter-backt-crepe-in-90-sekunden-226131369332",
+      "summary": "Mit einem ausgefeilten Pfannkuchenroboter wollen zwei Brüder von Basel aus die europäische Gastro-Szene erobern. Getestet werden kann der Automat bis Ende Juli im Unternehmen Mitte.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "BaZ-Sommerrätsel mit -minu: Nummer 22: Wenn die Politik die Larve trägt",
+      "url": "https://www.bazonline.ch/basler-fasnacht-politiker-gruenden-eigene-clique-210382281959",
+      "summary": "Jede der 35 Sprossen richtig erraten, den Lösungsspruch einschicken und vielleicht einen speziellen Preis gewinnen. Das BaZ-Sommerrätsel mit -minu.",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der nächste Seeweg ist blockiert – droht nun doch eine Energiekrise?",
+      "url": "https://www.nzz.ch/pro/der-naechste-seeweg-ist-blockiert-droht-nun-doch-eine-energiekrise-ld.10016390",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die Schweizer fremdeln mit den Parteien, sehnen sich nach Sachpolitik und wählen trotzdem die SVP",
+      "url": "https://www.nzz.ch/meinung/die-schweizer-sehnen-sich-nach-sachpolitik-und-waehlen-trotzdem-die-svp-ld.10015907",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trump schliesst einen Atompakt mit Saudiarabien – ebnet er dem Königreich den Weg zur Nuklearmacht?",
+      "url": "https://www.nzz.ch/international/trump-strebt-einen-atom-pakt-mit-saudiarabien-an-ebnet-er-dem-koenigreich-den-weg-zur-nuklearmacht-ld.10016586",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Selenski hat den nationalen Zusammenhalt aufs Spiel gesetzt – zum Glück ist er lernfähig",
+      "url": "https://www.nzz.ch/meinung/selenski-hat-den-nationalen-zusammenhalt-aufs-spiel-gesetzt-zum-glueck-ist-er-lernfaehig-ld.10016565",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Boom im Chip-Sektor: Die Mitarbeiter erhalten Boni, wie sie nicht einmal bei Banken üblich sind",
+      "url": "https://www.nzz.ch/wirtschaft/boom-im-chip-sektor-die-mitarbeiter-erhalten-boni-wie-sie-nicht-einmal-bei-banken-ueblich-sind-ld.10016543",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Kein Recht, Probleme zu verschweigen»: Wer ist General Drapati, der neue Armeechef der Ukraine?",
+      "url": "https://www.nzz.ch/international/kein-recht-probleme-zu-verschweigen-wer-ist-general-drapati-der-neue-armeechef-der-ukraine-ld.10016527",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Opfer betäuben, vergewaltigen, die Tat filmen: Ein Muster sexueller Gewalt rückt in das Bewusstsein der Schweizer",
+      "url": "https://www.nzz.ch/schweiz/das-opfer-betaeuben-vergewaltigen-die-tat-filmen-ein-muster-sexueller-gewalt-rueckt-in-das-bewusstsein-der-schweizer-ld.10016512",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die gecancelte Ente kehrt zurück: Das Paléo Festival streitet über ein Sandwich",
+      "url": "https://www.nzz.ch/schweiz/die-gecancelte-ente-kehrt-zurueck-das-paleo-festival-streitet-ueber-ein-sandwich-ld.10016463",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Bahnen müssen Kunden ohne Smartphone und Kreditkarte akzeptieren",
+      "url": "https://www.nzz.ch/schweiz/bahnen-muessen-kunden-ohne-smartphone-und-kreditkarte-akzeptieren-ld.10016435",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Im Extremsport ein Erfolg, im Teamsport stösst der Red-Bull-Bulldozer aber an Grenzen – das zeigt sich an der Tour de France, in der Formel 1 und im Fussball",
+      "url": "https://www.nzz.ch/sport/im-extremsport-ein-erfolg-im-teamsport-stoesst-der-red-bull-bulldozer-hingegen-an-grenzen-das-zeigt-sich-an-der-tour-de-france-in-der-formel-1-und-im-fussball-ld.10016386",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wie die Berge zu ihren Namen kamen und das Rätsel um den Eiger",
+      "url": "https://www.nzz.ch/schweiz/wie-die-berge-zu-ihren-namen-kamen-und-das-raetsel-um-den-eiger-ld.10016375",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Polizei statt Pilgerstätte: Österreich will Hitlers Geburtshaus die Symbolkraft nehmen",
+      "url": "https://www.nzz.ch/international/polizei-statt-pilgerstaette-oesterreich-will-hitlers-geburtshaus-die-symbolkraft-nehmen-ld.10016134",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mit einer gigantischen Mauer will Indonesien das Meer aufhalten, doch es fehlt an Geld – und an Vertrauen",
+      "url": "https://www.nzz.ch/wirtschaft/mit-einer-gigantischen-mauer-will-indonesien-das-meer-aufhalten-doch-es-fehlt-an-geld-und-an-vertrauen-ld.10015810",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Milo Rau sieht die AfD bald an der Macht: «Wir müssen der Wirklichkeit ins Auge sehen»",
+      "url": "https://www.nzz.ch/feuilleton/milo-rau-sieht-die-afd-bald-an-der-macht-wir-muessen-der-wirklichkeit-ins-auge-sehen-ld.10015798",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ MACHTSPIEL» - Wie kann Deutschland seine Grenzen schützen, Jan Solwyn?",
+      "url": "https://www.nzz.ch/podcast/wie-kann-deutschland-seine-grenzen-schuetzen-jan-solwyn-ld.10014892",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Auto, das dazulernt: Die KI definiert die Fahrzeuge der Zukunft – und markiert die nächste Weggabelung für die Autoindustrie",
+      "url": "https://www.nzz.ch/mobilitaet/ein-auto-das-dazulernt-die-ki-definiert-die-fahrzeuge-der-zukunft-und-markiert-die-naechste-weggabelung-fuer-die-autoindustrie-ld.10013915",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kommt am Freitag ein Neuer Zollhammer",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/kommt-am-freitag-ein-neuer-zollhammer-2098134",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitze trocknet Europas Böden immer schneller aus",
+      "url": "https://www.watson.ch/wissen/klima/500485947-hitze-trocknet-europas-boeden-immer-schneller-aus",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Thailand baut Grenzzaun nach Konflikt mit Kambodscha",
+      "url": "https://www.watson.ch/international/thailand/308699903-thailand-baut-grenzzaun-nach-konflikt-mit-kambodscha",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trotz drohendem Luxram-Einsturz: Sonneggstrasse soll wieder geöffnet werden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/trotz-drohendem-luxram-einsturz-sonneggstrasse-soll-wieder-geoeffnet-werden-art-1713844",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Anwohner kaufen Strasse vom «König der Schweiz»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/anwohner-kaufen-strasse-vom-koenig-der-schweiz-art-1713819",
+      "summary": "",
+      "published": "2026-07-23T04:01:46.511069+00:00"
     }
   ]
 }
