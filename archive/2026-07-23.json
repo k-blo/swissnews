@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-22T23:31:15.876650+00:00",
+  "generated": "2026-07-23T00:01:20.339449+00:00",
   "date": "2026-07-23",
-  "count": 14,
+  "count": 19,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,41 @@
       "url": "https://www.watson.ch/wirtschaft/international/322947724-zeitweise-hoechster-stand-seit-mitte-juni-oelpreise-legen-deutlich-zu",
       "summary": "",
       "published": "2026-07-22T23:31:15.876650+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Feuer in der Nähe von Bordeaux: Tausende Touristen müssen Campingplatz wegen Waldbrand räumen",
+      "url": "https://www.tagesanzeiger.ch/waldbrand-bei-bordeaux-frankreich-campingplatz-evakuiert-359948923422",
+      "summary": "Wegen eines Waldbrandes an der Atlantikküste müssen zahlreiche Urlauber Campingplätze und Strände verlassen. Die Behörden setzen auf umfangreiche Evakuierungen und warnen vor weiteren Gefahren.",
+      "published": "2026-07-23T00:01:20.339449+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tesla mit mehr Umsatz, weniger Gewinn",
+      "url": "https://www.zentralplus.ch/news/tesla-mit-mehr-umsatz-weniger-gewinn-2886638/",
+      "summary": "Der US-amerikanische Elektroautokonzern Tesla hat im zweiten Quartal mehr Umsatz, aber weniger Gewinn gemacht. Der Umsatz stieg von April bis Juni im Jahresvergleich um 26 Prozent auf rund 28 Milliard",
+      "published": "2026-07-23T00:01:20.339449+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Google-Mutter Alphabet erhöht Umsatz",
+      "url": "https://www.zentralplus.ch/news/google-mutter-alphabet-erhoeht-umsatz-2886637/",
+      "summary": "Der Google-Mutterkonzern Alphabet hat im zweiten Quartal den Umsatz im Vergleich zum Vorjahreszeitraum um 24 Prozent auf knapp 120 Milliarden Dollar erhöht. Auch der Gewinn stieg von rund 28 auf gut 1",
+      "published": "2026-07-23T00:01:20.339449+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warren Buffet warnt vor Verhalten der Anleger und sieht Börse in Gefahr",
+      "url": "https://www.watson.ch/wirtschaft/geld/481802986-warren-buffet-warnt-vor-verhalten-der-anleger-und-sieht-boerse-in-gefahr",
+      "summary": "",
+      "published": "2026-07-23T00:01:20.339449+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Migrolino pocht in Zürich und Winterthur auf Sonntagsarbeit",
+      "url": "https://www.watson.ch/schweiz/migros/383494405-migrolino-pocht-in-zuerich-und-winterthur-auf-sonntagsarbeit",
+      "summary": "",
+      "published": "2026-07-23T00:01:20.339449+00:00"
     }
   ]
 }
