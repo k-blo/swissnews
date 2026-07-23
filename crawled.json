@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T00:31:39.616319+00:00",
+  "generated": "2026-07-23T01:01:39.215182+00:00",
   "date": "2026-07-23",
-  "count": 25,
+  "count": 26,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -177,6 +177,13 @@
       "url": "https://www.watson.ch/schweiz/svp/954660252-warum-patrick-frei-des-versuchten-mordes-bezichtigt-wird",
       "summary": "",
       "published": "2026-07-23T00:31:39.616319+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukrainischer Soldat berichtet: Fast ein Jahr im Erdloch",
+      "url": "https://www.watson.ch/international/russland/711984129-ukrainischer-soldat-berichtet-fast-ein-jahr-im-erdloch",
+      "summary": "",
+      "published": "2026-07-23T01:01:39.215182+00:00"
     }
   ]
 }
