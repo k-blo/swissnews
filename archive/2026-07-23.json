@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T07:01:34.541998+00:00",
+  "generated": "2026-07-23T07:31:26.404011+00:00",
   "date": "2026-07-23",
-  "count": 262,
+  "count": 274,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1836,6 +1836,90 @@
       "url": "https://www.infosperber.ch/politik/welt/schaufelst-du-fuer-einen-toten-oder-suchst-du-erdoel/",
       "summary": "",
       "published": "2026-07-23T07:01:34.541998+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Erfolgreich mit wenig Aufwand – Fünf Tipps, wie Sie Ihrem Verein auf die Sprünge helfen",
+      "url": "https://www.srf.ch/radio-srf-1/erfolgreich-mit-wenig-aufwand-fuenf-tipps-wie-sie-ihrem-verein-auf-die-spruenge-helfen",
+      "summary": "Vom Jodlerklub bis zum Bienenzüchterverein: Um die Jungen ins Boot zu holen, müssen Vereine innovativ sein – aber wie?",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Google-Mutter plant gigantische Investition: Alphabet pumpt noch mehr Milliarden in KI-Rechenzentren",
+      "url": "https://www.tagesanzeiger.ch/alphabet-200-milliarden-dollar-fuer-ai-infrastruktur-2026-838159347004",
+      "summary": "Der Tech-Konzern legt ein sagenhaftes Quartalsergebnis vor und kündigt an, die Investitionen in Infrastruktur darum noch einmal «bedeutend» zu erhöhen.",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Waldbrand bei Bordeaux: 10’000 Touristen wegen Brandes an Atlantikküste evakuiert",
+      "url": "https://www.tagesanzeiger.ch/waldbrand-bei-bordeaux-10-000-touristen-evakuiert-956897152165",
+      "summary": "Ein Waldbrand nahe Bordeaux hat sich auf 2’000 Hektar ausgedehnt und acht Ferienzentren erfasst. 500 Feuerwehrleute kämpfen gegen die Flammen.",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Trockenheit in den Alpen: Keine Duschen, weniger Abwasch: In Berner SAC-Hütten muss Wasser gespart werden",
+      "url": "https://www.bernerzeitung.ch/sac-huetten-wasserknappheit-bedroht-betrieb-im-sommer-2026-850963751955",
+      "summary": "Der Klimawandel lässt Gletscher schmelzen, Quellen versiegen und stellt Hüttenwartinnen und Hüttenwarte vor Herausforderungen bei der Wasserversorgung. Reichen die Reserven bis Ende Saison?",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Mann wegen Stalking in Bern verurteilt: Er sprach sie im Gym an, lauerte ihr bei der Arbeit auf, verfolgte sie mit dem Auto",
+      "url": "https://www.bernerzeitung.ch/stalking-in-bern-geldstrafe-fuer-fitnesscenter-stalker-219377618730",
+      "summary": "Trotz klarer Abfuhr, Blockierungen und einer Polizeiwarnung hörte ein junger Mann nicht auf, eine Frau zu belästigen. Sein Fall ist einer der ersten, der unter dem neuen Stalking-Paragrafen verurteilt",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "TI: Ermittlungen gegen Staatsrat Zali",
+      "url": "https://www.zentralplus.ch/news/ti-ermittlungen-gegen-staatsrat-zali-2886664/",
+      "summary": "Die Staatsanwaltschaft ermittelt wegen Amtsmissbrauchs und versuchter Nötigung gegenden Tessiner Lega-Regierungsrat Claudio Zali. Es geht um einen inhaftierten 14-jährigen Jugendlichen, dessen Mutter ",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie Datenräume Wettbewerb und ­Innovation ermöglichen",
+      "url": "https://www.netzwoche.ch/news/2026-07-23/wie-datenraeume-wettbewerb-und-innovation-ermoeglichen",
+      "summary": "Datenräume entwickeln sich zur Schlüsselinfrastruktur der Wirtschaft. Sie ermöglichen Organisationen, Daten sicher und kontrolliert über Unternehmens- und Branchengrenzen hinweg zu nutzen, ohne die ei",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Google-Mutter übertrifft die Erwartungen",
+      "url": "https://www.persoenlich.com/digital/google-mutter-ubertrifft-die-erwartungen",
+      "summary": "Der Umsatz des Konzerns ist im letzten Quartal um 24 Prozent auf 119,8 Milliarden Dollar gewachsen.",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Haag Betrunkener Prallt mit Auto in Brückengeländer",
+      "url": "https://www.tagblatt.ch/ostschweiz/rheintal/haag-betrunkener-prallt-mit-auto-in-brueckengelaender-ld.4206830",
+      "summary": "",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Patrick Freis mutmassliches drittes Opfer war seine Ex-Frau",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/911495636-patrick-freis-mutmassliches-drittes-opfer-war-seine-ex-frau",
+      "summary": "",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EU verhängt neue Russland-Sanktionen",
+      "url": "https://www.watson.ch/international/eu/227548173-eu-verhaengt-neue-russland-sanktionen",
+      "summary": "",
+      "published": "2026-07-23T07:31:26.404011+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Amir Abrashi spricht über den Umbruch bei GC und der kommenden Spielzeit",
+      "url": "https://www.watson.ch/sport/gc/621595876-amir-abrashi-spricht-ueber-den-umbruch-bei-gc-und-der-kommenden-spielzeit",
+      "summary": "",
+      "published": "2026-07-23T07:31:26.404011+00:00"
     }
   ]
 }
