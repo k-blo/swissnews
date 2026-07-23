@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T09:01:23.939866+00:00",
+  "generated": "2026-07-23T09:31:41.643326+00:00",
   "date": "2026-07-23",
-  "count": 316,
+  "count": 349,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2214,6 +2214,237 @@
       "url": "https://www.bzbasel.ch/basel/basel-stadt/bettinger-fabrizio-fracassi-lanciert-eigene-social-media-plattform-ld.4204440",
       "summary": "",
       "published": "2026-07-23T09:01:23.939866+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nestlé-Aktie schmiert trotz Lob für Wasserverkauf ab",
+      "url": "https://www.20min.ch/story/fast-7-prozent-minus-nestle-aktie-schmiert-trotz-lob-fuer-wasserverkauf-ab-103607597",
+      "summary": "Nestlé kämpft mit sinkendem Umsatz und einem Reingewinn-Rückgang von 31 Prozent. Die Aktie fällt deutlich.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Waldbrand bei Bordeaux tobt weiter: 12'000 Menschen evakuiert",
+      "url": "https://www.20min.ch/story/frankreich-waldbrand-bei-bordeaux-tobt-weiter-12-000-menschen-evakuiert-103607601",
+      "summary": "Bei Bordeaux tobt ein Waldbrand. 500 Feuerwehrleute kämpfen mit dessen Löschung. Um die 12'000 Menschen mussten bisher evakuiert werden.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kita-Tarife im Kanton Genf: Warum Hunderte Eltern in ihrer Stadt plötzlich über 30’000 Franken mehr für die Kita zahlen",
+      "url": "https://www.tagesanzeiger.ch/lancy-kita-tarife-fuer-reiche-steigen-um-80-prozent-485419648869",
+      "summary": "Salima Moyard,  SP-Stadtpräsidentin von Lancy, hat die Tarife für Gutverdienende erhöht und erntet heftige Kritik. Sie kontert: Anderen Gemeinden fehle nur der Mut, es ihr gleichzutun.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Aus für Traditionsbetrieb: «Da geht nichts mehr»: Die letzte Schweizer Krawattenfirma schliesst nach über 70 Jahren",
+      "url": "https://www.tagesanzeiger.ch/bachmann-krawatten-ag-schweizer-krawattenfirma-schliesst-213292114021",
+      "summary": "Billigware aus China, hohe Betriebskosten und der Trend zu Business Casual: Die Bachmann Krawatten AG in Zürich-Oerlikon stellt den Betrieb ein. Elf Mitarbeitende verlieren ihren Job.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mordfall Lyhanna: Frankreich reagiert und nimmt 675 Männer fest, weil sie Kinder gefährden",
+      "url": "https://www.tagesanzeiger.ch/mordfall-lyhanna-frankreich-verhaftet-675-verdaechtige-255968043846",
+      "summary": "Nach dem Mord an der elf­jährigen Lyhanna haben Frank­reichs Staats­anwalt­schaften in kurzer Zeit 85’000 Akten geprüft – und etwa tausend davon sofort priorisiert.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Erschwerte Bedingungen durch Hitze: SAC warnt vor massiv erhöhter Unfallgefahr in den Bergen",
+      "url": "https://www.tagesanzeiger.ch/sac-alpen-club-warnt-vor-erhoehter-unfallgefahr-in-de-bergen-758638782661",
+      "summary": "Ein schneearmer Winter gefolgt von lang anhaltenden Hitzewellen setzt den hiesigen Bergen zu. Die Bedingungen im Hochgebirge haben sich drastisch verändert – mit gefährlichen Folgen.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trendsport Backyard Ultra: Immer mehr Läufer wollen stundenlang im Kreis rennen",
+      "url": "https://www.tagesanzeiger.ch/backyard-ultra-immer-mehr-laeufer-wollen-stundenlang-im-kreis-rennen-781137600797",
+      "summary": "Das Laufformat ohne Ziellinie boomt: Jede Stunde eine Runde, bis nur noch eine Person steht. In der Schweiz werden Backyard Ultras immer beliebter. Das zeigt sich auch in Dachsen und Witikon.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Tödlicher SUP-Unfall an der Aare: Die Gefahr beim EWB-Stauwehr Engehalde",
+      "url": "https://www.bernerzeitung.ch/tod-nach-sup-unfall-aare-boeoetler-uebersehen-warnschilder-oft-831922144828",
+      "summary": "Am Sonntag starb unterhalb des Stauwehrs Engehalde ein 61-jähriger SUP-Fahrer. Der Flussabschnitt wäre für Badende in der Sperrzone, doch reicht die Beschilderung auch aus?",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Tierrettung auf der A6: Berner Polizei holt verletzten Milan von der Autobahn",
+      "url": "https://www.bernerzeitung.ch/kantonspolizei-bern-rettet-verletzten-milan-auf-a6-322055854751",
+      "summary": "Einsatzkräfte haben einen Raubvogel von der A6 Nord gerettet und in die Wildstation Landshut gebracht.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kommission fordert neue Regeln: Nach Maisano-Skandal: Spitäler sollen Interessenskonflikte offenlegen",
+      "url": "https://www.bernerzeitung.ch/herzchirurgie-skandal-kommission-fordert-neue-regeln-687905243879",
+      "summary": "Nach den Todesfällen am Universitätsspital Zürich fordert die Eidgenössische Qualitätskommission strikte Transparenzregeln. Spitäler ohne Offenlegungspflicht sollen von den Spitallisten gestrichen wer",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Klybeck im Umbruch: Die Zack-Besetzer versprayten sein Café – trotzdem hat er Verständnis für ihre Anliegen",
+      "url": "https://www.bazonline.ch/cafe-klubo-basel-fassade-von-zack-demo-beschmiert-369051644774",
+      "summary": "Lukas Biry hat 2025 ein Café mit alternativem Flair im Klybeck eröffnet. Der pointiert linke Unternehmer blickt nostalgisch auf das NT-Areal zurück – und findet lobende Worte für Swiss Life und Rhysta",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Krise oder Strukturwandel?: In der Basler Innenstadt gibt es fast doppelt so viele leere Läden wie im letzten Jahr",
+      "url": "https://www.bazonline.ch/basler-innenstadt-leerstand-steigt-auf-3-8-prozent-629895520291",
+      "summary": "Mit nur 1,2 Prozent Leerstand gilt die Freie Strasse als Erfolgsmodell. Doch nur wenige Hundert Meter weiter stehen immer mehr Läden leer.",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Kita-Tarife im Kanton Genf: Warum Eltern in ihrer Stadt plötzlich über 30’000 Franken mehr für die Kita zahlen",
+      "url": "https://www.bazonline.ch/lancy-kita-tarife-fuer-reiche-steigen-um-80-prozent-485419648869",
+      "summary": "Salima Moyard,  SP-Stadtpräsidentin von Lancy, hat die Betreuungs­tarife für Gutverdienende erhöht und erntet heftige Kritik. Sie kontert: Anderen Gemeinden fehlt nur der politische Mut, es ihr gleich",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "72-jähriger E-Biker stürzt schwer – Zeugen gesucht",
+      "url": "https://www.zentralplus.ch/news/72-jaehriger-e-biker-stuerzt-schwer-zeugen-gesucht-2886706/",
+      "summary": "Auf der Büronerstrasse endet eine E-Bike-Fahrt mit lebensbedrohlichen Verletzungen. Wie es zum folgenschweren Sturz kam, bleibt offen. Ein 72-jähriger E-Bikefahrer hat sich am Mittwochnachmittag bei e",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neue Russland-Sanktionen der EU",
+      "url": "https://www.zentralplus.ch/news/neue-russland-sanktionen-der-eu-2886700/",
+      "summary": "Die EU-Länder haben sich nach langen Verhandlungen auf weitere Sanktionen gegen Russland geeinigt. Es ist das 21. Sanktionspaket wegen des Krieges in der Ukraine. Konkret verlängert die EU den Preisde",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Enkelwette um den WM-Final: Wie ich zum Fussbalfan wurde",
+      "url": "https://www.shn.ch/leben-genuss/2026-07-23/die-enkelwette-um-den-wm-final-wie-ich-zum-fussbalfan-wurde",
+      "summary": "Kolumnist Ernst Landolt hat es nicht so mit dem Fussball, doch dann kam das Enkelind. Und eine teure Wette – die am Ende dann auch eingelöst wurde?",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Fc St Gallen Will dem Grossen Benfica ein Bein Stellen Dieser Bündner ist Mittendrin",
+      "url": "https://www.suedostschweiz.ch/regionalsport/fc-st-gallen-will-dem-grossen-benfica-ein-bein-stellen-dieser-buendner-ist-mittendrin-2098429",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Der Goldschakal Gehörte Nie zur Bündner Tierwelt Gilt aber als Neue Einheimische Art",
+      "url": "https://www.suedostschweiz.ch/graubuenden/der-goldschakal-gehoerte-nie-zur-buendner-tierwelt-gilt-aber-als-neue-einheimische-art-2091512",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Soll Ich Mein Eigenheim Verkaufen Verschenken oder Vererben",
+      "url": "https://www.bzbasel.ch/paidcontent/promotion/soll-ich-mein-eigenheim-verkaufen-verschenken-oder-vererben-ld.4206928",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurner Wasserkraftwerke Produzieren Wegen Trockenheit Weniger Strom",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/solothurner-wasserkraftwerke-produzieren-wegen-trockenheit-weniger-strom-ld.4203154",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Politiker Wollen Mögliches Kongresszentrum Prüfen Lassen",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-politiker-wollen-moegliches-kongresszentrum-pruefen-lassen-ld.4206712",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Alois Furrer Übernimmt Beim Seniorenverein Altdorf das Präsidium",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/alois-furrer-uebernimmt-beim-seniorenverein-altdorf-das-praesidium-ld.4205207",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Luzern und Appenzell Innerrhoden verbieten Feuerwerke am 1. August",
+      "url": "https://www.watson.ch/schweiz/wetter/146818535-luzern-und-appenzell-innerrhoden-verbieten-feuerwerke-am-1-august",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tour de France live im Stream und Ticker: Die 18. Etappe am Donnerstag",
+      "url": "https://www.watson.ch/sport/liveticker/689707152-tour-de-france-live-im-stream-und-ticker-die-18-etappe-am-donnerstag",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Super League: So tippt watson die Tabelle",
+      "url": "https://www.watson.ch/sport/fc-basel/881095198-super-league-so-tippt-watson-die-tabelle",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Panne verrät: Miami Heat bereitet die Rückkehr von LeBron James vor",
+      "url": "https://www.watson.ch/sport/nba/568785628-panne-verraet-miami-heat-bereitet-die-rueckkehr-von-lebron-james-vor",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Riesenhype um die Moonswatch: 1,2 Millionen Bewerbungen gehen ein",
+      "url": "https://www.watson.ch/wirtschaft/konsum/800479045-riesenhype-um-die-moonswatch-1-2-millionen-bewerbungen-gehen-ein",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kommission will nach USZ-Herzchirurgie-Skandal Konsequenzen",
+      "url": "https://www.watson.ch/schweiz/gesundheit/228440402-kommission-will-nach-usz-herzchirurgie-skandal-konsequenzen",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Urner Passfreigabe für Negativpreis nominiert",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/urner-passfreigabe-fuer-negativpreis-nominiert-art-1713971",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Seniorenverein mit neuen Statuten und neuem Vorstand",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/alois-furrer-uebernimmt-beim-seniorenverein-altdorf-das-praesidium-art-1713970",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wahrsagen bei Haustieren: Tarotkarten für Hunde gewinnen an Beliebtheit",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/wahrsagen-bei-haustieren-tarotkarten-fuer-hunde-gewinnen-an-beliebtheit-art-1713969",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Menschenjagd auf Schweizer Boden durch SS-Schergen: Der neue Roman von Alex Capus hat einen brisanten Kern",
+      "url": "https://www.bote.ch/nachrichten/kultur/alex-capus-gasthof-nahe-der-deutschen-grenze-als-romanstoff-art-1713968",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Kongresszentrum für Grossanlässe? Zuger Politiker wollen herausfinden, was möglich ist",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-politiker-wollen-moegliches-kongresszentrum-pruefen-lassen-art-1713967",
+      "summary": "",
+      "published": "2026-07-23T09:31:41.643326+00:00"
     }
   ]
 }
