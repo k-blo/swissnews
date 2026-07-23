@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T23:22:38.442106+00:00",
+  "generated": "2026-07-23T23:31:21.530471+00:00",
   "date": "2026-07-24",
-  "count": 14,
+  "count": 15,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -100,6 +100,13 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/16-jaehrige-einsiedlerin-holt-mit-dem-evz-das-double-und-will-eines-tages-in-amerika-spielen-art-1713988",
       "summary": "",
       "published": "2026-07-23T22:31:38.542608+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Handelsstreit mit den USA: Trump verhängt neue Zölle – was heisst das für die Schweiz?",
+      "url": "https://www.tagesanzeiger.ch/trump-zoelle-schweizer-exporte-neu-mit-12-5-prozent-belastet-833862687104",
+      "summary": "Der Supreme Court zwang Trump zur Rückzahlung illegaler Zölle, seine Notlösung verfiel am Freitag. Nun stützt sich der Präsident auf andere Gesetze. Die Schweiz kommt dabei schlechter weg als die EU.",
+      "published": "2026-07-23T23:31:21.530471+00:00"
     }
   ]
 }
