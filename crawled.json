@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24T03:01:41.856128+00:00",
+  "generated": "2026-07-24T03:31:45.420879+00:00",
   "date": "2026-07-24",
-  "count": 128,
+  "count": 152,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -898,6 +898,174 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/eine-sammlung-mit-seltenheitswert-lussers-steine-kehren-nach-uri-zurueck-art-1714069",
       "summary": "",
       "published": "2026-07-24T03:01:41.856128+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Unser Buchsommer: « Diese Bücher rufen in mir die unerklärliche Traurigkeit hervor, die man nur als Kind allein im Bett fühlen kann»",
+      "url": "https://www.tagesanzeiger.ch/mumins-warum-dieses-kinderbuch-ein-leben-lang-begleitet-617272897579",
+      "summary": "«Die Mumins. Eine drollige Gesellschaft» von Tove Jansson eröffnet bei jedem Mal lesen wieder neue Sichtweisen. Magazin-Redaktor Mikael Krogerus erzählt, was ihn bis heute daran fasziniert.",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Seebad Luzern nutzt jetzt eine Lichtschranke",
+      "url": "https://www.zentralplus.ch/freizeit/seebad-luzern-setzt-auf-ampel-und-lichtschranke-2886698/",
+      "summary": "Das Seebad Luzern zählt seine Gäste neu mit einer Lichtschranke und beschränkt erneut Gruppen bei hoher Auslastung. Andere Badis gehen die Sache gemütlicher an, haben aber auch einen Vorteil. Volle Li",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Von der Beschwörung von Evitas Leiche bis zu Mileis verpasster Finalteilnahme: Der Aberglaube hat in Argentiniens Politik eine lange Tradition",
+      "url": "https://www.nzz.ch/international/von-evita-bis-milei-die-irrationale-seite-der-argentinischen-politik-ld.10016762",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Eine radikale Idee sorgt für Kontroversen: In Basel soll die Innenstadt sogar vom öffentlichen Verkehr befreit werden",
+      "url": "https://www.nzz.ch/schweiz/eine-radikale-idee-sorgt-fuer-kontroversen-in-basel-soll-die-innenstadt-sogar-vom-oeffentlichen-verkehr-befreit-werden-ld.10016688",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Zunehmende Hitzewellen: Europas Klimapolitik braucht mehr Anpassung, weniger Illusionen",
+      "url": "https://www.nzz.ch/meinung/zunehmende-hitzewellen-europas-klimapolitik-braucht-mehr-anpassung-weniger-illusionen-ld.10016562",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Preishoch bei Benzin und Diesel: Autolenker haben noch mehr Probleme als den Iran-Krieg",
+      "url": "https://www.nzz.ch/wirtschaft/iran-krieg-neben-erdoel-verteuern-raffinerie-probleme-benzin-und-diesel-ld.10016553",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Donald Trump kann den Krieg gegen Iran nicht gewinnen",
+      "url": "https://www.nzz.ch/pro/warum-donald-trump-den-krieg-gegen-iran-nicht-gewinnen-kann-ld.10016544",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Billionär Elon Musk unterstützt Le Pen und mischt in den Zwischenwahlen mit",
+      "url": "https://www.nzz.ch/international/billionaer-elon-musk-unterstuetzt-le-pen-und-mischt-in-den-zwischenwahlen-mit-ld.10016537",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "An der Tour de France kommt es für den Chefkoch des Tudor-Teams auf jedes Gramm an – mit seinem Food-Truck tingelt er seit Wochen durch Frankreich",
+      "url": "https://www.nzz.ch/sport/an-der-tour-de-france-kommt-es-fuer-den-chefkoch-des-tudor-teams-auf-jedes-gramm-an-mit-seinem-foodtruck-tingelt-er-seit-wochen-durch-frankreich-ld.10016524",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK - Das Kind von der Leihmutter, der Geschlechtswechsel nach Lust und Laune: Normal ist das alles nicht mehr",
+      "url": "https://www.nzz.ch/der-andere-blick/spahn-und-die-leihmutter-die-grenzen-der-selbstverwirklichung-ld.10016501",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Medizinethiker über Leihmutterschaft: «Natürlich ist das Kind in einer prekären Situation»",
+      "url": "https://www.nzz.ch/wissenschaft/medizinethiker-ueber-leihmutterschaft-natuerlich-ist-das-kind-in-einer-prekaeren-situation-ld.10016430",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ QUANTENSPRUNG» - Giotto: Eine Schweizer Firma verspricht KI-Unabhängigkeit für Europa",
+      "url": "https://www.nzz.ch/podcast/giotto-eine-schweizer-firma-verspricht-ki-unabhaengigkeit-fuer-europa-ld.10016181",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Seeleute, Krieger und Bettler am Tor der Tränen – im Roten Meer eröffnet Iran die nächste Front",
+      "url": "https://www.nzz.ch/international/seeleute-krieger-und-bettler-am-tor-der-traenen-im-roten-meer-eroeffnet-iran-die-naechste-front-ld.10016176",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Freiburger Zeitungsinstitution gerät ins Wanken",
+      "url": "https://www.nzz.ch/schweiz/die-freiburger-zeitungsinstitution-geraet-ins-wanken-ld.10015932",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Ich werde immer wieder da hoch gehen, auch wenn es kein Eis mehr gibt», sagt der bekannteste Gletscherforscher der Schweiz",
+      "url": "https://www.nzz.ch/schweiz/ich-werde-immer-wieder-da-hoch-gehen-auch-wenn-es-kein-eis-mehr-gibt-sagt-der-bekannteste-gletscherforscher-der-schweiz-ld.10015809",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Soziologe des Verdachts: Was bleibt vom Werk des einstigen intellektuellen Superstars Pierre Bourdieu?",
+      "url": "https://www.nzz.ch/feuilleton/der-soziologe-des-verdachts-was-bleibt-vom-werk-des-einstigen-intellektuellen-superstars-pierre-bourdieu-ld.10015734",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Russland brennt – um den Krieg zu beenden, müsste das Putin-Regime aufhören, das Putin-Regime zu sein",
+      "url": "https://www.nzz.ch/meinung/russland-brennt-um-den-krieg-zu-beenden-muesste-das-putin-regime-aufhoeren-das-putin-regime-zu-sein-ld.10015437",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mit Charme, Verkaufstalent und einem Netzwerk bis hin zu Warren Buffett: So wurde Ernst Tanner vom Bauernbub zum Schokoladenkönig",
+      "url": "https://www.nzz.ch/wirtschaft/mit-charme-verkaufstalent-und-einem-netzwerk-bis-hin-zu-warren-buffett-so-wurde-ernst-tanner-vom-bauernbub-zum-schokoladenkoenig-ld.10015122",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ein Bündner Kraftwerk will im Berg verschwinden – und provoziert damit ein Veto aus Schaffhausen",
+      "url": "https://www.shn.ch/region/kanton/2026-07-24/ein-buendner-kraftwerk-will-im-berg-verschwinden-und-provoziert-damit-ein",
+      "summary": "In der Nähe des Rheins im bündnerischen Trimmis soll eines der bedeutendsten Wasserkraftwerke der Schweiz entstehen. Fast alle Parteien tragen das Projekt mit – sogar die lokalen Umweltverbände. Einzi",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fc Aarau Marco Thaler Fordert Neue Führungsspieler",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/fc-aarau-marco-thaler-fordert-neue-fuehrungsspieler-ld.4206283",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Ig Kanton Uri Fordert Schutz vor Ausweichverkehr",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/ig-kanton-uri-fordert-schutz-vor-ausweichverkehr-ld.4205217",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Staatsanwaltschaft führt Strafverfahren gegen Obwaldner Richter",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/staatsanwaltschaft-fuehrt-strafverfahren-gegen-obwaldner-richter-art-1714080",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach Protestaktion gegen Ausweichverkehr in Amsteg: Petition wurde fast 8000-mal unterschrieben",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ig-kanton-uri-fordert-schutz-vor-ausweichverkehr-art-1714081",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Regierungsrat wehrt sich gegen Vorwürfe",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/nidwalden-reagiert-auf-kritik-an-stellungnahme-zur-konzernverantwortung-art-1714079",
+      "summary": "",
+      "published": "2026-07-24T03:31:45.420879+00:00"
     }
   ]
 }
