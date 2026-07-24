@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24T01:01:20.404403+00:00",
+  "generated": "2026-07-24T01:31:35.880656+00:00",
   "date": "2026-07-24",
-  "count": 19,
+  "count": 21,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -135,6 +135,20 @@
       "url": "https://www.zentralplus.ch/news/schweiz-weist-us-vorwuerfe-zurueck-2886938/",
       "summary": "Die Schweiz weist die Vorwürfe der USA betreffend Zwangsarbeit zurück. Dem stimmt auch der Schweizer Wirtschaftsdachverband Economiesuisse zu. Der Entscheid der USA sei weder nachvollziehbar noch gere",
       "published": "2026-07-24T01:01:20.404403+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Frankreich bittet um Hilfe aus der EU",
+      "url": "https://www.zentralplus.ch/news/frankreich-bittet-um-hilfe-aus-der-eu-2886942/",
+      "summary": "Gleich mehrere Waldbrände wüten derzeit in verschiedenen Regionen Frankreichs. Über 20&#8217;000 Menschen mussten in den vergangenen Tagen evakuiert werden. Nun hat das Land Hilfe bei der Europäischen",
+      "published": "2026-07-24T01:31:35.880656+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump: Iran soll Schäden bezahlen",
+      "url": "https://www.zentralplus.ch/news/trump-iran-soll-schaeden-bezahlen-2886940/",
+      "summary": "US-Präsident Donald Trump will den Iran für Schäden an Schiffen und Frachtgut in der Strasse von Hormus zur Rechenschaft ziehen. Jegliche Schäden dieser Art würden ab sofort mit iranischem Geld beglic",
+      "published": "2026-07-24T01:31:35.880656+00:00"
     }
   ]
 }
