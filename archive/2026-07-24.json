@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24T08:31:48.898789+00:00",
+  "generated": "2026-07-24T09:01:43.556156+00:00",
   "date": "2026-07-24",
-  "count": 320,
+  "count": 353,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2242,6 +2242,237 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/merz-baut-deutsche-regierung-um-verkehrsminister-muss-gehen-art-1714089",
       "summary": "",
       "published": "2026-07-24T08:31:48.898789+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schiff «Unterwalden» – Winston Churchill an Bord: Fünf Stationen im Leben des Dampfers",
+      "url": "https://www.srf.ch/radio-srf-1/schiff-unterwalden-winston-churchill-an-bord-fuenf-stationen-im-leben-des-dampfers",
+      "summary": "Seit 1902 fährt die «Unterwalden» über den Vierwaldstättersee. Fünf Geschichten über einen Riesen, der sich kleinmacht.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Projekt der Extreme – Wieso ein Buchhalter 5000 Kilometer über den Atlantik rudern will",
+      "url": "https://www.srf.ch/news/schweiz/projekt-der-extreme-wieso-ein-buchhalter-5000-kilometer-ueber-den-atlantik-rudern-will",
+      "summary": "Am Anfang steht ein Internetvideo. Wenig später meldet sich der Zürcher Roger Jost für eine Atlantik-Regatta an.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump erhöht Zölle wegen Zwangsarbeit – wie geht das?",
+      "url": "https://www.20min.ch/story/qa-trump-erhoeht-zoelle-wegen-zwangsarbeit-wie-geht-das-103608097",
+      "summary": "Die Schweiz setze Massnahmen gegen Zwangsarbeit nicht ausreichend durch, so der Vorwurf aus den USA. Wie das geht – und was die Schweiz tun kann.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Neue Angriffe: Ukraine nimmt russischen Versandriesen ins Visier",
+      "url": "https://www.20min.ch/video/st-petersburg-russland-neue-angriffe-ukraine-nimmt-russischen-versandriesen-ins-visier-103608086",
+      "summary": "Am Freitagmorgen trafen ukrainische Drohnen ein weiteres Lagerhaus von Wildberries, Russlands grösstem Onlinehändler. Das Gebäude steht nahe St. Petersburg. Die schwarzen Rauchsäulen waren von Weitem ",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Diese 10 Inseln solltest du jetzt besuchen – bevor es alle tun",
+      "url": "https://www.20min.ch/story/island-hot-list-2026-diese-10-inseln-solltest-du-jetzt-buchen-103607684",
+      "summary": "Eine Reiseplattform hat zehn Inseln gekürt, die in vergangener Zeit die Aufmerksamkeit von Touristen auf sich gezogen haben. An der Spitze liegt St. Lucia, auch drei europäische Inseln haben es unter ",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Erkennst du diesen Filmstar trotz Kostüm?",
+      "url": "https://www.20min.ch/story/johnny-depp-comic-con-ebenezer-scrooge-103608040",
+      "summary": "Hut, Gehstock, graue Bartstoppeln: Johnny Depp ist bei der Comic-Con in San Diego unangekündigt im Kostüm von Ebenezer Scrooge aufgetreten. Der Schauspieler blieb dabei durchgehend in seiner Rolle und",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tiefbauamt-Fake-Plakat spottet über Lämpliverbot der Stadt",
+      "url": "https://www.20min.ch/story/fake-plakat-am-zuercher-hb-spottet-ueber-lichterkettenverbot-103607328",
+      "summary": "Unbekannte haben ein gefälschtes Plakat der Stadt Zürich an einem defekten Lift beim Hauptbahnhof angebracht. Der Aushang spottet über das Lichterkettenverbot der Stadt – und ultimativ über die Zürche",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Brände am Atlantik: Frankreich evakuiert 63’000 Menschen – sogar Schiffe im Einsatz",
+      "url": "https://www.tagesanzeiger.ch/waldbraende-frankreich-63000-menschen-evakuiert-183807307423",
+      "summary": "An Frankreichs Atlantikküste breiten sich Waldbrände auf über 12’500 Hektar aus. Innenminister Nuñez lässt Evakuierungen per Schiff organisieren, 2200 Feuerwehrleute kämpfen gegen die Flammen.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Waldbrände in Spanien: Madrid ruft erstmals wegen Waldbränden den nationalen Notstand aus",
+      "url": "https://www.tagesanzeiger.ch/waldbraende-spanien-madrid-region-im-notstand-487067294904",
+      "summary": "Über 11’500 Menschen mussten im Grossraum Madrid ihre Häuser verlassen. Starke Windböen drohen die Lage am Freitag weiter zu verschärfen.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Heftige Unwetter: Mindestens 50 Tote bei Monsun-Überschwemmungen in Indien",
+      "url": "https://www.tagesanzeiger.ch/monsun-ueberschwemmungen-in-indien-mindestens-50-tote-235315160378",
+      "summary": "Im nordostindischen Staat Assam hat der Brahmaputra nach tagelangem Regen fast 900 Dörfer überschwemmt. Der Klimawandel macht die Monsunregenfälle in Südasien immer heftiger.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Lachen: E-Bike-Fahrer nach Sturz am Kopf verletzt",
+      "url": "https://www.tagesanzeiger.ch/e-bike-sturz-in-lachen-62-jaehriger-schwer-am-kopf-verletzt-882284558211",
+      "summary": "Ein medizinisches Problem löste den Unfall aus. Der Mann trug keinen Velohelm.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Polizeieinsatz in Laufen: Schon wieder Einbruchsversuch in Waffengeschäft – was steckt dahinter?",
+      "url": "https://www.bazonline.ch/laufen-einbruchsversuch-in-waffengeschaeft-gescheitert-905802873735",
+      "summary": "In der Nacht auf Donnerstag versuchten Unbekannte gewaltsam in ein Waffengeschäft einzubrechen. Rund 23 solcher Fälle wurden seit Januar in der Schweiz registriert.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kanzler Merz baut deutsche Regierung um",
+      "url": "https://www.zentralplus.ch/news/kanzler-merz-baut-deutsche-regierung-um-2887000/",
+      "summary": "Bundeskanzler Friedrich Merz baut seine Regierung nach dem Rücktritt von Kanzleramtschef Jens Spahn um. Spahn war wegen der Leihmutter-Affäre zurückgetreten. Sein Nachfolger als Chef des Bundeskanzler",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Swissgrid zahlt Millionen für die IT-Sicherheit",
+      "url": "https://www.inside-it.ch/swissgrid-zahlt-millionen-fuer-die-it-sicherheit-20260724",
+      "summary": "Bis zu 13,7 Millionen Franken erhalten Oneconsult und Redguard. Sie sollen die IT-Sicherheit bei Swissgrid bis 2031 unterstützen.",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Fields-Medaille: Hong Wang gewinnt als dritte Frau überhaupt den «Nobelpreis für Mathematik»",
+      "url": "https://www.nzz.ch/wissenschaft/fields-medaille-hong-wang-gewinnt-als-dritte-frau-ueberhaupt-den-nobelpreis-fuer-mathematik-ld.10016440",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Gute Zahlen Aktie im Keller ein Neues Muster an der Börse 2",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/gute-zahlen-aktie-im-keller-ein-neues-muster-an-der-boerse-2-2099332",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Porta Alpina Sedruner Neat Schacht ist Heisser Kandidat für Mega Experiment",
+      "url": "https://www.suedostschweiz.ch/graubuenden/porta-alpina-sedruner-neat-schacht-ist-heisser-kandidat-fuer-mega-experiment-2097902",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Glarner am Brünig Schwinget Roger Rychen Verfolgt ein Hohes Ziel Feldmann vor Premiere",
+      "url": "https://www.suedostschweiz.ch/glarus/glarner-am-bruenig-schwinget-roger-rychen-verfolgt-ein-hohes-ziel-feldmann-vor-premiere-2097692",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Verkehrshaus der Schweiz Hier Erlebt Man die Schweiz als Land der Zahnradbahnen",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/verkehrshaus-der-schweiz-hier-erlebt-man-die-schweiz-als-land-der-zahnradbahnen-ld.4202857",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Wasserversorgung Büron Nimmt Notverbund mit Geuensee in Betrieb",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/wasserversorgung-bueron-nimmt-notverbund-mit-geuensee-in-betrieb-ld.4207395",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Juso Fordert vom Kanton Aargau Sechs Massnahmen",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/juso-fordert-vom-kanton-aargau-sechs-massnahmen-ld.4207361",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Kleine Basler Designgeschichte vom Wickelfisch zur Swissair",
+      "url": "https://www.bzbasel.ch/kultur/basel/kleine-basler-designgeschichte-vom-wickelfisch-zur-swissair-ld.4207094",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Feuerwerk Belastet Tiere Paar Flieht mit Geissen auf Alp",
+      "url": "https://www.bzbasel.ch/basel/baselland/feuerwerk-belastet-tiere-paar-flieht-mit-geissen-auf-alp-ld.4206000",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Juar Basel Startet Positive Inflüncing für Jugendliche",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/juar-basel-startet-positive-influencing-fuer-jugendliche-ld.4206958",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Ggz Ferienpass Kinder Bevorzugen Kreative Angebote",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/ggz-ferienpass-kinder-bevorzugen-kreative-angebote-ld.4206335",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine greift erneut russischer Versandhänlder Wildberrries an",
+      "url": "https://www.watson.ch/international/videos/869513631-ukraine-greift-erneut-russischer-versandhaenlder-wildberrries-an",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trockenheit: Rapperswil-Jona SG dreht öffentlichen Brunnen das Wasser ab",
+      "url": "https://www.watson.ch/schweiz/extremwetter/879913235-trockenheit-rapperswil-jona-sg-dreht-oeffentlichen-brunnen-das-wasser-ab",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Volkswagen: VW-Gewinn bricht um ein Drittel ein",
+      "url": "https://www.watson.ch/wirtschaft/wirtschafts-news/210136696-volkswagen-vw-gewinn-bricht-um-ein-drittel-ein",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Behörden erteilen Wohnbewilligung nach erneuter Begehung",
+      "url": "https://www.freiburger-nachrichten.ch/story/278740/beh%C3%B6rden-erteilen-wohnbewilligung-nach-erneuter-begehung",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "In Luzern erlebt man die Schweiz als Land der Zahnradbahnen",
+      "url": "https://www.bote.ch/nachrichten/kultur/verkehrshaus-der-schweiz-hier-erlebt-man-die-schweiz-als-land-der-zahnradbahnen-art-1714104",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "25 Jahre GGZ-Ferienpass: Warum Dominosteine Robotern Konkurrenz machen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ggz-ferienpass-kinder-bevorzugen-kreative-angebote-art-1714103",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Geuensee hilft Büron aus: Wasserversorgung dank Notverbund stabilisiert",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/wasserversorgung-bueron-nimmt-notverbund-mit-geuensee-in-betrieb-art-1714100",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Unispital Wirren Eskalieren Comms Beraterin Übernimmt",
+      "url": "https://insideparadeplatz.ch/2026/07/24/unispital-wirren-eskalieren-comms-beraterin-uebernimmt/",
+      "summary": "",
+      "published": "2026-07-24T09:01:43.556156+00:00"
     }
   ]
 }
