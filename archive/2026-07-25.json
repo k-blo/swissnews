@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24T23:01:43.309357+00:00",
+  "generated": "2026-07-24T23:31:50.069277+00:00",
   "date": "2026-07-25",
-  "count": 21,
+  "count": 22,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -149,6 +149,13 @@
       "url": "https://www.tagesanzeiger.ch/chefanklaeger-des-weltstrafgerichts-entlassen-347881871934",
       "summary": "Seit zwei Jahren belastet die Affäre das Gericht mit Sitz in Den Haag schwer. Nun muss Chefankläger Khan seinen Posten räumen. Der Druck auf die Institution dürfte dennoch nicht weniger werden.",
       "published": "2026-07-24T23:01:43.309357+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "UNO: Volker Türk wurde wiedergewählt",
+      "url": "https://www.zentralplus.ch/news/uno-volker-tuerk-wurde-wiedergewaehlt-2887181/",
+      "summary": "Volker Türk ist für weitere vier Jahre zum UNO-Hochkommissar für Menschenrechte gewählt worden. 144 Staaten gaben dem Österreicher in der UNO-Generalversammlung ihre Stimme. Der Abstimmung war eine De",
+      "published": "2026-07-24T23:31:50.069277+00:00"
     }
   ]
 }
