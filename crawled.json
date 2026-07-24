@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24T22:31:21.104156+00:00",
+  "generated": "2026-07-24T23:01:43.309357+00:00",
   "date": "2026-07-25",
-  "count": 20,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -142,6 +142,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/das-schwyzer-wolfstheater-wenn-politiker-statt-ferien-lieber-wahlkampf-machen-art-1714116",
       "summary": "",
       "published": "2026-07-24T22:31:21.104156+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Missbrauchsvorwürfen: Chefankläger des Weltstrafgerichts entlassen",
+      "url": "https://www.tagesanzeiger.ch/chefanklaeger-des-weltstrafgerichts-entlassen-347881871934",
+      "summary": "Seit zwei Jahren belastet die Affäre das Gericht mit Sitz in Den Haag schwer. Nun muss Chefankläger Khan seinen Posten räumen. Der Druck auf die Institution dürfte dennoch nicht weniger werden.",
+      "published": "2026-07-24T23:01:43.309357+00:00"
     }
   ]
 }
