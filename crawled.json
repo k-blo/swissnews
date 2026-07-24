@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24T00:01:22.612742+00:00",
+  "generated": "2026-07-24T00:31:35.658026+00:00",
   "date": "2026-07-24",
-  "count": 15,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -107,6 +107,20 @@
       "url": "https://www.tagesanzeiger.ch/trump-zoelle-schweizer-exporte-neu-mit-12-5-prozent-belastet-833862687104",
       "summary": "Der Supreme Court zwang Trump zur Rückzahlung illegaler Zölle, seine Notlösung verfiel am Freitag. Nun stützt sich der Präsident auf andere Gesetze. Die Schweiz kommt dabei schlechter weg als die EU.",
       "published": "2026-07-23T23:31:21.530471+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Überschätzte Chemieunfall von Seveso",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/der-ueberschaetzte-chemieunfall-von-seveso",
+      "summary": "",
+      "published": "2026-07-24T00:31:35.658026+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Hilfe im Tausch Gegen Sex",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/hilfe-im-tausch-gegen-sex",
+      "summary": "",
+      "published": "2026-07-24T00:31:35.658026+00:00"
     }
   ]
 }
