@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T00:02:21.086405+00:00",
+  "generated": "2026-07-25T00:32:11.322485+00:00",
   "date": "2026-07-25",
-  "count": 24,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/278867/nicht-ohne-die-wasserflasche-in-dieser-tessiner-kleinstadt-drohen-hundebisibussen",
       "summary": "",
       "published": "2026-07-25T00:02:21.086405+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flugunglück in Brasilien: Eisbildung und Fehlreaktion führten zum Tod von 62 Menschen",
+      "url": "https://www.tagesanzeiger.ch/voepass-absturz-defektes-enteisungssystem-war-hauptursache-749350777529",
+      "summary": "Die Piloten sprachen über Privates, während Warnmeldungen im Cockpit aufblitzten. Welche Fehler führten zur Tragödie von 2024, bei der 62 Menschen starben?",
+      "published": "2026-07-25T00:32:11.322485+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ihr Armseligen Stau Beschimpfer",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/ihr-armseligen-stau-beschimpfer",
+      "summary": "",
+      "published": "2026-07-25T00:32:11.322485+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Das Bundesamt für Justiz ist Nicht Mehr der Neutrale Schiedsrichter",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/das-bundesamt-fuer-justiz-ist-nicht-mehr-der-neutrale-schiedsrichter",
+      "summary": "",
+      "published": "2026-07-25T00:32:11.322485+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "So Bunt Treiben es die Velorowdies",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/so-bunt-treiben-es-die-velorowdies",
+      "summary": "",
+      "published": "2026-07-25T00:32:11.322485+00:00"
     }
   ]
 }
