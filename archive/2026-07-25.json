@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24T23:31:50.069277+00:00",
+  "generated": "2026-07-25T00:02:21.086405+00:00",
   "date": "2026-07-25",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -156,6 +156,20 @@
       "url": "https://www.zentralplus.ch/news/uno-volker-tuerk-wurde-wiedergewaehlt-2887181/",
       "summary": "Volker Türk ist für weitere vier Jahre zum UNO-Hochkommissar für Menschenrechte gewählt worden. 144 Staaten gaben dem Österreicher in der UNO-Generalversammlung ihre Stimme. Der Abstimmung war eine De",
       "published": "2026-07-24T23:31:50.069277+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Eisbildung und Fehlreaktion führten zum Tod von 62 Menschen",
+      "url": "https://www.20min.ch/story/flugunglueck-in-brasilien-eisbildung-und-fehlreaktion-fuehrten-zum-tod-von-62-menschen-103608374",
+      "summary": "Die Piloten sprachen über Privates, während Warnmeldungen im Cockpit aufblitzten. Welche Fehler führten zur Tragödie von 2024, bei der 62 Menschen starben?",
+      "published": "2026-07-25T00:02:21.086405+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nicht ohne die Wasserflasche: In dieser Tessiner Kleinstadt drohen Hundebisi-Bussen",
+      "url": "https://www.freiburger-nachrichten.ch/story/278867/nicht-ohne-die-wasserflasche-in-dieser-tessiner-kleinstadt-drohen-hundebisibussen",
+      "summary": "",
+      "published": "2026-07-25T00:02:21.086405+00:00"
     }
   ]
 }
