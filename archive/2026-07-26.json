@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T22:32:30.878908+00:00",
+  "generated": "2026-07-25T23:01:48.641902+00:00",
   "date": "2026-07-26",
-  "count": 5,
+  "count": 7,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -37,6 +37,20 @@
       "url": "https://www.watson.ch/international/deutschland/192933159-csd-berlin-auto-in-menschenmenge-gerast-mindestens-ein-todesopfer",
       "summary": "",
       "published": "2026-07-25T22:32:30.878908+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fcl Verliert Gegen Thun Noten Simoni Patzt Ferreira Sorgt für Akzente",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fcl-verliert-gegen-thun-noten-simoni-patzt-ferreira-sorgt-fuer-akzente-ld.4207926",
+      "summary": "",
+      "published": "2026-07-25T23:01:48.641902+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwache FCL-Noten bei der Niederlage gegen Thun: Der neue Goalie Simoni patzt, Ferreira setzt Akzente",
+      "url": "https://www.bote.ch/nachrichten/sport/fcl-verliert-gegen-thun-noten-simoni-patzt-ferreira-sorgt-fuer-akzente-art-1714273",
+      "summary": "",
+      "published": "2026-07-25T23:01:48.641902+00:00"
     }
   ]
 }
