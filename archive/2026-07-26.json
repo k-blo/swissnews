@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T22:02:20.588502+00:00",
+  "generated": "2026-07-25T22:32:30.878908+00:00",
   "date": "2026-07-26",
-  "count": 2,
+  "count": 5,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -16,6 +16,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/278479/alle-mussten-um-ihre-vertr%C3%A4ge-k%C3%A4mpfen",
       "summary": "",
       "published": "2026-07-25T22:02:20.588502+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Das bedeutet der tiefe Wasserstand für die Stromproduktion: «Langfristig weniger Wasser und weniger Strom»",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/das-bedeutet-der-tiefe-wasserstand-fuer-die-stromproduktion-langfristig-weniger-wasser-und-weniger-strom-id22133253.html",
+      "summary": "Das Kraftwerk Rheinfelden dagegen spürt die Trockenheit unmittelbar. Der Pegelstand unterhalb der Turbinen ist rekordtief.",
+      "published": "2026-07-25T22:32:30.878908+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Alles zum FCB-Spiel in Genf: Lichtsteiner und Herrmann beweisen ein glückliches Händchen",
+      "url": "https://www.bazonline.ch/fc-basel-lichtsteiner-und-herrmann-mit-gluecklichem-haendchen-460320678676",
+      "summary": "Beim 1:0-Sieg gegen Servette machen letztlich drei Neuzugänge den Unterschied – ohne restlos zu überzeugen.",
+      "published": "2026-07-25T22:32:30.878908+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "CSD Berlin: Auto in Menschenmenge gerast, mindestens ein Todesopfer",
+      "url": "https://www.watson.ch/international/deutschland/192933159-csd-berlin-auto-in-menschenmenge-gerast-mindestens-ein-todesopfer",
+      "summary": "",
+      "published": "2026-07-25T22:32:30.878908+00:00"
     }
   ]
 }
