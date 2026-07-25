@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T21:01:54.908034+00:00",
+  "generated": "2026-07-25T21:32:17.863361+00:00",
   "date": "2026-07-25",
-  "count": 534,
+  "count": 537,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3740,6 +3740,27 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/berliner-csd-abgebrochen-nach-vorfall-mit-auto-art-1714272",
       "summary": "",
       "published": "2026-07-25T21:01:54.908034+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Berliner Christopher Street Day nach Vorfall abgebrochen – mehrere Verletzte gemeldet",
+      "url": "https://www.nzz.ch/panorama/berliner-christopher-street-day-nach-vorfall-abgebrochen-mehrere-verletzte-gemeldet-ld.10017016",
+      "summary": "",
+      "published": "2026-07-25T21:32:17.863361+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Der Fc Basel Gewinnt in Genf mit Vier Neuzugängen in der Startelf",
+      "url": "https://www.bzbasel.ch/sport/fc-basel/der-fc-basel-gewinnt-in-genf-mit-vier-neuzugaengen-in-der-startelf-ld.4207515",
+      "summary": "",
+      "published": "2026-07-25T21:32:17.863361+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Berlin: Auto am CSD in Menschenmenge gerast, Tatverdächtiger flüchtig",
+      "url": "https://www.watson.ch/international/deutschland/192933159-berlin-auto-am-csd-in-menschenmenge-gerast-tatverdaechtiger-fluechtig",
+      "summary": "",
+      "published": "2026-07-25T21:32:17.863361+00:00"
     }
   ]
 }
