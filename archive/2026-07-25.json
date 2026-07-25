@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T07:32:24.298069+00:00",
+  "generated": "2026-07-25T07:35:56.780464+00:00",
   "date": "2026-07-25",
-  "count": 246,
+  "count": 247,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1724,6 +1724,13 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/unfall-in-rain-zwei-verletzte-art-1714257",
       "summary": "",
       "published": "2026-07-25T07:32:24.298069+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Inferno in Südeuropa: Flammen rücken auf Wohngebiete vor",
+      "url": "https://www.20min.ch/story/frankreich-und-spanien-inferno-in-suedeuropa-flammen-ruecken-auf-wohngebiete-vor-103608414",
+      "summary": "Waldbrände halten Südeuropa in Atem. In Frankreich und Spanien kämpfen Einsatzkräfte gegen mehrere Grossfeuer, Tausende Menschen mussten fliehen.",
+      "published": "2026-07-25T07:35:56.780464+00:00"
     }
   ]
 }
