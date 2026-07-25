@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T06:18:47.896279+00:00",
+  "generated": "2026-07-25T06:32:24.458032+00:00",
   "date": "2026-07-25",
-  "count": 225,
+  "count": 227,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1577,6 +1577,20 @@
       "url": "https://www.watson.ch/blogs/sektenblog/811016049-sektenhafte-dynamiken-stecken-im-kern-aller-glaubensgemeinschaften",
       "summary": "",
       "published": "2026-07-25T06:09:47.715677+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Ägeriseelauf 2026 die Bilder",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/aegeriseelauf-2026-die-bilder-ld.4207922",
+      "summary": "",
+      "published": "2026-07-25T06:32:24.458032+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Erneut gescheitert: Jaussis fünftes Ausstandsgesuch gegen Bourquin bleibt erfolglos",
+      "url": "https://www.freiburger-nachrichten.ch/story/278773/erneut-gescheitert-jaussis-f%C3%BCnftes-ausstandsgesuch-gegen-bourquin-bleibt-erfolglos",
+      "summary": "",
+      "published": "2026-07-25T06:32:24.458032+00:00"
     }
   ]
 }
