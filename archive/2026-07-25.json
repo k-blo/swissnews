@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T01:01:31.256803+00:00",
+  "generated": "2026-07-25T01:31:37.310955+00:00",
   "date": "2026-07-25",
-  "count": 29,
+  "count": 31,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -205,6 +205,20 @@
       "url": "https://www.zentralplus.ch/news/paramount-setzt-vorerst-den-kauf-aus-2887183/",
       "summary": "Der Hollywood-Konzern Paramount setzt den Kauf des Konkurrenten Warner Brothers nach der Wettbewerbsklage von zwölf US-Bundesstaaten vorerst aus. Die Übernahme solle erst nach einem Entscheid zu der K",
       "published": "2026-07-25T01:01:31.256803+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VEN: Austritt aus Weltstrafgericht",
+      "url": "https://www.zentralplus.ch/news/ven-austritt-aus-weltstrafgericht-2887187/",
+      "summary": "Venezuela hat seinen Austritt aus dem Internationalen Strafgerichtshof angekündigt. Die Regierung des südamerikanischen Landes begründete ihren Schritt damit, dass der Gerichtshof die Länder des Globa",
+      "published": "2026-07-25T01:31:37.310955+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Saudi-Arabien greift Huthi-Miliz an",
+      "url": "https://www.zentralplus.ch/news/saudi-arabien-greift-huthi-miliz-an-2887185/",
+      "summary": "Die jemenitische Huthi-Miliz hat im Roten Meer erneut einen Öltanker unter der Flagge Saudi-Arabiens angegriffen. Der Rumpf des Schiffs sei dabei beschädigt worden, berichtet die staatliche saudische ",
+      "published": "2026-07-25T01:31:37.310955+00:00"
     }
   ]
 }
