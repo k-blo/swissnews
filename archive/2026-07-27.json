@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T23:02:32.165461+00:00",
+  "generated": "2026-07-26T23:32:24.548342+00:00",
   "date": "2026-07-27",
-  "count": 15,
+  "count": 18,
   "articles": [
     {
       "source": "Persönlich",
@@ -107,6 +107,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/am-ende-jubelten-auf-dem-bruenig-gleich-vier-sieger-art-1714327",
       "summary": "",
       "published": "2026-07-26T23:02:32.165461+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Syrien will Aussenpolitik verändern",
+      "url": "https://www.zentralplus.ch/news/syrien-will-aussenpolitik-veraendern-2887410/",
+      "summary": "Der syrische Interimspräsident Ahmed al-Scharaa hat im Fernsehsender Al Jazeera eine Neuausrichtung der Aussenpolitik seines Landes angekündigt. Syrien verhandle derzeit über ein Sicherheitsabkommen m",
+      "published": "2026-07-26T23:32:24.548342+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erneut Protest gegen Massentourismus auf Mallorca",
+      "url": "https://www.watson.ch/international/spanien/720267693-erneut-protest-gegen-massentourismus-auf-mallorca",
+      "summary": "",
+      "published": "2026-07-26T23:32:24.548342+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA bestätigen Verlegung von Militär in den Nahen Osten",
+      "url": "https://www.watson.ch/international/iran/258875279-usa-bestaetigen-verlegung-von-militaer-in-den-nahen-osten",
+      "summary": "",
+      "published": "2026-07-26T23:32:24.548342+00:00"
     }
   ]
 }
