@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-25T23:32:11.641966+00:00",
+  "generated": "2026-07-26T00:02:12.598359+00:00",
   "date": "2026-07-26",
-  "count": 7,
+  "count": 9,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -51,6 +51,20 @@
       "url": "https://www.bote.ch/nachrichten/sport/fcl-verliert-gegen-thun-noten-simoni-patzt-ferreira-sorgt-fuer-akzente-art-1714273",
       "summary": "",
       "published": "2026-07-25T23:01:48.641902+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Feuer in Wohnheim in Allschwil – sieben Ambulanzen im Einsatz",
+      "url": "https://www.20min.ch/story/brand-in-basel-landschaft-feuer-in-wohnheim-in-allschwil-103608845",
+      "summary": "In Allschwil BL hat es in einem Wohnheim für betreutes Wohnen gebrannt.",
+      "published": "2026-07-26T00:02:12.598359+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Auto rast beim Berliner Christopher Street Day in Menschenmenge – mehrere Verletzte",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-07-25/auto-rast-beim-berliner-christopher-street-day-in-menschenmenge",
+      "summary": "Laut deutschen Medienberichten ist am Berliner Christopher Street Day (CSD) ein Auto in eine Menschenmenge gerast. Die Polizei bestätigte, dass eine «Polizeilage» vorliege. Noch ist vieles unklar.",
+      "published": "2026-07-26T00:02:12.598359+00:00"
     }
   ]
 }
