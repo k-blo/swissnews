@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T00:02:12.598359+00:00",
+  "generated": "2026-07-26T00:32:02.347155+00:00",
   "date": "2026-07-26",
-  "count": 9,
+  "count": 14,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -65,6 +65,41 @@
       "url": "https://www.shn.ch/ueberregionales/ausland/2026-07-25/auto-rast-beim-berliner-christopher-street-day-in-menschenmenge",
       "summary": "Laut deutschen Medienberichten ist am Berliner Christopher Street Day (CSD) ein Auto in eine Menschenmenge gerast. Die Polizei bestätigte, dass eine «Polizeilage» vorliege. Noch ist vieles unklar.",
       "published": "2026-07-26T00:02:12.598359+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Toter und Verletzte beim CSD – Was wir wissen und was nicht",
+      "url": "https://www.20min.ch/story/amokfahrt-in-berlin-toter-und-verletzte-beim-csd-was-wir-wissen-und-was-nicht-103608846",
+      "summary": "Hunderttausende feierten friedlich – dann wird der Christopher Street Day in Berlin abgebrochen. Was bisher bekannt ist.",
+      "published": "2026-07-26T00:32:02.347155+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vorfall in Berlin: Toter und Verletzte beim CSD – Was wir wissen und was nicht",
+      "url": "https://www.tagesanzeiger.ch/anschlag-berlin-auto-faehrt-in-csd-menge-ein-toter-870947428908",
+      "summary": "Hunderttausende feierten friedlich – dann wird der Christopher Street Day in Berlin abgebrochen. Was bisher bekannt ist.",
+      "published": "2026-07-26T00:32:02.347155+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Nato Westerweiterung Österreich Tritt der Nato bei",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/nato-westerweiterung-oesterreich-tritt-der-nato-bei",
+      "summary": "",
+      "published": "2026-07-26T00:32:02.347155+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Film über ein Gescheitertes Sozialistisches Experiment der Falsche Schweden Mythos",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/film-ueber-ein-gescheitertes-sozialistisches-experiment-der-falsche-schweden-mythos",
+      "summary": "",
+      "published": "2026-07-26T00:32:02.347155+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Händler verzweifeln nach ukrainischen Angriffe auf Wildberries",
+      "url": "https://www.watson.ch/international/russland/609394562-haendler-verzweifeln-nach-ukrainischen-angriffe-auf-wildberries",
+      "summary": "",
+      "published": "2026-07-26T00:32:02.347155+00:00"
     }
   ]
 }
