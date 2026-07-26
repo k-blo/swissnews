@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T03:01:51.313508+00:00",
+  "generated": "2026-07-26T03:32:01.589920+00:00",
   "date": "2026-07-26",
-  "count": 63,
+  "count": 68,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -443,6 +443,41 @@
       "url": "https://www.bote.ch/nachrichten/kultur/christoph-hefti-teppiche-als-kunst-im-zuercher-museum-art-1714274",
       "summary": "",
       "published": "2026-07-26T03:01:51.313508+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Editorial über die Schweiz, die Macht und das Misstrauen: Trump und Infantino. Eine Nachlese",
+      "url": "https://www.blick.ch/meinung/editorial-ueber-die-schweiz-die-macht-und-das-misstrauen-trump-und-infantino-eine-nachlese-id22135355.html",
+      "summary": "Sie könnten kaum unterschiedlicher sein – und lösen in der Schweiz dieselbe Reaktion aus. An diesen beiden Männern zeigt sich ein Charakteristikum dieses Landes: das tief sitzende Misstrauen gegenüber",
+      "published": "2026-07-26T03:32:01.589920+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Vollzeitjob, Rechnungen bezahlt, Leumund einwandfrei – aber monatelang keine Wohnung. Wie kann das sein?",
+      "url": "https://www.nzz.ch/zuerich/vollzeitjob-rechnungen-bezahlt-leumund-einwandfrei-aber-monatelang-keine-wohnung-wie-kann-das-sein-ld.10015921",
+      "summary": "",
+      "published": "2026-07-26T03:32:01.589920+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Eine Pflegehelferin überrollt eine auf der Strasse liegende verletzte Fussgängerin mit dem Auto und begeht Fahrerflucht",
+      "url": "https://www.nzz.ch/zuerich/zuerich-pflegehelferin-ueberfaehrt-frau-und-begeht-dann-fahrerflucht-ld.10014313",
+      "summary": "",
+      "published": "2026-07-26T03:32:01.589920+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ärzte ohne Grenzen fordert günstigeren HIV-Schutz",
+      "url": "https://www.watson.ch/international/gesundheit/200573219-aerzte-ohne-grenzen-fordert-guenstigeren-hiv-schutz",
+      "summary": "",
+      "published": "2026-07-26T03:32:01.589920+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So viele Masern-Fälle in USA wie seit 35 Jahren nicht mehr",
+      "url": "https://www.watson.ch/international/gesundheit/579423526-so-viele-masern-faelle-in-usa-wie-seit-35-jahren-nicht-mehr",
+      "summary": "",
+      "published": "2026-07-26T03:32:01.589920+00:00"
     }
   ]
 }
