@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T11:32:22.697076+00:00",
+  "generated": "2026-07-26T12:02:08.068653+00:00",
   "date": "2026-07-26",
-  "count": 265,
+  "count": 276,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1857,6 +1857,83 @@
       "url": "https://www.freiburger-nachrichten.ch/story/278697/kramer-f%C3%BChrt-nach-drei-g%C3%A4ngen-und-trifft-nun-auf-moser",
       "summary": "",
       "published": "2026-07-26T11:32:22.697076+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Tragödie am Blüemlisalphorn: Bergsteiger (†49) stirbt nach Sturz in Gletscherspalte",
+      "url": "https://www.blick.ch/schweiz/tragoedie-am-blueemlisalphorn-bergsteiger-49-stirbt-nach-sturz-in-gletscherspalte-id22136318.html",
+      "summary": "Zwei Männer stürzten am Freitagnachmittag in eine Gletscherspalte am Blüemlisalphorn. Ein 49-jähriger Schweizer starb, sein Begleiter wurde leicht verletzt.",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Über 40 Meter abgestürzt: Polizei findet Vermisste tot auf",
+      "url": "https://www.20min.ch/story/waltensburg-gr-ueber-40-meter-abgestuerzt-polizei-findet-vermisste-tot-auf-103609006",
+      "summary": "Eine seit Freitagabend vermisste Frau ist am Samstag in Waltensburg bei einer umfangreichen Suchaktion tot aufgefunden worden. Die Seniorin war in unwegsamem Gelände abgestürzt.",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Auffälliger Ring im Liebesurlaub: Sind Abla und Olmo verlobt?",
+      "url": "https://www.20min.ch/story/laura-abla-und-dani-olmo-funkelnder-ring-sorgt-fuer-verlobungsgeruechte-103608901",
+      "summary": "Laura Abla und ihr Weltmeister Dani Olmo relaxen nach der WM. Der riesige Ring am Finger der Deutschen lässt ihre Fans spekulieren.",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kommt der Bevölkerungsdeckel nun über die Gemeinden?",
+      "url": "https://www.zentralplus.ch/news/kommt-der-bevoelkerungsdeckel-nun-ueber-die-gemeinden-2887364/",
+      "summary": "Die Schweiz hat die Initiative zur 10-Millionen-Schweiz abgelehnt. Aufgegeben hat die SVP die Idee nicht. Der Luzerner Nationalrat Franz Grüter liebäugelt mit kantonalen und kommunalen Initiativen. Di",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Buchhandel wächst weiter im ersten Halbjahr",
+      "url": "https://www.persoenlich.com/prcorporate-communication/buchhandel-wachst-weiter-im-ersten-halbjahr",
+      "summary": "Der Traditionskonzern hat den Umsatz im ersten Semster um 2,3 Prozent auf 55,4 Millionen Franken gesteigert. Gleichzeitig baut er sein Filialnetz weiter aus – während Konkurrentin Ex Libris ihre Läden",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sportclub Reiden",
+      "url": "https://www.luzernerzeitung.ch/sonderthemen/lagerdraht/sportclub-reiden-ld.4188386",
+      "summary": "",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Oldtimertreffen in Sarmenstorf Zieht Zahlreiche Besucher an",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/oldtimertreffen-in-sarmenstorf-zieht-zahlreiche-besucher-an-ld.4207260",
+      "summary": "",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Open Air Bütschwil Verläuft Friedlich Rund 2000 Gäste vor Ort",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/open-air-buetschwil-verlaeuft-friedlich-rund-2000-gaeste-vor-ort-ld.4208015",
+      "summary": "",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Aarburg Wasserfest Trotz Feuerwerksabsage Gut Besucht",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/aarburg-wasserfest-trotz-feuerwerksabsage-gut-besucht-ld.4206580",
+      "summary": "",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Werden die F-35 nochmals teurer?",
+      "url": "https://www.freiburger-nachrichten.ch/story/278953/werden-die-f35-nochmals-teurer",
+      "summary": "",
+      "published": "2026-07-26T12:02:08.068653+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nach intensivem Kampf: Kramer verliert gegen Moser",
+      "url": "https://www.freiburger-nachrichten.ch/story/278697/nach-intensivem-kampf-kramer-verliert-gegen-moser",
+      "summary": "",
+      "published": "2026-07-26T12:02:08.068653+00:00"
     }
   ]
 }
