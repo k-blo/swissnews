@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T01:02:52.346609+00:00",
+  "generated": "2026-07-26T01:32:08.561515+00:00",
   "date": "2026-07-26",
-  "count": 16,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -114,6 +114,27 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/301861635-immer-mehr-rechenzentren-in-der-schweiz-aber-auch-immer-mehr-kritik",
       "summary": "",
       "published": "2026-07-26T01:02:52.346609+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Offene Fragen: Toter und Verletzte beim CSD – Was wir wissen und was nicht",
+      "url": "https://www.bernerzeitung.ch/anschlag-berlin-auto-faehrt-in-csd-menge-ein-toter-870947428908",
+      "summary": "Hunderttausende feierten friedlich – dann wird der Christopher Street Day in Berlin abgebrochen. Was bisher bekannt ist.",
+      "published": "2026-07-26T01:32:08.561515+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Polizei: Tatverdächtiger identifiziert",
+      "url": "https://www.zentralplus.ch/news/polizei-tatverdaechtiger-identifiziert-2887320/",
+      "summary": "Nach dem Angriff am Rande des Christopher Street Days in Berlin hat die Polizei nach eigenen Angaben einen mutmasslichen Verdächtigen identifiziert. «Der Mann ist polizeibekannt und wird der islamisti",
+      "published": "2026-07-26T01:32:08.561515+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bolsonaros Sohn will Präsident werden",
+      "url": "https://www.zentralplus.ch/news/bolsonaros-sohn-will-praesident-werden-2-2887318/",
+      "summary": "Der rechte Politiker Flávio Bolsonaro ist in Brasilien von seiner Partei zum Präsidentschaftskandidaten gekürt worden. Der älteste Sohn des wegen eines versuchten Staatsstreichs zu mehr als 27 Jahren ",
+      "published": "2026-07-26T01:32:08.561515+00:00"
     }
   ]
 }
