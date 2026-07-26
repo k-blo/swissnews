@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T00:32:02.347155+00:00",
+  "generated": "2026-07-26T01:02:52.346609+00:00",
   "date": "2026-07-26",
-  "count": 14,
+  "count": 16,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -100,6 +100,20 @@
       "url": "https://www.watson.ch/international/russland/609394562-haendler-verzweifeln-nach-ukrainischen-angriffe-auf-wildberries",
       "summary": "",
       "published": "2026-07-26T00:32:02.347155+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "CSD in Berlin: Mutmasslicher Verdächtiger identifiziert",
+      "url": "https://www.watson.ch/international/deutschland/866767483-csd-in-berlin-mutmasslicher-verdaechtiger-identifiziert",
+      "summary": "",
+      "published": "2026-07-26T01:02:52.346609+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Immer mehr Rechenzentren in der Schweiz – aber auch immer mehr Kritik",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/301861635-immer-mehr-rechenzentren-in-der-schweiz-aber-auch-immer-mehr-kritik",
+      "summary": "",
+      "published": "2026-07-26T01:02:52.346609+00:00"
     }
   ]
 }
