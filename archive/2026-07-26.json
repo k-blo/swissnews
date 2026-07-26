@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T06:32:19.149812+00:00",
+  "generated": "2026-07-26T07:02:23.437252+00:00",
   "date": "2026-07-26",
-  "count": 128,
+  "count": 133,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -898,6 +898,41 @@
       "url": "https://www.watson.ch/international/auto/437947551-neun-verletzte-bei-auffahrunfall-auf-a9-in-deutschland",
       "summary": "",
       "published": "2026-07-26T06:32:19.149812+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Neue Regeln für Solarstrom – Lupsingen setzt auf Strom aus dem eigenen Dorf: Wie geht das?",
+      "url": "https://www.srf.ch/news/schweiz/neue-regeln-fuer-solarstrom-lupsingen-setzt-auf-strom-aus-dem-eigenen-dorf-wie-geht-das",
+      "summary": "Neu sind Solarstrombörsen für ganze Gemeinden erlaubt. Lupsingen BL packt die Chance und hat nun einen der grössten.",
+      "published": "2026-07-26T07:02:23.437252+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Glückspilz knackt Millionen-Jackpot im Casino",
+      "url": "https://www.20min.ch/story/basel-glueckspilz-knackt-millionen-jackpot-im-casino-103608864",
+      "summary": "Am Samstagabend wurde im Grand Casino Basel der Swiss Jackpot geknackt. Der Gewinner oder die Gewinnerin ist nun über eine Million Franken reicher.",
+      "published": "2026-07-26T07:02:23.437252+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Merz: «Angriff auf unsere Gesellschaft»",
+      "url": "https://www.zentralplus.ch/news/merz-angriff-auf-unsere-gesellschaft-2887328/",
+      "summary": "Der Deutsche Bundeskanzler Friedrich Merz hat sich zum mutmasslichen Anschlag auf den Christopher Street Day in Berlin geäussert. Auf X spricht Merz von einer «abscheulichen Tat». Hunderttausende Mens",
+      "published": "2026-07-26T07:02:23.437252+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Super League: Christian Constantin hat mit Sion 2026/27 grosse Ziele",
+      "url": "https://www.watson.ch/sport/fc-sion/705086422-super-league-christian-constantin-hat-mit-sion-2026-27-grosse-ziele",
+      "summary": "",
+      "published": "2026-07-26T07:02:23.437252+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Transporter rast beim Berliner Christopher Street Day in Menschenmenge – ein Todesopfer, mehrere Verletzte",
+      "url": "https://www.freiburger-nachrichten.ch/story/278927/transporter-rast-beim-berliner-christopher-street-day-in-menschenmenge-ein-todesopfer-mehrere-verletzte",
+      "summary": "",
+      "published": "2026-07-26T07:02:23.437252+00:00"
     }
   ]
 }
