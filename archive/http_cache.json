@@ -4,7 +4,7 @@
     "etag": "\"b162007d611d408d7653d27adf7a5686\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17cd3-t8uIfdTHAmspKCp6/pvLNtCZ7dE\""
+    "etag": "W/\"17cd8-/XxI9+ZOnCkpbW2eJ4130/d6wYA\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
     "etag": "W/\"f450-Q0cdFZ5j1NHNF20W09YCBEQTeGc\""
@@ -16,14 +16,14 @@
     "last_modified": "Mon, 27 Jul 2026 01:05:12 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Mon, 27 Jul 2026 02:31:28 GMT"
+    "last_modified": "Mon, 27 Jul 2026 03:01:35 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Mon, 27 Jul 2026 02:11:20 GMT",
     "etag": "\"1785118280\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Mon, 27 Jul 2026 02:30:41 GMT"
+    "last_modified": "Mon, 27 Jul 2026 03:00:44 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -44,23 +44,23 @@
     "etag": "\"1785113080\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
-    "etag": "W/\"2d329-YKTp/qp2/aPCPZFt2sV4n8SPhgI\""
+    "etag": "W/\"2d2d4-Q2MkZqh+ctFslPcc07m7LBQJ0VQ\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=14": {
     "last_modified": "Wed, 22 Jul 2026 11:10:55 GMT",
     "etag": "\"1784718655\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Mon, 27 Jul 2026 02:30:44 GMT",
-    "etag": "W/\"1785119444-gzip\""
+    "last_modified": "Mon, 27 Jul 2026 03:00:25 GMT",
+    "etag": "W/\"1785121225-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "last_modified": "Mon, 20 Jul 2026 12:49:38 GMT",
     "etag": "\"7c05e8e18d9b51aeee2b30c61f84e331\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Sun, 26 Jul 2026 22:52:00 GMT",
-    "etag": "\"1785106320\""
+    "last_modified": "Mon, 27 Jul 2026 03:01:00 GMT",
+    "etag": "\"1785121260\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Sun, 26 Jul 2026 07:59:58 GMT",
