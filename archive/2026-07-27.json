@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T02:02:20.740657+00:00",
+  "generated": "2026-07-27T02:32:17.311772+00:00",
   "date": "2026-07-27",
-  "count": 38,
+  "count": 41,
   "articles": [
     {
       "source": "Persönlich",
@@ -268,6 +268,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/276477/1-august-in-der-region-unsere-tipps-f%C3%BCr-den-nationalfeiertag",
       "summary": "",
       "published": "2026-07-27T02:02:20.740657+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Wie der «Kampf gegen rechts» ausufert: Ein Mitarbeiter einer linken NGO erhebt schwere Vorwürfe",
+      "url": "https://www.nzz.ch/international/kampf-gegen-rechts-in-deutschland-ein-insider-uebt-kritik-am-ngo-komplex-ld.10016554",
+      "summary": "",
+      "published": "2026-07-27T02:32:17.311772+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Delegation des LC Schaffhausen bringt drei Medaillen in die Munotstadt",
+      "url": "https://www.shn.ch/sport/leichtathletik/2026-07-27/die-delegation-des-lc-schaffhausen-bringt-drei-medaillen-in-die",
+      "summary": "An der Schweizermeisterschaft sorgen Malin Rahm, Nadja Lüthi und Roman Sieber vom LC Schaffhausen für Furore.",
+      "published": "2026-07-27T02:32:17.311772+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schiesserei bei Bite of Seattle – Polizei spricht von mehreren Opfern",
+      "url": "https://www.watson.ch/international/usa/409522767-schiesserei-bei-bite-of-seattle-polizei-spricht-von-mehreren-opfern",
+      "summary": "",
+      "published": "2026-07-27T02:32:17.311772+00:00"
     }
   ]
 }
