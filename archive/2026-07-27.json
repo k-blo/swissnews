@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T00:02:29.992821+00:00",
+  "generated": "2026-07-27T00:32:36.037705+00:00",
   "date": "2026-07-27",
-  "count": 25,
+  "count": 29,
   "articles": [
     {
       "source": "Persönlich",
@@ -177,6 +177,34 @@
       "url": "https://www.watson.ch/international/deutschland/285478440-anschlaug-auf-csd-in-berlin-forderungen-nach-konsequenzen-mehren-sich",
       "summary": "",
       "published": "2026-07-27T00:02:29.992821+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "CSD-Anschlag in Berlin: Tatverdächtiger Abdul B. tot – Warum war er auf freiem Fuss?",
+      "url": "https://www.tagesanzeiger.ch/berlin-anschlag-csd-christopher-street-day-tatverdaechtiger-war-auf-bewaehrung-frei-warum-125998584286",
+      "summary": "Der nach dem CSD-Anschlag bei einem Polizeieinsatz getötete Tatverdächtige war den Behörden bekannt – und verurteilt. Weshalb war er trotzdem frei? Innenminister Dobrindt verspricht eine Prüfung.",
+      "published": "2026-07-27T00:32:36.037705+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Sinnloses Töten über den Spanischen Bürgerkrieg der Bis in die Schweiz Kam",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/sinnloses-toeten-ueber-den-spanischen-buergerkrieg-der-bis-in-die-schweiz-kam",
+      "summary": "",
+      "published": "2026-07-27T00:32:36.037705+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ach die Fussball Wm eine Polemik",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/ach-die-fussball-wm-eine-polemik",
+      "summary": "",
+      "published": "2026-07-27T00:32:36.037705+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Buckliger Waschbär: Das steckt hinter dem Internetphänomen «Jimothy»",
+      "url": "https://www.watson.ch/leben/usa/975457730-buckliger-waschbaer-das-steckt-hinter-dem-internetphaenomen-jimothy",
+      "summary": "",
+      "published": "2026-07-27T00:32:36.037705+00:00"
     }
   ]
 }
