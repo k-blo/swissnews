@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T22:19:53.988038+00:00",
+  "generated": "2026-07-27T22:32:45.688567+00:00",
   "date": "2026-07-28",
-  "count": 13,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -93,6 +93,34 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/alle-alterswohnungen-sind-vermietet-ein-zentraler-standort-fuer-soziale-dienstleistungen-art-1714406",
       "summary": "",
       "published": "2026-07-27T22:19:53.988038+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Zwei Kantone heuschen Millionen: Die teure Aufschub-Falle bei der Steuererklärung",
+      "url": "https://www.blick.ch/politik/zwei-kantone-heuschen-millionen-die-teure-aufschub-falle-bei-der-steuererklaerung-id22131668.html",
+      "summary": "Steuererklärungen kosten Zeit – und in einigen Kantonen auch Geld. Wer in Bern eine Fristverlängerung bis November beantragt, zahlt bis zu 60 Franken. 2024 kassierte der Kanton so 3,5 Millionen Franke",
+      "published": "2026-07-27T22:32:45.688567+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Trumps zweite Amtszeit: Trump ruft Supreme Court im Streit um Wahlregeln an +++ Gericht blockiert Trumps Briefwahl-Pläne",
+      "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-trump-ruft-supreme-court-im-streit-um-wahlregeln-an-gericht-blockiert-trumps-briefwahl-plaene-ld.1856621",
+      "summary": "",
+      "published": "2026-07-27T22:32:45.688567+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Angriffspause im Iran für Verhandlungen – zugleicht droht Trump",
+      "url": "https://www.watson.ch/international/iran/522922163-angriffspause-im-iran-fuer-verhandlungen-zugleicht-droht-trump",
+      "summary": "",
+      "published": "2026-07-27T22:32:45.688567+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein Rundgang durch das Sensler Museum",
+      "url": "https://www.freiburger-nachrichten.ch/story/275417/ein-rundgang-durch-das-sensler-museum",
+      "summary": "",
+      "published": "2026-07-27T22:32:45.688567+00:00"
     }
   ]
 }
