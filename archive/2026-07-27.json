@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T20:02:28.705108+00:00",
+  "generated": "2026-07-27T20:32:55.865558+00:00",
   "date": "2026-07-27",
-  "count": 722,
+  "count": 726,
   "articles": [
     {
       "source": "Persönlich",
@@ -5056,6 +5056,34 @@
       "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-akanji-bekommt-bei-inter-mailand-grosse-konkurrenz",
       "summary": "",
       "published": "2026-07-27T20:02:28.705108+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Unterwegs nach New York – Swiss-Maschine muss nach Rauchentwicklung an Bord notlanden",
+      "url": "https://www.srf.ch/news/schweiz/unterwegs-nach-new-york-swiss-maschine-muss-nach-rauchentwicklung-an-bord-notlanden",
+      "summary": "Das Flugzeug landete sicher in Bangor im US-Bundesstaat Maine.",
+      "published": "2026-07-27T20:32:55.865558+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Mahnwache in Untersiggenthal: «Wir bewundern euch für euren Mut»: 400 Menschen bekunden Solidarität mit Paula und Iwona L.",
+      "url": "https://www.bernerzeitung.ch/mahnwache-in-untersiggenthal-400-menschen-zeigen-solidaritaet-157953695233",
+      "summary": "Eine Woche nach Bekanntwerden des Missbrauchsfalls fand eine Versammlung vor dem Gemeindehaus in Untersiggenthal statt. Bei den Forderungen blieb es vage. Doch der Fall geht vielen Menschen nahe.",
+      "published": "2026-07-27T20:32:55.865558+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Swiss-Flug muss notlanden",
+      "url": "https://www.zentralplus.ch/news/swiss-flug-muss-notlanden-2887683/",
+      "summary": "Ein Flugzeug der Swiss auf dem Weg von Zürich nach New York hat notfallmässig landen müssen. An Bord war es zu einer Rauchentwicklung gekommen, wie die Swiss gegenüber Keystone-SDA sagte. Der Rauch wu",
+      "published": "2026-07-27T20:32:55.865558+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KURZMELDUNGEN - Wirtschaft: Bei Porsche fallen 5000 Stellen weg +++ Paramount setzt Übernahme von Warner Brothers vorerst aus",
+      "url": "https://www.nzz.ch/wirtschaft/wirtschaft-bei-porsche-fallen-5000-stellen-weg-paramount-setzt-uebernahme-von-warner-brothers-vorerst-aus-ld.10013650",
+      "summary": "",
+      "published": "2026-07-27T20:32:55.865558+00:00"
     }
   ]
 }
