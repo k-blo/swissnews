@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T04:02:19.763544+00:00",
+  "generated": "2026-07-27T04:32:46.930796+00:00",
   "date": "2026-07-27",
-  "count": 167,
+  "count": 172,
   "articles": [
     {
       "source": "Persönlich",
@@ -1171,6 +1171,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/ingo-butzke-ueber-anabolika-im-freizeitsport-art-1714377",
       "summary": "",
       "published": "2026-07-27T04:02:19.763544+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "US-Zölle für die Schweiz – Soll der Bundesrat weiterverhandeln?",
+      "url": "https://www.srf.ch/news/schweiz/us-zoelle-fuer-die-schweiz-soll-der-bundesrat-weiterverhandeln",
+      "summary": "Für Schweizer Waren gelten neu 12.5 Prozent US-Zoll. Doch reicht das – oder muss der Bundesrat weiterverhandeln?",
+      "published": "2026-07-27T04:32:46.930796+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Legendärer Abenteurer: Dieser reiche Basler tarnte sich als Scheich und machte eine Entdeckung von Weltrang",
+      "url": "https://www.bazonline.ch/johann-ludwig-burckhardt-der-basler-der-petra-wiederfand-486490563637",
+      "summary": "Er gilt als erster Basler, der zum Islam konvertierte, tarnte sich als Scheich und machte eine Entdeckung von Weltrang: Johann Ludwig Burckhardt. Einblick in ein kurzes, aussergewöhnliches Leben.",
+      "published": "2026-07-27T04:32:46.930796+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "BaZ-Sommerrätsel mit -minu: Nummer 25: Die Bulldogge, die über Basel wacht",
+      "url": "https://www.bazonline.ch/bulldogge-in-basel-steinerner-waechter-am-staatsarchiv-577366780994",
+      "summary": "Jede der 35 Sprossen richtig erraten, den Lösungsspruch einschicken und vielleicht einen speziellen Preis gewinnen. Das BaZ-Sommerrätsel mit -minu.",
+      "published": "2026-07-27T04:32:46.930796+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Schüsse bei Food Festival: Mehrere Tote in Seattle",
+      "url": "https://www.nzz.ch/panorama/schuesse-bei-food-festival-mehrere-tote-in-seattle-ld.10017116",
+      "summary": "",
+      "published": "2026-07-27T04:32:46.930796+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mindestens zwei Tote bei Schüssen auf Food-Festival in Seattle",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/mindestens-zwei-tote-bei-schuessen-auf-food-festival-in-seattle-art-1714378",
+      "summary": "",
+      "published": "2026-07-27T04:32:46.930796+00:00"
     }
   ]
 }
