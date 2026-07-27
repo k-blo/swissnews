@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T01:02:16.914628+00:00",
+  "generated": "2026-07-27T01:32:36.871942+00:00",
   "date": "2026-07-27",
-  "count": 33,
+  "count": 35,
   "articles": [
     {
       "source": "Persönlich",
@@ -233,6 +233,20 @@
       "url": "https://www.watson.ch/leben/usa/656462704-ryan-gosling-spielt-bikerhelden-in-marvel-film-ghost-rider",
       "summary": "",
       "published": "2026-07-27T01:02:16.914628+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Achter Major-Titel in Folge: Littler gewinnt World Matchplay",
+      "url": "https://www.watson.ch/sport/darts/251815090-achter-major-titel-in-folge-littler-gewinnt-world-matchplay",
+      "summary": "",
+      "published": "2026-07-27T01:32:36.871942+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Paléo-Festival wird bei seiner 50. Ausgabe länger dauern",
+      "url": "https://www.watson.ch/schweiz/musik/946944163-paleo-festival-wird-bei-seiner-50-ausgabe-laenger-dauern",
+      "summary": "",
+      "published": "2026-07-27T01:32:36.871942+00:00"
     }
   ]
 }
