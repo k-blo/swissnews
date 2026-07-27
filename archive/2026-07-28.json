@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T22:32:45.688567+00:00",
+  "generated": "2026-07-27T23:02:32.702244+00:00",
   "date": "2026-07-28",
-  "count": 17,
+  "count": 21,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -121,6 +121,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/275417/ein-rundgang-durch-das-sensler-museum",
       "summary": "",
       "published": "2026-07-27T22:32:45.688567+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach mehrtägiger Anhörung: Gericht lässt Mordprozess gegen Sänger D4vd zu",
+      "url": "https://www.tagesanzeiger.ch/d4vd-wegen-mordes-vor-gericht-nach-tod-von-14-jaehriger-347856911425",
+      "summary": "Laut Richterin gibt es genügend Beweise. Dem Sänger mit bürgerlichem Namen David Burke wird vorgeworfen, eine 14-Jährige erstochen und dann zerstückelt zu haben.",
+      "published": "2026-07-27T23:02:32.702244+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Applaus und Buh-Rufe: Gemischte Reaktionen auf Bayreuther KI-«Rheingold»",
+      "url": "https://www.watson.ch/leben/deutschland/139693523-applaus-und-buh-rufe-gemischte-reaktionen-auf-bayreuther-ki-rheingold",
+      "summary": "",
+      "published": "2026-07-27T23:02:32.702244+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Gefahr von Anabolika: Psychiater klärt über Folgen auf",
+      "url": "https://www.watson.ch/wissen/interview/464419342-gefahr-von-anabolika-psychiater-klaert-ueber-folgen-auf",
+      "summary": "",
+      "published": "2026-07-27T23:02:32.702244+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Verurteilter in Studenten-Mord in Idaho will neues Verfahren",
+      "url": "https://www.watson.ch/international/usa/763915633-verurteilter-in-studenten-mord-in-idaho-will-neues-verfahren",
+      "summary": "",
+      "published": "2026-07-27T23:02:32.702244+00:00"
     }
   ]
 }
