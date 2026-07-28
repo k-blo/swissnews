@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-28T23:02:54.976678+00:00",
+  "generated": "2026-07-28T23:32:23.977587+00:00",
   "date": "2026-07-29",
-  "count": 16,
+  "count": 21,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -114,6 +114,41 @@
       "url": "https://www.watson.ch/international/drogen/922922645-usa-attackieren-drogenboote-kokain-handel-laut-dea-fast-unveraendert",
       "summary": "",
       "published": "2026-07-28T23:02:54.976678+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Der FC Thun scheitert in Zagreb: Der teuerste Blackout in der Clubgeschichte",
+      "url": "https://www.bernerzeitung.ch/fc-thun-platzverweis-gegen-marco-buerki-laeutet-baisse-ein-875593749612",
+      "summary": "15 schwache Minuten bringen die Berner Oberländer gegen den erstaunlich biederen kroatischen Meister um den Coup. Als Fehler erweist sich die Auswechslung von Brighton Labeau.",
+      "published": "2026-07-28T23:32:23.977587+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Urteil zu deutschem Osteopathie-Diplom",
+      "url": "https://www.zentralplus.ch/news/urteil-zu-deutschem-osteopathie-diplom-2887976/",
+      "summary": "Wer in Deutschland ein Diplom in Osteopathie erworben hat, konnte es in der Schweiz bislang nicht einfach anerkennen lassen. Das Bundesverwaltungsgericht hat diese pauschale Ablehnung nun aber aufgeho",
+      "published": "2026-07-28T23:32:23.977587+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Olivia Wilde castet Aniston und Dinklage für Weihnachtskomödie",
+      "url": "https://www.watson.ch/leben/people/190409182-olivia-wilde-castet-aniston-und-dinklage-fuer-weihnachtskomoedie",
+      "summary": "",
+      "published": "2026-07-28T23:32:23.977587+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wetterdienst warnt: Feuerwehr kämpft gegen neue Flammen in Bordeaux",
+      "url": "https://www.watson.ch/international/frankreich/690512885-wetterdienst-warnt-feuerwehr-kaempft-gegen-neue-flammen-in-bordeaux",
+      "summary": "",
+      "published": "2026-07-28T23:32:23.977587+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Elefanten sterben in Kenia einen rätselhaften Tod – Untersuchung",
+      "url": "https://www.watson.ch/leben/afrika/936178209-elefanten-sterben-in-kenia-einen-raetselhaften-tod-untersuchung",
+      "summary": "",
+      "published": "2026-07-28T23:32:23.977587+00:00"
     }
   ]
 }
