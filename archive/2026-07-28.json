@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27T23:32:57.293246+00:00",
+  "generated": "2026-07-28T00:02:38.902761+00:00",
   "date": "2026-07-28",
-  "count": 25,
+  "count": 26,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -177,6 +177,13 @@
       "url": "https://www.watson.ch/international/analyse/231626764-kritik-aus-der-cdu-merz-ist-laengst-nicht-mehr-unantastbar",
       "summary": "",
       "published": "2026-07-27T23:32:57.293246+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UN: Mögliche Kriegsverbrechen Israels im Libanon",
+      "url": "https://www.watson.ch/international/israel/477014976-un-moegliche-kriegsverbrechen-israels-im-libanon",
+      "summary": "",
+      "published": "2026-07-28T00:02:38.902761+00:00"
     }
   ]
 }
