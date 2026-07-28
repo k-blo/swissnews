@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-28T00:32:39.433712+00:00",
+  "generated": "2026-07-28T01:02:29.638815+00:00",
   "date": "2026-07-28",
-  "count": 30,
+  "count": 34,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,34 @@
       "url": "https://www.watson.ch/international/eu/384865852-eu-aktiviert-wegen-waldbraenden-notfallmechanismus",
       "summary": "",
       "published": "2026-07-28T00:32:39.433712+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Hitze in Europa: Erstes Brandgebiet bei Bordeaux unter Kontrolle +++ Deutsche Bundeswehr hilft in Frankreich aus",
+      "url": "https://www.nzz.ch/panorama/hitze-in-europa-erstes-brandgebiet-bei-bordeaux-unter-kontrolle-deutsche-bundeswehr-hilft-in-frankreich-aus-ld.10008673",
+      "summary": "",
+      "published": "2026-07-28T01:02:29.638815+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Anschlag am CSD: Deutschland diskutiert über härtere Strafen",
+      "url": "https://www.watson.ch/international/deutschland/217723303-anschlag-am-csd-deutschland-diskutiert-ueber-haertere-strafen",
+      "summary": "",
+      "published": "2026-07-28T01:02:29.638815+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Selenskyj als erster ausländischer Staatschef bei Burnham",
+      "url": "https://www.watson.ch/international/grossbritannien/110132386-selenskyj-als-erster-auslaendischer-staatschef-bei-burnham",
+      "summary": "",
+      "published": "2026-07-28T01:02:29.638815+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Sängerin Carly Simon ist an Parkinson erkrankt",
+      "url": "https://www.watson.ch/leben/usa/488906176-us-saengerin-carly-simon-ist-an-parkinson-erkrankt",
+      "summary": "",
+      "published": "2026-07-28T01:02:29.638815+00:00"
     }
   ]
 }
