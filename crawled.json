@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-28T00:02:38.902761+00:00",
+  "generated": "2026-07-28T00:32:39.433712+00:00",
   "date": "2026-07-28",
-  "count": 26,
+  "count": 30,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -184,6 +184,34 @@
       "url": "https://www.watson.ch/international/israel/477014976-un-moegliche-kriegsverbrechen-israels-im-libanon",
       "summary": "",
       "published": "2026-07-28T00:02:38.902761+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Forscher der Uni Genf Greifen Erdölverband Avenergy Frontal an",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/forscher-der-uni-genf-greifen-erdoelverband-avenergy-frontal-an",
+      "summary": "",
+      "published": "2026-07-28T00:32:39.433712+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Höhere Co2 Gehalt in der Atmosphäre Hat den Globalen Reisertrag Deutlich Gesteigert",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/der-hoehere-co2-gehalt-in-der-atmosphaere-hat-den-globalen-reisertrag-deutlich-gesteigert",
+      "summary": "",
+      "published": "2026-07-28T00:32:39.433712+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitzewelle naht – Feuer bei Bordeaux bleibt Herausforderung",
+      "url": "https://www.watson.ch/international/frankreich/426555892-hitzewelle-naht-feuer-bei-bordeaux-bleibt-herausforderung",
+      "summary": "",
+      "published": "2026-07-28T00:32:39.433712+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EU aktiviert wegen Waldbränden Notfallmechanismus",
+      "url": "https://www.watson.ch/international/eu/384865852-eu-aktiviert-wegen-waldbraenden-notfallmechanismus",
+      "summary": "",
+      "published": "2026-07-28T00:32:39.433712+00:00"
     }
   ]
 }
