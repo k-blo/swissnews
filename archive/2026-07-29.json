@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T00:02:58.137520+00:00",
+  "generated": "2026-07-29T00:32:15.894052+00:00",
   "date": "2026-07-29",
-  "count": 25,
+  "count": 32,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -177,6 +177,55 @@
       "url": "https://www.watson.ch/schweiz/gesundheit/351154032-justierung-bei-anerkennung-auslaendischer-osteopathie-diplomen-noetig",
       "summary": "",
       "published": "2026-07-29T00:02:58.137520+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mehr Umsatz und Gewinn bei Logitech",
+      "url": "https://www.zentralplus.ch/news/mehr-umsatz-und-gewinn-bei-logitech-2-2887978/",
+      "summary": "Der Schweizer Computerzubehörhersteller Logitech hat die Zahlen zum ersten Quartal veröffentlicht. Umsatz und Gewinn sind verglichen mit dem Vorjahr gestiegen. Der Umsatz lag bei gut 1,2 Milliarden US",
+      "published": "2026-07-29T00:32:15.894052+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Eine Glückliche Schweiz Braucht Nicht Mehr Sondern Weniger Zentralisierung und Schon Gar Keine Institutionelle Anbindung an die",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/eine-glueckliche-schweiz-braucht-nicht-mehr-sondern-weniger-zentralisierung-und-schon-gar-keine-institutionelle-anbindung-an-die",
+      "summary": "",
+      "published": "2026-07-29T00:32:15.894052+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ohne Abtreibungen Wäre das Nachwuchsproblem der Schweiz Deutlich Kleiner",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/ohne-abtreibungen-waere-das-nachwuchsproblem-der-schweiz-deutlich-kleiner",
+      "summary": "",
+      "published": "2026-07-29T00:32:15.894052+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kolumbien bricht mit Kuba – Havanna sieht US-Druck als Grund",
+      "url": "https://www.watson.ch/international/usa/853169013-kolumbien-bricht-mit-kuba-havanna-sieht-us-druck-als-grund",
+      "summary": "",
+      "published": "2026-07-29T00:32:15.894052+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Konkurrenz abschirmen: US-Regierung will keine ausländischen Roboter",
+      "url": "https://www.watson.ch/wirtschaft/international/120799025-konkurrenz-abschirmen-us-regierung-will-keine-auslaendischen-roboter",
+      "summary": "",
+      "published": "2026-07-29T00:32:15.894052+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tote nach Erdbeben in Japan geborgen",
+      "url": "https://www.watson.ch/international/japan/656416895-tote-nach-erdbeben-in-japan-geborgen",
+      "summary": "",
+      "published": "2026-07-29T00:32:15.894052+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Militär fängt ballistische Raketen aus Iran ab",
+      "url": "https://www.watson.ch/international/iran/576622664-us-militaer-faengt-ballistische-raketen-aus-iran-ab",
+      "summary": "",
+      "published": "2026-07-29T00:32:15.894052+00:00"
     }
   ]
 }
