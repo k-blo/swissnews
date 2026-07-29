@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T01:02:46.803192+00:00",
+  "generated": "2026-07-29T01:32:58.209364+00:00",
   "date": "2026-07-29",
-  "count": 36,
+  "count": 39,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -254,6 +254,27 @@
       "url": "https://www.watson.ch/schweiz/international/340832398-passagiere-von-schweizer-kreuzfahrtschiff-auf-donau-evakuiert",
       "summary": "",
       "published": "2026-07-29T01:02:46.803192+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA und Saudi-Arabien greifen Irak an",
+      "url": "https://www.zentralplus.ch/news/usa-und-saudi-arabien-greifen-irak-an-2887980/",
+      "summary": "Die USA und Saudi-Arabien haben Ziele im Irak aus der Luft angegriffen. Die Angriffe hätten militanten Gruppen gegolten, schreibt die US-Armee. Diese seien vom Iran beauftragt worden, US-Stützpunkte i",
+      "published": "2026-07-29T01:32:58.209364+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neue Brücke von Russland nach Nordkorea weckt Befürchtungen",
+      "url": "https://www.watson.ch/international/nordkorea/888376561-neue-bruecke-von-russland-nach-nordkorea-weckt-befuerchtungen",
+      "summary": "",
+      "published": "2026-07-29T01:32:58.209364+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Spionageverdacht bei der NATO: Verdächtige bleibt in U-Haft",
+      "url": "https://www.watson.ch/international/china/672371514-spionageverdacht-bei-der-nato-verdaechtige-bleibt-in-u-haft",
+      "summary": "",
+      "published": "2026-07-29T01:32:58.209364+00:00"
     }
   ]
 }
