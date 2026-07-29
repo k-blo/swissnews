@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T22:32:34.639283+00:00",
+  "generated": "2026-07-29T23:02:52.339720+00:00",
   "date": "2026-07-30",
-  "count": 14,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -100,6 +100,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/das-sind-die-highlights-vom-wochenende-art-1714713",
       "summary": "",
       "published": "2026-07-29T22:32:34.639283+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neue Studie zeigt: Schweizer Wohneigentumsmarkt ist weiter robust",
+      "url": "https://www.watson.ch/schweiz/immobilien/565110234-neue-studie-zeigt-schweizer-wohneigentumsmarkt-ist-weiter-robust",
+      "summary": "",
+      "published": "2026-07-29T23:02:52.339720+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neue Waldbrände in Frankreich und Spanien – die aktuelle Lage",
+      "url": "https://www.watson.ch/international/frankreich/343412614-neue-waldbraende-in-frankreich-und-spanien-die-aktuelle-lage",
+      "summary": "",
+      "published": "2026-07-29T23:02:52.339720+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Entwarnung nach Brand in Turnhalle von Primarschule in Dättwil AG",
+      "url": "https://www.watson.ch/schweiz/aargau/197748966-entwarnung-nach-brand-in-turnhalle-von-primarschule-in-daettwil-ag",
+      "summary": "",
+      "published": "2026-07-29T23:02:52.339720+00:00"
     }
   ]
 }
