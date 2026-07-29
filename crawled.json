@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T01:32:58.209364+00:00",
+  "generated": "2026-07-29T02:02:20.324143+00:00",
   "date": "2026-07-29",
-  "count": 39,
+  "count": 42,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -275,6 +275,27 @@
       "url": "https://www.watson.ch/international/china/672371514-spionageverdacht-bei-der-nato-verdaechtige-bleibt-in-u-haft",
       "summary": "",
       "published": "2026-07-29T01:32:58.209364+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neuer US-Geheimdienstchef ernannt",
+      "url": "https://www.zentralplus.ch/news/neuer-us-geheimdienstchef-ernannt-2887982/",
+      "summary": "Jay Clayton wird neuer Direktor der nationalen Geheimdienste in den USA. Der Senat hat die Ernennung des New Yorker Staatsanwalts bestätigt. Er war von US-Präsident Donald Trump für das Amt vorgeschla",
+      "published": "2026-07-29T02:02:20.324143+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Über 1000 Experten fordern KI-Bremsmechanismus",
+      "url": "https://www.watson.ch/international/usa/884132410-ueber-1000-experten-fordern-ki-bremsmechanismus",
+      "summary": "",
+      "published": "2026-07-29T02:02:20.324143+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA und Saudi-Arabien greifen «Terroristen» im Irak an",
+      "url": "https://www.watson.ch/international/iran/576622664-usa-und-saudi-arabien-greifen-terroristen-im-irak-an",
+      "summary": "",
+      "published": "2026-07-29T02:02:20.324143+00:00"
     }
   ]
 }
