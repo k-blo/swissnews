@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T11:32:40.160278+00:00",
+  "generated": "2026-07-29T12:02:51.630915+00:00",
   "date": "2026-07-29",
-  "count": 436,
+  "count": 449,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -3054,6 +3054,97 @@
       "url": "https://www.freiburger-nachrichten.ch/story/279614/stadt-z%C3%BCrich-kauft-bis-zu-88-busse-in-china-und-kritisiert-den-schweizer-hersteller-hess",
       "summary": "",
       "published": "2026-07-29T11:32:40.160278+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Notdurft in Unterführung verrichten»: Thurgauer Provinzbahnhof bleibt nach 16-Mio-Umbau ohne WC",
+      "url": "https://www.blick.ch/news/notdurft-in-unterfuehrung-verrichten-thurgauer-provinzbahnhof-bleibt-nach-16-mio-umbau-ohne-wc-id22143025.html",
+      "summary": "Die SBB erneuern den Bahnhof Müllheim-Wigoltingen für 16 Millionen Franken. Auch nach dem Umbau brennt aber an, wer mal dringend muss – ein WC gibts nicht. Das kommt vor Ort nicht gut an. Auch in Altd",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kuriose TV-Panne: Deshalb zeigte das SRF Heinzmann statt Thun",
+      "url": "https://www.20min.ch/story/noch-nie-erlebt-kuriose-tv-panne-deshalb-zeigte-das-srf-heinzmann-statt-thun-103610398",
+      "summary": "Beim Champions-League-Ausscheiden des FC Thun fiel das TV-Bild in Zagreb aus. SRF wechselte zu Stefanie Heinzmann, da sich ein Konzert bei unklarer Dauer der Panne flexibel ein- und ausblenden lasse.",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Beschwerde abgewiesen: «Zugschubser» von Zürich scheitert vor Bundesgericht",
+      "url": "https://www.tagesanzeiger.ch/zug-schubser-zuerich-bundesgericht-bestaetigt-freiheitsstrafe-723641327898",
+      "summary": "Das höchste Schweizer Gericht beurteilte das Verhalten des Mannes als skrupellos. Er wird definitiv zu vier Jahren Freiheitsstrafe verurteilt.",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Naturschutz in Nepal: Die Zahl der wildlebenden Tiger ist weiter gestiegen",
+      "url": "https://www.tagesanzeiger.ch/nepal-tigerpopulation-steigt-auf-429-tiere-904305960243",
+      "summary": "Dank Schutzmassnahmen steigert sich die Tigerpopulation in Nepal. Inzwischen sind es 429 Tiere.",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Motorradunfall: Irischer Musiker und Oscar-Preisträger Glen Hansard ist tot",
+      "url": "https://www.tagesanzeiger.ch/glen-hansard-oscar-preistraeger-stirbt-bei-motorradunfall-532859875624",
+      "summary": "Der Musiker Glen Hansard starb bei einem Unfall in Dublin. Fans trauern.",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "SBB stecken weitere 280 Millionen in Bahnleitsystem",
+      "url": "https://www.inside-it.ch/sbb-stecken-weitere-280-millionen-in-bahnleitsystem-20260729",
+      "summary": "Die Vertragsverlängerung mit Siemens Mobility Schweiz soll den Betrieb bis zur Einführung einer neuen Generation von Bahnleittechnik sicherstellen.",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "UBS spart 1,1 Milliarden durch CS-Migration",
+      "url": "https://www.inside-it.ch/ubs-spart-1%252C1-milliarden-durch-cs-migration-20260729",
+      "summary": "Alleine in den vergangenen drei Monaten will UBS durch die Stilllegung von Credit-Suisse-Systemen Kosteneinsparungen von 1,1 Milliarden Dollar realisiert haben.",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Kanton Schaffhausen verfügt absolutes Feuerverbot",
+      "url": "https://www.shn.ch/region/kanton/2026-07-29/kanton-schaffhausen-verfuegt-absolutes-feuerverbot",
+      "summary": "Das anhaltend heisse und trockene Wetter, der Zustand des Waldes sowie die Wetterprognosen für die nächsten Tage haben die Waldbrandgefahr im Kanton Schaffhausen weiter verschärft. Ab Donnerstag gilt ",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Lift am Bahnhof Kaiseraugst Wieder in Betrieb",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/lift-am-bahnhof-kaiseraugst-wieder-in-betrieb-ld.4209066",
+      "summary": "",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine: Armeechef Drapatyj plant Ausweitung der Luftangriffe",
+      "url": "https://www.watson.ch/international/russland/250041555-ukraine-armeechef-drapatyj-plant-ausweitung-der-luftangriffe",
+      "summary": "",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Infantinos Plan zum Verkauf der FIFA-WM: Die Hintergründe und Reaktionen",
+      "url": "https://www.watson.ch/sport/fifa/660218246-infantinos-plan-zum-verkauf-der-fifa-wm-die-hintergruende-und-reaktionen",
+      "summary": "",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Irischer Musiker und Oscar-Preisträger Glen Hansard ist tot",
+      "url": "https://www.watson.ch/international/people/940863737-irischer-musiker-und-oscar-preistraeger-glen-hansard-ist-tot",
+      "summary": "",
+      "published": "2026-07-29T12:02:51.630915+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland schreibt Telegram-Gründer Pawel Durow zur Fahndung aus",
+      "url": "https://www.watson.ch/digital/international/439725394-russland-schreibt-telegram-gruender-pawel-durow-zur-fahndung-aus",
+      "summary": "",
+      "published": "2026-07-29T12:02:51.630915+00:00"
     }
   ]
 }
