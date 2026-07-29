@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T00:32:15.894052+00:00",
+  "generated": "2026-07-29T01:02:46.803192+00:00",
   "date": "2026-07-29",
-  "count": 32,
+  "count": 36,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -226,6 +226,34 @@
       "url": "https://www.watson.ch/international/iran/576622664-us-militaer-faengt-ballistische-raketen-aus-iran-ab",
       "summary": "",
       "published": "2026-07-29T00:32:15.894052+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein «amerikanisches Original»: So nimmt Präsident Trump Abschied vom verstorbenen Senator Lindsey Graham",
+      "url": "https://www.nzz.ch/international/ein-amerikanisches-original-so-nimmt-praesident-trump-abschied-vom-verstorbenen-senator-lindsey-graham-ld.10017314",
+      "summary": "",
+      "published": "2026-07-29T01:02:46.803192+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Angriff auf Marienstatue in Medjugorje – Gläubige entsetzt",
+      "url": "https://www.watson.ch/international/religion/198231814-angriff-auf-marienstatue-in-medjugorje-glaeubige-entsetzt",
+      "summary": "",
+      "published": "2026-07-29T01:02:46.803192+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Senat bestätigt Clayton als neuen Geheimdienstchef",
+      "url": "https://www.watson.ch/international/usa/792788634-us-senat-bestaetigt-clayton-als-neuen-geheimdienstchef",
+      "summary": "",
+      "published": "2026-07-29T01:02:46.803192+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Passagiere von Schweizer Kreuzfahrtschiff auf Donau evakuiert",
+      "url": "https://www.watson.ch/schweiz/international/340832398-passagiere-von-schweizer-kreuzfahrtschiff-auf-donau-evakuiert",
+      "summary": "",
+      "published": "2026-07-29T01:02:46.803192+00:00"
     }
   ]
 }
