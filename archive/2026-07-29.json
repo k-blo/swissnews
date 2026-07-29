@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-28T23:32:23.977587+00:00",
+  "generated": "2026-07-29T00:02:58.137520+00:00",
   "date": "2026-07-29",
-  "count": 21,
+  "count": 25,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -149,6 +149,34 @@
       "url": "https://www.watson.ch/leben/afrika/936178209-elefanten-sterben-in-kenia-einen-raetselhaften-tod-untersuchung",
       "summary": "",
       "published": "2026-07-28T23:32:23.977587+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "15 tote Tiere: Mysteriöses Elefantensterben in Kenia",
+      "url": "https://www.20min.ch/story/amboseli-nationalpark-15-tote-tiere-mysterioeses-elefantensterben-in-kenia-103610311",
+      "summary": "Im berühmten Amboseli-Nationalpark in Kenia sind innerhalb eines Monats 15 Elefanten auf rätselhafte Weise verendet. Nun untersuchen die Behörden, ob eine giftige Substanz hinter dem Massensterben ste",
+      "published": "2026-07-29T00:02:58.137520+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Airbus A350 stellt Rekord auf: 24 Stunden nonstop nach Australien",
+      "url": "https://www.watson.ch/international/luftfahrt/573686315-airbus-a350-stellt-rekord-auf-24-stunden-nonstop-nach-australien",
+      "summary": "",
+      "published": "2026-07-29T00:02:58.137520+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweiz ruft zum Schutz der Flüchtlingskonvention auf",
+      "url": "https://www.watson.ch/schweiz/migration/388647422-schweiz-ruft-zum-schutz-der-fluechtlingskonvention-auf",
+      "summary": "",
+      "published": "2026-07-29T00:02:58.137520+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Justierung bei Anerkennung ausländischer Osteopathie-Diplomen nötig",
+      "url": "https://www.watson.ch/schweiz/gesundheit/351154032-justierung-bei-anerkennung-auslaendischer-osteopathie-diplomen-noetig",
+      "summary": "",
+      "published": "2026-07-29T00:02:58.137520+00:00"
     }
   ]
 }
