@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-30T02:02:25.831785+00:00",
+  "generated": "2026-07-30T02:32:58.882768+00:00",
   "date": "2026-07-30",
-  "count": 38,
+  "count": 50,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -268,6 +268,90 @@
       "url": "https://www.watson.ch/international/iran/594197187-us-militaer-meldet-neue-angriffe-in-nahost-explosionen-im-iran",
       "summary": "",
       "published": "2026-07-30T02:02:25.831785+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Trockenheit und Hitze – Neue Waldbrände in Frankreich und Spanien ausgebrochen",
+      "url": "https://www.srf.ch/news/schweiz/trockenheit-und-hitze-neue-waldbraende-in-frankreich-und-spanien-ausgebrochen",
+      "summary": "Die Brände sind im französischen Brignoles und einem spanischen Nationalpark nahe der Grenze Portugals ausgebrochen.",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schütze entlastet: Tödliche Kugeln wohl aus anderer Waffe",
+      "url": "https://www.20min.ch/story/schuesse-in-seattle-schuetze-entlastet-toedliche-kugeln-wohl-aus-anderer-waffe-103610780",
+      "summary": "Die Ermittlungen nach dem tödlichen Schussdrama auf einem Festival in Seattle nehmen eine überraschende Wendung: Die Kugeln, die drei Menschen das Leben kosteten, stammen nach ersten Erkenntnissen off",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schüsse in Seattle: Schütze entlastet: Tödliche Kugeln wohl aus anderer Waffe",
+      "url": "https://www.tagesanzeiger.ch/schiesserei-seattle-15-jaehriger-teilweise-entlastet-846470899413",
+      "summary": "Die Ermittlungen nach dem tödlichen Schussdrama auf einem Festival in Seattle nehmen eine überraschende Wendung: Die Kugeln, die drei Menschen das Leben kosteten, stammen nach ersten Erkenntnissen off",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Nach dem Umbau öffnet der Thaynger Migros wieder – so sieht es drinnen aus",
+      "url": "https://www.shn.ch/region/reiat/2026-07-30/nach-dem-umbau-oeffnet-der-thaynger-migros-wieder-so-sieht-es-drinnen-aus",
+      "summary": "Offenere Flächen, mehr Platz und das bei gleichbleibender Verkaufsfläche. Der neue Migros am alten Standort hat sich zudem auch energietechnisch deutlich verbessert.",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wenn der Regenwurm Untertaucht das Macht die Hitze mit Unseren Böden",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/wenn-der-regenwurm-untertaucht-das-macht-die-hitze-mit-unseren-boeden-2103635",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Chur 97 was der Ehemalige Präsident zum Absturz in die 2 Liga Regional Sagt",
+      "url": "https://www.suedostschweiz.ch/regionalsport/chur-97-was-der-ehemalige-praesident-zum-absturz-in-die-2-liga-regional-sagt-2098014",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kaltbrunns Oberturner im Porträt der Turnsport Wurde Ihm in die Wiege Gelegt",
+      "url": "https://www.suedostschweiz.ch/linth/kaltbrunns-oberturner-im-portraet-der-turnsport-wurde-ihm-in-die-wiege-gelegt-2101903",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Nach Unruhe und Kündigung Schon Wieder Neue Kapitäne auf Bergüns Tourismusschiff",
+      "url": "https://www.suedostschweiz.ch/graubuenden/nach-unruhe-und-kuendigung-schon-wieder-neue-kapitaene-auf-berguens-tourismusschiff-2102635",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Pfas im Glarner Abwasser Ich Verstehe Nicht Warum Wir Nicht Beim Problem Ansetzen",
+      "url": "https://www.suedostschweiz.ch/glarus/pfas-im-glarner-abwasser-ich-verstehe-nicht-warum-wir-nicht-beim-problem-ansetzen-2101833",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Nachruf Thomas Holenstein aus Weinfelden Reiste mit 95 Jahren um die Welt",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/nachruf-thomas-holenstein-aus-weinfelden-reiste-mit-95-jahren-um-die-welt-ld.4209287",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Velotouristen am Bodensee Schätzen Natur und Gastfreundschaft",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/velotouristen-am-bodensee-schaetzen-natur-und-gastfreundschaft-ld.4208219",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Einsatz ballistischer Waffen»: Explosionen und Luftalarm in Kiew",
+      "url": "https://www.watson.ch/international/russland/474613720-einsatz-ballistischer-waffen-explosionen-und-luftalarm-in-kiew",
+      "summary": "",
+      "published": "2026-07-30T02:32:58.882768+00:00"
     }
   ]
 }
