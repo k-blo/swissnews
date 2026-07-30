@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-30T22:32:29.835950+00:00",
+  "generated": "2026-07-30T23:02:13.173411+00:00",
   "date": "2026-07-31",
-  "count": 14,
+  "count": 16,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -100,6 +100,20 @@
       "url": "https://www.watson.ch/sport/europa-league/250539426-fcsg-geht-bei-benfica-in-europa-league-quali-unter-sion-siegt-locker",
       "summary": "",
       "published": "2026-07-30T22:32:29.835950+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump: Vereinbarung zur Entwaffnung der Hamas erzielt",
+      "url": "https://www.20min.ch/story/nahost-konflikt-trump-vereinbarung-zur-entwaffnung-der-hamas-erzielt-103611250",
+      "summary": "US-Präsident Donald Trump hat eine Vereinbarung zur «vollständigen Entwaffnung» der islamistischen Palästinenserorganisation Hamas im Gazastreifen verkündet.",
+      "published": "2026-07-30T23:02:13.173411+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gazastreifen: Trump: Vereinbarung zur Entwaffnung der Hamas erzielt",
+      "url": "https://www.tagesanzeiger.ch/trump-vereinbarung-zur-entwaffnung-der-hamas-erzielt-126434754392",
+      "summary": "US-Präsident Donald Trump hat eine Vereinbarung zur «vollständigen Entwaffnung» der islamistischen Palästinenserorganisation Hamas im Gazastreifen verkündet.",
+      "published": "2026-07-30T23:02:13.173411+00:00"
     }
   ]
 }
