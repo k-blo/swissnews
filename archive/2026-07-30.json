@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-30T01:32:13.550585+00:00",
+  "generated": "2026-07-30T02:02:25.831785+00:00",
   "date": "2026-07-30",
-  "count": 33,
+  "count": 38,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -233,6 +233,41 @@
       "url": "https://www.watson.ch/international/brasilien/691627997-mindestens-fuenf-tote-bei-schwerem-sturm-in-brasilien",
       "summary": "",
       "published": "2026-07-30T01:32:13.550585+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Anschlag auf Autor: Rushdie-Attentäter wegen Terrorismus verurteilt",
+      "url": "https://www.tagesanzeiger.ch/rushdie-attentaeter-lebenslange-haft-wegen-terrorismus-droht-897312030126",
+      "summary": "Mehr als ein Dutzend Mal stach er auf Salman Rushdie ein, seither ist der Schriftsteller auf einem Auge blind. Nun ist der Angreifer ein weiteres Mal schuldig gesprochen worden.",
+      "published": "2026-07-30T02:02:25.831785+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neue russische Angriffe auf Kiew",
+      "url": "https://www.zentralplus.ch/news/neue-russische-angriffe-auf-kiew-2888222/",
+      "summary": "Russland hat die ukrainische Hauptstadt Kiew mit Raketen angegriffen. In der Stadt seien mehrere Explosionen zu hören gewesen, berichten Nachrichtenagenturen. Laut ukrainischen Angaben ist bei den Ang",
+      "published": "2026-07-30T02:02:25.831785+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Musk hilft bei Kongresswahl wieder Trumps Republikanern",
+      "url": "https://www.watson.ch/international/usa/337639222-musk-hilft-bei-kongresswahl-wieder-trumps-republikanern",
+      "summary": "",
+      "published": "2026-07-30T02:02:25.831785+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Microsoft mit stärkstem Cloud-Wachstum seit Jahren",
+      "url": "https://www.watson.ch/wirtschaft/digital/132979558-microsoft-mit-staerkstem-cloud-wachstum-seit-jahren",
+      "summary": "",
+      "published": "2026-07-30T02:02:25.831785+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Militär meldet neue Angriffe in Nahost – Explosionen im Iran",
+      "url": "https://www.watson.ch/international/iran/594197187-us-militaer-meldet-neue-angriffe-in-nahost-explosionen-im-iran",
+      "summary": "",
+      "published": "2026-07-30T02:02:25.831785+00:00"
     }
   ]
 }
