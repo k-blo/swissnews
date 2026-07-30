@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-30T01:02:36.361344+00:00",
+  "generated": "2026-07-30T01:32:13.550585+00:00",
   "date": "2026-07-30",
-  "count": 30,
+  "count": 33,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,27 @@
       "url": "https://www.zentralplus.ch/news/neue-braende-in-fra-und-esp-2888216/",
       "summary": "In mehreren europäischen Ländern sind neue Waldbrände ausgebrochen. So etwa in Frankreich in der Nähe der Stadt Brignoles in der Region Var am Mittelmeer. Mehr als 600 Menschen seien in Sicherheit geb",
       "published": "2026-07-30T01:02:36.361344+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neue Waldbrände wüten in Südeuropa – Tausende Menschen evakuiert",
+      "url": "https://www.watson.ch/international/frankreich/343412614-neue-waldbraende-wueten-in-suedeuropa-tausende-menschen-evakuiert",
+      "summary": "",
+      "published": "2026-07-30T01:32:13.550585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rushdie-Attentäter wegen Terrorismus verurteilt",
+      "url": "https://www.watson.ch/international/usa/622038189-rushdie-attentaeter-wegen-terrorismus-verurteilt",
+      "summary": "",
+      "published": "2026-07-30T01:32:13.550585+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mindestens fünf Tote bei schwerem Sturm in Brasilien",
+      "url": "https://www.watson.ch/international/brasilien/691627997-mindestens-fuenf-tote-bei-schwerem-sturm-in-brasilien",
+      "summary": "",
+      "published": "2026-07-30T01:32:13.550585+00:00"
     }
   ]
 }
