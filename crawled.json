@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T23:32:41.455139+00:00",
+  "generated": "2026-07-30T00:02:35.495066+00:00",
   "date": "2026-07-30",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.watson.ch/international/argentinien/976804487-sieben-tote-bei-absturz-von-helikopter-in-argentinien",
       "summary": "",
       "published": "2026-07-29T23:32:41.455139+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach Fund von fünf toten Babys in Südfrankreich – Paar in U-Haft",
+      "url": "https://www.watson.ch/international/frankreich/591078639-nach-fund-von-fuenf-toten-babys-in-suedfrankreich-paar-in-u-haft",
+      "summary": "",
+      "published": "2026-07-30T00:02:35.495066+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Den griechischen Ferieninseln geht das Wasser aus",
+      "url": "https://www.watson.ch/international/griechenland/139440072-den-griechischen-ferieninseln-geht-das-wasser-aus",
+      "summary": "",
+      "published": "2026-07-30T00:02:35.495066+00:00"
     }
   ]
 }
