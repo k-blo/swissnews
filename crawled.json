@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-30T21:02:57.493432+00:00",
+  "generated": "2026-07-30T21:32:44.649090+00:00",
   "date": "2026-07-30",
-  "count": 803,
+  "count": 804,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -5623,6 +5623,13 @@
       "url": "https://www.watson.ch/schweiz/waadt/366322032-grossbrand-im-industriegebiet-von-vufflens-la-ville-in-der-waadt",
       "summary": "",
       "published": "2026-07-30T21:02:57.493432+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zu zehnt keine Chance mehr: Der FC St.Gallen verliert gegen Benfica Lissabon 0:5",
+      "url": "https://www.freiburger-nachrichten.ch/story/279885/zu-zehnt-keine-chance-mehr-der-fc-stgallen-verliert-gegen-benfica-lissabon-05",
+      "summary": "",
+      "published": "2026-07-30T21:32:44.649090+00:00"
     }
   ]
 }
