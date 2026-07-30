@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-30T11:02:56.439788+00:00",
+  "generated": "2026-07-30T11:33:04.260509+00:00",
   "date": "2026-07-30",
-  "count": 442,
+  "count": 462,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3096,6 +3096,146 @@
       "url": "https://www.watson.ch/schweiz/svp/698345042-neutralitaets-initiative-der-svp-kommt-zustande",
       "summary": "",
       "published": "2026-07-30T11:02:56.439788+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Möchte nicht erleben, wie jemand überfahren wird»: Raser gefährden Gäste von Aargauer Landbeiz – Wirte fordern Massnahmen",
+      "url": "https://www.blick.ch/wirtschaft/moechte-nicht-erleben-wie-jemand-ueberfahren-wird-raser-gefaehrden-gaeste-von-aargauer-landbeiz-wirte-fordern-massnahmen-id22145737.html",
+      "summary": "Gäste des Landgasthofs Vierlinden in Bözberg AG müssen teilweise die Strasse überqueren, um zum Restaurant zu gelangen. Wirt Roland Bünter sorgt sich um ihre Sicherheit – wegen rücksichtslosen Autofah",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gemeindepolizist in Uniform klaut bei Self-Checkout – Job weg",
+      "url": "https://www.20min.ch/story/binningen-bl-gemeindepolizist-in-uniform-klaut-bei-self-checkout-job-weg-103610877",
+      "summary": "Ein Polizist der Gemeinde Binningen BL wurde in einer Migros-Filiale beim Klauen erwischt. Das Arbeitsverhältnis wurde daraufhin aufgelöst.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Unpünktlich und marode – dennoch schreibt DB schwarze Zahlen",
+      "url": "https://www.20min.ch/story/deutsche-bahn-schwarze-zahlen-147-millionen-103610945",
+      "summary": "Gewinn trotz maroder Gleise und verspäteter Züge – wie der Bahn ein Plus von 147 Millionen Euro gelang und was die Chefin jetzt fordert.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Über 1500 Tote im Kongo: WFP-Chef: «Am schnellsten wachsender Ebola-Ausbruch aller Zeiten» – Todesrate von 44 Prozent",
+      "url": "https://www.tagesanzeiger.ch/ebola-im-kongo-1521-tote-bei-schnellstem-ausbruch-aller-zeiten-223791558963",
+      "summary": "In der Demokratischen Republik Kongo haben sich nachweislich über 3400 Personen mit Ebola angesteckt. Experten vermuten aber eine hohe Dunkelziffer. Ein Ende der Ebola-Epidemie ist nicht in Sicht.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Geplantes Hundeverbot an der Sihl: «Hündeler» decken Stadt Zürich mit Rekursen ein",
+      "url": "https://www.tagesanzeiger.ch/zuerich-190-einsprachen-gegen-hundeverbot-an-der-sihl-771529956166",
+      "summary": "Die Stadt will auf der Allmend Brunau an der Sihl eine Hundeverbotszone einrichten. Die Hundehalterinnen und Hundehalter wehren sich mit Einsprachen.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Trockenheit und Energie: Wassermangel an der Donau legt Kraftwerke still",
+      "url": "https://www.bernerzeitung.ch/donau-niedrigwasser-kernkraftwerke-abgeschaltet-389450528315",
+      "summary": "Die Donau erreicht historische Tiefstände, eine Entspannung ist nicht in Sicht. Auch der Tourismus leidet.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gemeinde Schwarzenburg: Baustelle sperrt Albligenstrasse für Schwerverkehr",
+      "url": "https://www.bernerzeitung.ch/schwarzenburg-albligenstrasse-gesperrt-fuer-schwerverkehr-337568909493",
+      "summary": "Wegen Werkleitungsarbeiten gilt in Lanzenhäusern vom 10. August bis 2. Oktober Einspurverkehr. Schwerfahrzeuge müssen weiträumig umfahren.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Groupe E ernennt neuen Informatikdirektor",
+      "url": "https://www.inside-it.ch/groupe-e-ernennt-neuen-informatikdirektor-20260730",
+      "summary": "Julien Seydoux übernimmt die Leitung der Direktion Finanzen und Informatik. Er übernimmt die Funktion von Petra Mösching, die das Unternehmen nach nur wenigen Monaten verlässt.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Start-up komplettiert Datenschutz-Paket",
+      "url": "https://www.persoenlich.com/digital/start-up-komplettiert-datenschutz-paket",
+      "summary": "Das Berner Jungunternehmen bietet eine vollständige Datenschutz-Plattform für KMU-Websites an – zeitgleich schliesst es eine Finanzierungsrunde ab und stellt sein Leitungsteam neu direkt an.",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Drei Fussballfelder gross, direkt neben Roger Federer: Das verbirgt sich hinter der Migros-Villa",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-07-30/drei-fussballfelder-gross-direkt-neben-roger-federer-das",
+      "summary": "An bester Lage in Rapperswil-Jona besitzt die Migros ein mehrheitlich unbewohntes Anwesen. Wofür benötigt der genossenschaftlich organisierte Detailhändler eine solch feudale Villa?",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Appenzell Ausserrhoden Fördert Winterstrom Stärker",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/appenzell-ausserrhoden-foerdert-winterstrom-staerker-ld.4209915",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FCSG vor Highlight: Benfica steht in Europa-League-Quali unter Druck",
+      "url": "https://www.watson.ch/sport/europa-league/156035642-fcsg-vor-highlight-benfica-steht-in-europa-league-quali-unter-druck",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Buckelwal Hartwin: Video von Wal im Hafen von Wismar",
+      "url": "https://www.watson.ch/videos/deutschland/553842967-buckelwal-hartwin-video-von-wal-im-hafen-von-wismar",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tod durch Vergiftung: 15 Elefantenleichen in Kenia aufgefunden",
+      "url": "https://www.watson.ch/international/afrika/961662964-tod-durch-vergiftung-15-elefantenleichen-in-kenia-aufgefunden",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Judenangreifer zieht Urteil des Jugendgerichts Dielsdorf ZH weiter",
+      "url": "https://www.watson.ch/schweiz/zuerich/126695230-judenangreifer-zieht-urteil-des-jugendgerichts-dielsdorf-zh-weiter",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Riehen BS erfasst ab August biometrische Daten für Pässe und IDs",
+      "url": "https://www.watson.ch/schweiz/digital/895635656-riehen-bs-erfasst-ab-august-biometrische-daten-fuer-paesse-und-ids",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Italien: Polizei beschlagnahmt knapp 7000 unzulässige E-Roller aus China",
+      "url": "https://www.watson.ch/international/strasse/330763187-italien-polizei-beschlagnahmt-knapp-7000-unzulaessige-e-roller-aus-china",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundesgericht hebt Abstimmung in der Gemeinde Schwyz auf",
+      "url": "https://www.watson.ch/schweiz/justiz/815792492-bundesgericht-hebt-abstimmung-in-der-gemeinde-schwyz-auf",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Warum die Hitzewelle einfach nicht endet",
+      "url": "https://www.freiburger-nachrichten.ch/story/279778/warum-die-hitzewelle-einfach-nicht-endet",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Es geht um Milliarden: So dreist erpresst Fifa-Präsident Gianni Infantino den Weltfussball",
+      "url": "https://www.freiburger-nachrichten.ch/story/279748/es-geht-um-milliarden-so-dreist-erpresst-fifapr%C3%A4sident-gianni-infantino-den-weltfussball",
+      "summary": "",
+      "published": "2026-07-30T11:33:04.260509+00:00"
     }
   ]
 }
