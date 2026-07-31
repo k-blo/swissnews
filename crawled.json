@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-31T00:02:36.248232+00:00",
+  "generated": "2026-07-31T00:32:52.093569+00:00",
   "date": "2026-07-31",
-  "count": 16,
+  "count": 20,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -114,6 +114,34 @@
       "url": "https://www.tagesanzeiger.ch/trump-vereinbarung-zur-entwaffnung-der-hamas-erzielt-126434754392",
       "summary": "US-Präsident Donald Trump hat eine Vereinbarung zur «vollständigen Entwaffnung» der islamistischen Palästinenserorganisation Hamas im Gazastreifen verkündet.",
       "published": "2026-07-30T23:02:13.173411+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Streit eskaliert: Meloni will Spanien aus Schengen ausschliessen",
+      "url": "https://www.20min.ch/story/migranten-in-ceuta-streit-eskaliert-meloni-will-spanien-aus-schengen-ausschliessen-103611255",
+      "summary": "Nach der Ankunft von mehr als 1500 Migranten in der spanischen Exklave Ceuta verschärft sich der Streit in Europa. Italiens Regierungschefin Giorgia Meloni fordert aussergewöhnliche Massnahmen.",
+      "published": "2026-07-31T00:32:52.093569+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Donald Trump: Einigung mit der Hamas",
+      "url": "https://www.zentralplus.ch/news/donald-trump-einigung-mit-der-hamas-2888477/",
+      "summary": "Der sogenannte «Friedensrat» hat offenbar eine Einigung für einen dauerhaften Frieden im Gazastreifen erzielt. Das schreibt US-Präsident Trump. Die Vereinbarung beinhalte die komplette Entwaffnung der",
+      "published": "2026-07-31T00:32:52.093569+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Das Leiden der Eliten Helvetisches Malaise im 21 Jahrhundert",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/das-leiden-der-eliten-helvetisches-malaise-im-21-jahrhundert",
+      "summary": "",
+      "published": "2026-07-31T00:32:52.093569+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Plädoyer für eine Weder Überhöhte Noch Einseitige Schweizer Geschichte",
+      "url": "https://www.nebelspalter.ch/themen/2026/07/plaedoyer-fuer-eine-weder-ueberhoehte-noch-einseitige-schweizer-geschichte",
+      "summary": "",
+      "published": "2026-07-31T00:32:52.093569+00:00"
     }
   ]
 }
