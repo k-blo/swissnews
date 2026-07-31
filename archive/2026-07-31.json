@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-31T07:32:20.809468+00:00",
+  "generated": "2026-07-31T08:01:50.295984+00:00",
   "date": "2026-07-31",
-  "count": 291,
+  "count": 302,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2039,6 +2039,83 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/nach-einbruch-in-autogarage-nimmt-die-kantonspolizei-drei-maenner-fest-art-1714944",
       "summary": "",
       "published": "2026-07-31T07:32:20.809468+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kampf um Deutungshoheit – «Abstimmungsbeschwerden sind zum politischen Instrument geworden»",
+      "url": "https://www.srf.ch/news/schweiz/kampf-um-deutungshoheit-abstimmungsbeschwerden-sind-zum-politischen-instrument-geworden",
+      "summary": "Kaum publiziert der Bund seine Informationen zur Ernährungsinitiative, kommt die Beschwerde. Ein Muster, das sich häuft.",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Vernetzte Autos aus China – Armee ergreift Schutzmassnahmen gegen «Smartphones auf Rädern»",
+      "url": "https://www.srf.ch/news/dialog/vernetzte-autos-aus-china-armee-ergreift-schutzmassnahmen-gegen-smartphones-auf-raedern",
+      "summary": "Der Bund sieht vernetzte Autos aus China als Risiko für Spionage. Er schützt besonders heikle Standorte dagegen.",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abkühlung als Reisemotiv – Herr und Frau Schweizer flüchten vor der Hitze in die Berge",
+      "url": "https://www.srf.ch/news/schweiz/abkuehlung-als-reisemotiv-herr-und-frau-schweizer-fluechten-vor-der-hitze-in-die-berge",
+      "summary": "Die Schweiz schwitzt – und flüchtet in die Höhe. Berge und Seen verzeichnen diesen Sommer Rekordzulauf.",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Unglück am Broad Peak: Rekord-Alpinist «Nims Dai» und neun weitere Bergsteiger nach Lawinenabgang vermisst",
+      "url": "https://www.bernerzeitung.ch/broad-peak-nirmal-purja-nach-lawine-vermisst-469558488068",
+      "summary": "Ein Team um den Extrembergsteiger Nirmal Purja wird nach einem Lawinenabgang am Broad Peak in Pakistan vermisst. Rettungskräfte suchen nach der internationalen Expedition im Karakorum-Gebirge.",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ferien mit der Familie: Tennis-Star Caroline Wozniacki schwärmt von Gstaad",
+      "url": "https://www.bernerzeitung.ch/gstaad-tennisstar-wozniacki-feiert-ferien-im-saanenland-598851892255",
+      "summary": "Die Dänin genoss mit ihrer Familie die Ferientage im Berner Oberland. Auf Instagram teilte die frühere Weltranglistenerste Bilder aus der Region Gstaad.",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Outdoormarke erhält neuen Besitzer aus China",
+      "url": "https://www.persoenlich.com/marketing/outdoormarke-erhalt-neuen-besitzer-aus-china",
+      "summary": "Die Beteiligungsgesellschaft Jacobs Capital verkauft das Unternehmen mit Sitz im Aargau an einen chinesischen Investor. Der Sitz von Mammut bleibt in der Schweiz.",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ki im Kinderzimmer",
+      "url": "https://www.suedostschweiz.ch/graubuenden/ki-im-kinderzimmer-2095406",
+      "summary": "",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern 18 Jährige Sollen Gratis Regional News Erhalten",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-18-jaehrige-sollen-gratis-regional-news-erhalten-ld.4210293",
+      "summary": "",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Uitikon Jugendlicher nach Ausbruch aus Massnahmenzentrum Gefasst",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/uitikon-jugendlicher-nach-ausbruch-aus-massnahmenzentrum-gefasst-ld.4210311",
+      "summary": "",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Appenzellerland Ticker vom 29 Juni Bis 30 Juli",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/appenzellerland-ticker-vom-29-juni-bis-30-juli-ld.4210307",
+      "summary": "",
+      "published": "2026-07-31T08:01:50.295984+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wer in der Stadt Luzern 18 wird, soll ein Jahr gratis regionale News lesen können",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-18-jaehrige-sollen-gratis-regional-news-erhalten-art-1714946",
+      "summary": "",
+      "published": "2026-07-31T08:01:50.295984+00:00"
     }
   ]
 }
