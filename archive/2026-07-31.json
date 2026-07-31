@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-31T00:32:52.093569+00:00",
+  "generated": "2026-07-31T01:02:27.308198+00:00",
   "date": "2026-07-31",
-  "count": 20,
+  "count": 21,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -142,6 +142,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/07/plaedoyer-fuer-eine-weder-ueberhoehte-noch-einseitige-schweizer-geschichte",
       "summary": "",
       "published": "2026-07-31T00:32:52.093569+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Apple: Wachstum im iPhone-Geschäft",
+      "url": "https://www.zentralplus.ch/news/apple-wachstum-im-iphone-geschaeft-2888479/",
+      "summary": "Apple hat im vergangenen Quartal ein starkes Wachstum in seinem iPhone-Geschäft verzeichnet. Der Umsatz stieg im Jahresvergleich um nahezu 22 Prozent auf 54,25 Milliarden Dollar. Insgesamt stieg der A",
+      "published": "2026-07-31T01:02:27.308198+00:00"
     }
   ]
 }
