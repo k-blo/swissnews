@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-31T01:02:27.308198+00:00",
+  "generated": "2026-07-31T01:32:45.071345+00:00",
   "date": "2026-07-31",
-  "count": 21,
+  "count": 22,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -149,6 +149,13 @@
       "url": "https://www.zentralplus.ch/news/apple-wachstum-im-iphone-geschaeft-2888479/",
       "summary": "Apple hat im vergangenen Quartal ein starkes Wachstum in seinem iPhone-Geschäft verzeichnet. Der Umsatz stieg im Jahresvergleich um nahezu 22 Prozent auf 54,25 Milliarden Dollar. Insgesamt stieg der A",
       "published": "2026-07-31T01:02:27.308198+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Apple wird von einer Nachfrage-Welle überrollt, in allen Weltregionen boomt es. Doch auf den neuen CEO warten bereits Probleme",
+      "url": "https://www.nzz.ch/technologie/apple-wird-von-einer-nachfrage-welle-ueberrollt-in-allen-weltregionen-boomt-es-doch-auf-den-neuen-ceo-warten-bereits-probleme-ld.10017711",
+      "summary": "",
+      "published": "2026-07-31T01:32:45.071345+00:00"
     }
   ]
 }
