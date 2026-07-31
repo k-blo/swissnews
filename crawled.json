@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-31T01:32:45.071345+00:00",
+  "generated": "2026-07-31T02:02:31.809589+00:00",
   "date": "2026-07-31",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,20 @@
       "url": "https://www.nzz.ch/technologie/apple-wird-von-einer-nachfrage-welle-ueberrollt-in-allen-weltregionen-boomt-es-doch-auf-den-neuen-ceo-warten-bereits-probleme-ld.10017711",
       "summary": "",
       "published": "2026-07-31T01:32:45.071345+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mindestens 32 Tote nach Grubenexplosion in Pakistan",
+      "url": "https://www.20min.ch/story/kohlebergwerk-mindestens-32-tote-nach-grubenexplosion-in-pakistan-103611260",
+      "summary": "Nach einer Explosion in einem Kohlebergwerk im Südwesten Pakistans sind mindestens 32 Bergleute ums Leben gekommen. Zehn weitere werden noch unter Tage vermisst.",
+      "published": "2026-07-31T02:02:31.809589+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Summerdays 2 Tagespässe zu Gewinnen",
+      "url": "https://www.tagblatt.ch/aboplus/wettbewerbe/summerdays-2-tagespaesse-zu-gewinnen-ld.4202511",
+      "summary": "",
+      "published": "2026-07-31T02:02:31.809589+00:00"
     }
   ]
 }
