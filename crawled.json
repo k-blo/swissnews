@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-31T02:02:31.809589+00:00",
+  "generated": "2026-07-31T02:32:18.418641+00:00",
   "date": "2026-07-31",
-  "count": 24,
+  "count": 31,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -170,6 +170,55 @@
       "url": "https://www.tagblatt.ch/aboplus/wettbewerbe/summerdays-2-tagespaesse-zu-gewinnen-ld.4202511",
       "summary": "",
       "published": "2026-07-31T02:02:31.809589+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Auch KI des OpenAI-Rivalen Anthropic griff echte Firmen an",
+      "url": "https://www.20min.ch/story/weiterer-zwischenfall-auch-ki-des-openai-rivalen-anthropic-griff-echte-firmen-an-103611261",
+      "summary": "Dass ein KI-Modell in einem Test auf eigene Faust zum Hacker wurde, galt als «beispielloser Zwischenfall» und ein Weckruf für die Tech-Branche. Doch nun wird klar: Es war kein Einzelfall.",
+      "published": "2026-07-31T02:32:18.418641+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Anthropic: KI-Modelle hacken Firmen",
+      "url": "https://www.zentralplus.ch/news/anthropic-ki-modelle-hacken-firmen-2888481/",
+      "summary": "In Testläufen drang Künstliche Intelligenz von Anthropic ungeplant in Computersysteme von drei Unternehmen ein, wie die KI-Firma mitteilte. Weder die Betroffenen noch Anthropic hätten das damals bemer",
+      "published": "2026-07-31T02:32:18.418641+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Erst temporär, später fix: Andelfingen schafft neue Parkplätze",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-07-31/erst-temporaer-spaeter-fix-andelfingen-schafft-neue",
+      "summary": "An der Reitplatzstrasse, unweit des Bahnhofs, hat der Gemeinderat vorübergehend Längsparkfelder einrichten lassen. Dies auch, um die Gefahrensituation auf dem betroffenen Streckenabschnitt zu entschär",
+      "published": "2026-07-31T02:32:18.418641+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Auch in der Schweiz Gibts Waldbrände aber sie Brennen Anders",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/auch-in-der-schweiz-gibts-waldbraende-aber-sie-brennen-anders-2104140",
+      "summary": "",
+      "published": "2026-07-31T02:32:18.418641+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Von Corvi über Jäger Bis Lemieux wer Wird Neuer Hcd Captain",
+      "url": "https://www.suedostschweiz.ch/regionalsport/von-corvi-ueber-jaeger-bis-lemieux-wer-wird-neuer-hcd-captain-2104997",
+      "summary": "",
+      "published": "2026-07-31T02:32:18.418641+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wie Reto Glarner den Skibetrieb in Braunwald Retten Will",
+      "url": "https://www.suedostschweiz.ch/glarus/wie-reto-glarner-den-skibetrieb-in-braunwald-retten-will-2104006",
+      "summary": "",
+      "published": "2026-07-31T02:32:18.418641+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Regierungsrat Will Fluglärm Monitoring im Hinterthurgau Nicht Wieder Einführen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/regierungsrat-will-fluglaerm-monitoring-im-hinterthurgau-nicht-wieder-einfuehren-ld.4208831",
+      "summary": "",
+      "published": "2026-07-31T02:32:18.418641+00:00"
     }
   ]
 }
