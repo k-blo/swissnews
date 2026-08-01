@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T04:01:57.451511+00:00",
+  "generated": "2026-08-01T04:31:51.965778+00:00",
   "date": "2026-08-01",
-  "count": 66,
+  "count": 72,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -464,6 +464,48 @@
       "url": "https://www.nzz.ch/wirtschaft/ein-pizzaofen-fuer-9000-dollar-hergestellt-in-connecticut-reicht-das-fuer-die-reindustrialisierung-der-usa-ein-besuch-ld.10014861",
       "summary": "",
       "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Bilder des Monats – August: Das sind die schönsten Leserbilder des Monats",
+      "url": "https://www.bernerzeitung.ch/bilder-des-monats-august-das-sind-die-schoensten-leserbilder-402814808586",
+      "summary": "Jeden Tag erreicht die «Berner Zeitung» eine Vielzahl an Leserbildern. Eine Auswahl der schönsten Fotos finden Sie hier.",
+      "published": "2026-08-01T04:31:51.965778+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Iran ist überall: So spüren Clariant, Bucher und Holcim den Krieg – oder entkommen ihm",
+      "url": "https://www.nzz.ch/wirtschaft/der-iran-ist-ueberall-so-spueren-clariant-bucher-und-holcim-den-krieg-oder-entkommen-ihm-ld.10017746",
+      "summary": "",
+      "published": "2026-08-01T04:31:51.965778+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundesfeier 2026: So alt wird die Schweiz am heutigen Bundesfeiertag",
+      "url": "https://www.watson.ch/schweiz/bundesrat/800954115-bundesfeier-2026-so-alt-wird-die-schweiz-am-heutigen-bundesfeiertag",
+      "summary": "",
+      "published": "2026-08-01T04:31:51.965778+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die lustigsten 80 schweizerdeutschen Dialekt-Wörter",
+      "url": "https://www.watson.ch/schweiz/spass/187741087-die-lustigsten-80-schweizerdeutschen-dialekt-woerter",
+      "summary": "",
+      "published": "2026-08-01T04:31:51.965778+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitze in Basel: Unterwegs in der heissesten Stadt der Deutschschweiz",
+      "url": "https://www.watson.ch/schweiz/leben/253138401-hitze-in-basel-unterwegs-in-der-heissesten-stadt-der-deutschschweiz",
+      "summary": "",
+      "published": "2026-08-01T04:31:51.965778+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach massivem Widerstand: FIFA begräbt Pläne zu WM-Verkauf",
+      "url": "https://www.bote.ch/nachrichten/sport/nach-massivem-widerstand-fifa-zieht-investorenplaene-nach-widerstand-zurueck-art-1714989",
+      "summary": "",
+      "published": "2026-08-01T04:31:51.965778+00:00"
     }
   ]
 }
