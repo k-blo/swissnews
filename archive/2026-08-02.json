@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T22:01:40.168637+00:00",
+  "generated": "2026-08-01T22:32:12.588839+00:00",
   "date": "2026-08-02",
-  "count": 1,
+  "count": 2,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -9,6 +9,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/279742/aus-seel%C3%A4nder-linsen-entsteht-eine-fermentierte-fleischalternative",
       "summary": "",
       "published": "2026-08-01T22:01:40.168637+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "UKR fordert mehr Hilfe bei Luftabwehr",
+      "url": "https://www.zentralplus.ch/news/ukr-fordert-mehr-hilfe-bei-luftabwehr-2888899/",
+      "summary": "Der ukrainische Präsident Wolodimir Selenski hat seine westlichen Partner zu mehr Unterstützung bei der Luftabwehr aufgerufen. Die Ukraine brauche dringend Patriot-Luftabwehrraketen, so Selenski. Russ",
+      "published": "2026-08-01T22:32:12.588839+00:00"
     }
   ]
 }
