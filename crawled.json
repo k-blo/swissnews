@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T04:31:51.965778+00:00",
+  "generated": "2026-08-01T05:01:37.166134+00:00",
   "date": "2026-08-01",
-  "count": 72,
+  "count": 77,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -506,6 +506,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/nach-massivem-widerstand-fifa-zieht-investorenplaene-nach-widerstand-zurueck-art-1714989",
       "summary": "",
       "published": "2026-08-01T04:31:51.965778+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview zu Krafttraining und Ernährung: «Matt Damon hätte noch mehr aus seinen Muskeln herausholen können»",
+      "url": "https://www.tagesanzeiger.ch/matt-damon-wie-realistisch-ist-sein-koerper-mit-55-681585911566",
+      "summary": "Der 55-jährige Schauspieler wird für seinen athletischen Körper im Film «The Odyssey» gefeiert. Wie man mit über 50 auch so einen Body bekommen kann, sagt Personal Trainer Rolf Martin.",
+      "published": "2026-08-01T05:01:37.166134+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interaktives Spiel: Wie gut kennen Sie die Schweiz?",
+      "url": "https://www.tagesanzeiger.ch/schweiz-quiz-kennen-sie-alle-2110-gemeinden-646598321178",
+      "summary": "Kennen Sie die Gemeinden Ihrer Region? Testen Sie zum 1. August Ihr Geografie-Wissen zur Schweiz, und messen Sie sich mit den anderen Leserinnen und Lesern.",
+      "published": "2026-08-01T05:01:37.166134+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Abstimmung im September: «Mein Abschied? Das ist Wunsch­denken»: Wie Christoph Blocher noch einmal für seine Neutralität kämpft",
+      "url": "https://www.tagesanzeiger.ch/christoph-blocher-mit-85-neutralitaetsinitiative-als-vermaechtnis-618371439438",
+      "summary": "Der SVP-Doyen wird 86 und spürt das Alter. Doch für seine Neutralitäts­initiative wirft er sich noch einmal in die Schlacht. Seine Gegner unterstellen ihm finanzielle Motive.",
+      "published": "2026-08-01T05:01:37.166134+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hoffnung für den Käse der Nation: Mehr Protein als Rindfleisch – rettet der Fitness-Boom jetzt den Emmentaler?",
+      "url": "https://www.tagesanzeiger.ch/der-koenig-kaempft-sich-zurueck-die-neue-hoffnung-fuer-den-emmentaler-608834297820",
+      "summary": "Jahrelang war er der König der Schweizer Käse, dann mutierte der Emmentaler zum Sorgenkind der Landwirtschaft. Doch Totgesagte leben länger: Auf dem Heimmarkt deutet sich eine Trendwende an.",
+      "published": "2026-08-01T05:01:37.166134+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "1. August in der Hitzewelle: Wer das Klima schützt, schützt auch die Heimat",
+      "url": "https://www.bernerzeitung.ch/klimawandel-die-schweiz-hechelt-der-realitaet-hinterher-702821726152",
+      "summary": "Hitze und anhaltende Trockenheit verändern das Land. Die Schweiz ist für die neue Klimarealität nur bedingt gerüstet. Anpassungen sind möglich, aber aufwendig und teuer.",
+      "published": "2026-08-01T05:01:37.166134+00:00"
     }
   ]
 }
