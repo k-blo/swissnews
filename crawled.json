@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T00:01:53.108599+00:00",
+  "generated": "2026-08-01T00:31:43.086258+00:00",
   "date": "2026-08-01",
-  "count": 11,
+  "count": 13,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -79,6 +79,20 @@
       "url": "https://www.20min.ch/story/nancy-guthrie-mutter-von-savannah-guthrie-today-erpresserbrief-tot-nach-entfuehrung-103611620",
       "summary": "Nancy Guthrie verschwand am 1. Februar. Wie sich nun herausstellt, ist die Mutter von Moderatorin Savannah Guthrie wohl kurz nach ihrer Entführung gestorben.",
       "published": "2026-08-01T00:01:53.108599+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "FIFA zieht umstrittene Investorenpläne zurück",
+      "url": "https://www.nzz.ch/sport/fifa-zieht-investorenplaene-zurueck-ld.10017820",
+      "summary": "",
+      "published": "2026-08-01T00:31:43.086258+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA-Präsident Gianni Infantino begrabt Pläne zum WM-Verkauf",
+      "url": "https://www.watson.ch/sport/fifa/237730355-fifa-praesident-gianni-infantino-begrabt-plaene-zum-wm-verkauf",
+      "summary": "",
+      "published": "2026-08-01T00:31:43.086258+00:00"
     }
   ]
 }
