@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T16:01:56.420163+00:00",
+  "generated": "2026-08-01T16:31:43.613433+00:00",
   "date": "2026-08-01",
-  "count": 346,
+  "count": 352,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2424,6 +2424,48 @@
       "url": "https://www.watson.ch/sport/fifa/427682257-uefa-fordert-einen-freiwiligen-ruecktritt-von-gianni-infantino",
       "summary": "",
       "published": "2026-08-01T16:01:56.420163+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wird die Hamas entwaffnet? Das ist der aktuelle Stand",
+      "url": "https://www.20min.ch/story/naher-osten-wird-die-hamas-entwaffnet-das-ist-der-aktuelle-stand-103611755",
+      "summary": "US-Präsident Donald Trump verkündete, ein Fahrplan zur Entwaffnung der Hamas sei vereinbart worden. Noch gibt es jedoch viele offene Fragen und ungeklärte Punkte.",
+      "published": "2026-08-01T16:31:43.613433+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Erdbeben in Japan: Rettungseinsatz in eingestürztem Einkaufszentrum beendet",
+      "url": "https://www.tagesanzeiger.ch/erdbeben-japan-rettungseinsatz-in-einkaufszentrum-beendet-192724336194",
+      "summary": "Laut Behörden wird niemand mehr vermisst. Das Beben zerstörte mehr als 180 Wohnhäuser. 34 Menschen starben.",
+      "published": "2026-08-01T16:31:43.613433+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tour de France: Wiebes sprintet in der ersten Etappe zum Sieg",
+      "url": "https://www.watson.ch/sport/velo/557204185-tour-de-france-wiebes-sprintet-in-der-ersten-etappe-zum-sieg",
+      "summary": "",
+      "published": "2026-08-01T16:31:43.613433+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der 1. August in Zitaten",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/634416320-der-1-august-in-zitaten",
+      "summary": "",
+      "published": "2026-08-01T16:31:43.613433+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sensler Siege beim Stierenberglauf",
+      "url": "https://www.freiburger-nachrichten.ch/story/280098/sensler-siege-beim-stierenberglauf",
+      "summary": "",
+      "published": "2026-08-01T16:31:43.613433+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sollen Wärmebildgeräte bei der Jagd erlaubt werden?",
+      "url": "https://www.freiburger-nachrichten.ch/story/279517/sollen-w%C3%A4rmebildger%C3%A4te-bei-der-jagd-erlaubt-werden",
+      "summary": "",
+      "published": "2026-08-01T16:31:43.613433+00:00"
     }
   ]
 }
