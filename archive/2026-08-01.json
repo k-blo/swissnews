@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T01:01:57.913454+00:00",
+  "generated": "2026-08-01T01:31:39.461670+00:00",
   "date": "2026-08-01",
-  "count": 14,
+  "count": 15,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -100,6 +100,13 @@
       "url": "https://www.zentralplus.ch/news/fifa-zieht-investorenplaene-zurueck-2888792/",
       "summary": "Der Weltverband Fifa wird seine Investorenpläne nicht weiterverfolgen. Es sei deutlich geworden, dass das Projekt zu Spaltungen geführt habe, teilte der Verband mit. Der Weltverband habe sich auf die ",
       "published": "2026-08-01T01:01:57.913454+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "BS: Bundesfeier am Rhein",
+      "url": "https://www.zentralplus.ch/news/bs-bundesfeier-am-rhein-2888794/",
+      "summary": "Zehntausende Menschen haben am Freitagabend in Basel die Bundesfeier am Rhein besucht. Das traditionelle Feuerwerk über dem Rhein um 23 Uhr wurde im Vorfeld wegen der anhaltenden Trockenheit und Hitze",
+      "published": "2026-08-01T01:31:39.461670+00:00"
     }
   ]
 }
