@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T22:32:12.588839+00:00",
+  "generated": "2026-08-01T23:01:54.136438+00:00",
   "date": "2026-08-02",
-  "count": 2,
+  "count": 4,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,20 @@
       "url": "https://www.zentralplus.ch/news/ukr-fordert-mehr-hilfe-bei-luftabwehr-2888899/",
       "summary": "Der ukrainische Präsident Wolodimir Selenski hat seine westlichen Partner zu mehr Unterstützung bei der Luftabwehr aufgerufen. Die Ukraine brauche dringend Patriot-Luftabwehrraketen, so Selenski. Russ",
       "published": "2026-08-01T22:32:12.588839+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Drei Tote: Sprengsatz in Moskauer Restaurant detoniert",
+      "url": "https://www.tagesanzeiger.ch/moskau-russland-explosion-durch-sprengsatz-in-restaurant-drei-tote-710851916534",
+      "summary": "Bei der Explosion eines Sprengsatzes kommen in einem Moskauer Restaurant drei Menschen ums Leben. Zu einem möglichen Motiv geben sich die Behörden vorerst zugeknöpft.",
+      "published": "2026-08-01T23:01:54.136438+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Hannes Britschgi gibt Redaktionsleitung ab",
+      "url": "https://www.persoenlich.com/medien/hannes-britschgi-gibt-redaktionsleitung-ab",
+      "summary": "Nach gut einem Jahr kommt es zu einem Wechsel an der Spitze der Online-Zeitung: Seit 1. August leitet Marco Diener die Redaktion. Auch ein langjähriger Kolumnist hört auf.",
+      "published": "2026-08-01T23:01:54.136438+00:00"
     }
   ]
 }
