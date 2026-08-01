@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T21:01:43.161060+00:00",
+  "generated": "2026-08-01T21:31:56.594946+00:00",
   "date": "2026-08-01",
-  "count": 422,
+  "count": 425,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2956,6 +2956,27 @@
       "url": "https://www.bote.ch/nachrichten/sport/concacaf-kritisiert-infantino-wegen-investorenplaenen-art-1715014",
       "summary": "",
       "published": "2026-08-01T21:01:43.161060+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Tour de France Femmes: Schweizerinnen Rüegg und Reusser in den Top 10",
+      "url": "https://www.nzz.ch/sport/tour-de-france-femmes-schweizerinnen-rueegg-und-reusser-in-den-top-10-ld.10017858",
+      "summary": "",
+      "published": "2026-08-01T21:31:56.594946+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "SRG will im Herbst den Sendebetrieb wieder aufnehmen",
+      "url": "https://www.persoenlich.com/medien/srg-will-im-herbst-auf-ukw-senden",
+      "summary": "Die SRG-Radiosender sollen bald wieder auf UKW zu hören sein. Hinter den Kulissen läuft das Comeback bereits an. Das schreibt der SonntagsBlick.",
+      "published": "2026-08-01T21:31:56.594946+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Fc Basel Verliert Gegen Lausanne Schwung nach Startsieg Weg",
+      "url": "https://www.bzbasel.ch/sport/fc-basel/fc-basel-verliert-gegen-lausanne-schwung-nach-startsieg-weg-ld.4210571",
+      "summary": "",
+      "published": "2026-08-01T21:31:56.594946+00:00"
     }
   ]
 }
