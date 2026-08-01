@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T07:02:17.610211+00:00",
+  "generated": "2026-08-01T07:32:12.963985+00:00",
   "date": "2026-08-01",
-  "count": 120,
+  "count": 129,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -842,6 +842,69 @@
       "url": "https://www.watson.ch/international/migration/625005038-bericht-migranten-versuchten-grenzueberquerung-in-melilla",
       "summary": "",
       "published": "2026-08-01T07:02:17.610211+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Made in Switzerland» – Schweizer Präzision hat viele Gesichter",
+      "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/made-in-switzerland-schweizer-praezision-hat-viele-gesichter",
+      "summary": "Uhrmacherkunst im Jura, die steilste Zahnradbahn und Schweizer Rettungshunde: Das ist «Made in Switzerland».",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Unfall in Basel Stadt: Auto erfasst 42-jährige Fussgängerin – tot",
+      "url": "https://www.blick.ch/schweiz/basel/unfall-in-basel-stadt-auto-erfasst-42-jaehrige-fussgaengerin-tot-id22150361.html",
+      "summary": "In der Nacht auf den 1. August kam es in Basel zu einem schlimmen Autounfall. Eine 42-jährige Frau wurde auf einem Fussgängerstreifen erfasst und starb.",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Lawine trifft Expedition von Star-Alpinist: Drei Tote bestätigt",
+      "url": "https://www.20min.ch/story/broad-peak-lawine-trifft-expedition-von-star-alpinist-drei-tote-bestaetigt-103611651",
+      "summary": "Eine Lawine hat eine internationale Bergsteigergruppe am Broad Peak erfasst. Mindestens drei Alpinisten kamen ums Leben, die Rettungsarbeiten dauern an.",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Stimmen zum Fifa-Rückzieher: «Peinliche Kehrtwende»: Das sind die Reaktionen auf die «demütigende Niederlage für Infantino»",
+      "url": "https://www.bernerzeitung.ch/fifa-gibt-investorenplaene-auf-infantino-erleidet-niederlage-111913926923",
+      "summary": "Von «globaler Rückschlag» bis «der Fussball hat gesiegt» : So kommentiert die Weltpresse den Rückzieher des Fifa-Präsidenten.",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Waldbrand nahe griechischer Hauptstadt",
+      "url": "https://www.zentralplus.ch/news/waldbrand-nahe-griechischer-hauptstadt-2888805/",
+      "summary": "Bei starkem Wind breiten sich in Griechenland aktuell grosse Wald- und Buschbrände aus. Die grössten Fronten liegen rund 60 Kilometer westlich von der Hauptstadt Athen entfernt. Zuletzt wurden in den ",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie KI unsere Arbeit wirklich verändert",
+      "url": "https://www.netzwoche.ch/news/2026-08-01/wie-ki-unsere-arbeit-wirklich-veraendert",
+      "summary": "Wird die Hälfte aller Jobs verschwinden? Oder entstehen sogar mehr Stellen? Die Debatte über KI und den Arbeitsmarkt ist von Spekulationen geprägt, doch die Realität ist komplex. Will die Schweiz den ",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Baume Schneider Feiert in Luzern die Schweiz",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/baume-schneider-feiert-in-luzern-die-schweiz-ld.4195583",
+      "summary": "",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Europäer brachten Pocken nach Amerika – laut genetischem Nachweis",
+      "url": "https://www.watson.ch/wissen/gesundheit/849939888-europaeer-brachten-pocken-nach-amerika-laut-genetischem-nachweis",
+      "summary": "",
+      "published": "2026-08-01T07:32:12.963985+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Eine Gesellschaft wie das KKL»: Baume-Schneider feiert in Luzern die hörbare Vielfalt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/baume-schneider-feiert-in-luzern-die-schweiz-art-1714993",
+      "summary": "",
+      "published": "2026-08-01T07:32:12.963985+00:00"
     }
   ]
 }
