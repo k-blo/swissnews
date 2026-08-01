@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T02:01:56.381456+00:00",
+  "generated": "2026-08-01T02:31:38.496388+00:00",
   "date": "2026-08-01",
-  "count": 15,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -107,6 +107,20 @@
       "url": "https://www.zentralplus.ch/news/bs-bundesfeier-am-rhein-2888794/",
       "summary": "Zehntausende Menschen haben am Freitagabend in Basel die Bundesfeier am Rhein besucht. Das traditionelle Feuerwerk über dem Rhein um 23 Uhr wurde im Vorfeld wegen der anhaltenden Trockenheit und Hitze",
       "published": "2026-08-01T01:31:39.461670+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Forscher sind gespannt – SpaceX-Raketenteil kracht auf den Mond",
+      "url": "https://www.20min.ch/story/spacex-raketenteil-auf-mond-wissenschaft-forscher-erhoffen-sich-neue-erkenntnisse-103611628",
+      "summary": "Kommenden Mittwoch wird wohl ein Raketenteil mit siebenfacher Schallgeschwindigkeit auf den Mond krachen. Geplant war das laut SpaceX nicht.",
+      "published": "2026-08-01T02:31:38.496388+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein Eigentor für Gianni Infantino: Vernichtende Reaktionen zu Plänen für die Privatisierung der WM",
+      "url": "https://www.freiburger-nachrichten.ch/story/280047/ein-eigentor-f%C3%BCr-gianni-infantino-vernichtende-reaktionen-zu-pl%C3%A4nen-f%C3%BCr-die-privatisierung-der-wm",
+      "summary": "",
+      "published": "2026-08-01T02:31:38.496388+00:00"
     }
   ]
 }
