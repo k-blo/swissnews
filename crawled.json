@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T23:01:54.136438+00:00",
+  "generated": "2026-08-01T23:32:00.095899+00:00",
   "date": "2026-08-02",
-  "count": 4,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -30,6 +30,13 @@
       "url": "https://www.persoenlich.com/medien/hannes-britschgi-gibt-redaktionsleitung-ab",
       "summary": "Nach gut einem Jahr kommt es zu einem Wechsel an der Spitze der Online-Zeitung: Seit 1. August leitet Marco Diener die Redaktion. Auch ein langjähriger Kolumnist hört auf.",
       "published": "2026-08-01T23:01:54.136438+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Explosion von Sprengsatz: 3 Tote in RUS",
+      "url": "https://www.zentralplus.ch/news/explosion-von-sprengsatz-3-tote-in-rus-2888901/",
+      "summary": "In der Nähe eines Cafés im Zentrum der russischen Hauptstadt Moskau hat es eine Explosion gegeben. Gemäss den lokalen Ermittlungsbehörden soll die Explosion durch einen Sprengsatz verursacht worden se",
+      "published": "2026-08-01T23:32:00.095899+00:00"
     }
   ]
 }
