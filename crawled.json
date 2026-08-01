@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T18:02:00.072135+00:00",
+  "generated": "2026-08-01T18:32:00.779688+00:00",
   "date": "2026-08-01",
-  "count": 380,
+  "count": 385,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2662,6 +2662,41 @@
       "url": "https://www.watson.ch/sport/liveticker/716375481-super-league-thun-gegen-yb-live-im-stream-und-ticker",
       "summary": "",
       "published": "2026-08-01T18:02:00.072135+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hat der marokkanische König Migranten nach Ceuta geschickt?",
+      "url": "https://www.20min.ch/story/migrationswelle-hat-der-marokkanische-koenig-migranten-nach-ceuta-geschickt-103611717",
+      "summary": "Marokko steht im Verdacht, die Migrationsbewegungen nach Ceuta ausgelöst oder zumindest begünstigt zu haben. Betroffene berichten, Polizisten hätten sie durchgelassen, andere sagen, sie seien geschlag",
+      "published": "2026-08-01T18:32:00.779688+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach Ceuta-Krise streiten sich EU-Länder mit scharfen Worten",
+      "url": "https://www.20min.ch/story/schengenraum-nach-ceuta-krise-streiten-sich-eu-laender-mit-scharfen-worten-103611767",
+      "summary": "Italien kündigte vorübergehend das Schengen-Abkommen mit Spanien auf. 22 EU-Länder kritisieren die Ceuta-Krise in einem Brief. Pedro Sánchez findet scharfe Worte gegen seine Kritiker.",
+      "published": "2026-08-01T18:32:00.779688+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Challenge Leagü der Fc Aarau Spielt Gegen Lausanne Ouchy 11",
+      "url": "https://www.aargauerzeitung.ch/sport/fc-aarau/challenge-league-der-fc-aarau-spielt-gegen-lausanne-ouchy-11-ld.4208220",
+      "summary": "",
+      "published": "2026-08-01T18:32:00.779688+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "PSG-Boss wird nicht als FIFA-Präsident kandidieren",
+      "url": "https://www.watson.ch/sport/fifa/201874863-psg-boss-wird-nicht-als-fifa-praesident-kandidieren",
+      "summary": "",
+      "published": "2026-08-01T18:32:00.779688+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Super League: Basel verliert gegen Lausanne – Zürich schlägt Servette",
+      "url": "https://www.watson.ch/sport/fc-basel/501536339-super-league-basel-verliert-gegen-lausanne-zuerich-schlaegt-servette",
+      "summary": "",
+      "published": "2026-08-01T18:32:00.779688+00:00"
     }
   ]
 }
