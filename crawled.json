@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T03:31:38.370386+00:00",
+  "generated": "2026-08-01T04:01:57.451511+00:00",
   "date": "2026-08-01",
-  "count": 57,
+  "count": 66,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -401,6 +401,69 @@
       "url": "https://www.nzz.ch/zuerich/hausbesetzung-am-fuss-des-zuerichbergs-die-szene-zieht-in-ein-haus-das-offenbar-ein-konsulat-werden-soll-ld.10017649",
       "summary": "",
       "published": "2026-08-01T03:31:38.370386+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home auf Reisen: Wo der See magisch leuchtet, Kräuter wie Austern schmecken, die Alpenküche im Kloster wohnt und Mark Twain den Sonnenaufgang verpasste",
+      "url": "https://www.tagesanzeiger.ch/sweet-home-genussvolle-reise-durch-die-innerschweiz-231881722330",
+      "summary": "Heimatgefühl, Fernweh, Nostalgie, spannende Gegenwart und dramatische Schönheit: Eine kleine Reise in die Innerschweiz.",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Badi-Beizen in Winterthur: «Bei 30 Grad jeden Tag haben wir Ende Saison nicht zwingend gute Zahlen»",
+      "url": "https://www.tagesanzeiger.ch/badi-winterthur-wie-geht-es-den-restaurants-in-den-freibaedern-585584074438",
+      "summary": "Badi-Beizen haben 30 gute Tage pro Saison, lautet die Faustregel. Wie verdient man Geld mit einem wetterabhängigen Saisonbetrieb? Wir haben vier Wirte in Winterthur gefragt.",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hülsenfrüchte aus der Schweiz: Superfood statt Tierfutter: Zürcher Bauern pflanzen wieder mehr Linsen und Bohnen",
+      "url": "https://www.tagesanzeiger.ch/proteinwende-schweizer-bauern-setzen-auf-linsen-statt-tierfutter-788757507532",
+      "summary": "Auf 60 Prozent der Schweizer Äcker wächst Tierfutter statt direkte Nahrung für Menschen. Nun setzen wieder mehr Bauern auf proteinreiche Kulturen. Doch sie stossen auf Hindernisse.",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "IBM will die Überlegenheit seiner Quantencomputer nachgewiesen haben. Kritiker haben aber immer noch Zweifel",
+      "url": "https://www.nzz.ch/wissenschaft/ibm-will-die-ueberlegenheit-seiner-quantencomputer-nachgewiesen-haben-kritiker-haben-aber-immer-noch-zweifel-ld.10017759",
+      "summary": "",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Hat Marokko den Sturm von Migranten auf Ceuta zugelassen?",
+      "url": "https://www.nzz.ch/international/marokkos-rolle-beim-migrantenansturm-auf-ceuta-hinterfragt-ld.10017725",
+      "summary": "",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KI wird immer mächtiger. Nun streiten Washington und das Silicon Valley darüber, wie man die Schlüsseltechnologie regulieren sollte",
+      "url": "https://www.nzz.ch/technologie/ki-wird-immer-maechtiger-nun-streiten-washington-und-das-silicon-valley-darueber-wie-man-die-schluesseltechnologie-regulieren-sollte-ld.10017573",
+      "summary": "",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Frau, die Jeffrey Epsteins Millionen erbt",
+      "url": "https://www.nzz.ch/panorama/die-frau-die-jeffrey-epsteins-millionen-erbt-ld.10017420",
+      "summary": "",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Atzmännig, Äscher und Gusöteli – wie beliebte Ausflugsziele zu ihren Namen kamen",
+      "url": "https://www.nzz.ch/schweiz/atzmaennig-und-gusoeteli-wie-beliebte-ausflugsziele-zu-ihren-namen-kamen-ld.10016383",
+      "summary": "",
+      "published": "2026-08-01T04:01:57.451511+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Pizzaofen für 9000 Dollar, hergestellt in Connecticut. Reicht das für die Reindustrialisierung der USA? Ein Besuch",
+      "url": "https://www.nzz.ch/wirtschaft/ein-pizzaofen-fuer-9000-dollar-hergestellt-in-connecticut-reicht-das-fuer-die-reindustrialisierung-der-usa-ein-besuch-ld.10014861",
+      "summary": "",
+      "published": "2026-08-01T04:01:57.451511+00:00"
     }
   ]
 }
