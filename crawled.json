@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-31T23:31:41.833918+00:00",
+  "generated": "2026-08-01T00:01:53.108599+00:00",
   "date": "2026-08-01",
-  "count": 9,
+  "count": 11,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -65,6 +65,20 @@
       "url": "https://www.tagesanzeiger.ch/nancy-guthrie-mutter-savannah-guthrie-erpresserbrief-tod-nach-verschwinden-entfuerhung-916153717100",
       "summary": "Nancy Guthrie verschwand am 1. Februar. Wie sich nun herausstellt, ist die Mutter von Moderatorin Savannah Guthrie wohl kurz nach ihrer Entführung gestorben.",
       "published": "2026-07-31T23:31:41.833918+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fifa zieht Pläne zum Teilverkauf von WM-Anteilen zurück",
+      "url": "https://www.20min.ch/story/fussball-fifa-zieht-plaene-zum-teilverkauf-von-wm-anteilen-zurueck-103611623",
+      "summary": "Nach heftiger Kritik an den Plänen von Gianni Infantino, Teile der WM zu verkaufen, macht der Fifa-Präsident einen Rückzieher.",
+      "published": "2026-08-01T00:01:53.108599+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nancy Guthrie «ist jetzt in der Natur begraben»",
+      "url": "https://www.20min.ch/story/nancy-guthrie-mutter-von-savannah-guthrie-today-erpresserbrief-tot-nach-entfuehrung-103611620",
+      "summary": "Nancy Guthrie verschwand am 1. Februar. Wie sich nun herausstellt, ist die Mutter von Moderatorin Savannah Guthrie wohl kurz nach ihrer Entführung gestorben.",
+      "published": "2026-08-01T00:01:53.108599+00:00"
     }
   ]
 }
