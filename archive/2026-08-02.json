@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T00:31:51.836323+00:00",
+  "generated": "2026-08-02T00:49:37.978675+00:00",
   "date": "2026-08-02",
-  "count": 7,
+  "count": 9,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -51,6 +51,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/die-freie-schweiz-und-ihre-heutigen-feinde",
       "summary": "",
       "published": "2026-08-02T00:31:51.836323+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Touristenmaschine stürzt auf Rundflug in Peru ab – 13 Tote",
+      "url": "https://www.20min.ch/story/peru-flugzeug-absturz-mit-touristen-nasca-linien-13-tote-103611997",
+      "summary": "Die berühmten Nasca-Linien in Peru gehören zum Weltkulturerbe. Ein touristischer Flug in der Region endet nun tödlich: Unter den Opfern sollen ersten Erkenntnissen zufolge auch Deutsche sein.",
+      "published": "2026-08-02T00:49:37.978675+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Absturz von Tourismus-Flugzeug: 13 Tote",
+      "url": "https://www.zentralplus.ch/news/absturz-von-tourismus-flugzeug-13-tote-2888903/",
+      "summary": "Bei einem Absturz eines Kleinflugzeugs auf einem touristischen Rundflug in Peru sind 13 Menschen ums Leben gekommen. Nach dem Absturz habe das Flugzeug zu brennen begonnen, teilt die Polizei mit. Waru",
+      "published": "2026-08-02T00:49:37.978675+00:00"
     }
   ]
 }
