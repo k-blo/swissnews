@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T00:01:42.477684+00:00",
+  "generated": "2026-08-02T00:31:51.836323+00:00",
   "date": "2026-08-02",
-  "count": 6,
+  "count": 7,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -44,6 +44,13 @@
       "url": "https://www.nzz.ch/international/moskau-bombenanschlag-in-restaurant-im-stadtzentrum-ld.10017861",
       "summary": "",
       "published": "2026-08-02T00:01:42.477684+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Freie Schweiz und Ihre Heutigen Feinde",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/die-freie-schweiz-und-ihre-heutigen-feinde",
+      "summary": "",
+      "published": "2026-08-02T00:31:51.836323+00:00"
     }
   ]
 }
