@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T12:31:53.522608+00:00",
+  "generated": "2026-08-02T13:01:44.446236+00:00",
   "date": "2026-08-02",
-  "count": 284,
+  "count": 300,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1990,6 +1990,118 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/sc-cham-startet-mit-spaetem-21-gegen-breitenrain-art-1715036",
       "summary": "",
       "published": "2026-08-02T12:31:53.522608+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Während Beerdigung bricht plötzlich die Kirchturmspitze ab",
+      "url": "https://www.20min.ch/story/vernayaz-kirchturmspitze-bricht-waehrend-beerdigung-ab-103612096",
+      "summary": "Während in der Kirche eine Beerdigung stattfand, riss vermutlich eine heftige Windböe die Spitze des Kirchturms ab. Die Trauergäste wurden von dem Vorfall überrascht.",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Massenandrang in Ceuta: Hat Marokko die Menschen losgeschickt?",
+      "url": "https://www.tagesanzeiger.ch/ceuta-hat-marokko-die-migranten-losgeschickt-828042278703",
+      "summary": "Zehntausende Migranten wollen in die spanische Exklave und kommen durch, obwohl die Grenze normalerweise gut bewacht ist. Das wirft Fragen auf, was hinter der Massenflucht steckt.",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sturm auf Ceuta: Die EU-Kritik an Sánchez geht zurück auf das Trauma von 2015",
+      "url": "https://www.tagesanzeiger.ch/ceuta-die-eu-kritik-an-spanien-und-das-trauma-von-2015-916772339674",
+      "summary": "Spanien aus dem Schengenraum ausschliessen? Das ist Unsinn. Doch die 22 EU-Staats- und Regierungschefs reagieren nicht ohne Grund mehr als besorgt auf die Ceuta-Krise.",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Toter Extrem-Bergsteiger: Leiche von Nirmal Purja in Pakistan geborgen",
+      "url": "https://www.tagesanzeiger.ch/nirmal-purja-leiche-vom-broad-peak-geborgen-966257656199",
+      "summary": "Der Gipfelstürmer und Netflix-Star Nirmal Purja starb durch eine Lawine in Pakistan. Die Bergung seines Leichnams konnte erst nach mehreren Tagen erfolgen.",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Opec plus» will mehr Öl liefern",
+      "url": "https://www.zentralplus.ch/news/opec-plus-will-mehr-oel-liefern-2888992/",
+      "summary": "Das Erdölbündnis «Opec plus» erhöht die Mengenobergrenze für die Erdölförderung zum sechsten Mal in Folge. Für September dürfen die Mitgliedstaaten täglich 188&#8217;000 Barrel Öl mehr produzieren. Da",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Endlich Zuoberst Bündner Mountainbikerin Krönt Sich zur Europameisterin",
+      "url": "https://www.suedostschweiz.ch/regionalsport/endlich-zuoberst-buendner-mountainbikerin-kroent-sich-zur-europameisterin-2106485",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Bilder von der Sempachersee Überqürung 2026",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/bilder-von-der-sempachersee-ueberquerung-2026-ld.4210725",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Bütschwil Bewohner des Seniorenzentrums Hält Festrede",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/buetschwil-bewohner-des-seniorenzentrums-haelt-festrede-ld.4210694",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Heinz Frei Spricht in Niederbuchsiten über Mut und Zuversicht",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/heinz-frei-spricht-in-niederbuchsiten-ueber-mut-und-zuversicht-ld.4209126",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Frauen und Mädchen Eröffnen den Schwinget in Zofingen",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/frauen-und-maedchen-eroeffnen-den-schwinget-in-zofingen-ld.4209542",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Waldstock in Steinhausen Bleibt Trotz Wandel ein Familienfestival",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/waldstock-in-steinhausen-bleibt-trotz-wandel-ein-familienfestival-ld.4210650",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mountainbik-EM: Sina Frei gewinnt im Cross Country vor Keller",
+      "url": "https://www.watson.ch/sport/mountainbike/298511867-mountainbik-em-sina-frei-gewinnt-im-cross-country-vor-keller",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Erneut Bronze für Para-Ruderin Ghiringhelli",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-erneut-bronze-fuer-para-ruderin-ghiringhelli",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "54-Jähriger fährt in Wislikofen AG in ein Gebäude",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/805961673-54-jaehriger-faehrt-in-wislikofen-ag-in-ein-gebaeude",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Digitaler Seitensprung? Warum viele Nutzer von KI-Partnern eine reale Beziehung führen",
+      "url": "https://www.freiburger-nachrichten.ch/story/280146/digitaler-seitensprung-warum-viele-nutzer-von-kipartnern-eine-reale-beziehung-f%C3%BChren",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Diese Schweizer Stadt ist plötzlich heisser als Athen: Wie die Menschen damit umgehen",
+      "url": "https://www.freiburger-nachrichten.ch/story/280144/diese-schweizer-stadt-ist-pl%C3%B6tzlich-heisser-als-athen-wie-die-menschen-damit-umgehen",
+      "summary": "",
+      "published": "2026-08-02T13:01:44.446236+00:00"
     }
   ]
 }
