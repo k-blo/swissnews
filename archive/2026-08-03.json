@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T22:01:50.052076+00:00",
+  "generated": "2026-08-02T22:31:55.218327+00:00",
   "date": "2026-08-03",
-  "count": 2,
+  "count": 3,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -16,6 +16,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/277877/alexandre-dumas-auf-den-spuren-der-murtenschlacht",
       "summary": "",
       "published": "2026-08-02T22:01:50.052076+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wegen KI-Hype: Kühne+Nagel&nbsp;gehts prächtig – Luftfracht überflügelt erstmals Seetransport",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wegen-ki-hype-kuehnenagel-gehts-praechtig-luftfracht-ueberfluegelt-erstmals-seetransport-art-1714956",
+      "summary": "",
+      "published": "2026-08-02T22:31:55.218327+00:00"
     }
   ]
 }
