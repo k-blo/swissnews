@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T11:31:42.850423+00:00",
+  "generated": "2026-08-02T12:01:43.583623+00:00",
   "date": "2026-08-02",
-  "count": 256,
+  "count": 265,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1794,6 +1794,69 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/waldstock-in-steinhausen-bleibt-trotz-wandel-ein-familienfestival-art-1715033",
       "summary": "",
       "published": "2026-08-02T11:31:42.850423+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Neutralitätsinitiative – Wird die Schweiz zum neutralsten Land der Welt?",
+      "url": "https://www.srf.ch/news/schweiz/neutralitaetsinitiative-wird-die-schweiz-zum-neutralsten-land-der-welt",
+      "summary": "Keine Sanktionen, keine Projekte mit der Nato: Auf der Suche nach Ländern mit ähnlich strikter Neutralität.",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Freilichttheater in Saanenmöser: Heimlicher Held und zwei unangepasste Frauen",
+      "url": "https://www.bernerzeitung.ch/freilichttheater-saanenmoeser-soldat-voegeli-bis-28-august-438248785031",
+      "summary": "«Soldat Vögeli» zeigt Spannungen auf zwischen Aktivdienstlern und Daheimgebliebenen. Vom feinen Schelmischen bis zur derben Komik ist alles drin.",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Michael Götte an Bundesfeier in Ebnat Kappel",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/michael-goette-an-bundesfeier-in-ebnat-kappel-ld.4210652",
+      "summary": "",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Martin Pfister Hält 1 August Rede in Baar",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/martin-pfister-haelt-1-august-rede-in-baar-ld.4210591",
+      "summary": "",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Koffer-Check am Flughafen Zürich: Wir erraten das Reiseziel",
+      "url": "https://www.watson.ch/videos/lifestyle/125352465-koffer-check-am-flughafen-zuerich-wir-erraten-das-reiseziel",
+      "summary": "",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vier-Tage-Woche: Warum weniger arbeiten das Burnout nicht stoppt",
+      "url": "https://www.watson.ch/wissen/wirtschaft/494375016-vier-tage-woche-warum-weniger-arbeiten-das-burnout-nicht-stoppt",
+      "summary": "",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran-Krieg: USA warfen 900 Kilo schwere Bombe auf Wohnhaus von Familie",
+      "url": "https://www.watson.ch/international/iran/431996680-iran-krieg-usa-warfen-900-kilo-schwere-bombe-auf-wohnhaus-von-familie",
+      "summary": "",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sie lächelt nicht für Trump – warum Kaitlan Collins den Präsidenten so reizt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/trump-verspottet-cnn-journalistin-kaitlan-collins-art-1715035",
+      "summary": "",
+      "published": "2026-08-02T12:01:43.583623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Seltene Ehre für einen Bundesrat – Baar feiert sich und Martin Pfister",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/martin-pfister-haelt-1-august-rede-in-baar-art-1715034",
+      "summary": "",
+      "published": "2026-08-02T12:01:43.583623+00:00"
     }
   ]
 }
