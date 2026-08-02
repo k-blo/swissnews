@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T01:31:49.358247+00:00",
+  "generated": "2026-08-02T02:01:56.377396+00:00",
   "date": "2026-08-02",
-  "count": 11,
+  "count": 13,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -79,6 +79,20 @@
       "url": "https://www.tagesanzeiger.ch/peru-nasca-linien-absturz-von-kleinflugzeug-opfer-13-tote-307048439754",
       "summary": "Die berühmten Nasca-Linien in Peru gehören zum Weltkulturerbe. Ein touristischer Flug in der Region endet nun tödlich: Unter den Opfern sollen ersten Erkenntnissen zufolge auch Deutsche sein.",
       "published": "2026-08-02T01:31:49.358247+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Einziges AKW Ungarns abgeschaltet",
+      "url": "https://www.zentralplus.ch/news/einziges-akw-ungarns-abgeschaltet-2888905/",
+      "summary": "Ungarn fährt wegen tiefer Wasserstände der Donau das einzige Kernkraftwerk des Landes komplett herunter. Es sei das erste Mal seit mehr als 40 Jahren, dass das Atomkraftwerk Paks komplett abgeschaltet",
+      "published": "2026-08-02T02:01:56.377396+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Herzliche Gratulation zum 95 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/herzliche-gratulation-zum-95-geburtstag-ld.4208018",
+      "summary": "",
+      "published": "2026-08-02T02:01:56.377396+00:00"
     }
   ]
 }
