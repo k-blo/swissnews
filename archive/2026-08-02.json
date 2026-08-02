@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T02:01:56.377396+00:00",
+  "generated": "2026-08-02T02:31:59.145624+00:00",
   "date": "2026-08-02",
-  "count": 13,
+  "count": 14,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -93,6 +93,13 @@
       "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/herzliche-gratulation-zum-95-geburtstag-ld.4208018",
       "summary": "",
       "published": "2026-08-02T02:01:56.377396+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Sopranos»-Mafioso mit 80 Jahren gestorben",
+      "url": "https://www.20min.ch/story/the-sopranos-tod-von-schauspieler-vincent-pastore-mafioso-103611999",
+      "summary": "Der Sohn italienischer Einwanderer, der in der Kult-Serie den Mafioso Salvatore «Big Pussy» Bonpensiero spielte, ist tot.",
+      "published": "2026-08-02T02:31:59.145624+00:00"
     }
   ]
 }
