@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T06:32:01.118106+00:00",
+  "generated": "2026-08-02T07:02:11.692410+00:00",
   "date": "2026-08-02",
-  "count": 104,
+  "count": 108,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -730,6 +730,34 @@
       "url": "https://www.watson.ch/international/usa/778072558-venezuela-regierung-und-teile-der-opposition-starten-neuen-dialog",
       "summary": "",
       "published": "2026-08-02T06:32:01.118106+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker:  Silvan Hefti trifft erstmals in der MLS",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-silvan-hefti-trifft-erstmals-in-der-mls",
+      "summary": "",
+      "published": "2026-08-02T07:02:11.692410+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Waldbrände: Schwere Nacht für Griechenland",
+      "url": "https://www.watson.ch/international/klima/256907558-waldbraende-schwere-nacht-fuer-griechenland",
+      "summary": "",
+      "published": "2026-08-02T07:02:11.692410+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Stadtfest Murten 2026 und Brocante",
+      "url": "https://www.freiburger-nachrichten.ch/story/280117/stadtfest-murten-2026-und-brocante",
+      "summary": "",
+      "published": "2026-08-02T07:02:11.692410+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Was Wir am 1 August Alles Gelernt Haben",
+      "url": "https://www.infosperber.ch/politik/was-wir-am-1-august-alles-gelernt-haben/",
+      "summary": "",
+      "published": "2026-08-02T07:02:11.692410+00:00"
     }
   ]
 }
