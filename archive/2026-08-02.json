@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T23:32:00.095899+00:00",
+  "generated": "2026-08-02T00:01:42.477684+00:00",
   "date": "2026-08-02",
-  "count": 5,
+  "count": 6,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,13 @@
       "url": "https://www.zentralplus.ch/news/explosion-von-sprengsatz-3-tote-in-rus-2888901/",
       "summary": "In der Nähe eines Cafés im Zentrum der russischen Hauptstadt Moskau hat es eine Explosion gegeben. Gemäss den lokalen Ermittlungsbehörden soll die Explosion durch einen Sprengsatz verursacht worden se",
       "published": "2026-08-01T23:32:00.095899+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mitten in Moskau explodiert während einer Feier in einem Restaurant eine Bombe – Ziel könnte ein russischer General gewesen sein",
+      "url": "https://www.nzz.ch/international/moskau-bombenanschlag-in-restaurant-im-stadtzentrum-ld.10017861",
+      "summary": "",
+      "published": "2026-08-02T00:01:42.477684+00:00"
     }
   ]
 }
