@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T03:02:02.812013+00:00",
+  "generated": "2026-08-02T03:31:48.413424+00:00",
   "date": "2026-08-02",
-  "count": 39,
+  "count": 41,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -275,6 +275,20 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/was-tram-und-bushaltestellen-ueber-die-wirtschaftsgeschichte-der-schweiz-verraten-art-1715017",
       "summary": "",
       "published": "2026-08-02T03:02:02.812013+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "100 Jahre später deckt er das Leid seiner Familie auf",
+      "url": "https://www.zentralplus.ch/geschichte/100-jahre-spaeter-deckt-er-das-leid-seiner-familie-auf-2879414/",
+      "summary": "Über 100 Jahre nachdem Kinder aus seiner Familie verdingt wurden und Schlimmes erleben mussten, hat Gian-Luca Muff, Maturand an der Kantonsschule Zug, ihre Geschichte aufgearbeitet. Sie führt tief in ",
+      "published": "2026-08-02T03:31:48.413424+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Unsere Demokratie ist stark»: Das sagten Luzerner Politgrössen am 1. August",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/1-august-im-kanton-luzern-das-sagten-die-politgroessen-art-1715018",
+      "summary": "",
+      "published": "2026-08-02T03:31:48.413424+00:00"
     }
   ]
 }
