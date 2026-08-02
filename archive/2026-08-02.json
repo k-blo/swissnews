@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T01:01:38.227747+00:00",
+  "generated": "2026-08-02T01:31:49.358247+00:00",
   "date": "2026-08-02",
-  "count": 9,
+  "count": 11,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -65,6 +65,20 @@
       "url": "https://www.zentralplus.ch/news/absturz-von-tourismus-flugzeug-13-tote-2888903/",
       "summary": "Bei einem Absturz eines Kleinflugzeugs auf einem touristischen Rundflug in Peru sind 13 Menschen ums Leben gekommen. Nach dem Absturz habe das Flugzeug zu brennen begonnen, teilt die Polizei mit. Waru",
       "published": "2026-08-02T00:49:37.978675+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Evakuierungs-SMS verschickt: Waldbrände: Schwere Nacht für Griechenland",
+      "url": "https://www.tagesanzeiger.ch/waldbraende-griechenland-bei-athen-evakuierung-bewohner-touristen-195622357559",
+      "summary": "Die Feuerwehrleute hatten keine Chance: Sämtliche Brände westlich von Athen und auf der Halbinsel Peloponnes haben sich ausgeweitet. In Frankreich hingegen ist die Lage weitgehend unter Kontrolle.",
+      "published": "2026-08-02T01:31:49.358247+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "In Notsituation geraten: Touristenmaschine stürzt auf Rundflug in Peru ab – 13 Tote",
+      "url": "https://www.tagesanzeiger.ch/peru-nasca-linien-absturz-von-kleinflugzeug-opfer-13-tote-307048439754",
+      "summary": "Die berühmten Nasca-Linien in Peru gehören zum Weltkulturerbe. Ein touristischer Flug in der Region endet nun tödlich: Unter den Opfern sollen ersten Erkenntnissen zufolge auch Deutsche sein.",
+      "published": "2026-08-02T01:31:49.358247+00:00"
     }
   ]
 }
