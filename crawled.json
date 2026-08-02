@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T21:01:58.867080+00:00",
+  "generated": "2026-08-02T21:05:48.461365+00:00",
   "date": "2026-08-02",
-  "count": 523,
+  "count": 525,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3663,6 +3663,20 @@
       "url": "https://www.watson.ch/international/russland/402570487-ukraine-tote-und-verletzte-bei-russischem-angriff-auf-saporischschja",
       "summary": "",
       "published": "2026-08-02T21:01:58.867080+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hitze hat den Urirotstock-Gletscher besiegt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/hitze-hat-den-urirotstock-gletscher-besiegt-art-1715064",
+      "summary": "",
+      "published": "2026-08-02T21:05:48.461365+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Brunner Siege an der Seeüberquerung im Küssnachter Becken",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/brunner-siege-an-der-seeueberquerung-im-kuessnachter-becken-art-1715118",
+      "summary": "",
+      "published": "2026-08-02T21:05:48.461365+00:00"
     }
   ]
 }
