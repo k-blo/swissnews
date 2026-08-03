@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T05:01:33.225628+00:00",
+  "generated": "2026-08-03T05:23:06.745090+00:00",
   "date": "2026-08-03",
-  "count": 128,
+  "count": 133,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -898,6 +898,41 @@
       "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-michelle-heimberg-gewinnt-em-silber-vom-1-m-brett",
       "summary": "",
       "published": "2026-08-03T05:01:33.225628+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Migrationskrise in Ceuta: Marokko macht Falschinformationen im Internet für Massenandrang verantwortlich",
+      "url": "https://www.tagesanzeiger.ch/ceuta-krise-marokko-macht-falschinformationen-mitverantwortlich-150619704106",
+      "summary": "Das marokkanische Innenministerium erklärte, die Verbreitung falscher Informationen im Netz, Aktivitäten von Schleusern und eine Falschinterpretation eines spanischen Gerichtsurteils seien der Grund f",
+      "published": "2026-08-03T05:23:06.745090+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Massenandrang in Ostia: Streit um Strände: Italien lässt private Strandbäder schliessen",
+      "url": "https://www.tagesanzeiger.ch/italiens-straende-mehr-kostenloser-zugang-ab-2027-987199217876",
+      "summary": "Die italienischen Behörden gehen verstärkt gegen private Strandbäder vor, welche den eigentlich öffentlichen Zugang zum Meer beschränken.",
+      "published": "2026-08-03T05:23:06.745090+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "National-League-Transfers: Vinzenz Rohrer vor Wechsel zum HC Davos?",
+      "url": "https://www.watson.ch/sport/fliegender-wechsel/196413003-national-league-transfers-vinzenz-rohrer-vor-wechsel-zum-hc-davos",
+      "summary": "",
+      "published": "2026-08-03T05:23:06.745090+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Italiens Behörden gehen gegen illegale Bauten an Stränden vor",
+      "url": "https://www.watson.ch/international/italien/877862766-italiens-behoerden-gehen-gegen-illegale-bauten-an-straenden-vor",
+      "summary": "",
+      "published": "2026-08-03T05:23:06.745090+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Humanitäre Katastrophe in Ceuta",
+      "url": "https://insideparadeplatz.ch/2026/08/03/humanitaere-katastrophe-in-ceuta/",
+      "summary": "",
+      "published": "2026-08-03T05:23:06.745090+00:00"
     }
   ]
 }
