@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T00:31:57.927241+00:00",
+  "generated": "2026-08-03T01:01:58.206205+00:00",
   "date": "2026-08-03",
-  "count": 6,
+  "count": 7,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -44,6 +44,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/warum-der-sozialismus-immer-wieder-scheitert",
       "summary": "",
       "published": "2026-08-03T00:31:57.927241+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ariana Grande kündigt grosse Auszeit an",
+      "url": "https://www.20min.ch/story/gesundheitliche-gruende-ariana-grande-kuendigt-grosse-auszeit-an-103612387",
+      "summary": "Ariana Grande wird doch nicht wie geplant in London auf der Musicalbühne stehen. Die Sängerin will sich nach ihrer Tournee eine Auszeit nehmen. Es gibt Spekulationen über ihren Gesundheitszustand.",
+      "published": "2026-08-03T01:01:58.206205+00:00"
     }
   ]
 }
