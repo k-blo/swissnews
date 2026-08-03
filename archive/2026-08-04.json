@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T22:02:00.033730+00:00",
+  "generated": "2026-08-03T22:31:34.300723+00:00",
   "date": "2026-08-04",
-  "count": 5,
+  "count": 15,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -37,6 +37,76 @@
       "url": "https://www.freiburger-nachrichten.ch/story/280208/dann-nehmen-wir-einfach-schlacht-f%C3%BCr-schlacht",
       "summary": "",
       "published": "2026-08-03T22:02:00.033730+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Das Haus dieser Walliser Familie gleicht einer Intensivstation: «So leben wir mit unseren zwei schwerkranken Kindern»",
+      "url": "https://www.blick.ch/schweiz/westschweiz/wallis/das-haus-dieser-walliser-familie-gleicht-einer-intensivstation-so-leben-wir-mit-unseren-zwei-schwerkranken-kindern-id22155752.html",
+      "summary": "Kelyan (2) und Océane (4 Monate) kämpfen in Vollèges VS mit einer seltenen Luftröhrenfehlbildung. Ihre Eltern stehen rund um die Uhr im Einsatz, um das Überleben der Kinder zu sichern – es ist ein Leb",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wenn der QR-Code zur Betrugsfalle wird",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wenn-der-qr-code-zur-betrugsfalle-wird-art-1715278",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Steinerin möchte international abliefern",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/steinerin-moechte-international-abliefern-art-1715176",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Richtstätten: Vom Rechtsort zum fast verschwundenen Flurnamen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/richtstaetten-vom-rechtsort-zum-fast-verschwundenen-flurnamen-art-1715160",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Langsam wird das Futter knapp: Schwyzer Landwirte sehnen sich nach Regen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/langsam-wird-das-futter-knapp-schwyzer-landwirte-sehnen-sich-nach-regen-art-1715215",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fredi Bruhin war bestklassierter Innerschweizer am Ricken",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/fredi-bruhin-war-bestklassierter-innerschweizer-am-ricken-art-1715177",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fachstelle Frühe Kindheit in Sattel und Rothenthurm unter neuer Trägerschaft",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fachstelle-fruehe-kindheit-in-sattel-und-rothenthurm-unter-neuer-traegerschaft-art-1715190",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bundesgerichtsentscheide sind wichtige Orientierungshilfen für die Gemeinden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bundesgerichtsentscheide-sind-wichtige-orientierungshilfen-fuer-die-gemeinden-art-1715158",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bezahlbarer Wohnraum: Kanton gibt die heisse Kartoffel an die Gemeinden weiter",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bezahlbarer-wohnraum-kanton-gibt-die-heisse-kartoffel-an-die-gemeinden-weiter-art-1715174",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "20 Jahre Alpkäserei Lipplisbüel gefeiert",
+      "url": "https://www.bote.ch/nachrichten/schwyz/20-jahre-alpkaeserei-lipplisbueel-gefeiert-art-1715183",
+      "summary": "",
+      "published": "2026-08-03T22:31:34.300723+00:00"
     }
   ]
 }
