@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T22:31:34.300723+00:00",
+  "generated": "2026-08-03T23:01:47.794172+00:00",
   "date": "2026-08-04",
-  "count": 15,
+  "count": 16,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -107,6 +107,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/20-jahre-alpkaeserei-lipplisbueel-gefeiert-art-1715183",
       "summary": "",
       "published": "2026-08-03T22:31:34.300723+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "GE: 14’000 Haushalte ohne Strom",
+      "url": "https://www.zentralplus.ch/news/ge-14000-haushalte-ohne-strom-2889257/",
+      "summary": "Ein heftiges Gewitter hat am Montagabend im Kanton Genf zu einem grossflächigen Stromausfall geführt. Zeitweise waren rund 14&#8217;000 Haushalte in mehreren Gemeinden, darunter Satigny und Bernex, oh",
+      "published": "2026-08-03T23:01:47.794172+00:00"
     }
   ]
 }
