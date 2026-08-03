@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T00:01:52.443589+00:00",
+  "generated": "2026-08-03T00:31:57.927241+00:00",
   "date": "2026-08-03",
-  "count": 4,
+  "count": 6,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -30,6 +30,20 @@
       "url": "https://www.20min.ch/story/krisenstab-eingesetzt-cyberangriff-auf-liechtenstein-31-000-datensaetze-betroffen-103612386",
       "summary": "Die Regierung Liechtensteins meldet einen Angriff auf das Verzeichnis wirtschaftlich berechtigter Personen.",
       "published": "2026-08-02T23:31:50.836699+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Heiss Heisser am Heissesten",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/heiss-heisser-am-heissesten",
+      "summary": "",
+      "published": "2026-08-03T00:31:57.927241+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Warum der Sozialismus Immer Wieder Scheitert",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/warum-der-sozialismus-immer-wieder-scheitert",
+      "summary": "",
+      "published": "2026-08-03T00:31:57.927241+00:00"
     }
   ]
 }
