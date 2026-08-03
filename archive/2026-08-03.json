@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T01:31:49.763366+00:00",
+  "generated": "2026-08-03T02:02:05.028835+00:00",
   "date": "2026-08-03",
-  "count": 8,
+  "count": 9,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -58,6 +58,13 @@
       "url": "https://www.zentralplus.ch/news/usa-staerken-japanische-waehrung-yen-2889038/",
       "summary": "Die USA haben mit einem koordinierten Eingriff am Devisenmarkt die japanische Währung Yen gestärkt. Was Finanzfachleute bereits vermutet hatten, weil der Yen in den letzten Tagen deutlich an Wert gewo",
       "published": "2026-08-03T01:31:49.763366+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump: Neue Gespräche mit dem Iran",
+      "url": "https://www.zentralplus.ch/news/trump-neue-gespraeche-mit-dem-iran-2889040/",
+      "summary": "US-Präsident Donald Trump hat nach der vorläufigen Absage weiterer Angriffe auf den Iran eine neue Gesprächsrunde mit Vertretern des Landes angekündigt. Die Verhandlungen sollten am Montag stattfinden",
+      "published": "2026-08-03T02:02:05.028835+00:00"
     }
   ]
 }
