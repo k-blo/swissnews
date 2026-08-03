@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T21:02:02.768035+00:00",
+  "generated": "2026-08-03T21:31:34.603164+00:00",
   "date": "2026-08-03",
-  "count": 734,
+  "count": 739,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -5140,6 +5140,41 @@
       "url": "https://www.obwaldnerzeitung.ch/leserbeitrag/oz/schweizer-juniorinnen-holen-team-gold-an-der-wm-ld.4211470",
       "summary": "",
       "published": "2026-08-03T21:02:02.768035+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Knapp 4000 Haushalte ohne Strom: Gleich mehrere grosse Strom­ausfälle nach Gewittern im Kanton Bern",
+      "url": "https://www.derbund.ch/gewitter-im-kanton-bern-tausende-haushalte-ohne-strom-448674112852",
+      "summary": "Am Montagabend tobten Gewitter über den Kanton Bern und führten zu Stromausfällen. Grund dafür waren heruntergerissene Leitungen.",
+      "published": "2026-08-03T21:31:34.603164+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Nach Hackerangriff: Liechtensteiner Regierung nimmt weitere Systeme vom Netz",
+      "url": "https://www.shn.ch/diverses/dies-und-das/2026-08-03/nach-hackerangriff-liechtensteiner-regierung-nimmt-weitere-systeme",
+      "summary": "Die Forensik bestätigt einen gezielten Angriff auf das liechtensteinische Verzeichnis der wirtschaftlich berechtigten Personen. Weitere Systeme werden nun überprüft.",
+      "published": "2026-08-03T21:31:34.603164+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Wahlen Zug 2026 Kandidaten für Gemeinderatswahlen",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/wahlen-zug-2026-kandidaten-fuer-gemeinderatswahlen-ld.4211471",
+      "summary": "",
+      "published": "2026-08-03T21:31:34.603164+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Nino Portmann und Leon Krummenacher für Europameisterschaften Selektioniert",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/nino-portmann-und-leon-krummenacher-fuer-europameisterschaften-selektioniert-ld.4211472",
+      "summary": "",
+      "published": "2026-08-03T21:31:34.603164+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Das sind die Kandidatinnen und Kandidaten bei den Gemeinderatswahlen im Kanton Zug",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/wahlen-zug-2026-kandidaten-fuer-gemeinderatswahlen-art-1715279",
+      "summary": "",
+      "published": "2026-08-03T21:31:34.603164+00:00"
     }
   ]
 }
