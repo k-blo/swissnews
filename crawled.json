@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T20:02:09.246193+00:00",
+  "generated": "2026-08-03T20:32:04.581654+00:00",
   "date": "2026-08-03",
-  "count": 725,
+  "count": 730,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -5077,6 +5077,41 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/aktionaere-streiten-um-ein-solardach-und-der-staat-zahlt-die-rechnung-art-1715165",
       "summary": "",
       "published": "2026-08-03T20:02:09.246193+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Knapp 4000 Haushalte ohne Strom: Gleich mehrere grosse Stromausfälle nach Gewittern im Kanton Bern",
+      "url": "https://www.bernerzeitung.ch/gewitter-im-kanton-bern-tausende-haushalte-ohne-strom-448674112852",
+      "summary": "Am Montagabend tobten Gewitter über den Kanton Bern und führten zu Stromausfällen. Grund dafür waren heruntergerissene Leitungen.",
+      "published": "2026-08-03T20:32:04.581654+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Finanzhistoriker im Interview: «Du musst tatsächlich das tun, wozu niemand sonst bereit ist»: 10 Strategien, um reich zu werden",
+      "url": "https://www.bernerzeitung.ch/joseph-moore-10-strategien-um-reich-zu-werden-794900739315",
+      "summary": "Joseph Moore hat analysiert, was in der Geschichte der USA zu Wohlstand geführt hat. Seine Erkenntnis: Die gängigen Finanztipps machen nur selten reich. Wozu er stattdessen rät.",
+      "published": "2026-08-03T20:32:04.581654+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zahlungsriese Worldline hofft nach Aktienabsturz auf Neustart",
+      "url": "https://www.watson.ch/schweiz/international/592079648-zahlungsriese-worldline-hofft-nach-aktienabsturz-auf-neustart",
+      "summary": "",
+      "published": "2026-08-03T20:32:04.581654+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bund warnte vor Gewitter in Region Basel – Entwarnung",
+      "url": "https://www.watson.ch/schweiz/wetter/768293182-bund-warnte-vor-gewitter-in-region-basel-entwarnung",
+      "summary": "",
+      "published": "2026-08-03T20:32:04.581654+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Türkisches Schiff im Schwarzen Meer von Drohnen angegriffen",
+      "url": "https://www.watson.ch/international/drohnen/317832509-tuerkisches-schiff-im-schwarzen-meer-von-drohnen-angegriffen",
+      "summary": "",
+      "published": "2026-08-03T20:32:04.581654+00:00"
     }
   ]
 }
