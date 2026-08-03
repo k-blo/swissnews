@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T04:01:55.687227+00:00",
+  "generated": "2026-08-03T04:31:40.987610+00:00",
   "date": "2026-08-03",
-  "count": 109,
+  "count": 122,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -765,6 +765,97 @@
       "url": "https://www.freiburger-nachrichten.ch/story/280182/wir-arbeiten-weniger-als-je-zuvor-und-sind-ausgebrannter-denn-je",
       "summary": "",
       "published": "2026-08-03T04:01:55.687227+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Trage ich sicher nicht»: Neuer Sneakertrend eckt an",
+      "url": "https://www.20min.ch/story/nike-air-force-1-neu-interpretiert-trage-ich-sicher-nicht-103607141",
+      "summary": "Nike verpasst dem Air Force 1 eine eckige Zehenpartie – und sorgt damit für gemischte Reaktionen. Auch Adidas und Converse setzen bereits auf kantige Sneakerformen.",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verunsicherung wegen neuer Regeln: Unterländer Firmen trotzen der Flaute beim Bau von Solaranlagen",
+      "url": "https://www.tagesanzeiger.ch/solarenergie-zuercher-unterland-flaute-trifft-firmen-937491927074",
+      "summary": "2025 ist der Photovoltaik-Boom eingebrochen. Deutlich mehr Nachfrage gibt es jedoch bei den Speicherbatterien. Firmen reagieren auf den Trend.",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wetter der Woche: Heisser Wochenstart mit bis zu 36 Grad",
+      "url": "https://www.bernerzeitung.ch/wetter-im-kanton-bern-bis-36-grad-zu-wochenbeginn-636683337946",
+      "summary": "Der Wochenstart im Kanton Bern wird heiss: Im Seeland und im Emmental erreicht das Thermometer die höchsten Werte. Ab Dienstag folgen Gewitter und Abkühlung.",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Ein Basler Unikat tritt ab: «Natur geht nicht kaputt» – Abschied eines ungewöhnlichen Stadtgärtners",
+      "url": "https://www.bazonline.ch/stadtgaertner-trueb-32-jahre-fuer-basels-gruen-579559466059",
+      "summary": "Emanuel Trueb fährt lieber Diesel als Elektro, hätte die überzähligen Hörnli-Rehe erlegt und sagt Dinge, die kein Kommunikations­experte freigeben würde. Nach 32 Jahren räumt er sein Büro an der Dufou",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Klumpenrisiko Easyjet: «Im schlimmsten Fall könnte es zu einer Krise kommen»",
+      "url": "https://www.bazonline.ch/euro-airport-was-eine-easyjet-uebernahme-bedeuten-wuerde-491539782787",
+      "summary": "US-Investoren buhlen um die Fluggesellschaft Easyjet, die über die Hälfte aller Passagiere am Euro-Airport befördert. Wie verwundbar der Flughafen ist, zeigt das Debakel um Crossair, als Basel «seine»",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "BaZ-Sommerrätsel mit -minu: Nummer 30: Endspurt zum Sprossenwort",
+      "url": "https://www.bazonline.ch/sommersprossen-basel-windfahne-von-1897-zeigt-den-weg-631989371213",
+      "summary": "Jede der 35 Sprossen richtig erraten, den Lösungsspruch einschicken und vielleicht einen speziellen Preis gewinnen. Das BaZ-Sommerrätsel mit -minu.",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Fotos sollten Erinnerungen festhalten, doch das gelingt mit Malerei besser, findet Künstlerin Moni Schmid aus Trüllikon",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-08-03/fotos-sollten-erinnerungen-festhalten-doch-das-gelingt-mit",
+      "summary": "Die Trülliker Künstlerin Moni Schmid, eine der beiden Köpfe hinter dem «Wyland-Wimmelbuch» von 2022, stellt ab dem 7. August im Neunforner «Wöschhüüsli» aus.",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Rehkitzrettung Uri Grosseinsatz mit Herz Fachwissen und Teamgeist",
+      "url": "https://www.urnerzeitung.ch/leserbeitrag/uz/rehkitzrettung-uri-grosseinsatz-mit-herz-fachwissen-und-teamgeist-ld.4203505",
+      "summary": "",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump kündigt neue Gespräche der USA mit Iran an: Angriff abgesagt",
+      "url": "https://www.watson.ch/international/iran/804413543-trump-kuendigt-neue-gespraeche-der-usa-mit-iran-an-angriff-abgesagt",
+      "summary": "",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Für mehr Freude in unseren Herzen: Heute ist wieder Good-News-Tag",
+      "url": "https://www.watson.ch/leben/gerechtigkeit-siegt/396877021-fuer-mehr-freude-in-unseren-herzen-heute-ist-wieder-good-news-tag",
+      "summary": "",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jail Mail Schweiz – und der Betreiber, der sein Delikt nicht anerkennt",
+      "url": "https://www.watson.ch/schweiz/videos/292886187-jail-mail-schweiz-und-der-betreiber-der-sein-delikt-nicht-anerkennt",
+      "summary": "",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Krise in Ceuta: Jetzt erklärt Marokko, wie es dazu kam",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/krise-in-ceuta-jetzt-erklaert-marokko-wie-es-dazu-kam-art-1715133",
+      "summary": "",
+      "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "Rathuus",
+      "title": "S Bahn Zvv Lockert Veloverbot in Stosszeiten",
+      "url": "https://rathuus.ch/s-bahn-zvv-lockert-veloverbot-in-stosszeiten/",
+      "summary": "",
+      "published": "2026-08-03T04:31:40.987610+00:00"
     }
   ]
 }
