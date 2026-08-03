@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T23:01:47.794172+00:00",
+  "generated": "2026-08-03T23:31:50.569783+00:00",
   "date": "2026-08-04",
-  "count": 16,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -114,6 +114,13 @@
       "url": "https://www.zentralplus.ch/news/ge-14000-haushalte-ohne-strom-2889257/",
       "summary": "Ein heftiges Gewitter hat am Montagabend im Kanton Genf zu einem grossflächigen Stromausfall geführt. Zeitweise waren rund 14&#8217;000 Haushalte in mehreren Gemeinden, darunter Satigny und Bernex, oh",
       "published": "2026-08-03T23:01:47.794172+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VEN: Todeszahl steigt auf über 6100",
+      "url": "https://www.zentralplus.ch/news/ven-todeszahl-steigt-auf-ueber-6100-2889259/",
+      "summary": "Die Zahl der Erdbebentoten in Venezuela ist auf über 6100 gestiegen, wie der venezolanische Parlamentspräsident mitteilte. Eine offizielle Gesamtzahl der Vermissten liegt nicht vor. Für den am schwers",
+      "published": "2026-08-03T23:31:50.569783+00:00"
     }
   ]
 }
