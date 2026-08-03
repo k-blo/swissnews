@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-03T04:31:40.987610+00:00",
+  "generated": "2026-08-03T05:01:33.225628+00:00",
   "date": "2026-08-03",
-  "count": 122,
+  "count": 128,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -856,6 +856,48 @@
       "url": "https://rathuus.ch/s-bahn-zvv-lockert-veloverbot-in-stosszeiten/",
       "summary": "",
       "published": "2026-08-03T04:31:40.987610+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Klimawandel als Thema – Welche Folgen hat der Hitzesommer für das Wahljahr 2027?",
+      "url": "https://www.srf.ch/news/schweiz/klimawandel-als-thema-welche-folgen-hat-der-hitzesommer-fuer-das-wahljahr-2027",
+      "summary": "Schon vor acht Jahren ging den nationalen Parlamentswahlen ein Hitzesommer voraus. Gibt es Parallelen?",
+      "published": "2026-08-03T05:01:33.225628+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Studie zu sozialen Medien: Frühe Social-Media-Nutzung schadet den Schulleistungen",
+      "url": "https://www.tagesanzeiger.ch/studie-social-media-verschlechtert-schulleistungen-129164461458",
+      "summary": "Eine italienische Studie zeigt: Frühe Nutzung von Social Media beeinflusst Lernleistungen negativ. Diejenigen, die bereits in der sechsten, siebten oder achten Klasse ein Social-Media-Konto hatten, sc",
+      "published": "2026-08-03T05:01:33.225628+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Streit um Tote und Migrierende",
+      "url": "https://www.zentralplus.ch/news/streit-um-tote-und-migrierende-2889046/",
+      "summary": "Nach dem massiven Andrang von Migrantinnen und Migranten auf die spanische Exklave Ceuta hat sich erstmals Marokko geäussert. Das Innenministerium macht Falschinformationen in sozialen Medien und Schl",
+      "published": "2026-08-03T05:01:33.225628+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Läuferinnen und Läufer Setzen Sich für den Wald im Urserntal ein",
+      "url": "https://www.urnerzeitung.ch/leserbeitrag/uz/laeuferinnen-und-laeufer-setzen-sich-fuer-den-wald-im-urserntal-ein-ld.4200137",
+      "summary": "",
+      "published": "2026-08-03T05:01:33.225628+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Migranten in Ceuta: So erklärt Marokko die Krise",
+      "url": "https://www.watson.ch/international/migration/622693846-migranten-in-ceuta-so-erklaert-marokko-die-krise",
+      "summary": "",
+      "published": "2026-08-03T05:01:33.225628+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Michelle Heimberg gewinnt EM-Silber vom 1-m-Brett",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-michelle-heimberg-gewinnt-em-silber-vom-1-m-brett",
+      "summary": "",
+      "published": "2026-08-03T05:01:33.225628+00:00"
     }
   ]
 }
