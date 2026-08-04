@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T03:02:19.826129+00:00",
+  "generated": "2026-08-04T03:31:40.934467+00:00",
   "date": "2026-08-04",
-  "count": 131,
+  "count": 150,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -919,6 +919,139 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/bls-automaten-in-luzern-bargeld-bleibt-moeglich-aber-akzeptiert-wird-nur-muenz-art-1715281",
       "summary": "",
       "published": "2026-08-04T03:02:19.826129+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "KI-Datenfirma Palantir mit mehr als 90 Prozent Umsatzplus",
+      "url": "https://www.20min.ch/story/quartalszahlen-ki-datenfirma-palantir-mit-mehr-als-90-prozent-umsatzplus-103612818",
+      "summary": "Nach Militär und Behörden suchen auch US-Unternehmen verstärkt KI-Hilfe bei Palantir. Firmenchef Alex Karp nutzt das für eine Attacke auf grosse KI-Anbieter.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Teure Eiswürfel in der Gastronomie: Darum kostet ein «Iced Cappuccino» mehr als ein normaler",
+      "url": "https://www.tagesanzeiger.ch/aufpreis-fuer-iced-coffee-zuercher-cafes-verlangen-bis-10-mehr-114256327064",
+      "summary": "In Zürcher Cafés sorgt der Aufpreis für eisgekühlte Getränke für Unmut bei Gästen. Baristas verweisen auf höhere Kosten und zusätzlichen Arbeitsaufwand.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Volle Tierheime, fehlende Kastration: Unzählige Katzen leben in der Schweiz wild – Tierschützer schlagen Alarm",
+      "url": "https://www.tagesanzeiger.ch/unzaehlige-katzen-leben-wild-tierschuetzer-schlagen-alarm-573923545438",
+      "summary": "In Winterthur fingen Tierschützer vier wilde Katzen ein. Geschätzt gibt es davon über 200’000 hierzulande. Fachleute drängen auf Massnahmen, bevor die Population explodiert.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Missbrauch von kleinen Kindern: «Neun von zehn Tätern kommen nie vor Gericht»",
+      "url": "https://www.tagesanzeiger.ch/kindesmissbrauch-neun-von-zehn-anzeigen-werden-eingestellt-849414015163",
+      "summary": "Ein Vater steht im Verdacht, sein Kind zu missbrauchen. Aber obwohl das mutmassliche Opfer Aussagen macht, wird das Strafverfahren eingestellt. Das ist keine Ausnahme.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sozialistin als Kandidatin: Die Demokraten sind im Swing-State Wisconsin auf Crash-Kurs",
+      "url": "https://www.tagesanzeiger.ch/wisconsin-sozialistin-francesca-hong-als-demokraten-hoffnung-288578402412",
+      "summary": "Francesca Hong, eine vielversprechende Kandidatin des linken Parteiflügels, könnte Geschichte schreiben. Doch wird Wisconsin wirklich folgen?",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Quartalszahlen überzeugen: KI-Datenfirma Palantir mit mehr als 90 Prozent Umsatzplus",
+      "url": "https://www.tagesanzeiger.ch/palantir-umsatz-waechst-um-93-prozent-auf-1-94-mrd-dollar-889486156211",
+      "summary": "Nach Militär und Behörden suchen auch US-Unternehmen verstärkt KI-Hilfe bei Palantir. Firmenchef Alex Karp nutzt das für eine Attacke auf grosse KI-Anbieter.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Abstimmung über Neutralität: Linke Putin-Versteher und Corona-Rebellen: Die unheilige Allianz hinter Blochers Initiative",
+      "url": "https://www.tagesanzeiger.ch/neutralitaetsinitiative-linke-allianz-verbuendet-sich-mit-svp-965741584176",
+      "summary": "Im Schatten der Neutralitäts­initiative ist ein Netz­werk gewachsen, das weit über die SVP hinausgeht. Wer sind die schillernden Helfershelfer?",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Inside Bundeshaus: Wie ernsthaft arbeitet unser Parlament wirklich, Larissa Rhyn?",
+      "url": "https://www.tagesanzeiger.ch/bundeshaus-so-arbeiten-journalisten-im-parlament-708514538355",
+      "summary": "Unsere Bundeshauschefin berichtet seit 2019 aus Bern. In einer Spezialfolge gewährt sie einen Blick hinter die Kulissen – und sagt auch, mit wie vielen Bundesräten sie per Du ist.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schwerreicher Norweger kauft einst besetzte Wohnung",
+      "url": "https://www.zentralplus.ch/wohnen-bauen/schwerreicher-norweger-kauft-einst-besetzte-wohnung-2889175/",
+      "summary": "2022 protestierten Aktivistinnen und Aktivisten in der Bruchstrasse 64 gegen Leerstand. Vier Jahre später gehört ein grosser Teil der Liegenschaft dem norwegischen Multimillionär Kjetil Holta. Luzern ",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Finanzkontrolle entdeckt Strafbares und alles schweigt",
+      "url": "https://www.zentralplus.ch/politik/zuger-finanzkontrolle-wird-fuendig-es-hagelt-strafanzeigen-2888390/",
+      "summary": "Die Zuger Finanzkontrolle stiess auf mögliche strafbare Handlungen und informierte die zuständigen Stellen. Warum die Fälle selbst im Kantonsrat kaum Thema waren, wirft Fragen auf. Es ist ein Satz, de",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Die Armee finanzieren und den Klimaschutz verbessern",
+      "url": "https://www.nzz.ch/meinung/die-armee-finanzieren-und-den-klimaschutz-verbessern-ld.10012674",
+      "summary": "",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Paar heiratet. Zweieinhalb Monate später erhält die Frau die Aufenthaltsbewilligung – sieben Tage danach zieht sie aus",
+      "url": "https://www.nzz.ch/zuerich/ein-paar-heiratet-zweieinhalb-monate-spaeter-erhaelt-die-frau-die-aufenthaltsbewilligung-sieben-tage-danach-zieht-sie-aus-ld.10017761",
+      "summary": "",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Jeder will ans Schwingfest – aber keiner räumt hinterher auf",
+      "url": "https://www.nzz.ch/zuerich/jeder-will-ans-schwingfest-aber-keiner-raeumt-hinterher-auf-ld.10017447",
+      "summary": "",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Eine schnelle Lösung für die Crack-Krise wird es nicht geben»",
+      "url": "https://www.nzz.ch/zuerich/eine-schnelle-loesung-fuer-die-crack-krise-wird-es-nicht-geben-ld.10017431",
+      "summary": "",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Migration als Waffe: Worum es im Konflikt in Ceuta wirklich geht – und welche Rolle Donald Trump dabei spielt",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-08-04/migration-als-waffe-worum-es-im-konflikt-in-ceuta-wirklich-geht",
+      "summary": "Marokko will den Migrantensturm auf Ceuta nicht geplant haben. Doch die Zweifel bleiben. Das liegt auch am US-Präsidenten.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Fifa-Sicherheitschef bei Spontanbesuch: «Man sah es ja bei Patrick Fischer... gehen Sie nach Hause zu den Liebsten!»",
+      "url": "https://www.shn.ch/sport/2026-08-04/fifa-sicherheitschef-bei-spontanbesuch-man-sah-es-ja-bei-patrick-fischer-gehen-sie",
+      "summary": "Ein Verband schaltet in den Krisenmodus: Die Fifa schottet sich ab, doch nicht alle Mitarbeitenden lassen sich den Mund verbieten.",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Weg vom Beizli, hin zum Kompetenzzentrum: Im Weinlokal von Stein am Rhein soll nicht nur getrunken werden",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-08-04/weg-vom-beizli-hin-zum-kompetenzzentrum-im-weinlokal-von-stein",
+      "summary": "Fast alles ist neu im Weintreffpunkt mitten in Stein am Rhein: der Name, das Team, das Konzept. Michael Leibacher vom Vorstand der Weinfreunde spricht über Visionen, Investitionen und darüber, weshalb",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Altdorf Obergericht Erspart 24 Jährigem Gefängnis",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/altdorf-obergericht-erspart-24-jaehrigem-gefaengnis-ld.4203820",
+      "summary": "",
+      "published": "2026-08-04T03:31:40.934467+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trotz räuberischer Erpressung: Obergericht erspart Verurteiltem das Gefängnis",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/altdorf-obergericht-erspart-24-jaehrigem-gefaengnis-art-1715295",
+      "summary": "",
+      "published": "2026-08-04T03:31:40.934467+00:00"
     }
   ]
 }
