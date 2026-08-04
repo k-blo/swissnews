@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T10:02:02.976327+00:00",
+  "generated": "2026-08-04T10:32:05.657826+00:00",
   "date": "2026-08-04",
-  "count": 416,
+  "count": 442,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2914,6 +2914,188 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-continental-park-was-nach-dem-brand-passiert-art-1715309",
       "summary": "",
       "published": "2026-08-04T10:02:02.976327+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Von Bern in die USA – Die Schweizerin, die das Aareschwimmen nach Boston brachte",
+      "url": "https://www.srf.ch/news/dialog/von-bern-in-die-usa-die-schweizerin-die-das-aareschwimmen-nach-boston-brachte",
+      "summary": "Renata von Tscharner brachte das Flussbaden von Bern nach Boston. Heute können die Menschen im Charles River schwimmen.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Identität noch unklar – Polizei findet bei Suche nach Vermissten tote Person im Walensee",
+      "url": "https://www.srf.ch/news/schweiz/identitaet-noch-unklar-polizei-findet-bei-suche-nach-vermissten-tote-person-im-walensee",
+      "summary": "Die Person wurde leblos in 100 Metern Tiefe geborgen. Die Identität ist noch nicht bestätigt. Die Suchaktion dauert an.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Restaurant verrechnet Carlotta 48 Euro «freiwilliges» Trinkgeld",
+      "url": "https://www.20min.ch/story/toskana-restaurant-verrechnet-carlotta-48-euro-freiwilliges-trinkgeld-103612929",
+      "summary": "Eine italienische Influencerin staunte nicht schlecht, als sie nach dem Znacht fast 50 Euro extra auf der Rechnung  entdeckte. Laut dem Restaurant handelt es sich dabei um ein freiwilliges Trinkgeld.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gleitschirmunfall bei Startversuch: Flugschüler im Spital",
+      "url": "https://www.20min.ch/story/kronberg-ai-gleitschirmunfall-bei-startversuch-flugschueler-im-spital-103612960",
+      "summary": "Ein Flugschüler verunfallte beim Startversuch mit dem Gleitschirm und verletzte sich. Er wurde mit einem Rettungshelikopter in ein Spital geflogen.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bruce Springsteen: Ehefrau Patti Scialfa befindet sich nach Blutkrebs in Remission",
+      "url": "https://www.tagesanzeiger.ch/patti-scialfa-frau-von-bruce-springsteen-in-remission-831328137673",
+      "summary": "Der US-Rockstar verkündet in einer Videobotschaft die Besserung seiner Frau. Patti Scialfa kämpft seit 2018 gegen eine Form von Blutkrebs.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Erdbeben nahe Pisa: Schiefer Turm bleibt heil",
+      "url": "https://www.tagesanzeiger.ch/erdbeben-bei-pisa-schiefer-turm-bleibt-unbeschaedigt-498798695822",
+      "summary": "Hunderte Menschen flohen auf die Strassen, als die Erde nahe Pisa bebte. Der Schiefe Turm blieb unversehrt und geöffnet – doch Evakuierungen liefen an.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Öffentlicher Verkehr: GA und Halbtax werden ab Dezember teurer – Konsumentenschutz warnt",
+      "url": "https://www.bernerzeitung.ch/ga-ab-dezember-oev-tarife-steigen-weniger-als-geplant-860610863313",
+      "summary": "Die ÖV-Tarife steigen im Schnitt um 3,6 Prozent. Familien und Kinder werden weitgehend verschont. Der Konsumentenschutz lanciert mit einer Petition an Bundesrat Rösti Widerstand gegen die Preiserhöhun",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Pionierinnen und Meilensteine: Frauenfussball als «humoristische Einlage»: Der lange Weg zur Women’s Super League",
+      "url": "https://www.bernerzeitung.ch/womens-super-league-von-1965-bis-zur-eigenen-ag-361159195749",
+      "summary": "Was mit Zeitungsannoncen begann, gipfelt nun in einer Aktiengesellschaft. Die Liga hat 56 Jahre bewegte Geschichte hinter sich. Ein Rückblick auf die wichtigsten Momente.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Stürmer kommt für Stürmer: Biel verpflichtet Vermin und lässt Kneubühler ziehen",
+      "url": "https://www.bernerzeitung.ch/ehc-biel-verpflichtet-joel-vermin-vom-sc-bern-945163655518",
+      "summary": "Joël Vermin stösst per September vom SC Bern zum EHC Biel. Johnny Kneubühler wechselt hingegen per sofort zu Genève-Servette.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Aktion gegen Massaker im Iran: Sie protestiert 48 Stunden ohne Pause – und kocht Halva",
+      "url": "https://www.derbund.ch/atina-tabe-48-stunden-protest-mit-halva-gegen-iran-massaker-781282600235",
+      "summary": "Die Schauspielerin und Sängerin Atina Tabé produziert zwei Tage lang die traditionelle Süssspeise. Damit macht sie auf das Massaker an der iranischen Bevölkerung aufmerksam.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sommer 2026 nahe Rekord",
+      "url": "https://www.zentralplus.ch/news/sommer-2026-nahe-rekord-2889395/",
+      "summary": "Der Sommer 2026 ist in der Schweiz bisher mindestens so heiss gewesen wie der Rekordsommer 2003. An einigen Messstationen sei die Zahl der Hitzetage bereits höher als damals, teilte Meteoschweiz mit. ",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Update: Dream Security liebäugelt mit Schweizer Cybersecurity-Markt",
+      "url": "https://www.netzwoche.ch/news/2026-08-04/update-dream-security-liebaeugelt-mit-schweizer-cybersecurity-markt",
+      "summary": "2022 hat der österreichische Ex-Bundeskanzler Sebastian Kurz zusammen mit Shalev Hulio die IT-Sicherheits-Firma Dream Security gegründet. Hulio war früher CEO der NSO Group - dem Anbieter der Spionage",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "So realistisch sind die Heldentaten in Hollywood-Filmen",
+      "url": "https://www.netzwoche.ch/netzwitzig/2026-08-04/so-realistisch-sind-die-heldentaten-in-hollywood-filmen",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Urs Bürgisser verlässt Equinix",
+      "url": "https://www.inside-it.ch/urs-buergisser-verlaesst-equinix-20260804",
+      "summary": "Der RZ-Betreiber muss eine neue Verkaufsleitung suchen. Nach elf Jahren verabschiedet sich Urs Bürgisser vom Unternehmen.",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ironman-Athleten sind die härtesten Triathleten – und die besten Selbstvermarkter. Weil es anders nicht geht",
+      "url": "https://www.nzz.ch/sport/weitere-sportarten/andrea-salvisberg-wie-der-ironman-um-sponsoren-kaempft-ld.10017582",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Christoph Blocher: «Der dritte Weltkrieg ist näher gerückt – soll der Bundesrat beliebig über Krieg oder Frieden entscheiden können?»",
+      "url": "https://www.nzz.ch/schweiz/christoph-blocher-der-dritte-weltkrieg-ist-naeher-gerueckt-soll-der-bundesrat-beliebig-ueber-krieg-oder-frieden-entscheiden-koennen-ld.10017835",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Er Kommt von Ambri Dieser Spannende Stürmer Könnte Bald Beim Ehc Chur Spielen",
+      "url": "https://www.suedostschweiz.ch/regionalsport/er-kommt-von-ambri-dieser-spannende-stuermer-koennte-bald-beim-ehc-chur-spielen-2109750",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Erlebnisfahrten",
+      "url": "https://www.luzernerzeitung.ch/sonderthemen/lagerdraht/erlebnisfahrten-ld.4188301",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hildisrieder Sv",
+      "url": "https://www.luzernerzeitung.ch/sonderthemen/lagerdraht/hildisrieder-sv-ld.4188311",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Erfolg am World Music Contest in Kerkrade",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzerner-erfolg-am-world-music-contest-in-kerkrade-ld.4211581",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "23-jährige Velofahrerin stirbt nach Unfall im Kanton Waadt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/682849724-23-jaehrige-velofahrerin-stirbt-nach-unfall-im-kanton-waadt",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hochaktiver Vulkan in Guatemala erneut ausgebrochen",
+      "url": "https://www.watson.ch/international/natur/296221012-hochaktiver-vulkan-in-guatemala-erneut-ausgebrochen",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mindestens 18 Wolfswelpen in der Schweiz nachgewiesen",
+      "url": "https://www.watson.ch/schweiz/tier/320748815-mindestens-18-wolfswelpen-in-der-schweiz-nachgewiesen",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Schweiz ist auf dem Weg zu einem neuen Rekordsommer",
+      "url": "https://www.watson.ch/schweiz/extremwetter/469367268-die-schweiz-ist-auf-dem-weg-zu-einem-neuen-rekordsommer",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Buhsturm: Elon Musk landet unsanft&nbsp;bei den Salzburger Festspielen",
+      "url": "https://www.bote.ch/nachrichten/kultur/die-salzburger-festspiele-treffen-elon-musk-und-peter-handke-winkt-zum-adieu-art-1715312",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Erfolg für Stadtmusik Luzern in den Niederlanden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-erfolg-am-world-music-contest-in-kerkrade-art-1715311",
+      "summary": "",
+      "published": "2026-08-04T10:32:05.657826+00:00"
     }
   ]
 }
