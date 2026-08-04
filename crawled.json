@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T22:31:43.917271+00:00",
+  "generated": "2026-08-04T23:02:19.186114+00:00",
   "date": "2026-08-05",
-  "count": 10,
+  "count": 11,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -72,6 +72,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/auf-dem-schwyzer-friedhof-haust-ein-feldhase-art-1715334",
       "summary": "",
       "published": "2026-08-04T22:31:43.917271+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wer ist nach dem Legionellen-Ausbruch beim Manor in Basel verantwortlich?: «Eine Verurteilung wegen fahrlässiger Tötung ist möglich»",
+      "url": "https://www.blick.ch/schweiz/wer-ist-nach-dem-legionellen-ausbruch-beim-manor-in-basel-verantwortlich-eine-verurteilung-wegen-fahrlaessiger-toetung-ist-moeglich-id22158100.html",
+      "summary": "Der Legionellen-Ausbruch in Basel forderte ein Todesopfer, fünf Menschen liegen weiterhin im Spital. Manor steht juristisch unter Druck: Betroffene könnten klagen, sogar eine Verurteilung wegen fahrlä",
+      "published": "2026-08-04T23:02:19.186114+00:00"
     }
   ]
 }
