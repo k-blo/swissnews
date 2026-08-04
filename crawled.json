@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T22:02:04.491833+00:00",
+  "generated": "2026-08-04T22:31:43.917271+00:00",
   "date": "2026-08-05",
-  "count": 3,
+  "count": 10,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -23,6 +23,55 @@
       "url": "https://www.freiburger-nachrichten.ch/story/279170/erste-bohrungen-f%C3%BCr-das-projekt-schiffenenmurten-abgeschlossen",
       "summary": "",
       "published": "2026-08-04T22:02:04.491833+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA entziehen BRA-Botschafterin Visum",
+      "url": "https://www.zentralplus.ch/news/usa-entziehen-bra-botschafterin-visum-2889596/",
+      "summary": "Die US-Regierung hat der brasilianischen Botschafterin in Washington wegen eines diplomatischen Streits das Visum entzogen. Das US-Aussenministerium spricht von einer Antwort auf Blockaden aus Brasili",
+      "published": "2026-08-04T22:31:43.917271+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Pöstli»&nbsp;– ein Stück Dorfleben steht zum Verkauf",
+      "url": "https://www.bote.ch/nachrichten/schwyz/poestli-ein-stueck-dorfleben-steht-zum-verkauf-art-1715313",
+      "summary": "",
+      "published": "2026-08-04T22:31:43.917271+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Urschweizer Schwingerinnen mischen vorne mit",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/urschweizer-schwingerinnen-mischen-vorne-mit-art-1715320",
+      "summary": "",
+      "published": "2026-08-04T22:31:43.917271+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Jeder fünfte Schwyzer will aus der Kirche austreten",
+      "url": "https://www.bote.ch/nachrichten/schwyz/jeder-fuenfte-schwyzer-will-aus-der-kirche-austreten-art-1715301",
+      "summary": "",
+      "published": "2026-08-04T22:31:43.917271+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dieser Steinerberger ist der «Olma-Insider»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/dieser-steinerberger-ist-der-olma-insider-art-1715327",
+      "summary": "",
+      "published": "2026-08-04T22:31:43.917271+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Brunner Fussballplätze erleiden grossen Schaden",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/brunner-fussballplaetze-erleiden-grossen-schaden-art-1715325",
+      "summary": "",
+      "published": "2026-08-04T22:31:43.917271+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auf dem Schwyzer Friedhof haust ein Feldhase",
+      "url": "https://www.bote.ch/nachrichten/schwyz/auf-dem-schwyzer-friedhof-haust-ein-feldhase-art-1715334",
+      "summary": "",
+      "published": "2026-08-04T22:31:43.917271+00:00"
     }
   ]
 }
