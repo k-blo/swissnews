@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T16:32:14.770433+00:00",
+  "generated": "2026-08-04T16:50:21.311906+00:00",
   "date": "2026-08-04",
-  "count": 742,
+  "count": 745,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -5196,6 +5196,27 @@
       "url": "https://www.bote.ch/nachrichten/sport/tour-de-france-marlen-reusser-gewinnt-zeitfahren-und-uebernimmt-maillot-jaune-art-1715351",
       "summary": "",
       "published": "2026-08-04T16:32:14.770433+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Krankheitsausbruch in Basel – Legionellen: Anwohner kritisieren späte Behörden-Information",
+      "url": "https://www.srf.ch/news/schweiz/krankheitsausbruch-in-basel-legionellen-anwohner-kritisieren-spaete-behoerden-information",
+      "summary": "Nach dem Legionellenausbruch in Basel mit einem Toten und 26 Erkrankten kritisieren Anwohner mangelhafte Informationen.",
+      "published": "2026-08-04T16:50:21.311906+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Flüuegerchilbi Beromünster Michelsamt Wird zum Helikopter Mekka",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/flueuegerchilbi-beromuenster-michelsamt-wird-zum-helikopter-mekka-ld.4078923",
+      "summary": "",
+      "published": "2026-08-04T16:50:21.311906+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Flüügerchilbi» Beromünster: Michelsamt wird zum Helikopter-Mekka",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/flueuegerchilbi-beromuenster-michelsamt-wird-zum-helikopter-mekka-art-1715353",
+      "summary": "",
+      "published": "2026-08-04T16:50:21.311906+00:00"
     }
   ]
 }
