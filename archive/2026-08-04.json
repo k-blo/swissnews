@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T00:31:47.295342+00:00",
+  "generated": "2026-08-04T01:02:02.843202+00:00",
   "date": "2026-08-04",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/foederalismus-statt-zentralismus-baudenbachers-appell-an-die-schweiz",
       "summary": "",
       "published": "2026-08-04T00:31:47.295342+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Palantir: Umsatz um über 90% gesteigert",
+      "url": "https://www.zentralplus.ch/news/palantir-umsatz-um-ueber-90-gesteigert-2889265/",
+      "summary": "Das Geschäft der umstrittenen Datenanalyse-Firma Palantir aus den USA ist im vergangenen Quartal rasant gewachsen. Der Umsatz stieg um mehr als 90 Prozent auf über 1,9 Milliarden Dollar, wie das US-Un",
+      "published": "2026-08-04T01:02:02.843202+00:00"
     }
   ]
 }
