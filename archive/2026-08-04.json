@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-04T01:32:01.757774+00:00",
+  "generated": "2026-08-04T02:02:06.323181+00:00",
   "date": "2026-08-04",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.zentralplus.ch/news/palantir-umsatz-um-ueber-90-gesteigert-2889265/",
       "summary": "Das Geschäft der umstrittenen Datenanalyse-Firma Palantir aus den USA ist im vergangenen Quartal rasant gewachsen. Der Umsatz stieg um mehr als 90 Prozent auf über 1,9 Milliarden Dollar, wie das US-Un",
       "published": "2026-08-04T01:02:02.843202+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Vier Verletzte bei Schüssen auf offener Strasse in Köln",
+      "url": "https://www.20min.ch/story/hintergrund-unklar-vier-verletzte-bei-schuessen-auf-offener-strasse-in-koeln-103612814",
+      "summary": "In der Nacht auf Dienstag ist es im Kölner Stadtteil Mülheim zu einer Schiesserei gekommen. Vier zum Teil schwer Verletzte sind in Spitäler gebracht worden.",
+      "published": "2026-08-04T02:02:06.323181+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Märstetten Kirchenglocken Verstummen für Sanierung",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/maerstetten-kirchenglocken-verstummen-fuer-sanierung-ld.4199596",
+      "summary": "",
+      "published": "2026-08-04T02:02:06.323181+00:00"
     }
   ]
 }
