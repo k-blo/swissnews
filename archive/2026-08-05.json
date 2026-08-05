@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T04:32:28.688428+00:00",
+  "generated": "2026-08-05T05:02:03.246901+00:00",
   "date": "2026-08-05",
-  "count": 170,
+  "count": 176,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -1192,6 +1192,48 @@
       "url": "https://www.freiburger-nachrichten.ch/story/280564/weitere-vorw%C3%BCrfe-gegen-infantino-dieser-beruft-eine-krisensitzung-ein",
       "summary": "",
       "published": "2026-08-05T04:32:28.688428+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Für mehr Produktivität – In dieser Firma stehen die Maschinen jeden zehnten Tag still",
+      "url": "https://www.srf.ch/news/schweiz/fuer-mehr-produktivitaet-in-dieser-firma-stehen-die-maschinen-jeden-zehnten-tag-still",
+      "summary": "Alle zwei Wochen legt der Luzerner Klebebandhersteller Siga einen Tag ein, an dem Prozesse verbessert werden. Weshalb?",
+      "published": "2026-08-05T05:02:03.246901+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Blitzeinschlag in St. Gallen: Drohne und 5-Kilometer-Wasserleitung: Feuerwehr kämpft gegen Scheunenbrand",
+      "url": "https://www.tagesanzeiger.ch/blitzschlag-in-ebnat-kappel-scheune-brennt-vollstaendig-aus-633797508725",
+      "summary": "Ein Blitzschlag zerstört eine Scheune in Ebnat-Kappel vollständig – vier Schweine wurden gerettet. Der Einsatz dauert über Nacht, eine Drohne überwachte das Waldgebiet auf weitere Brandherde.",
+      "published": "2026-08-05T05:02:03.246901+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Marineland»-Themenpark: Einschläferung entkommen – Belugawale ziehen von Kanada in die USA",
+      "url": "https://www.tagesanzeiger.ch/marineland-kanada-sieben-belugawale-ziehen-nach-texas-um-422217566031",
+      "summary": "Weil ihm das Geld ausging, schlug ein kanadischer Park Alarm: Seine Wale müssten eingeschläfert werden. Nun werden die Tiere in andere Parks verlegt.",
+      "published": "2026-08-05T05:02:03.246901+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Übergangslösung in Sicht: USA und Iran wollen Strasse von Hormus öffnen",
+      "url": "https://www.watson.ch/international/iran/289695283-uebergangsloesung-in-sicht-usa-und-iran-wollen-strasse-von-hormus-oeffnen",
+      "summary": "",
+      "published": "2026-08-05T05:02:03.246901+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Aktie fällt unter Ausgabepreis – Musks SpaceX mit Verlust an der Börse",
+      "url": "https://www.watson.ch/wirtschaft/raumfahrt/219862561-aktie-faellt-unter-ausgabepreis-musks-spacex-mit-verlust-an-der-boerse",
+      "summary": "",
+      "published": "2026-08-05T05:02:03.246901+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SpaceX-Rakete schlägt heute auf der Mondoberfläche ein",
+      "url": "https://www.watson.ch/wissen/international/987331562-spacex-rakete-schlaegt-heute-auf-der-mondoberflaeche-ein",
+      "summary": "",
+      "published": "2026-08-05T05:02:03.246901+00:00"
     }
   ]
 }
