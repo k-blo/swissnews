@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T03:31:59.881754+00:00",
+  "generated": "2026-08-05T04:01:48.414614+00:00",
   "date": "2026-08-05",
-  "count": 126,
+  "count": 151,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -884,6 +884,181 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/urner-regierung-erklaert-massnahmen-gegen-ausweichverkehr-art-1715419",
       "summary": "",
       "published": "2026-08-05T03:31:59.881754+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Fischsterben in der Schweiz – Wie Fische mit Notabfischungen gerettet werden",
+      "url": "https://www.srf.ch/news/schweiz/fischsterben-in-der-schweiz-wie-fische-mit-notabfischungen-gerettet-werden",
+      "summary": "Wegen Wassermangel drohen in der Schweiz Millionen Fische zu sterben. Notabfischungen sollen die letzten Tiere retten.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stockengut in Kilchberg: «Wir haben den vielleicht schönsten Job der Welt» – und doch will keiner ihren Hof übernehmen",
+      "url": "https://www.tagesanzeiger.ch/stockengut-kilchberg-gemeinde-sucht-neue-hofleitung-560750535653",
+      "summary": "Die Gemeinde Kilchberg sucht neue Betreiber für einen Vorzeige-Ökohof mit einem 11-Zimmer-Wohnhaus. Passende Interessenten zu finden, ist schwierig. Wie kann das sein?",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Umstrittene Vermietungen: So viele Business-Apartments gibt es wirklich in Winterthur",
+      "url": "https://www.tagesanzeiger.ch/winterthur-470-moeblierte-apartments-trotz-wohnungsknappheit-583644332760",
+      "summary": "Die Stadt kennt die Zahl der temporären Wohnungen nicht. Unsere Recherche zeigt: Professionelle Anbieter vermieten deutlich mehr als bisher bekannt. Was das für den Wohnungsmarkt heisst.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fscherin auf dem Thunersee: Sie kann von ihrem Job leben – weiterempfehlen würde sie ihn aber nicht",
+      "url": "https://www.tagesanzeiger.ch/thunersee-die-einzige-berufsfischerin-im-kanton-bern-265234483203",
+      "summary": "Edith Klopfenstein ist die einzige Berufsfischerin im Kanton Bern. Nachwuchs auszubilden lehnt sie ab, denn ie hohe PFAS-Belastung und gefährdete Fischarten stellen ihr Metier auf die Probe.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Blaualgen und Giftköder: Eine App möchte Hunde vor Gefahren schützen",
+      "url": "https://www.tagesanzeiger.ch/blaualgen-und-giftkoeder-eine-app-moechte-hunde-vor-gefahren-schuetzen-893720593924",
+      "summary": "Ein Opfiker lanciert die «Schorsch-App». Mit ihr können sich Halterinnen und Halter von Hunden gegenseitig vor Gefahren für ihre Vierbeiner warnen.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Cyclosporiasis: Durchfall-Ausbruch in USA – Über 10’000 bestätigte Fälle",
+      "url": "https://www.tagesanzeiger.ch/cyclospora-ausbruch-ueber-10000-erkrankte-in-den-usa-512764265701",
+      "summary": "In den USA nehmen Fälle der Magen-Darm-Erkrankung Cyclosporiasis kein Ende. Bereits Hunderte Spitalaufenthalte hat der Parasit verursacht. Im Verdacht steht ein unscheinbares Lebensmittel.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gastrokritik Tao Tao, Badi Köniz: Neben Pommes aus der Fritteuse gibts hier auch Gerichte aus dem Wok",
+      "url": "https://www.bernerzeitung.ch/badi-restaurant-koeniz-ente-mit-szechuansauce-statt-pommes-460683271438",
+      "summary": "Das chinesische Restaurant Tao Tao serviert im Könizer Freibad Weiermatt Ente und Gemüse aus dem Wok. Und einen überraschenden Kinderfavoriten.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Thunfest feiert 50. Ausgabe: Vom kleinen Brügglifest zum Grossanlass mit Zehntausenden Besuchenden",
+      "url": "https://www.bernerzeitung.ch/thunfest-50-ausgabe-mit-blick-auf-die-anfaenge-179528215063",
+      "summary": "Was lief früher besser, was schlechter? Und was hat das alles mit dem Rathuusbrüggli zu tun? Zwei frühere OK-Mitglieder blicken vor der 50. Ausgabe auf die Anfänge des Thunfests zurück.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Sechs Spuren für A1 im Oberaargau: «Wir sind Staus gewohnt, doch seit den Bauarbeiten sind sie häufiger»",
+      "url": "https://www.bernerzeitung.ch/sechsspurausbau-a1-stau-nimmt-in-niederbipp-zu-609603142205",
+      "summary": "Die einen verlassen die A1, um schneller voranzukommen, die anderen lassen die Autobahn gleich ganz links liegen: Der Sechsspurausbau bringt das Umland an seine Grenzen.",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Stromversorger in der Schweiz sind von der Energiewende zunehmend überfordert. Dagegen hilft nur mehr Wettbewerb",
+      "url": "https://www.nzz.ch/wirtschaft/die-stromversorger-in-der-schweiz-sind-von-der-energiewende-zunehmend-ueberfordert-dagegen-hilft-nur-mehr-wettbewerb-ld.10015497",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die europäische Asylpolitik steht für eine verirrte Menschlichkeit",
+      "url": "https://www.nzz.ch/meinung/die-europaeische-asylpolitik-steht-fuer-eine-verirrte-menschlichkeit-ld.10018162",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Satellitenbilder zeigen den Massenansturm auf Ceuta – und wie sich die Grenze danach verändert hat",
+      "url": "https://www.nzz.ch/visuals/satellitenbilder-zeigen-den-massenansturm-auf-ceuta-und-wie-sich-die-grenze-danach-veraendert-hat-ld.10018140",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Wer zur Schweiz steht, wendet sich gegen die Einmischung Russlands in den schweizerischen Abstimmungskampf",
+      "url": "https://www.nzz.ch/meinung/wer-zur-schweiz-steht-wendet-sich-gegen-die-einmischung-russlands-in-den-schweizerischen-abstimmungskampf-ld.10018098",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "So klingt es, wenn sich Russland in den Neutralitäts-Abstimmungskampf einmischt",
+      "url": "https://www.nzz.ch/schweiz/so-klingt-es-wenn-sich-russland-in-den-neutralitaets-abstimmungskampf-einmischt-ld.10018085",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Rätsel um Russlands Kamikazedrohnen: Der Kreml ändert seine Taktik im Luftkrieg",
+      "url": "https://www.nzz.ch/international/raetsel-um-russlands-kamikazedrohnen-der-kreml-aendert-seine-taktik-im-luftkrieg-ld.10018084",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die USA sind zu Recht nervös – das Vertrauen in die amerikanischen Staatsschulden ist gesunken",
+      "url": "https://www.nzz.ch/pro/die-usa-sind-zu-recht-nervoes-das-auslaendische-vertrauen-in-die-amerikanischen-staatsschulden-ist-gesunken-ld.10018072",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nach dem Ansturm auf Ceuta: Fünf Grafiken zeigen, wo Europas grösstes Schlupfloch für irreguläre Migration tatsächlich liegt",
+      "url": "https://www.nzz.ch/international/nach-dem-ansturm-auf-ceuta-fuenf-grafiken-zeigen-wo-europas-groesstes-schlupfloch-fuer-irregulaere-migration-tatsaechlich-liegt-ld.10018064",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Aktiensparen mit dem Präsidenten: Schon sieben Millionen Kinder in Amerika haben einen «Trump Account»",
+      "url": "https://www.nzz.ch/wirtschaft/aktiensparen-mit-dem-praesidenten-schon-sieben-millionen-kinder-in-amerika-haben-einen-trump-account-ld.10018055",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Elon Musk oder Cameron Diaz dürfen, was Jens Spahn die Karriere gekostet hat: Sich Kinder von einer Leihmutter austragen zu lassen, ist in den USA völlig normal",
+      "url": "https://www.nzz.ch/international/leihmutterschaft-in-den-usa-von-jens-spahn-bis-elon-musk-ld.10017913",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die letzte Hoffnung auf ein Wachstumswunder: Deutschland muss sein Geschäftsmodell radikal überdenken",
+      "url": "https://www.nzz.ch/meinung/die-letzte-hoffnung-auf-ein-wachstumswunder-deutschland-muss-sein-geschaeftsmodell-radikal-ueberdenken-ld.10017695",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Dogma jüdischer Auserwähltheit weckt auch Selbstzweifel",
+      "url": "https://www.nzz.ch/feuilleton/das-dogma-juedischer-auserwaehltheit-weckt-auch-selbstzweifel-ld.10017287",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die unsichtbare Gefahr im Kontaktsport: Der Todesfall eines Footballspielers verschärft Australiens Debatte über Kopfverletzungen",
+      "url": "https://www.nzz.ch/sport/weitere-sportarten/die-unsichtbare-gefahr-im-kontaktsport-der-todesfall-eines-footballspielers-verschaerft-australiens-debatte-ueber-kopfverletzungen-ld.10017126",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Auch Bergsteiger quälen sich im Fitnessstudio oder machen Yoga. Denn das Überleben am Achttausender beginnt im Training",
+      "url": "https://www.nzz.ch/sport/alpinismus/bergsteiger-fitness-trainingstipps-der-profis-fuer-extreme-herausforderungen-ld.10016923",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Berner Polizeigesetz kommt vors Bundesgericht: Darf der Kanton die Reitschule per Video überwachen?",
+      "url": "https://www.nzz.ch/schweiz/berner-polizeigesetz-kommt-vors-bundesgericht-darf-der-kanton-die-reitschule-per-video-ueberwachen-ld.10016230",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Katherina Reiche sagt über den deutschen Atomausstieg: «Das war eine schwere Fehlentscheidung»",
+      "url": "https://www.nzz.ch/wirtschaft/katherina-reiche-sagt-ueber-den-deutschen-atomausstieg-das-war-eine-schwere-fehlentscheidung-ld.10015256",
+      "summary": "",
+      "published": "2026-08-05T04:01:48.414614+00:00"
     }
   ]
 }
