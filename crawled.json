@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T05:02:03.246901+00:00",
+  "generated": "2026-08-05T05:32:00.744780+00:00",
   "date": "2026-08-05",
-  "count": 176,
+  "count": 183,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -1234,6 +1234,55 @@
       "url": "https://www.watson.ch/wissen/international/987331562-spacex-rakete-schlaegt-heute-auf-der-mondoberflaeche-ein",
       "summary": "",
       "published": "2026-08-05T05:02:03.246901+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Für mehr Produktivität – Alle zehn Tage eine Pause, um die Firma zu verbessern",
+      "url": "https://www.srf.ch/news/schweiz/fuer-mehr-produktivitaet-alle-zehn-tage-eine-pause-um-die-firma-zu-verbessern",
+      "summary": "Alle zwei Wochen legt der Luzerner Klebebandhersteller Siga einen Tag ein, an dem Prozesse verbessert werden. Weshalb?",
+      "published": "2026-08-05T05:32:00.744780+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Weltraumfirma von Elon Musk: Spacex verdoppelt seinen Umsatz und halbiert seinen Verlust",
+      "url": "https://www.tagesanzeiger.ch/spacex-umsatz-verdoppelt-aktie-faellt-nach-quartalszahlen-671104336937",
+      "summary": "Zum ersten Mal seit dem Börsengang legt Elon Musks Weltraumfirma Quartalszahlen vor. Die sind besser als erwartet – aber an der Börse fällt die erste Reaktion dennoch verhalten aus.",
+      "published": "2026-08-05T05:32:00.744780+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schaulustige filmen Ausbruch des Volcán de Fuego vom Nachbargipfel",
+      "url": "https://www.watson.ch/international/natur/153482252-schaulustige-filmen-ausbruch-des-volcan-de-fuego-vom-nachbargipfel",
+      "summary": "",
+      "published": "2026-08-05T05:32:00.744780+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA-Boss unter Druck: Gianni Infantino beruft Krisensitzung ein",
+      "url": "https://www.watson.ch/sport/fifa/440957952-fifa-boss-unter-druck-gianni-infantino-beruft-krisensitzung-ein",
+      "summary": "",
+      "published": "2026-08-05T05:32:00.744780+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SpaceX übertrifft mit Quartalszahlen die Erwartungen – Aktie sinkt",
+      "url": "https://www.watson.ch/wirtschaft/raumfahrt/219862561-spacex-uebertrifft-mit-quartalszahlen-die-erwartungen-aktie-sinkt",
+      "summary": "",
+      "published": "2026-08-05T05:32:00.744780+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Durchfall-Ausbruch mit über 10'000 Fällen – das könnte der Auslöser sein",
+      "url": "https://www.watson.ch/international/gesundheit/950304819-durchfall-ausbruch-mit-ueber-10-000-faellen-das-koennte-der-ausloeser-sein",
+      "summary": "",
+      "published": "2026-08-05T05:32:00.744780+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Über 10'000 Menschen sind in den USA an Durchfall erkrankt – das dürfte der Grund sein",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/parasit-loest-durchfallwelle-in-den-usa-aus-art-1715420",
+      "summary": "",
+      "published": "2026-08-05T05:32:00.744780+00:00"
     }
   ]
 }
