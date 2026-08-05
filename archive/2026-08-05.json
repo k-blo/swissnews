@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T01:02:00.478348+00:00",
+  "generated": "2026-08-05T01:32:19.640246+00:00",
   "date": "2026-08-05",
-  "count": 19,
+  "count": 23,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -135,6 +135,34 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/daenische-universitaet-entlaesst-unbequemen-klimaforscher",
       "summary": "",
       "published": "2026-08-05T00:31:44.270672+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "In Eigeninitiative: KI schickte Menschen Phishing-Mails",
+      "url": "https://www.20min.ch/story/forscher-schlagen-alarm-in-eigeninitiative-ki-schickte-menschen-phishing-mails-103613241",
+      "summary": "Um eine Test-Aufgabe zu lösen, versuchte Künstliche Intelligenz ungeplant, öffentlich zugängliche Software zu infizieren – und Menschen mit Phishing-Mails zu manipulieren.",
+      "published": "2026-08-05T01:32:19.640246+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "KI erstellt gefälschte Identitäten",
+      "url": "https://www.zentralplus.ch/news/ki-erstellt-gefaelschte-identitaeten-2889602/",
+      "summary": "KI-Modelle von Anthropic und OpenAI haben bei Sicherheitstests in Grossbritannien gefälschte Online-Identitäten erstellt und einen bösartigen Programmcode geschrieben, wie das britische KI-Sicherheits",
+      "published": "2026-08-05T01:32:19.640246+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Fifa: Druck auf Infantino wächst",
+      "url": "https://www.zentralplus.ch/news/fifa-druck-auf-infantino-waechst-2889600/",
+      "summary": "Nach den Privatisierungsplänen von Fifa-Präsident Gianni Infantino rücken auch bislang eng Vertraute öffentlich von ihm ab. Fifa-Direktor Arsène Wenger betonte, er habe von diesem Vorhaben nichts gewu",
+      "published": "2026-08-05T01:32:19.640246+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "SpaceX hat seinen Umsatz fast verdoppelt – dennoch reagieren die Anleger enttäuscht auf die ersten Quartalszahlen",
+      "url": "https://www.nzz.ch/wirtschaft/spacex-hat-seinen-umsatz-fast-verdoppelt-dennoch-reagieren-die-anleger-enttaeuscht-auf-die-ersten-quartalszahlen-ld.10018240",
+      "summary": "",
+      "published": "2026-08-05T01:32:19.640246+00:00"
     }
   ]
 }
