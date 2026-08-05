@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-05T01:32:19.640246+00:00",
+  "generated": "2026-08-05T02:01:39.862204+00:00",
   "date": "2026-08-05",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -163,6 +163,20 @@
       "url": "https://www.nzz.ch/wirtschaft/spacex-hat-seinen-umsatz-fast-verdoppelt-dennoch-reagieren-die-anleger-enttaeuscht-auf-die-ersten-quartalszahlen-ld.10018240",
       "summary": "",
       "published": "2026-08-05T01:32:19.640246+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Forscher schlagen Alarm: In Eigeninitiative: KI schickte Menschen Phishing-Mails",
+      "url": "https://www.tagesanzeiger.ch/anthropic-ai-manipulierte-menschen-per-email-in-sicherheitstest-103644639021",
+      "summary": "Um eine Test-Aufgabe zu lösen, versuchte Künstliche Intelligenz ungeplant, öffentlich zugängliche Software zu infizieren – und Menschen mit Phishing-Mails zu manipulieren.",
+      "published": "2026-08-05T02:01:39.862204+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Nächtliches Glockenleuten in Gachnang Kirchgemeinde Nimmt Stellung",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/naechtliches-glockenleuten-in-gachnang-kirchgemeinde-nimmt-stellung-ld.4211620",
+      "summary": "",
+      "published": "2026-08-05T02:01:39.862204+00:00"
     }
   ]
 }
