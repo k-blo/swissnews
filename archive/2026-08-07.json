@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-06T23:02:19.735866+00:00",
+  "generated": "2026-08-06T23:32:01.207793+00:00",
   "date": "2026-08-07",
-  "count": 19,
+  "count": 20,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -135,6 +135,13 @@
       "url": "https://www.20min.ch/story/usa-spokane-old-trail-feuer-verdaechtiger-brandstiftung-wochenlang-geplant-details-103614055",
       "summary": "Der Waldbrand in Spokane im Westen der USA hat grosse Zerstörung verursacht. Der verdächtige Brandstifter soll das Feuer wochenland geplant haben.",
       "published": "2026-08-06T23:02:19.735866+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Feuer sei «mächtig» und «schön»: Verdächtiger wertete Wetterdaten aus, ehe er das Feuer legte",
+      "url": "https://www.tagesanzeiger.ch/waldbrand-usa-spokane-old-trails-feuer-neue-details-verdaechtiger-wochenlange-planung-567402248402",
+      "summary": "Der Waldbrand in Spokane im Westen der USA hat grosse Zerstörung verursacht. Der verdächtige Brandstifter soll das Feuer wochenland geplant haben.",
+      "published": "2026-08-06T23:32:01.207793+00:00"
     }
   ]
 }
