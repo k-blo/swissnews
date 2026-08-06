@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-06T22:32:16.734447+00:00",
+  "generated": "2026-08-06T23:02:19.735866+00:00",
   "date": "2026-08-07",
-  "count": 18,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -128,6 +128,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/annette-windlin-ueber-mein-freches-mundwerk-haben-sich-meine-eltern-frueher-geaergert-art-1715620",
       "summary": "",
       "published": "2026-08-06T22:32:16.734447+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Verdächtiger wertete Wetterdaten aus, ehe er das Feuer legte",
+      "url": "https://www.20min.ch/story/usa-spokane-old-trail-feuer-verdaechtiger-brandstiftung-wochenlang-geplant-details-103614055",
+      "summary": "Der Waldbrand in Spokane im Westen der USA hat grosse Zerstörung verursacht. Der verdächtige Brandstifter soll das Feuer wochenland geplant haben.",
+      "published": "2026-08-06T23:02:19.735866+00:00"
     }
   ]
 }
