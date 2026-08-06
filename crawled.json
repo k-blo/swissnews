@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-06T01:01:40.693826+00:00",
+  "generated": "2026-08-06T01:32:05.057148+00:00",
   "date": "2026-08-06",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,13 @@
       "url": "https://www.nzz.ch/podcast/retten-sie-mit-provokation-die-demokratie-harald-martenstein-ld.10014884",
       "summary": "",
       "published": "2026-08-06T01:01:40.693826+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Krisenrunde in Marokko: FIFA-Spitze demonstriert Einigkeit",
+      "url": "https://www.tagesanzeiger.ch/fifa-nach-krisensitzung-gianni-infantino-rueckendeckung-von-fuehrungsspitze-405685527627",
+      "summary": "Nach heftiger Kritik an den Investorenplänen stellt sich die FIFA-Spitze demonstrativ hinter Präsident Infantino. Angriffe auf die Integrität der FIFA werde der Weltverband nicht dulden.",
+      "published": "2026-08-06T01:32:05.057148+00:00"
     }
   ]
 }
