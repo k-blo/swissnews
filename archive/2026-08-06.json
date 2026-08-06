@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-06T00:31:54.464302+00:00",
+  "generated": "2026-08-06T01:01:40.693826+00:00",
   "date": "2026-08-06",
-  "count": 19,
+  "count": 22,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -135,6 +135,27 @@
       "url": "https://www.aargauerzeitung.ch/kultur/aargau/magic-night-hat-seine-magische-formel-gefunden-ld.4212257",
       "summary": "",
       "published": "2026-08-06T00:31:54.464302+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "FIFA-Spitze demonstriert Einigkeit",
+      "url": "https://www.20min.ch/story/fifa-krisensitzung-fuehrung-hinter-gianni-infantino-103613635",
+      "summary": "Nach heftiger Kritik an den Investorenplänen stellt sich die FIFA-Spitze demonstrativ hinter Präsident Infantino. Angriffe auf die Integrität der FIFA werde der Weltverband nicht dulden.",
+      "published": "2026-08-06T01:01:40.693826+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Streit um Epstein-Akten eskaliert",
+      "url": "https://www.zentralplus.ch/news/streit-um-epstein-akten-eskaliert-2889952/",
+      "summary": "Der US-Bundesstaat New Mexico hat das Justizministerium der USA verklagt. Der Bundesstaat fühlt sich bei seinen Ermittlungen zum Sexualstraftäter Jeffrey Epstein behindert. Er will die Veröffentlichun",
+      "published": "2026-08-06T01:01:40.693826+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ MACHTSPIEL» - «Retten Sie mit Provokation die Demokratie, Harald Martenstein?»",
+      "url": "https://www.nzz.ch/podcast/retten-sie-mit-provokation-die-demokratie-harald-martenstein-ld.10014884",
+      "summary": "",
+      "published": "2026-08-06T01:01:40.693826+00:00"
     }
   ]
 }
