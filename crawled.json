@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T01:32:34.102424+00:00",
+  "generated": "2026-08-07T02:02:28.572104+00:00",
   "date": "2026-08-07",
-  "count": 25,
+  "count": 30,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -177,6 +177,41 @@
       "url": "https://www.zentralplus.ch/news/meta-muss-500-millionen-franken-zahlen-2890248/",
       "summary": "Der Mutterkonzern von Facebook und Instagram, Meta, muss in den USA rund eine halbe Milliarde Franken für den Jugendschutz bezahlen. Ein Gericht im Bundesstaat New Mexico sprach das Urteil. Das Geld s",
       "published": "2026-08-07T01:32:34.102424+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schwere Vorwürfe gegen Professor von Elite-Uni Cambridge",
+      "url": "https://www.20min.ch/story/vorwuerfe-gegen-jason-arday-cambridge-university-professur-plagiatsvorwurfe-lebenslauf-103614067",
+      "summary": "Jason Arday wurde vor drei Jahren gefeiert, als er der jüngste schwarze Professor der britischen Universität Cambridge wurde. Jetzt kommt ans Licht: Vieles im Lebenslauf entsprach nicht der Wahrheit. ",
+      "published": "2026-08-07T02:02:28.572104+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Airbnb profitiert von Fussball-WM",
+      "url": "https://www.zentralplus.ch/news/airbnb-profitiert-von-fussball-wm-2890251/",
+      "summary": "Die Fussball Weltmeisterschaft in Nordamerika hat dem Zimmervermittler Airbnb ein starkes Quartal beschert. In den Monaten April bis Juni verzeichnete das Unternehmen Millionen von Gästen in den Spiel",
+      "published": "2026-08-07T02:02:28.572104+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Artikel",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/artikel-ld.4211083",
+      "summary": "",
+      "published": "2026-08-07T02:02:28.572104+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "40 Jahre Hochzeit Bea und Hanspeter",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/40-jahre-hochzeit-bea-und-hanspeter-ld.4209228",
+      "summary": "",
+      "published": "2026-08-07T02:02:28.572104+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Rotkreuzfahrdienst Berg Schwankt Zwischen Abschied und Diskussion",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/rotkreuzfahrdienst-berg-schwankt-zwischen-abschied-und-diskussion-ld.4208830",
+      "summary": "",
+      "published": "2026-08-07T02:02:28.572104+00:00"
     }
   ]
 }
