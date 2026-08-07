@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T03:02:29.928478+00:00",
+  "generated": "2026-08-07T03:32:11.693054+00:00",
   "date": "2026-08-07",
-  "count": 132,
+  "count": 139,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -926,6 +926,55 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/freiburger-alpbetriebe-erhalten-wasser-per-helikopter-art-1715719",
       "summary": "",
       "published": "2026-08-07T03:02:29.928478+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zahlreiche Haushalte im Raum Stäfa ohne Strom",
+      "url": "https://www.20min.ch/story/stromausfall-zwischen-maennedorf-uerikon-staefa-ursache-unbekannt-103614074",
+      "summary": "In der Nacht kam es zu einen grösseren Stromausfall am rechten Zürichseeufer. Die Dauer der Störung ist unbekannt.",
+      "published": "2026-08-07T03:32:11.693054+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Unser Buchsommer: «Wer diese Autorin liest, sieht die Welt mit anderen Augen»",
+      "url": "https://www.tagesanzeiger.ch/deborah-levy-warum-nina-kunz-sie-liebt-946227459164",
+      "summary": "Für unsere Redaktorin Nina Kunz ist die Autorin Deborah Levy nichts weniger als «Gott». Im Podcast erklärt sie, warum «Was das Leben kostet» ihr Lieblingsbuch ist.",
+      "published": "2026-08-07T03:32:11.693054+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Millionärs-Hochburg: Zug schlägt die ganze Schweiz",
+      "url": "https://www.zentralplus.ch/geld-steuern/millionaers-hochburg-zug-schlaegt-die-ganze-schweiz-2889382/",
+      "summary": "Nirgendwo in der Schweiz ist die Dichte an Einkommensmillionärinnen und -millionären höher als in Zug. 2022 versteuerte hier jeder 91. Steuerpflichtige mindestens eine Million Franken Einkommen. Wer e",
+      "published": "2026-08-07T03:32:11.693054+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - KI wirkt in der Schule entlastend, doch ohne Sinn für Gemeinschaft und Willen zur Anstrengung muss Bildung scheitern",
+      "url": "https://www.nzz.ch/meinung/ki-wirkt-in-der-schule-entlastend-doch-ohne-sinn-fuer-gemeinschaft-und-willen-zur-anstrengung-muss-bildung-scheitern-ld.10015553",
+      "summary": "",
+      "published": "2026-08-07T03:32:11.693054+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Die Schweiz braucht keine Vollbremsung, sie muss aber den richtigen Gang einlegen",
+      "url": "https://www.nzz.ch/meinung/die-schweiz-braucht-keine-vollbremsung-sie-muss-aber-den-richtigen-gang-einlegen-ld.10015608",
+      "summary": "",
+      "published": "2026-08-07T03:32:11.693054+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Verwaltungsgericht rügt Stadt Zürich: Ein Velo-Highway am Zürichberg muss anders gebaut werden",
+      "url": "https://www.nzz.ch/zuerich/verwaltungsgericht-ruegt-stadt-zuerich-ein-velo-highway-am-zuerichberg-muss-anders-gebaut-werden-ld.10018435",
+      "summary": "",
+      "published": "2026-08-07T03:32:11.693054+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Viele Grossanlässe klagen über zu wenige Freiwillige. Die Winterthurer Musikfestwochen haben tausend",
+      "url": "https://www.nzz.ch/zuerich/viele-grossanlaesse-klagen-ueber-zu-wenig-freiwillige-die-winterthurer-musikfestwochen-haben-tausende-warum-ld.10018461",
+      "summary": "",
+      "published": "2026-08-07T03:32:11.693054+00:00"
     }
   ]
 }
