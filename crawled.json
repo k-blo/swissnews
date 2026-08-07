@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T17:32:37.007567+00:00",
+  "generated": "2026-08-07T17:36:49.617885+00:00",
   "date": "2026-08-07",
-  "count": 733,
+  "count": 735,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -5133,6 +5133,20 @@
       "url": "https://www.srf.ch/news/schweiz/bedrohung-durch-kuehe-der-weg-fuehrt-ueber-eine-wiese-mit-kuehen-so-verhalte-ich-mich",
       "summary": "Kühe sind friedliche Lebewesen. Es stört sie aber, wenn man ihnen oder ihren Kälbern zu nahe kommt.",
       "published": "2026-08-07T17:32:37.007567+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Prügelattacke in Bar: Erst gibts Schläge, dann wird Geld eingezogen – Rocker wegen Raub verurteilt",
+      "url": "https://www.bernerzeitung.ch/rocker-prozess-in-langenthal-wegen-raub-verurteilt-528822989677",
+      "summary": "Drei Rocker, darunter ein Bronco, nehmen in Langenthal einen Barbetreiber in die Mangel. Es geht um Schulden von 5000 Franken. Der Fall wirft einmal mehr ein Schlaglicht auf die Motorradszene.",
+      "published": "2026-08-07T17:36:49.617885+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Waldbrände, Hitze, Pegelstände: Europa kämpft in diesem Sommer",
+      "url": "https://www.watson.ch/international/extremwetter/821236443-waldbraende-hitze-pegelstaende-europa-kaempft-in-diesem-sommer",
+      "summary": "",
+      "published": "2026-08-07T17:36:49.617885+00:00"
     }
   ]
 }
