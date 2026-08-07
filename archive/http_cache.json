@@ -1,36 +1,36 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Fri, 07 Aug 2026 17:17:09 GMT",
-    "etag": "\"5e7bcbfaec358a2ff00afb30c4a771fd\""
+    "last_modified": "Fri, 07 Aug 2026 17:24:55 GMT",
+    "etag": "\"d92fb7ed7e645add2815725e9dc49ee2\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"18a2d-3TvTayoqxJBtLZshCwwhhduDrBE\""
+    "etag": "W/\"18a2d-xUQiQtY7lKQQ4vDesiVvyuUr1GM\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"e63e-x31yFvn6k2uuJ6KkSrR5+Gf3V8Y\""
+    "etag": "W/\"e635-saMpa7KzbgkULbumbonGHF95urQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"d68b-RSmFNmhVFAktpfKOp00mv/TZvvo\""
+    "etag": "W/\"d60c-InbuStQJyn/wF6nniwxig0ku5eg\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Fri, 07 Aug 2026 17:10:58 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Fri, 07 Aug 2026 17:21:05 GMT"
+    "last_modified": "Fri, 07 Aug 2026 17:31:44 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Fri, 07 Aug 2026 17:19:11 GMT",
     "etag": "\"1786123151\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Fri, 07 Aug 2026 17:16:14 GMT"
+    "last_modified": "Fri, 07 Aug 2026 17:31:15 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"d7a0-/RdS0nFIgUr79gDWKcMJDjpXsZg\""
+    "etag": "W/\"d730-IJC8L8ZmljEF5gZmiImtmE9WW0A\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
     "etag": "W/\"d905-PyjjufZ3sEwDiIGAKIUYRrBQPcg\""
@@ -51,8 +51,8 @@
     "etag": "\"1785772352\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Fri, 07 Aug 2026 17:15:27 GMT",
-    "etag": "W/\"1786122927-gzip\""
+    "last_modified": "Fri, 07 Aug 2026 17:30:26 GMT",
+    "etag": "W/\"1786123826-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"25db8-USejYU9nq26Yhk01StmT2ED2+o8\""
