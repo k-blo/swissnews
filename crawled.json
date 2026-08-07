@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T02:02:28.572104+00:00",
+  "generated": "2026-08-07T02:32:16.169375+00:00",
   "date": "2026-08-07",
-  "count": 30,
+  "count": 44,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,104 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/rotkreuzfahrdienst-berg-schwankt-zwischen-abschied-und-diskussion-ld.4208830",
       "summary": "",
       "published": "2026-08-07T02:02:28.572104+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Mitten im Hochsommer: Grossflächiger Stromausfall im Raum Stäfa ZH",
+      "url": "https://www.blick.ch/schweiz/zuerich/mitten-im-hochsommer-grossflaechiger-stromausfall-im-raum-staefa-zh-id22163874.html",
+      "summary": "In der Nacht auf Freitag kam es in Stäfa ZH zu einem massiven Stromausfall. Ursache könnte ein Blitzschlag in eine Trafostation sein, doch das ist noch unbestätigt.",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Konzern soll für psychische Schäden aufkommen: Kinderschutz: US-Gericht verhängt Millionenstrafe gegen Meta",
+      "url": "https://www.tagesanzeiger.ch/meta-facebook-mutterkonzern-millionenstrafe-nach-urteil-berufung-angekuendigt-563452050672",
+      "summary": "Ein Gericht in New Mexico nimmt Meta wegen des Schutzes von Kindern auf seinen Plattformen in die Pflicht. Der Konzern muss erneut Millionen zahlen und Massnahmen zum besseren Schutz junger Nutzer ums",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mexiko schützt Plantagen mit Soldaten",
+      "url": "https://www.zentralplus.ch/news/mexiko-schuetzt-plantagen-mit-soldaten-2890253/",
+      "summary": "Mexiko hat 1500 Soldaten zum Schutz von Avocadoplantagen in den Bundesstaat Michoacán geschickt. Die mexikanische Präsidentin Claudia Sheinbaum will so erreichen, dass wieder Avocados in die USA expor",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "37,9 Grad und es wird noch heisser – warum Klimaschutz eine wirtschaftliche Notwendigkeit ist",
+      "url": "https://www.shn.ch/forum-meinung/kolumnen/2026-08-07/379-grad-und-es-wird-noch-heisser-warum-klimaschutz-eine",
+      "summary": "In ihrer Kolumne schreibt SP-Grossstadträtin und Parteipräsidentin Romina Loliva über die wirtschaftlichen Konsequenzen des Klimawandels.",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der alte Mann und das Meer: Unterwegs mit einem Berufsfischer auf dem Alten Rhein",
+      "url": "https://www.shn.ch/region/kanton/2026-08-07/der-alte-mann-und-das-meer-unterwegs-mit-einem-berufsfischer-auf-dem-alten",
+      "summary": "Dort, wo die Landesgrenze durch den Fluss verläuft, Schmuggler goldene Zeiten hatten, die Natur wildromantisch ist, treffe ich auf Berufsfischer Claudio Görtz. Einen der Letzten seiner Art.",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der Rhein ist 38 Grad warm? Da stimmt doch was nicht",
+      "url": "https://www.shn.ch/region/kanton/2026-08-07/der-rhein-ist-38-grad-warm-da-stimmt-doch-was-nicht",
+      "summary": "Bei der Flurlingerbrücke befindet sich eine Messstation des Bundesamts für Umwelt. Dort kann man die aktuellen Abflusswerte und Temperaturen des Rheins ablesen. Letztere sind aktuell verfälscht.",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Keine Reise nach Spanien nötig: Hier erlebt Schaffhausen die Sonnenfinsternis",
+      "url": "https://www.shn.ch/region/kanton/2026-08-07/keine-reise-nach-spanien-noetig-hier-erlebt-schaffhausen-die",
+      "summary": "Am 12. August schiebt sich der Mond auch in Schaffhausen vor die Sonne und bedeckt sie zu rund 90 Prozent. Wer nicht nach Spanien reist, muss also nicht ganz auf das Himmelsschauspiel verzichten. Die ",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Schwingen als Vollzeitjob",
+      "url": "https://www.suedostschweiz.ch/regionalsport/schwingen-als-vollzeitjob-2111041",
+      "summary": "",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Extremer Veloklau in Rapperswil Jona Allenfalls Ergänzt oder als Fortsetzung",
+      "url": "https://www.suedostschweiz.ch/linth/extremer-veloklau-in-rapperswil-jona-allenfalls-ergaenzt-oder-als-fortsetzung-2106466",
+      "summary": "",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Das Pouletrestaurant Lässt auf Sich Warten Warum Sich die in Chur Verspätet",
+      "url": "https://www.suedostschweiz.ch/graubuenden/das-pouletrestaurant-laesst-auf-sich-warten-warum-sich-die-in-chur-verspaetet-2109788",
+      "summary": "",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kriminelle Haben es auf ein Glarner Waffengeschäft Abgesehen was Bisher Bekannt ist",
+      "url": "https://www.suedostschweiz.ch/glarus/kriminelle-haben-es-auf-ein-glarner-waffengeschaeft-abgesehen-was-bisher-bekannt-ist-2111119",
+      "summary": "",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Grpk in Affeltrangen Gemeinde Beschwichtigt nach Rückzugswelle",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/grpk-in-affeltrangen-gemeinde-beschwichtigt-nach-rueckzugswelle-ld.4212262",
+      "summary": "",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Das Restaurant Attica in Frauenfeld Öffnet Wieder Unter Neuem Pächter",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/das-restaurant-attica-in-frauenfeld-oeffnet-wieder-unter-neuem-paechter-ld.4212947",
+      "summary": "",
+      "published": "2026-08-07T02:32:16.169375+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Zach Okabe vom Hc Thurgau ist Japaner Australier und Kanadier",
+      "url": "https://www.thurgauerzeitung.ch/sport/hcthurgau/zach-okabe-vom-hc-thurgau-ist-japaner-australier-und-kanadier-ld.4213140",
+      "summary": "",
+      "published": "2026-08-07T02:32:16.169375+00:00"
     }
   ]
 }
