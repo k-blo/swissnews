@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T22:02:41.774079+00:00",
+  "generated": "2026-08-07T22:32:37.285072+00:00",
   "date": "2026-08-08",
-  "count": 3,
+  "count": 5,
   "articles": [
     {
       "source": "Blick",
@@ -23,6 +23,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/279800/der-schmelztiegel-f%C3%BCr-metal",
       "summary": "",
       "published": "2026-08-07T22:02:41.774079+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Drei Acts, ein stimmungsvoller Abend am Stars in Town",
+      "url": "https://www.shn.ch/region/stadt/2026-08-08/drei-acts-ein-stimmungsvoller-abend-am-stars-in-town",
+      "summary": "Kamrad, Baschi und Amy Macdonald sorgten am Freitagabend auf dem Herrenacker in Schaffhausen für abwechslungsreiche Musik und gute Stimmung. Die besten Bilder des Abends.",
+      "published": "2026-08-07T22:32:37.285072+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was es bei einem Kirchenaustritt zu bedenken gilt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/was-es-bei-einem-kirchenaustritt-zu-bedenken-gilt-art-1715637",
+      "summary": "",
+      "published": "2026-08-07T22:32:37.285072+00:00"
     }
   ]
 }
