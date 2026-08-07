@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T23:32:40.087558+00:00",
+  "generated": "2026-08-07T23:37:42.317521+00:00",
   "date": "2026-08-08",
-  "count": 8,
+  "count": 9,
   "articles": [
     {
       "source": "Blick",
@@ -58,6 +58,13 @@
       "url": "https://www.watson.ch/sport/fifa/799043626-bericht-uefa-bezahlte-sechsstellige-summe-an-infantinos-geliebte",
       "summary": "",
       "published": "2026-08-07T23:32:40.087558+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "De la Espriella als Präsident vereidigt",
+      "url": "https://www.zentralplus.ch/news/de-la-espriella-als-praesident-vereidigt-2890540/",
+      "summary": "In Kolumbien hat der neue Präsident Abelardo de la Espriella sein Amt offiziell angetreten. Der konservative Politiker wurde bei einer Zeremonie in der Stadt Cali vereidigt. Er folgt auf Gustavo Petro",
+      "published": "2026-08-07T23:37:42.317521+00:00"
     }
   ]
 }
