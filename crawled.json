@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T19:32:29.812247+00:00",
+  "generated": "2026-08-07T20:02:41.491732+00:00",
   "date": "2026-08-07",
-  "count": 775,
+  "count": 779,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -5427,6 +5427,34 @@
       "url": "https://www.watson.ch/wirtschaft/digital/187177534-ki-statt-display-so-soll-openais-erstes-eigenes-geraet-aussehen",
       "summary": "",
       "published": "2026-08-07T19:32:29.812247+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rad: Christen darf bei der Polen-Rundfahrt jubeln",
+      "url": "https://www.tagesanzeiger.ch/christen-darf-bei-der-polen-rundfahrt-jubeln-613688434904",
+      "summary": "Der Aargauer setzt sich zum Ende der 5. Etappe knapp durch. Im Gesamtklassement ist er nun auf Rang 4.",
+      "published": "2026-08-07T20:02:41.491732+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Fitter und sicherer unterwegs: Profis verraten, wie auch Anfänger 100 Kilometer mit dem Velo schaffen können",
+      "url": "https://www.bernerzeitung.ch/velo-tipps-so-werden-sie-fitter-auf-dem-velo-102231455229",
+      "summary": "Von der Sattelhöhe bis zur Kurventechnik – das sind die wichtigsten Tipps von Tour-de-France-Fahrerin Noemi Rüegg und Mountainbike-Europameister Florian Vogel.",
+      "published": "2026-08-07T20:02:41.491732+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Hc Thurgau Verliert Testspiel Gegen Ehc Kloten Debüt von Okabe",
+      "url": "https://www.thurgauerzeitung.ch/sport/hcthurgau/hc-thurgau-verliert-testspiel-gegen-ehc-kloten-debuet-von-okabe-ld.4213769",
+      "summary": "",
+      "published": "2026-08-07T20:02:41.491732+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Ehco Gewinnt Testspiel in Winterthur Klar mit 81",
+      "url": "https://www.oltnertagblatt.ch/sport/ehc-olten/ehco-gewinnt-testspiel-in-winterthur-klar-mit-81-ld.4213754",
+      "summary": "",
+      "published": "2026-08-07T20:02:41.491732+00:00"
     }
   ]
 }
