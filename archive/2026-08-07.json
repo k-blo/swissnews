@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T01:02:15.950546+00:00",
+  "generated": "2026-08-07T01:32:34.102424+00:00",
   "date": "2026-08-07",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/wo-ist-der-sommersmog-geblieben",
       "summary": "",
       "published": "2026-08-07T00:33:04.661108+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA erheben neuen Zoll auf Polysilizium",
+      "url": "https://www.zentralplus.ch/news/usa-erheben-neuen-zoll-auf-polysilizium-2890247/",
+      "summary": "Der Handelsstreit zwischen den USA und China verschärft sich erneut. Die USA erheben neu einen Zoll von 15 Prozent auf Polysilizium und dessen Folgeprodukte. Zudem gelten staatlich festgelegte Mindest",
+      "published": "2026-08-07T01:32:34.102424+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Meta muss 500 Millionen Franken zahlen",
+      "url": "https://www.zentralplus.ch/news/meta-muss-500-millionen-franken-zahlen-2890248/",
+      "summary": "Der Mutterkonzern von Facebook und Instagram, Meta, muss in den USA rund eine halbe Milliarde Franken für den Jugendschutz bezahlen. Ein Gericht im Bundesstaat New Mexico sprach das Urteil. Das Geld s",
+      "published": "2026-08-07T01:32:34.102424+00:00"
     }
   ]
 }
