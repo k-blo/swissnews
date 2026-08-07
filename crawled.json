@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-07T18:18:52.950571+00:00",
+  "generated": "2026-08-07T18:32:38.081505+00:00",
   "date": "2026-08-07",
-  "count": 757,
+  "count": 759,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -5301,6 +5301,20 @@
       "url": "https://www.aargauerzeitung.ch/aargau/brugg/aargauer-abendausfahrt-2026-viele-oldtimer-lastwagen-und-busse-waren-unterwegs-ld.4211209",
       "summary": "",
       "published": "2026-08-07T18:18:52.950571+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Wassermangel bei der Thur Kraftwerke Ausser Betrieb",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/wassermangel-bei-der-thur-kraftwerke-ausser-betrieb-ld.4213765",
+      "summary": "",
+      "published": "2026-08-07T18:32:38.081505+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sieben Kilometer Rückreise-Stau vor dem Gotthard",
+      "url": "https://www.watson.ch/schweiz/auto/222453507-sieben-kilometer-rueckreise-stau-vor-dem-gotthard",
+      "summary": "",
+      "published": "2026-08-07T18:32:38.081505+00:00"
     }
   ]
 }
