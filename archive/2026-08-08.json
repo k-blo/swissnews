@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T03:02:37.785436+00:00",
+  "generated": "2026-08-08T03:32:32.751249+00:00",
   "date": "2026-08-08",
-  "count": 150,
+  "count": 166,
   "articles": [
     {
       "source": "Blick",
@@ -1052,6 +1052,118 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/auch-die-letzte-einsprache-zum-neuen-verwaltungszentrum-ist-vom-tisch-art-1715730",
       "summary": "",
       "published": "2026-08-08T03:02:37.785436+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Ex-Raiffeisen-Chef erneut vor Gericht: Wird Pierin Vincenz jetzt freigesprochen?",
+      "url": "https://www.blick.ch/schweiz/ex-raiffeisen-chef-erneut-vor-gericht-wird-pierin-vincenz-jetzt-freigesprochen-id22165458.html",
+      "summary": "Es ist der Wirtschaftsprozess des Jahrzehnts. Pierin Vincenz und Beat Stocker sollen dank versteckter Deals abkassiert haben. Am Montag beginnt die Verhandlung am Obergericht. Mit welcher Strafe ist z",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "OpenAI will neue KI härter überwachen",
+      "url": "https://www.20min.ch/story/hacking-angriffe-openai-will-neue-ki-haerter-ueberwachen-103614467",
+      "summary": "Ungeplante Hacking-Angriffe durch Künstliche Intelligenz liessen die Alarmglocken schrillen. Die ChatGPT-Firma OpenAI arbeitet an einem neuen KI-Modell jetzt nur noch mit besonderen Vorsichtsmassnahme",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "5:0 gegen Wil: 442 Tage! Diese lange Negativserie beendet der FCW beim ersten Saisonsieg",
+      "url": "https://www.tagesanzeiger.ch/fc-winterthur-5-0-gegen-wil-beendet-442-tage-serie-212930934931",
+      "summary": "Der FC Winterthur erlebt gegen den FC Wil einen rundum erfolgreichen Abend. Ein Rückkehrer gibt der Mannschaft «ein gutes Gefühl», zwei Junge beeindrucken.",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Ich habe mich vor einer Gruppe Touristen ausgeweint. Ich nenne es einen ‹taktischen Weinkrampf›.» Sophie Woods läuft die Via Alpina in Rekordzeit",
+      "url": "https://www.nzz.ch/sport/extremsport/ich-habe-mich-vor-einer-gruppe-touristen-ausgeweint-ich-nenne-es-einen-taktischen-weinkrampf-sophie-woods-laeuft-die-via-alpina-in-rekordzeit-ld.10018197",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wassermangel auf der Alp: Im Kanton Freiburg werden Rinder per Helikopter versorgt",
+      "url": "https://www.nzz.ch/schweiz/wassermangel-auf-der-alp-im-kanton-freiburg-werden-rinder-per-helikopter-versorgt-ld.10018069",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK MIT DATEN - Deutschland gibt weniger Geld für Gender-Projekte aus. Doch links ist in der Entwicklungshilfe noch lange nicht vorbei",
+      "url": "https://www.nzz.ch/der-andere-blick/deutschland-gibt-weniger-geld-fuer-gender-projekte-aus-doch-links-ist-in-der-entwicklungshilfe-noch-lange-nicht-vorbei-ld.10017760",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kunst kaufen wie die Superreichen – eine Schweizer Firma macht’s möglich",
+      "url": "https://www.nzz.ch/finanzen/kunst-kaufen-wie-die-superreichen-eine-schweizer-firma-macht-s-moeglich-ld.10017471",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Offene KI aus China: Ist das Geschäftsmodell von Open AI und Anthropic am Ende?",
+      "url": "https://www.nzz.ch/technologie/offene-ki-aus-china-ist-das-das-ende-fuer-open-ai-und-anthropic-ld.10017435",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Übersehene Nebenwirkung: Haarausfall durch Abnehmspritzen",
+      "url": "https://www.nzz.ch/wissenschaft/haarausfall-durch-abnehmspritzen-was-forscher-ueber-ursachen-und-therapie-wissen-ld.10016722",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Wir haben das Problem, dass die Arbeit von Juniors mit KI gemacht werden kann», sagt Michaela Gasser, die Schweiz-Chefin des IT-Dienstleisters Adesso",
+      "url": "https://www.nzz.ch/wirtschaft/wir-haben-das-problem-dass-die-arbeit-von-juniors-mit-ki-gemacht-werden-kann-sagt-michaela-gasser-die-schweiz-chefin-des-it-dienstleisters-adesso-ld.10015966",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Was sich Menschen wünschen, wenn sie wissen, dass sie sterben",
+      "url": "https://www.nzz.ch/gesellschaft/was-sich-menschen-wuenschen-wenn-sie-wissen-dass-sie-sterben-ld.10015826",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Warum das Ende des Autos ausgerufen wird, junge Kunden aber mit Karaoke-Stromern die Branche neu entfachen",
+      "url": "https://www.nzz.ch/mobilitaet/warum-peak-car-ausgerufen-wird-junge-kunden-aber-mit-karaoke-e-autos-die-branche-neu-entfachen-ld.10013361",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Der stille Abschied vom Markt – wie Europa mit seiner Energiepolitik die Grundlagen des Wohlstands untergräbt",
+      "url": "https://www.nzz.ch/meinung/der-stille-abschied-vom-markt-wie-europa-mit-seiner-energiepolitik-die-grundlagen-des-wohlstands-untergraebt-ld.10014529",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Wow! Der hat richtig gesplasht!»: Die Limmat gilt als Paradies für Wasserspringer – es ist ein trügerisches Vergnügen",
+      "url": "https://www.nzz.ch/zuerich/zuerich-die-limmat-ist-ein-hotspot-fuer-wasserspringer-trotz-strafanzeigen-ld.10016744",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Marek Krynski hat die Street Parade gegründet. Dann stieg er ins Bankengeschäft ein: «Natürlich hat es wehgetan, die eigene Idee loszulassen»",
+      "url": "https://www.nzz.ch/zuerich/street-parade-wie-marek-krynski-die-groesste-technoparty-der-welt-erfand-ld.10016568",
+      "summary": "",
+      "published": "2026-08-08T03:32:32.751249+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "FC Schaffhausen: Carmine Chiappetta will den Makel des Abstiegs loswerden",
+      "url": "https://www.shn.ch/sport/fussball/2026-08-08/fc-schaffhausen-carmine-chiappetta-will-den-makel-des-abstiegs-loswerden",
+      "summary": "Das erste Heimspiel in dieser Saison steht an, heute geht es für den FC Schaffhausen gegen den FC Kreuzlingen. Gerne wieder treffen will dabei Carmine Chiappetta.",
+      "published": "2026-08-08T03:32:32.751249+00:00"
     }
   ]
 }
