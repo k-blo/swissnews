@@ -1,22 +1,22 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Sat, 08 Aug 2026 08:38:02 GMT",
-    "etag": "\"fde5c676983119fb11c8aef4a2729496\""
+    "last_modified": "Sat, 08 Aug 2026 08:59:45 GMT",
+    "etag": "\"a1ba2f7d7cd2a68e70b7f058a6d70cfe\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"18d16-WHEqsBvFm2MO0TwnycKrXE67dPU\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"e235-/w/nBR4taiqHoc8F00jigzHrVxs\""
+    "etag": "W/\"e360-x/Mi4W789pH/HLIL1gbvXquSMHU\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"ddb8-n6aBwWxBna0ixM9vxIVV+SD9ojg\""
+    "etag": "W/\"ddd5-MP7sYhlbMkdl7JfrZIQ8oRoc7tk\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Sat, 08 Aug 2026 08:22:24 GMT"
+    "last_modified": "Sat, 08 Aug 2026 08:58:00 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Sat, 08 Aug 2026 08:59:04 GMT"
+    "last_modified": "Sat, 08 Aug 2026 09:02:25 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Sat, 08 Aug 2026 06:11:11 GMT",
@@ -30,10 +30,10 @@
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"e763-jKuEbxO1Rox1rvQ5GQZgKbcC7Dc\""
+    "etag": "W/\"e77b-dYbDA7rnn4PLOwY3ZrdALFc5VGM\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"d8e4-NM4CIoeWTxpa7UqKvoQyqFBgsu0\""
+    "etag": "W/\"d8fa-KcgWJj09b7+h2sxSLWm66aU+a38\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Sat, 08 Aug 2026 08:57:02 GMT",
@@ -51,15 +51,15 @@
     "etag": "\"1785772352\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sat, 08 Aug 2026 08:55:08 GMT",
-    "etag": "W/\"1786179308-gzip\""
+    "last_modified": "Sat, 08 Aug 2026 09:00:34 GMT",
+    "etag": "W/\"1786179634-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"25db8-USejYU9nq26Yhk01StmT2ED2+o8\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Sat, 08 Aug 2026 08:58:00 GMT",
-    "etag": "\"1786179480\""
+    "last_modified": "Sat, 08 Aug 2026 09:01:01 GMT",
+    "etag": "\"1786179661\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Fri, 31 Jul 2026 14:09:59 GMT",
