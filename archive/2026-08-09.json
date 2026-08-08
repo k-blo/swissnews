@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T23:02:48.127841+00:00",
+  "generated": "2026-08-08T23:31:52.721619+00:00",
   "date": "2026-08-09",
-  "count": 3,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -23,6 +23,20 @@
       "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gratulation-zum-96-geburtstag-ld.4211576",
       "summary": "",
       "published": "2026-08-08T23:02:48.127841+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich lebe noch»: Patrice Aminati meldet sich erstmals nach Wochen",
+      "url": "https://www.20min.ch/story/an-hautkrebs-erkrankt-ich-lebe-noch-patrice-aminati-meldet-sich-erstmals-nach-wochen-103614966",
+      "summary": "Die unheilbar an schwarzem Hautkrebs erkrankte Moderatorin und Influencerin Patrice Aminati hat sich nach längerer Funkstille auf Instagram zu Wort gemeldet. In ihrem Post erklärt die 31-Jährige, waru",
+      "published": "2026-08-08T23:31:52.721619+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "CAN: Notstand in British Columbia",
+      "url": "https://www.zentralplus.ch/news/can-notstand-in-british-columbia-2890647/",
+      "summary": "Die Behörden der westkanadischen Provinz British Columbia haben am Samstag, wegen ausser Kontrolle geratener Waldbrände, den Notstand ausgerufen. Tausende Menschen mussten ihre Häuser verlassen, nachd",
+      "published": "2026-08-08T23:31:52.721619+00:00"
     }
   ]
 }
