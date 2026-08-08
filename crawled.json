@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T23:31:52.721619+00:00",
+  "generated": "2026-08-08T23:57:36.546275+00:00",
   "date": "2026-08-09",
-  "count": 5,
+  "count": 6,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,13 @@
       "url": "https://www.zentralplus.ch/news/can-notstand-in-british-columbia-2890647/",
       "summary": "Die Behörden der westkanadischen Provinz British Columbia haben am Samstag, wegen ausser Kontrolle geratener Waldbrände, den Notstand ausgerufen. Tausende Menschen mussten ihre Häuser verlassen, nachd",
       "published": "2026-08-08T23:31:52.721619+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fifa nimmt Präsident Gianni Infantino in Schutz",
+      "url": "https://www.20min.ch/story/statement-veroeffentlicht-fifa-nimmt-praesident-gianni-infantino-in-schutz-103614967",
+      "summary": "Die Fifa spricht von einem «koordinierten und anhaltenden» Versuch, den Verband und Präsident Gianni Infantino zu schwächen. Hintergrund sind neue Vorwürfe gegen den 56-Jährigen und der Streit um sein",
+      "published": "2026-08-08T23:57:36.546275+00:00"
     }
   ]
 }
