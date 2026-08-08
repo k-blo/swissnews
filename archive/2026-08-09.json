@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T22:32:27.700924+00:00",
+  "generated": "2026-08-08T23:02:48.127841+00:00",
   "date": "2026-08-09",
-  "count": 2,
+  "count": 3,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,13 @@
       "url": "https://www.tagblatt.ch/ostschweiz/wil/fc-wil-nach-05-in-winterthur-haemmerli-spricht-klartext-ld.4213833",
       "summary": "",
       "published": "2026-08-08T22:32:27.700924+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gratulation zum 96 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gratulation-zum-96-geburtstag-ld.4211576",
+      "summary": "",
+      "published": "2026-08-08T23:02:48.127841+00:00"
     }
   ]
 }
