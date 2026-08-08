@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T02:32:34.875007+00:00",
+  "generated": "2026-08-08T02:48:14.518576+00:00",
   "date": "2026-08-08",
-  "count": 30,
+  "count": 32,
   "articles": [
     {
       "source": "Blick",
@@ -212,6 +212,20 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/armee-stellt-wassersprenger-auf-waffenplatz-frauenfeld-ab-ld.4213282",
       "summary": "",
       "published": "2026-08-08T02:32:34.875007+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Binswanger Europas Versagen",
+      "url": "https://www.republik.ch/2026/08/08/binswanger-europas-versagen",
+      "summary": "",
+      "published": "2026-08-08T02:48:14.518576+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Die Invasion die Keine War",
+      "url": "https://www.republik.ch/2026/08/08/die-invasion-die-keine-war",
+      "summary": "",
+      "published": "2026-08-08T02:48:14.518576+00:00"
     }
   ]
 }
