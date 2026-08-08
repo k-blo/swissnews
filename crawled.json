@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-08T18:32:16.006987+00:00",
+  "generated": "2026-08-08T19:00:56.968297+00:00",
   "date": "2026-08-08",
-  "count": 518,
+  "count": 523,
   "articles": [
     {
       "source": "Blick",
@@ -3628,6 +3628,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/yb-verschenkt-in-lausanne-den-dritten-sieg-art-1715921",
       "summary": "",
       "published": "2026-08-08T18:32:16.006987+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kantonsarchäologie Luzern – Wenn die mittelalterliche Bäckerei einem Müllcontainer weicht",
+      "url": "https://www.srf.ch/news/schweiz/kantonsarchaeologie-luzern-wenn-die-mittelalterliche-baeckerei-einem-muellcontainer-weicht",
+      "summary": "Bei einer Baustelle stossen Luzerner Archäologen auf eine mittelalterliche Bäckerei. Sie wird dokumentiert und zerstört.",
+      "published": "2026-08-08T19:00:56.968297+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verschärfte Besuchsregeln: Jair Bolsonaro darf seine Söhne am Vatertag nicht sehen",
+      "url": "https://www.tagesanzeiger.ch/bolsonaro-richter-verbietet-soehne-besuch-zum-vatertag-300782566278",
+      "summary": "Ein Richter verbietet dem verurteilten brasilianischen Ex-Präsidenten den Besuch seiner Söhne im Hausarrest. Die verschärften Auflagen gelten bis nach der Präsidentenwahl im Oktober.",
+      "published": "2026-08-08T19:00:56.968297+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Polizeieinsatz im Thurgau: Mann schiesst in Garten herum – festgenommen",
+      "url": "https://www.tagesanzeiger.ch/schussabgabe-in-uesslingen-kantonspolizei-thurgau-nimmt-67-jaehrigen-fest-906733496818",
+      "summary": "In Uesslingen hat ein Mann am Freitagabend mit einer Waffe in seinem Garten geschossen. Eine Spezialeinheit nahm ihn nach über einer Stunde fest. Im Haus fand die Polizei Betäubungsmittel.",
+      "published": "2026-08-08T19:00:56.968297+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wiesner Gastronomie setzt wieder auf gedruckte Menükarten statt QR-Codes",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/329575338-wiesner-gastronomie-setzt-wieder-auf-gedruckte-menuekarten-statt-qr-codes",
+      "summary": "",
+      "published": "2026-08-08T19:00:56.968297+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Joe Bidens Krebserkrankung breitet sich aus",
+      "url": "https://www.watson.ch/international/usa/226189242-joe-bidens-krebserkrankung-breitet-sich-aus",
+      "summary": "",
+      "published": "2026-08-08T19:00:56.968297+00:00"
     }
   ]
 }
