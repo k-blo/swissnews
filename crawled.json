@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T18:31:55.126818+00:00",
+  "generated": "2026-08-09T18:46:40.782055+00:00",
   "date": "2026-08-09",
-  "count": 478,
+  "count": 482,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3348,6 +3348,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/corinne-rufli-fuellt-luecken-der-schweizer-lesbengeschichte-art-1715963",
       "summary": "",
       "published": "2026-08-09T18:31:55.126818+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Bevorstehende Wahlen spielen Rolle»",
+      "url": "https://www.zentralplus.ch/news/bevorstehende-wahlen-spielen-rolle-2890758/",
+      "summary": "Der israelische Premierminister Benjamin Netanjahu hat den Gaza-Friedensplan von US-Präsident Donald Trump offiziell abgelehnt, nachdem Trump diesen letzte Woche noch einen Durchbruch im Friedensproze",
+      "published": "2026-08-09T18:46:40.782055+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fc St Gallen Holt Spätes 22 Gegen Luzern",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/fc-st-gallen-holt-spaetes-22-gegen-luzern-ld.4213440",
+      "summary": "",
+      "published": "2026-08-09T18:46:40.782055+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Wiler Frauen Verlieren zum Saisonstart Beim Ffv Basel",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/wiler-frauen-verlieren-zum-saisonstart-beim-ffv-basel-ld.4214025",
+      "summary": "",
+      "published": "2026-08-09T18:46:40.782055+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Heitere Open Air Amy Macdonald Setzt den Schlusspunkt",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/heitere-open-air-amy-macdonald-setzt-den-schlusspunkt-ld.4213848",
+      "summary": "",
+      "published": "2026-08-09T18:46:40.782055+00:00"
     }
   ]
 }
