@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T07:02:16.952784+00:00",
+  "generated": "2026-08-09T07:32:14.221083+00:00",
   "date": "2026-08-09",
-  "count": 117,
+  "count": 123,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -821,6 +821,48 @@
       "url": "https://www.watson.ch/international/pakistan/976235822-tuerkeis-erdogan-will-mehr-laender-fuer-mekka-verteidigungspakt",
       "summary": "",
       "published": "2026-08-09T07:02:16.952784+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Sexualisierte Gewalt – Baume-Schneider will besseren Schutz vor K.-o.-Tropfen",
+      "url": "https://www.srf.ch/news/schweiz/sexualisierte-gewalt-baume-schneider-will-besseren-schutz-vor-k-o-tropfen",
+      "summary": "Bundesrätin Elisabeth Baume-Schneider fordert einen besseren Schutz vor sexueller Gewalt mittels chemischer Substanzen.",
+      "published": "2026-08-09T07:32:14.221083+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Dauerurlaub im Tessin – Im Bavonatal leben zehn Leute – wie lebt es sich in der Stille?",
+      "url": "https://www.srf.ch/news/schweiz/dauerurlaub-im-tessin-im-bavonatal-leben-zehn-leute-wie-lebt-es-sich-in-der-stille",
+      "summary": "Das Bavonatal ist eines der einsamsten Täler der Schweiz. Ein Besuch im Tal, in dem die Leute ganz bewusst fernab leben.",
+      "published": "2026-08-09T07:32:14.221083+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nach Ferien: Luzern krempelt Lehrplan um",
+      "url": "https://www.zentralplus.ch/news/nach-ferien-luzern-krempelt-lehrplan-um-2890658/",
+      "summary": "Luzern stellt die Allgemeinbildung an den Berufsschulen neu auf und rückt digitale Kompetenzen stärker ins Zentrum. Neben Politik, Recht und Wirtschaft hält dabei auch künstliche Intelligenz Einzug in",
+      "published": "2026-08-09T07:32:14.221083+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Pusten statt bluten: Gerät misst Fettverbrennung in der Atemluft",
+      "url": "https://www.netzwoche.ch/news/2026-08-09/pusten-statt-bluten-geraet-misst-fettverbrennung-in-der-atemluft",
+      "summary": "Forschende der ETH Zürich haben ein tragbares Messgerät entwickelt, das den Fettstoffwechsel-Biomarker Aceton in der Atemluft fast so präzise nachweist, wie ein Massenspektrometer. Es lässt sich von L",
+      "published": "2026-08-09T07:32:14.221083+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Mit Daten und Digitalisierung gegen Diabetes",
+      "url": "https://www.netzwoche.ch/news/2026-08-09/mit-daten-und-digitalisierung-gegen-diabetes",
+      "summary": "Typ-2-Diabetes verursacht in der Schweiz hohe Gesundheitskosten und einen hohen Leidensdruck für die Betroffenen. Ein multidisziplinäres \"Flagship\"-Projekt der Innosuisse unter Leitung der Empa will k",
+      "published": "2026-08-09T07:32:14.221083+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Frau Wegen Facebook Betrugs vor dem Bezirksgericht Baden Verfahren Geplatzt",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/frau-wegen-facebook-betrugs-vor-dem-bezirksgericht-baden-verfahren-geplatzt-ld.4210989",
+      "summary": "",
+      "published": "2026-08-09T07:32:14.221083+00:00"
     }
   ]
 }
