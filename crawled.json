@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T04:31:56.794446+00:00",
+  "generated": "2026-08-09T05:02:20.999348+00:00",
   "date": "2026-08-09",
-  "count": 76,
+  "count": 81,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -534,6 +534,41 @@
       "url": "https://www.watson.ch/schweiz/leben/536999164-pretty-privilege-und-looksmaxxing-warum-maenner-ihr-gesicht-optimieren",
       "summary": "",
       "published": "2026-08-09T04:31:56.794446+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Verstorbener Berner Betrüger: Ex-Frau erhält höhere Strafe – die Goldbarren gingen angeblich verloren",
+      "url": "https://www.bernerzeitung.ch/steuerbetrug-bern-ex-frau-erhaelt-24-monate-bedingt-337284711358",
+      "summary": "Eine Bernerin half ihrem Ex-Mann, Vermögen vor dem Staat zu verstecken. Das Obergericht bestraft sie nun härter – und lässt die beschlagnahmten Luxusgüter verkaufen.",
+      "published": "2026-08-09T05:02:20.999348+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "MSD: Die wichtigste Firma der Schweiz, die kaum jemand kennt",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/641145543-msd-die-wichtigste-firma-der-schweiz-die-kaum-jemand-kennt",
+      "summary": "",
+      "published": "2026-08-09T05:02:20.999348+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Drei Säulen für einen Baum",
+      "url": "https://www.freiburger-nachrichten.ch/story/272256/drei-s%C3%A4ulen-f%C3%BCr-einen-baum",
+      "summary": "",
+      "published": "2026-08-09T05:02:20.999348+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Westkanadische Provinz ruft wegen Waldbränden Notstand aus",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/westkanadische-provinz-ruft-wegen-waldbraenden-notstand-aus-art-1715930",
+      "summary": "",
+      "published": "2026-08-09T05:02:20.999348+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FIFA holt zum Gegenschlag aus und verteidigt Infantino: Der steht jetzt auch noch wegen einer angeblichen Geliebten in der Kritik",
+      "url": "https://www.bote.ch/nachrichten/sport/fifa-holt-zum-gegenschlag-aus-und-verteidigt-infantino-art-1715929",
+      "summary": "",
+      "published": "2026-08-09T05:02:20.999348+00:00"
     }
   ]
 }
