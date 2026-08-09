@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T15:55:45.008865+00:00",
+  "generated": "2026-08-09T16:02:22.575827+00:00",
   "date": "2026-08-09",
-  "count": 402,
+  "count": 404,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2816,6 +2816,20 @@
       "url": "https://www.bote.ch/nachrichten/sport/mikolajewski-bringt-fcl-zurueck-trifft-in-st-gallen-sofort-zum-11-liveticker-art-1715948",
       "summary": "",
       "published": "2026-08-09T15:52:28.300236+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Natacha Ohne S ein Letztes Mal",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/natacha-ohne-s-ein-letztes-mal-ld.4213961",
+      "summary": "",
+      "published": "2026-08-09T16:02:22.575827+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Fundbüro am Heitere Open Air was im Trubel Liegen Bleibt",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/fundbuero-am-heitere-open-air-was-im-trubel-liegen-bleibt-ld.4213749",
+      "summary": "",
+      "published": "2026-08-09T16:02:22.575827+00:00"
     }
   ]
 }
