@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T23:02:16.565554+00:00",
+  "generated": "2026-08-09T23:32:22.065264+00:00",
   "date": "2026-08-10",
-  "count": 5,
+  "count": 8,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,27 @@
       "url": "https://www.bernerzeitung.ch/hitzewelle-kanton-bern-34-grad-am-mittwoch-878827685827",
       "summary": "Ab Montag steigen die Temperaturen im Kanton Bern stetig an. Bis Donnerstag kratzen die Temperaturen an der 35-Grad-Marke.",
       "published": "2026-08-09T23:02:16.565554+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Von Dubai nach Dublin: Berüchtigter Gangster-Boss ausgeliefert",
+      "url": "https://www.20min.ch/story/kinahan-clangruppe-von-dubai-nach-dublin-beruechtigter-gangster-boss-ausgeliefert-103615341",
+      "summary": "Jahrzehntelang soll er den Drogen- und Waffenhandel mitgesteuert haben: Nun sitzt der mutmassliche Chef des berüchtigten Kinahan-Clans in Irland hinter Gittern. Der 49-Jährige wurde aus Dubai ausgelie",
+      "published": "2026-08-09T23:32:22.065264+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "ESP: 500 Menschen evakuiert",
+      "url": "https://www.zentralplus.ch/news/esp-500-menschen-evakuiert-2890764/",
+      "summary": "500 Menschen wurden im Südwesten Spaniens wegen eines Waldbrandes evakuiert. Dies teilt die Regionalregierung von Andalusien mit. Das am Donnerstag ausgebrochene Feuer habe bislang in der Provinz Huel",
+      "published": "2026-08-09T23:32:22.065264+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Jemen: Huthi-Miliz mit Angriffen",
+      "url": "https://www.zentralplus.ch/news/jemen-huthi-miliz-mit-angriffen-2890762/",
+      "summary": "Die jemenitische Huthi-Miliz hat erneut Ziele in der Hafenstadt Mokka angegriffen. Das teilte die jemenitische Armee mit. Demnach schoss die Huthi-Miliz ballistische Raketen und Drohnen auf die Stadt.",
+      "published": "2026-08-09T23:32:22.065264+00:00"
     }
   ]
 }
