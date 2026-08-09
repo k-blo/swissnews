@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T04:02:13.178818+00:00",
+  "generated": "2026-08-09T04:20:50.462973+00:00",
   "date": "2026-08-09",
-  "count": 72,
+  "count": 73,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -506,6 +506,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/281268/hochrennen-um-runterzukommen-willkommen-im-trailrunningretreat",
       "summary": "",
       "published": "2026-08-09T04:02:13.178818+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ebnat Kappel Scheidet aus Kirchberg und Neckertal Kommen Weiter",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/ebnat-kappel-scheidet-aus-kirchberg-und-neckertal-kommen-weiter-ld.4213837",
+      "summary": "",
+      "published": "2026-08-09T04:20:50.462973+00:00"
     }
   ]
 }
