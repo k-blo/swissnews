@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T10:32:05.800518+00:00",
+  "generated": "2026-08-09T10:41:36.688256+00:00",
   "date": "2026-08-09",
-  "count": 239,
+  "count": 242,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1675,6 +1675,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/obwaldner-kantonalbank-lager-zum-start-in-die-lehre-art-1715940",
       "summary": "",
       "published": "2026-08-09T10:32:05.800518+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Linke machen Druck für die Agenda 2030",
+      "url": "https://www.zentralplus.ch/news/linke-machen-druck-fuer-die-agenda-2030-2890705/",
+      "summary": "Die Stadt Luzern soll genauer zeigen, wo sie bei der Agenda 2030 steht. Ein Vorstoss der Linken verlangt dafür eine umfassende Standortbestimmung und klare Prioritäten, etwa beim bezahlbaren Wohnraum.",
+      "published": "2026-08-09T10:41:36.688256+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran: Keine Verhandlungen mit den USA",
+      "url": "https://www.zentralplus.ch/news/iran-keine-verhandlungen-mit-den-usa-2890712/",
+      "summary": "Der iranische Aussenminister Abbas Araghtschi hat direkte Verhandlungen mit den USA ausgeschlossen. Solange die USA gegen das Übergangsabkommen verstiessen, welches die Parteien im Juni unterzeichnet ",
+      "published": "2026-08-09T10:41:36.688256+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polizei nimmt in St. Gallen zwei gewalttätige Männer fest",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/636086809-polizei-nimmt-in-st-gallen-zwei-gewalttaetige-maenner-fest",
+      "summary": "",
+      "published": "2026-08-09T10:41:36.688256+00:00"
     }
   ]
 }
