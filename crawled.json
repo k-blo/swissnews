@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T16:02:22.575827+00:00",
+  "generated": "2026-08-09T16:32:31.276915+00:00",
   "date": "2026-08-09",
-  "count": 404,
+  "count": 421,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2830,6 +2830,125 @@
       "url": "https://www.zofingertagblatt.ch/aargau/zofingen/fundbuero-am-heitere-open-air-was-im-trubel-liegen-bleibt-ld.4213749",
       "summary": "",
       "published": "2026-08-09T16:02:22.575827+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "11’000 Franken netto: So viel legt Katrin jeden Monat zurück",
+      "url": "https://www.20min.ch/story/community-zeigt-budget-11-000-franken-netto-so-viel-legt-katrin-jeden-monat-zurueck-103614257",
+      "summary": "Katrin* (48) ist alleinerziehende Mutter und Kadermitarbeiterin. Sie zeigt auf, wie viel Geld sie zur Verfügung hat und wie sie im Alltag damit umgeht.",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Längst alle tot»: ICE-Übung wird zum Rettungsfiasko",
+      "url": "https://www.20min.ch/story/deutschland-laengst-alle-tot-ice-uebung-wird-zum-rettungsfiasko-103615233",
+      "summary": "100 Menschen sitzen bei einer Übung in einem «brennenden» ICE. Doch bei der Alarmierung geht etwas schief – mit fatalen Folgen im Ernstfall.",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Da ist eine Seele»: Oleksi barg tote Soldaten – auch Russen",
+      "url": "https://www.20min.ch/story/donbass-legende-getoetet-da-ist-eine-seele-oleksi-barg-tote-soldaten-auch-russen-103615117",
+      "summary": "In der Ukraine gilt er als Legende: Oleksi Jukow (40) holte  gefallene Soldaten aus Minenfeldern und Panzerruinen, auch russische. Nun ist «Losha» bei jener Arbeit gestorben, der er sein Leben verschr",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Flug wird wegen trotzigem Kleinkind gestrichen",
+      "url": "https://www.20min.ch/story/victoria-kanada-flug-wird-wegen-trotzigem-kleinkind-gestrichen-103615133",
+      "summary": "Ein Flieger der Porter Airlines brach den Start am Flughafen von Victoria ab, als der Crew ein auf seinem Sitz stehendes Kind auffiel. Die Passagiere konnten erst am nächsten Tag weiterfliegen.",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Reisetipp Namibia: Wenn man eine Reifenpanne im Löwenrevier hat: Bitte cool bleiben",
+      "url": "https://www.tagesanzeiger.ch/namibia-wildtiere-wueste-und-koloniales-erbe-677428608351",
+      "summary": "Das Land im Südwesten Afrikas lockt mit spektakulärer Natur – aber wer sich mit ihr anlegt, riskiert sein Leben. Ein Roadtrip durch das am drittdünnsten besiedelte Land der Welt.",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Super League: Der FCB zeigt dem Schweizer Meister den Meister",
+      "url": "https://www.tagesanzeiger.ch/fc-basel-schlaegt-thun-4-2-sow-mit-doppelpack-339673109284",
+      "summary": "Der FC Basel besiegt den FC Thun 4:2. Asane Sow trifft für die Basler doppelt.",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Bern-Jurassisches Schwingfest: Festsieg und «romantische Gefühle» – Fabian Staudenmann glänzt einmal mehr",
+      "url": "https://www.bernerzeitung.ch/schwingen-fabian-staudenmann-gewinnt-bern-jurassisches-274036746363",
+      "summary": "In Werdtberg bodigt der Guggisberger im Schlussgang seinen Trainingskollegen Michael Ledermann und feiert seinen 25. Kranzfestsieg. Er schliesst zu einer Legende auf.",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "FCB-Umfrage: Ihre Meinung zum Sieg des FC Basel gegen Thun ist gefragt",
+      "url": "https://www.bazonline.ch/fc-basel-wer-ist-der-beste-beim-spiel-gegen-thun-484254050827",
+      "summary": "Der FCB gewinnt mit 4:2 gegen Thun. Hat das Trainerteam alles richtig gemacht? Wer war der Beste? Stimmen Sie jetzt ab!",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Schulstart im Aargau Zurück auf die Schulbank Zumindest für Diese Fragen",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/schulstart-im-aargau-zurueck-auf-die-schulbank-zumindest-fuer-diese-fragen-ld.4211360",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Alpgottesdienst auf dem Stöfeli mit Rund 180 Gästen",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/alpgottesdienst-auf-dem-stoefeli-mit-rund-180-gaesten-ld.4214009",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Street Parade in Zürich 900000 Feiern am Seebecken",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/street-parade-in-zuerich-900000-feiern-am-seebecken-ld.4213981",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Volksfeststimmung am 30 Ländlerfest in Appenzell Unsere Bilder zum Schwelgen",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/volksfeststimmung-am-30-laendlerfest-in-appenzell-unsere-bilder-zum-schwelgen-ld.4213900",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Vinzenz Rohrer Wechselt Leihweise zum Ev Zug",
+      "url": "https://www.zugerzeitung.ch/sport/evz/vinzenz-rohrer-wechselt-leihweise-zum-ev-zug-ld.4211106",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Oberrickenbach Wird zum Treffpunkt für Getunte Autos",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/oberrickenbach-wird-zum-treffpunkt-fuer-getunte-autos-ld.4212955",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Marlen Reusser stürzt in der Schlussetappe der Tour de France",
+      "url": "https://www.watson.ch/sport/velo/550781902-marlen-reusser-stuerzt-in-der-schlussetappe-der-tour-de-france",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein wenig Farbe an den Felgen reicht nicht: In Nidwalden trifft sich die Welt der Autotuner",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/oberrickenbach-wird-zum-treffpunkt-fuer-getunte-autos-art-1715958",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der Deal ist perfekt: Der EVZ schnappt sich Wunschspieler Rohrer",
+      "url": "https://www.bote.ch/nachrichten/sport/vinzenz-rohrer-wechselt-leihweise-zum-ev-zug-art-1715957",
+      "summary": "",
+      "published": "2026-08-09T16:32:31.276915+00:00"
     }
   ]
 }
