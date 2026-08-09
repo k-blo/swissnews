@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T05:02:20.999348+00:00",
+  "generated": "2026-08-09T05:32:08.830372+00:00",
   "date": "2026-08-09",
-  "count": 81,
+  "count": 88,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -569,6 +569,55 @@
       "url": "https://www.bote.ch/nachrichten/sport/fifa-holt-zum-gegenschlag-aus-und-verteidigt-infantino-art-1715929",
       "summary": "",
       "published": "2026-08-09T05:02:20.999348+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verkehr in Winterthur: Gleisüberführung in der Grüze wird abgebaut: Pendler ärgert sich über Wartezeiten an Bahnschranke",
+      "url": "https://www.tagesanzeiger.ch/winterthur-passerelle-grueze-vier-monate-gesperrt-570371314449",
+      "summary": "Die Stadt baut die Passerelle Talackerstrasse ab. Bis im Dezember müssen Fussgänger teilweise minutenlange Wartezeiten an der Bahnschranke in Kauf nehmen.",
+      "published": "2026-08-09T05:32:08.830372+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Himmelsereignis am 12. August: Hier ist die Sonnenfinsternis im Unterland besonders gut zu sehen",
+      "url": "https://www.tagesanzeiger.ch/sonnenfinsternis-am-12-august-wo-im-unterland-der-blick-lohnt-820816096231",
+      "summary": "Die grösste Sonnenfinsternis der nächsten 49 Jahre steht bevor. Am 12. August um 20.17 Uhr verschwindet die Sonne zu 90 Prozent hinter dem Neumond.",
+      "published": "2026-08-09T05:32:08.830372+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Ikea: Gastronomie im Gigaformat: «An einem guten Tag brauchen wir 12’000 Fleischbällchen – gestapelt wären sie höher als der Roche-Turm»",
+      "url": "https://www.bazonline.ch/ikea-pratteln-12000-fleischbaellchen-an-einem-samstag-361284952063",
+      "summary": "Bis ein Köttbullar auf unserem Teller landet, muss er ein streng durchgetaktetes System durchlaufen. Ein Blick hinter die Kulissen des Ikea-Restaurants in Pratteln.",
+      "published": "2026-08-09T05:32:08.830372+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Sohn Hunter berichtet: Krebs bei Joe Biden hat sich ausgebreitet und verursacht grosse Schmerzen",
+      "url": "https://www.nzz.ch/international/sohn-hunter-berichtet-krebs-bei-joe-biden-hat-sich-ausgebreitet-und-verursacht-grosse-schmerzen-ld.10018799",
+      "summary": "",
+      "published": "2026-08-09T05:32:08.830372+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FIFA greift Gegner von Gianni Infantino an",
+      "url": "https://www.watson.ch/sport/fifa/836520527-fifa-greift-gegner-von-gianni-infantino-an",
+      "summary": "",
+      "published": "2026-08-09T05:32:08.830372+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Baume-Schneider will besseren Schutz vor K.o.-Tropfen",
+      "url": "https://www.watson.ch/schweiz/haeusliche-gewalt/340907856-baume-schneider-will-besseren-schutz-vor-k-o-tropfen",
+      "summary": "",
+      "published": "2026-08-09T05:32:08.830372+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Arbeitslose Banker wer Bezahlt die Hypothek",
+      "url": "https://insideparadeplatz.ch/2026/08/09/arbeitslose-banker-wer-bezahlt-die-hypothek/",
+      "summary": "",
+      "published": "2026-08-09T05:32:08.830372+00:00"
     }
   ]
 }
