@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T22:01:51.846430+00:00",
+  "generated": "2026-08-09T22:18:25.068160+00:00",
   "date": "2026-08-10",
-  "count": 3,
+  "count": 4,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -23,6 +23,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/280865/20-jahre-jugend-jaun-das-gastlosenfestival-erleben-und-2x2-tickets-f%C3%BCr-samstag-gewinnen",
       "summary": "",
       "published": "2026-08-09T22:01:51.846430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Den Finanzausgleich erforschen? In Schwyz sorgt das nur für wenig Begeisterung",
+      "url": "https://www.bote.ch/nachrichten/schwyz/den-finanzausgleich-erforschen-in-schwyz-sorgt-das-nur-fuer-wenig-begeisterung-art-1715799",
+      "summary": "",
+      "published": "2026-08-09T22:18:25.068160+00:00"
     }
   ]
 }
