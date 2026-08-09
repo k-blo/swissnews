@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T03:43:28.024252+00:00",
+  "generated": "2026-08-09T04:02:13.178818+00:00",
   "date": "2026-08-09",
-  "count": 69,
+  "count": 72,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -485,6 +485,27 @@
       "url": "https://www.nzz.ch/international/bilder-aus-ceuta-weckten-in-europa-angst-vor-einer-fluechtlingswelle-aus-afrika-wollen-wirklich-so-viele-weg-ld.10018274",
       "summary": "",
       "published": "2026-08-09T03:43:28.024252+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rätselhafter Fund auf dem Seegrund: Liegt im Zürichsee eine Fliegerbombe aus dem Zweiten Weltkrieg?",
+      "url": "https://www.tagesanzeiger.ch/zuerichsee-liegt-hier-eine-fliegerbombe-aus-dem-zweiten-weltkrieg-156856252080",
+      "summary": "Ein Taucher will vor der Halbinsel Au eine Fliegerbombe auf dem Seegrund gefunden haben. Handelt es sich tatsächlich um ein Relikt aus dem Weltkrieg? Eine Spurensuche.",
+      "published": "2026-08-09T04:02:13.178818+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home: Diese Einrichtungstipps helfen, mit wenig Aufwand viel zu verändern",
+      "url": "https://www.tagesanzeiger.ch/einrichtung-auffrischen-10-wohntipps-fuer-den-sommer-308128925493",
+      "summary": "Manchmal braucht es nur dieses eine Stück oder die richtige Idee, damit daheim alles praktischer und hübscher wird oder ein neues Wohngefühl entsteht.",
+      "published": "2026-08-09T04:02:13.178818+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Hochrennen, um runterzukommen: Willkommen im Trail-Running-Retreat",
+      "url": "https://www.freiburger-nachrichten.ch/story/281268/hochrennen-um-runterzukommen-willkommen-im-trailrunningretreat",
+      "summary": "",
+      "published": "2026-08-09T04:02:13.178818+00:00"
     }
   ]
 }
