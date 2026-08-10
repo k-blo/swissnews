@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T01:32:07.821815+00:00",
+  "generated": "2026-08-10T02:02:09.070937+00:00",
   "date": "2026-08-10",
-  "count": 16,
+  "count": 18,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -114,6 +114,20 @@
       "url": "https://www.zentralplus.ch/news/feuerwehrleute-in-fra-verletzt-2890770/",
       "summary": "Am Sonntag wurden beim Waldbrand in Drôme vier Feuerwehrleute leicht verletzt. Dies teilte die Präfektur des Departements mit. Die Gesamtfläche des Brandes beträgt 370 Hektar und der Wind treibt das F",
       "published": "2026-08-10T01:32:07.821815+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Rehkitzrettung stellt Rekord auf, auch dank Wärmebilddrohnen",
+      "url": "https://www.freiburger-nachrichten.ch/story/281082/rehkitzrettung-stellt-rekord-auf-auch-dank-w%C3%A4rmebilddrohnen",
+      "summary": "",
+      "published": "2026-08-10T02:02:09.070937+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Maradona schlägt Monet: Pop- Reliquien-Sammler bezahlen für ihre Idole Höchstpreise",
+      "url": "https://www.freiburger-nachrichten.ch/story/281084/maradona-schl%C3%A4gt-monet-pop-reliquiensammler-bezahlen-f%C3%BCr-ihre-idole-h%C3%B6chstpreise",
+      "summary": "",
+      "published": "2026-08-10T02:02:09.070937+00:00"
     }
   ]
 }
