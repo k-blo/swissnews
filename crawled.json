@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T23:39:17.666962+00:00",
+  "generated": "2026-08-10T00:02:04.755006+00:00",
   "date": "2026-08-10",
-  "count": 8,
+  "count": 11,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -58,6 +58,27 @@
       "url": "https://www.zentralplus.ch/news/jemen-huthi-miliz-mit-angriffen-2890762/",
       "summary": "Die jemenitische Huthi-Miliz hat erneut Ziele in der Hafenstadt Mokka angegriffen. Das teilte die jemenitische Armee mit. Demnach schoss die Huthi-Miliz ballistische Raketen und Drohnen auf die Stadt.",
       "published": "2026-08-09T23:32:22.065264+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Basel-Landschaft – mit 200 km/h durch 50er-, dann 30er-Zone: Polizeiauto rammt Porsche nach wilder Verfolgungsjagd",
+      "url": "https://www.blick.ch/schweiz/basel-landschaft/basel-landschaft-mit-200-km-h-durch-50er-dann-30er-zone-polizeiauto-rammt-porsche-nach-wilder-verfolgungsjagd-id22170270.html",
+      "summary": "Ein Porsche raste mit 200 km/h durch eine 50er-Zone bei Basel. Bei der Verfolgungsjagd platzte ein Reifen, ein Polizeiauto krachte in den mutmasslich gestohlenen Wagen. Die Lenkerin wurde verhaftet, z",
+      "published": "2026-08-10T00:02:04.755006+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Chef des Kinahan-Clans: Von Dubai nach Dublin: Berüchtigter Gangster-Boss ausgeliefert",
+      "url": "https://www.tagesanzeiger.ch/gangster-boss-kinahan-anfuehrer-in-dublin-in-untersuchungshaft-163352818101",
+      "summary": "Jahrzehntelang soll er den Drogen- und Waffenhandel mitgesteuert haben: Nun sitzt der mutmassliche Chef des berüchtigten Kinahan-Clans in Irland hinter Gittern. Der 49-Jährige wurde aus Dubai ausgelie",
+      "published": "2026-08-10T00:02:04.755006+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Trumps zweite Amtszeit: Kampfjets fangen Flugzeuge nahe Trumps Golfplatz ab +++ Senat einigt sich auf Übergangshaushalt",
+      "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-kampfjets-fangen-flugzeuge-nahe-trumps-golfplatz-ab-senat-einigt-sich-auf-uebergangshaushalt-ld.1856621",
+      "summary": "",
+      "published": "2026-08-10T00:02:04.755006+00:00"
     }
   ]
 }
