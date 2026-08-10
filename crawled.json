@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T11:32:20.832130+00:00",
+  "generated": "2026-08-10T12:02:41.134284+00:00",
   "date": "2026-08-10",
-  "count": 503,
+  "count": 528,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3523,6 +3523,181 @@
       "url": "https://www.watson.ch/international/deutschland/529684611-vorfall-in-leipzig-sprengstoff-drohne-schlug-wohl-auf-fluegel-ein",
       "summary": "",
       "published": "2026-08-10T11:32:20.832130+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Taxis ohne Fahrer: US-Robotaxi-Firma zieht an Europaallee ein",
+      "url": "https://www.20min.ch/story/waymo-in-zuerich-robotaxi-firma-eroeffnet-niederlassung-an-der-europaallee-103615428",
+      "summary": "Das US-Robotaxi-Unternehmen Waymo will an der Zürcher Europaallee eine Niederlassung eröffnen. Bis die fahrerlosen Autos unterwegs sind, dürfte es noch Jahre dauern.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wegen Test-Kracher gegen Barça: FCB-Website kracht zusammen",
+      "url": "https://www.20min.ch/story/fc-basel-wegen-test-kracher-gegen-barca-fcb-website-kracht-zusammen-103615539",
+      "summary": "Der Andrang für das Testspiel des FC Basel gegen den FC Barcelona scheint riesig zu sein. Zwischenzeitlich kollabiert sogar der Online-Ticketshop der Basler.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Respekt»: Fans staunen über Sandy Meyer-Wöldens Sixpack",
+      "url": "https://www.20min.ch/story/sandy-meyer-woelden-fans-bewundern-ihre-bauchmuskeln-auf-instagram-103615440",
+      "summary": "Die deutsche Moderatorin setzt auf Kraft- und Ausdauertraining. Fans auf Instagram bewundern Sandy Meyer-Wölden für ihre Disziplin.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Dieser Coop-Spinat könnte für Allergiker gefährlich werden",
+      "url": "https://www.20min.ch/story/rueckrufe-dieser-coop-spinat-koennte-fuer-allergiker-gefaehrlich-werden-103615538",
+      "summary": "Immer wieder kommt es wegen Produktionsfehlern oder falsch deklarierten Inhaltsstoffen zu Rückrufen. Welche Produkte aktuell gemieden oder zurückgebracht werden sollen, erfährst du im Ticker.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hochwasser in Indien: Zahl der Hochwassertoten in Assam auf 100 gestiegen",
+      "url": "https://www.tagesanzeiger.ch/hochwasser-in-assam-100-tote-im-nordosten-indiens-774953036587",
+      "summary": "Das Hochwasser hat mehr als 700’000 Menschen aus ihren Häusern vertrieben, 49’000 harren noch in Notunterkünften aus. Die Behörden warnen vor weiteren Überschwemmungen und dem Ausbruch von Krankheiten",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Erfolgreicher Protest: Harry-Potter-Fans erzwingen Verlegung eines Stromkabel-Projekts in Wales",
+      "url": "https://www.tagesanzeiger.ch/harry-potter-stromleitung-in-wales-wegen-dobbys-grab-verlegt-795928668634",
+      "summary": "Die Behörden ändern den Verlauf einer geplanten Hoch­spannungs­leitung zwischen Irland und Gross­britannien, weil sie den Drehort einer ikonischen Filmszene durchquert hätte.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Sternschnuppenregen im August: 50 bis 100 pro Stunde: Wo Himmelsgucker die Perseiden besonders gut bewundern können",
+      "url": "https://www.bernerzeitung.ch/perseiden-2026-bis-zu-100-sternschnuppen-pro-stunde-556283363095",
+      "summary": "Diese Woche erreicht der Meteorregen seinen Höhepunkt. Ein seltener astronomischer Umstand sorgt dieses Jahr für ideale Sichtbedingungen.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Hitze und Trockenheit: Schmelzende Gletscher lassen uns kalt, doch leidende Kühe auf der Alp gehen uns nahe",
+      "url": "https://www.derbund.ch/hitze-schweizer-kuehe-als-botschafterinnen-des-klimawandels-578085900521",
+      "summary": "Kein Tier steht so sehr für die Schweiz wie die Kuh. Nun wird ausgerechnet sie zur unfreiwilligen Botschafterin des Klimawandels.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "FCB-Server überlastet: Riesiger Ansturm auf Barcelona-Tickets",
+      "url": "https://www.bazonline.ch/fc-basel-gegen-fc-barcelona-ticketing-shop-bricht-zusammen-106185789777",
+      "summary": "Seit Montag können öffentlich Karten für das Testspiel des FC Basel gegen den FC Barcelona gekauft werden. Die Nachfrage ist gross, das FCB-Ticketing überlastet.",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ex-SBB-Chef vergleicht DBL mit Stuttgart 21",
+      "url": "https://www.zentralplus.ch/news/ex-sbb-chef-kritisiert-durchgangsbahnhof-luzern-2890855/",
+      "summary": "Ex-SBB-Chef Benedikt Weibel übt Kritik an den Bahnplänen für Luzern. Aus seiner Sicht müsste das Bahnnetz an anderer Stelle ausgebaut werden, bevor der Durchgangsbahnhof kommt. Ex-SBB-Chef Benedikt We",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bundesländer heben teils Fahrverbot auf",
+      "url": "https://www.zentralplus.ch/news/bundeslaender-heben-teils-fahrverbot-auf-2890864/",
+      "summary": "Das deutsche Bundesland Baden-Württemberg hebt das Sonntagsfahrverbot für Lastwagen auf. Wegen des tiefen Wasserstandes im Rhein, können weniger Waren über den Fluss transportiert werden. Das soll nun",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Beschweren Darf Sich über Uns Jeder",
+      "url": "https://www.suedostschweiz.ch/graubuenden/beschweren-darf-sich-ueber-uns-jeder-2112068",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Gemeinderat Stille Wahlen in Buttisholz und Reiden",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/gemeinderat-stille-wahlen-in-buttisholz-und-reiden-ld.4214350",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Bu Mei Adligenswil im Sommerlager in Les Bois",
+      "url": "https://www.luzernerzeitung.ch/lagerdraht/bu-mei-adligenswil-im-sommerlager-in-les-bois-ld.4214064",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Feuerwehreinsatz in Luzern Verkehr an Zürichstrasse Eingeschränkt",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/feuerwehreinsatz-in-luzern-verkehr-an-zuerichstrasse-eingeschraenkt-ld.4214360",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Erlinsbach Ruft Wegen Lecks zum Wassersparen auf",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/erlinsbach-ruft-wegen-lecks-zum-wassersparen-auf-ld.4214157",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Regensdorf E Trottinett Fahrer nach Kollision mit Polizist Verurteilt",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/regensdorf-e-trottinett-fahrer-nach-kollision-mit-polizist-verurteilt-ld.4214306",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Basler Polizeiautos erhalten neues Design",
+      "url": "https://www.watson.ch/schweiz/basel/853916740-basler-polizeiautos-erhalten-neues-design",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Robotaxi-Firma Waymo eröffnet Standort in Zürich",
+      "url": "https://www.watson.ch/schweiz/auto/752123876-robotaxi-firma-waymo-eroeffnet-standort-in-zuerich",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Politiker auf TikTok: Diese Schweizer Partei ist am erfolgreichsten",
+      "url": "https://www.watson.ch/schweiz/international/871667417-politiker-auf-tiktok-diese-schweizer-partei-ist-am-erfolgreichsten",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schweizer Spitzenpolitiker rechnen mit der Fifa ab: Infantino ein «Kleptokrat», «nur noch grässlich»",
+      "url": "https://www.freiburger-nachrichten.ch/story/281424/schweizer-spitzenpolitiker-rechnen-mit-der-fifa-ab-infantino-ein-kleptokrat-nur-noch-gr%C3%A4sslich",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bundesfeier Jeuss: Einfach – gemütlich – traditionell",
+      "url": "https://www.freiburger-nachrichten.ch/story/281514/bundesfeier-jeuss-einfach-gem%C3%BCtlich-traditionell",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gemeinderat: Stille Wahlen in Buttisholz und Reiden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/gemeinderat-stille-wahlen-in-buttisholz-und-reiden-art-1716075",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Feuerwehreinsatz an der Zürichstrasse – Verkehr teilweise eingeschränkt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/feuerwehreinsatz-in-luzern-verkehr-an-zuerichstrasse-eingeschraenkt-art-1716074",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Volle Härte Gegen Auto Rowdies",
+      "url": "https://insideparadeplatz.ch/2026/08/10/volle-haerte-gegen-auto-rowdies/",
+      "summary": "",
+      "published": "2026-08-10T12:02:41.134284+00:00"
     }
   ]
 }
