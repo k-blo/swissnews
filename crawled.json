@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T07:32:28.576261+00:00",
+  "generated": "2026-08-10T07:36:03.878467+00:00",
   "date": "2026-08-10",
-  "count": 255,
+  "count": 258,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1787,6 +1787,27 @@
       "url": "https://www.bote.ch/nachrichten/sport/sc-buochs-besiegt-schoetz-zum-1-liga-auftakt-art-1716049",
       "summary": "",
       "published": "2026-08-10T07:32:28.576261+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Grenze in Schaffhausen: Zöllner finden Diebesgut und Pistole in Thayngen",
+      "url": "https://www.tagesanzeiger.ch/thayngen-zoll-findet-pistole-und-diebesgut-an-einem-tag-838477051828",
+      "summary": "Am Grenzübergang Thayngen entdeckten Zöllner in einem Auto mutmassliches Diebesgut im Wert von mehreren Tausend Euro. In einem zweiten Fahrzeug lag eine Pistole in einer Werkzeugkiste.",
+      "published": "2026-08-10T07:36:03.878467+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Wellington Management hat wieder einen Schweiz-Chef",
+      "url": "https://www.finews.ch/news/finanzplatz/73181-wellington-management-schweiz-neuer-head-of-office-zurich-oliver-schneider",
+      "summary": "Mit dem Weggang von Jenö Szabo war die Funktion seit Juni verwaist. In der Person von Oliver Schneider übernimmt nun ein interner Kadermann die Leitung des Zürcher Büros.",
+      "published": "2026-08-10T07:36:03.878467+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Zoll in Thayngen: Zuerst wird Diebesgut sichergestellt – dann kommt auch noch eine Schusswaffe",
+      "url": "https://www.shn.ch/region/reiat/2026-08-10/zoll-in-thayngen-zuerst-wird-diebesgut-sichergestellt-dann-kommt-auch-noch",
+      "summary": "Am Grenzübergang in Thayngen war vergangene Woche einiges los.",
+      "published": "2026-08-10T07:36:03.878467+00:00"
     }
   ]
 }
