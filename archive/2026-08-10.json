@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T20:02:24.070185+00:00",
+  "generated": "2026-08-10T20:32:09.881989+00:00",
   "date": "2026-08-10",
-  "count": 910,
+  "count": 914,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6372,6 +6372,34 @@
       "url": "https://www.watson.ch/international/people-news/648461492-einbruch-auf-kardashian-anwesen-verdaechtiger-festgenommen",
       "summary": "",
       "published": "2026-08-10T20:02:24.070185+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Mein Lohn: Abfallsammler verdient 5900 Franken: «Ich verstehe nicht, dass andere Menschen Millionengehälter haben»",
+      "url": "https://www.bernerzeitung.ch/abfallsammler-in-zuerich-verdient-5900-franken-pro-monat-166847663505",
+      "summary": "Peter Gisler (56) entsorgt seit zehn Jahren Bioabfall in Zürich. Im Gespräch erzählt er vom schlimmsten Fund in der Abfalltonne und wie er im Sommer mit Hitze und Gerüchen umgeht.",
+      "published": "2026-08-10T20:32:09.881989+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "EM in Birmingham: Schweizer Lobalu in taktischem 5000-m-Lauf neben dem Podest",
+      "url": "https://www.nzz.ch/sport/jakob-ingebrigtsen-holt-gold-bremm-silber-ueber-5000-meter-ld.10019011",
+      "summary": "",
+      "published": "2026-08-10T20:32:09.881989+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hier kämpft Nigel Farage gegen eine Mülltonne: Ein Vorort-Besuch",
+      "url": "https://www.watson.ch/international/grossbritannien/887923709-hier-kaempft-nigel-farage-gegen-eine-muelltonne-ein-vorort-besuch",
+      "summary": "",
+      "published": "2026-08-10T20:32:09.881989+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Parlament in Türkei verabschiedet Gesetz für Frieden mit PKK",
+      "url": "https://www.watson.ch/international/tuerkei/814605911-parlament-in-tuerkei-verabschiedet-gesetz-fuer-frieden-mit-pkk",
+      "summary": "",
+      "published": "2026-08-10T20:32:09.881989+00:00"
     }
   ]
 }
