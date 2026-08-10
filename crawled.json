@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T00:32:09.884708+00:00",
+  "generated": "2026-08-10T00:56:05.775237+00:00",
   "date": "2026-08-10",
-  "count": 14,
+  "count": 15,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/achtung-china",
       "summary": "",
       "published": "2026-08-10T00:32:09.884708+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Boot vor New York City gekentert",
+      "url": "https://www.zentralplus.ch/news/boot-vor-new-york-city-gekentert-2890768/",
+      "summary": "An einem Hafen in New York City ist am späten Samstagabend ein Boot gekentert. Dabei sind ein Baby und eine Frau ums Leben gekommen. Das teilte die Küstenwache mit. 12 weitere Personen konnten demnach",
+      "published": "2026-08-10T00:56:05.775237+00:00"
     }
   ]
 }
