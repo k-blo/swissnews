@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T22:32:14.807723+00:00",
+  "generated": "2026-08-10T23:02:18.455789+00:00",
   "date": "2026-08-11",
-  "count": 17,
+  "count": 22,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -121,6 +121,41 @@
       "url": "https://www.bote.ch/service/leserbriefe/ceuta-in-buosingen-art-1716106",
       "summary": "",
       "published": "2026-08-10T22:32:14.807723+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Geissen von Melanie Sottas leiden: «Ohne Spenden muss ich meine Tiere bald schlachten»",
+      "url": "https://www.blick.ch/schweiz/freiburg/geissen-von-melanie-sottas-leiden-ohne-spenden-muss-ich-meine-tiere-bald-schlachten-id22172293.html",
+      "summary": "Die Dürre im Kanton Freiburg setzt Melanie Sottas und Raphaël Rigolet massiv unter Druck. Ihre 30 Geissen vertilgen Wintervorräte, weil auf den Weiden nichts wächst. Ohne Spenden können sie das Futter",
+      "published": "2026-08-10T23:02:18.455789+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Nach Juristenhickhack gehts in die Vollen: Heute werden von Vincenz Antworten verlangt",
+      "url": "https://www.blick.ch/wirtschaft/nach-juristenhickhack-gehts-in-die-vollen-heute-werden-von-vincenz-antworten-verlangt-id22172607.html",
+      "summary": "Juristische Ränkespiele zum Auftakt des Vincenz-Prozesses in Zürich. Am Rande gab sich der Hauptangeklagte Pierin Vincenz jovial. Am Dienstag steht seine Befragung im Zentrum.",
+      "published": "2026-08-10T23:02:18.455789+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Trotz KI-Ängsten bei Berufswahl: Warum Lehrlinge Ausbildungen stürmen, die stark bedroht sind",
+      "url": "https://www.blick.ch/wirtschaft/trotz-ki-aengsten-bei-berufswahl-warum-lehrlinge-ausbildungen-stuermen-die-stark-bedroht-sind-id22171164.html",
+      "summary": "Etwa 70'000 Jugendliche in der Schweiz starten nun ins Berufsleben, ebenso viele bewerben sich jetzt um eine Ausbildung. Doch wie sicher sind ihre Jobs in Zeiten von KI? Laut einer Studie fürchten vie",
+      "published": "2026-08-10T23:02:18.455789+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Leichtathletik-EM: Di Tizio-Frey hadert – und Lobalu nimmt kein Blatt vor den Mund",
+      "url": "https://www.tagesanzeiger.ch/leichtathletik-em-di-tizio-frey-verpasst-bronze-um-hundertstel-913204570105",
+      "summary": "Die Schweizer Delegation liebäugelte zum EM-Auftakt mit zwei Medaillen: Doch Géraldine Di-Tizio Frey geht wie Dominic Lobalu leer aus. Aber der Werdegang der Sprinterin macht Hoffnung.",
+      "published": "2026-08-10T23:02:18.455789+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump stellt Bedingungen an Iran",
+      "url": "https://www.zentralplus.ch/news/trump-stellt-bedingungen-an-iran-2891004/",
+      "summary": "Nach dem Iran stellen nun auch die USA Bedingungen, für künftige Verhandlungen. US-Präsident Donald Trump sagte unter anderem, der Iran solle für jene Menschen aufkommen, die in der Vergangenheit von ",
+      "published": "2026-08-10T23:02:18.455789+00:00"
     }
   ]
 }
