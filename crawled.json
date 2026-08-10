@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T12:32:00.121372+00:00",
+  "generated": "2026-08-10T12:35:18.928106+00:00",
   "date": "2026-08-10",
-  "count": 557,
+  "count": 558,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3901,6 +3901,13 @@
       "url": "https://www.bote.ch/nachrichten/sport/u20-wm-schweizer-sprintstaffel-gewinnt-silber-art-1716077",
       "summary": "",
       "published": "2026-08-10T12:32:00.121372+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Robin Steiner Stellt in Brunnen Blobbing Weltrekord auf",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/robin-steiner-stellt-in-brunnen-blobbing-weltrekord-auf-ld.4214422",
+      "summary": "",
+      "published": "2026-08-10T12:35:18.928106+00:00"
     }
   ]
 }

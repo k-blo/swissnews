@@ -4,10 +4,10 @@
     "etag": "\"8b249dc2fffc16aae0a0291f56b2e4ff\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"191e1-8UlnrS7PnxpLtm9++sepjrZpRf8\""
+    "etag": "W/\"191e5-eb2Ivz8MuKt5GoNsIIRzkGFH094\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"d594-OYE8l8WA0muDxp+QAWVU+JCMFQw\""
+    "etag": "W/\"d59f-GISWdwwDFwEJ2QmqYrZC0kgz0Fw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"e39b-84wRYgKmdgwbLJHm62xHrGZK26U\""
@@ -16,14 +16,14 @@
     "last_modified": "Mon, 10 Aug 2026 12:13:51 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Mon, 10 Aug 2026 12:31:16 GMT"
+    "last_modified": "Mon, 10 Aug 2026 12:34:24 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Mon, 10 Aug 2026 12:10:53 GMT",
     "etag": "\"1786363853\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Mon, 10 Aug 2026 12:28:19 GMT"
+    "last_modified": "Mon, 10 Aug 2026 12:33:20 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -33,15 +33,15 @@
     "etag": "W/\"e06b-tjSzajGnZEOuBXMsL7zUKxJ2mtA\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"d9d4-OdAZ/6N7SGr0Ip4hactHxOLUYRU\""
+    "etag": "W/\"d9df-1rPN5nDQP2/rw3OXyp7V701MDTs\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Mon, 10 Aug 2026 11:54:55 GMT",
-    "etag": "\"1786362895\""
+    "last_modified": "Mon, 10 Aug 2026 12:28:47 GMT",
+    "etag": "\"1786364927\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Mon, 10 Aug 2026 11:54:55 GMT",
-    "etag": "\"1786362895\""
+    "last_modified": "Mon, 10 Aug 2026 12:28:47 GMT",
+    "etag": "\"1786364927\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2cd90-m4v/YhNJFUxI5K7sMwlJwQ+IQf0\""
@@ -58,8 +58,8 @@
     "etag": "W/\"25d68-SEdwKgF8G2fyV7ViQDS6jaeUX4I\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Mon, 10 Aug 2026 12:29:00 GMT",
-    "etag": "\"1786364940\""
+    "last_modified": "Mon, 10 Aug 2026 12:35:01 GMT",
+    "etag": "\"1786365301\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Fri, 31 Jul 2026 14:09:59 GMT",
