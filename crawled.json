@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11T03:59:09.835739+00:00",
+  "generated": "2026-08-11T04:02:20.383094+00:00",
   "date": "2026-08-11",
-  "count": 166,
+  "count": 173,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1164,6 +1164,55 @@
       "url": "https://www.nzz.ch/schweiz/saisonstart-in-bundesbern-das-sind-die-sieben-politischen-hitzezonen-der-kommenden-monate-ld.10018139",
       "summary": "",
       "published": "2026-08-11T03:59:09.835739+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sanieren statt abbrechen: Abriss von Häusern nach nur 40 Jahren belastet die Umwelt",
+      "url": "https://www.tagesanzeiger.ch/abriss-in-niederweningen-warum-sanierung-oft-sinnvoller-waere-824332282463",
+      "summary": "Neubauten brauchen weniger Energie, doch es dauert 50 Jahre, bis ein Abbruch kompensiert ist. Fachleute zeigen Alternativen zu Abbrüchen auf.",
+      "published": "2026-08-11T04:02:20.383094+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home: Braucht Ihr Zuhause einen Frischekick?",
+      "url": "https://www.tagesanzeiger.ch/sommerfrische-12-wohnideen-mit-farbe-fuer-zuhause-897170701954",
+      "summary": "Pastelltöne und leuchtende Akzente vertreiben die Langeweile in der Einrichtung. Zwölf Ideen zeigen, wie Farben, Muster und Stilmix das Wohnen persönlicher machen.",
+      "published": "2026-08-11T04:02:20.383094+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Politkolumne: Politiker und Politikerinnen halten häufiger Wort, als wir denken",
+      "url": "https://www.tagesanzeiger.ch/wahlversprechen-wie-treu-sind-schweizer-nationalraete-726403150571",
+      "summary": "SP und Grüne bleiben ihren Vorwahlpositionen fast vollständig treu, Mitte und FDP deutlich weniger. Kompromisszwang und Fraktionsdisziplin erklären, wann Politiker ihre Meinung ändern.",
+      "published": "2026-08-11T04:02:20.383094+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Sie wollte die Versicherung betrügen: Bernerin meldet nach Einbruch MacBook und iPhones als gestohlen – obwohl alles noch da ist",
+      "url": "https://www.bernerzeitung.ch/bern-frau-erfindet-einbruchliste-fuer-versicherungsbetrug-959194893199",
+      "summary": "Eine 30-Jährige listete nach einem Einbruch Gegenstände als gestohlen auf, die sich noch in ihrer Wohnung befanden. Eine Hausdurchsuchung brachte den Betrugsversuch ans Licht.",
+      "published": "2026-08-11T04:02:20.383094+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Emmentaler Schaukäserei: Durch diese Käserei kann man jetzt spazieren",
+      "url": "https://www.bernerzeitung.ch/emmentaler-schaukaeserei-260000-besucher-trotz-produktionsstopp-605498317561",
+      "summary": "Wo früher zweimal täglich Emmentaler produziert wurde, führt heute ein Erlebnisweg durch. Wie der Betrieb in Affoltern ohne das Käsen überlebt – und 2 Millionen Franken Schulden abbaute.",
+      "published": "2026-08-11T04:02:20.383094+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Räumung eines Dorfes: «Mein Herz bleibt dort oben»: Alte Bomben zerreissen die Gemeinschaft in Mitholz",
+      "url": "https://www.bernerzeitung.ch/mitholz-wie-die-raeumung-eine-dorfgemeinschaft-zerreisst-209934809469",
+      "summary": "Wer muss gehen, wer darf bleiben? Eine unsichtbare Grenze spaltet Mitholz – und krempelt das Leben von Menschen wie Albert und Irene Künzi um.",
+      "published": "2026-08-11T04:02:20.383094+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "KI-Bilder ersetzen Fotos: Bern erhält neue Türme, das Marzili ein Seeufer",
+      "url": "https://www.bernerzeitung.ch/ki-bilder-in-bern-marzili-als-seebad-bundeshaus-schmilzt-178385919604",
+      "summary": "Von der Gastroreklame bis zum Protestflyer: Berner Motive werden von künstlicher Intelligenz generiert statt fotografiert – mit skurrilen Folgen.",
+      "published": "2026-08-11T04:02:20.383094+00:00"
     }
   ]
 }
