@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11T06:32:28.768649+00:00",
+  "generated": "2026-08-11T07:02:08.204226+00:00",
   "date": "2026-08-11",
-  "count": 243,
+  "count": 255,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1703,6 +1703,90 @@
       "url": "https://insideparadeplatz.ch/2026/08/11/knall-bei-genfer-reyl-starker-mann-soll-von-bord-gehen/",
       "summary": "",
       "published": "2026-08-11T06:32:28.768649+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hitzesommer in Zürich – Warum Zürcherinnen plötzlich Stadtbäume giessen",
+      "url": "https://www.srf.ch/news/schweiz/hitzesommer-in-zuerich-warum-zuercherinnen-ploetzlich-stadtbaeume-giessen",
+      "summary": "Immer mehr Zürcherinnen und Zürcher sorgen sich um die Bäume in ihrem Quartier und greifen selbst zum Wasserkübel.",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Flammen treiben Bewohner aus ihren Wohnungen",
+      "url": "https://www.zentralplus.ch/news/flammen-treiben-bewohner-aus-ihren-wohnungen-2891029/",
+      "summary": "In Buttisholz ist am Dienstagmorgen ein Brand ausgebrochen. Mehrere Feuerwehren rückten aus. Am Dienstagmorgen ist in Buttisholz die Fassade eines Mehrfamilienhauses an der St. Ottilienstrasse in Bran",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "61-Jähriger kracht nach Kontrollverlust in Tanksäule",
+      "url": "https://www.zentralplus.ch/news/61-jaehriger-kracht-nach-kontrollverlust-in-tanksaeule-2891022/",
+      "summary": "Ein Autofahrer hat auf der A14 die Kontrolle über sein Fahrzeug verloren und mehrere Hindernisse gerammt. Die Polizei vermutet ein gesundheitliches Problem. Am Montagmorgen ereignete sich gegen 8.30 U",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Ubs Ständerat Berät über Neue Eigenkapital Vorschriften",
+      "url": "https://www.bilanz.ch/ubs-staenderat-beraet-ueber-neue-eigenkapital-vorschriften/ycq0s59",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Autofahrer Kracht auf A14 bei Inwil Gegen Tanksäule",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/autofahrer-kracht-auf-a14-bei-inwil-gegen-tanksaeule-ld.4214753",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Für den Fc Subingen Kehrt Arben Gjidoda aus Seinem Ruhestand Zurück",
+      "url": "https://www.solothurnerzeitung.ch/sport/solothurn/fuer-den-fc-subingen-kehrt-arben-gjidoda-aus-seinem-ruhestand-zurueck-ld.4214066",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump: Strasse von Hormus ist offen und wird von den USA kontrolliert",
+      "url": "https://www.watson.ch/international/iran/681362010-trump-strasse-von-hormus-ist-offen-und-wird-von-den-usa-kontrolliert",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wechsel von CONCACAF zu CONMEBOL? Infantino will Mexiko helfen",
+      "url": "https://www.watson.ch/sport/fifa/784852571-wechsel-von-concacaf-zu-conmebol-infantino-will-mexiko-helfen",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "E-Autos in der Schweiz: Diese beiden Hersteller dominieren den Markt",
+      "url": "https://www.watson.ch/schweiz/digital/234413497-e-autos-in-der-schweiz-diese-beiden-hersteller-dominieren-den-markt",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sprung ins kühle Nass: Bärenstarke Abkühlung im Bärenland",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/baeren-im-arosa-baerenland-kuehlen-sich-im-wasser-ab-art-1716222",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auto kracht bei A14-Raststätte gegen Tanksäule",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/autofahrer-kracht-auf-a14-bei-inwil-gegen-tanksaeule-art-1716219",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Audrey Werros Höhenflug hat System: Gut gebrüllt, Löwe!",
+      "url": "https://www.bote.ch/nachrichten/sport/800-meter-laeuferin-audrey-werro-reist-mit-selbstvertrauen-an-art-1716216",
+      "summary": "",
+      "published": "2026-08-11T07:02:08.204226+00:00"
     }
   ]
 }
