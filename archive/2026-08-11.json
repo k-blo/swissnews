@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11T07:31:51.472638+00:00",
+  "generated": "2026-08-11T07:49:26.396456+00:00",
   "date": "2026-08-11",
-  "count": 270,
+  "count": 279,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1892,6 +1892,69 @@
       "url": "https://www.bote.ch/nachrichten/sport/fifa-praesident-infantino-erhaelt-rueckendeckung-von-trump-art-1716226",
       "summary": "",
       "published": "2026-08-11T07:31:51.472638+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Tauchen und Springen – Abtauchen oder Abheben: Ein Weg aus dem Stress",
+      "url": "https://www.srf.ch/news/schweiz/tauchen-und-springen-abtauchen-oder-abheben-ein-weg-aus-dem-stress",
+      "summary": "Eine Taucherin und eine Fallschirmspringerin erzählen, wie sie bei ihren Hobbys den Kopf abschalten können.",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Deutscher Tourist springt in Rom in Brunnen – saftige Geldstrafe",
+      "url": "https://www.20min.ch/story/rom-deutscher-tourist-springt-in-brunnen-geldstrafe-und-platzverbot-103615942",
+      "summary": "In Italiens Hauptstadt ist es seit Wochen brütend heiss. Nun sucht ein Urlauber Abkühlung in einem der historischen Brunnen. Keine gute Idee: Neben 450 Euro Strafe gibt es auch noch Platzverbot.",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wohnungsmarkt: Leerwohnungsziffer in der Stadt Bern bleibt unverändert",
+      "url": "https://www.bernerzeitung.ch/leerwohnungsziffer-bern-weiterhin-0-44-prozent-833410407257",
+      "summary": "In Bern stehen 351 Wohnungen leer, was einer Quote von 0,44 Prozent entspricht. Vor allem Drei­zimmer­wohnungen sind unter den leer stehenden Objekten.",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "EPFL-KI analysiert Tumorgewebe über Krebsarten hinweg",
+      "url": "https://www.netzwoche.ch/news/2026-08-11/epfl-ki-analysiert-tumorgewebe-ueber-krebsarten-hinweg",
+      "summary": "Forschende der EPFL haben ein KI-Modell entwickelt, das aus Tumorgewebedaten verschiedener Krebsarten und Studien lernt. Langfristig soll die Technologie dabei helfen, Krankheitsverläufe und den Erfol",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Menschen und KI im Zentrum der 5. Soirée Médias",
+      "url": "https://www.persoenlich.com/medien/menschen-und-ki-im-zentrum-der-5-soiree-medias",
+      "summary": "Am Rande des Filmfestivals Locarno diskutierten auf Einladung des Verlegerverbands Vertreter aus Film, Musik und Journalismus über die Auswirkungen von KI – und forderten raschen Schutz des Urheberrec",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarau Warnt vor Grünastbrüchen bei Hitze und Trockenheit",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-warnt-vor-gruenastbruechen-bei-hitze-und-trockenheit-ld.4214796",
+      "summary": "",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Sheyla Wipf Beste Schweizerin an der Trial Em",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/sheyla-wipf-beste-schweizerin-an-der-trial-em-ld.4214250",
+      "summary": "",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Das Sind die Namen der Älplerbeamten aus Buochs 2026",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/das-sind-die-namen-der-aelplerbeamten-aus-buochs-2026-ld.4214799",
+      "summary": "",
+      "published": "2026-08-11T07:49:26.396456+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trumps Scheitern in Nahost: Der entscheidende Fehler des US-Präsidenten",
+      "url": "https://www.watson.ch/international/analyse/497546157-trumps-scheitern-in-nahost-der-entscheidende-fehler-des-us-praesidenten",
+      "summary": "",
+      "published": "2026-08-11T07:49:26.396456+00:00"
     }
   ]
 }
