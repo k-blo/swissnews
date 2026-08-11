@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11T22:01:46.588844+00:00",
+  "generated": "2026-08-11T22:32:20.387327+00:00",
   "date": "2026-08-12",
-  "count": 3,
+  "count": 6,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -23,6 +23,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/280731/die-geschichte-des-schlosses-muntelier-neu-geschrieben",
       "summary": "",
       "published": "2026-08-11T22:01:46.588844+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Mario Peter entwickelt interaktive Benzinpreis-Karte – und macht die Multis hässig: «Die verseckeln uns – und das will ich nicht länger akzeptieren!»",
+      "url": "https://www.blick.ch/schweiz/mario-peter-entwickelt-interaktive-benzinpreis-karte-und-macht-die-multis-haessig-die-verseckeln-uns-und-das-will-ich-nicht-laenger-akzeptieren-id22174876.html",
+      "summary": "Er wollte eigentlich nur ein bisschen mit KI experimentieren, sagt der Basler Mario Peter (43). Erfunden hat er nun die erste interaktive Benzinpreis-Karte der Schweiz. Die Sympathie der Konsumenten i",
+      "published": "2026-08-11T22:32:20.387327+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Silber trotz mühsamen Umständen – Ehammer holt erste Schweizer Medaille",
+      "url": "https://www.watson.ch/sport/leichtathletik/441616106-silber-trotz-muehsamen-umstaenden-ehammer-holt-erste-schweizer-medaille",
+      "summary": "",
+      "published": "2026-08-11T22:32:20.387327+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Theatermafia auf Tour: Ringen um die Gleichberechtigung als Antrieb",
+      "url": "https://www.bote.ch/nachrichten/schwyz/theatermafia-auf-tour-ringen-um-die-gleichberechtigung-als-antrieb-art-1716234",
+      "summary": "",
+      "published": "2026-08-11T22:32:20.387327+00:00"
     }
   ]
 }
