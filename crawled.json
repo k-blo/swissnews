@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11T00:31:50.638578+00:00",
+  "generated": "2026-08-11T01:39:26.741676+00:00",
   "date": "2026-08-11",
-  "count": 26,
+  "count": 31,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,41 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/die-eu-heizt-mit-ihrer-umweltpolitik-waldbraende-an",
       "summary": "",
       "published": "2026-08-11T00:31:50.638578+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Erschütterungen weit spürbar – Grossbrand in Schaffhausen – vier Feuerwehrleute verletzt",
+      "url": "https://www.srf.ch/news/schweiz/erschuetterungen-weit-spuerbar-grossbrand-in-schaffhausen-vier-feuerwehrleute-verletzt",
+      "summary": "Zeugen berichteten von zwei Explosionen. Die Erschütterungen seien mehrere hundert Meter weit spürbar gewesen.",
+      "published": "2026-08-11T01:39:26.741676+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "China verliert Satelliten bei fehlgeschlagenem Raketenstart",
+      "url": "https://www.20min.ch/story/unregelmaessigkeiten-china-verliert-satelliten-bei-fehlgeschlagenem-raketenstart-103615870",
+      "summary": "Eine chinesische Trägerrakete gerät während des Flugs in Schwierigkeiten. Für das Modell endet damit eine Serie von 16 erfolgreichen Starts.",
+      "published": "2026-08-11T01:39:26.741676+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unregelmässigkeiten: China verliert Satelliten bei fehlgeschlagenem Raketenstart",
+      "url": "https://www.tagesanzeiger.ch/raketenstart-china-verliert-satellit-zhongxing-4b-410833870597",
+      "summary": "Eine chinesische Trägerrakete gerät während des Flugs in Schwierigkeiten. Für das Modell endet damit eine Serie von 16 erfolgreichen Starts.",
+      "published": "2026-08-11T01:39:26.741676+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump reduziert Impf-Empfehlungen",
+      "url": "https://www.zentralplus.ch/news/trump-reduziert-impf-empfehlungen-2891006/",
+      "summary": "In den USA sollen die Empfehlungen für Kinder-Impfungen reduziert werden. Präsident Donald Trump hat eine entsprechende Verordnung unterzeichnet. Seine Regierung anerkenne Impf-Empfehlungen gegen 11 K",
+      "published": "2026-08-11T01:39:26.741676+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Trumps zweite Amtszeit: Der US-Präsident will Impfempfehlungen für Kinder deutlich einschränken +++ USA widerrufen mehr als 175 000 Visa unter Trump",
+      "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-der-us-praesident-will-impfempfehlungen-fuer-kinder-deutlich-einschraenken-usa-widerrufen-mehr-als-175-000-visa-unter-trump-ld.1856621",
+      "summary": "",
+      "published": "2026-08-11T01:39:26.741676+00:00"
     }
   ]
 }
