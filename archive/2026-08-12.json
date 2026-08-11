@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11T22:32:20.387327+00:00",
+  "generated": "2026-08-11T23:01:51.385761+00:00",
   "date": "2026-08-12",
-  "count": 6,
+  "count": 7,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -44,6 +44,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/theatermafia-auf-tour-ringen-um-die-gleichberechtigung-als-antrieb-art-1716234",
       "summary": "",
       "published": "2026-08-11T22:32:20.387327+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gratulation zum 80 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gratulation-zum-80-geburtstag-ld.4214754",
+      "summary": "",
+      "published": "2026-08-11T23:01:51.385761+00:00"
     }
   ]
 }
