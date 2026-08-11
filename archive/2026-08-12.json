@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11T23:01:51.385761+00:00",
+  "generated": "2026-08-11T23:31:45.563114+00:00",
   "date": "2026-08-12",
-  "count": 7,
+  "count": 9,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -51,6 +51,20 @@
       "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gratulation-zum-80-geburtstag-ld.4214754",
       "summary": "",
       "published": "2026-08-11T23:01:51.385761+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Leichtathletik-EM: Ehammer sucht ein Pub zum Feiern – Kambundji hat gemischte Gefühle",
+      "url": "https://www.tagesanzeiger.ch/leichtathletik-em-simon-ehammer-holt-silber-ditaji-kambundji-geht-leer-aus-157169195707",
+      "summary": "Simon Ehammer und Ditaji Kambundji treten nach einer Verletzungspause zur EM an. Derweil der Weitspringer Silber holt, wird die Weltmeisterin im Hürdensprint Vierte.",
+      "published": "2026-08-11T23:31:45.563114+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VD:Dittli lässt Kandidatur weiter offen",
+      "url": "https://www.zentralplus.ch/news/vddittli-laesst-kandidatur-weiter-offen-2891273/",
+      "summary": "Die Waadtländer Mitte-Staatsrätin Valérie Dittli lässt weiter offen ob sie noch einmal antritt. Entgegen ursprünglichen Plänen hat sie ihren Entscheid über eine erneute Kandidatur für die Kantonsregie",
+      "published": "2026-08-11T23:31:45.563114+00:00"
     }
   ]
 }
