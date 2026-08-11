@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T23:39:34.531985+00:00",
+  "generated": "2026-08-11T00:01:52.868727+00:00",
   "date": "2026-08-11",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -156,6 +156,13 @@
       "url": "https://www.zentralplus.ch/news/trump-stellt-bedingungen-an-iran-2891004/",
       "summary": "Nach dem Iran stellen nun auch die USA Bedingungen, für künftige Verhandlungen. US-Präsident Donald Trump sagte unter anderem, der Iran solle für jene Menschen aufkommen, die in der Vergangenheit von ",
       "published": "2026-08-10T23:02:18.455789+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Krieg in der Ukraine: Mindestens fünf Tote bei russischen Angriffen auf die Ukraine +++ Selenski kündigt neue Angriffe im russischen Hinterland an",
+      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-mindestens-fuenf-tote-bei-russischen-angriffen-auf-die-ukraine-selenski-kuendigt-neue-angriffe-im-russischen-hinterland-an-ld.10009803",
+      "summary": "",
+      "published": "2026-08-11T00:01:52.868727+00:00"
     }
   ]
 }
