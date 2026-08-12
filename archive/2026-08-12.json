@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-12T01:02:03.492569+00:00",
+  "generated": "2026-08-12T01:32:07.087936+00:00",
   "date": "2026-08-12",
-  "count": 21,
+  "count": 23,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -149,6 +149,20 @@
       "url": "https://www.tagesanzeiger.ch/usa-einwanderungsbehoerde-ice-plant-elektroschock-handschuhe-563590471043",
       "summary": "Stromstoss auf Knopfdruck: Die US-Einwanderungsbehörde ICE will Tausende Handschuhe anschaffen, die Menschen mit elektrischen Schlägen zur Kooperation zwingen sollen. Bürgerrechtler schlagen Alarm.",
       "published": "2026-08-12T01:02:03.492569+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nordkorea feuert erneut ballistische Rakete ab",
+      "url": "https://www.20min.ch/story/nordkorea-test-von-ballistischer-rakete-vor-militaeruebung-suedkorea-usa-103616347",
+      "summary": "Zum elften Mal in diesem Jahr feuert Nordkorea eine ballistische Rakete ab. Der jüngste Start erfolgt zu einem besonders heiklen Zeitpunkt.",
+      "published": "2026-08-12T01:32:07.087936+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zweite Rakete innert einer Woche: Nordkorea feuert erneut ballistische Rakete ab",
+      "url": "https://www.tagesanzeiger.ch/nordkorea-raketen-test-vor-militaeruebungen-von-suedkorea-usa-404959715245",
+      "summary": "Zum elften Mal in diesem Jahr feuert Nordkorea eine ballistische Rakete ab. Der jüngste Start erfolgt zu einem besonders heiklen Zeitpunkt.",
+      "published": "2026-08-12T01:32:07.087936+00:00"
     }
   ]
 }
