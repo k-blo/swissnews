@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-12T04:02:08.363972+00:00",
+  "generated": "2026-08-12T04:31:48.241656+00:00",
   "date": "2026-08-12",
-  "count": 195,
+  "count": 206,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -1367,6 +1367,83 @@
       "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuercher-polizei-kuendigt-kontrollen-zum-schulstart-an-ld.4215317",
       "summary": "",
       "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Ernährungsinitiative – Selbstversorgungsgrad: Kalorien bestimmen den Wert",
+      "url": "https://www.srf.ch/news/schweiz/ernaehrungsinitiative-selbstversorgungsgrad-kalorien-bestimmen-den-wert",
+      "summary": "Die Ernährungsinitiative fordert einen Selbstversorgungsgrad von 70 Prozent. So wird er berechnet.",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hitze und Stromversorgung – Keine Stromlücke in der Schweiz dank Sonnenstrom",
+      "url": "https://www.srf.ch/news/schweiz/hitze-und-stromversorgung-keine-stromluecke-in-der-schweiz-dank-sonnenstrom",
+      "summary": "Die Stromproduktion in der Schweiz sinkt aufgrund tiefer Flusspegel. Viel Sonnenstrom verhindert einen Engpass.",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Schweizer EM-Silber im Weitsprung: Ehammer sucht ein Pub zum Feiern – Kambundji hat gemischte Gefühle",
+      "url": "https://www.bernerzeitung.ch/leichtathletik-em-simon-ehammer-holt-silber-ditaji-kambundji-geht-leer-aus-157169195707",
+      "summary": "Simon Ehammer und Ditaji Kambundji treten nach einer Verletzungspause zur EM an. Derweil der Weitspringer Silber holt, wird die Weltmeisterin im Hürdensprint Vierte.",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Interview über Architektur und Stadtleben: Wird Basel eine Hochhaus-City wie Dubai, Herr Gruntz?",
+      "url": "https://www.bazonline.ch/basel-wie-der-hochhaus-boom-die-stadt-veraendert-387489726095",
+      "summary": "In den kommenden Jahren sollen mehr als 40 neue Hochhäuser entstehen. Der Basler Architekt Lukas Gruntz erklärt, was das für die Stadt bedeutet, wer dort wohnen wird – und wer nicht.",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Basler Kultbeiz: «Das Klingeli soll wieder Klingeli heissen»",
+      "url": "https://www.bazonline.ch/klingeli-basel-kultlokal-in-kleinbasel-sucht-neuen-wirt-734841300860",
+      "summary": "Seit dem Ende des Klingeli 2018 hatte keines der Nachfolgelokale nachhaltig Erfolg. Zuletzt ging Henry’s Bar im April in Konkurs. So geht es jetzt weiter.",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wo du die Sonnenfinsternis in der Schweiz am besten beobachten kannst",
+      "url": "https://www.watson.ch/schweiz/leben/102226966-wo-du-die-sonnenfinsternis-in-der-schweiz-am-besten-beobachten-kannst",
+      "summary": "",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lohnreport 2026: So viel verdienen Lehrpersonen in der Schweiz",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/440867881-lohnreport-2026-so-viel-verdienen-lehrpersonen-in-der-schweiz",
+      "summary": "",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Picdump 200 – Zwar nicht 200 Memes, dafür 200 Herzen",
+      "url": "https://www.watson.ch/spass/picdump/415724731-picdump-200-zwar-nicht-200-memes-dafuer-200-herzen",
+      "summary": "",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wenn sich die Welt plötzlich verdunkelt: Der Bund warnt vor falschen Sonnenbrillen",
+      "url": "https://www.freiburger-nachrichten.ch/story/281898/wenn-sich-die-welt-pl%C3%B6tzlich-verdunkelt-der-bund%C2%A0warnt-vor-falschen-sonnenbrillen",
+      "summary": "",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "In diesen Kantonen gibt es die meisten Kaiserschnitte – das ist der Grund",
+      "url": "https://www.freiburger-nachrichten.ch/story/281901/in-diesen-kantonen-gibt-es-die-meisten-kaiserschnitte-das-ist-der-grund",
+      "summary": "",
+      "published": "2026-08-12T04:31:48.241656+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trump wollte die Briefwahl strenger regeln – jetzt stoppt ihn das Gericht",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/usa-gericht-stoppt-trumps-briefwahl-plaene-im-ganzen-land-art-1716371",
+      "summary": "",
+      "published": "2026-08-12T04:31:48.241656+00:00"
     }
   ]
 }
