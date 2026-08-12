@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-12T03:51:48.036100+00:00",
+  "generated": "2026-08-12T04:02:08.363972+00:00",
   "date": "2026-08-12",
-  "count": 180,
+  "count": 195,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -1262,6 +1262,111 @@
       "url": "https://rathuus.ch/machen-wahlplakate-wuetend/",
       "summary": "",
       "published": "2026-08-12T03:51:48.036100+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kein Kündigungsschutz? – Befürworter von EU-Vertragspaket schlagen Alarm",
+      "url": "https://www.srf.ch/news/schweiz/kein-kuendigungsschutz-befuerworter-von-eu-vertragspaket-schlagen-alarm",
+      "summary": "Wie sehr wackelt das Vertragspaket mit der EU? Diese Frage stellt sich nach einem Entscheid der Wirtschaftskommission.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Ernährungsinitiative – So wird der Selbstversorgungsgrad berechnet",
+      "url": "https://www.srf.ch/news/schweiz/ernaehrungsinitiative-so-wird-der-selbstversorgungsgrad-berechnet",
+      "summary": "Die Ernährungsinitiative fordert einen Selbstversorgungsgrad von 70 Prozent. So wird er berechnet.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hitze und Stromversorgung – Solaranlagen stopfen die Stromlücke",
+      "url": "https://www.srf.ch/news/schweiz/hitze-und-stromversorgung-solaranlagen-stopfen-die-stromluecke",
+      "summary": "Die Stromproduktion in der Schweiz sinkt aufgrund tiefer Flusspegel. Viel Sonnenstrom verhindert einen Engpass.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Neutralitätsinitiative, Ernährungsinitiative – wie stimmst du ab?",
+      "url": "https://www.20min.ch/story/umfrage-neutralitaetsinitiative-ernaehrungsinitiative-wie-stimmst-du-ab-103615453",
+      "summary": "Bald stehen wieder Abstimmungen an. Wie stimmst du ab? Nimm an unserer Umfrage teil.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Storchenbrut in Glattfelden: Drama im Nest – drei von fünf jungen Störche haben überlebt",
+      "url": "https://www.tagesanzeiger.ch/glattfelder-stoerche-drei-von-fuenf-kueken-ueberleben-dramatische-saison-689601205158",
+      "summary": "Ein Storchenpärchen liess sich per Livestream bei der Aufzucht ihrer Brut beobachten. Das war oft dramatisch: Die Küken wurden von fremden Störchen attackiert, eines wurde von den Eltern getötet.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wir sind Zukunft: Fünf Tipps für besseres Secondhand-Shopping",
+      "url": "https://www.tagesanzeiger.ch/secondhand-fuenf-tipps-fuer-den-perfekten-brocki-fund-756881646198",
+      "summary": "Secondhand ist Trend, doch zwischen Fast Fashion und vollen Brockis ist es nicht so einfach, Vintage-Schätze zu finden. Secondhand-Expertin Tanja Erskine verrät ihre Tricks für erfolgreiches Stöbern.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Anlässe am Zürichsee: Drei Chilbis, Open-Airs und über 100 Schiffswracks",
+      "url": "https://www.tagesanzeiger.ch/veranstaltungen-am-zuerichsee-kino-chilbi-operette-236267833659",
+      "summary": "Rund um den Zürichsee wird der Sommer in den kommenden Tagen nochmals ausgiebig gefeiert.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Neue Massnahme im Test: Bei Hitze klingelt das Telefon: Wie Bern seinen Senioren durch den Sommer hilft",
+      "url": "https://www.bernerzeitung.ch/hitzewelle-bern-stadt-kontaktiert-senioren-per-telefon-570722950861",
+      "summary": "Auf Wunsch kontaktiert die Stadtverwaltung Personen über 75 Jahre während der Hitzewelle. Das Projekt könnte wegweisend für weitere Berner Gemeinden sein.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wassernot im Emmental: An der Emme stossen Fischretter wie Sascha Jud an ihre Grenzen",
+      "url": "https://www.bernerzeitung.ch/emme-notabfischungen-an-ausgetrocknetem-fluss-eingestellt-702662736566",
+      "summary": "Nächste Stufe der Tragik: Die Emme führt so wenig Wasser, dass es praktisch keine Plätzchen mehr gibt, wo man gerettete Fische noch aussetzen könnte.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Die Unterwelt des Oberlands: Plötzlich wird das zweitgrösste Höhlensystem der Schweiz erfahrbar",
+      "url": "https://www.bernerzeitung.ch/hoehlensystem-siebenhengste-fulldome-show-im-planetarium-sirius-929004732204",
+      "summary": "171 Kilometer lang, 1340 Meter tief. Das Réseau Siebenhengste-Hohgant wird dank einer neuartigen 360-Grad-Projektion im Planetarium Sirius virtuell für die Öffentlichkeit zugänglich.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gastrokritik Frohsinn, Bern: Hier ist die Karte ein Chamäleon",
+      "url": "https://www.bernerzeitung.ch/restaurant-frohsinn-bern-saisonale-kueche-in-der-muenstergasse-756747084200",
+      "summary": "Die Weinbar in der Berner Altstadt lockt mit einem partyfreudigen Panda und Speisen zum Teilen. Die Auswahl ändert dabei laufend – und birgt Überraschungen.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Trockenheit in der Schweiz: Gletscherschmelze bewahrt Berner Seen vor tiefen Pegeln – vorerst",
+      "url": "https://www.bernerzeitung.ch/gletscherschmelze-rettet-berner-seen-vor-trockenheit-760159156779",
+      "summary": "Während viele Schweizer Seen rekordtiefe Pegel melden, bleiben die Berner Seen dank Schmelzwasser stabil. Mit dem Verschwinden der Gletscher droht aber künftig auch hier Wasserknappheit.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Pedä Siegrists «Hundert Viecher»: Sie bastelte nach einem Beinbruch hundert Insekten aus Spitex-Pinzetten",
+      "url": "https://www.bernerzeitung.ch/bern-kuenstlerin-bastelt-insekten-aus-pinzetten-938625454580",
+      "summary": "Sie heissen «Eisteufel» oder «Brillenzwicker» und bestehen aus medizinischen Pinzetten: Pedä Siegrist zeigt im Kulturmuseum handgefertigte Fantasie-Insekten.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Tamedia-Umfrage: Neutralitäts- und Ernährungsinitiative: Wie stimmen Sie am 27. September ab?",
+      "url": "https://www.derbund.ch/abstimmungen-27-september-wie-stimmen-sie-ab-394249788560",
+      "summary": "Bald stehen wieder Abstimmungen an. Haben Sie sich schon entschieden? Nehmen Sie hier an unserer Umfrage teil.",
+      "published": "2026-08-12T04:02:08.363972+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Zürcher Polizei Kündigt Kontrollen zum Schulstart an",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuercher-polizei-kuendigt-kontrollen-zum-schulstart-an-ld.4215317",
+      "summary": "",
+      "published": "2026-08-12T04:02:08.363972+00:00"
     }
   ]
 }
