@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-12T01:32:07.087936+00:00",
+  "generated": "2026-08-12T01:46:02.562780+00:00",
   "date": "2026-08-12",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -163,6 +163,13 @@
       "url": "https://www.tagesanzeiger.ch/nordkorea-raketen-test-vor-militaeruebungen-von-suedkorea-usa-404959715245",
       "summary": "Zum elften Mal in diesem Jahr feuert Nordkorea eine ballistische Rakete ab. Der jüngste Start erfolgt zu einem besonders heiklen Zeitpunkt.",
       "published": "2026-08-12T01:32:07.087936+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nordkorea feuert ballistische Rakete ab",
+      "url": "https://www.zentralplus.ch/news/nordkorea-feuert-ballistische-rakete-ab-2891277/",
+      "summary": "Nordkorea sorgt kurz vor einem grossen Militärmanöver der USA und Südkoreas erneut für Spannungen. Das nordkoreanische Militär hat eine ballistische Rakete in Richtung des Japanischen Meeres abgefeuer",
+      "published": "2026-08-12T01:46:02.562780+00:00"
     }
   ]
 }
