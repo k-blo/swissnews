@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T12:29:52.239102+00:00",
+  "generated": "2026-08-13T12:32:31.191370+00:00",
   "date": "2026-08-13",
-  "count": 580,
+  "count": 584,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4062,6 +4062,34 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/ch-media-feiert-neues-newsportal-schweiz-heute-art-1716571",
       "summary": "",
       "published": "2026-08-13T12:29:52.239102+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UN: Juli war tödlichster Monat für Zivilisten in der Ukraine seit Jahren",
+      "url": "https://www.watson.ch/international/russland/264589376-un-juli-war-toedlichster-monat-fuer-zivilisten-in-der-ukraine-seit-jahren",
+      "summary": "",
+      "published": "2026-08-13T12:32:31.191370+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chat-Futter: Netflix-Doku über Raygun «Breaking Badly» am 1. September",
+      "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-netflix-doku-ueber-raygun-breaking-badly-am-1-september",
+      "summary": "",
+      "published": "2026-08-13T12:32:31.191370+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Werro stürzt – und steht nach Juryentscheid dennoch im Final",
+      "url": "https://www.freiburger-nachrichten.ch/story/281380/werro-st%C3%BCrzt-und-steht-nach-juryentscheid-dennoch-im-final",
+      "summary": "",
+      "published": "2026-08-13T12:32:31.191370+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Alle Gegen Frau Herren Schrecken der Bauern",
+      "url": "https://insideparadeplatz.ch/2026/08/13/alle-gegen-frau-herren-schrecken-der-bauern/",
+      "summary": "",
+      "published": "2026-08-13T12:32:31.191370+00:00"
     }
   ]
 }
