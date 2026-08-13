@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T03:46:43.434064+00:00",
+  "generated": "2026-08-13T04:02:22.731042+00:00",
   "date": "2026-08-13",
-  "count": 166,
+  "count": 176,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1164,6 +1164,76 @@
       "url": "https://www.nzz.ch/international/die-huthi-ziehen-fuer-iran-an-allen-fronten-in-den-krieg-ld.10018891",
       "summary": "",
       "published": "2026-08-13T03:46:43.434064+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Philipp Loser über digitale Einsamkeit: Ein Lob aufs Schnurtelefon",
+      "url": "https://www.tagesanzeiger.ch/einsamkeit-schweiz-warum-wir-immer-weniger-reden-344990464745",
+      "summary": "Nicht alles war früher besser – wer vermisst schon Telefonhörer und Wählscheiben? Allerdings: Uns als Gesellschaft haben die sperrigen Dinger gutgetan.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home: Servieren Sie mediterranes Lebensgefühl",
+      "url": "https://www.tagesanzeiger.ch/mediterrane-kueche-8-einfache-sommerrezepte-275615689582",
+      "summary": "Tomatensalat mit Pistazien, superschnelle Nudeln mit Kräutern, Poulet mit Sherry oder ein einfacher Sommerrisotto: Kochen und geniessen Sie auf die mediterrane Art.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schulbetreuung Rüterwis im Zollikerberg: Finanzielle Nöte bei Generalunternehmer – Bauarbeiten gestoppt",
+      "url": "https://www.tagesanzeiger.ch/zollikerberg-betreuungshaus-rueterwis-nicht-rechtzeitig-fertig-510942767132",
+      "summary": "Nächsten Montag wären im Neubau im Zollikerberg zum ersten Mal Schulkinder betreut worden. Doch das Gebäude ist nicht fertig. Dabei hat die Gemeinde die Planung bereits vor sieben Jahren angeschoben.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Die nächsten Stunden seien entscheidend: Nach 7,4-Erdbeben in Kolumbien steigt die Zahl der Todesopfer auf über 200",
+      "url": "https://www.bernerzeitung.ch/erdbeben-kolumbien-265-tote-wohl-bis-zu-4100-vermisste-366404755054",
+      "summary": "Es war das schwerste Beben in Kolumbien seit Jahrzehnten. Rettungskräfte suchen unter den Trümmern weiter nach möglichen Überlebenden.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Erste Berner Fussballplätze unbespielbar: Fussballverband schlägt Alarm: Dürre droht den Amateurfussball lahmzulegen",
+      "url": "https://www.bernerzeitung.ch/sc-jegenstorf-trockenheit-macht-fussballplatz-unbespielbar-647460386855",
+      "summary": "Die Trockenheit zwingt Vereine zu Spielverschiebungen – und bringt die Meisterschaft gleich zum Start durcheinander. Wird die Saison künftig in den Winter verlegt?",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Pläne der Drogisten-Kette: Detaillisten-Riese Rossmann expandiert nach Spiez",
+      "url": "https://www.bernerzeitung.ch/spiez-rossmann-eroeffnet-im-herbst-2026-eine-filiale-455756328411",
+      "summary": "Das Oberland als interessanter Standort: An der ehemals leer stehenden Thunstrasse 8 und 10 in Spiez eröffnet die Rossmann AG im Herbst eine neue Filiale mit breitem Sortiment.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Hitze an Berner Schulen: Bildungsdirektor Reto Müller will Schulkinder gegen Hitze abhärten – was Fachleute davon halten",
+      "url": "https://www.bernerzeitung.ch/hitze-bern-reto-mueller-will-schueler-abhaerten-experten-warnen-133361004680",
+      "summary": "In Berner Klassen­zimmern ist es teils über 30 Grad warm. Für den Berner Bildungsdirektor ist die Hitze eine «Komfortfrage». Spezialisten aus Bildung und Gesundheit sehen das anders.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Stress im Schulalltag: Sie sorgt für entspannte Schulkinder – indem sie Lehrern lernt, zu chillen",
+      "url": "https://www.bazonline.ch/basler-lehrerin-kinder-brauchen-keine-perfekte-lehrperson-780469102591",
+      "summary": "Nina Bernoulli hilft Schülerinnen und Schülern, besser mit Druck umzugehen. Das Problem liegt ihrer Ansicht nach oft nicht bei den Kindern, sondern bei den Lehrpersonen.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Areal im Umbruch: Verdichteter, grüner, belebter: So stellt sich die CMS den Dreispitz der Zukunft vor",
+      "url": "https://www.bazonline.ch/dreispitz-das-sind-die-plaene-fuer-das-neue-quartier-361607969221",
+      "summary": "Schritt für Schritt soll sich das Industriegebiet in ein durchmischtes Quartier verwandeln. Baschi Dürr, Direktor der Christoph Merian-Stiftung, gibt vor Ort Einblick in die wichtigsten Baustellen.",
+      "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das sind eure besten Sonnenfinsternis-Bilder",
+      "url": "https://www.freiburger-nachrichten.ch/story/282187/das-sind-eure-besten-sonnenfinsternisbilder",
+      "summary": "",
+      "published": "2026-08-13T04:02:22.731042+00:00"
     }
   ]
 }
