@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-12T23:32:10.717028+00:00",
+  "generated": "2026-08-13T00:02:04.951818+00:00",
   "date": "2026-08-13",
-  "count": 19,
+  "count": 20,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -135,6 +135,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/281380/jason-joseph-ist-europameister-im-h%C3%BCrdensprint-fabienne-hoenke-schafft-sensation",
       "summary": "",
       "published": "2026-08-12T23:32:10.717028+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ätnas Asche legt Flughafen von Catania lahm – chaotische Zustände",
+      "url": "https://www.20min.ch/story/aetna-sizilien-aschewolke-flughafen-catania-geschlossen-103616933",
+      "summary": "Wegen anhaltender Vulkanasche vom Ätna in der Luft bleibt der Flughafen von Catania auf Sizilien geschlossen. Reisende müssen mit weiteren Ausfällen und Umleitungen rechnen.",
+      "published": "2026-08-13T00:02:04.951818+00:00"
     }
   ]
 }
