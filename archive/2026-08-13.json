@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T02:32:48.292099+00:00",
+  "generated": "2026-08-13T03:32:20.686460+00:00",
   "date": "2026-08-13",
-  "count": 39,
+  "count": 143,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -275,6 +275,734 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/agroscope-forscher-zeigt-entwicklung-der-landtechnik-in-thurgau-ld.4212682",
       "summary": "",
       "published": "2026-08-13T02:32:48.292099+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Aufsicht kritisiert Bund – Vergünstigungen bei Medikamenten erreichen die Patienten kaum",
+      "url": "https://www.srf.ch/news/schweiz/aufsicht-kritisiert-bund-verguenstigungen-bei-medikamenten-erreichen-die-patienten-kaum",
+      "summary": "Ärztinnen, Apotheker und Spital-Leitungen geben nur einen Teil ihrer Rabatte weiter. Der Bund soll mehr eingreifen.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Touristen trampeln fürs perfekte Bergfoto über abgesperrte Weide",
+      "url": "https://www.20min.ch/story/bergfoto-auf-der-first-touristen-missachten-absperrung-fuer-eiger-panorama-103615517",
+      "summary": "Für Fotos mit Eiger, Mönch und Jungfrau: Verbotsschilder und Absperrbänder halten Touristen auf der First nicht davon ab, eine Weide zu betreten. In den sozialen Medien hagelt es Kritik.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Mein Bein, mein Bein!» – Seglerin zu Tode gerast",
+      "url": "https://www.20min.ch/story/bodensee-26-jaehriger-rast-in-segelboot-frau-57-stirbt-103616627",
+      "summary": "Ein 26-Jähriger rammte 2025 auf dem Bodensee ein Segelboot, woraufhin eine 57-Jährige starb. Nun wurde er verurteilt.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wie viel Geld verdienen Sie als Schwinger?»",
+      "url": "https://www.20min.ch/story/fabian-staudenmann-lebt-vom-schwingen-ueber-seinen-lohn-schweigt-er-103616558",
+      "summary": "Samuel Giger sorgte zuletzt für Schlagzeilen, weil er der erste Schwinger-Profi sei. Fabian Staudenmann sagt, er sei nach seiner Definition schon seit drei oder vier Jahren Profi.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Coach Zach hilft Männern beim Mitdenken – für 95 Fr. pro Stunde",
+      "url": "https://www.20min.ch/story/mental-load-coach-fuer-maenner-zach-watson-verlangt-95-franken-pro-stunde-103616491",
+      "summary": "Hausarbeit erledigen ist das eine, daran zu denken, das andere. Coach Zach bringt Männern bei, mehr Mental Load zu übernehmen. Dafür verlangt er 95 Franken pro Stunde. Eine Paartherapeutin sieht das k",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "In diesem Film dürfen Unverheiratete nur einmal im Jahr Sex haben",
+      "url": "https://www.20min.ch/story/monica-barbaro-und-callum-turner-ueber-die-verrueckte-sex-regel-ihrer-romcom-103616436",
+      "summary": "In «One Night Only» dürfen unverheiratete Menschen nur einmal im Jahr Sex haben. Monica Barbaro und Callum Turner geraten dabei mitten ins New Yorker Dating-Chaos.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Feuershow eskaliert: Kostüm steht plötzlich in Flammen",
+      "url": "https://www.20min.ch/video/china-feuershow-eskaliert-kostuem-steht-ploetzlich-in-flammen-103616922",
+      "summary": "Während einer Feuershow in einem Freizeitpark in China geriet ein Auftritt ausser Kontrolle: Plötzlich griffen die Flammen auf das Kostüm einer Tänzerin über. Andere Künstler eilten ihr zu Hilfe und l",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Leichtathletik-EM: Das steht am Donnerstag auf dem Programm",
+      "url": "https://www.20min.ch/story/schweizer-asse-leichtathletik-em-das-steht-am-dienstag-auf-dem-programm-103616912",
+      "summary": "An der Leichtathletik-EM in Birmingham kämpfen die Schweizer Athletinnen und Athleten um Edelmetall. Das ist das Schweizer Programm am Donnerstag.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hitze, Dürre, Stürme: Wie lange halten Schutzwälder das aus?",
+      "url": "https://www.20min.ch/story/schutzwaelder-in-der-schweiz-hitze-und-duerre-gefaehrden-den-schutz-vor-lawinen-103616682",
+      "summary": "Er hält Steine zurück, bremst Lawinen und schützt Strassen und Dörfer. Doch Hitze, Trockenheit und Gewitter setzen dem Schweizer Schutzwald zu. Fachleute warnen: Fällt ein Wald aus, lässt er sich nich",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Wie der weibliche Zyklus die Produktivität beeinflusst – und warum viele Frauen im Job trotzdem schweigen",
+      "url": "https://www.tagesanzeiger.ch/menstruation-am-arbeitsplatz-wie-der-zyklus-die-leistung-beeinflusst-521290112295",
+      "summary": "Menstruations­beschwerden gehören für viele Frauen zum Alltag – auch im Job. Trotzdem bleibt die Periode dort meist ein Tabuthema. Das ist auch für die Arbeitgeber schlecht.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schilligers Tempo-50-Sturm ist vorbei – Städte jubeln",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/schilligers-tempo-50-sturm-ist-vorbei-staedte-jubeln-2891538/",
+      "summary": "Der Bundesrat hat die Regeln verändert, nach denen das Tempo auf Hauptstrassen von 50 auf 30 gedrosselt wird. Die Gemeinden und Städte hatten Schlimmeres erwartet. &#160; Der Luzerner Nationalrat Pete",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Bundesrat bremst bei Tempo 30. Aus Sicht der rot-grünen Stadt Zürich droht «ein unnötiger Zusatzaufwand»",
+      "url": "https://www.nzz.ch/zuerich/tempo-30-debatte-in-zuerich-bund-verschaerft-anforderungen-ld.10019243",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der rätselhafte Geburtenknick erreicht die Zürcher Volksschule: Die Kinderzahlen sinken erstmals seit Jahren",
+      "url": "https://www.nzz.ch/zuerich/der-raetselhafte-geburtenknick-erreicht-die-zuercher-volksschule-die-kinderzahlen-sinken-erstmals-seit-jahren-ld.10019226",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Die 13. AHV habe ich natürlich abgelehnt», sagt der 72-jährige Beizer der «Rheinfelder Bierhalle». Warum arbeiten manche Leute länger, als sie müssten?",
+      "url": "https://www.nzz.ch/zuerich/arbeiten-mit-ue65-in-zuerich-ein-beizer-eine-coach-und-ein-schauspieler-erzaehlen-ld.10017734",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Warmes Wasser, wenig Sauerstoff: Wie geht es den Fischen im Rhein?",
+      "url": "https://www.shn.ch/region/kanton/2026-08-13/warmes-wasser-wenig-sauerstoff-wie-geht-es-den-fischen-im-rhein",
+      "summary": "Die Äschen leiden unter dem aktuellen Hitzesommer. Der Schaffhauser Fischereiaufseher Patrick Wasem erklärt im Interview, wie es um andere Fischarten, Wasservögel und Wildtiere steht – und was die Men",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Tschüss Bockalp: Das sagt der Betreiber zum Aus des Pop-up-Chalets",
+      "url": "https://www.shn.ch/region/stadt/2026-08-13/tschuess-bockalp-das-sagt-der-betreiber-zum-aus-des-pop-up-chalets",
+      "summary": "Die Bockalp wird dieses Jahr nicht mehr auf dem Herrenacker stehen. Das Projekt rentiert sich nicht mehr – und man will sich auf andere Dinge konzentrieren.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«It’s not the cow, it’s the how» – Urban Dörig zeigt, wie Rinderzucht Böden fruchtbar halten kann",
+      "url": "https://www.shn.ch/leben-genuss/2026-08-13/its-not-the-cow-its-the-how-urban-doerig-zeigt-wie-rinderzucht-boeden",
+      "summary": "Zur Verbesserung der Bodenfruchtbarkeit engagiert Landwirt Urban Dörig Kühe – auf und unter der Anbaufläche. Das sorgt für Aufsehen.",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Sie trotzen der Hitze und bändigen das Feuer",
+      "url": "https://www.shn.ch/region/kanton/2026-08-13/sie-trotzen-der-hitze-und-baendigen-das-feuer",
+      "summary": "Wenn es brennt, rücken sie aus. Mit Sirene und gut ausgerüstet, aber ohne Garantie auf absolute Sicherheit. Der Brand mit zwei Gasexplosionen an der Fulachstrasse, bei dem vier Feuerwehrmänner verletz",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Zu Heiss für Klare Gedanken",
+      "url": "https://www.republik.ch/2026/08/13/zu-heiss-fuer-klare-gedanken",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Briefing aus Bern Bundesrat Beschliesst Höhere Hürden für Tempo 30 Russland Unterstützt die Svp und Gibts Bald Bussen für Banken",
+      "url": "https://www.republik.ch/2026/08/13/briefing-aus-bern-bundesrat-beschliesst-hoehere-huerden-fuer-tempo-30-russland-unterstuetzt-die-svp-und-gibts-bald-bussen-fuer-banken",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Stadtrat Luzern Will Keine Tcs Reparatursäulen für Velos",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/stadtrat-luzern-will-keine-tcs-reparatursaeulen-fuer-velos-ld.4213716",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Asyl Schule Unter Druck Kritik Erreicht den Kantonsrat",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzerner-asyl-schule-unter-druck-kritik-erreicht-den-kantonsrat-ld.4213165",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Der Weggiser Karl Hoppler Organisiert die Seniorenakademie Seit Zehn Jahren",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/der-weggiser-karl-hoppler-organisiert-die-seniorenakademie-seit-zehn-jahren-ld.4211660",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sebastian Nordmann Prägt den Luzerner Musiksommer",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/sebastian-nordmann-praegt-den-luzerner-musiksommer-ld.4215561",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Lucerne Festival die Debüts des Festival Sommers",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/lucerne-festival-die-debuets-des-festival-sommers-ld.4202639",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Wohlen Villa Dreifuss Steht zum Verkauf",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/wohlen-villa-dreifuss-steht-zum-verkauf-ld.4212798",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Prognose der 2 Liga Afv wer Fordert den Fc Muri",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/prognose-der-2-liga-afv-wer-fordert-den-fc-muri-ld.4210865",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargauer Fussball Diese Spieler Trafen in den Testspielen am Häufigsten",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/aargauer-fussball-diese-spieler-trafen-in-den-testspielen-am-haeufigsten-ld.4210869",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Propstei im Rennen Neuer Standort für Bezirksgericht Zurzach",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/propstei-im-rennen-neuer-standort-fuer-bezirksgericht-zurzach-ld.4212893",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Behrouz Varghaiyan Zeigt in Tiengen Kunst aus dem Iran",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/behrouz-varghaiyan-zeigt-in-tiengen-kunst-aus-dem-iran-ld.4213501",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Neue Liebe Gesucht Janine Grob Startet bei Bauer Ledig Sucht",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/neue-liebe-gesucht-janine-grob-startet-bei-bauer-ledig-sucht-ld.4212443",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Erzähltal 2026 Karin Fäs Spricht mit Jöl Goldenberger",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/erzaehltal-2026-karin-faes-spricht-mit-joel-goldenberger-ld.4206681",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Birrwil Stiftung Plant für Buurestube die Wiedereröffnung",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/birrwil-stiftung-plant-fuer-buurestube-die-wiedereroeffnung-ld.4214207",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Sonnenfinsternis im Ballon über dem Aargau",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/sonnenfinsternis-im-ballon-ueber-dem-aargau-ld.4215969",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Glp Fordert Verbot Neuer Öl und Gasheizungen im Aargau",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/glp-fordert-verbot-neuer-oel-und-gasheizungen-im-aargau-ld.4215426",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Dolmetscher an Aargauer Schulen Regierung Will Keine Neuen Regeln",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/dolmetscher-an-aargauer-schulen-regierung-will-keine-neuen-regeln-ld.4214945",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bingoabend im Restaurant Endet mit Strafbefehl",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/bingoabend-im-restaurant-endet-mit-strafbefehl-ld.4213584",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargauer Hofbesitzerin Bedroht Tierschutzkontrolle",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/aargauer-hofbesitzerin-bedroht-tierschutzkontrolle-ld.4213631",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Christian Wyss Braut Eigenes Bier im Atelierhaus in Öschgen",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/christian-wyss-braut-eigenes-bier-im-atelierhaus-in-oeschgen-ld.4215084",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bezirksgericht Bremgarten Spricht Hundehalter Frei",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/bezirksgericht-bremgarten-spricht-hundehalter-frei-ld.4215413",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bruggerberg Bewilligung für 27 Wohnungen Erteilt",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/bruggerberg-bewilligung-fuer-27-wohnungen-erteilt-ld.4215541",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "15 Jahre Trattoria Rotes Haus Vittorio Timpanos Erfolg in Brugg",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/15-jahre-trattoria-rotes-haus-vittorio-timpanos-erfolg-in-brugg-ld.4198045",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rohr und Türkiyemspor Wehren Sich Gegen Neue Platzpläne",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/rohr-und-tuerkiyemspor-wehren-sich-gegen-neue-platzplaene-ld.4215334",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Mida in Aarau Rund 40 Konzerte und Afterparty",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/mida-in-aarau-rund-40-konzerte-und-afterparty-ld.4215441",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarau Svp Fordert Mehr Schutz vor Urbaner Hitze",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-svp-fordert-mehr-schutz-vor-urbaner-hitze-ld.4215005",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Leon Frokaj von Aarau zum Fc Stgallen und Direkt Etabliert",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/leon-frokaj-von-aarau-zum-fc-stgallen-und-direkt-etabliert-ld.4214578",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Christian Hossli Will die Thur Wiederbeleben",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/christian-hossli-will-die-thur-wiederbeleben-ld.4211450",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Stgallen Hilfsangebote für Menschen in Wohnungsnot Bleiben",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/stgallen-hilfsangebote-fuer-menschen-in-wohnungsnot-bleiben-ld.4207083",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Artikel",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/artikel-ld.4215425",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ostschweizer Trinkwasserversorger am Limit",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/ostschweizer-trinkwasserversorger-am-limit-ld.4215490",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Maja von Meiss Zeigt Traumwelten im Weiertal",
+      "url": "https://www.tagblatt.ch/kultur/ostschweiz/maja-von-meiss-zeigt-traumwelten-im-weiertal-ld.4215924",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Ehemann Tötet Frau vor Zwangsräumung im Thurgau",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/ehemann-toetet-frau-vor-zwangsraeumung-im-thurgau-ld.4199390",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Thurgauer Marc Christian Riebe Knapp dem Tod Entronnen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/thurgauer-marc-christian-riebe-knapp-dem-tod-entronnen-ld.4212273",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Pro Dampfer Setzt Trotz Niedrigwasser auf Schaufelraddampfer",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/pro-dampfer-setzt-trotz-niedrigwasser-auf-schaufelraddampfer-ld.4214876",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Talentlastungsstrasse Arlesheim Münchenstein Zwei Firmen Wehren Sich",
+      "url": "https://www.bzbasel.ch/basel/baselland/talentlastungsstrasse-arlesheim-muenchenstein-zwei-firmen-wehren-sich-ld.4215532",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Seniorinnen Betreuerin Erhält Landesverweis im Baselbiet",
+      "url": "https://www.bzbasel.ch/basel/baselland/seniorinnen-betreuerin-erhaelt-landesverweis-im-baselbiet-ld.4215287",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Hitzewellen Treiben Basel zu Mehr Klimaanlagen",
+      "url": "https://www.bzbasel.ch/basel/baselland/hitzewellen-treiben-basel-zu-mehr-klimaanlagen-ld.4215907",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Fc Basel Ausstellung zu den Trikotsponsoren",
+      "url": "https://www.bzbasel.ch/basel/baselland/fc-basel-ausstellung-zu-den-trikotsponsoren-ld.4215710",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Galerie Rössli Balsthal Ausstellung Ruth Berger",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/galerie-roessli-balsthal-ausstellung-ruth-berger-ld.4206315",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurn Erste Gummiboot Party auf der Aare Geplant",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/solothurn-erste-gummiboot-party-auf-der-aare-geplant-ld.4214981",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Sollen Solothurn und Ihre Nachbargemeinden Enger Zusammenarbeiten",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/sollen-solothurn-und-ihre-nachbargemeinden-enger-zusammenarbeiten-ld.4212595",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Rüttenen Haudenschild Löst Käch in der Verwaltung Ab",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/ruettenen-haudenschild-loest-kaech-in-der-verwaltung-ab-ld.4215386",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "News für den Kanton Solothurn am Donnerstag 13 August 2026",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/news-fuer-den-kanton-solothurn-am-donnerstag-13-august-2026-ld.4215305",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Hägendorf Zwischen Dönerladen und Bünzli ein Dorf Sucht Regeln",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/haegendorf-zwischen-doenerladen-und-buenzli-ein-dorf-sucht-regeln-ld.4198241",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Wangen bei Olten So Lebt und Arbeitet Beatrice Briner",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/wangen-bei-olten-so-lebt-und-arbeitet-beatrice-briner-ld.4214240",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Heimweh in den Ferien Wo ist Man Eigentlich Zuhause",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/heimweh-in-den-ferien-wo-ist-man-eigentlich-zuhause-ld.4215486",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Betreibungsamt Spreitenbach Killwangen Stösst an Kapazitätsgrenze",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/betreibungsamt-spreitenbach-killwangen-stoesst-an-kapazitaetsgrenze-ld.4215653",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Badener Kulturhaus Royal Feiert 15 Jähriges Jubiläum",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/badener-kulturhaus-royal-feiert-15-jaehriges-jubilaeum-ld.4212671",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Baden Zeigt Outdoor Ausstellung zu 17 Uno Nachhaltigkeitszielen",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/baden-zeigt-outdoor-ausstellung-zu-17-uno-nachhaltigkeitszielen-ld.4213872",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Baden Ölrain Viadukt Wird Ab 17 August Saniert",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/baden-oelrain-viadukt-wird-ab-17-august-saniert-ld.4215428",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Im Video So Spektakulär War die Brückeninstallation in Spreitenbach",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/im-video-so-spektakulaer-war-die-brueckeninstallation-in-spreitenbach-ld.4215971",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Swg in Grenchen Kein Wasserengpass Trotz Trockenheit",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/swg-in-grenchen-kein-wasserengpass-trotz-trockenheit-ld.4215558",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Richard Aschberger Wird Bürgerpräsident von Grenchen",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/richard-aschberger-wird-buergerpraesident-von-grenchen-ld.4215681",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Oberwil Sichlete mit Flachs Verarbeitung",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/oberwil-sichlete-mit-flachs-verarbeitung-ld.4214881",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Mountainflyers Lädt in Grenchen zum Heli Day ein",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/mountainflyers-laedt-in-grenchen-zum-heli-day-ein-ld.4215407",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Kindercamp in der Alten Reithalle Grenchen",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/kindercamp-in-der-alten-reithalle-grenchen-ld.4215538",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Littering in Zürich Schanzengraben Schwimmer Gurov Fand 500 Zigarettenstummel",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/littering-in-zuerich-schanzengraben-schwimmer-gurov-fand-500-zigarettenstummel-ld.4214480",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Leap in Unterengstringen Maria Michailov Gründet Ihre Eigene Ballettschule",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/leap-in-unterengstringen-maria-michailov-gruendet-ihre-eigene-ballettschule-ld.4191218",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Fdp Oberengstringen Unterstützt Ankenhof Gestaltungsplan Nun Doch",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/fdp-oberengstringen-unterstuetzt-ankenhof-gestaltungsplan-nun-doch-ld.4215208",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Dietikon Neues Atelier des Bureaud Soll ein Treffpunkt Sein",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/dietikon-neues-atelier-des-bureaud-soll-ein-treffpunkt-sein-ld.4213167",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Badi Schlieren Schwimmkurs Wegen Wasserqualität Abgesagt",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/badi-schlieren-schwimmkurs-wegen-wasserqualitaet-abgesagt-ld.4214902",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Männerchor Präsident Kurt Gerhard Lanciert Eigenes Bier",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/maennerchor-praesident-kurt-gerhard-lanciert-eigenes-bier-ld.4215402",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "June Isenring und Peter Binder Bauen Herbfarm auf",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/june-isenring-und-peter-binder-bauen-herbfarm-auf-ld.4206808",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Sommerhitze im Appenzellerland Folgen für Gewässer",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/sommerhitze-im-appenzellerland-folgen-fuer-gewaesser-ld.4215427",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Wahlen Menzingen Gesicht des Gemeinderats Könnte Sich Verändern",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/wahlen-menzingen-gesicht-des-gemeinderats-koennte-sich-veraendern-ld.4214202",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Als der Erste Hergiswiler Kreisel zu Sprudeln und Leuchten Begann",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/als-der-erste-hergiswiler-kreisel-zu-sprudeln-und-leuchten-begann-ld.4104480",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Street Parade Nidwaldner Dj Elia Hürlimann Legt auf",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/street-parade-nidwaldner-dj-elia-huerlimann-legt-auf-ld.4215047",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Yoga und Pilates in den Wechseljahren Sandra Wallimanns Ansatz",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/yoga-und-pilates-in-den-wechseljahren-sandra-wallimanns-ansatz-ld.4145141",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Welt im Bann der Sonnenfinsternis – die schönsten Bilder",
+      "url": "https://www.freiburger-nachrichten.ch/story/282184/die-welt-im-bann-der-sonnenfinsternis%C2%A0-die-sch%C3%B6nsten-bilder",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gehirn besitzt mehr Selbstheilungskräfte als bisher angenommen",
+      "url": "https://www.freiburger-nachrichten.ch/story/282182/gehirn-besitzt-mehr-selbstheilungskr%C3%A4fte-als-bisher-angenommen",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Millionenschaden: Ex-Geschäftsführerin wegen Veruntreuung schuldig gesprochen",
+      "url": "https://www.freiburger-nachrichten.ch/story/281949/millionenschaden-exgesch%C3%A4ftsf%C3%BChrerin-wegen-veruntreuung-schuldig-gesprochen",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wenn die Beschneiungsanlage den Durst der Kühe stillt",
+      "url": "https://www.freiburger-nachrichten.ch/story/281927/wenn-die-beschneiungsanlage-den-durst-der-k%C3%BChe-stillt",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Als der Kreisel zu sprudeln und leuchten begann",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/als-der-erste-hergiswiler-kreisel-zu-sprudeln-und-leuchten-begann-art-1716531",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Viele wohnen zurückgezogen in ihren Villen»: Karl Hoppler will Weggiser Senioren vernetzen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/der-weggiser-karl-hoppler-organisiert-die-seniorenakademie-seit-zehn-jahren-art-1716530",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Eigentlich sollte ich noch mehr aus meinem Alltag zeigen»: Wie Sinisha Lüscher die Herzen seiner Fans erobert",
+      "url": "https://www.bote.ch/nachrichten/sport/sinisha-luescher-so-baut-er-seine-fanbasis-auf-art-1716524",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vom Stammgast bis zur Strassenmusik: So klingen die «American Dreams» in Luzern",
+      "url": "https://www.bote.ch/nachrichten/kultur/sebastian-nordmann-praegt-den-luzerner-musiksommer-art-1716529",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vier Neue wollen ins Amt: Das Gesicht des Menzinger Gemeinderats könnte sich deutlich verändern",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/wahlen-menzingen-gesicht-des-gemeinderats-koennte-sich-veraendern-art-1716523",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Situation an Luzerner Asyl-Schule spitzt sich zu – und ist jetzt ein Fall für die Politik",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-asyl-schule-unter-druck-kritik-erreicht-den-kantonsrat-art-1716522",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzerns Stadtrat will keine TCS-Reparatursäulen für Velos",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/stadtrat-luzern-will-keine-tcs-reparatursaeulen-fuer-velos-art-1716528",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Diese sieben Debüts erwarten Sie am Sommerfestival",
+      "url": "https://www.bote.ch/nachrichten/kultur/lucerne-festival-die-debuets-des-festival-sommers-art-1716525",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Beschwerden lindern und Erkrankungen im Alter verhindern – eine Bewegungspädagogin erklärt, wie",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/yoga-und-pilates-in-den-wechseljahren-sandra-wallimanns-ansatz-art-1716521",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Barbie und das Geschäft mit der Nostalgie",
+      "url": "https://www.bote.ch/nachrichten/kultur/mattel-bringt-whitney-houston-als-sammler-barbie-zurueck-art-1716527",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "55 Millionen weg: Das Spielzeug für reiche Jungs erhält frisches Kapital",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/ares-erhaelt-neues-kapital-schweizer-firmen-verlieren-art-1716526",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dieser junge Nidwaldner DJ begeisterte an der Street Parade",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/street-parade-nidwaldner-dj-elia-huerlimann-legt-auf-art-1716520",
+      "summary": "",
+      "published": "2026-08-13T03:32:20.686460+00:00"
     }
   ]
 }
