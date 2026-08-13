@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T01:02:08.450979+00:00",
+  "generated": "2026-08-13T01:32:17.687960+00:00",
   "date": "2026-08-13",
-  "count": 28,
+  "count": 31,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -198,6 +198,27 @@
       "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/gratulation-ld.4213238",
       "summary": "",
       "published": "2026-08-13T01:02:08.450979+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach 7,4-Erdbeben – wohl noch 4000 Menschen gelten als vermisst",
+      "url": "https://www.20min.ch/story/kolumbien-erdbeben-zahl-der-todesopfer-steigt-viele-vermisste-103616936",
+      "summary": "Es war das schwerste Beben in Kolumbien seit Jahrzehnten. Rettungskräfte suchen unter den Trümmern weiter nach möglichen Überlebenden. Unterdessen steigt die Zahl der Todesopfer.",
+      "published": "2026-08-13T01:32:17.687960+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die nächsten Stunden seien entscheidend: Nach 7,4-Erdbeben steigt die Zahl der Todesopfer auf über 200",
+      "url": "https://www.tagesanzeiger.ch/erdbeben-kolumbien-265-tote-wohl-bis-zu-4100-vermisste-366404755054",
+      "summary": "Es war das schwerste Beben in Kolumbien seit Jahrzehnten. Rettungskräfte suchen unter den Trümmern weiter nach möglichen Überlebenden.",
+      "published": "2026-08-13T01:32:17.687960+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VEN: Schritte gegen Staatskrise",
+      "url": "https://www.zentralplus.ch/news/ven-schritte-gegen-staatskrise-2891623/",
+      "summary": "Die Interims-Regierung und die Opposition in Venezuela haben sich auf erste konkrete Schritte zur Beilegung der Staatskrise geeinigt. Sie vereinbarten eine umfassende Justizreform sowie die Erneuerung",
+      "published": "2026-08-13T01:32:17.687960+00:00"
     }
   ]
 }
