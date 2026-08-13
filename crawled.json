@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T11:02:19.158055+00:00",
+  "generated": "2026-08-13T11:22:03.121560+00:00",
   "date": "2026-08-13",
-  "count": 509,
+  "count": 524,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3565,6 +3565,111 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/langjaehriger-sgv-chef-stefan-schulthess-wird-pensioniert-nachfolge-gesucht-art-1716566",
       "summary": "",
       "published": "2026-08-13T11:02:19.158055+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Bundesgerichtsurteil – «Sadist von Romont» bleibt in Haft",
+      "url": "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-sadist-von-romont-bleibt-in-haft",
+      "summary": "Das Bundesgericht hat eine Beschwerde des Mörders und Sexualstraftäters abgewiesen. Es bestehe ein hohes Rückfallrisiko.",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schrauben versagten: Decke von Regierungszimmer eingestürzt",
+      "url": "https://www.20min.ch/story/liestal-bl-schrauben-versagten-decke-von-regierungszimmer-eingestuerzt-103616410",
+      "summary": "Im Juni stürzte die Decke des Regierungszimmers in Liestal ein. Bei der Untersuchung wurden unter anderem Feuchtigkeitsschäden und Schädlingsbefall entdeckt.",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Uster: Borkenkäfer befallen über 400 Kubikmeter Fichten – Stadtförster richtet Appell an Waldbesitzer",
+      "url": "https://www.tagesanzeiger.ch/borkenkaefer-in-uster-400-kubikmeter-fichten-befallen-306758692841",
+      "summary": "Die Stadt Uster muss wohl Hunderte Fichten fällen – ein Viertel der jährlichen Fällmenge. Der heisse, trockene Sommer hat die Bäume geschwächt und anfällig für den Käferbefall gemacht.",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Solothurn stockt Kantonspolizei auf",
+      "url": "https://www.zentralplus.ch/news/solothurn-stockt-kantonspolizei-auf-2891764/",
+      "summary": "In den nächsten Jahren soll die Solothurner Kantonspolizei schrittweise um 100 Stellen aufgestockt werden. Das hat die Regierung des Kantons bekannt gegeben. Es gehe darum, die Sicherheit langfristig ",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "BS: Entwarnung nach Legionärskrankheit",
+      "url": "https://www.zentralplus.ch/news/bs-entwarnung-nach-legionaerskrankheit-2891765/",
+      "summary": "In Basel haben die Behörden nach dem Ausbruch der Legionärskrankheit Entwarnung gegeben. Seit über einer Woche sei niemand mehr krank geworden. Zudem sei mittlerweile bestätigt, dass die vermutete Küh",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Sadist von Romont» bleibt in Haft",
+      "url": "https://www.zentralplus.ch/news/sadist-von-romont-bleibt-in-haft-2891759/",
+      "summary": "Seit bald 40 Jahren sitzt der sogenannte «Sadist von Romont» im Gefängnis. Daran wird sich vorerst nichts ändern, wie das Bundesgericht entschieden hat. Das höchste Schweizer Gericht stützt einen Ents",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Altersvorsorge",
+      "url": "https://www.bilanz.ch/altersvorsorge/qp81xhe",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sust Bericht zu Heli Bruchlandung im Ybrig Kein Schmierfett Mehr",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/sust-bericht-zu-heli-bruchlandung-im-ybrig-kein-schmierfett-mehr-ld.4216251",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Langjähriger Sgv Chef Stefan Schulthess Wird Pensioniert Nachfolge Gesucht",
+      "url": "https://www.luzernerzeitung.ch/wirtschaft/zentralschweiz/langjaehriger-sgv-chef-stefan-schulthess-wird-pensioniert-nachfolge-gesucht-ld.4215481",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Sonnenfinsternis auf der Schafmatt Grosser Andrang",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/sonnenfinsternis-auf-der-schafmatt-grosser-andrang-ld.4215016",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Gold-Hoffnung Audrey Werro stürzt im EM-Halbfinal über 800 m",
+      "url": "https://www.watson.ch/sport/leichtathletik/474514875-gold-hoffnung-audrey-werro-stuerzt-im-em-halbfinal-ueber-800-m",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Dutzende Schweizer Gletscher dürften diesen Sommer komplett verschwinden",
+      "url": "https://www.watson.ch/schweiz/klima/365872967-dutzende-schweizer-gletscher-duerften-diesen-sommer-komplett-verschwinden",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trockenheit in Wäldern der Schweiz: Gefahr für Fussgänger und Wanderer",
+      "url": "https://www.watson.ch/schweiz/extremwetter/293618522-trockenheit-in-waeldern-der-schweiz-gefahr-fuer-fussgaenger-und-wanderer",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zürcher Studie: Gehirn heilt sich selbst mit regenerativen Astrozyten",
+      "url": "https://www.watson.ch/international/science-news/602540282-zuercher-studie-gehirn-heilt-sich-selbst-mit-regenerativen-astrozyten",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Netflix-Star Jenna Ortega spricht über harte Zeit als Kinderdarstellerin",
+      "url": "https://www.watson.ch/international/populaerkultur/165646388-netflix-star-jenna-ortega-spricht-ueber-harte-zeit-als-kinderdarstellerin",
+      "summary": "",
+      "published": "2026-08-13T11:22:03.121560+00:00"
     }
   ]
 }
