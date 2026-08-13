@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T04:02:22.731042+00:00",
+  "generated": "2026-08-13T04:32:15.743242+00:00",
   "date": "2026-08-13",
-  "count": 176,
+  "count": 180,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1234,6 +1234,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/282187/das-sind-eure-besten-sonnenfinsternisbilder",
       "summary": "",
       "published": "2026-08-13T04:02:22.731042+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Teleskope Lochkameras Schutzbrillen wie die Sonnenfinsternis in Rapperswil Begeistert",
+      "url": "https://www.suedostschweiz.ch/linth/teleskope-lochkameras-schutzbrillen-wie-die-sonnenfinsternis-in-rapperswil-begeistert-2116999",
+      "summary": "",
+      "published": "2026-08-13T04:32:15.743242+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Militärhubschrauber stürzt in Texas ab: Zwei Tote",
+      "url": "https://www.watson.ch/international/usa/474201984-us-militaerhubschrauber-stuerzt-in-texas-ab-zwei-tote",
+      "summary": "",
+      "published": "2026-08-13T04:32:15.743242+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zum 80. von Vespa gibt's Bilder, Bilder und noch mehr Bilder!",
+      "url": "https://www.watson.ch/leben/auto/202308292-zum-80-von-vespa-gibt-s-bilder-bilder-und-noch-mehr-bilder",
+      "summary": "",
+      "published": "2026-08-13T04:32:15.743242+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "EM-Held Simon Ehammer: «Im Flow zelebriert man seine Leistung»",
+      "url": "https://www.freiburger-nachrichten.ch/story/282176/emheld-simon-ehammer-im-flow-zelebriert-man-seine-leistung",
+      "summary": "",
+      "published": "2026-08-13T04:32:15.743242+00:00"
     }
   ]
 }
