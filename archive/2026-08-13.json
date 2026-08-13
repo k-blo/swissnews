@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T10:35:56.170854+00:00",
+  "generated": "2026-08-13T10:49:43.629533+00:00",
   "date": "2026-08-13",
-  "count": 491,
+  "count": 497,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3439,6 +3439,48 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/das-sind-die-highlights-vom-wochenende-art-1716562",
       "summary": "",
       "published": "2026-08-13T10:35:56.170854+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neue Details zum Ankara-Flug: Trump liess Aussenminister Rubio im gefährdeten Flugzeug zurück",
+      "url": "https://www.tagesanzeiger.ch/ankara-trump-liess-rubio-in-air-force-one-zurueck-399854194764",
+      "summary": "Der heimliche Flugzeugwechsel des US-Präsidenten nach dem Nato-Gipfel in Ankara gibt weiterhin zu reden. US-Medien bringen neue Details ans Licht.",
+      "published": "2026-08-13T10:49:43.629533+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Solothurn verlängert eTax-Betrieb freihändig",
+      "url": "https://www.inside-it.ch/solothurn-verlaengert-etax-betrieb-freihaendig-20260813",
+      "summary": "Der Kanton setzt bis mindestens Ende 2029 auf die Steuerlösung. Ringler Informatik bleibt für Wartung und Betrieb zuständig.",
+      "published": "2026-08-13T10:49:43.629533+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Lenovo steigert Quartalsumsatz um 43%",
+      "url": "https://www.inside-it.ch/lenovo-steigert-quartalsumsatz-um-43percent-20260813",
+      "summary": "Der chinesische IT-Konzern profitierte insbesondere vom stark wachsenden Geschäft mit KI-Infrastruktur und -Lösungen.",
+      "published": "2026-08-13T10:49:43.629533+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Die Sonnenfinsternis Bringt das Stanserhorn zum Staunen",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/die-sonnenfinsternis-bringt-das-stanserhorn-zum-staunen-ld.4215146",
+      "summary": "",
+      "published": "2026-08-13T10:49:43.629533+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Social-Media-Verbot in Australien: Über 750'000 Accounts gesperrt",
+      "url": "https://www.watson.ch/digital/social-media/694273150-social-media-verbot-in-australien-ueber-750-000-accounts-gesperrt",
+      "summary": "",
+      "published": "2026-08-13T10:49:43.629533+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Magische Nacht auf dem Stanserhorn: Nicht nur die Sonnenfinsternis bringt die Menschen zum Staunen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/die-sonnenfinsternis-bringt-das-stanserhorn-zum-staunen-art-1716565",
+      "summary": "",
+      "published": "2026-08-13T10:49:43.629533+00:00"
     }
   ]
 }
