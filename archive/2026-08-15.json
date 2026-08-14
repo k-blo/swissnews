@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-14T23:00:22.186175+00:00",
+  "generated": "2026-08-14T23:31:54.364872+00:00",
   "date": "2026-08-15",
-  "count": 12,
+  "count": 13,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -86,6 +86,13 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/wahlen-zug-2026-kandidierende-kantonsrat-art-1716805",
       "summary": "",
       "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gratulation Adele Nigg zum 92geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gratulation-adele-nigg-zum-92geburtstag-ld.4216972",
+      "summary": "",
+      "published": "2026-08-14T23:31:54.364872+00:00"
     }
   ]
 }
