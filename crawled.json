@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-14T13:02:25.537327+00:00",
+  "generated": "2026-08-14T13:10:16.172834+00:00",
   "date": "2026-08-14",
-  "count": 617,
+  "count": 621,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -4321,6 +4321,34 @@
       "url": "https://www.watson.ch/schweiz/polizeirapport/985370016-parkiertes-auto-brennt-in-eschenz-tg",
       "summary": "",
       "published": "2026-08-14T13:02:25.537327+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Waadtländer Mitte entzieht Dittli weitere Unterstützung",
+      "url": "https://www.nzz.ch/schweiz/waadtlaender-mitte-entzieht-dittli-weitere-unterstuetzung-ld.10019613",
+      "summary": "",
+      "published": "2026-08-14T13:10:16.172834+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Führerausweis in der Schweiz Diese Wichtige Regel Ändert Sich 2027",
+      "url": "https://www.suedostschweiz.ch/panorama/fuehrerausweis-in-der-schweiz-diese-wichtige-regel-aendert-sich-2027-2122244",
+      "summary": "",
+      "published": "2026-08-14T13:10:16.172834+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Linda Kempf über das Floorball Uri Lager für 50 Kinder",
+      "url": "https://www.luzernerzeitung.ch/lagerdraht/linda-kempf-ueber-das-floorball-uri-lager-fuer-50-kinder-ld.4203953",
+      "summary": "",
+      "published": "2026-08-14T13:10:16.172834+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargau Stimmt über Steuern und Notstandsrecht Ab",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/aargau-stimmt-ueber-steuern-und-notstandsrecht-ab-ld.4216956",
+      "summary": "",
+      "published": "2026-08-14T13:10:16.172834+00:00"
     }
   ]
 }
