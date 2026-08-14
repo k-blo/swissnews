@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-14T22:02:01.982116+00:00",
+  "generated": "2026-08-14T22:31:48.527501+00:00",
   "date": "2026-08-15",
-  "count": 4,
+  "count": 12,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -30,6 +30,62 @@
       "url": "https://rathuus.ch/nach-der-wahl-stellt-sich-nur-noch-eine-frage-wohin-mit-baumer/",
       "summary": "",
       "published": "2026-08-14T22:02:01.982116+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Berner Musikerin Ladyva (37) schlägt Alarm: «Ich bin Opfer eines massiven Identitätsmissbrauchs geworden»",
+      "url": "https://www.blick.ch/schweiz/bern/berner-musikerin-ladyva-37-schlaegt-alarm-ich-bin-opfer-eines-massiven-identitaetsmissbrauchs-geworden-id22183714.html",
+      "summary": "Unter dem Namen der Musikerin Ladyva tauchen plötzlich KI-generierte Alben auf Spotify und Co. auf. Gleichzeitig verliert ein Fan nach einer raffinierten Betrugsmasche 6000 Franken. Die Berner Pianist",
+      "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hitzetote sollen künftig auf Totenschein vermerkt werden",
+      "url": "https://www.20min.ch/story/deutschland-hitzetote-sollen-kuenftig-auf-totenschein-vermerkt-werden-103617812",
+      "summary": "Wie viele Menschen an extremer Hitze sterben, lässt sich nur schätzen. Die Deutsche Stiftung Patientenschutz fordert deshalb eine Änderung bei Totenscheinen.",
+      "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kolumbien: 200 Mio. Dollar Soforthilfe",
+      "url": "https://www.zentralplus.ch/news/kolumbien-200-mio-dollar-soforthilfe-2892261/",
+      "summary": "Nach dem schweren Erdbeben der Stärke 7,4 in Kolumbien vom 10. August stellt die Weltbank Soforthilfe von 200 Millionen Dollar bereit. Das Geld soll die Regierung bei der Bewältigung der Folgen der Ka",
+      "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Audrey Werro trotzt der emotionalen Achterbahnfahrt und wird souverän Europameisterin über 800 m",
+      "url": "https://www.nzz.ch/sport/leichtathletik/leichtathletik-em-audrey-werro-gewinnt-em-goldmedaille-ueber-800m-ld.10019694",
+      "summary": "",
+      "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Wahlen Zug 2026 Kandidierende Grosser Gemeinderat",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/wahlen-zug-2026-kandidierende-grosser-gemeinderat-ld.4214118",
+      "summary": "",
+      "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Wahlen Zug 2026 Kandidierende Kantonsrat",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/wahlen-zug-2026-kandidierende-kantonsrat-ld.4214070",
+      "summary": "",
+      "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Das sind die Kandidierenden für den Grossen Gemeinderat der Stadt Zug",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/wahlen-zug-2026-kandidierende-grosser-gemeinderat-art-1716806",
+      "summary": "",
+      "published": "2026-08-14T22:31:48.527501+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Das sind die Kandidierenden für den Zuger Kantonsrat",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/wahlen-zug-2026-kandidierende-kantonsrat-art-1716805",
+      "summary": "",
+      "published": "2026-08-14T22:31:48.527501+00:00"
     }
   ]
 }
