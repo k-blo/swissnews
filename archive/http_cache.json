@@ -4,36 +4,36 @@
     "etag": "\"9965933dfeeb26354a198e5af5ae7bad\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"182a7-Go/cZVCWwREPDlCn4HGaio+E3wI\""
+    "etag": "W/\"182a6-5iJaaH0ZLXOtyRKw/W2XWW1SL80\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"bf6e-QYcXqz1mOXulAVrMIf8dl9a/KpM\""
+    "etag": "W/\"bf6e-8XLBjJTD6HRsHQnjL3DjopQ5XZI\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"d327-E4dRGoiK2/DIVbqdvwC0UXBHK5o\""
+    "etag": "W/\"d326-DVflopvm+XY5KHd86O9hZkVTIo0\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Fri, 14 Aug 2026 15:56:49 GMT"
+    "last_modified": "Fri, 14 Aug 2026 16:02:30 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Fri, 14 Aug 2026 16:00:55 GMT"
+    "last_modified": "Fri, 14 Aug 2026 16:09:40 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Fri, 14 Aug 2026 14:42:20 GMT",
     "etag": "\"1786718540\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Fri, 14 Aug 2026 15:57:48 GMT"
+    "last_modified": "Fri, 14 Aug 2026 16:07:49 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"d40d-l0mGY0oOzMCCG1+0bb5x7l+z0PQ\""
+    "etag": "W/\"d449-lkoe/MTmVcl1hMpcfaCLKpwdA8Y\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"cd29-zfArwxVhYUGwoNX+q3nvewspWF4\""
+    "etag": "W/\"cd66-K2z5axlvr/XtkGeeShYe5S2+DSo\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Fri, 14 Aug 2026 15:56:52 GMT",
@@ -51,15 +51,15 @@
     "etag": "\"1786652199\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Fri, 14 Aug 2026 16:00:45 GMT",
-    "etag": "W/\"1786723245-gzip\""
+    "last_modified": "Fri, 14 Aug 2026 16:05:53 GMT",
+    "etag": "W/\"1786723553-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"1dd5c-4bp+bP3RSl2ELVZmYu5wM/EF7RU\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Fri, 14 Aug 2026 15:56:00 GMT",
-    "etag": "\"1786722960\""
+    "last_modified": "Fri, 14 Aug 2026 16:06:00 GMT",
+    "etag": "\"1786723560\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Fri, 31 Jul 2026 14:09:59 GMT",
