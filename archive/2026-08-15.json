@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T11:53:53.101752+00:00",
+  "generated": "2026-08-15T12:01:46.328901+00:00",
   "date": "2026-08-15",
-  "count": 408,
+  "count": 409,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2858,6 +2858,13 @@
       "url": "https://www.watson.ch/international/natur/409483264-ungarn-will-donau-wasserstand-durch-versenken-von-lastkaehnen-heben",
       "summary": "",
       "published": "2026-08-15T11:53:53.101752+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Jahresausflug der Wandergruppe Ursus & Viktor",
+      "url": "https://www.freiburger-nachrichten.ch/story/282593/jahresausflug-der-wandergruppe-ursus-viktor",
+      "summary": "",
+      "published": "2026-08-15T12:01:46.328901+00:00"
     }
   ]
 }
