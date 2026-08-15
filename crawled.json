@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T01:02:12.074220+00:00",
+  "generated": "2026-08-15T01:26:45.176362+00:00",
   "date": "2026-08-15",
-  "count": 73,
+  "count": 74,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -513,6 +513,13 @@
       "url": "https://www.bernerzeitung.ch/tsunami-warnung-erdbeben-der-staerke-7-7-erschuettert-indonesien-263662235160",
       "summary": "Vor der indonesischen Insel Flores kam es zu einem schweren Erdbeben. Es gilt auch eine Tsunami-Warnung.",
       "published": "2026-08-15T01:02:12.074220+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Timothé Mumenthaler: Die vollmundige Ansage kann er nicht erfüllen – aber es gibt immerhin Bronze",
+      "url": "https://www.tagesanzeiger.ch/leichtathletik-em-mumenthaler-holt-bronze-ueber-200-meter-136511646753",
+      "summary": "Der Genfer Sprinter wird an der Leichtathletik-EM über 200 Meter Dritter. Gold geht an den Deutschen Owen Ansah, dem allerdings eine Dopingsperre droht.",
+      "published": "2026-08-15T01:26:45.176362+00:00"
     }
   ]
 }
