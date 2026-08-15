@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T15:31:47.438267+00:00",
+  "generated": "2026-08-15T15:45:12.700061+00:00",
   "date": "2026-08-15",
-  "count": 504,
+  "count": 508,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3530,6 +3530,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/281659/peter-herrens-erste-weine-%C3%BCberzeugen-auf-anhieb",
       "summary": "",
       "published": "2026-08-15T15:31:47.438267+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Tragödie in Hergiswil NW: Mann (†57) stürzt am Tomlishorn ab – tot",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/nidwalden/tragoedie-in-hergiswil-nw-mann-57-stuerzt-am-tomlishorn-ab-tot-id22185311.html",
+      "summary": "Am Donnerstag hat sich beim Pilatus, unterhalb des Tomlishorn, ein Bergunfall ereignet. Ein 57-jähriger Berggänger ist im steilen Gelände abgestürzt und hat sich dabei tödliche Verletzungen zugezogen.",
+      "published": "2026-08-15T15:45:12.700061+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Rucksack entdeckt – Berggänger (57) stürzt am Pilatus in den Tod",
+      "url": "https://www.20min.ch/story/tomlishorn-rucksack-entdeckt-berggaenger-57-stuerzt-am-pilatus-in-den-tod-103617992",
+      "summary": "Ein 57-jähriger Aargauer ist unterhalb des Tomlishorns tödlich verunglückt. Ein gefundener Rucksack führte die Einsatzkräfte zum leblosen Mann.",
+      "published": "2026-08-15T15:45:12.700061+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "57-jähriger Berggänger stürzt am Pilatus in den Tod",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/183107148-57-jaehriger-berggaenger-stuerzt-am-pilatus-in-den-tod",
+      "summary": "",
+      "published": "2026-08-15T15:45:12.700061+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rüdiger Safranski kritisiert in neuem Buch die Vermenschlichung der KI",
+      "url": "https://www.watson.ch/digital/international/325359523-ruediger-safranski-kritisiert-in-neuem-buch-die-vermenschlichung-der-ki",
+      "summary": "",
+      "published": "2026-08-15T15:45:12.700061+00:00"
     }
   ]
 }
