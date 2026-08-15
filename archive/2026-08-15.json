@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T06:55:10.227155+00:00",
+  "generated": "2026-08-15T07:02:09.540722+00:00",
   "date": "2026-08-15",
-  "count": 274,
+  "count": 275,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1920,6 +1920,13 @@
       "url": "https://www.watson.ch/international/luftfahrt/677639684-easyjet-rund-hundert-fluege-wegen-streiks-in-frankreich-gestrichen",
       "summary": "",
       "published": "2026-08-15T06:55:10.227155+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Tobende Kinder und entspannte Eltern",
+      "url": "https://www.freiburger-nachrichten.ch/story/270824/tobende-kinder-und-entspannte-eltern",
+      "summary": "",
+      "published": "2026-08-15T07:02:09.540722+00:00"
     }
   ]
 }
