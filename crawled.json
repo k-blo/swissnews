@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T17:02:09.251963+00:00",
+  "generated": "2026-08-15T17:06:57.583283+00:00",
   "date": "2026-08-15",
-  "count": 539,
+  "count": 542,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3775,6 +3775,27 @@
       "url": "https://www.watson.ch/international/science-news/907774452-studie-aus-puerto-rico-regenwald-resilienter-gegen-duerre-als-erwartet",
       "summary": "",
       "published": "2026-08-15T17:02:09.251963+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kurzfilm «zrugg» – Erfolg mit Wolfsfilm: Schwyzer Filmemacher in Locarno",
+      "url": "https://www.srf.ch/news/schweiz/kurzfilm-zrugg-erfolg-mit-wolfsfilm-schwyzer-filmemacher-in-locarno",
+      "summary": "Der Filmmacher Lars Mulle zeigt in seinem Film den Konflikt zwischen Mensch und Wolf – nun auch am Festival in Locarno.",
+      "published": "2026-08-15T17:06:57.583283+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Tragödie im Engadin: Person stirbt nach Unfall mit Pferdekutsche im Rosegtal GR",
+      "url": "https://www.blick.ch/schweiz/graubuenden/tragoedie-im-engadin-person-stirbt-nach-unfall-mit-pferdekutsche-im-rosegtal-gr-id22184205.html",
+      "summary": "Bei einem Ausflug einer Reisegruppe kam es am Samstagnachmittag zu einem tödlichen Unfal im Rosegtal. Eine Person starb während einer Kutschenfahrt, zwölf weitere wurden teils schwer verletzt.",
+      "published": "2026-08-15T17:06:57.583283+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kälin hofft auf Exploit zum Abschluss – Sprintstaffel peilt Medaille an",
+      "url": "https://www.watson.ch/sport/leichtathletik/285550220-kaelin-hofft-auf-exploit-zum-abschluss-sprintstaffel-peilt-medaille-an",
+      "summary": "",
+      "published": "2026-08-15T17:06:57.583283+00:00"
     }
   ]
 }
