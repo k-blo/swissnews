@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T02:03:18.653786+00:00",
+  "generated": "2026-08-15T02:32:12.754675+00:00",
   "date": "2026-08-15",
-  "count": 75,
+  "count": 95,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -527,6 +527,146 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/glosse-weinfeldens-schulraum-wird-knapp-wegen-steigender-schuelerzahlen-ld.4215776",
       "summary": "",
       "published": "2026-08-15T02:03:18.653786+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jeff Bezos steigt bei Liverpool ein",
+      "url": "https://www.20min.ch/story/england-jeff-bezos-steigt-bei-liverpool-ein-103617822",
+      "summary": "Amazon-Chef Jeff Bezos steigt beim englischen Spitzenclub ein. FSG kassiert laut BBC für 30 Prozent zwischen 1,5 und 1,8 Milliarden Euro.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Absolut historisch»: Das steht für Deutschland auf dem Spiel",
+      "url": "https://www.20min.ch/story/analyse-absolut-historisch-das-steht-fuer-deutschland-auf-dem-spiel-103617651",
+      "summary": "Gelingt der AfD am 6. September in Sachsen-Anhalt die absolute Mehrheit, wäre das laut Politikwissenschaftler Albrecht von Lucke eine historischen Zäsur. Im Interview erklärt er die Bedeutung der Wahl",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Die AfD will an die Macht: Deutschland schaut nach Sachsen-Anhalt",
+      "url": "https://www.20min.ch/story/landtagswahl-die-afd-will-an-die-macht-deutschland-schaut-nach-sachsen-anhalt-103617560",
+      "summary": "Am 6. September wird in Sachsen-Anhalt ein neuer Landtag gewählt. Alles deutet auf einen historischen Sieg der AfD hin.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ex-Cambridge-Professor Jason Arday tot",
+      "url": "https://www.zentralplus.ch/news/ex-cambridge-professor-jason-arday-tot-2892265/",
+      "summary": "Der ehemalige Cambridge-Professor Jason Arday ist im Alter von 41 Jahren tot aufgefunden worden. Der Brite war am Freitag im Süden Londons in einem Gebäude entdeckt worden. Die Todesursache ist zunäch",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schaffhauser Marathonläuferin Fabienne Vonlanthen startet bei Leichtathletik-EM in Birmingham",
+      "url": "https://www.shn.ch/sport/leichtathletik/2026-08-15/schaffhauser-marathonlaeuferin-fabienne-vonlanthen-startet-bei",
+      "summary": "Langstreckenläuferin Fabienne Vonlanthen bestreitet am Sonntag den Marathon bei der Leichtathletik-EM.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Roland Vögeli ist der Weinländer «Schulpolizist» – seinen Job macht er «aus Berufung»",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-08-15/roland-voegeli-ist-der-weinlaender-schulpolizist-seinen-job",
+      "summary": "Roland Vögeli ist seit 2015 als Verkehrsinstruktor für die Kantonspolizei Zürich tätig, seit einem Jahr fast ausschliesslich im Bezirk Andelfingen. Kommende Woche beginnt auch für ihn das neue Schulja",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Jetzt kühlen Kopf bewahren",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-08-15/jetzt-kuehlen-kopf-bewahren",
+      "summary": "Die Hitze der letzten Monate hat den Menschen und der Natur zugesetzt. Dennoch müssen wir nun mit Nüchternheit unsere Schlüsse ziehen. Ideologie hilft nicht, es braucht Realismus. Und mehr Energie.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Pop-away statt Pop-up: Zum Ende einer Gastro-Idee in der Stadt Schaffhausen",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-08-15/pop-away-statt-pop-up-zum-ende-einer-gastro-idee-in-der-stadt",
+      "summary": "Die Bockalp verschwindet nach acht Jahren vom Herrenacker. Manche finden das schade, aber es ist kein Grund für dicke Tränen im Fondue-Caquelon: Pop-ups kommen und gehen – und andere Gastroverluste wi",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "EU-Verträge: Und plötzlich droht ein vorzeitiges Ende",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-08-15/eu-vertraege-und-ploetzlich-droht-ein-vorzeitiges-ende",
+      "summary": "Der Bundesrat will kein Ständemehr zulassen, wenn über die Verträge mit der EU abgestimmt wird. Und nun droht auch noch Opposition von linker Seite.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Neuhausens «grüne Lunge»: So soll der neue Burgunpark aussehen",
+      "url": "https://www.shn.ch/region/neuhausen/2026-08-15/neuhausens-gruene-lunge-so-soll-der-neue-burgunpark-aussehen",
+      "summary": "Wasser, Wäldchen, Spiel- und Sportmöglichkeiten – der Neuhauser Gemeinderat hat das Projekt «Burgunpark 2026 plus» ausgearbeitet. Nun soll der Einwohnerrat darüber befinden.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Viele Derbys stehen an: Schaffhauser Fussballklubs starten in den FVRZ-Cup",
+      "url": "https://www.shn.ch/sport/fussball/2026-08-15/viele-derbys-stehen-an-schaffhauser-fussballklubs-starten-in-den-fvrz-cup",
+      "summary": "Für viele Schaffhauser Klubs steht an diesem Wochenende im Regionalcup der erste Ernstkampf der neuen Saison an.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der FC Schaffhausen ist zum Start im Schweizer Cup am Bodensee gefordert",
+      "url": "https://www.shn.ch/sport/fussball/2026-08-15/der-fc-schaffhausen-ist-zum-start-im-schweizer-cup-am-bodensee-gefordert",
+      "summary": "Nach zwei Siegen aus den ersten beiden Ligaspielen gastiert der FCS am Samstag im Cup beim FC Rorschach-Goldach.",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ein Fast Perfekter Abend am Egelsee",
+      "url": "https://www.suedostschweiz.ch/linth/ein-fast-perfekter-abend-am-egelsee-2121996",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Hier Staut es Sich das Sind die Grössten Nadelöhre auf Bündner Strassen",
+      "url": "https://www.suedostschweiz.ch/graubuenden/hier-staut-es-sich-das-sind-die-groessten-nadeloehre-auf-buendner-strassen-2118643",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Graffiti Hunter Verlässt das Glarnerland",
+      "url": "https://www.suedostschweiz.ch/glarus/graffiti-hunter-verlaesst-das-glarnerland-2121722",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Die Bühlschanze ob Schwanden das ist vom Ort Übrig Wo Einst Mutige Skispringer Richtung Tal Abhoben",
+      "url": "https://www.suedostschweiz.ch/glarus/die-buehlschanze-ob-schwanden-das-ist-vom-ort-uebrig-wo-einst-mutige-skispringer-richtung-tal-abhoben-1263453",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Bodensee Cup Turku Zsc Lugano und Wild Wings Beim 10 Jubiläum",
+      "url": "https://www.tagblatt.ch/sport/thurgau/bodensee-cup-turku-zsc-lugano-und-wild-wings-beim-10-jubilaeum-ld.4217226",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Weinfelden Schaltet Strassenlampen Wieder Länger ein",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/weinfelden-schaltet-strassenlampen-wieder-laenger-ein-ld.4216750",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Münchwilen Zusatzkredit für Mehrzweckhalle Oberhofen Umstritten",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/muenchwilen-zusatzkredit-fuer-mehrzweckhalle-oberhofen-umstritten-ld.4214954",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Mosttröpfli als es zum Thurgauer Schulstart Noch Kalt War",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/mosttroepfli-als-es-zum-thurgauer-schulstart-noch-kalt-war-ld.4216058",
+      "summary": "",
+      "published": "2026-08-15T02:32:12.754675+00:00"
     }
   ]
 }
