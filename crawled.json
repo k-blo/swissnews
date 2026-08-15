@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T00:31:59.500149+00:00",
+  "generated": "2026-08-15T01:02:12.074220+00:00",
   "date": "2026-08-15",
-  "count": 71,
+  "count": 73,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -499,6 +499,20 @@
       "url": "https://www.zugerzeitung.ch/zentralschweiz/wahlen-zug/portraet-sarina-baumberger-zug-wahlen-2026-ld.4217573",
       "summary": "",
       "published": "2026-08-15T00:31:59.500149+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Erdbeben erschüttert Insel Flores - Tsunami-Warnung ausgelöst",
+      "url": "https://www.20min.ch/story/indonesien-erdbeben-erschuettert-insel-flores-tsunami-warnung-ausgerufen-103617820",
+      "summary": "Vor Flores ereignete sich ein Erdbeben der Stärke 7,7. Die Behörden warnen vor bis zu drei Meter hohen Tsunami-Wellen.",
+      "published": "2026-08-15T01:02:12.074220+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Indonesien: Schweres Erdbeben erschüttert Flores – Tsunami-Warnung ausgerufen",
+      "url": "https://www.bernerzeitung.ch/tsunami-warnung-erdbeben-der-staerke-7-7-erschuettert-indonesien-263662235160",
+      "summary": "Vor der indonesischen Insel Flores kam es zu einem schweren Erdbeben. Es gilt auch eine Tsunami-Warnung.",
+      "published": "2026-08-15T01:02:12.074220+00:00"
     }
   ]
 }
