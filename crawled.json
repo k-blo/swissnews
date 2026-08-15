@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T19:02:14.543629+00:00",
+  "generated": "2026-08-15T19:15:16.432573+00:00",
   "date": "2026-08-15",
-  "count": 581,
+  "count": 583,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4069,6 +4069,20 @@
       "url": "https://www.watson.ch/international/food/180967411-deutscher-vegi-koch-serviert-neu-waschbaer-so-soll-er-schmecken",
       "summary": "",
       "published": "2026-08-15T19:02:14.543629+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Punks, Sputnik, Jugendliche im Shoppingcenter – die SRG macht alte Sendungen besser zugänglich",
+      "url": "https://www.nzz.ch/panorama/punks-sputnik-jugendliche-im-shoppingcenter-die-srg-macht-alte-sendungen-besser-zugaenglich-ld.10019535",
+      "summary": "",
+      "published": "2026-08-15T19:15:16.432573+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Der Fc Äsch Verliert im Schweizer Cup 15 Gegen Langenthal",
+      "url": "https://www.bzbasel.ch/sport/basel/der-fc-aesch-verliert-im-schweizer-cup-15-gegen-langenthal-ld.4216840",
+      "summary": "",
+      "published": "2026-08-15T19:15:16.432573+00:00"
     }
   ]
 }
