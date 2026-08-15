@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T22:02:21.135447+00:00",
+  "generated": "2026-08-15T22:31:56.528228+00:00",
   "date": "2026-08-16",
-  "count": 1,
+  "count": 7,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -9,6 +9,48 @@
       "url": "https://www.freiburger-nachrichten.ch/story/280873/vom-nebengleis-zum-halbstundentakt",
       "summary": "",
       "published": "2026-08-15T22:02:21.135447+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Einfahrt gesperrt: Auto stand auf der Raststätte Pratteln-Nord in Vollbrand",
+      "url": "https://www.blick.ch/schweiz/basel-landschaft/einfahrt-gesperrt-auto-stand-auf-der-raststaette-pratteln-nord-in-vollbrand-id22185779.html",
+      "summary": "Spektakulärer Autobrand auf der Raststätte Pratteln-Nord: Verletzt wurde niemand.",
+      "published": "2026-08-15T22:31:56.528228+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Ex-Banker auf der Anklagebank: Tinder und die Doppelmoral des Pierin Vincenz",
+      "url": "https://www.blick.ch/wirtschaft/ex-banker-auf-der-anklagebank-tinder-und-die-doppelmoral-des-pierin-vincenz-id22185308.html",
+      "summary": "Pierin Vincenz predigte Masshalten und sauberes Banking. Gleichzeitig kassierte er Millionen und tätigte verdeckte Geschäfte. Der Berufungsprozess zeigt die Widersprüche des früheren Vorzeigebankers –",
+      "published": "2026-08-15T22:31:56.528228+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Editorial von SonntagsBlick-Stv. Fabian Eberhard: Danke, Hitzesommer!",
+      "url": "https://www.blick.ch/meinung/editorial-von-sonntagsblick-stv-fabian-eberhard-danke-hitzesommer-id22184397.html",
+      "summary": "Volle Spitäler, leere Flüsse, verdorrte Felder: Der Jahrhundertsommer zwingt die Politik zum Umdenken. Gut so.",
+      "published": "2026-08-15T22:31:56.528228+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Städte wollen Hilfe vom Bund: «Das können die Städte nicht alleine stemmen»",
+      "url": "https://www.blick.ch/schweiz/staedte-wollen-hilfe-vom-bund-das-koennen-die-staedte-nicht-alleine-stemmen-id22184910.html",
+      "summary": "Die Städte heizen sich besonders schnell auf. Anpassungen an den Klimawandel sind teuer und aufwendig. Deshalb fordert der Präsident des Schweizer Städteverbands jetzt einen nationalen Kraftakt.",
+      "published": "2026-08-15T22:31:56.528228+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Extremtemperaturen – Bund soll helfen!: Schweizer Städte fordern nationalen Hitze-Aktionsplan",
+      "url": "https://www.blick.ch/incoming/extremtemperaturen-bund-soll-helfen-schweizer-staedte-fordern-nationalen-hitze-aktionsplan-id22184905.html",
+      "summary": "Glasfassaden, Steinhäuser und versiegelte Böden machen Städte zu Backöfen. Es gibt Lösungen – aber die Umsetzung harzt. Jetzt ruft der Städteverband zum nationalen Kraftakt.",
+      "published": "2026-08-15T22:31:56.528228+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Silber für die Schweizer Sprinterinnen: Das nächste Staffel-Drama bahnt sich an  – dann zündet Kora den Turbo",
+      "url": "https://www.tagesanzeiger.ch/sprintstaffel-schweizerinnen-holen-silber-in-birmingham-538992004570",
+      "summary": "Die Schweizer Staffelsprinterinnen holen endlich eine Medaille – doch es geht nicht ohne Drama. Es ist das Ende einer langen Wartezeit mit vielen Rückschlägen.",
+      "published": "2026-08-15T22:31:56.528228+00:00"
     }
   ]
 }
