@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T08:22:10.695678+00:00",
+  "generated": "2026-08-15T08:31:49.262158+00:00",
   "date": "2026-08-15",
-  "count": 307,
+  "count": 313,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2151,6 +2151,48 @@
       "url": "https://www.bote.ch/nachrichten/sport/viktor-roethlin-fordert-von-kyburz-in-birmingham-volles-risiko-art-1716825",
       "summary": "",
       "published": "2026-08-15T08:22:10.695678+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mindestens 20 Tote und 6 Schwerverletzte nach heftigem Erdbeben",
+      "url": "https://www.20min.ch/story/indonesien-mindestens-20-tote-und-6-schwerverletzte-nach-heftigem-erdbeben-103617866",
+      "summary": "Vor der auch bei Touristen beliebten indonesischen Insel Flores kommt es zu einem sehr schweren Erdbeben. Zeitweise galt auch eine Tsunami-Warnung.",
+      "published": "2026-08-15T08:31:49.262158+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nächtliches Erdbeben in Andalusien",
+      "url": "https://www.zentralplus.ch/news/naechtliches-erdbeben-in-andalusien-2892286/",
+      "summary": "Ein Erdbeben hat am frühen Samstagmorgen die südspanische Stadt Granada erschüttert. Das Nationale Geographische Institut gab die Stärke mit 5,0 an. Beim Beben seien an Häusern und Autos Schäden entst",
+      "published": "2026-08-15T08:31:49.262158+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Erdbeben der Stärke 7,7 in Indonesien: Mindestens 20 Personen ums Leben gekommen",
+      "url": "https://www.nzz.ch/panorama/erdbeben-der-staerke-77-in-indonesien-mindestens-20-personen-ums-leben-gekommen-ld.10019699",
+      "summary": "",
+      "published": "2026-08-15T08:31:49.262158+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Werkmatt Uri Erschliessungsetappe 2a Abgeschlossen",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/werkmatt-uri-erschliessungsetappe-2a-abgeschlossen-ld.4216994",
+      "summary": "",
+      "published": "2026-08-15T08:31:49.262158+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Grossprojekt im Urner Talboden schreitet weiter voran",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/werkmatt-uri-erschliessungsetappe-2a-abgeschlossen-art-1716827",
+      "summary": "",
+      "published": "2026-08-15T08:31:49.262158+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "UKB baut Aussen-Bancomat in Altdorf ab",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ukb-baut-aussen-bancomat-in-altdorf-ab-art-1716826",
+      "summary": "",
+      "published": "2026-08-15T08:31:49.262158+00:00"
     }
   ]
 }
