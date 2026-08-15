@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T22:31:56.528228+00:00",
+  "generated": "2026-08-15T23:01:58.371855+00:00",
   "date": "2026-08-16",
-  "count": 7,
+  "count": 8,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -51,6 +51,13 @@
       "url": "https://www.tagesanzeiger.ch/sprintstaffel-schweizerinnen-holen-silber-in-birmingham-538992004570",
       "summary": "Die Schweizer Staffelsprinterinnen holen endlich eine Medaille – doch es geht nicht ohne Drama. Es ist das Ende einer langen Wartezeit mit vielen Rückschlägen.",
       "published": "2026-08-15T22:31:56.528228+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "ADHS-Diagnosen durch Praktikanten? Basler Klinik unter Druck",
+      "url": "https://www.20min.ch/story/schweiz-adhs-abklaerungen-durch-praktikanten-basler-klinik-unter-druck-103618034",
+      "summary": "Über Jahre sollen Praktikanten ADHS-Abklärungen weitgehend allein durchgeführt haben. Nun stehen zahlreiche Diagnosen infrage.",
+      "published": "2026-08-15T23:01:58.371855+00:00"
     }
   ]
 }
