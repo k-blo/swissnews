@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T19:02:06.471080+00:00",
+  "generated": "2026-08-16T19:06:50.564313+00:00",
   "date": "2026-08-16",
-  "count": 513,
+  "count": 516,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3593,6 +3593,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/die-teenager-sorgen-im-saegemehl-in-lauerz-fuer-aufsehen-art-1716883",
       "summary": "",
       "published": "2026-08-16T19:02:06.471080+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Kinos in Schöftland und Olten Verzeichnen Mehr Publikum",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/kinos-in-schoeftland-und-olten-verzeichnen-mehr-publikum-ld.4217890",
+      "summary": "",
+      "published": "2026-08-16T19:06:50.564313+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Liveticker der Fc Wil Gewinnt im Cup Auswärts Beim Fc Rebstein mit 62",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/liveticker-der-fc-wil-gewinnt-im-cup-auswaerts-beim-fc-rebstein-mit-62-ld.4213832",
+      "summary": "",
+      "published": "2026-08-16T19:06:50.564313+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach 36 Hitzetagen bleibt die Trockenheit ein Thema",
+      "url": "https://www.bote.ch/nachrichten/schwyz/nach-36-hitzetagen-bleibt-die-trockenheit-ein-thema-art-1716884",
+      "summary": "",
+      "published": "2026-08-16T19:06:50.564313+00:00"
     }
   ]
 }
