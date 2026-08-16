@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T02:01:54.508926+00:00",
+  "generated": "2026-08-16T02:08:13.946135+00:00",
   "date": "2026-08-16",
-  "count": 14,
+  "count": 15,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,13 @@
       "url": "https://www.nzz.ch/panorama/hitze-in-europa-waldbrand-im-hohen-venn-kommt-deutscher-grenze-gefaehrlich-nahe-ld.10008673",
       "summary": "",
       "published": "2026-08-16T02:01:54.508926+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Flohmi in Schaffhausen: Schätze, so weit das Auge reicht",
+      "url": "https://www.shn.ch/region/stadt/2026-08-16/flohmi-in-schaffhausen-schaetze-so-weit-das-auge-reicht",
+      "summary": "Die Vereinigung Pro City organisierte einen Flohmarkt in der Stadt. Was da alles zu finden war – und wieso die Standbetreiber sich von Gegenständen trennen.",
+      "published": "2026-08-16T02:08:13.946135+00:00"
     }
   ]
 }
