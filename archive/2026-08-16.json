@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T03:01:50.190869+00:00",
+  "generated": "2026-08-16T03:12:26.900628+00:00",
   "date": "2026-08-16",
-  "count": 44,
+  "count": 46,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -310,6 +310,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/kolumne-stadtwaerts-ueber-den-nutzen-von-billettautomaten-art-1716846",
       "summary": "",
       "published": "2026-08-16T03:01:50.190869+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Luzern fördert «reiche Expat-Kinder» – trotz Chancenlücke",
+      "url": "https://www.zentralplus.ch/beruf-und-bildung/luzern-foerdert-reiche-expat-kinder-trotz-chancenluecke-2890172/",
+      "summary": "Der Kanton will internationale Schulen mit bis zu 1,5 Millionen Franken jährlich unterstützen. Gleichzeitig hängt der Bildungserfolg noch immer stark vom Elternhaus ab. Bildungsexperten erklären, wo L",
+      "published": "2026-08-16T03:12:26.900628+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Wenn man sich weniger leisten kann, als man möchte, muss man eben sein Potenzial besser ausschöpfen», sagt die erste Immofluencerin der Schweiz",
+      "url": "https://www.nzz.ch/zuerich/immobilien-influencerin-gentiana-ahmeti-villen-und-die-sicht-der-hausbesitzer-ld.10017996",
+      "summary": "",
+      "published": "2026-08-16T03:12:26.900628+00:00"
     }
   ]
 }
