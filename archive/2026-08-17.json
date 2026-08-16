@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T22:02:33.372172+00:00",
+  "generated": "2026-08-16T22:31:33.950515+00:00",
   "date": "2026-08-17",
-  "count": 6,
+  "count": 7,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -44,6 +44,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/281558/gefeiert-am-ort-des-gemetzels",
       "summary": "",
       "published": "2026-08-16T22:02:33.372172+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Erfolgreiche Prüfung für Schweisshunde",
+      "url": "https://www.bote.ch/nachrichten/vereine/erfolgreiche-pruefung-fuer-schweisshunde-art-1716771",
+      "summary": "",
+      "published": "2026-08-16T22:31:33.950515+00:00"
     }
   ]
 }
