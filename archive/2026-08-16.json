@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T05:31:45.786557+00:00",
+  "generated": "2026-08-16T06:02:16.887252+00:00",
   "date": "2026-08-16",
-  "count": 90,
+  "count": 95,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -632,6 +632,41 @@
       "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-moskau-meldet-ukrainischen-drohnenangriff-russischer-angriff-toetet-baby-ld.10009803",
       "summary": "",
       "published": "2026-08-16T05:31:45.786557+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Schwägalp-Schwinget: Setzt Fabian Staudenmann seinen Lauf fort?",
+      "url": "https://www.bernerzeitung.ch/schwaegalp-schwinget-setzt-fabian-staudenmann-seinen-lauf-fort-137212120960",
+      "summary": "Auf der Schwägalp findet heute das letzte Bergkranzfest der Saison statt – es ist der letzte Gradmesser vor dem Kilchberger Schwinget Anfang September. Wir berichten live.",
+      "published": "2026-08-16T06:02:16.887252+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Iran-Krieg: Libanon meldet Tote Angriffen im Süden des Landes​​​ +++ Trump will Strasse von Hormuz zu US-Territorium machen",
+      "url": "https://www.nzz.ch/international/iran-krieg-libanon-meldet-tote-angriffen-im-sueden-des-landes-trump-will-strasse-von-hormuz-zu-us-territorium-machen-ld.10009801",
+      "summary": "",
+      "published": "2026-08-16T06:02:16.887252+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Aktien Verkaufen Warum es Investoren So Schwerfällt",
+      "url": "https://www.bilanz.ch/invest/aktien/aktien-verkaufen-warum-es-investoren-so-schwerfaellt/xn03l5x",
+      "summary": "",
+      "published": "2026-08-16T06:02:16.887252+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Drohnen-Ärger beim Bund: Das berichten die Sonntagszeitunge n",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/780620132-drohnen-aerger-beim-bund-das-berichten-die-sonntagszeitunge-n",
+      "summary": "",
+      "published": "2026-08-16T06:02:16.887252+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Airlines in der Kritik, Hunde unrechtmässig getötet und Praktikanten diagnostizieren ADHS",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/sonntagspresse-airlines-hunde-und-adhs-art-1716851",
+      "summary": "",
+      "published": "2026-08-16T06:02:16.887252+00:00"
     }
   ]
 }
