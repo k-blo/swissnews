@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T04:01:41.173733+00:00",
+  "generated": "2026-08-16T04:31:42.367343+00:00",
   "date": "2026-08-16",
-  "count": 75,
+  "count": 79,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -527,6 +527,34 @@
       "url": "https://www.bote.ch/nachrichten/sport/silber-fuer-schweizer-staffel-meilenstein-fuer-den-frauensprint-art-1716849",
       "summary": "",
       "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Phänomen Prokrastination: Wer später schläft, schiebt länger auf",
+      "url": "https://www.tagesanzeiger.ch/prokrastination-warum-abendtypen-mehr-aufschieben-387194486420",
+      "summary": "Eine japanische Studie zeigt, warum chronisches Aufschieben und spätes Aktivwerden zusammenhängen. Dahinter steckt mehr als blosse Faulheit.",
+      "published": "2026-08-16T04:31:42.367343+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bildkolumne Schnappschuss: Pierin Vincenz und seine traurige Bally-Tasche",
+      "url": "https://www.tagesanzeiger.ch/pierin-vincenz-die-bally-tasche-als-symbol-des-untergangs-926307350820",
+      "summary": "Der ehemalige Bänkler trägt beim aktuellen Prozess dasselbe Modell wie bei der Verhandlung vor vier Jahren. Natürlich ist das kein Zufall – aber ein schlechtes Omen.",
+      "published": "2026-08-16T04:31:42.367343+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hitze-Aktionsplan für Städte gefordert",
+      "url": "https://www.zentralplus.ch/news/hitze-aktionsplan-fuer-staedte-gefordert-2892356/",
+      "summary": "Der Präsident des Schweizer Städteverbandes, Hanspeter Hilfiker von der FDP, fordert in einem Interview mit dem «Sonntagsblick» einen nationalen Hitze-Aktionsplan. Zum Beispiel soll es einfacher werde",
+      "published": "2026-08-16T04:31:42.367343+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schon wieder will ein Millionär nach Luzern",
+      "url": "https://www.zentralplus.ch/news/schon-wieder-will-ein-millionaer-nach-luzern-2892315/",
+      "summary": "Ein norwegischer Millionär will nach Luzern ziehen. Er ist nicht der erste, den die attraktiven Steuern locken. Der norwegische Millionär Stian Rustad will nach Luzern ziehen. Berichten von «20 Minute",
+      "published": "2026-08-16T04:31:42.367343+00:00"
     }
   ]
 }
