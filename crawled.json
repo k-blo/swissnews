@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T03:12:26.900628+00:00",
+  "generated": "2026-08-16T03:31:39.589691+00:00",
   "date": "2026-08-16",
-  "count": 46,
+  "count": 47,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -324,6 +324,13 @@
       "url": "https://www.nzz.ch/zuerich/immobilien-influencerin-gentiana-ahmeti-villen-und-die-sicht-der-hausbesitzer-ld.10017996",
       "summary": "",
       "published": "2026-08-16T03:12:26.900628+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Optimismus im Schicksalsjahr für die Christliche Sozialbewegung KAB",
+      "url": "https://www.freiburger-nachrichten.ch/story/278111/optimismus-im-schicksalsjahr-f%C3%BCr-die-christliche-sozialbewegung-kab",
+      "summary": "",
+      "published": "2026-08-16T03:31:39.589691+00:00"
     }
   ]
 }
