@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T01:31:44.401397+00:00",
+  "generated": "2026-08-16T02:01:54.508926+00:00",
   "date": "2026-08-16",
-  "count": 12,
+  "count": 14,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -86,6 +86,20 @@
       "url": "https://www.20min.ch/story/flughafen-muenchen-das-war-eng-vietnam-flug-hat-massive-startschwierigkeiten-103618036",
       "summary": "Eine Boeing 787 hebt in München ungewöhnlich spät ab. Wegen technischer Probleme muss sie danach umkehren.",
       "published": "2026-08-16T01:02:07.395740+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "72 Tote bei Fährenunglück in Simbabwe",
+      "url": "https://www.zentralplus.ch/news/72-tote-bei-faehrenunglueck-in-simbabwe-2892354/",
+      "summary": "In Simbabwe ist die Opferzahl nach dem Kentern einer Fähre auf 72 gestiegen. Unter den Toten seien auch 18 Kinder, teilten die Behörden mit. Das Unglück auf dem Kariba-See hatte sich bereits am Dienst",
+      "published": "2026-08-16T02:01:54.508926+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Hitze in Europa: Waldbrand im Hohen Venn kommt deutscher Grenze gefährlich nahe",
+      "url": "https://www.nzz.ch/panorama/hitze-in-europa-waldbrand-im-hohen-venn-kommt-deutscher-grenze-gefaehrlich-nahe-ld.10008673",
+      "summary": "",
+      "published": "2026-08-16T02:01:54.508926+00:00"
     }
   ]
 }
