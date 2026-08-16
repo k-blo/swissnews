@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T14:31:43.064753+00:00",
+  "generated": "2026-08-16T14:50:16.577351+00:00",
   "date": "2026-08-16",
-  "count": 356,
+  "count": 368,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2494,6 +2494,90 @@
       "url": "https://www.bote.ch/nachrichten/kultur/trump-putin-musk-die-tate-brueder-was-ist-nur-mit-den-maennern-los-art-1716867",
       "summary": "",
       "published": "2026-08-16T14:31:43.064753+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Kontrolle verloren und in Auto gekracht: Töff-Karambolage in Bellelay BE fordert Schwerverletzten",
+      "url": "https://www.blick.ch/schweiz/bern/kontrolle-verloren-und-in-auto-gekracht-toeff-karambolage-in-bellelay-be-fordert-schwerverletzten-id22186913.html",
+      "summary": "Am Sonntagmorgen ereignete sich in Bellelay ein Verkehrsunfall, an dem ein Auto und mehrere Töffs beteiligt waren. Drei Töfffahrer wurden verletzt, einer davon schwer. Letzterer wurde von der Rega per",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wie es zur IT-Panne kam: SBB-Update legte alle Schalter in der Schweiz lahm",
+      "url": "https://www.blick.ch/schweiz/wie-es-zur-it-panne-kam-sbb-update-legte-alle-schalter-in-der-schweiz-lahm-id22185383.html",
+      "summary": "Am Mittwoch ging in den SBB-Reisezentren gar nichts mehr. Wie es zur IT-Panne kam.",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Bei der Einreise am Flughafen Zürich: Bei wem und warum die Zöllner genauer hinschauen",
+      "url": "https://www.blick.ch/schweiz/zuerich/bei-der-einreise-am-flughafen-zuerich-bei-wem-und-warum-die-zoellner-genauer-hinschauen-id22182769.html",
+      "summary": "Zu Ferienzeiten haben die Zollbeamten am Flughafen Zürich alle Hände voll zu tun. Zehntausende Passagiere verkehren jeden Tag durch Zürich.",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Sturzflut-Notstand auf Big Island: Hurrikan Lala wütet auf Hawaii – ein Toter und massive Stromausfälle",
+      "url": "https://www.bazonline.ch/hurrikan-lala-100000-haushalte-in-hawaii-ohne-strom-832083618360",
+      "summary": "Hurrikan Lala trifft Hawaiis grösste Insel mit Sturzfluten und zerstörerischen Winden. Der Wetterdienst warnt vor einer «katastrophalen» Hochwasserlage.",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Das War das Churer Fest",
+      "url": "https://www.suedostschweiz.ch/graubuenden/das-war-das-churer-fest-2123577",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Remigen Rüstet Robidogs Gegen Hausmüll Wilde Tiere und Waschbären nach",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/remigen-ruestet-robidogs-gegen-hausmuell-wilde-tiere-und-waschbaeren-nach-ld.4217849",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Winterthurkoblenz Bahnlinie Feiert 150 Jahre",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/winterthurkoblenz-bahnlinie-feiert-150-jahre-ld.4216629",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "In Water Boatshow in Bottighofen Zeigt Luxusboote",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/in-water-boatshow-in-bottighofen-zeigt-luxusboote-ld.4217671",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "100 Jahre Landtechnik Thurgau Jubiläum in Frauenfeld",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/100-jahre-landtechnik-thurgau-jubilaeum-in-frauenfeld-ld.4211704",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Sirnach Eröffnet Neue Dreifsporthalle Grünau Früher",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/sirnach-eroeffnet-neue-dreifsporthalle-gruenau-frueher-ld.4217793",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Praktikanten stellten ADHS-Diagnosen an Basler Klinik",
+      "url": "https://www.watson.ch/schweiz/gesundheit/957686478-praktikanten-stellten-adhs-diagnosen-an-basler-klinik",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Micheline Calmy-Rey warnte vergeblich - Ist jetzt unsere Neutralität in Gefahr?",
+      "url": "https://www.bote.ch/nachrichten/kultur/micheline-calmy-rey-an-der-universitaet-zuerich-mit-klarer-position-art-1716871",
+      "summary": "",
+      "published": "2026-08-16T14:50:16.577351+00:00"
     }
   ]
 }
