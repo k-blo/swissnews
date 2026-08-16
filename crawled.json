@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T23:01:36.357494+00:00",
+  "generated": "2026-08-16T23:31:47.073535+00:00",
   "date": "2026-08-17",
-  "count": 10,
+  "count": 11,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -72,6 +72,13 @@
       "url": "https://www.persoenlich.com/prcorporate-communication/was-sie-vielleicht-verpasst-haben",
       "summary": "Mit dem Schulstart in mehreren Kantonen sind für viele die Sommerferien vorbei. persoenlich.com hat durchgehend gearbeitet. Hier ist eine Auswahl von Interviews, die wir in den letzten fünf Wochen pub",
       "published": "2026-08-16T23:01:36.357494+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vor grossem Manöver mit Seoul: «Feindseliges Signal»: Trump fährt Militärübungen mit Südkorea zurück",
+      "url": "https://www.bernerzeitung.ch/trump-reduziert-us-militaeruebungen-mit-suedkorea-485128579505",
+      "summary": "US-Präsident Donald Trump will die gemeinsamen Militärübungen der USA und Südkoreas erheblich zurückfahren. Er begründet den Schritt mit den hohen Kosten und einem «feindseligen Signal» an Nordkorea –",
+      "published": "2026-08-16T23:31:47.073535+00:00"
     }
   ]
 }
