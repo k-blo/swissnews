@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T00:02:12.177419+00:00",
+  "generated": "2026-08-16T00:32:30.951174+00:00",
   "date": "2026-08-16",
-  "count": 8,
+  "count": 11,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -58,6 +58,27 @@
       "url": "https://www.20min.ch/story/schweiz-adhs-abklaerungen-durch-praktikanten-basler-klinik-unter-druck-103618034",
       "summary": "Über Jahre sollen Praktikanten ADHS-Abklärungen weitgehend allein durchgeführt haben. Nun stehen zahlreiche Diagnosen infrage.",
       "published": "2026-08-15T23:01:58.371855+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Abfuhr der eigenen Partei: Valérie Dittli will erneut für Waadtländer Regierung kandidieren",
+      "url": "https://www.tagesanzeiger.ch/dittli-kandidiert-erneut-fuer-waadtlaender-staatsrat-393892201722",
+      "summary": "Trotz aller Affären kündigt die Mitte-Politiker an, im kommenden Februar erneut kandidieren zu wollen.",
+      "published": "2026-08-16T00:32:30.951174+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Waadt: Dittli kandidiert erneut",
+      "url": "https://www.zentralplus.ch/news/waadt-dittli-kandidiert-erneut-2892352/",
+      "summary": "Die Waadtländer Staatsrätin Valérie Dittli will im kommenden Februar erneut für den Staatsrat kandidieren. Sie stelle sich ihrer Mitte-Partei zur Verfügung, sagte sie dem «Le Matin Dimanche». Sollte d",
+      "published": "2026-08-16T00:32:30.951174+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wollen Wir eine Sicherheitssteuer und ein Gesundheitsdossier",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/wollen-wir-eine-sicherheitssteuer-und-ein-gesundheitsdossier",
+      "summary": "",
+      "published": "2026-08-16T00:32:30.951174+00:00"
     }
   ]
 }
