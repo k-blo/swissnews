@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T05:05:57.631011+00:00",
+  "generated": "2026-08-16T05:31:45.786557+00:00",
   "date": "2026-08-16",
-  "count": 87,
+  "count": 90,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -611,6 +611,27 @@
       "url": "https://www.zentralplus.ch/news/emmen-knipst-strassenlampen-aus-2892321/",
       "summary": "Emmen will seine Strassen weniger und effizienter beleuchten. Dafür schaltet die Gemeinde bestimmte Lampen aus und rüstet auf LED um. Die Gemeinde Emmen will ihre Strassenbeleuchtung vollständig auf L",
       "published": "2026-08-16T05:05:57.631011+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Genf – Tiefere Mindestlöhne beleben die Sommerjobs",
+      "url": "https://www.srf.ch/news/dialog/genf-tiefere-mindestloehne-beleben-die-sommerjobs",
+      "summary": "Tiefere Studentenlöhne haben in Genf teilweise zu mehr Sommerjobs geführt. Die Gewerkschaften zeigen sich besorgt.",
+      "published": "2026-08-16T05:31:45.786557+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Feiern in Winterthur: Die schönsten Bilder der Dorfeten in Töss und Oberwinterthur",
+      "url": "https://www.tagesanzeiger.ch/dorfete-toess-feiern-in-winterthur-bis-sonntagabend-772173903540",
+      "summary": "Bunt, heiss und fröhlich: Noch bis Sonntagabend feiert Winterthur an zwei Dorffesten. Das sind die schönsten Impressionen.",
+      "published": "2026-08-16T05:31:45.786557+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Krieg in der Ukraine: Moskau meldet ukrainischen Drohnenangriff +++ Russischer Angriff tötet Baby",
+      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-moskau-meldet-ukrainischen-drohnenangriff-russischer-angriff-toetet-baby-ld.10009803",
+      "summary": "",
+      "published": "2026-08-16T05:31:45.786557+00:00"
     }
   ]
 }
