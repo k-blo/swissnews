@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T23:31:47.073535+00:00",
+  "generated": "2026-08-16T23:58:27.154077+00:00",
   "date": "2026-08-17",
-  "count": 11,
+  "count": 14,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -79,6 +79,27 @@
       "url": "https://www.bernerzeitung.ch/trump-reduziert-us-militaeruebungen-mit-suedkorea-485128579505",
       "summary": "US-Präsident Donald Trump will die gemeinsamen Militärübungen der USA und Südkoreas erheblich zurückfahren. Er begründet den Schritt mit den hohen Kosten und einem «feindseligen Signal» an Nordkorea –",
       "published": "2026-08-16T23:31:47.073535+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Feuer im Hohen Venn zwingt Bewohner von Monschau zur Evakuierung",
+      "url": "https://www.20min.ch/story/waldbrand-in-belgien-feuer-im-hohen-venn-zwingt-bewohner-von-monschau-zur-evakuierung-103618422",
+      "summary": "Wegen des Waldbrandes im belgischen Hohen Venn müssen Anwohner in Deutschland ihre Häuser verlassen. Eine Notunterkunft ist eingerichtet.",
+      "published": "2026-08-16T23:58:27.154077+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Waldbrand in Belgien: Feuer im Hohen Venn zwingt Bewohner von Monschau zur Evakuierung",
+      "url": "https://www.tagesanzeiger.ch/waldbrand-hohes-venn-evakuierung-in-monschau-angeordnet-677898340971",
+      "summary": "Wegen des Waldbrandes im belgischen Hohen Venn müssen Anwohner in Deutschland ihre Häuser verlassen. Eine Notunterkunft ist eingerichtet.",
+      "published": "2026-08-16T23:58:27.154077+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Donald Trump kritisiert Südkorea",
+      "url": "https://www.zentralplus.ch/news/donald-trump-kritisiert-suedkorea-2892436/",
+      "summary": "Die USA und Südkorea beginnen am Montag gemeinsame Militärmanöver. US-Präsident Trump hat seine Unzufriedenheit über die gemeinsamen Manöver ausgedrückt. Auf seinem Netzwerk schrieb Donald Trump, er h",
+      "published": "2026-08-16T23:58:27.154077+00:00"
     }
   ]
 }
