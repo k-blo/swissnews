@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T00:32:30.951174+00:00",
+  "generated": "2026-08-16T01:02:07.395740+00:00",
   "date": "2026-08-16",
-  "count": 11,
+  "count": 12,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -79,6 +79,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/wollen-wir-eine-sicherheitssteuer-und-ein-gesundheitsdossier",
       "summary": "",
       "published": "2026-08-16T00:32:30.951174+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Das war eng!» Vietnam-Flug hat massive Startschwierigkeiten",
+      "url": "https://www.20min.ch/story/flughafen-muenchen-das-war-eng-vietnam-flug-hat-massive-startschwierigkeiten-103618036",
+      "summary": "Eine Boeing 787 hebt in München ungewöhnlich spät ab. Wegen technischer Probleme muss sie danach umkehren.",
+      "published": "2026-08-16T01:02:07.395740+00:00"
     }
   ]
 }
