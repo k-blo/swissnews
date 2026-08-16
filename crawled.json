@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T03:31:39.589691+00:00",
+  "generated": "2026-08-16T04:01:41.173733+00:00",
   "date": "2026-08-16",
-  "count": 47,
+  "count": 75,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -331,6 +331,202 @@
       "url": "https://www.freiburger-nachrichten.ch/story/278111/optimismus-im-schicksalsjahr-f%C3%BCr-die-christliche-sozialbewegung-kab",
       "summary": "",
       "published": "2026-08-16T03:31:39.589691+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wasserschloss» im Stresstest: Wird unser Trinkwasser nun teurer?",
+      "url": "https://www.20min.ch/story/duerre-in-der-schweiz-wasserschloss-im-stresstest-wird-nun-unser-trinkwasser-teurer-103618038",
+      "summary": "Auf die aktuelle Dürre war die Schweiz gar nicht vorbereitet. Nach dem trockenen Hitzesommer fordern Experten Wasserstrategien.",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home: 10 Stylingtipps, die alles besser aussehen lassen",
+      "url": "https://www.tagesanzeiger.ch/10-stylingtipps-die-alles-besser-aussehen-lassen-469252311851",
+      "summary": "Diese Profitricks helfen, mit wenig Aufwand mehr Stil, Chic und weniger Langeweile in die Einrichtung zu bringen.",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Erdbeben der Stärke 7,7 in Indonesien: Opferzahl steigt erneut und liegt nun bei mindestens 51",
+      "url": "https://www.nzz.ch/panorama/erdbeben-der-staerke-77-in-indonesien-opferzahl-steigt-erneut-und-liegt-nun-bei-mindestens-51-ld.10019699",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ceuta bleibt dicht, doch die Krise ist nicht vorbei",
+      "url": "https://www.nzz.ch/international/ceuta-bleibt-dicht-doch-die-krise-ist-nicht-vorbei-ld.10019723",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Vielleicht hilft bald nur noch der KI-Politberater",
+      "url": "https://www.nzz.ch/meinung/vielleicht-hilft-bald-nur-noch-der-ki-politberater-ld.10019698",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Beratungen um die neuen EU-Verträge beginnen mit einem Säbelrasseln",
+      "url": "https://www.nzz.ch/schweiz/eu-vertraege-fuer-eine-handvoll-gewerkschafter-ld.10019662",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Anlagebetrüger auf Social Media agieren immer dreister: Wie man fragwürdige Angebote zu Aktien, Finanzprodukten und Kryptowährungen erkennt",
+      "url": "https://www.nzz.ch/finanzen/gefaelschte-promi-werbung-so-schuetzt-man-sich-vor-anlagebetrug-auf-social-media-ld.10019641",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Donald Trump will den Zugang zu seinen Verlautbarungen verkaufen – und verrät damit die Ideale des amerikanischen Kapitalismus",
+      "url": "https://www.nzz.ch/meinung/donald-trump-will-den-zugang-zu-seinen-verlautbarungen-verkaufen-und-verraet-damit-die-ideale-des-amerikanischen-kapitalismus-ld.10019628",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der TV-Fussballtrainer Ted Lasso ist jetzt nicht nur Everybody’s Darling, sondern auch Management-Guru",
+      "url": "https://www.nzz.ch/wirtschaft/tv-fussballtrainer-ted-lasso-ist-jetzt-nicht-nur-everybody-s-darling-sondern-auch-management-guru-ld.10019596",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trotz Kriegen und Krisen: Die Löhne in der Schweiz werden nächstes Jahr steigen",
+      "url": "https://www.nzz.ch/wirtschaft/trotz-kriegen-und-krisen-die-loehne-in-der-schweiz-werden-naechstes-jahr-steigen-ld.10019559",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Armer Roger Federer – jetzt schwimmt ihm das Geld davon",
+      "url": "https://www.nzz.ch/sport/roger-federer-verliert-52-millionen-durch-on-aktien-einbruch-ld.10019543",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Mekka-Abkommen macht den Nahen Osten weniger amerikanisch",
+      "url": "https://www.nzz.ch/pro/mekka-abkommen-die-folgen-fuer-nahost-und-israel-ld.10019430",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Deutscher Buchpreis: Wir lesen immer nationaler",
+      "url": "https://www.nzz.ch/feuilleton/deutscher-buchpreis-wir-lesen-immer-nationaler-ld.10019416",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Braune Wiesen im Sonnenschein: So trocken sieht die Schweiz aus dem Weltall aus",
+      "url": "https://www.nzz.ch/visuals/braune-wiesen-im-sonnenschein-so-trocken-sieht-die-schweiz-aus-dem-weltall-aus-ld.10019405",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "You’ll Never Walk Alone – Jeff Bezos steigt beim Liverpool FC ein",
+      "url": "https://www.nzz.ch/sport/you-ll-never-walk-alone-jeff-bezos-will-beim-liverpool-fc-mitmarschieren-ld.10019269",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Noch rechter als Italiens Rechte – ein radikaler Politaufsteiger macht Meloni Konkurrenz",
+      "url": "https://www.nzz.ch/international/noch-rechter-als-italiens-rechte-ein-radikaler-politaufsteiger-macht-meloni-konkurrenz-ld.10019222",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Wir brennen das russische Imperium nieder» – die Raketen des ukrainischen Waffenproduzenten Denis Schtilerman bringen Putin in Bedrängnis",
+      "url": "https://www.nzz.ch/international/wir-brennen-das-russische-imperium-nieder-die-raketen-des-ukrainischen-waffenproduzenten-denis-schtilerman-bringen-putin-in-bedraengnis-ld.10019205",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trumps beste Freunde: Wie die demokratischen Sozialisten den US-Präsidenten bei den Zwischenwahlen retten",
+      "url": "https://www.nzz.ch/international/trumps-beste-freunde-wie-die-demokratischen-sozialisten-den-us-praesidenten-bei-den-zwischenwahlen-retten-ld.10019200",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/artikel-ld.4215356",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hier werden die biederen Alltagsautos von anno dazumal gefeiert",
+      "url": "https://www.watson.ch/spass/leben/848240629-hier-werden-die-biederen-alltagsautos-von-anno-dazumal-gefeiert",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "In Interlaken stören Airbnbs und Zweitwohnungen",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/305587498-in-interlaken-stoeren-airbnbs-und-zweitwohnungen",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Teddybär» wird 50: Wie Polo Hofer mit Sex, Reggae und Mundart die Schweiz veränderte",
+      "url": "https://www.freiburger-nachrichten.ch/story/282839/teddyb%C3%A4r-wird-50-wie-polo-hofer-mit-sex-reggae-und-mundart-die-schweiz-ver%C3%A4nderte",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wie wir die KI vermenschlichen und dabei uns selbst entwerten",
+      "url": "https://www.freiburger-nachrichten.ch/story/282835/wie-wir-die-ki-vermenschlichen-und-dabei-uns-selbst-entwerten",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Warum diese Sonnenfinsternis ziemlich langweilig – und trotzdem grossartig war",
+      "url": "https://www.freiburger-nachrichten.ch/story/282845/warum-diese-sonnenfinsternis-ziemlich-langweilig-und-trotzdem-grossartig-war",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Perfekte Familienferien? Nach drei Freizeitparks war ich fertig",
+      "url": "https://www.freiburger-nachrichten.ch/story/282841/perfekte-familienferien-nach-drei-freizeitparks-war-ich-fertig",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gleich nach der Grenze beginnt eine der schönsten Genussstrassen weit und breit",
+      "url": "https://www.freiburger-nachrichten.ch/story/282843/gleich-nach-der-grenze-beginnt-eine-der-sch%C3%B6nsten-genussstrassen-weit-und-breit",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der Lucerne-Festival-Intendant sagt, warum das Thema «American Dreams» nötig ist",
+      "url": "https://www.freiburger-nachrichten.ch/story/282837/der-lucernefestivalintendant-sagt-warum-das-thema-american-dreams-n%C3%B6tig-ist",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Silber für Sprintstaffel: Mujinga Kambundjis Tränen werden endlich getrocknet",
+      "url": "https://www.bote.ch/nachrichten/sport/silber-fuer-schweizer-staffel-meilenstein-fuer-den-frauensprint-art-1716849",
+      "summary": "",
+      "published": "2026-08-16T04:01:41.173733+00:00"
     }
   ]
 }
