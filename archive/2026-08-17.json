@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-17T07:59:57.615866+00:00",
+  "generated": "2026-08-17T08:03:03.532414+00:00",
   "date": "2026-08-17",
-  "count": 262,
+  "count": 264,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1836,6 +1836,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/mit-dem-regen-kommt-die-naechste-axen-sperrung-art-1716980",
       "summary": "",
       "published": "2026-08-17T07:59:57.615866+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Löhne in der Schweiz: Travailsuisse fordert für 2027 eine Lohnerhöhung von 2 Prozent",
+      "url": "https://www.tagesanzeiger.ch/travailsuisse-fordert-2-prozent-lohnerhoehung-fuer-2027-953119169448",
+      "summary": "Damit sollen die stagnierenden Reallöhne ausgeglichen werden, die gemäss dem Arbeitnehmerdachverband für die gesunkene Kaufkraft verantwortlich sind.",
+      "published": "2026-08-17T08:03:03.532414+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Richtig oder Falsch das Quiz zur Pilzsaison",
+      "url": "https://www.suedostschweiz.ch/graubuenden/richtig-oder-falsch-das-quiz-zur-pilzsaison-2116185",
+      "summary": "",
+      "published": "2026-08-17T08:03:03.532414+00:00"
     }
   ]
 }
