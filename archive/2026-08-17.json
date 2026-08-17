@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-17T00:32:12.255294+00:00",
+  "generated": "2026-08-17T01:01:41.100234+00:00",
   "date": "2026-08-17",
-  "count": 16,
+  "count": 17,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -114,6 +114,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/fussball-und-nationalstolz",
       "summary": "",
       "published": "2026-08-17T00:32:12.255294+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tödlichster Ebola-Ausbruch",
+      "url": "https://www.zentralplus.ch/news/toedlichster-ebola-ausbruch-2892438/",
+      "summary": "Der Ebola-Ausbruch in Kongo-Kinshasa ist der tödlichste in der Geschichte des Landes. Das meldet die Nachrichtenagentur Reuters unter Berufung auf neue Daten der lokalen Gesundheitsbehörden. Die Zahl ",
+      "published": "2026-08-17T01:01:41.100234+00:00"
     }
   ]
 }
