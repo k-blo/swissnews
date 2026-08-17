@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-17T23:02:16.966033+00:00",
+  "generated": "2026-08-17T23:31:55.289057+00:00",
   "date": "2026-08-18",
-  "count": 14,
+  "count": 16,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/3d-bild-ueber-den-bergsturz-hat-einen-neuen-platz-art-1717055",
       "summary": "",
       "published": "2026-08-17T22:31:53.132229+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Solothurner SVP wehrt sich: Wie die Kantone ihre Polizeikorps aufrüsten wollen",
+      "url": "https://www.blick.ch/politik/solothurner-svp-wehrt-sich-wie-die-kantone-ihre-polizeikorps-aufruesten-wollen-id22189645.html",
+      "summary": "Die Kriminalität nimmt in vielen Kantonen immer mehr zu. Diese brauchen deshalb auch immer mehr Polizeipersonal. Mehrere Kantone wollen deshalb ihre Korps massiv aufstocken, aber das ist gar nicht so ",
+      "published": "2026-08-17T23:31:55.289057+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zu Heiss: Europas letztes Sommer-Skigebiet stellt Betrieb ein",
+      "url": "https://www.20min.ch/story/stilfser-joch-im-suedtirol-zu-heiss-europas-letztes-sommer-skigebiet-stellt-betrieb-ein-103618896",
+      "summary": "Europas letztes Sommer-Skigebiet hat genug: Am Stilfser Joch im Südtirol wurde der Skibetrieb eingestellt. Die Hitze und Gewitter machen das Skifahren auf dem Gletscher zu unsicher.",
+      "published": "2026-08-17T23:31:55.289057+00:00"
     }
   ]
 }
