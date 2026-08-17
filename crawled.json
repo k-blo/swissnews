@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-17T01:01:41.100234+00:00",
+  "generated": "2026-08-17T01:31:51.918875+00:00",
   "date": "2026-08-17",
-  "count": 17,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -121,6 +121,20 @@
       "url": "https://www.zentralplus.ch/news/toedlichster-ebola-ausbruch-2892438/",
       "summary": "Der Ebola-Ausbruch in Kongo-Kinshasa ist der tödlichste in der Geschichte des Landes. Das meldet die Nachrichtenagentur Reuters unter Berufung auf neue Daten der lokalen Gesundheitsbehörden. Die Zahl ",
       "published": "2026-08-17T01:01:41.100234+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "In der Deutschschweiz kaum bekannt: «Home-Jackings» sorgen bei Genfs Reichen für Angst",
+      "url": "https://www.blick.ch/schweiz/westschweiz/genf/in-der-deutschschweiz-kaum-bekannt-home-jackings-sorgen-bei-genfs-reichen-fuer-angst-id22187561.html",
+      "summary": "Am Genfersee sorgt eine Welle von «Home-Jackings» – brutalen Überfällen auf bewohnte Villen – für Angst. In der Deutschschweiz ist das Phänomen praktisch unbekannt. Hinter den Taten mit reichen, promi",
+      "published": "2026-08-17T01:31:51.918875+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA: Stromausfall wegen dem Tropensturm",
+      "url": "https://www.zentralplus.ch/news/usa-stromausfall-wegen-dem-tropensturm-2892440/",
+      "summary": "Auf Hawaii waren wegen des Tropensturms Lala am Sonntag zeitweise mehr als 200&#8217;000 Haushalte ohne Strom. Mindestens 100 Häuser seien ganz oder teilweise zerstört worden, sagte der Gouverneur vor",
+      "published": "2026-08-17T01:31:51.918875+00:00"
     }
   ]
 }
