@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-17T00:03:49.338869+00:00",
+  "generated": "2026-08-17T00:32:12.255294+00:00",
   "date": "2026-08-17",
-  "count": 14,
+  "count": 16,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -100,6 +100,20 @@
       "url": "https://www.zentralplus.ch/news/donald-trump-kritisiert-suedkorea-2892436/",
       "summary": "Die USA und Südkorea beginnen am Montag gemeinsame Militärmanöver. US-Präsident Trump hat seine Unzufriedenheit über die gemeinsamen Manöver ausgedrückt. Auf seinem Netzwerk schrieb Donald Trump, er h",
       "published": "2026-08-16T23:58:27.154077+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Das Dilemma der Neutralität",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/das-dilemma-der-neutralitaet",
+      "summary": "",
+      "published": "2026-08-17T00:32:12.255294+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Fussball und Nationalstolz",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/fussball-und-nationalstolz",
+      "summary": "",
+      "published": "2026-08-17T00:32:12.255294+00:00"
     }
   ]
 }
