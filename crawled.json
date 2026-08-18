@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-18T22:28:54.915890+00:00",
+  "generated": "2026-08-18T22:32:24.504427+00:00",
   "date": "2026-08-19",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,13 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/38-sihlseelauf-der-laufboom-sorgt-erneut-fuer-ein-grosses-teilnehmerfeld-art-1717222",
       "summary": "",
       "published": "2026-08-18T22:28:54.915890+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "2800 Zuschauer in Kerzers: Ein Fussballfest mit einem logischen Sieger",
+      "url": "https://www.freiburger-nachrichten.ch/story/283603/2800-zuschauer-in-kerzers-ein-fussballfest-mit-einem-logischen-sieger",
+      "summary": "",
+      "published": "2026-08-18T22:32:24.504427+00:00"
     }
   ]
 }
