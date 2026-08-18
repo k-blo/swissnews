@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-18T09:31:56.382645+00:00",
+  "generated": "2026-08-18T09:42:26.236340+00:00",
   "date": "2026-08-18",
-  "count": 350,
+  "count": 364,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2452,6 +2452,104 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/pro-senectute-ob-und-nidwalden-bilden-neu-eine-stiftung-art-1717167",
       "summary": "",
       "published": "2026-08-18T09:31:56.382645+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sonderrechte für Schweizer Skistars: Auf dem Theodulgletscher leisten Odermatt & Co. dem schmelzenden Eis Widerstand",
+      "url": "https://www.tagesanzeiger.ch/zermatt-swiss-ski-trainiert-exklusiv-am-schmelzgletscher-499598593380",
+      "summary": "Die Hitzewelle zwingt Walliser Sommerskigebiete zur Schliessung. Während die Swiss-Ski-Elite trainiert, stehen Nachwuchs und Konkurrenz im Abseits.",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Erdbeben in Kolumbien: Wie 36 Babys im einstürzenden Spital von Cali gerettet wurden",
+      "url": "https://www.tagesanzeiger.ch/erdbeben-in-kolumbien-wie-36-babies-in-cali-gerettet-wurden-595528414182",
+      "summary": "Als die Erde bebte, brachten Krankenschwestern und Ärzte drei Dutzend Neugeborene in Sicherheit. Eine Spitalangestellte berichtet über die Rettungsaktion und den heutigen Notbetrieb des Spitals.",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Glosse: Wie reagieren, wenn die Ausserirdischen kommen: «Auf keinen Fall ansprechen!»",
+      "url": "https://www.tagesanzeiger.ch/aliens-so-soll-die-menschheit-auf-ausserirdische-reagieren-363924383587",
+      "summary": "Winken? Grüezi sagen? Umarmen? Der neue offizielle Alien-Knigge ist da. Was Sie unbedingt wissen müssen, um bei einer Begegnung der dritten Art nicht die Menschheit zu blamieren.",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Prozess gegen Meta: US-Bundesstaaten fordern 193 Milliarden Dollar von Zuckerbergs Konzern",
+      "url": "https://www.tagesanzeiger.ch/meta-vor-milliardenprozess-wegen-jugendlicher-und-sozialer-medien-749561913406",
+      "summary": "Meta soll Jugendliche bewusst süchtig nach Instagram und Facebook gemacht haben. Am Dienstag beginnt in Oakland der erste Bundesprozess – Zuckerberg ist als Zeuge geladen.",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Massenandrang bei Sonnenfinsternis: Chaos auf dem Chasseral: «Die Polizei hätte viel früher einschreiten müssen»",
+      "url": "https://www.tagesanzeiger.ch/chasseral-sonnenfinsternis-sorgte-fuer-verkehrschaos-946668703339",
+      "summary": "Die einen parkierten auf den Weiden, die anderen verstopften die Strasse. Hotelinhaber Elias Vogt hoffte auf Hilfe der Polizei – zuerst vergeblich.",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Virtueller Missbrauch: Baselbieter bestellte für fünf Euro KI-Kinderpornografie",
+      "url": "https://www.tagesanzeiger.ch/ai-kinderpornografie-mann-aus-baselland-vor-gericht-113285538788",
+      "summary": "Bei 31-Jährigen wurden Hunderte KI-generierte kinder­porno­grafische Darstellungen gefunden. Das hat Konsequenzen, weil auch virtueller Kindesmissbrauch strafbar ist.",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kritiker loben Berliner Staatsballett",
+      "url": "https://www.zentralplus.ch/news/kritiker-loben-berliner-staatsballett-2892812/",
+      "summary": "Das Staatsballett Berlin ist in einer Kritikerumfrage des Fachmagazins «Tanz» ausgezeichnet worden. Die Compagnie liegt zum dritten Mal in Folge auf dem Spitzenplatz, wie die deutsche Fachzeitschrift ",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ärger über Töfflärm im Gebiet Region Bonaduz Versam",
+      "url": "https://www.suedostschweiz.ch/graubuenden/aerger-ueber-toefflaerm-im-gebiet-region-bonaduz-versam-2120384",
+      "summary": "",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Glarner Spitzenschwinger Roger Rychen Nicht am Kilchberger",
+      "url": "https://www.suedostschweiz.ch/glarus/glarner-spitzenschwinger-roger-rychen-nicht-am-kilchberger-2125110",
+      "summary": "",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Bibliobus der Stadt Luzern Fährt Neue Standorte an",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/bibliobus-der-stadt-luzern-faehrt-neue-standorte-an-ld.4217974",
+      "summary": "",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Das Sind die Neuen Kernser Älplerbeamten 2026",
+      "url": "https://www.obwaldnerzeitung.ch/leserbeitrag/oz/das-sind-die-neuen-kernser-aelplerbeamten-2026-ld.4218741",
+      "summary": "",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Verlassene Raststätte am Walensee soll Begegnungs- und Kulturort werden",
+      "url": "https://www.watson.ch/schweiz/auto/107851898-verlassene-raststaette-am-walensee-soll-begegnungs-und-kulturort-werden",
+      "summary": "",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stralsund: Buckelwal vermutlich an bakterieller Infektion verendet",
+      "url": "https://www.watson.ch/international/deutschland/964382147-stralsund-buckelwal-vermutlich-an-bakterieller-infektion-verendet",
+      "summary": "",
+      "published": "2026-08-18T09:42:26.236340+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bibliobus weitet sein Angebot aus und dient auch der Mittagsbetreuung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/bibliobus-der-stadt-luzern-faehrt-neue-standorte-an-art-1717171",
+      "summary": "",
+      "published": "2026-08-18T09:42:26.236340+00:00"
     }
   ]
 }
