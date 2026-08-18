@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-18T11:23:36.321623+00:00",
+  "generated": "2026-08-18T11:32:44.485572+00:00",
   "date": "2026-08-18",
-  "count": 454,
+  "count": 457,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3180,6 +3180,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/lukas-bissig-holt-in-muemliswil-den-2-rang-art-1717179",
       "summary": "",
       "published": "2026-08-18T11:23:36.321623+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Apples neue KI-Strategie: Apple baut Kameras in die AirPods ein – sie sollen Siris Augen werden",
+      "url": "https://www.tagesanzeiger.ch/apple-airpods-neue-kameras-sollen-siri-augen-geben-615218641632",
+      "summary": "Apples nächste AirPods sollen ihre Umgebung sehen und die Informationen an Siri weitergeben. Ein versehentlich veröffentlichtes Video zeigt, wie das funktionieren soll.",
+      "published": "2026-08-18T11:32:44.485572+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bilaterale III: Kommission will Zuwanderungsabgabe für EU-Erwerbstätige",
+      "url": "https://www.tagesanzeiger.ch/bilaterale-iii-staenderatskommission-fordert-zuwanderungsabgabe-914007036281",
+      "summary": "Bei zu starker Zuwanderung sollen Arbeitnehmende aus der EU und Drittstaaten eine Abgabe zahlen. Die Kommission entschied einstimmig – bei sechs Enthaltungen.",
+      "published": "2026-08-18T11:32:44.485572+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ultimatives Hockey-Abo: Sparen und Gottéron-Preise gewinnen!",
+      "url": "https://www.freiburger-nachrichten.ch/story/283482/ultimatives-hockeyabo-sparen-und-gottronpreise-gewinnen",
+      "summary": "",
+      "published": "2026-08-18T11:32:44.485572+00:00"
     }
   ]
 }
