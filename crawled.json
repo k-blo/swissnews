@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-19T01:01:58.007320+00:00",
+  "generated": "2026-08-19T01:29:26.855179+00:00",
   "date": "2026-08-19",
-  "count": 33,
+  "count": 36,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -233,6 +233,27 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/es-braucht-jetzt-eine-offensive-fuer-klimaanlagen",
       "summary": "",
       "published": "2026-08-19T00:32:06.675426+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Lagerhalle auf Bauernhof in Neuwilen TG in Flammen: Mehr als 50 Personen bei Vollbrand evakuiert",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/thurgau/lagerhalle-auf-bauernhof-in-neuwilen-tg-in-flammen-mehr-als-50-personen-bei-vollbrand-evakuiert-id22192552.html",
+      "summary": "Grossbrand in Neuwilen TG: Eine Lagerhalle geriet am Dienstagabend in Flammen, über 50 Personen wurden evakuiert. Feuerwehr und Autodrehleiter im Einsatz. Der Sachschaden ist noch unklar.",
+      "published": "2026-08-19T01:29:26.855179+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Grossbrand in Neuwilen/TG",
+      "url": "https://www.zentralplus.ch/news/grossbrand-in-neuwilen-tg-2892959/",
+      "summary": "Im Kanton Thurgau ist am Dienstagabend ein Grossbrand ausgebrochen. Als die Einsatzkräfte eintrafen, habe eine Lagerhalle in Neuwilen/TG bereits in Vollbrand gestanden, sagte der Mediensprecher der Ka",
+      "published": "2026-08-19T01:29:26.855179+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA schiebt Migranten nach Liberia an",
+      "url": "https://www.zentralplus.ch/news/usa-schiebt-migranten-nach-liberia-an-2892957/",
+      "summary": "Liberia will Migranten aus den USA aufnehmen, die nicht in ihre Heimatländer abgeschoben werden dürfen. In den nächsten zwölf Monaten sollen 1200 Menschen nach Liberia gebracht werden. Bei den Betroff",
+      "published": "2026-08-19T01:29:26.855179+00:00"
     }
   ]
 }
