@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T22:02:29.324435+00:00",
+  "generated": "2026-08-20T22:32:31.064042+00:00",
   "date": "2026-08-21",
-  "count": 3,
+  "count": 5,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -23,6 +23,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/283291/in-den-n%C3%A4chsten-wochen-ist-achtsames-fahren-gefragt",
       "summary": "",
       "published": "2026-08-20T22:02:29.324435+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "In der Migros Schönbühl BE: Therese Stooss (70) wollte Self-Scan-Kasse testen – und landet bei der Polizei",
+      "url": "https://www.blick.ch/schweiz/bern/in-der-migros-schoenbuehl-be-therese-stooss-70-wollte-self-scan-kasse-testen-und-landet-bei-der-polizei-id22197815.html",
+      "summary": "Eine 70-jährige Rentnerin wollte ihre Einkäufe ausnahmsweise selbst scannen, um Zeit zu sparen. Jetzt gilt Therese Stooss als Ladendiebin!",
+      "published": "2026-08-20T22:32:31.064042+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Samira Schnüriger: «Wenn ich auf der Autobahn im Stau stehe, werde ich hässig»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/samira-schnueriger-wenn-ich-auf-der-autobahn-im-stau-stehe-werde-ich-haessig-art-1717373",
+      "summary": "",
+      "published": "2026-08-20T22:32:31.064042+00:00"
     }
   ]
 }
