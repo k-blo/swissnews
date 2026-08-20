@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T23:02:22.458953+00:00",
+  "generated": "2026-08-20T23:30:09.901168+00:00",
   "date": "2026-08-21",
-  "count": 22,
+  "count": 29,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,55 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/33-raiffeisen-cup-mit-muotathaler-doppelbeteiligung-art-1717575",
       "summary": "",
       "published": "2026-08-20T23:02:22.458953+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kandidatur wird nicht unterstützt: Der kantonale Mitte-Parteivorstand distanziert sich von Dittli",
+      "url": "https://www.tagesanzeiger.ch/mitte-waadt-parteivorstand-gegen-die-kandidatur-von-valerie-dittli-762366212769",
+      "summary": "Wie schon vom Präsidialausschuss erhält Valérie Dittli auch vom kantonalen Vorstand der Mitte Waadt keine Unterstützung.",
+      "published": "2026-08-20T23:30:09.901168+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Parteivorstand empfiehlt Nein zu Dittli",
+      "url": "https://www.zentralplus.ch/news/parteivorstand-empfiehlt-nein-zu-dittli-2893499/",
+      "summary": "Nach dem Präsidium der Waadtländer Mitte-Partei distanziert sich auch der Parteivorstand von Regierungsrätin Valérie Dittli. Mit 14 zu 6 Stimmen bei zwei Enthaltungen empfiehlt er den Delegierten, ein",
+      "published": "2026-08-20T23:30:09.901168+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neues AKW könnte bis zu 43 Mia kosten",
+      "url": "https://www.zentralplus.ch/news/neues-akw-koennte-bis-zu-43-mia-kosten-2893497/",
+      "summary": "Ein neues Atomkraftwerk in der Schweiz würde laut den Akademien der Wissenschaften zwischen 14 und 43 Milliarden Franken kosten. Das zeigt eine Studie, in der zwei für die Schweiz mögliche Reaktortype",
+      "published": "2026-08-20T23:30:09.901168+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Zen für Zerstreute",
+      "url": "https://weltwoche.ch/story/zen-fuer-zerstreute/",
+      "summary": "",
+      "published": "2026-08-20T23:30:09.901168+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Faustischer Pakt mit dem Zeitgeist",
+      "url": "https://weltwoche.ch/story/faustischer-pakt-mit-dem-zeitgeist/",
+      "summary": "",
+      "published": "2026-08-20T23:30:09.901168+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Die Schweiz ist Trotz Ihrer Neutralität Geuebt Darin Politische Geschehnisse in der Ganzen Welt zu Kommentieren das Eidgenössische Departement für Auswärtige Angelegenheiten",
+      "url": "https://weltwoche.ch/story/die-schweiz-ist-trotz-ihrer-neutralitaet-geuebt-darin-politische-geschehnisse-in-der-ganzen-welt-zu-kommentieren-das-eidgenoessische-departement-fuer-auswaertige-angelegenheiten/",
+      "summary": "",
+      "published": "2026-08-20T23:30:09.901168+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Keine Widerrede",
+      "url": "https://weltwoche.ch/story/keine-widerrede/",
+      "summary": "",
+      "published": "2026-08-20T23:30:09.901168+00:00"
     }
   ]
 }
