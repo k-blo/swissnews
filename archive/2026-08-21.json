@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T23:45:18.823114+00:00",
+  "generated": "2026-08-21T00:02:43.522385+00:00",
   "date": "2026-08-21",
-  "count": 30,
+  "count": 31,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,13 @@
       "url": "https://www.blick.ch/schweiz/graubuenden/riesige-rauchwolke-haus-in-thusis-gr-brennt-lichterloh-id22198503.html",
       "summary": "Spektakulärer Grossbrand in Thusis: In der Nacht auf Freitag brannte es in einem mehrstöckigen Haus. Flammen und Rauch waren weit sichtbar.",
       "published": "2026-08-20T23:35:49.993106+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gebäude in Thusis brennt lichterloh",
+      "url": "https://www.20min.ch/story/kanton-graubuenden-thusis-grossbrand-feuer-in-gebaeude-103620394",
+      "summary": "In der Nacht auf Freitag ist in einem Haus in Thusis ein Feuer ausgebrochen. In einem Video ist zu sehen, wie die Feuerwehr gegen die Flammen ankämpft.",
+      "published": "2026-08-21T00:02:43.522385+00:00"
     }
   ]
 }
