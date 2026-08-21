@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-21T23:11:38.523786+00:00",
+  "generated": "2026-08-21T23:32:38.566865+00:00",
   "date": "2026-08-22",
-  "count": 16,
+  "count": 17,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -114,6 +114,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/bikepark-mythen-freizeitspass-oder-gefahr-fuer-die-natur-art-1717765",
       "summary": "",
       "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "TikTok bezahlt 400 Millionen Dollar",
+      "url": "https://www.zentralplus.ch/news/tiktok-bezahlt-400-millionen-dollar-2893736/",
+      "summary": "Die Kurzvideo-App TikTok und ihr chinesischer Mutterkonzern ByteDance zahlen in den USA 400 Millionen Dollar. Damit beenden sie einen Rechtsstreit mit den US-Behörde. Die US-Regierung hatte TikTok vor",
+      "published": "2026-08-21T23:32:38.566865+00:00"
     }
   ]
 }
