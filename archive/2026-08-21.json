@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-21T21:02:44.698941+00:00",
+  "generated": "2026-08-21T21:16:35.484798+00:00",
   "date": "2026-08-21",
-  "count": 993,
+  "count": 994,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6953,6 +6953,13 @@
       "url": "https://www.watson.ch/international/usa/906861283-gericht-erlaubt-vorlaeufig-weiterbau-von-trumps-ballsaal",
       "summary": "",
       "published": "2026-08-21T21:02:44.698941+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Arsenal mit lockerem Auftaktsieg gegen Aufsteiger",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-arsenal-mit-lockerem-auftaktsieg-gegen-aufsteiger",
+      "summary": "",
+      "published": "2026-08-21T21:16:35.484798+00:00"
     }
   ]
 }
