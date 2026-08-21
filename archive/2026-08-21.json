@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-21T01:02:35.970746+00:00",
+  "generated": "2026-08-21T01:29:00.687485+00:00",
   "date": "2026-08-21",
-  "count": 39,
+  "count": 44,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -275,6 +275,41 @@
       "url": "https://www.zentralplus.ch/news/usa-verschaerfen-druck-auf-kuba-2893501/",
       "summary": "Die USA verhängen neue Sanktionen gegen Kuba. Betroffen sind laut dem US-Aussenministerium etwa staatliche Bergbau- und Metallunternehmen. Der kubanische Aussenminister kritisierte die Massnahmen. Die",
       "published": "2026-08-21T01:02:35.970746+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Neun Menschen im Spital: Wohnungsbrand in Schaffhausen fordert mehrere Verletzte",
+      "url": "https://www.blick.ch/schweiz/schaffhausen/neun-menschen-im-spital-wohnungsbrand-in-schaffhausen-fordert-mehrere-verletzte-id22198552.html",
+      "summary": "Am Donnerstagabend brannte eine Wohnung in einem Mehrfamilienhaus in der Stadt Schaffhausen. Die Feuerwehr konnte ein Übergreifen des Feuers verhindern.",
+      "published": "2026-08-21T01:29:00.687485+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zu wenig Regen: Panamakanal senkt Zahl der Schiffspassagen",
+      "url": "https://www.20min.ch/story/el-nino-zu-wenig-regen-panamakanal-senkt-durchfahrt-fuer-schiffe-103620400",
+      "summary": "Jedes Mal, wenn ein Schiff die Wasserstrasse passiert, fliesst Süsswasser ins Meer. Die Kanalverwaltung kündigt vorbeugende Sparmassnahmen an. Hintergrund ist auch das Klimaphänomen El Niño.",
+      "published": "2026-08-21T01:29:00.687485+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "SH: Elf Verletzte bei Wohnungsbrand",
+      "url": "https://www.zentralplus.ch/news/sh-elf-verletzte-bei-wohnungsbrand-2893505/",
+      "summary": "Bei einem Wohnungsbrand in Schaffhausen sind am späten Donnerstagabend elf Personen verletzt worden. Neun von ihnen mussten ins Spital gebracht werden. Die Meldung zum Brand im Riet ging kurz vor 22.3",
+      "published": "2026-08-21T01:29:00.687485+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Waldbrand bei Köln endgültig gelöscht",
+      "url": "https://www.zentralplus.ch/news/waldbrand-bei-koeln-endgueltig-geloescht-2893503/",
+      "summary": "Der Waldbrand im Westen der deutschen Stadt Köln ist endgültig gelöscht. Das teilten die Behörden mit. Das Feuer war vor einer Woche bei der Ortschaft Hürtgenwald ausgebrochen und hatte rund 300 Hekta",
+      "published": "2026-08-21T01:29:00.687485+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Geburtstags Gruss Kurt Maurer",
+      "url": "https://www.badenertagblatt.ch/leserbeitrag/bt/geburtstags-gruss-kurt-maurer-ld.4217920",
+      "summary": "",
+      "published": "2026-08-21T01:29:00.687485+00:00"
     }
   ]
 }
