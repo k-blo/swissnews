@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-21T09:21:10.174702+00:00",
+  "generated": "2026-08-21T09:32:30.170554+00:00",
   "date": "2026-08-21",
-  "count": 424,
+  "count": 437,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2970,6 +2970,97 @@
       "url": "https://www.bote.ch/nachrichten/kultur/rolf-brem-er-liebte-frauen-whisky-und-gute-geschichten-art-1717747",
       "summary": "",
       "published": "2026-08-21T09:21:10.174702+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schwedisches TV-Team filmt Zwangsrekrutierung live mit",
+      "url": "https://www.20min.ch/video/ukraine-mobilmachung-svt-filmt-zwangsrekrutierung-in-kiew-103620521",
+      "summary": "Kurz vor einer Livesendung aus Kiew filmte das TV-Team vom schwedischen Sender SVT per Zufall eine Zwangsrekrutierung mit. Laut dem Korrespondenten Bengt Norborg ist das Alltag in der Ukraine. Rund zw",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Strassenschäden und Hochwasser: Langer Stau auf der A1 – rund eine Stunde Zeitverlust zwischen Zürich und Bern",
+      "url": "https://www.tagesanzeiger.ch/stau-auf-a1-zeitverlust-bis-zu-einer-stunde-bei-wangen-an-der-aare-183454629137",
+      "summary": "Strassenschäden und Hochwasser zwischen Wangen an der Aare und Luterbach blockieren am Freitagmorgen die A1 Richtung Bern. Auch umliegende Dörfer leiden unter dem Ausweichverkehr.",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Unterschriftensammlung läuft: Neue politische Partei lanciert Initiative für Hallenbad in Thun",
+      "url": "https://www.bernerzeitung.ch/neue-politische-partei-lanciert-initiative-fuer-hallenbad-in-thun-447421822161",
+      "summary": "Die Demokratische Allianz fordert, dass die Stadt die Voraussetzungen für ein neues Hallenbad in Thun schafft. Soeben ist die Unterschriftensammlung für eine Initiative gestartet.",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Phisher kopieren SBB-Ticketshop täuschend echt",
+      "url": "https://www.netzwoche.ch/news/2026-08-21/phisher-kopieren-sbb-ticketshop-taeuschend-echt",
+      "summary": "Einmal mehr missbrauchen Cyberkriminelle die SBB als Phishing-Köder. Für ihre aktuelle Kampagne haben die Gauner den Ticketshop des Bahnkonzerns nachgebaut. Die darin angezeigten Fahrplaninformationen",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kunstmuseum Luzern mit Judith Albert Zeichen aus der Dunkelheit",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/kunstmuseum-luzern-mit-judith-albert-zeichen-aus-der-dunkelheit-ld.4218520",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Oberhof Ag 20 Jähriger Stirbt bei Unfall mit Seinem Töff",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/oberhof-ag-20-jaehriger-stirbt-bei-unfall-mit-seinem-toeff-ld.4220593",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Glosse Mosttröpfli die Tz Verabschiedet Ihren Hans Ins Glück",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/glosse-mosttroepfli-die-tz-verabschiedet-ihren-hans-ins-glueck-ld.4218698",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "U15-WM im Disneyland: Geheimplan von FIFA und Investoren wird publik",
+      "url": "https://www.watson.ch/sport/fifa/319008204-u15-wm-im-disneyland-geheimplan-von-fifa-und-investoren-wird-publik",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Vincent Sierro kündigt bei Saudis und will nach Europa",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-vincent-sierro-kuendigt-bei-saudis-und-will-nach-europa",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wohnung ohne Kaution: Mit diesem Trick locken Schweizer Vermieter",
+      "url": "https://www.watson.ch/schweiz/immobilien/731152140-wohnung-ohne-kaution-mit-diesem-trick-locken-schweizer-vermieter",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Fall Musiala: Wie man Tagträumen von Absencen unterscheiden kann",
+      "url": "https://www.freiburger-nachrichten.ch/story/284258/fall-musiala-wie-man-tagtr%C3%A4umen-von-absencen-unterscheiden-kann",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zeichen aus der Dunkelheit im Kunstmuseum Luzern mit einer grossen biblischen Botschaft",
+      "url": "https://www.bote.ch/nachrichten/kultur/kunstmuseum-luzern-mit-judith-albert-zeichen-aus-der-dunkelheit-art-1717750",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Der Newsletter Kommt Gleich Doppelt",
+      "url": "https://www.infosperber.ch/medien/der-newsletter-kommt-gleich-doppelt/",
+      "summary": "",
+      "published": "2026-08-21T09:32:30.170554+00:00"
     }
   ]
 }
