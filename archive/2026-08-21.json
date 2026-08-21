@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-21T01:39:39.754625+00:00",
+  "generated": "2026-08-21T02:02:25.294802+00:00",
   "date": "2026-08-21",
-  "count": 44,
+  "count": 45,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -310,6 +310,13 @@
       "url": "https://www.badenertagblatt.ch/leserbeitrag/bt/geburtstags-gruss-kurt-maurer-ld.4217920",
       "summary": "",
       "published": "2026-08-21T01:29:00.687485+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Regierungswahlen im Februar – Parteivorstand empfiehlt Nein zu Dittli",
+      "url": "https://www.srf.ch/news/schweiz/regierungswahlen-im-februar-parteivorstand-empfiehlt-nein-zu-dittli",
+      "summary": "Nach dem Präsidium der Waadtländer Mitte distanziert sich auch der Parteivorstand von Regierungsrätin Valérie Dittli.",
+      "published": "2026-08-21T02:02:25.294802+00:00"
     }
   ]
 }
