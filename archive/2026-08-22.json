@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-21T22:02:37.752578+00:00",
+  "generated": "2026-08-21T22:32:45.473547+00:00",
   "date": "2026-08-22",
-  "count": 2,
+  "count": 16,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,104 @@
       "url": "https://www.freiburger-nachrichten.ch/story/283515/finanzierung-regionaler-aufgaben-kommt-auf-den-tisch",
       "summary": "",
       "published": "2026-08-21T22:02:37.752578+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Zürichsee-Muscheln für Sterneköche: Er holt invasive Muscheln aus dem Wasser – und verkauft sie der Gastronomie",
+      "url": "https://www.blick.ch/wirtschaft/zuerichsee-muscheln-fuer-sternekoeche-er-holt-invasive-muscheln-aus-dem-wasser-und-verkauft-sie-der-gastronomie-id22201364.html",
+      "summary": "Spaghetti alle vongole aus dem Zürichsee? Kein Witz. Manuel Vock holt kiloweise invasive Körbchenmuscheln aus dem Wasser – und beliefert damit Spitzenrestaurants. Und das Beste: Auch du kannst ganz ei",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "6 Meter Eis geschmolzen, 30 Gletscher verschwinden – Glaziologe schlägt Alarm: 2026 ist ein Massaker für Schweizer Gletscher!",
+      "url": "https://www.blick.ch/schweiz/6-meter-eis-geschmolzen-30-gletscher-verschwinden-glaziologe-schlaegt-alarm-2026-ist-ein-massaker-fuer-schweizer-gletscher-id22201122.html",
+      "summary": "Sechs Meter Eis in einem Jahr verloren: Glaziologe Matthias Huss misst den dramatischen Rückgang des Griesgletschers im Wallis. Der Sommer 2026 gehört zu den schlimmsten für Schweizer Gletscher.",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zwei Zürcher Juwele erfüllen sich den Traum vom Ausland",
+      "url": "https://www.20min.ch/story/osc-lille-zwei-zuercher-juwele-erfuellen-sich-den-traum-vom-ausland-103620838",
+      "summary": "Die Gebrüder Raphaël Coulibaly (16) und Parfait Coulibaly (17) wechseln von der Nachwuchsabteilung des FC Zürich nach Frankreich zur OSC Lille.",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Ich gseh öppis, wo du nid gsehsch»&nbsp;– oder umgekehrt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ich-gseh-oeppis-wo-du-nid-gsehsch-oder-umgekehrt-art-1717430",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zusammen schaffen wir das",
+      "url": "https://www.bote.ch/nachrichten/schwyz/zusammen-schaffen-wir-das-art-1717753",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vieh litt unter Hitze und einem neuen Virus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/neues-virus-breitet-sich-in-schwyz-aus-art-1717741",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Superreiche überbieten sich gegenseitig: Aus 7,25 werden 9,5&nbsp;Millionen Franken",
+      "url": "https://www.bote.ch/nachrichten/schwyz/superreiche-ueberbieten-sich-gegenseitig-aus-725-werden-95-millionen-franken-art-1717742",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sattel-Hochstuckli&nbsp;AG landet bei schwarzer Null&nbsp;–&nbsp;und hofft auf den Magic Pass",
+      "url": "https://www.bote.ch/nachrichten/schwyz/sattel-hochstuckli-ag-landet-bei-schwarzer-null-und-hofft-auf-den-magic-pass-art-1717746",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ralph Gwerder: «Es gibt keine Krise der Ehrenamtlichkeit»",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ralph-gwerder-es-gibt-keine-krise-der-ehrenamtlichkeit-art-1717760",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Musiker Shem Thomas setzt auf das Sein statt den Schein",
+      "url": "https://www.bote.ch/nachrichten/schwyz/musiker-shem-thomas-setzt-auf-das-sein-statt-den-schein-art-1717752",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Küssnachter Kulturpreis: Das sind die Nominierten der Kategorie Einzelperson",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kuessnachter-kulturpreis-das-sind-die-nominierten-der-kategorie-einzelperson-art-1717785",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kaufangebote aus Amerika und Hongkong für die Oechslin-Bibliothek",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kaufangebote-aus-amerika-und-hongkong-fuer-die-oechslin-bibliothek-art-1717780",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Das ist der schönste und vielfältigste Schwyzer Garten",
+      "url": "https://www.bote.ch/nachrichten/schwyz/das-ist-der-schoenste-und-vielfaeltigste-schwyzer-garten-art-1717732",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bikepark Mythen: Freizeitspass oder Gefahr für die Natur?",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bikepark-mythen-freizeitspass-oder-gefahr-fuer-die-natur-art-1717765",
+      "summary": "",
+      "published": "2026-08-21T22:32:45.473547+00:00"
     }
   ]
 }
