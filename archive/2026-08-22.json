@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T19:02:55.787114+00:00",
+  "generated": "2026-08-22T19:26:19.952120+00:00",
   "date": "2026-08-22",
-  "count": 555,
+  "count": 560,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3887,6 +3887,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/sc-kriens-gewinnt-20-in-wil-und-rueckt-auf-platz-4-vor-art-1717942",
       "summary": "",
       "published": "2026-08-22T19:02:55.787114+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schweizer Cup: GC und FCZ lassen ihren Gegnerinnen keine Chance",
+      "url": "https://www.tagesanzeiger.ch/fc-zuerich-frauen-14-0-kantersieg-gegen-uster-im-cup-765920544518",
+      "summary": "Die beiden Zürcher Clubs gewinnen die erste Cuprunde hoch und können sich ohne Sorge auf die nächste Runde vorbereiten.",
+      "published": "2026-08-22T19:26:19.952120+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Die Noten des Fc Luzern zum Sieg Gegen Lausanne",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/die-noten-des-fc-luzern-zum-sieg-gegen-lausanne-ld.4220896",
+      "summary": "",
+      "published": "2026-08-22T19:26:19.952120+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lila und Leo: Das sind die Modetrends für Herbst 2026",
+      "url": "https://www.watson.ch/leben/konsum/225621149-lila-und-leo-das-sind-die-modetrends-fuer-herbst-2026",
+      "summary": "",
+      "published": "2026-08-22T19:26:19.952120+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "300 Pizzen bestellt – jetzt drohen einem 23-Jährigen 8 Jahre Haft",
+      "url": "https://www.watson.ch/international/leben/981512460-300-pizzen-bestellt-jetzt-drohen-einem-23-jaehrigen-8-jahre-haft",
+      "summary": "",
+      "published": "2026-08-22T19:26:19.952120+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Letica hält dicht, Di Giusto glänzt: Die FCL-Noten zum Sieg gegen Lausanne im Jubiläumsspiel",
+      "url": "https://www.bote.ch/nachrichten/sport/die-noten-des-fc-luzern-zum-sieg-gegen-lausanne-art-1717943",
+      "summary": "",
+      "published": "2026-08-22T19:26:19.952120+00:00"
     }
   ]
 }
