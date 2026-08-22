@@ -4,7 +4,7 @@
     "etag": "\"11bca6fe203f8faf2bf04ec9f9fcef97\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17d6c-qypNtjF/XCo59pcd2KEtpc+xpO8\""
+    "etag": "W/\"17d5e-UUKaSgoM98J+ilhE2RDHoXCL0hg\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
     "etag": "W/\"bac2-ZFVSDbffzhIrwzeRzStnOOzpGWk\""
@@ -16,7 +16,7 @@
     "last_modified": "Sat, 22 Aug 2026 23:05:16 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Sat, 22 Aug 2026 23:27:52 GMT"
+    "last_modified": "Sat, 22 Aug 2026 23:32:00 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Sat, 22 Aug 2026 23:12:20 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1787310674\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sat, 22 Aug 2026 23:15:22 GMT",
-    "etag": "W/\"1787440522-gzip\""
+    "last_modified": "Sat, 22 Aug 2026 23:30:21 GMT",
+    "etag": "W/\"1787441421-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"19c2b-r6BD8tRV/5F2EBvHZFrRMFeS1lw\""
