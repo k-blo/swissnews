@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T01:15:54.621802+00:00",
+  "generated": "2026-08-22T01:32:34.858281+00:00",
   "date": "2026-08-22",
-  "count": 28,
+  "count": 29,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -198,6 +198,13 @@
       "url": "https://www.zentralplus.ch/news/boeing-ingenieure-drohen-mit-streik-2893738/",
       "summary": "Dem US-Flugzeugbauer Boeing droht ein Streik seiner Ingenieure und Techniker. Rund 17&#8217;000 Mitglieder der Gewerkschaft SPEEA lehnten ein Vertragsangebot ab und machten damit den Weg für einen Str",
       "published": "2026-08-22T01:02:37.163019+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "19-Jähriger stürzt beim Klettern 40 Meter in den Tod",
+      "url": "https://www.20min.ch/story/unglueck-am-grossglockner-19-jaehriger-stuerzt-beim-klettern-40-meter-in-den-tod-103620842",
+      "summary": "Ein 19-jähriger Deutscher ist in Tirol tödlich verunglückt. Wie es zu dem 40-Meter-Sturz kam, ist noch unklar.",
+      "published": "2026-08-22T01:32:34.858281+00:00"
     }
   ]
 }
