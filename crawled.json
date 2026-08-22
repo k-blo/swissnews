@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T09:19:51.394570+00:00",
+  "generated": "2026-08-22T09:32:34.700638+00:00",
   "date": "2026-08-22",
-  "count": 321,
+  "count": 326,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2249,6 +2249,41 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/der-teufel-traegt-prada-2-beendet-open-air-kino-art-1717928",
       "summary": "",
       "published": "2026-08-22T09:19:51.394570+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Explosion in Garage in Kerzers/FR",
+      "url": "https://www.zentralplus.ch/news/explosion-in-garage-in-kerzers-fr-2893781/",
+      "summary": "In einer Garage in Kerzers im Kanton Freiburg ist es zu einer Explosion gekommen. Ein Mann wurde bei dem Vorfall schwer verletzt. Der Mann sei dort mit Arbeiten beschäftigt gewesen, schreibt die Poliz",
+      "published": "2026-08-22T09:32:34.700638+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kulturpreisfeier im Theater Chur die Besten Bilder",
+      "url": "https://www.suedostschweiz.ch/graubuenden/kulturpreisfeier-im-theater-chur-die-besten-bilder-2131667",
+      "summary": "",
+      "published": "2026-08-22T09:32:34.700638+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SVP-Spitze schwört auf Kampf gegen EU-Abkommen ein",
+      "url": "https://www.watson.ch/schweiz/eu/477680951-svp-spitze-schwoert-auf-kampf-gegen-eu-abkommen-ein",
+      "summary": "",
+      "published": "2026-08-22T09:32:34.700638+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kroatien: Deutsches Kleinflugzeug stürzt ab – Tote",
+      "url": "https://www.watson.ch/international/luftfahrt/944802857-kroatien-deutsches-kleinflugzeug-stuerzt-ab-tote",
+      "summary": "",
+      "published": "2026-08-22T09:32:34.700638+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Mann bei Explosion schwer verletzt",
+      "url": "https://www.freiburger-nachrichten.ch/story/284536/mann-bei-explosion-schwer-verletzt",
+      "summary": "",
+      "published": "2026-08-22T09:32:34.700638+00:00"
     }
   ]
 }
