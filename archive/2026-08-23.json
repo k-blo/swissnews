@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T23:02:32.043987+00:00",
+  "generated": "2026-08-22T23:28:58.395774+00:00",
   "date": "2026-08-23",
-  "count": 10,
+  "count": 12,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -72,6 +72,20 @@
       "url": "https://www.zentralplus.ch/news/aggressiveres-vorgehen-bei-kunstraub-2893849/",
       "summary": "Kunsträuber in Europa gehen immer aggressiver vor, auch in Schweizer Museen, wie die «NZZ am Sonntag» berichtet. Sie hatte Einblick in einen unveröffentlichten Bericht der EU-Polizeibehörde Europol. T",
       "published": "2026-08-22T23:02:32.043987+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Italien nimmt Migranten nicht zurück",
+      "url": "https://www.zentralplus.ch/news/italien-nimmt-migranten-nicht-zurueck-2893851/",
+      "summary": "Trotz neuer EU-Regeln weigert sich Rom, nach Deutschland weitergereiste Migrantinnen und Migranten zurückzunehmen. Vize-Regierungschef Matteo Salvini kritisierte deutsche Hilfsorganisationen, die Boot",
+      "published": "2026-08-22T23:28:58.395774+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran droht Nachbarn & Weltgemeinschaft",
+      "url": "https://www.zentralplus.ch/news/iran-droht-nachbarn-weltgemeinschaft-2893852/",
+      "summary": "Die iranische Führung in Teheran droht im Konflikt mit den USA den Nachbarstaaten und der Weltgemeinschaft. Jedes Land, das sich an den US-Wirtschaftssanktionen gegen den Iran beteilige, werde als «Fe",
+      "published": "2026-08-22T23:28:58.395774+00:00"
     }
   ]
 }
