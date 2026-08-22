@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T15:26:20.971939+00:00",
+  "generated": "2026-08-22T15:32:25.969219+00:00",
   "date": "2026-08-22",
-  "count": 481,
+  "count": 485,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3369,6 +3369,34 @@
       "url": "https://www.watson.ch/schweiz/immobilien/280444691-vitznau-ueli-maurer-will-400-jaehriges-haus-fuer-luxuswohnungen-abreissen",
       "summary": "",
       "published": "2026-08-22T15:26:20.971939+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Transport – Mit Digitalisierung: So kämpfen Kleinseilbahnen ums Überleben",
+      "url": "https://www.srf.ch/news/dialog/transport-mit-digitalisierung-so-kaempfen-kleinseilbahnen-ums-ueberleben",
+      "summary": "Fast jede zweite Kleinseilbahn der Schweiz hat finanzielle Probleme. Wie zwei von ihnen überleben.",
+      "published": "2026-08-22T15:32:25.969219+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Blinder Passagier: Nach Rückkehr von Kos: Reisende am Flughafen von Skorpion gestochen",
+      "url": "https://www.bernerzeitung.ch/flughafen-duesseldorf-frau-von-skorpion-gestochen-869729602872",
+      "summary": "In Düsseldorf ist eine Frau von einem Skorpion gestochen worden, der sich in ihrer Jacke versteckt hatte. Ein Reptilienexperte der Feuerwehr fing das Tier ein.",
+      "published": "2026-08-22T15:32:25.969219+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Jetzt Live Holt der Fc Luzern im Jubiläumsspiel Gegen Lausanne den Ersten Sieg",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/jetzt-live-holt-der-fc-luzern-im-jubilaeumsspiel-gegen-lausanne-den-ersten-sieg-ld.4220774",
+      "summary": "",
+      "published": "2026-08-22T15:32:25.969219+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Jetzt live: Holt der FC Luzern im Jubiläumsspiel gegen den FC Lausanne-Sport den ersten Sieg?",
+      "url": "https://www.bote.ch/nachrichten/sport/jetzt-live-holt-der-fc-luzern-im-jubilaeumsspiel-gegen-lausanne-den-ersten-sieg-art-1717941",
+      "summary": "",
+      "published": "2026-08-22T15:32:25.969219+00:00"
     }
   ]
 }
