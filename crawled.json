@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T21:15:00.792229+00:00",
+  "generated": "2026-08-22T21:32:39.245033+00:00",
   "date": "2026-08-22",
-  "count": 596,
+  "count": 597,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4174,6 +4174,13 @@
       "url": "https://www.watson.ch/sport/bundesliga/110541592-alessandro-romano-schiesst-erstes-serie-a-tor-cagliari-gewinnt-1-0",
       "summary": "",
       "published": "2026-08-22T21:15:00.792229+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Michael Frey mit Doppelpack bei 4:4 von Royal Antwerp",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-michael-frey-mit-doppelpack-bei-4-4-von-royal-antwerp",
+      "summary": "",
+      "published": "2026-08-22T21:32:39.245033+00:00"
     }
   ]
 }
