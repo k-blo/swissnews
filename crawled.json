@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T22:32:43.842464+00:00",
+  "generated": "2026-08-22T23:02:32.043987+00:00",
   "date": "2026-08-23",
-  "count": 6,
+  "count": 10,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -44,6 +44,34 @@
       "url": "https://www.bzbasel.ch/sport/fc-basel/fc-basel-coach-lichtsteiner-siegt-in-zuerich-bleibt-aber-unter-druck-ld.4220173",
       "summary": "",
       "published": "2026-08-22T22:32:43.842464+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Anti-AKW-Studie erhitzt die Gemüter: Atomstreit um die ZHAW",
+      "url": "https://www.blick.ch/politik/anti-akw-studie-erhitzt-die-gemueter-atomstreit-um-die-zhaw-id22202305.html",
+      "summary": "Wurde die Zürcher Hochschule politisch instrumentalisiert? Drei Kantonsräte verlangen eine Untersuchung. Im Zentrum steht die Frage, wie unabhängig eine umstrittene AKW-Studie war.",
+      "published": "2026-08-22T23:02:32.043987+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Alles zum Klassiker: Stephan Lichtsteiner beendet die schwierige Woche mit einem Sieg",
+      "url": "https://www.bazonline.ch/fc-basel-spielbericht-aus-der-super-league-508123216804",
+      "summary": "Der FCB gewinnt beim FC Zürich 2:1. Der FCB-Trainer hat keine einfachen Tage hinter sich, «in denen viel Unruhe von aussen kam».",
+      "published": "2026-08-22T23:02:32.043987+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Die FCB-Spieler in der Einzelkritik: Salvi wird zum grossen Helden und Victory macht es wieder gut",
+      "url": "https://www.bazonline.ch/fc-basel-gewinnt-klassiker-mirko-salvi-mit-der-bestnote-978473332205",
+      "summary": "Beim Sieg des FC Basel in Zürich holen fünf Basler Spieler gute bis sehr gute Noten. Doch es gibt auch zwei Ungenügende.",
+      "published": "2026-08-22T23:02:32.043987+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Aggressiveres Vorgehen bei Kunstraub",
+      "url": "https://www.zentralplus.ch/news/aggressiveres-vorgehen-bei-kunstraub-2893849/",
+      "summary": "Kunsträuber in Europa gehen immer aggressiver vor, auch in Schweizer Museen, wie die «NZZ am Sonntag» berichtet. Sie hatte Einblick in einen unveröffentlichten Bericht der EU-Polizeibehörde Europol. T",
+      "published": "2026-08-22T23:02:32.043987+00:00"
     }
   ]
 }
