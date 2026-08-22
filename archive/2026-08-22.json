@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T05:03:22.226597+00:00",
+  "generated": "2026-08-22T05:13:45.859836+00:00",
   "date": "2026-08-22",
-  "count": 212,
+  "count": 218,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1486,6 +1486,48 @@
       "url": "https://www.watson.ch/schweiz/reviews/334639926-in-hitze-arena-streiten-gruene-und-svp-doch-andere-machen-eindruck",
       "summary": "",
       "published": "2026-08-22T05:03:22.226597+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Brand in Crans-Montana: Zeuge verrät neue Details zum gefährlichen Schaumstoff",
+      "url": "https://www.blick.ch/schweiz/brand-in-crans-montana-jetzt-gibt-es-neue-details-zum-gefaehrlichen-schaumstoff-id22201705.html",
+      "summary": "Nach dem verheerenden Brand in Crans-Montana mit 41 Toten gibt es neue Details zum gefährlichen Akustikschaumstoff, der die Katastrophe auslöste. Ausserdem ist auch die Rechnung für den Schaumstoff au",
+      "published": "2026-08-22T05:13:45.859836+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Skyguide kündigt Messflüge in mehreren Nächten an",
+      "url": "https://www.tagesanzeiger.ch/skyguide-messfluege-am-flughafen-zuerich-bis-2-uhr-nachts-635823713662",
+      "summary": "Bis um 2 Uhr morgens wird in der kommenden Woche am Flughafen Zürich geflogen. Grund ist eine periodisch durchgeführte Überprüfung der Navigationsanlagen.",
+      "published": "2026-08-22T05:13:45.859836+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Abstimmung vom 27. September: Zweiter Anlauf: Zürich stimmt erneut über höhere Entschädigungen für den Gemeinderat ab",
+      "url": "https://www.tagesanzeiger.ch/zuerich-stimmt-am-27-september-ueber-gemeinderatsgehaelter-ab-710932529276",
+      "summary": "Vor anderthalb Jahren sagten die Stadtzürcher Stimmberechtigten Nein zu höheren Entschädigungen für den Gemeinderat. Nun kommt eine abgespeckte Vorlage an die Urne.",
+      "published": "2026-08-22T05:13:45.859836+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Grundbedarf in der Sozialhilfe: Kanton Bern zahlt weniger als alle anderen für Kleider, Essen und Haushalt",
+      "url": "https://www.bernerzeitung.ch/sozialhilfe-kanton-bern-zahlt-schweizweit-am-wenigsten-736056423566",
+      "summary": "Die Sozial­direktion unter Regierungs­rat Pierre Alain Schnegg aktualisiert die Sozial­hilfe­verordnung. Ausgerechnet beim Grund­bedarf ignoriert sie die nationalen Empfehlungen.",
+      "published": "2026-08-22T05:13:45.859836+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der kanadische Premierminister Mark Carney und US-Präsident Donald Trump",
+      "url": "https://www.watson.ch/wirtschaft/international/115839847-der-kanadische-premierminister-mark-carney-und-us-praesident-donald-trump",
+      "summary": "",
+      "published": "2026-08-22T05:13:45.859836+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Apple beziffert Steuerzahlungen in Deutschland und Europa",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/apple-beziffert-steuerzahlungen-in-deutschland-und-europa-art-1717921",
+      "summary": "",
+      "published": "2026-08-22T05:13:45.859836+00:00"
     }
   ]
 }
