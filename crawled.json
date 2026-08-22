@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T00:33:42.234781+00:00",
+  "generated": "2026-08-22T01:02:37.163019+00:00",
   "date": "2026-08-22",
-  "count": 27,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -191,6 +191,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/hat-general-guisan-die-neutralitaet-im-zweiten-weltkrieg-gebrochen-ja-big-time",
       "summary": "",
       "published": "2026-08-22T00:33:42.234781+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Boeing-Ingenieure drohen mit Streik",
+      "url": "https://www.zentralplus.ch/news/boeing-ingenieure-drohen-mit-streik-2893738/",
+      "summary": "Dem US-Flugzeugbauer Boeing droht ein Streik seiner Ingenieure und Techniker. Rund 17&#8217;000 Mitglieder der Gewerkschaft SPEEA lehnten ein Vertragsangebot ab und machten damit den Weg für einen Str",
+      "published": "2026-08-22T01:02:37.163019+00:00"
     }
   ]
 }
