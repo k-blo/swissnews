@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T17:29:48.053769+00:00",
+  "generated": "2026-08-22T17:32:55.231427+00:00",
   "date": "2026-08-22",
-  "count": 521,
+  "count": 523,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3649,6 +3649,20 @@
       "url": "https://www.watson.ch/leben/immobilien/263646873-8-der-farbenfrohsten-gebaeude-der-welt",
       "summary": "",
       "published": "2026-08-22T17:29:48.053769+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sichert sich Bayern gegen Dortmund den ersten Titel der Saison?",
+      "url": "https://www.20min.ch/story/gib-deinen-tipp-ab-sichert-sich-bayern-gegen-dortmund-den-ersten-titel-der-saison-103621019",
+      "summary": "Der amtierende Deutsche Meister und DFB-Pokal-Sieger aus München trifft im Supercup auf Borussia Dortmund. Los geht es um 20:30 Uhr.",
+      "published": "2026-08-22T17:32:55.231427+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Der Klassiker Zwischen dem Fc Basel und dem Fc Zürich im Liveticker",
+      "url": "https://www.bzbasel.ch/sport/fc-basel/der-klassiker-zwischen-dem-fc-basel-und-dem-fc-zuerich-im-liveticker-ld.4220438",
+      "summary": "",
+      "published": "2026-08-22T17:32:55.231427+00:00"
     }
   ]
 }
