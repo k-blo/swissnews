@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T22:02:39.081394+00:00",
+  "generated": "2026-08-22T22:32:43.842464+00:00",
   "date": "2026-08-23",
-  "count": 1,
+  "count": 6,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -9,6 +9,41 @@
       "url": "https://www.freiburger-nachrichten.ch/story/284081/das-restaurant-zur-ringmauer-ist-eine-besondere-herberge",
       "summary": "",
       "published": "2026-08-22T22:02:39.081394+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Editorial über die Schweiz und den Ukrainekrieg: Wir sind neutral. Putin nicht",
+      "url": "https://www.blick.ch/meinung/editorial-ueber-die-schweiz-und-den-ukrainekrieg-wir-sind-neutral-putin-nicht-id22203010.html",
+      "summary": "Der verurteilte 200-Dollar-Agent aus dem Thurgau ist nur das aktuellste Beispiel dafür, wie weit Russlands Krieg über die ukrainische Front hinausreicht.",
+      "published": "2026-08-22T22:32:43.842464+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Blick hat ihn in der Schweiz aufgespürt: Putins Spion aus dem Thurgau ist zurück",
+      "url": "https://www.blick.ch/politik/blick-hat-ihn-in-der-schweiz-aufgespuert-putins-spion-aus-dem-thurgau-ist-zurueck-id22202445.html",
+      "summary": "Für 200 Dollar liess sich Yevhen B. vom Kreml anwerben. Ein Gericht sprach ihn wegen Agententätigkeit schuldig. Nun ist er wieder auf freiem Fuss. Kann er einfach in der Schweiz bleiben?",
+      "published": "2026-08-22T22:32:43.842464+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Haushalts-Fail 2.0: Bern sichert sich die Wut der Frauen",
+      "url": "https://www.blick.ch/meinung/haushalts-fail-2-0-bern-sichert-sich-die-wut-der-frauen-id22202315.html",
+      "summary": "Millionen für Bauern und Soldaten, aber kein Geld für Frauen. Der Haushalt 2027 spart erneut bei der Gewaltprävention. Es könnte ein heisser Herbst werden.",
+      "published": "2026-08-22T22:32:43.842464+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Mirko Salvi Rettet dem Fcb in Zürich den Sieg und Macht eine Ansage",
+      "url": "https://www.bzbasel.ch/sport/fc-basel/mirko-salvi-rettet-dem-fcb-in-zuerich-den-sieg-und-macht-eine-ansage-ld.4221154",
+      "summary": "",
+      "published": "2026-08-22T22:32:43.842464+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Fc Basel Coach Lichtsteiner Siegt in Zürich Bleibt aber Unter Druck",
+      "url": "https://www.bzbasel.ch/sport/fc-basel/fc-basel-coach-lichtsteiner-siegt-in-zuerich-bleibt-aber-unter-druck-ld.4220173",
+      "summary": "",
+      "published": "2026-08-22T22:32:43.842464+00:00"
     }
   ]
 }
