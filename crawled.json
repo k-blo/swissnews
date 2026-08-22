@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T15:37:16.574378+00:00",
+  "generated": "2026-08-22T16:03:05.223103+00:00",
   "date": "2026-08-22",
-  "count": 490,
+  "count": 500,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3432,6 +3432,76 @@
       "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-norris-startet-in-zandvoort-von-der-pole-position",
       "summary": "",
       "published": "2026-08-22T15:37:16.574378+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Weinlese im Hochsommer – Hitze sorgt für ungewöhnlich frühe Traubenernte in der Schweiz",
+      "url": "https://www.srf.ch/news/dialog/weinlese-im-hochsommer-hitze-sorgt-fuer-ungewoehnlich-fruehe-traubenernte-in-der-schweiz",
+      "summary": "Schweizer Winzerinnen und Winzer haben bereits mit der Weinlese begonnen – so früh wie selten zuvor.",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Maschine ging wieder in den Steigflug»: Zwei Wizz-Air-Flüge können nicht in Basel landen – das ist der Grund",
+      "url": "https://www.blick.ch/schweiz/basel/maschine-ging-wieder-in-den-steigflug-zwei-wizz-air-fluege-koennen-nicht-in-basel-landen-das-ist-der-grund-id22202757.html",
+      "summary": "Zwei Wizz-Air-Flüge mussten am Donnerstag wegen ungünstiger meteorologischer Bedingungen von Basel nach Stuttgart umgeleitet werden. Ein Blick-Leser bemerkte, wie eine der Maschinen durchstarten musst",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Immer mehr Millionäre zieht es nach Italien statt in die Schweiz",
+      "url": "https://www.20min.ch/story/steuerfluechtlinge-immer-mehr-millionaere-zieht-es-nach-italien-statt-in-die-schweiz-103620903",
+      "summary": "Die Schweiz bleibt bei Vermögenden beliebt. Aber dieses Jahr dürften nur noch 1800 Millionäre zuziehen – nach 3000 im Vorjahr.",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "US-Schauspieler Michael Wright stirbt mit 70 Jahren",
+      "url": "https://www.20min.ch/story/new-york-city-us-schauspieler-michael-wright-stirbt-mit-70-jahren-103621016",
+      "summary": "Michael Wright ist tot. Der US-Schauspieler, der durch Filme wie «Sugar Hill» oder «The Five Heartbeats» bekannt wurde, starb mit 70 Jahren.",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kaltërina Latifi über einen hitzigen Sommer: Ab wann ist eine Frau eine Frau?",
+      "url": "https://www.tagesanzeiger.ch/marzilibad-eklat-was-ist-eine-frau-965865292671",
+      "summary": "Marzilibad-Affäre, Klimakrise und dann auch noch die Fussball-WM: Es war kein Sommer für Zartbesaitete. Wenigstens in Bern ist man jetzt schlauer.",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Wasserschlacht in Basel: Kampfgesänge, Schilde und selbst gebastelte Pistolen – dann fliegen die Ballone",
+      "url": "https://www.bazonline.ch/wasserschlacht-basel-gross-gegen-kleinbasel-auf-der-dreirosenbruecke-411305900697",
+      "summary": "Auf der Dreirosenbrücke verabreden sich Gross- und Kleinbasler per Social Media zur jährlichen Wasserschlacht. 40 Minuten lang kreischen, lachen und durchnässen sich rund 100 Teilnehmende.",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "UKR und RUS: Gegenseitige Angriffe",
+      "url": "https://www.zentralplus.ch/news/ukr-und-rus-gegenseitige-angriffe-2893834/",
+      "summary": "Die Ukraine und Russland haben sich erneut gegenseitig angegriffen. Beide Seiten melden zivile Todesopfer. In der ukrainischen Hauptstadt Kiew hat es Luftalarm gegeben, als der deutsche Aussenminister",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Waldbrand im Tessin",
+      "url": "https://www.zentralplus.ch/news/waldbrand-im-tessin-2893831/",
+      "summary": "In einer abgelegenen Gegend in der Nähe von Brione Verzasca/TI ist ein Waldbrand ausgebrochen. Die Bevölkerung werde dringend gebeten, das betroffene Gebiet nicht zu betreten, schreiben die Behörden. ",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Liveticker der Fc Wil Spielt in der Challenge Leagü Zuhause Gegen Kriens",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/liveticker-der-fc-wil-spielt-in-der-challenge-league-zuhause-gegen-kriens-ld.4217905",
+      "summary": "",
+      "published": "2026-08-22T16:03:05.223103+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FC Luzern – Lausanne-Sport: Die Super League live im Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/433584480-fc-luzern-lausanne-sport-die-super-league-live-im-ticker",
+      "summary": "",
+      "published": "2026-08-22T16:03:05.223103+00:00"
     }
   ]
 }
