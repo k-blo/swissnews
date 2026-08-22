@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T20:02:39.074650+00:00",
+  "generated": "2026-08-22T20:15:59.822269+00:00",
   "date": "2026-08-22",
-  "count": 569,
+  "count": 571,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3985,6 +3985,20 @@
       "url": "https://www.watson.ch/spass/italien/811574079-falscher-priester-aus-rom-bekommt-konkurrenz",
       "summary": "",
       "published": "2026-08-22T20:02:39.074650+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Feuer: EU schickt Hilfe nach Serbien",
+      "url": "https://www.zentralplus.ch/news/feuer-eu-schickt-hilfe-nach-serbien-2893845/",
+      "summary": "Die Europäische Union unterstützt Serbien bei der Bekämpfung eines Waldbrandes in einem Naturschutzgebiet. Sie schickt vier Löschhelikopter und Feuerwehrleute nach Serbien, wie der EU-Botschafter für ",
+      "published": "2026-08-22T20:15:59.822269+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Deutlich zerstörerischer»: Putin kündigt der Ukraine harte Antwort an",
+      "url": "https://www.watson.ch/international/russland/644543245-deutlich-zerstoererischer-putin-kuendigt-der-ukraine-harte-antwort-an",
+      "summary": "",
+      "published": "2026-08-22T20:15:59.822269+00:00"
     }
   ]
 }
