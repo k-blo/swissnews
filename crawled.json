@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T23:32:50.606456+00:00",
+  "generated": "2026-08-23T00:02:29.224989+00:00",
   "date": "2026-08-23",
-  "count": 13,
+  "count": 14,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -93,6 +93,13 @@
       "url": "https://www.20min.ch/story/rostock-deutschland-263-kilo-kokain-auf-segeljacht-rentnerpaar-vor-gericht-103621272",
       "summary": "Ein Rentnerpaar soll 263 Kilogramm Kokain von Südamerika nach Europa geschmuggelt haben. Der Ehemann gesteht – und beteuert, seine Frau habe nichts von den Drogen gewusst.",
       "published": "2026-08-22T23:32:50.606456+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nach Minenunglück in Zentralafrika",
+      "url": "https://www.zentralplus.ch/news/nach-minenunglueck-in-zentralafrika-2893855/",
+      "summary": "Die Regierung der Zentralafrikanischen Republik zieht Konsequenzen aus dem Einsturz einer Goldmine vor wenigen Tagen. Der zuständige Bergbauminister hat die Schliessung der Anlage im Westen des Landes",
+      "published": "2026-08-23T00:02:29.224989+00:00"
     }
   ]
 }
