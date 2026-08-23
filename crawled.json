@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T04:02:37.989259+00:00",
+  "generated": "2026-08-23T04:32:21.426386+00:00",
   "date": "2026-08-23",
-  "count": 91,
+  "count": 93,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -639,6 +639,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/284393/zu-besuch-im-keramikatelier-in-ependes",
       "summary": "",
       "published": "2026-08-23T04:02:37.989259+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polit-Affäre in Uster ZH: Der Polizeikommandant und die anonymen Briefe",
+      "url": "https://www.blick.ch/schweiz/zuerich/polit-affaere-in-uster-zh-der-polizeikommandant-und-die-anonymen-briefe-id22200947.html",
+      "summary": "Eine Polizeiaffäre hält Uster ZH in Atem. Blick-Recherchen zeigen: Der mittlerweile abgesetzte Kommandant soll anonyme Schmähbriefe verschickt haben. Zu diesem Schluss kam eine Administrativuntersuchu",
+      "published": "2026-08-23T04:32:21.426386+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Diese sechs Wanderungen zeigen: Kunst gehört nicht ins Museum!",
+      "url": "https://www.freiburger-nachrichten.ch/story/284548/diese-sechs-wanderungen-zeigen-kunst-geh%C3%B6rt-nicht-ins-museum",
+      "summary": "",
+      "published": "2026-08-23T04:32:21.426386+00:00"
     }
   ]
 }
