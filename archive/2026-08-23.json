@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T01:25:45.355397+00:00",
+  "generated": "2026-08-23T01:32:55.444363+00:00",
   "date": "2026-08-23",
-  "count": 21,
+  "count": 22,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -149,6 +149,13 @@
       "url": "https://www.watson.ch/sport/eismeister-zaugg/140754477-eishockey-reto-berra-ehc-kloten-erster-testspiel-einsatz",
       "summary": "",
       "published": "2026-08-23T01:25:45.355397+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Gegen die Normalen Leute Ohne Lobby",
+      "url": "https://weltwoche.ch/story/gegen-die-normalen-leute-ohne-lobby/",
+      "summary": "",
+      "published": "2026-08-23T01:32:55.444363+00:00"
     }
   ]
 }
