@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T21:02:27.653837+00:00",
+  "generated": "2026-08-23T21:24:13.686364+00:00",
   "date": "2026-08-23",
-  "count": 547,
+  "count": 551,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3831,6 +3831,34 @@
       "url": "https://rathuus.ch/hupen-statt-due-da-do-den-postautos-geht-der-dreiklang-aus/",
       "summary": "",
       "published": "2026-08-23T21:02:27.653837+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Berg aus Abfall stürzt ein: Mindestens 30 Tote",
+      "url": "https://www.20min.ch/story/guinea-berg-aus-abfall-stuerzt-ein-mindestens-30-tote-103621612",
+      "summary": "Die Anwohner eines riesigen Müllbergs in Guineas Hauptstadt waren bereits jahrelang Gefahr und Elend ausgesetzt. Nun kam es zur Katastrophe.",
+      "published": "2026-08-23T21:24:13.686364+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Renntage 2026 das War der Ladies Day im Aarauer Schachen",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/renntage-2026-das-war-der-ladies-day-im-aarauer-schachen-ld.4221362",
+      "summary": "",
+      "published": "2026-08-23T21:24:13.686364+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Dolomiten Cup Ev Zug Verliert Final Gegen Kometa Brünn",
+      "url": "https://www.zugerzeitung.ch/sport/evz/dolomiten-cup-ev-zug-verliert-final-gegen-kometa-bruenn-ld.4218088",
+      "summary": "",
+      "published": "2026-08-23T21:24:13.686364+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Gegentore innert zwölf Sekunden: Der EV Zug muss sich im Final geschlagen geben",
+      "url": "https://www.bote.ch/nachrichten/sport/dolomiten-cup-ev-zug-verliert-final-gegen-kometa-bruenn-art-1718063",
+      "summary": "",
+      "published": "2026-08-23T21:24:13.686364+00:00"
     }
   ]
 }
