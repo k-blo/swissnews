@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T01:32:55.444363+00:00",
+  "generated": "2026-08-23T02:02:47.110175+00:00",
   "date": "2026-08-23",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -156,6 +156,20 @@
       "url": "https://weltwoche.ch/story/gegen-die-normalen-leute-ohne-lobby/",
       "summary": "",
       "published": "2026-08-23T01:32:55.444363+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitzesommer Schweiz Landwirtschaft Schlachthöfe zahlen weniger für Kühe",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/932961239-hitzesommer-schweiz-landwirtschaft-schlachthoefe-zahlen-weniger-fuer-kuehe",
+      "summary": "",
+      "published": "2026-08-23T02:02:47.110175+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>B. Bachmann AG – Ihr Maler und Gipser</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/bb-bachmann-ag-ihr-maler-und-gipserb-art-1715317",
+      "summary": "",
+      "published": "2026-08-23T02:02:47.110175+00:00"
     }
   ]
 }
