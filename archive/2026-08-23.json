@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T00:02:29.224989+00:00",
+  "generated": "2026-08-23T00:32:28.413956+00:00",
   "date": "2026-08-23",
-  "count": 14,
+  "count": 17,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,27 @@
       "url": "https://www.zentralplus.ch/news/nach-minenunglueck-in-zentralafrika-2893855/",
       "summary": "Die Regierung der Zentralafrikanischen Republik zieht Konsequenzen aus dem Einsturz einer Goldmine vor wenigen Tagen. Der zuständige Bergbauminister hat die Schliessung der Anlage im Westen des Landes",
       "published": "2026-08-23T00:02:29.224989+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Parlamentarierreisli und die Liebesaffäre am Bundesgericht",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/parlamentarierreisli-und-die-liebesaffaere-am-bundesgericht",
+      "summary": "",
+      "published": "2026-08-23T00:32:28.413956+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Solarpanels Liefern bei Hitze Weniger Strom",
+      "url": "https://www.nebelspalter.ch/themen/2026/08/solarpanels-liefern-bei-hitze-weniger-strom",
+      "summary": "",
+      "published": "2026-08-23T00:32:28.413956+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mark Carney und Donald Trump: Zollkrieg zwischen USA & Kanada eskaliert",
+      "url": "https://www.watson.ch/wirtschaft/international/774630591-mark-carney-und-donald-trump-zollkrieg-zwischen-usa-kanada-eskaliert",
+      "summary": "",
+      "published": "2026-08-23T00:32:28.413956+00:00"
     }
   ]
 }
