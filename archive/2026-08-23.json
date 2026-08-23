@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T05:02:24.116238+00:00",
+  "generated": "2026-08-23T05:29:19.400834+00:00",
   "date": "2026-08-23",
-  "count": 97,
+  "count": 105,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -681,6 +681,62 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/suedkorea-schickt-erstmals-frachter-ueber-arktis-nach-europa-art-1717949",
       "summary": "",
       "published": "2026-08-23T05:02:24.116238+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "SRF-Reporter Donat Hofer: Warum erzählen wildfremde Menschen diesem Mann ihre intimsten Geschichten?",
+      "url": "https://www.bernerzeitung.ch/donat-hofer-wie-der-srf-reporter-ueber-seinen-job-denkt-518306226666",
+      "summary": "Donat Hofer spricht Leute auf der Strasse an – und diese erzählen ihm von Sex, Krankheit, Einsamkeit und Liebe. Seine Begegnung mit dem «Sales Guy» machte ihn kürzlich erst recht bekannt.",
+      "published": "2026-08-23T05:29:19.400834+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Editorial zum Umgang mit Katastrophen: Auch die Dorfmunis gehören in die Verantwortung",
+      "url": "https://www.bernerzeitung.ch/piz-cengalo-warum-dieser-prozess-wichtig-ist-754104291969",
+      "summary": "Selbstverantwortung ist viel zu oft eine Ausrede fürs Nichtstun. Es ist Zeit, dass sich das ändert.",
+      "published": "2026-08-23T05:29:19.400834+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Widerstand im Iselin: «Die Paragrafenreiter vom Kanton haben keinen Sinn fürs Quartierleben»",
+      "url": "https://www.bazonline.ch/allschwilerplatz-6000-unterschriften-fuer-gemuesekiosk-772093691174",
+      "summary": "Seit Jahren wehrt sich Niklaus Fäh gegen den geplanten Abriss seines Gemüsekiosks am Allschwilerplatz. Wie es ihm gelang, die Nachbar­schaft für den Erhalt des beliebten Treffpunkts zu mobilisieren.",
+      "published": "2026-08-23T05:29:19.400834+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Nach dem 2:1 in Zürich: Mirko Salvi: «…und dann kommt dieser Moment»",
+      "url": "https://www.bazonline.ch/fc-basel-salvi-ueber-klassikersieg-gegen-zuerich-766362975676",
+      "summary": "Der Basler Torhüter rettet in einer unterhaltsamen Klassiker-Schlussphase das 2:1 – und spricht über die Unruhen um den Trainer.",
+      "published": "2026-08-23T05:29:19.400834+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Überschlagen, in Baum geknallt und nach 58 Metern zum Stehen gekommen: Töfffahrer bei Ramsen verletzt sich bei Unfall schwer",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-08-23/ueberschlagen-in-baum-geknallt-und-nach-58-metern-zum-stehen",
+      "summary": "In Ramsen hat sich ein Motorradfahrer bei einem Selbstunfall am Samstagabend schwer verletzt. Der 44-Jährige konnte per Helikopter ins Spital gebracht werden.",
+      "published": "2026-08-23T05:29:19.400834+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Grasshoppers Gewinnen Cupspiel Gegen Ff Toggenburg 70",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/grasshoppers-gewinnen-cupspiel-gegen-ff-toggenburg-70-ld.4221168",
+      "summary": "",
+      "published": "2026-08-23T05:29:19.400834+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schwere Sexismus-Vorwürfe bei Westschweizer Zeitung – die Sonntagsnews",
+      "url": "https://www.watson.ch/schweiz/medien/895492337-schwere-sexismus-vorwuerfe-bei-westschweizer-zeitung-die-sonntagsnews",
+      "summary": "",
+      "published": "2026-08-23T05:29:19.400834+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schulnoten wieder auf dem Vormarsch, Richter-Urteile mit KI und Cyberangriff Liechtenstein",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/sonntagspresse-ki-und-richter-schule-und-noten-liechtenstein-und-cyberangriff-art-1717950",
+      "summary": "",
+      "published": "2026-08-23T05:29:19.400834+00:00"
     }
   ]
 }
