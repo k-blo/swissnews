@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T01:02:19.140501+00:00",
+  "generated": "2026-08-23T01:25:45.355397+00:00",
   "date": "2026-08-23",
-  "count": 18,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -128,6 +128,27 @@
       "url": "https://www.watson.ch/international/klima/191669803-waldbrand-friedrich-merz-wird-bei-besuch-im-huertgenwald-ausgepfiffen",
       "summary": "",
       "published": "2026-08-23T00:56:30.428617+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Harry und Meghan kehren nach England zurück – das steckt dahinter",
+      "url": "https://www.20min.ch/story/palast-insider-harry-und-meghan-kehren-nach-england-zurueck-das-steckt-dahinter-103621274",
+      "summary": "Harry und Meghan kehren noch im August nach England zurück. Neben der Einschulung ihrer Kinder gibt es einen weiteren möglichen Grund.",
+      "published": "2026-08-23T01:25:45.355397+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zug: Schule soll wieder fordern",
+      "url": "https://www.zentralplus.ch/news/zug-schule-soll-wieder-fordern-2893857/",
+      "summary": "Der Zuger Bildungsdirektor Stephan Schleiss kündigt in der «NZZ am Sonntag» eine Rückkehr zur verbindlichen Notenpflicht für Prüfungen sowie halbjährliche kantonale Vergleichstests an Schulen an. Note",
+      "published": "2026-08-23T01:25:45.355397+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eishockey Reto Berra EHC Kloten: erster Testspiel-Einsatz",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/140754477-eishockey-reto-berra-ehc-kloten-erster-testspiel-einsatz",
+      "summary": "",
+      "published": "2026-08-23T01:25:45.355397+00:00"
     }
   ]
 }
