@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T07:32:36.048215+00:00",
+  "generated": "2026-08-23T08:02:39.470242+00:00",
   "date": "2026-08-23",
-  "count": 130,
+  "count": 144,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -912,6 +912,104 @@
       "url": "https://www.bazonline.ch/birsfelden-bmw-ueberschlaegt-sich-nach-alkoholfahrt-797649555426",
       "summary": "In der Nacht auf Sonntag überschlägt sich eine 25-jährige Lenkerin mit ihrem Auto auf der Bürklinstrasse. Die Polizei misst bei ihr einen Atemalkoholwert von 0,52 mg/l.",
       "published": "2026-08-23T07:32:36.048215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "UK hasst sie: Ist für Meghan ein TV-Comeback unmöglich?",
+      "url": "https://www.20min.ch/story/meghan-markle-casting-in-the-gentlemen-nach-shitstorm-abgebrochen-103621290",
+      "summary": "Die Nachricht über das mögliche Auftreten der Herzogin von Sussex in einer britischen Netflix-Serie hat so viel Kritik erhalten, dass die Gespräche angeblich abgebrochen wurden.",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kawasaki Ninja landet im Wald – Töfffahrer (16) verletzt",
+      "url": "https://www.20min.ch/story/dornach-ag-kawasaki-ninja-landet-im-wald-toefffahrer-16-verletzt-103621309",
+      "summary": "Im Kanton Aargau hat am Samstagnachmittag ein Motorradfahrer einen Selbstunfall gebaut. Der jugendliche Motorradlenker wurde dabei verletzt.",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "58-Jähriger im Spital: Auto fährt in Laupersdorf beim Abbiegen ein Töffli an",
+      "url": "https://www.bernerzeitung.ch/laupersdorf-mofalenker-bei-unfall-auf-thalstrasse-verletzt-190571946559",
+      "summary": "Bei einem Verkehrsunfall auf der Thalstrasse wurde am Samstagabend ein Mann verletzt. Die Solothurner Polizei geht von einer Unachtsamkeit des Autofahrers aus.",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "YB – Vaduz im Ticker: Fährt YB gegen das punktlose Vaduz den dritten Sieg ein?",
+      "url": "https://www.bernerzeitung.ch/super-league-live-yb-fc-vaduz-um-14-uhr-im-ticker-445436785846",
+      "summary": "YB ist gegen Vaduz klarer Favorit. Können das die Berner auch umsetzen? Die Partie im Liveticker.",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Giftalge in polnischem Kanal",
+      "url": "https://www.zentralplus.ch/news/giftalge-in-polnischem-kanal-2893875/",
+      "summary": "In Südpolen gehen die Behörden verstärkt gegen eine giftige Alge im Gleiwitzer Kanal vor. Die Wasserstrasse verbindet das Industriegebiet um Gliwice mit der Oder. In einem Kanalabschnitt ist die Konze",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Tanken in Frankreich So Viel Diesel und Benzin Darf Abgabenfrei in die Schweiz",
+      "url": "https://www.suedostschweiz.ch/panorama/tanken-in-frankreich-so-viel-diesel-und-benzin-darf-abgabenfrei-in-die-schweiz-2125031",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aare Reuss oder Rhein Erkennen sie die Aargauer Gewässer",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/aare-reuss-oder-rhein-erkennen-sie-die-aargauer-gewaesser-ld.4198513",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Dornach Unfall mit Motorrad 16 Jähriger Verletzt",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/dornach-unfall-mit-motorrad-16-jaehriger-verletzt-ld.4221178",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Fussball Fc Ötwil Geroldswil Gewinnt Gegen den Fc Uster zum Saisonstart",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/fussball-fc-oetwil-geroldswil-gewinnt-gegen-den-fc-uster-zum-saisonstart-ld.4220921",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Japan: Erdbeben der Stärke 5,9 erschüttert Tokio – so klingt der Alarm",
+      "url": "https://www.watson.ch/international/videos/180696695-japan-erdbeben-der-staerke-5-9-erschuettert-tokio-so-klingt-der-alarm",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bund feiert China-Abkommen – doch der NDB sieht erhebliche Risiken",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/567999652-bund-feiert-china-abkommen-doch-der-ndb-sieht-erhebliche-risiken",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Natalie Harp: Gelöschte Posts zeigen, wie sehr sie Donald Trump verehrt",
+      "url": "https://www.watson.ch/international/usa/258328068-natalie-harp-geloeschte-posts-zeigen-wie-sehr-sie-donald-trump-verehrt",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Kantonale Finanzhilfe für Zweisprachigkeitsprojekte",
+      "url": "https://www.freiburger-nachrichten.ch/story/283847/kantonale-finanzhilfe-f%C3%BCr-zweisprachigkeitsprojekte",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Freiburger Bevölkerung spendet knapp 30'000 Franken für Augenhilfe",
+      "url": "https://www.freiburger-nachrichten.ch/story/283695/freiburger-bev%C3%B6lkerung-spendet-knapp-30000-franken-f%C3%BCr-augenhilfe",
+      "summary": "",
+      "published": "2026-08-23T08:02:39.470242+00:00"
     }
   ]
 }
