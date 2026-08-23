@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T07:25:46.630234+00:00",
+  "generated": "2026-08-23T07:32:36.048215+00:00",
   "date": "2026-08-23",
-  "count": 128,
+  "count": 130,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -898,6 +898,20 @@
       "url": "https://www.aargauerzeitung.ch/aargau/fricktal/mumpf-frontalkollision-mit-folgen-ld.4221174",
       "summary": "",
       "published": "2026-08-23T07:25:46.630234+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Man weiss nie mehr wer, wo, was, wann»: FCZ nach VAR ratlos",
+      "url": "https://www.20min.ch/story/pleite-gegen-basel-man-weiss-nie-mehr-wer-wo-was-wann-fcz-nach-var-ratlos-103621281",
+      "summary": "Der FCB siegt 2:1 beim FCZ – auch dank eines zurückgenommenen Handspenaltys. Marcel Koller ist ratlos, Schiri Anojen Kanagasingam erklärt die Regel.",
+      "published": "2026-08-23T07:32:36.048215+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Unfall in Birsfelden: BMW landet auf dem Dach – Fahrerin bleibt unverletzt",
+      "url": "https://www.bazonline.ch/birsfelden-bmw-ueberschlaegt-sich-nach-alkoholfahrt-797649555426",
+      "summary": "In der Nacht auf Sonntag überschlägt sich eine 25-jährige Lenkerin mit ihrem Auto auf der Bürklinstrasse. Die Polizei misst bei ihr einen Atemalkoholwert von 0,52 mg/l.",
+      "published": "2026-08-23T07:32:36.048215+00:00"
     }
   ]
 }
