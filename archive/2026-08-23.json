@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T08:39:09.598739+00:00",
+  "generated": "2026-08-23T08:58:38.921660+00:00",
   "date": "2026-08-23",
-  "count": 173,
+  "count": 183,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1213,6 +1213,76 @@
       "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-mourinho-comeback-bei-real-mit-last-minute-sieg",
       "summary": "",
       "published": "2026-08-23T08:39:09.598739+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Sommer bäumt sich noch mal auf: Über 30 Grad kommende Woche – aber vorher Gewitter im Süden",
+      "url": "https://www.blick.ch/schweiz/sommer-baeumt-sich-noch-mal-auf-ueber-30-grad-kommende-woche-aber-vorher-gewitter-im-sueden-id22203668.html",
+      "summary": "Sonne, Gewitter und sommerliche Temperaturen: Die Schweiz erlebt in den kommenden Tagen eine Wetter-Achterbahn. Am Sonntag zeigt sich vielerorts die Sonne, bevor es in der Nacht auf Dienstag im Süden ",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Luzerner Richter will mit KI Täter wie Vergewaltiger bestrafen",
+      "url": "https://www.20min.ch/story/tool-entwickelt-luzerner-richter-will-mit-ki-taeter-wie-vergewaltiger-bestrafen-103621288",
+      "summary": "Jonas Achermann, Richter am Luzerner Kriminalgericht, hat ein KI-Tool entwickelt, das Strafen berechnen soll – neu auch bei Vergewaltigungen. Unter Juristen ist die Software umstritten.",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Selbstunfall in Dornach: Motorrad überschlägt sich – 16-Jähriger muss ins Spital",
+      "url": "https://www.bazonline.ch/dornach-16-jaehriger-bei-motorradunfall-verletzt-545647489826",
+      "summary": "Auf der Hochwaldstrasse in Dornach ist ein junger Motorradfahrer am Samstag in einer Kurve von der Strasse abgekommen.",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Lichtenstein-Schau in Basel",
+      "url": "https://www.zentralplus.ch/news/lichtenstein-schau-in-basel-2893886/",
+      "summary": "Das Kunstmuseum Basel zeigt Roy Lichtenstein neu auch als Tüftler der Pop-Art. Die Ausstellung «Sweet Dreams, Baby!» umfasst rund 50 Werke und ist bis zum 14. März 2027 zu sehen. Lichtenstein wurde mi",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Offline Club als Gegenwelt",
+      "url": "https://www.zentralplus.ch/news/offline-club-als-gegenwelt-2893884/",
+      "summary": "In Zürich treffen sich Menschen im «Offline Club», um zwei Stunden ohne Smartphone zu verbringen. Die Handys werden abgegeben, danach wird gebastelt, gelesen, geschwiegen und geredet. Seit November or",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fobizz Soll an Luzerns Volksschulen Standard Werden",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/fobizz-soll-an-luzerns-volksschulen-standard-werden-ld.4213721",
+      "summary": "",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FC Bayern: Co-Trainer Munienge haut Flitzer bei Supercup-Sieg um",
+      "url": "https://www.watson.ch/sport/bayern-muenchen/881703264-fc-bayern-co-trainer-munienge-haut-flitzer-bei-supercup-sieg-um",
+      "summary": "",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitzesommer: Schlachthöfe zahlen Bauern weniger für magere Rinder",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/932961239-hitzesommer-schlachthoefe-zahlen-bauern-weniger-fuer-magere-rinder",
+      "summary": "",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzerns Stadtschulen sollen Lizenzen für KI-Plattform erhalten",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/fobizz-soll-an-luzerns-volksschulen-standard-werden-art-1717954",
+      "summary": "",
+      "published": "2026-08-23T08:58:38.921660+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "20-Jähriger schleicht sich in der Nacht ins Mythen Center",
+      "url": "https://www.bote.ch/nachrichten/schwyz/20-jaehriger-schleicht-sich-in-der-nacht-ins-mythen-center-art-1717953",
+      "summary": "",
+      "published": "2026-08-23T08:58:38.921660+00:00"
     }
   ]
 }
