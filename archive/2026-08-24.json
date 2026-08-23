@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T23:02:31.272706+00:00",
+  "generated": "2026-08-23T23:32:38.528733+00:00",
   "date": "2026-08-24",
-  "count": 27,
+  "count": 29,
   "articles": [
     {
       "source": "Persönlich",
@@ -191,6 +191,20 @@
       "url": "https://www.watson.ch/international/klima/713390597-waldbrand-in-ankara-tuerkei-ausgebrochen",
       "summary": "",
       "published": "2026-08-23T23:02:31.272706+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Treffen zwischen Syrien und Israel",
+      "url": "https://www.zentralplus.ch/news/treffen-zwischen-syrien-und-israel-2-2893943/",
+      "summary": "Zwischen Israel und Syrien hat offenbar ein hochrangiges Treffen stattgefunden, um Spannungen zwischen den beiden Ländern abzubauen. Das meldet die staatliche syrische Nachrichtenagentur Sana unter Be",
+      "published": "2026-08-23T23:32:38.528733+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brand Nevada: Fast 100'000 Menschen werden wegen Feuer evakuiert",
+      "url": "https://www.watson.ch/international/klima/417687400-brand-nevada-fast-100-000-menschen-werden-wegen-feuer-evakuiert",
+      "summary": "",
+      "published": "2026-08-23T23:32:38.528733+00:00"
     }
   ]
 }
