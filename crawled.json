@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T07:02:41.693306+00:00",
+  "generated": "2026-08-23T07:25:46.630234+00:00",
   "date": "2026-08-23",
-  "count": 123,
+  "count": 128,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -863,6 +863,41 @@
       "url": "https://www.freiburger-nachrichten.ch/story/284596/alex-frei-%C3%BCber%C2%A0nachwuchskrise",
       "summary": "",
       "published": "2026-08-23T07:02:41.693306+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zollstreit eskaliert: Donald Trump: «Kanada will die Vorteile eines Staates, ohne einer zu sein»",
+      "url": "https://www.tagesanzeiger.ch/zollstreit-experte-warnt-vor-handelskrieg-usa-kanada-764759831053",
+      "summary": "Nach geplatzten Verhandlungen geraten Kanada und die USA in einen Zollkonflikt mit offenem Ende. Ein Experte warnt vor einem Handelskrieg – und Trump beschimpft den nördlichen Nachbarn.",
+      "published": "2026-08-23T07:25:46.630234+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Alibaba beschafft Geld für KI",
+      "url": "https://www.zentralplus.ch/news/alibaba-beschafft-geld-fuer-ki-2893873/",
+      "summary": "Der chinesische Online-Riese Alibaba will mehrere Milliarden in Künstliche Intelligenz investieren. Dafür gibt das Unternehmen neue Aktien heraus. Die Kapitalerhöhung soll umgerechnet mehr als 8 Milli",
+      "published": "2026-08-23T07:25:46.630234+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Glasfaserkabel deckt verborgene Spalten im Eisinnern auf",
+      "url": "https://www.netzwoche.ch/news/2026-08-23/glasfaserkabel-deckt-verborgene-spalten-im-eisinnern-auf",
+      "summary": "Forschende der ETH Zürich legen auf dem Gornergletscher im Wallis ein Glasfaserkabel aus, um das Eisinnere auszuhorchen. Mit dieser Methode finden sie mehr Schäden im Inneren des Eises, als sie angeno",
+      "published": "2026-08-23T07:25:46.630234+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie immersive Technologie die Jugendpsychiatrie entlasten kann",
+      "url": "https://www.netzwoche.ch/news/2026-08-23/wie-immersive-technologie-die-jugendpsychiatrie-entlasten-kann",
+      "summary": "Psychische Erkrankungen sind bei Jugendlichen in der Schweiz zur häufigsten Ursache für Spitalaufenthalte geworden - gleichzeitig fehlen Therapieplätze und Fachkräfte. Ein Forschungsteam der Ostschwei",
+      "published": "2026-08-23T07:25:46.630234+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Mumpf Frontalkollision mit Folgen",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/mumpf-frontalkollision-mit-folgen-ld.4221174",
+      "summary": "",
+      "published": "2026-08-23T07:25:46.630234+00:00"
     }
   ]
 }
