@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T00:32:28.413956+00:00",
+  "generated": "2026-08-23T00:56:30.428617+00:00",
   "date": "2026-08-23",
-  "count": 17,
+  "count": 18,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -121,6 +121,13 @@
       "url": "https://www.watson.ch/wirtschaft/international/774630591-mark-carney-und-donald-trump-zollkrieg-zwischen-usa-kanada-eskaliert",
       "summary": "",
       "published": "2026-08-23T00:32:28.413956+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Waldbrand : Friedrich Merz wird bei Besuch im Hürtgenwald ausgepfiffen",
+      "url": "https://www.watson.ch/international/klima/191669803-waldbrand-friedrich-merz-wird-bei-besuch-im-huertgenwald-ausgepfiffen",
+      "summary": "",
+      "published": "2026-08-23T00:56:30.428617+00:00"
     }
   ]
 }
