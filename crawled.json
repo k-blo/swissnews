@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T23:03:03.400545+00:00",
+  "generated": "2026-08-24T23:31:38.407556+00:00",
   "date": "2026-08-25",
-  "count": 18,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -128,6 +128,13 @@
       "url": "https://www.watson.ch/wissen/international/247794598-annalena-baerbock-soll-professorin-an-columbia-university-werden",
       "summary": "",
       "published": "2026-08-24T23:03:03.400545+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Amira Aly lüftet Geheimnis um ihr Baby",
+      "url": "https://www.20min.ch/story/neuer-podcast-amira-aly-lueftet-geheimnis-um-ihr-baby-103622168",
+      "summary": "Amira Aly (33) ist zurück im Podcast-Geschäft. Zum Auftakt mit Marlene Lufen verrät sie das Geschlecht ihres dritten Kindes und spricht über ihre beiden Söhne mit Oliver Pocher.",
+      "published": "2026-08-24T23:31:38.407556+00:00"
     }
   ]
 }
