@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T04:32:20.225592+00:00",
+  "generated": "2026-08-24T04:41:06.337229+00:00",
   "date": "2026-08-24",
-  "count": 175,
+  "count": 178,
   "articles": [
     {
       "source": "Persönlich",
@@ -1227,6 +1227,27 @@
       "url": "https://www.watson.ch/schweiz/international/453190770-schwedischer-ex-premier-bildt-nennt-schweiz-trittbrettfahrerin-der-nato",
       "summary": "",
       "published": "2026-08-24T04:32:20.225592+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Leo Luca und Liam Beliebte Vornamen Sind Kurz Doch es Gibt einen Haken",
+      "url": "https://www.tagblatt.ch/leben/kolumnen/leo-luca-und-liam-beliebte-vornamen-sind-kurz-doch-es-gibt-einen-haken-ld.4221401",
+      "summary": "",
+      "published": "2026-08-24T04:41:06.337229+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: FC Barcelona siegt zum Saisonauftakt 5:0 bei Elche",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-fc-barcelona-siegt-zum-saisonauftakt-5-0-bei-elche",
+      "summary": "",
+      "published": "2026-08-24T04:41:06.337229+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg USA Iran: US-Finanzminister Scott Bessent spricht von Endphase",
+      "url": "https://www.watson.ch/international/iran/653077900-krieg-usa-iran-us-finanzminister-scott-bessent-spricht-von-endphase",
+      "summary": "",
+      "published": "2026-08-24T04:41:06.337229+00:00"
     }
   ]
 }
