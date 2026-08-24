@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T23:32:38.528733+00:00",
+  "generated": "2026-08-24T00:02:39.810555+00:00",
   "date": "2026-08-24",
-  "count": 29,
+  "count": 32,
   "articles": [
     {
       "source": "Persönlich",
@@ -205,6 +205,27 @@
       "url": "https://www.watson.ch/international/klima/417687400-brand-nevada-fast-100-000-menschen-werden-wegen-feuer-evakuiert",
       "summary": "",
       "published": "2026-08-23T23:32:38.528733+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Horror-Crash auf der A66: 5 Jugendliche und 2 Polizisten sterben",
+      "url": "https://www.20min.ch/story/geisterfahrer-tragoedie-horror-crash-auf-der-a66-5-jugendliche-und-2-polizisten-sterben-103621613",
+      "summary": "Eine Flucht vor der Polizei endet in einer Katastrophe: Fünf junge Männer und zwei Polizisten sterben am Samstag bei einem Crash in England. Die Leben der Angehörigen haben sich in einer einzigen Nach",
+      "published": "2026-08-24T00:02:39.810555+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Krieg in der Ukraine: Burnham kündigt Unterstützung für Raketenproduktion an +++ Wadephul in Charkiw",
+      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-burnham-kuendigt-unterstuetzung-fuer-raketenproduktion-an-wadephul-in-charkiw-ld.10009803",
+      "summary": "",
+      "published": "2026-08-24T00:02:39.810555+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Russland Ukraine: EU will Druck erhöhen, bis das Töten endet",
+      "url": "https://www.watson.ch/international/eu/700024242-krieg-russland-ukraine-eu-will-druck-erhoehen-bis-das-toeten-endet",
+      "summary": "",
+      "published": "2026-08-24T00:02:39.810555+00:00"
     }
   ]
 }
