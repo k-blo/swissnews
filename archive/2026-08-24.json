@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T04:41:06.337229+00:00",
+  "generated": "2026-08-24T05:03:08.024072+00:00",
   "date": "2026-08-24",
-  "count": 178,
+  "count": 181,
   "articles": [
     {
       "source": "Persönlich",
@@ -1248,6 +1248,27 @@
       "url": "https://www.watson.ch/international/iran/653077900-krieg-usa-iran-us-finanzminister-scott-bessent-spricht-von-endphase",
       "summary": "",
       "published": "2026-08-24T04:41:06.337229+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Neue Bahnhofstrasse ist eine Klare Aufwertung des Stadtbildes",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-neue-bahnhofstrasse-ist-eine-klare-aufwertung-des-stadtbildes-ld.4220762",
+      "summary": "",
+      "published": "2026-08-24T05:03:08.024072+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erdbeben Amatrice: Italien gedenkt Opfern",
+      "url": "https://www.watson.ch/international/italien/851339314-erdbeben-amatrice-italien-gedenkt-opfern",
+      "summary": "",
+      "published": "2026-08-24T05:03:08.024072+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Das Problem Sind Junge Männer aus dem Maghreb",
+      "url": "https://insideparadeplatz.ch/2026/08/24/das-problem-sind-junge-maenner-aus-dem-maghreb/",
+      "summary": "",
+      "published": "2026-08-24T05:03:08.024072+00:00"
     }
   ]
 }
