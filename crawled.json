@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T01:02:46.725092+00:00",
+  "generated": "2026-08-24T01:32:23.378356+00:00",
   "date": "2026-08-24",
-  "count": 37,
+  "count": 39,
   "articles": [
     {
       "source": "Persönlich",
@@ -261,6 +261,20 @@
       "url": "https://www.watson.ch/international/gesundheit/947595756-donald-trumps-gewicht-bereitet-aerzten-sorge",
       "summary": "",
       "published": "2026-08-24T01:02:46.725092+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Russland Ukraine: zwei Tote bei ukrainischem Angriff auf Krasnodar",
+      "url": "https://www.watson.ch/international/russland/195569382-krieg-russland-ukraine-zwei-tote-bei-ukrainischem-angriff-auf-krasnodar",
+      "summary": "",
+      "published": "2026-08-24T01:32:23.378356+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Britischer Premier Andy Burnham reist in die Ukraine",
+      "url": "https://www.watson.ch/international/russland/928885771-britischer-premier-andy-burnham-reist-in-die-ukraine",
+      "summary": "",
+      "published": "2026-08-24T01:32:23.378356+00:00"
     }
   ]
 }
