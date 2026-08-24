@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T00:32:43.302897+00:00",
+  "generated": "2026-08-24T01:02:46.725092+00:00",
   "date": "2026-08-24",
-  "count": 35,
+  "count": 37,
   "articles": [
     {
       "source": "Persönlich",
@@ -247,6 +247,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/es-sind-schlechte-zeiten-fuer-den-frieden",
       "summary": "",
       "published": "2026-08-24T00:32:43.302897+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Krieg in der Ukraine: Russland und Ukraine melden Tote +++ Burnham kündigt Unterstützung für Raketenproduktion an +++ Wadephul in Charkiw",
+      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-russland-und-ukraine-melden-tote-burnham-kuendigt-unterstuetzung-fuer-raketenproduktion-an-wadephul-in-charkiw-ld.10009803",
+      "summary": "",
+      "published": "2026-08-24T01:02:46.725092+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Donald Trumps Gewicht bereitet Ärzten Sorge",
+      "url": "https://www.watson.ch/international/gesundheit/947595756-donald-trumps-gewicht-bereitet-aerzten-sorge",
+      "summary": "",
+      "published": "2026-08-24T01:02:46.725092+00:00"
     }
   ]
 }
