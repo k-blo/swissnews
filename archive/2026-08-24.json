@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T02:02:44.603319+00:00",
+  "generated": "2026-08-24T02:32:42.167685+00:00",
   "date": "2026-08-24",
-  "count": 42,
+  "count": 50,
   "articles": [
     {
       "source": "Persönlich",
@@ -296,6 +296,62 @@
       "url": "https://www.zentralplus.ch/news/naechtliche-angriffe-in-ukr-und-rus-2893947/",
       "summary": "Sowohl die Ukraine als auch Russland haben in der Nacht auf Montag wieder gegenseitige Luftangriffe gemeldet. In der Millionenstadt Krasnodar im Süden Russlands sind laut den russischen Behörden zwei ",
       "published": "2026-08-24T02:02:44.603319+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Iran-Krieg: Schiffsverkehr durch Hormuz stark eingeschränkt +++ Irans Präsident räumt wirtschaftliche Schwierigkeiten ein",
+      "url": "https://www.nzz.ch/international/iran-krieg-schiffsverkehr-durch-hormuz-stark-eingeschraenkt-irans-praesident-raeumt-wirtschaftliche-schwierigkeiten-ein-ld.10009801",
+      "summary": "",
+      "published": "2026-08-24T02:32:42.167685+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schule Ramsen: So sieht der fertige Kindergartenneubau aus",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-08-24/schule-ramsen-so-sieht-der-fertige-kindergartenneubau-aus",
+      "summary": "Am Samstag öffnete die Schule Ramsen die Türen des Neubaus: Die Erweiterung des Doppelkindergartens zu einem dritten ist die erste von drei Etappen eines grösseren Bauprojekts.",
+      "published": "2026-08-24T02:32:42.167685+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wenn sich Ortsteile kennenlernen: Adlikon zeigt, was im Dorf steckt",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-08-24/wenn-sich-ortsteile-kennenlernen-adlikon-zeigt-was-im-dorf",
+      "summary": "Adlikon zeigte sich von vielen Seiten: Beim Rundgang lernten Gäste Menschen, Betriebe, Hobbys und Geschichten aus dem Dorf kennen.",
+      "published": "2026-08-24T02:32:42.167685+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ski Geschwister aus Langwies Verraten Geheimnis",
+      "url": "https://www.suedostschweiz.ch/regionalsport/ski-geschwister-aus-langwies-verraten-geheimnis-2118293",
+      "summary": "",
+      "published": "2026-08-24T02:32:42.167685+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Am Rosenhügel Geht eine Ära zu Ende",
+      "url": "https://www.suedostschweiz.ch/graubuenden/am-rosenhuegel-geht-eine-aera-zu-ende-2125470",
+      "summary": "",
+      "published": "2026-08-24T02:32:42.167685+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Am Ersten Sound Of Glarus Noch der Jodelclub Glärnisch",
+      "url": "https://www.suedostschweiz.ch/glarus/am-ersten-sound-of-glarus-noch-der-jodelclub-glaernisch-2119080",
+      "summary": "",
+      "published": "2026-08-24T02:32:42.167685+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Thors Mc Frauenfeld Mietet Alte Stadtgärtnerei",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/thors-mc-frauenfeld-mietet-alte-stadtgaertnerei-ld.4220207",
+      "summary": "",
+      "published": "2026-08-24T02:32:42.167685+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran Kopftuch: Regime greift wieder härter durch",
+      "url": "https://www.watson.ch/international/iran/884338329-iran-kopftuch-regime-greift-wieder-haerter-durch",
+      "summary": "",
+      "published": "2026-08-24T02:32:42.167685+00:00"
     }
   ]
 }
