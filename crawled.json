@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T01:32:23.378356+00:00",
+  "generated": "2026-08-24T02:02:44.603319+00:00",
   "date": "2026-08-24",
-  "count": 39,
+  "count": 42,
   "articles": [
     {
       "source": "Persönlich",
@@ -275,6 +275,27 @@
       "url": "https://www.watson.ch/international/russland/928885771-britischer-premier-andy-burnham-reist-in-die-ukraine",
       "summary": "",
       "published": "2026-08-24T01:32:23.378356+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Waldbrand vertreibt 100'000 Menschen aus ihren Häusern",
+      "url": "https://www.20min.ch/story/us-bundesstaat-nevada-waldbrand-vertreibt-100-000-menschen-aus-ihren-haeusern-103621628",
+      "summary": "Ein Waldbrand hat sich im US-Bundesstaat Nevada rasant ausgebreitet. Tausende mussten ihre Häuser verlassen, mehrere Gebäude brannten nieder.",
+      "published": "2026-08-24T02:02:44.603319+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Hawk Fire» in Nevada: Waldbrand vertreibt 100’000 Menschen aus ihren Häusern",
+      "url": "https://www.tagesanzeiger.ch/hawk-fire-90000-menschen-in-reno-zur-evakuierung-aufgerufen-736005475719",
+      "summary": "Ein Waldbrand hat sich im US-Bundesstaat Nevada rasant ausgebreitet. Tausende mussten ihre Häuser verlassen, mehrere Gebäude brannten nieder.",
+      "published": "2026-08-24T02:02:44.603319+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nächtliche Angriffe in UKR und RUS",
+      "url": "https://www.zentralplus.ch/news/naechtliche-angriffe-in-ukr-und-rus-2893947/",
+      "summary": "Sowohl die Ukraine als auch Russland haben in der Nacht auf Montag wieder gegenseitige Luftangriffe gemeldet. In der Millionenstadt Krasnodar im Süden Russlands sind laut den russischen Behörden zwei ",
+      "published": "2026-08-24T02:02:44.603319+00:00"
     }
   ]
 }
