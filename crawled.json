@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-25T04:24:25.134639+00:00",
+  "generated": "2026-08-25T04:32:21.210869+00:00",
   "date": "2026-08-25",
-  "count": 178,
+  "count": 181,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1248,6 +1248,27 @@
       "url": "https://www.watson.ch/schweiz/bundesrat/362903394-benjamin-giezendanner-svp-will-mehr-autobahnen-kritisiert-albert-roesti",
       "summary": "",
       "published": "2026-08-25T04:24:25.134639+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nationalphonothek Schweiz – Das klingende Gedächtnis der Schweiz",
+      "url": "https://www.srf.ch/news/schweiz/nationalphonothek-schweiz-das-klingende-gedaechtnis-der-schweiz",
+      "summary": "In Lugano rettet die Nationalphonothek historische Tonaufnahmen – mit Verfahren, die weltweit einzigartig sind.",
+      "published": "2026-08-25T04:32:21.210869+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Autismus-Expertin warnt: «Wir erzeugen eine ganze Generation von lebensuntauglichen Menschen»",
+      "url": "https://www.freiburger-nachrichten.ch/story/284916/autismusexpertin-warnt-wir-erzeugen-eine-ganze-generation-von-lebensuntauglichen-menschen",
+      "summary": "",
+      "published": "2026-08-25T04:32:21.210869+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Pattaya Win Win Schräges Weltbild",
+      "url": "https://insideparadeplatz.ch/2026/08/25/pattaya-win-win-schraeges-weltbild/",
+      "summary": "",
+      "published": "2026-08-25T04:32:21.210869+00:00"
     }
   ]
 }
