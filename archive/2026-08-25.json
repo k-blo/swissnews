@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-25T01:32:17.264935+00:00",
+  "generated": "2026-08-25T02:02:37.966088+00:00",
   "date": "2026-08-25",
-  "count": 32,
+  "count": 35,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -226,6 +226,27 @@
       "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-oberstes-gericht-erlaubt-trumps-briefwahl-plaene-vorerst-ld.1856621",
       "summary": "",
       "published": "2026-08-25T01:32:17.264935+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Gefahrengebiet seit Montag abgesperrt: Nächstes Walliser Dorf bangt vor Bergsturz",
+      "url": "https://www.blick.ch/schweiz/westschweiz/wallis/gefahrengebiet-seit-montag-abgesperrt-naechstes-walliser-dorf-bangt-vor-bergsturz-id22207681.html",
+      "summary": "Kaum beginnt der Bondo-Prozess, wächst die Sorge im nächsten Schweizer Bergdorf: In Randa VS beschleunigt sich der Hängegletscher Weisshorn Ost. Die Überwachung wurde am Montag erhöht, das Gefahrengeb",
+      "published": "2026-08-25T02:02:37.966088+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nevada: Buschfeuer zerstört 30 Häuser",
+      "url": "https://www.zentralplus.ch/news/nevada-buschfeuer-zerstoert-30-haeuser-2894229/",
+      "summary": "Ein Buschfeuer im US-Bundesstaat Nevada hat mehr als 30 Häuser zerstört. Laut Feuerwehr dürften es noch mehr werden. Zugleich melden die Einsatzkräfte Fortschritte im Kampf gegen die Flammen. Das Feue",
+      "published": "2026-08-25T02:02:37.966088+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brände Nevada Reno USA: Dutzende Häuser zerstört",
+      "url": "https://www.watson.ch/international/klima/858218447-braende-nevada-reno-usa-dutzende-haeuser-zerstoert",
+      "summary": "",
+      "published": "2026-08-25T02:02:37.966088+00:00"
     }
   ]
 }
