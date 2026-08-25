@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-25T20:02:51.275940+00:00",
+  "generated": "2026-08-25T20:32:55.433639+00:00",
   "date": "2026-08-25",
-  "count": 896,
+  "count": 901,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6274,6 +6274,41 @@
       "url": "https://www.watson.ch/leben/usa/829389023-das-sind-die-ersten-reaktionen-zum-tod-von-dolly-parton",
       "summary": "",
       "published": "2026-08-25T20:02:51.275940+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Lieder für die Ewigkeit: Die sechs grössten Songs von Dolly Parton",
+      "url": "https://www.nzz.ch/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+      "summary": "",
+      "published": "2026-08-25T20:32:55.433639+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Walthersburg in Aarau Einwohnerrat Sucht Noch Lösung",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/walthersburg-in-aarau-einwohnerrat-sucht-noch-loesung-ld.4222089",
+      "summary": "",
+      "published": "2026-08-25T20:32:55.433639+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Erster Sieg Hc Thurgau Gewinnt Greenhope Testspiel Gegen Chur",
+      "url": "https://www.thurgauerzeitung.ch/sport/hcthurgau/erster-sieg-hc-thurgau-gewinnt-greenhope-testspiel-gegen-chur-ld.4222727",
+      "summary": "",
+      "published": "2026-08-25T20:32:55.433639+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schlange aus Neuguinea nach Gitarrist Slash benannt",
+      "url": "https://www.watson.ch/wissen/forschung/799108820-schlange-aus-neuguinea-nach-gitarrist-slash-benannt",
+      "summary": "",
+      "published": "2026-08-25T20:32:55.433639+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dolly Parton hat den amerikanischen Traum neu geschrieben",
+      "url": "https://www.bote.ch/nachrichten/kultur/dolly-parton-hat-den-amerikanischen-traum-neu-geschrieben-art-1718417",
+      "summary": "",
+      "published": "2026-08-25T20:32:55.433639+00:00"
     }
   ]
 }
