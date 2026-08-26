@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T09:56:18.137082+00:00",
+  "generated": "2026-08-26T10:02:20.809060+00:00",
   "date": "2026-08-26",
-  "count": 461,
+  "count": 474,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3229,6 +3229,97 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/kempinski-plaene-im-kurpark-engelberg-gestoppt-art-1718482",
       "summary": "",
       "published": "2026-08-26T09:56:18.137082+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "50 Rappen das Kilo: Bauer verkauft 3 Tonnen Zwetschgen an Private",
+      "url": "https://www.20min.ch/story/zwetschgen-zu-klein-bauer-stefan-verkauft-3-tonnen-direkt-ab-hof-103621837",
+      "summary": "Zu klein für den Detailhandel, aber zu schade zum Wegwerfen: Ein Bauer aus Sulz AG verkauft drei Tonnen Zwetschgen direkt an Privatpersonen. Wegen der Trockenheit entsprechen die Früchte nicht den Grö",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "SpaceX will «grössten» Weltraumbahnhof der Erde bauen",
+      "url": "https://www.20min.ch/story/usa-spacex-will-groessten-weltraumbahnhof-der-erde-bauen-103622794",
+      "summary": "SpaceX baut in Louisiana den grössten Weltraumbahnhof der Erde: Für rund 88 Milliarden Franken soll dort ab 2029 die neue Starship-Rakete täglich mehr als 30 Mal ins All starten.",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "A3-Geisterfahrer verurteilt: Er trank neun Dosen Bier – und stieg dann in einen geklauten Traktor",
+      "url": "https://www.tagesanzeiger.ch/traktordieb-auf-a3-3-5-jahre-haft-fuer-geisterfahrer-546938969781",
+      "summary": "Ein 37-jähriger Landwirt klaute wiederholt Traktoren und fuhr damit volltrunken durch die Gegend. Nun stand er wegen der Diebstähle und wegen versuchter schwerer Körperverletzung vor Gericht.",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "UBS-CFA-Indikator steigt, aber Unsicherheit nimmt zu",
+      "url": "https://www.finews.ch/news/finanzplatz/73364-ubs-cfa-indikator-stimmung-von-analysten-und-oekonomen-schweizer-wirtschaft-us-wirtschaft",
+      "summary": "Die Stimmung von Analysten und Ökonomen für die Schweizer Wirtschaft hat sich im August nochmals leicht verbessert. Gleichzeitig gehen die Einschätzungen stärker auseinander – und bei der US-Konjunktu",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "ICT-Saläre wachsen kaum noch",
+      "url": "https://www.inside-it.ch/ict-salaere-wachsen-kaum-noch-20260826",
+      "summary": "Die Löhne von Schweizer ICT-Fachkräften steigen 2026 laut SwissICT nur noch um 0,2%. Gefragte Spezialistinnen und Spezialisten können dagegen weiterhin deutliche Lohnzuwächse verzeichnen.",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "World Skills in Shanghai Bütschwiler Maurer Robin Hollenstein",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/world-skills-in-shanghai-buetschwiler-maurer-robin-hollenstein-ld.4214770",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Stgallen Einspracheverfahren Dauern Länger",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/stgallen-einspracheverfahren-dauern-laenger-ld.4219325",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Jubiläumsfahrt der Sbb Lokomotive Krokodil",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/jubilaeumsfahrt-der-sbb-lokomotive-krokodil-ld.4219453",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Ragavastra in Dietikon das Tamilische Modegeschäft Wächst",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/ragavastra-in-dietikon-das-tamilische-modegeschaeft-waechst-ld.4219794",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Kulturerbe im Appenzellerland Denkmaltage Widmen Sich Risiken",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/kulturerbe-im-appenzellerland-denkmaltage-widmen-sich-risiken-ld.4219272",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Besenbeiz in Bühler Wird zum Kulturort der Enderlin Schwestern",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/besenbeiz-in-buehler-wird-zum-kulturort-der-enderlin-schwestern-ld.4222860",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die herausfordernde Suche nach Helfern",
+      "url": "https://www.freiburger-nachrichten.ch/story/284308/die-herausfordernde-suche-nach-helfern",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Petition für ein Haus der Stille",
+      "url": "https://www.freiburger-nachrichten.ch/story/285149/petition-f%C3%BCr-ein-haus-der-stille",
+      "summary": "",
+      "published": "2026-08-26T10:02:20.809060+00:00"
     }
   ]
 }
