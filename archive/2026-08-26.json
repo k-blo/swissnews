@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T21:02:50.621066+00:00",
+  "generated": "2026-08-26T21:33:11.991079+00:00",
   "date": "2026-08-26",
-  "count": 1111,
+  "count": 1116,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -7779,6 +7779,41 @@
       "url": "https://www.freiburger-nachrichten.ch/story/285343/das-war-die-letzte-sendung-von-wetterfrosch-thomas-bucheli",
       "summary": "",
       "published": "2026-08-26T21:02:50.621066+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "LaLiga: Mbappé sorgt für den nächsten Real-Sieg",
+      "url": "https://www.tagesanzeiger.ch/mbappe-stuermer-schiesst-real-madrid-zum-sieg-gegen-sociedad-245703392775",
+      "summary": "Die Königlichen bezwingen Real Sociedad 4:1. Drei Tore gehen auf das Konto von Kylian Mbappé.",
+      "published": "2026-08-26T21:33:11.991079+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Dem KI-Boom sei Dank: Der Chip-Gigant Nvidia verdoppelt seinen Umsatz",
+      "url": "https://www.nzz.ch/wirtschaft/dem-ki-boom-sei-dank-der-chip-gigant-nvidia-verdoppelt-seinen-umsatz-ld.10021239",
+      "summary": "",
+      "published": "2026-08-26T21:33:11.991079+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Schwyz Schlichtung im Microsoft Streit Gescheitert",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/schwyz-schlichtung-im-microsoft-streit-gescheitert-ld.4223337",
+      "summary": "",
+      "published": "2026-08-26T21:33:11.991079+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Theaterfestival Basel Startet mit Irritierenden Politischen Produktionen",
+      "url": "https://www.bzbasel.ch/kultur/basel/theaterfestival-basel-startet-mit-irritierenden-politischen-produktionen-ld.4222643",
+      "summary": "",
+      "published": "2026-08-26T21:33:11.991079+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum Donald Trump im Konflikt mit Iran vor China zurückschreckt",
+      "url": "https://www.watson.ch/international/analyse/614754021-warum-donald-trump-im-konflikt-mit-iran-vor-china-zurueckschreckt",
+      "summary": "",
+      "published": "2026-08-26T21:33:11.991079+00:00"
     }
   ]
 }
