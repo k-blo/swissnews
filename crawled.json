@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T02:31:35.065767+00:00",
+  "generated": "2026-08-26T03:02:34.092400+00:00",
   "date": "2026-08-26",
-  "count": 52,
+  "count": 123,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -366,6 +366,503 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/weinfelden-bankstrassen-baustelle-dauert-vier-monate-laenger-ld.4221527",
       "summary": "",
       "published": "2026-08-26T02:31:35.065767+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Rasante Verfolgungsjagd: Polizei jagt Dieb von Luxusjacht",
+      "url": "https://www.20min.ch/video/ibiza-rasante-verfolgungsjagd-polizei-jagt-dieb-von-luxusjacht-103622596",
+      "summary": "Ein Bootsdieb lieferte sich eine spektakuläre Verfolgungsjagd mit der Guardia Civil: Der 52-Jährige soll eine über eine Million Euro teure Luxusjacht gestohlen haben. Er fuhr mit dem Boot von Sóller a",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Stundenlang im Kettenkarussell gefangen: Fahrgäste gerettet",
+      "url": "https://www.20min.ch/story/grosseinsatz-in-hamburg-stundenlang-im-kettenkarussell-gefangen-fahrgaeste-gerettet-103622622",
+      "summary": "23 Menschen sassen auf dem Hamburger Dom mehrere Stunden in rund 30 Metern Höhe fest. Gegen Mitternacht konnten sie im Notfallmodus heruntergelassen werden.",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Niedrigwasser wird uns noch länger beschäftigen» – das sind die Aussichten für die Region",
+      "url": "https://www.shn.ch/region/kanton/2026-08-26/niedrigwasser-wird-uns-noch-laenger-beschaeftigen-das-sind-die-aussichten",
+      "summary": "Der Rekordsommer 2026 ist weitgehend vorbei. Und doch haben die wochenlange Hitze und Trockenheit der Natur in der Region heftig zugesetzt, vom Grundwasser bis zur Tierwelt. Wie geht es nun weiter und",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Kein Einzelner darf über der Mannschaft stehen»: So tickt der neue Kadetten-Cheftrainer Jonas Wille",
+      "url": "https://www.shn.ch/sport/handball/2026-08-26/kein-einzelner-darf-ueber-der-mannschaft-stehen-so-tickt-der-neue",
+      "summary": "Am Mittwoch startet der neue Kadetten-Trainer Jonas Wille mit seiner Mannschaft in die Meisterschaft. Vor dem Auftakt bei Suhr Aarau spricht der Norweger im Interview über seine Prinzipien und den Erf",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Sudan was die Emirate mit einer Genozidalen Miliz Verbindet",
+      "url": "https://www.republik.ch/2026/08/26/sudan-was-die-emirate-mit-einer-genozidalen-miliz-verbindet",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Am Gericht Wenn die Stadtrichterin Anruft",
+      "url": "https://www.republik.ch/2026/08/26/am-gericht-wenn-die-stadtrichterin-anruft",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Zimmerwerk Luzern Hält Kapell und Spreuerbrücke Sauber",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/zimmerwerk-luzern-haelt-kapell-und-spreuerbruecke-sauber-ld.4216365",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Ersetzt Brandmelder auf der Kapellbrücke",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-ersetzt-brandmelder-auf-der-kapellbruecke-ld.4222602",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Weitet Japankäfer Überwachung nach Neuen Funden aus",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzern-weitet-japankaefer-ueberwachung-nach-neuen-funden-aus-ld.4220470",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fc Luzern 1989 Meistertitel Dank Zusammenhalt",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fc-luzern-1989-meistertitel-dank-zusammenhalt-ld.4214296",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Hsc Suhr Aarau Neustart mit Petr Hrachovec und Jungem Team",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/hsc-suhr-aarau-neustart-mit-petr-hrachovec-und-jungem-team-ld.4219285",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Celine Bächtold Kandidiert für den Gemeinderat in Teufenthal",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/celine-baechtold-kandidiert-fuer-den-gemeinderat-in-teufenthal-ld.4218044",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rupperswil Behörden Sehen Keine Drogenszene am Bahnhof",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/rupperswil-behoerden-sehen-keine-drogenszene-am-bahnhof-ld.4219556",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Lenzburg Nina Meret Ates Zeigt Kunst im Alten Bezirksgericht",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/lenzburg-nina-meret-ates-zeigt-kunst-im-alten-bezirksgericht-ld.4220043",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Offenes Geschwür am Gesäuge Aargauer Schwein Litt Schmerzen",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/offenes-geschwuer-am-gesaeuge-aargauer-schwein-litt-schmerzen-ld.4220822",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargau Grossrat Fordert Entzug von Schweizer Pass für Is Terroristen",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/aargau-grossrat-fordert-entzug-von-schweizer-pass-fuer-is-terroristen-ld.4222150",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Sisslerfeld Plattform Wird in Münchwilen Wieder Aufgebaut",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/sisslerfeld-plattform-wird-in-muenchwilen-wieder-aufgebaut-ld.4222194",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Jurapark Aargau Familienangebote im Herbst mit Feuer und Nacht",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/jurapark-aargau-familienangebote-im-herbst-mit-feuer-und-nacht-ld.4221468",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bäckerei Kunz Führt Filiale Eiken im Franchise Weiter",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/baeckerei-kunz-fuehrt-filiale-eiken-im-franchise-weiter-ld.4222199",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Stadion Niedermatten So Denken Wohler Politiker zum Kunstrasen",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/stadion-niedermatten-so-denken-wohler-politiker-zum-kunstrasen-ld.4221905",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bremgarten Vorbestrafter Mann nach Ehestreit vor Gericht",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/bremgarten-vorbestrafter-mann-nach-ehestreit-vor-gericht-ld.4220130",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargauer Familientag Brugg und Windisch Veranstalten Gemeinsam Familientag",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/aargauer-familientag-brugg-und-windisch-veranstalten-gemeinsam-familientag-ld.4218353",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Futternot im Aargau Biobauer Alois Huber Muss Bis zu 25 Kühe Schlachten Lassen",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/futternot-im-aargau-biobauer-alois-huber-muss-bis-zu-25-kuehe-schlachten-lassen-ld.4220310",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Endometriose Villmerger Verein Organisiert Endoweek in Zürich",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/endometriose-villmerger-verein-organisiert-endoweek-in-zuerich-ld.4219800",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Handball So Startet der Stv Stotmar in die Neue Saison",
+      "url": "https://www.tagblatt.ch/sport/ostschweiz/handball-so-startet-der-stv-stotmar-in-die-neue-saison-ld.4222126",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fc Stgallen vor Nordsjälland Rückspiel Tickets Gegner Wetten",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/fc-stgallen-vor-nordsjaelland-rueckspiel-tickets-gegner-wetten-ld.4221534",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Steuerfuss Abstimmung Wil Kritik an der Broschüre des Stadtrats",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/steuerfuss-abstimmung-wil-kritik-an-der-broschuere-des-stadtrats-ld.4222403",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Wattwil Kantonsräte Warnen vor zu Kleinem Berufszentrum",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/wattwil-kantonsraete-warnen-vor-zu-kleinem-berufszentrum-ld.4221479",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Einsprache Verzögert Schulprovisorium Stiftung Kronbühl Zieht Sich Zurück",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/einsprache-verzoegert-schulprovisorium-stiftung-kronbuehl-zieht-sich-zurueck-ld.4219187",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Vom Flegel zum Mehrheitsführer der Stgaller Svp Fraktionschef Sascha Schmid",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/vom-flegel-zum-mehrheitsfuehrer-der-stgaller-svp-fraktionschef-sascha-schmid-ld.4222176",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Arrivee Baustelle in Horn Wird Wegen Diebstählen Überwacht",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/arrivee-baustelle-in-horn-wird-wegen-diebstaehlen-ueberwacht-ld.4222134",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kreuzlingen Nachbarn in Angst vor Betrunkenem Randalierer",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/kreuzlingen-nachbarn-in-angst-vor-betrunkenem-randalierer-ld.4221739",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Steinberg in Reckenwil Neuer Start mit Jasmin Frey",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/steinberg-in-reckenwil-neuer-start-mit-jasmin-frey-ld.4222186",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Der Rtv Basel Will in der Neuen Saison den Nächsten Schritt Machen",
+      "url": "https://www.bzbasel.ch/sport/basel/der-rtv-basel-will-in-der-neuen-saison-den-naechsten-schritt-machen-ld.4222075",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Fdp Grüne und Evp Ringen in Waldenburg um Mandate",
+      "url": "https://www.bzbasel.ch/basel/baselland/fdp-gruene-und-evp-ringen-in-waldenburg-um-mandate-ld.4221917",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Basel 15 Monate Bedingt nach Tritt Zwischen die Beine",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/basel-15-monate-bedingt-nach-tritt-zwischen-die-beine-ld.4212394",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Naturpark Thal Ranger Erklären Regeln Statt zu Büssen",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/naturpark-thal-ranger-erklaeren-regeln-statt-zu-buessen-ld.4218859",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Gemeindehaus Balsthal Gemeinderat Vergibt Arbeiten Migros Muss Noch Zustimmen",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/gemeindehaus-balsthal-gemeinderat-vergibt-arbeiten-migros-muss-noch-zustimmen-ld.4220159",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurn Ende August Geht Goldschmied Martin Gamma in Pension",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/solothurn-ende-august-geht-goldschmied-martin-gamma-in-pension-ld.4216818",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Limpach Neuer Dorfladen Soll Wieder Treffpunkt Werden",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/limpach-neuer-dorfladen-soll-wieder-treffpunkt-werden-ld.4220315",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurn Taxifahrer Erleben Immer Wieder Gewalt und Rassismus",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/solothurn-taxifahrer-erleben-immer-wieder-gewalt-und-rassismus-ld.4221831",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "News für den Kanton Solothurn am Mittwoch 26 August 2026",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/news-fuer-den-kanton-solothurn-am-mittwoch-26-august-2026-ld.4222045",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Ehc Olten Empfängt Partnerteam Ehc Biel mit Mark Sever",
+      "url": "https://www.oltnertagblatt.ch/sport/ehc-olten/ehc-olten-empfaengt-partnerteam-ehc-biel-mit-mark-sever-ld.4222491",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Oltner Notschlafstelle Kanton Rügt Baukommission",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/oltner-notschlafstelle-kanton-ruegt-baukommission-ld.4222123",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Grand Casino Baden Umbau für 25 Millionen Franken",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/grand-casino-baden-umbau-fuer-25-millionen-franken-ld.4218803",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Baden Nächstes Projekt von Dory und Du Besitzern im Bäderquartier",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/baden-naechstes-projekt-von-dory-und-du-besitzern-im-baederquartier-ld.4221891",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Grenchen Lernende Trainieren Teamarbeit mit Videogames",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/grenchen-lernende-trainieren-teamarbeit-mit-videogames-ld.4215183",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Francois Scheidegger Übernimmt Präsidium des Kag Grenchen",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/francois-scheidegger-uebernimmt-praesidium-des-kag-grenchen-ld.4221507",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Dietikon Prüft Ki Einsatz bei Verwaltung und Badi Fondli",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/dietikon-prueft-ki-einsatz-bei-verwaltung-und-badi-fondli-ld.4219975",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Dietikon Familie Muss Wohnung an der Schützenstrasse Verlassen",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/dietikon-familie-muss-wohnung-an-der-schuetzenstrasse-verlassen-ld.4220422",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Bundesgericht Weist Beschwerde Gegen Engstringerkreuzung in Schlieren Ab",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/bundesgericht-weist-beschwerde-gegen-engstringerkreuzung-in-schlieren-ab-ld.4222078",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Zofingen Leichtathleten Trafen Sich vor 90 Jahren",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/zofingen-leichtathleten-trafen-sich-vor-90-jahren-ld.4220051",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Brittnau Neue Bno Verschiebt Bauland an die Strengelbacherstrasse",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/brittnau-neue-bno-verschiebt-bauland-an-die-strengelbacherstrasse-ld.4222332",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Fünftes Buremusigträffe in Schwellbrunn",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/fuenftes-buremusigtraeffe-in-schwellbrunn-ld.4215014",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Kantonsrat das Sind die Themen der Kommenden Sitzung",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-kantonsrat-das-sind-die-themen-der-kommenden-sitzung-ld.4222360",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Villette Fäscht in Cham das Fest Geht in die 15 Runde",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/villette-faescht-in-cham-das-fest-geht-in-die-15-runde-ld.4221536",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Stephan Schleiss Svp Will Erneut in den Zuger Regierungsrat",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/stephan-schleiss-svp-will-erneut-in-den-zuger-regierungsrat-ld.4187218",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Hofair in Dallenwil 12 Ausgabe mit Rock und Balkan",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/hofair-in-dallenwil-12-ausgabe-mit-rock-und-balkan-ld.4222068",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Shä Rosset Inszeniert Maturaarbeit am Kollegitheater Sarnen",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/shae-rosset-inszeniert-maturaarbeit-am-kollegitheater-sarnen-ld.4212451",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Umbau im Theater Uri Vorerst Nur Kleine Veranstaltungen",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/umbau-im-theater-uri-vorerst-nur-kleine-veranstaltungen-ld.4221420",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zwischen unangemeldeten Kindern, Elternanwälten und dem Kampf, Deutsch zu sprechen",
+      "url": "https://www.freiburger-nachrichten.ch/story/284340/zwischen-unangemeldeten-kindern-elternanw%C3%A4lten-und-dem-kampf-deutsch-zu-sprechen",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Die Käfer sind als blinde Passagiere mitgereist»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-weitet-japankaefer-ueberwachung-nach-neuen-funden-aus-art-1718437",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wartezeiten und Verspätungen am Flughafen Zürich: Das rät der Betriebschef den Reisenden",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/wartezeiten-am-flughafen-zuerich-so-fligen-sie-am-besten-art-1718443",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vom Ausreisser im Steinhauser Wald zum langjährigen Bildungsdirektor: Stephan Schleiss will es noch einmal wissen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/stephan-schleiss-svp-will-erneut-in-den-zuger-regierungsrat-art-1718439",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vielfalt auf Odermatts Hof",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/hofair-in-dallenwil-12-ausgabe-mit-rock-und-balkan-art-1718436",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Tropischer Regenwald ja – Regen bitte nicht: Das Villette-Fäscht geht in die 15. Runde",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/villette-faescht-in-cham-das-fest-geht-in-die-15-runde-art-1718440",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Steuerrabatt, Hitzewelle, Amtsblatt: Darüber diskutiert der Kantonsrat an seiner nächsten Sitzung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-kantonsrat-das-sind-die-themen-der-kommenden-sitzung-art-1718445",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Saugen neben dem Totentanz: Zu Besuch bei den Brückenputzern von Luzern",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zimmerwerk-luzern-haelt-kapell-und-spreuerbruecke-sauber-art-1718438",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fehlalarm-Serie: Jetzt montiert die Stadt neue Brandmelder",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-ersetzt-brandmelder-auf-der-kapellbruecke-art-1718444",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "An diesem Herrscher beisst sich Trump die Zähne aus",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/iran-krieg-an-diesem-staatschef-beisst-sich-trump-die-zaehne-aus-art-1718442",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Rathuus",
+      "title": "Schawinski Hatte Gegen Blocher Keinen Stich",
+      "url": "https://rathuus.ch/schawinski-hatte-gegen-blocher-keinen-stich/",
+      "summary": "",
+      "published": "2026-08-26T03:02:34.092400+00:00"
     }
   ]
 }
