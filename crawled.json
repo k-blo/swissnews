@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T23:02:41.716180+00:00",
+  "generated": "2026-08-26T23:32:36.379576+00:00",
   "date": "2026-08-27",
-  "count": 33,
+  "count": 35,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -233,6 +233,20 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/488995092-ski-aus-in-braunwald-kleinaktionaere-der-sportbahnen-wehren-sich",
       "summary": "",
       "published": "2026-08-26T23:02:41.716180+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Khalid Sheikh Mohammed: Prozess gegen 9/11-Terrorist soll 2028 starten",
+      "url": "https://www.watson.ch/international/usa/307051769-khalid-sheikh-mohammed-prozess-gegen-9-11-terrorist-soll-2028-starten",
+      "summary": "",
+      "published": "2026-08-26T23:32:36.379576+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UNO: Iran bezeichnet US-Sanktionen als Wirtschaftsterrorismus",
+      "url": "https://www.watson.ch/international/iran/425590340-uno-iran-bezeichnet-us-sanktionen-als-wirtschaftsterrorismus",
+      "summary": "",
+      "published": "2026-08-26T23:32:36.379576+00:00"
     }
   ]
 }
