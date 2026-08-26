@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T22:32:51.119868+00:00",
+  "generated": "2026-08-26T23:02:41.716180+00:00",
   "date": "2026-08-27",
-  "count": 28,
+  "count": 33,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -198,6 +198,41 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/eine-spezielle-bruecke-fuer-schulkinder-art-1718502",
       "summary": "",
       "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nvidia verdoppelt Umsatz und Gewinn",
+      "url": "https://www.20min.ch/story/nvidia-quartalszahlen-gewinn-und-umsatz-verdoppelt-103623131",
+      "summary": "Trotz starkem Wachstum bei Umsatz und Nettogewinn zeigen sich Anleger von Nvidia nach den Quartalszahlen zunächst kaum beeindruckt.",
+      "published": "2026-08-26T23:02:41.716180+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zollpersonal kritisiert Sparmassnahmen",
+      "url": "https://www.zentralplus.ch/news/zollpersonal-kritisiert-sparmassnahmen-2894720/",
+      "summary": "Mitarbeitende des Bundesamts für Zoll und Grenzsicherheit BAZG kritisieren Sparmassnahmen und veraltete Ausrüstung. Angesichts zunehmender Kriminalität an der Grenze fordern sie mehr Personal, moderne",
+      "published": "2026-08-26T23:02:41.716180+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rheinfelden Feiert eine Besondere Jubilarin",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/rheinfelden-feiert-eine-besondere-jubilarin-ld.4218380",
+      "summary": "",
+      "published": "2026-08-26T23:02:41.716180+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI: Nvidia verdoppelt Umsatz und Gewinn",
+      "url": "https://www.watson.ch/wirtschaft/digital/156300469-ki-nvidia-verdoppelt-umsatz-und-gewinn",
+      "summary": "",
+      "published": "2026-08-26T23:02:41.716180+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ski-Aus in Braunwald: Kleinaktionäre der Sportbahnen wehren sich",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/488995092-ski-aus-in-braunwald-kleinaktionaere-der-sportbahnen-wehren-sich",
+      "summary": "",
+      "published": "2026-08-26T23:02:41.716180+00:00"
     }
   ]
 }
