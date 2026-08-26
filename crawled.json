@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T01:02:47.110317+00:00",
+  "generated": "2026-08-26T01:32:41.482270+00:00",
   "date": "2026-08-26",
-  "count": 34,
+  "count": 36,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -240,6 +240,20 @@
       "url": "https://www.watson.ch/international/italien/380681516-italien-handy-verbot-fuer-fussgaenger-beim-ueberqueren-der-strasse",
       "summary": "",
       "published": "2026-08-26T01:02:47.110317+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Billings Montana USA: acht Tote bei Amoklauf",
+      "url": "https://www.watson.ch/international/usa/884326441-billings-montana-usa-acht-tote-bei-amoklauf",
+      "summary": "",
+      "published": "2026-08-26T01:32:41.482270+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "E-Zigaretten: Nikotin Vaping kann beim Rauchstopp helfen",
+      "url": "https://www.watson.ch/wissen/international/527586876-e-zigaretten-nikotin-vaping-kann-beim-rauchstopp-helfen",
+      "summary": "",
+      "published": "2026-08-26T01:32:41.482270+00:00"
     }
   ]
 }
