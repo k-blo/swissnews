@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T22:02:22.134006+00:00",
+  "generated": "2026-08-26T22:32:51.119868+00:00",
   "date": "2026-08-27",
-  "count": 6,
+  "count": 28,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -44,6 +44,160 @@
       "url": "https://www.freiburger-nachrichten.ch/story/284790/der-erste-samstag-im-september-ist-kunterbunt",
       "summary": "",
       "published": "2026-08-26T22:02:22.134006+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Eine Quelle ewigen Streits: Das gilt beim Thema Wegrecht",
+      "url": "https://www.blick.ch/schweiz/eine-quelle-ewigen-streits-das-gilt-beim-thema-wegrecht-id22212528.html",
+      "summary": "Ein Streit um einen 500-Meter-Kiesweg führte in Walkringen BE zu Polizeieinsätzen und Morddrohungen. Die Grundbuch-Eintragung von Wegrechten ist entscheidend, um Konflikte zwischen Nachbarn zu vermeid",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wegen altem Grundbuch-Fehler: Jean-Pierre Steiger (51) verlangt von seinen Nachbarn Wegzoll: «Nichts ist gratis!»",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/uri/wegen-altem-grundbuch-fehler-jean-pierre-steiger-51-verlangt-von-seinen-nachbarn-wegzoll-nichts-ist-gratis-id22212475.html",
+      "summary": "In Altdorf UR kämpft Jean-Pierre Steiger (51) gegen seine Nachbarn. Weil er herausfand, dass die Zufahrt zur gemeinsamen Tiefgarage nicht rechtlich geregelt ist, will er nun Wegzoll verlangen. Dies so",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Letzter Wetterbericht bei SRF: «Nervöser als bei meiner ersten Sendung»: So verabschiedet sich Thomas Bucheli nach 34 Jahren «Meteo»",
+      "url": "https://www.derbund.ch/thomas-bucheli-traenenreicher-abschied-nach-34-jahren-bei-srf-meteo-971241810218",
+      "summary": "Erst erklärte er noch Tiefdruckgebiete und Regenfronten. Dann wurde aus der Wetterprognose eine emotionale Abschiedsshow mit Tränen, Nebelmaschine und einer Überraschung.",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Auf die Uzner Handballer Wartet ein Grosses Highlight",
+      "url": "https://www.suedostschweiz.ch/linth/auf-die-uzner-handballer-wartet-ein-grosses-highlight-2137539",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Maienfeld Schenkt ein Drei Tage Wein und Begegnungen",
+      "url": "https://www.suedostschweiz.ch/graubuenden/maienfeld-schenkt-ein-drei-tage-wein-und-begegnungen-2135421",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Auch neben dem Feld eine richtig schöne Woche»",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/auch-neben-dem-feld-eine-richtig-schoene-woche-art-1718527",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Unmut über Baustelle: «Problem wurde für Autofahrer gelöst, nicht für Fussgänger»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/unmut-ueber-baustelle-problem-wurde-fuer-autofahrer-geloest-nicht-fuer-fussgaenger-art-1718512",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Strassensperrung machte den Verkaufsläden zu schaffen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/strassensperrung-machte-den-verkaufslaeden-zu-schaffen-art-1718545",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Souveräne IT im Kanton Schwyz",
+      "url": "https://www.bote.ch/service/leserbriefe/souveraene-it-im-kanton-schwyz-art-1718518",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "So viele Anmeldungen wie noch nie: Beachvolleyball-Spektakel zum Sommerende",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/so-viele-anmeldungen-wie-noch-nie-beachvolleyball-spektakel-zum-sommerende-art-1718503",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Autocrosser springen in Tschechien 30 Meter weit",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyzer-autocrosser-springen-in-tschechien-30-meter-weit-art-1718509",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rotes Kreuz bringt Rollstuhlfahrdienst nach Innerschwyz",
+      "url": "https://www.bote.ch/nachrichten/schwyz/rotes-kreuz-bringt-rollstuhlfahrdienst-nach-innerschwyz-art-1718514",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Pfannenstock",
+      "url": "https://www.bote.ch/nachrichten/schwyz/pfannenstock-art-1718507",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Trikots für junge Gersauer Talente",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/neue-trikots-fuer-junge-gersauer-talente-art-1718580",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach dem Hagel kommt der Scanner",
+      "url": "https://www.bote.ch/nachrichten/schwyz/nach-dem-hagel-kommt-der-scanner-art-1718524",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mezcalito geht für immer zu",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mezcalito-geht-fuer-immer-zu-art-1718511",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Küssnacht hebt ab am August-Määrt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kuessnacht-hebt-ab-am-august-maeaert-art-1718517",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kultanlass unter den Mythen: Es geht wieder um die Wurst",
+      "url": "https://www.bote.ch/nachrichten/sport/kultanlass-unter-den-mythen-es-geht-wieder-um-die-wurst-art-1718506",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kommission winkt Mehrkosten für 37-Millionen-Strasse einstimmig durch",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kommission-winkt-mehrkosten-fuer-37-millionen-strasse-einstimmig-durch-art-1718504",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Jubiläums-Album von Heimweh landet auf Platz 1 der Hitparade",
+      "url": "https://www.bote.ch/nachrichten/schwyz/jubilaeums-album-von-heimweh-landet-auf-platz-1-der-hitparade-art-1718579",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hochklassiger Ringkampfsport in Einsiedeln",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/hochklassiger-ringkampfsport-in-einsiedeln-art-1718516",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eine spezielle Brücke für Schulkinder",
+      "url": "https://www.bote.ch/nachrichten/schwyz/eine-spezielle-bruecke-fuer-schulkinder-art-1718502",
+      "summary": "",
+      "published": "2026-08-26T22:32:51.119868+00:00"
     }
   ]
 }
