@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T03:02:34.092400+00:00",
+  "generated": "2026-08-26T03:33:21.603797+00:00",
   "date": "2026-08-26",
-  "count": 123,
+  "count": 141,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -863,6 +863,132 @@
       "url": "https://rathuus.ch/schawinski-hatte-gegen-blocher-keinen-stich/",
       "summary": "",
       "published": "2026-08-26T03:02:34.092400+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gefährlicher Social-Media-Trend: Ekel in Spaniens Freibädern: Die «braune Herausforderung»",
+      "url": "https://www.tagesanzeiger.ch/reto-marron-ekel-trend-in-spaniens-freibaedern-956781659655",
+      "summary": "Die «braune Herausforderung» sorgt in Spaniens Freibädern für Chaos: Polizei, hohe Bussgelder und Hausverbote – doch die Täter sind erfinderisch. Was steckt hinter dem Trend?",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: «Hier wird es tricky»: Unser Experte erklärt, was die Ernährungs­initiative will – und wie realistisch das ist",
+      "url": "https://www.tagesanzeiger.ch/ernaehrungsinitiative-was-die-initiative-konkret-fordert-469673246546",
+      "summary": "Mehr Eigen­produktion, weniger Dünger, pflanzlich statt tierisch: Wirtschafts­redaktor Konrad Staehelin analysiert, wie radikal der von der Initiative angestrebte Umbau der Landwirtschaft wirklich ist",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "IWF: Weltwirtschaft ist robuster",
+      "url": "https://www.zentralplus.ch/news/iwf-weltwirtschaft-ist-robuster-2894468/",
+      "summary": "Die Weltwirtschaft dürfte die Folgen des Iran-Kriegs und die hohen Energiepreise besser verkraften als zunächst befürchtet. Davon geht der Internationale Währungsfonds IWF aus. Den negativen Folgen de",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mysteriöses Objekt fliegt über Ruswil",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/mysterioeses-objekt-fliegt-ueber-ruswil-2894300/",
+      "summary": "Ein schwarzes, dreieckiges Objekt hat am Himmel über Ruswil für Aufsehen gesorgt. Ein Leserreporter beobachtet den kuriosen Überflug – wir gehen der Sichtung auf den Grund. In Ruswil kam es am Samstag",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Dutzende Tiere erhielten in Zug Gottes Segen",
+      "url": "https://www.zentralplus.ch/gesellschaft/dutzende-tiere-erhielten-in-zug-gottes-segen-2893811/",
+      "summary": "Haustiere haben neben der City Kirche Zug im Rahmen einer erstmals durchgeführten Tiersegnung Anteil an der göttlichen Kraft erhalten. Längst nicht nur Kirchgängerinnen interessierten sich dafür. Dies",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Judenhass und das Schweigen der Antirassismuskommission",
+      "url": "https://www.nzz.ch/meinung/judenhass-und-das-schweigen-der-antirassismuskommission-ld.10020758",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Götterdämmerung am Bundesgericht",
+      "url": "https://www.nzz.ch/meinung/goetterdaemmerung-am-bundesgericht-ld.10019032",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Klio war ein Sehnsuchtsort für Generationen – am Samstag schliesst der Zürcher Buchladen für immer",
+      "url": "https://www.nzz.ch/zuerich/klio-die-zuercher-buchhandlung-schliesst-fuer-immer-ld.10020132",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Weg von der SVP und weg von Mass-voll: Die EDU will mit Aufrecht Zürich zusammenspannen",
+      "url": "https://www.nzz.ch/zuerich/weg-von-der-svp-und-weg-von-mass-voll-die-edu-will-mit-aufrecht-zuerich-zusammenspannen-ld.10021022",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "ERKLÄRT - Sterbehilfe, auch im christlichen Altersheim? Darüber ist in Zürich eine emotionale Debatte entbrannt",
+      "url": "https://www.nzz.ch/zuerich/sterbehilfe-in-altersheim-und-spital-worum-es-bei-der-abstimmung-in-zuerich-geht-ld.10020946",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Maisano war nicht der Einzige mit fragwürdigen Beteiligungen. Seit dem Skandal prüft das Unispital Zürich sein Personal – und fand zehn Regelverstösse",
+      "url": "https://www.nzz.ch/zuerich/maisano-war-nicht-der-einzige-mit-fragwuerdige-beteiligungen-seit-dem-skandal-scannt-das-unispital-zuerich-sein-personal-und-fand-bisher-zehn-regelverstoesse-ld.10020539",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweiz: Fliegerstaffel Patrouille Suisse steht vor letzter Saison",
+      "url": "https://www.watson.ch/schweiz/armee/915428000-schweiz-fliegerstaffel-patrouille-suisse-steht-vor-letzter-saison",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Picdump 202 – Memes, das wöchentliche Wellness-Erlebnis",
+      "url": "https://www.watson.ch/spass/picdump/402678503-picdump-202-memes-das-woechentliche-wellness-erlebnis",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Die NSDAP hat sich besser getarnt als die AfD» - Aktivist Philipp Ruch sieht braun",
+      "url": "https://www.bote.ch/nachrichten/kultur/philipp-ruch-sieht-faschismus-gefahr-fuer-die-schweiz-art-1718450",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Tunnel in Obwalden werden tagsüber gesperrt&nbsp;– das sorgt für Kritik",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/obwalden-tunnelreinigungen-tagsueber-sorgen-fuer-kritik-art-1718449",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "In Stans hat er Tausende Franken gestohlen – nun ist der Mann nicht mehr aufzufinden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/in-stans-gestohlenes-bargeld-rumaene-verschwindet-art-1718448",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Winner &amp; Loser» ist hier keine Frage: Alle machen begeistert mit",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/shae-rosset-inszeniert-maturaarbeit-am-kollegitheater-sarnen-art-1718447",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Stephan Eicher, Harald Schmidt und «TriEvent»: Theater Uri lockt ab Dezember mit grossen Namen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/umbau-im-theater-uri-vorerst-nur-kleine-veranstaltungen-art-1718446",
+      "summary": "",
+      "published": "2026-08-26T03:33:21.603797+00:00"
     }
   ]
 }
