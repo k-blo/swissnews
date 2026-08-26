@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T02:02:16.335283+00:00",
+  "generated": "2026-08-26T02:20:29.416411+00:00",
   "date": "2026-08-26",
-  "count": 37,
+  "count": 42,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -261,6 +261,41 @@
       "url": "https://www.tagblatt.ch/sport/thurgau/artikel-ld.4222720",
       "summary": "",
       "published": "2026-08-26T02:02:16.335283+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Jugend und das liebe Geld: Lorine und Alex Blunschi sprechen über Sackgeld, Twint und «Girls Math»",
+      "url": "https://www.shn.ch/multimedia/podcast/2026-08-26/die-jugend-und-das-liebe-geld-lorine-und-alex-blunschi-sprechen-ueber",
+      "summary": "Selbst Geld verdienen – oder doch lieber alles von den Eltern bekommen? Geld ist schon für Teenager ein grosses Thema. Lorine weiss nicht so recht, wie tuff sie es findet, mehr Verantwortung zu überne",
+      "published": "2026-08-26T02:20:29.416411+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Fertig Geknallt Privates Feuerwerk Soll in Kreuzlingen Verboten Werden",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/fertig-geknallt-privates-feuerwerk-soll-in-kreuzlingen-verboten-werden-ld.4222261",
+      "summary": "",
+      "published": "2026-08-26T02:20:29.416411+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kran bei Schloss Sonnenberg in Stettfurt Abgebaut",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/kran-bei-schloss-sonnenberg-in-stettfurt-abgebaut-ld.4222512",
+      "summary": "",
+      "published": "2026-08-26T02:20:29.416411+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Frauenfeld Schulpräsident Wirth Reagiert auf Volksinitiative",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/frauenfeld-schulpraesident-wirth-reagiert-auf-volksinitiative-ld.4222226",
+      "summary": "",
+      "published": "2026-08-26T02:20:29.416411+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Region Frauenfeld Nächtliches Glockengeläut Wird Abgeschaltet",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/region-frauenfeld-naechtliches-glockengelaeut-wird-abgeschaltet-ld.4222158",
+      "summary": "",
+      "published": "2026-08-26T02:20:29.416411+00:00"
     }
   ]
 }
