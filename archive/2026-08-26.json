@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T01:32:41.482270+00:00",
+  "generated": "2026-08-26T02:02:16.335283+00:00",
   "date": "2026-08-26",
-  "count": 36,
+  "count": 37,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -254,6 +254,13 @@
       "url": "https://www.watson.ch/wissen/international/527586876-e-zigaretten-nikotin-vaping-kann-beim-rauchstopp-helfen",
       "summary": "",
       "published": "2026-08-26T01:32:41.482270+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Artikel",
+      "url": "https://www.tagblatt.ch/sport/thurgau/artikel-ld.4222720",
+      "summary": "",
+      "published": "2026-08-26T02:02:16.335283+00:00"
     }
   ]
 }
