@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T00:02:25.659900+00:00",
+  "generated": "2026-08-27T00:25:05.838774+00:00",
   "date": "2026-08-27",
-  "count": 36,
+  "count": 38,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -254,6 +254,20 @@
       "url": "https://www.watson.ch/international/italien/943889728-mbda-akeron-mann-mit-raketen-im-lieferwagen-in-italien-gestoppt",
       "summary": "",
       "published": "2026-08-27T00:02:25.659900+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bluttat erschüttert Montana: Opfer zwischen 7 und 92 Jahren",
+      "url": "https://www.20min.ch/story/usa-montana-bluttat-acht-opfer-familie-getoetet-103623137",
+      "summary": "In der US-Stadt Billings brennt ein Haus ab, es fallen Schüsse. Die Ermittler finden mehrere Leichen. Der mutmassliche Schütze hat seine Eltern, seine Schwester, deren Kinder und sein Grosi getötet.",
+      "published": "2026-08-27T00:25:05.838774+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nepal: Sturzflut im Himalaja – Hunderte Touristen vermisst",
+      "url": "https://www.watson.ch/international/china/314583502-nepal-sturzflut-im-himalaja-hunderte-touristen-vermisst",
+      "summary": "",
+      "published": "2026-08-27T00:25:05.838774+00:00"
     }
   ]
 }
