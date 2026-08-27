@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T16:32:17.261105+00:00",
+  "generated": "2026-08-27T16:37:53.240283+00:00",
   "date": "2026-08-27",
-  "count": 889,
+  "count": 890,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -6225,6 +6225,13 @@
       "url": "https://www.infosperber.ch/gesellschaft/der-neonazi-der-eigentlich-journalist-war/",
       "summary": "",
       "published": "2026-08-27T16:32:17.261105+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "82 Jahre nach der Ermordung Jakob Lütschg Erhält Stolperstein in Balgach",
+      "url": "https://www.tagblatt.ch/ostschweiz/rheintal/82-jahre-nach-der-ermordung-jakob-luetschg-erhaelt-stolperstein-in-balgach-ld.4223958",
+      "summary": "",
+      "published": "2026-08-27T16:37:53.240283+00:00"
     }
   ]
 }
