@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T23:32:36.379576+00:00",
+  "generated": "2026-08-27T00:02:25.659900+00:00",
   "date": "2026-08-27",
-  "count": 35,
+  "count": 36,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -247,6 +247,13 @@
       "url": "https://www.watson.ch/international/iran/425590340-uno-iran-bezeichnet-us-sanktionen-als-wirtschaftsterrorismus",
       "summary": "",
       "published": "2026-08-26T23:32:36.379576+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "MBDA Akeron: Mann mit Raketen im Lieferwagen in Italien gestoppt",
+      "url": "https://www.watson.ch/international/italien/943889728-mbda-akeron-mann-mit-raketen-im-lieferwagen-in-italien-gestoppt",
+      "summary": "",
+      "published": "2026-08-27T00:02:25.659900+00:00"
     }
   ]
 }
