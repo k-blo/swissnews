@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T07:02:38.655598+00:00",
+  "generated": "2026-08-27T07:32:25.882696+00:00",
   "date": "2026-08-27",
-  "count": 266,
+  "count": 281,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -1864,6 +1864,111 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/10-jahre-andermatt-golf-course-art-1718645",
       "summary": "",
       "published": "2026-08-27T07:02:38.655598+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Palast meldet: Gesundheitszustand von König Harald verschlechtert",
+      "url": "https://www.20min.ch/story/koenig-harald-verschlechtert-norwegischer-palast-meldet-sehr-ernsten-zustand-103623231",
+      "summary": "Der Gesundheitszustand des norwegischen Königs sei ernst, meldet der Palast. Das Kronprinzenpaar sagt seine Termine vorerst ab.",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Spur der Verwüstung: Videos zeigen Ausmass der Zerstörung",
+      "url": "https://www.20min.ch/video/nepal-spur-der-verwuestung-videos-zeigen-ausmass-der-zerstoerung-103623209",
+      "summary": "In Nepal und Tibet hinterlassen gewaltige Fluten eine Spur der Verwüstung. Mehr als 1300 Menschen werden vermisst. Videos zeigen, wie die Fluten alles mitreissen und Rettungskräfte Häuser evakuieren. ",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Medienaktivisten und die AfD: Schubsen, filmen, Klicks kassieren: Die aggressiven Methoden der neurechten Streamer",
+      "url": "https://www.tagesanzeiger.ch/afd-wahlkampf-rechte-streamer-als-gegenoeffentlichkeit-213667058477",
+      "summary": "Im deutschen Wahlkampf bedrängen rechte Streamer und Video-Blogger Journalisten und nutzen Vorfälle als Trophäen für ihre Social-Media-Kanäle. Einer hat jetzt selbst für die AfD Grenzen überschritten.",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dank viel Reis, Fisch und Gemüse: 106-jähriger Thailänder stellt Weltrekord im Diskuswurf auf",
+      "url": "https://www.tagesanzeiger.ch/weltrekord-mit-106-thailaender-wirft-diskus-7-59-meter-194018882528",
+      "summary": "Erst seit seinem 97. Lebensjahr nimmt Sawang Janpram regelmässig an Wettbewerben teil. Nun ist er in seiner Altersklasse der beste Diskuswerfer.",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Urner Kantonalbank leidet unter Kamuno-Abschreiber",
+      "url": "https://www.finews.ch/news/banken/73376-ukb-halbjahresabschluss2026-kamuno-abschreibung-wertberichtigung",
+      "summary": "Das operative Geschäft der Urner Kantonalbank läuft nicht schlecht. Aber ein grosser Abschreiber auf eine Fintech-Beteiligung lastet auf dem Ergebnis. Nur dank dem Griff in die Reserven bleibt der Hal",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "KI-Verband startet Jobplattform",
+      "url": "https://www.persoenlich.com/digital/ki-verband-startet-jobplattform",
+      "summary": "Gemeinsam mit dem Jobplattform-Betreiber Jobchannel hat der Verein eine zentrale Onlineplattform für KI-Stellen in der Schweiz aufgeschaltet.",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Hischier investiert in Berner Trainingsfirma",
+      "url": "https://www.persoenlich.com/prcorporate-communication/hischier-investiert-in-berner-trainingsfirma",
+      "summary": "Der Captain der New Jersey Devils steigt beim Münsinger Unternehmen für Koordinationstraining als Investor ein und will dessen Trainingskonzepte künftig mitgestalten. Zusätzlich bringt der Eishockeypr",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "TV-Duell vor der Schicksalswahl: AfD-Favorit Siegmund zeigt Schwächen",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-08-27/tv-duell-vor-der-schicksalswahl-afd-favorit-siegmund-zeigt",
+      "summary": "Regieren in dem ostdeutschen Bundesland schon bald die Rechtsradikalen? Am Mittwoch stand ihr Kandidat dem der CDU in einem Fernsehduell gegenüber. Das war durchaus aufschlussreich.",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Mikko Keto Geht Chefwechsel bei der Sig",
+      "url": "https://www.bilanz.ch/unternehmen/mikko-keto-geht-chefwechsel-bei-der-sig/mjfdd4r",
+      "summary": "",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Rennen Ohne Ziellinie Bündner Snowboarder Wagt Gnadenlose Challenge",
+      "url": "https://www.suedostschweiz.ch/regionalsport/rennen-ohne-ziellinie-buendner-snowboarder-wagt-gnadenlose-challenge-2128421",
+      "summary": "",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Effingen Neue Weiher und Hecken Werten die Natur auf",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/effingen-neue-weiher-und-hecken-werten-die-natur-auf-ld.4223372",
+      "summary": "",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Bäckerei Leutwyler Erhält Lift Support Award",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/baeckerei-leutwyler-erhaelt-lift-support-award-ld.4223226",
+      "summary": "",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Keine Jobgarantie – Arbeitslosigkeit bei Hochschulabsolventen nimmt zu",
+      "url": "https://www.watson.ch/schweiz/arbeitswelt/246140619-keine-jobgarantie-arbeitslosigkeit-bei-hochschulabsolventen-nimmt-zu",
+      "summary": "",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Grünliberale fordern freie Fahrt für klimafreundliche E-Autos",
+      "url": "https://www.watson.ch/schweiz/digital/468457798-gruenliberale-fordern-freie-fahrt-fuer-klimafreundliche-e-autos",
+      "summary": "",
+      "published": "2026-08-27T07:32:25.882696+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "EWS senkt Strompreise per 2027",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-energieversorger-ews-senkt-strompreise-per-2027-art-1718648",
+      "summary": "",
+      "published": "2026-08-27T07:32:25.882696+00:00"
     }
   ]
 }
