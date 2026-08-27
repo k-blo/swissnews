@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T01:32:46.484198+00:00",
+  "generated": "2026-08-27T02:02:31.744723+00:00",
   "date": "2026-08-27",
-  "count": 48,
+  "count": 50,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -338,6 +338,20 @@
       "url": "https://www.watson.ch/international/italien/760163769-italopop-eros-ramazotti-musste-an-stimmbaendern-operiert-werden",
       "summary": "",
       "published": "2026-08-27T01:32:46.484198+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Algerien: 12 Tote bei Waldbränden",
+      "url": "https://www.zentralplus.ch/news/algerien-12-tote-bei-waldbraenden-2894726/",
+      "summary": "Im Nordosten Algeriens sind am Mittwoch mindestens 12 Menschen durch Waldbrände ums Leben gekommen. Dutzende weitere wurden verletzt, teilte das Innenministerum des nordafrikanischen Landes mit. Über ",
+      "published": "2026-08-27T02:02:31.744723+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nvidia verdoppelt Quartalsgewinn",
+      "url": "https://www.zentralplus.ch/news/nvidia-verdoppelt-quartalsgewinn-2894724/",
+      "summary": "Nvidia profitiert weiter vom Boom der Künstlichen Intelligenz. Der US-Chipkonzern hat im zweiten Quartal Umsatz und Gewinn mehr als verdoppelt. Der Umsatz stieg auf 96,2 Milliarden Dollar. Der Nettoge",
+      "published": "2026-08-27T02:02:31.744723+00:00"
     }
   ]
 }
