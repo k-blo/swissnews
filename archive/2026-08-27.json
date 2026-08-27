@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T00:47:23.546059+00:00",
+  "generated": "2026-08-27T01:02:58.998726+00:00",
   "date": "2026-08-27",
-  "count": 42,
+  "count": 45,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -296,6 +296,27 @@
       "url": "https://www.tagesanzeiger.ch/montana-usa-billings-bluttat-acht-opfer-eine-familie-mutmasslicher-taeter-familienangehoeriger-428594326864",
       "summary": "In der US-Stadt Billings brennt ein Haus ab, es fallen Schüsse. Die Ermittler finden mehrere Leichen. Das älteste Opfer ist 92 Jahre alt, das jüngste erst 7. Der mutmassliche Täter gehörte zur Familie",
       "published": "2026-08-27T00:47:23.546059+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Prozess gegen 9/11-Drahtzieher für 2028 geplant",
+      "url": "https://www.20min.ch/story/terroranschlag-usa-9-11-prozesstermin-fuer-2028-geplant-103623138",
+      "summary": "Der Prozess gegen Chalid Scheich Mohammed, den mutmasslichen Chefplaner der Anschläge vom 11. September, soll 2028 in Guantánamo beginnen – fast 27 Jahre nach der Tat.",
+      "published": "2026-08-27T01:02:58.998726+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Caen: Auto rast in Frankreich in Menge: ein Toter, zehn Verletzte",
+      "url": "https://www.watson.ch/international/frankreich/219672855-caen-auto-rast-in-frankreich-in-menge-ein-toter-zehn-verletzte",
+      "summary": "",
+      "published": "2026-08-27T01:02:58.998726+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Billings Montana USA: Mann löscht bei Amoktat ganze Familie aus",
+      "url": "https://www.watson.ch/international/usa/459386763-billings-montana-usa-mann-loescht-bei-amoktat-ganze-familie-aus",
+      "summary": "",
+      "published": "2026-08-27T01:02:58.998726+00:00"
     }
   ]
 }
