@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T02:02:31.744723+00:00",
+  "generated": "2026-08-27T02:28:18.074773+00:00",
   "date": "2026-08-27",
-  "count": 50,
+  "count": 54,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -352,6 +352,34 @@
       "url": "https://www.zentralplus.ch/news/nvidia-verdoppelt-quartalsgewinn-2894724/",
       "summary": "Nvidia profitiert weiter vom Boom der Künstlichen Intelligenz. Der US-Chipkonzern hat im zweiten Quartal Umsatz und Gewinn mehr als verdoppelt. Der Umsatz stieg auf 96,2 Milliarden Dollar. Der Nettoge",
       "published": "2026-08-27T02:02:31.744723+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Im Norden Frankreichs: Streit eskaliert – Auto rast in Menschenmenge",
+      "url": "https://www.tagesanzeiger.ch/frankreich-normandie-caen-auto-faehrt-in-menschenmenge-opfer-843576409073",
+      "summary": "In der Normandie kommt es am späten Abend zu einem schweren Zwischenfall. Ersten Informationen nach eskaliert ein Streit – und es folgt eine verhängnisvolle Autofahrt.",
+      "published": "2026-08-27T02:28:18.074773+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Es ist kein Fastnachtskostüm»: Das ist die erste Standesweibelin des Kantons",
+      "url": "https://www.shn.ch/region/kanton/2026-08-27/es-ist-kein-fastnachtskostuem-das-ist-die-erste-standesweibelin-des",
+      "summary": "Ihr «Ornat» wird eigentlich nur für spezielle Regierungsanlässe aus dem Schrank genommen. Vittoria Rühli, die erste Standesweibelin des Kantons Schaffhausen, erklärt, was es damit auf sich hat.",
+      "published": "2026-08-27T02:28:18.074773+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Ig Velo Amriswil Fordert Mehr Aufmerksamkeit für Velofahrer",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/ig-velo-amriswil-fordert-mehr-aufmerksamkeit-fuer-velofahrer-ld.4222266",
+      "summary": "",
+      "published": "2026-08-27T02:28:18.074773+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Diessenhofen eine Stadt im Griff Wechselnder Mächte",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/diessenhofen-eine-stadt-im-griff-wechselnder-maechte-ld.4222798",
+      "summary": "",
+      "published": "2026-08-27T02:28:18.074773+00:00"
     }
   ]
 }
