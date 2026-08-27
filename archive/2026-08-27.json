@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27T04:36:01.345949+00:00",
+  "generated": "2026-08-27T05:02:23.975683+00:00",
   "date": "2026-08-27",
-  "count": 202,
+  "count": 210,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -1416,6 +1416,62 @@
       "url": "https://www.bernerzeitung.ch/bahnhof-stettlen-rentnerpaar-fuers-queren-der-gleise-gebuesst-544451384424",
       "summary": "Alter schützt vor Torheit nicht: Ein 77-Jähriger und seine 71-jährige Gattin wollten unbedingt ihren Zug erwischen, brachen dabei jedoch das Gesetz.",
       "published": "2026-08-27T04:36:01.345949+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Zukunftsforschung – Für Natur, gegen KI: Schweizer Volk ist sich bei vielem einig",
+      "url": "https://www.srf.ch/news/schweiz/zukunftsforschung-fuer-natur-gegen-ki-schweizer-volk-ist-sich-bei-vielem-einig",
+      "summary": "Mehr Regionalität, weniger KI – so die Wünsche in der Schweiz. Dies zeigt erstmals der Zukunftskompass.",
+      "published": "2026-08-27T05:02:23.975683+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Original versus Kopie – Warum das Original der «Venus» so viel wertvoller ist",
+      "url": "https://www.srf.ch/news/schweiz/original-versus-kopie-warum-das-original-der-venus-so-viel-wertvoller-ist",
+      "summary": "Nach 60 Jahren kehrt ein steinzeitliches Fundstück zurück nach Schaffhausen – und demonstriert die Macht des Originals.",
+      "published": "2026-08-27T05:02:23.975683+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trotz Mega-Saison: «Bin noch nicht bereit für den Weltrekord»",
+      "url": "https://www.20min.ch/story/audrey-werro-startet-bei-weltklasse-zuerich-als-klare-800-m-favoritin-103622909",
+      "summary": "Im Stadion Letzigrund misst sich am Donnerstag die Weltklasse der Leichtathletik. Mit dabei als grosse Favoritin in ihrer Kategorie: 800-m-Läuferin Audrey Werro.",
+      "published": "2026-08-27T05:02:23.975683+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Polizei musste mit Grossaufgebot zu McDonald’s ausrücken",
+      "url": "https://www.20min.ch/story/mittwochabend-massiver-polizeieinsatz-bei-mcdonald-s-im-lausanner-stadtzentrum-103623169",
+      "summary": "Das Gebiet rund um den McDonald’s in Saint-Laurent VD wurde am Mittwochabend von einem grossen Polizeiaufgebot abgeriegelt. Die Hintergründe sind noch unklar.",
+      "published": "2026-08-27T05:02:23.975683+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Iran-Krieg: Teheran bezeichnet angedrohte US-Sanktionen als Wirtschaftsterrorismus",
+      "url": "https://www.nzz.ch/international/iran-krieg-teheran-bezeichnet-angedrohte-us-sanktionen-als-wirtschaftsterrorismus-ld.10021246",
+      "summary": "",
+      "published": "2026-08-27T05:02:23.975683+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Krieg in der Ukraine: CIA-Chef Ratcliffe warnte Russland laut Berichten vor Angriff auf Nato",
+      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-cia-chef-ratcliffe-warnte-russland-laut-berichten-vor-angriff-auf-nato-ld.10021245",
+      "summary": "",
+      "published": "2026-08-27T05:02:23.975683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hitzewelle: Cédric Wermuth SP greift Guy Parmelin & Albert Rösti SVP an",
+      "url": "https://www.watson.ch/schweiz/extremwetter/503091213-hitzewelle-cedric-wermuth-sp-greift-guy-parmelin-albert-roesti-svp-an",
+      "summary": "",
+      "published": "2026-08-27T05:02:23.975683+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "KI-Boom beflügelt Nvidia – 60 Milliarden Dollar Gewinn",
+      "url": "https://www.freiburger-nachrichten.ch/story/285382/kiboom-befl%C3%BCgelt-nvidia-60-milliarden-dollar-gewinn",
+      "summary": "",
+      "published": "2026-08-27T05:02:23.975683+00:00"
     }
   ]
 }
