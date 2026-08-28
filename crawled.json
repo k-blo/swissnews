@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-28T20:59:36.116314+00:00",
+  "generated": "2026-08-28T21:03:34.183310+00:00",
   "date": "2026-08-28",
-  "count": 930,
+  "count": 931,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -6512,6 +6512,13 @@
       "url": "https://www.bote.ch/nachrichten/sport/sc-kriens-schlaegt-stade-nyonnais-30-und-steht-auf-dem-zweiten-rang-art-1719005",
       "summary": "",
       "published": "2026-08-28T20:59:36.116314+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ICE nimmt rechtsextremen Blogger Milo Yiannopoulos fest",
+      "url": "https://www.watson.ch/international/migration/455810389-ice-nimmt-rechtsextremen-blogger-milo-yiannopoulos-fest",
+      "summary": "",
+      "published": "2026-08-28T21:03:34.183310+00:00"
     }
   ]
 }
