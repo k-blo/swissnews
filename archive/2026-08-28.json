@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-28T01:02:25.985562+00:00",
+  "generated": "2026-08-28T01:32:35.946620+00:00",
   "date": "2026-08-28",
-  "count": 35,
+  "count": 36,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -247,6 +247,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/wenn-essen-zur-religion-wird",
       "summary": "",
       "published": "2026-08-28T00:35:25.365420+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sorge vor zweiter Flutwelle wächst",
+      "url": "https://www.zentralplus.ch/news/sorge-vor-zweiter-flutwelle-waechst-2894957/",
+      "summary": "Nach der Sturzflut in Nepal und Tibet wächst die Sorge vor einer möglichen zweiten Flutwelle. Durch Schutt hat sich ein Fluss aufgestaut und einen grossen See gebildet. In den nächsten Tagen könnten r",
+      "published": "2026-08-28T01:32:35.946620+00:00"
     }
   ]
 }
