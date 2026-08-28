@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-28T22:02:40.335819+00:00",
+  "generated": "2026-08-28T22:32:47.488202+00:00",
   "date": "2026-08-29",
-  "count": 4,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -30,6 +30,111 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/gesundheitsbasar-fuer-hypochonder-art-1718697",
       "summary": "",
       "published": "2026-08-28T22:02:40.335819+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Grosseinsatz der Feuerwehr: Sägewerk steht in Urswil LU in Flammen",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/luzern/grosseinsatz-der-feuerwehr-saegewerk-steht-in-urswil-lu-in-flammen-id22218717.html",
+      "summary": "Grossbrand im luzernischen Urswil. Das Lang-Sägewerk steht in Flammen. Ein Grosseinsatz der Feuerwehr läuft.",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Arena» zur Neutralität: Cassis nimmt die SVP-Argumente auseinander",
+      "url": "https://www.watson.ch/schweiz/reviews/286094091-arena-zur-neutralitaet-cassis-nimmt-die-svp-argumente-auseinander",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir können uns nur selber schlagen»",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/wir-koennen-uns-nur-selber-schlagen-art-1718872",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wer wohnt im Dach? Auf der Suche nach Spuren der Fledermaus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wer-wohnt-im-dach-auf-der-suche-nach-spuren-der-fledermaus-art-1718961",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wer hat Angst vor dem bösen Wolf?",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wer-hat-angst-vor-dem-boesen-wolf-art-1718887",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Patrick Betschart tritt in Kilchberg an",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/patrick-betschart-tritt-in-kilchberg-an-art-1718888",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nächste Grossbaustelle: Baustart für Bahnhofsareal",
+      "url": "https://www.bote.ch/nachrichten/schwyz/naechste-grossbaustelle-baustart-fuer-bahnhofsareal-art-1718908",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mehrkosten für Rathaus-Sanierung: Kommission rügt Bezirksrat und fordert bessere Planung",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mehrkosten-fuer-rathaus-sanierung-kommission-ruegt-bezirksrat-und-fordert-bessere-planung-art-1718871",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Jetzt können die ersten Behördengänge online erledigt werden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/jetzt-koennen-die-ersten-behoerdengaenge-online-erledigt-werden-art-1718896",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "IT-Chef des Kantons: «Der M365-Entscheid ist gefällt, aber es ist kein Point of no Return»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/it-chef-des-kantons-der-m365-entscheid-ist-gefaellt-aber-es-ist-kein-point-of-no-return-art-1718864",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fledermäuse im Fokus: Die Mitternachtsjäger hautnah erleben",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fledermaeuse-im-fokus-die-mitternachtsjaeger-hautnah-erleben-art-1718890",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Er brachte Kühnes Firmenimperium in den Kanton Schwyz",
+      "url": "https://www.bote.ch/nachrichten/schwyz/er-brachte-kuehnes-firmenimperium-in-den-kanton-schwyz-art-1718895",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein gutes Jahr für den Handball KTV&nbsp;Muotathal",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ein-gutes-jahr-fuer-den-handball-ktv-muotathal-art-1718920",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Echo vom Bäräaug in «Potzmusig»-Sendung",
+      "url": "https://www.bote.ch/nachrichten/schwyz/echo-vom-baeraeaug-in-potzmusig-sendung-art-1718867",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Busfahrt mit Eigenverantwortung",
+      "url": "https://www.bote.ch/nachrichten/schwyz/busfahrt-mit-eigenverantwortung-art-1718946",
+      "summary": "",
+      "published": "2026-08-28T22:32:47.488202+00:00"
     }
   ]
 }
