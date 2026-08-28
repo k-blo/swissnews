@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-28T22:32:47.488202+00:00",
+  "generated": "2026-08-28T22:46:06.472460+00:00",
   "date": "2026-08-29",
-  "count": 19,
+  "count": 20,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -135,6 +135,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/busfahrt-mit-eigenverantwortung-art-1718946",
       "summary": "",
       "published": "2026-08-28T22:32:47.488202+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Arena» zur Neutralität: Cassis bringt die SVP in Erklärungsnot",
+      "url": "https://www.watson.ch/schweiz/reviews/286094091-arena-zur-neutralitaet-cassis-bringt-die-svp-in-erklaerungsnot",
+      "summary": "",
+      "published": "2026-08-28T22:46:06.472460+00:00"
     }
   ]
 }
