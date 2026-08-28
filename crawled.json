@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-28T21:03:34.183310+00:00",
+  "generated": "2026-08-28T21:32:36.572296+00:00",
   "date": "2026-08-28",
-  "count": 931,
+  "count": 933,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -6519,6 +6519,20 @@
       "url": "https://www.watson.ch/international/migration/455810389-ice-nimmt-rechtsextremen-blogger-milo-yiannopoulos-fest",
       "summary": "",
       "published": "2026-08-28T21:03:34.183310+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Neuer Präsident des Eishockeyverbandes kündigt Sparmassnahmen an",
+      "url": "https://www.freiburger-nachrichten.ch/story/286059/neuer-pr%C3%A4sident-des-eishockeyverbandes-k%C3%BCndigt-sparmassnahmen-an",
+      "summary": "",
+      "published": "2026-08-28T21:32:36.572296+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wie sich Tiere und Pflanzen vor schädlicher UV-Strahlung schützen",
+      "url": "https://www.freiburger-nachrichten.ch/story/285726/wie-sich-tiere-und-pflanzen-vor-sch%C3%A4dlicher-uvstrahlung-sch%C3%BCtzen",
+      "summary": "",
+      "published": "2026-08-28T21:32:36.572296+00:00"
     }
   ]
 }
