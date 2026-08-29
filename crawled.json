@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T00:23:00.163291+00:00",
+  "generated": "2026-08-29T00:26:05.146368+00:00",
   "date": "2026-08-29",
-  "count": 26,
+  "count": 27,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -184,6 +184,13 @@
       "url": "https://www.zentralplus.ch/news/usa-sichern-sich-oelvorkommen-in-ven-2895237/",
       "summary": "Die USA übernehmen die Kontrolle über 65 Milliarden Barrel Öl aus Venezuela, wie US-Präsident Donald Trump auf der Plattform Truth Social mitteilt. Die US-Regierung habe ein Abkommen mit dem südamerik",
       "published": "2026-08-29T00:23:00.163291+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Trump verkündet Deal: USA sichern sich in Venezuela riesige Ölvorkommen",
+      "url": "https://www.bernerzeitung.ch/trump-sichert-sich-65-milliarden-barrel-oel-in-venezuela-535567155401",
+      "summary": "Anfang des Jahres nahmen US-Spezialkräfte Venezuelas langjährigen Staatschef Nicolás Maduro fest. Nun soll es eine Vereinbarung über Ölvorkommen des Landes geben.",
+      "published": "2026-08-29T00:26:05.146368+00:00"
     }
   ]
 }
