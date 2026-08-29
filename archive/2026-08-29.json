@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T12:30:08.557118+00:00",
+  "generated": "2026-08-29T12:33:24.036750+00:00",
   "date": "2026-08-29",
-  "count": 361,
+  "count": 363,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2529,6 +2529,20 @@
       "url": "https://www.watson.ch/sport/schwingen/703633484-eine-champions-league-fuers-schwingen-das-potenzial-waere-da",
       "summary": "",
       "published": "2026-08-29T12:30:08.557118+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trauer in Oslo: Norwegen weint um Harald V. – kann Haakon die Lücke füllen?",
+      "url": "https://www.tagesanzeiger.ch/haakon-viii-norwegen-trauert-um-harald-v-542720481097",
+      "summary": "Der verstorbene König wurde vom Volk geliebt. Nun muss sein Sohn ein schweres Erbe antreten – und einer von Skandalen erschütterten Königsfamilie neues Vertrauen geben.",
+      "published": "2026-08-29T12:33:24.036750+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Greenpeace kritisiert Wasserverbrauch des zukünftigen Micarna-Schlachthofs",
+      "url": "https://www.freiburger-nachrichten.ch/story/285148/greenpeace-kritisiert-wasserverbrauch-des-zuk%C3%BCnftigen-micarnaschlachthofs",
+      "summary": "",
+      "published": "2026-08-29T12:33:24.036750+00:00"
     }
   ]
 }
