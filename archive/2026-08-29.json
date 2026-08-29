@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T14:32:42.745912+00:00",
+  "generated": "2026-08-29T14:47:11.113777+00:00",
   "date": "2026-08-29",
-  "count": 413,
+  "count": 417,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2893,6 +2893,34 @@
       "url": "https://www.bote.ch/nachrichten/sport/mountainbike-lisa-baumann-gewinnt-wm-silber-in-val-di-sole-art-1719061",
       "summary": "",
       "published": "2026-08-29T14:32:42.745912+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Verkehrsüberlastung wegen Flugshow",
+      "url": "https://www.zentralplus.ch/news/verkehrsueberlastung-wegen-flugshow-2895280/",
+      "summary": "Der Flugplatz in Altenrhein SG feiert heute sein 100-jähriges Bestehen. Für die Flugshow reisten so viele Leute an, dass die St. Galler Kantonspolizei eine Autobahnausfahrt sperren musste. Kurz nach d",
+      "published": "2026-08-29T14:47:11.113777+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ministerium: Soldaten haben gegen die Militärregierung im Niger gemeutert",
+      "url": "https://www.nzz.ch/international/ministerium-soldaten-haben-gegen-die-militaerregierung-im-niger-gemeutert-ld.10021615",
+      "summary": "",
+      "published": "2026-08-29T14:47:11.113777+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Davoser Snowboard Geschwister",
+      "url": "https://www.suedostschweiz.ch/regionalsport/davoser-snowboard-geschwister-2123477",
+      "summary": "",
+      "published": "2026-08-29T14:47:11.113777+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polizei unterbindet unbewilligte Pro-Palästina-Demo in Basel",
+      "url": "https://www.watson.ch/schweiz/naher-osten/621302244-polizei-unterbindet-unbewilligte-pro-palaestina-demo-in-basel",
+      "summary": "",
+      "published": "2026-08-29T14:47:11.113777+00:00"
     }
   ]
 }
