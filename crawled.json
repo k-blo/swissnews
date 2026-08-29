@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T01:32:34.201031+00:00",
+  "generated": "2026-08-29T02:02:45.531484+00:00",
   "date": "2026-08-29",
-  "count": 32,
+  "count": 34,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -226,6 +226,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/08/bafu-papier-macht-klimawerbung-fast-unmoeglich",
       "summary": "",
       "published": "2026-08-29T00:32:59.867294+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Tickets für die Museumsnacht Stgallen Gewinnen",
+      "url": "https://www.tagblatt.ch/aboplus/wettbewerbe/tickets-fuer-die-museumsnacht-stgallen-gewinnen-ld.4201931",
+      "summary": "",
+      "published": "2026-08-29T02:02:45.531484+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kreuzlingen Tanztheater Rigolo und Roikkuva im Seeburgpark",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/kreuzlingen-tanztheater-rigolo-und-roikkuva-im-seeburgpark-ld.4224192",
+      "summary": "",
+      "published": "2026-08-29T02:02:45.531484+00:00"
     }
   ]
 }
