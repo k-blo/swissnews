@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T08:27:57.541544+00:00",
+  "generated": "2026-08-29T08:34:04.212584+00:00",
   "date": "2026-08-29",
-  "count": 268,
+  "count": 274,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1878,6 +1878,48 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/stans-horner-zunft-laedt-zum-picknick-rot-weiss-art-1719048",
       "summary": "",
       "published": "2026-08-29T08:27:57.541544+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Stellt Car Halteverbot an Vbl Haltestellen auf",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-stellt-car-halteverbot-an-vbl-haltestellen-auf-ld.4210040",
+      "summary": "",
+      "published": "2026-08-29T08:34:04.212584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Europa-Park baut neuen Bereich für Rulantica: Das ist geplant",
+      "url": "https://www.watson.ch/leben/deutschland/582613380-europa-park-baut-neuen-bereich-fuer-rulantica-das-ist-geplant",
+      "summary": "",
+      "published": "2026-08-29T08:34:04.212584+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Eine Champions League fürs Schwingen?",
+      "url": "https://www.freiburger-nachrichten.ch/story/286080/eine-champions-league-f%C3%BCrs-schwingen",
+      "summary": "",
+      "published": "2026-08-29T08:34:04.212584+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gründe für einen überhitzten Immobilienmarkt",
+      "url": "https://www.freiburger-nachrichten.ch/story/285434/gr%C3%BCnde-f%C3%BCr-einen-%C3%BCberhitzten-immobilienmarkt",
+      "summary": "",
+      "published": "2026-08-29T08:34:04.212584+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Cars blockieren VBL-Haltestellen&nbsp;– jetzt geht die Stadt mit Bussen dagegen vor",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-stellt-car-halteverbot-an-vbl-haltestellen-auf-art-1719050",
+      "summary": "",
+      "published": "2026-08-29T08:34:04.212584+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Stadtzuger Quartier wollte Tempo 30 vorübergehend – jetzt wird die Drosselung dauerhaft",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/tempo-30-in-zug-stadt-setzt-loesung-im-hertiquartier-um-art-1719049",
+      "summary": "",
+      "published": "2026-08-29T08:34:04.212584+00:00"
     }
   ]
 }
