@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-28T23:32:39.813609+00:00",
+  "generated": "2026-08-29T00:02:43.103730+00:00",
   "date": "2026-08-29",
-  "count": 24,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -170,6 +170,13 @@
       "url": "https://www.20min.ch/story/trump-vekruendet-usa-sichern-sich-riesige-oelvorkommen-in-venezuela-103624211",
       "summary": "US-Präsident Donald Trump hat ein bedeutendes Öl-Abkommen mit Venezuela verkündet.",
       "published": "2026-08-28T23:32:39.813609+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trump verkündet Deal: USA sichern sich riesige Ölvorkommen in Venezuela",
+      "url": "https://www.tagesanzeiger.ch/trump-sichert-sich-65-milliarden-barrel-oel-in-venezuela-535567155401",
+      "summary": "Anfang des Jahres nahmen US-Spezialkräfte Venezuelas langjährigen Staatschef Nicolás Maduro fest. Nun soll es eine Vereinbarung über Ölvorkommen des Landes geben.",
+      "published": "2026-08-29T00:02:43.103730+00:00"
     }
   ]
 }
