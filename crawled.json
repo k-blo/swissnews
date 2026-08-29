@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T22:02:44.568911+00:00",
+  "generated": "2026-08-29T22:32:17.300111+00:00",
   "date": "2026-08-30",
-  "count": 3,
+  "count": 6,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -23,6 +23,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/auffangstation-rotkreuz-soll-bedrohten-tieren-helfen-art-1719073",
       "summary": "",
       "published": "2026-08-29T22:02:44.568911+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Die FCB-Spieler in der Einzelkritik: Victory glänzt als Vorbereiter, Retter und Torschütze – Cissé zahlt Lehrgeld",
+      "url": "https://www.bazonline.ch/fc-basel-gegen-yb-die-einzelkritik-zum-3-3-704880077029",
+      "summary": "Beim 3:3 gegen YB holt sich ein Verteidiger die Höchstnote – trotzdem offenbaren sich beim FC Basel defensive Schwachstellen.",
+      "published": "2026-08-29T22:32:17.300111+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Spontane Klassik-Konzerte stiessen auf Anklang",
+      "url": "https://www.freiburger-nachrichten.ch/story/285551/spontane-klassikkonzerte-stiessen-auf-anklang",
+      "summary": "",
+      "published": "2026-08-29T22:32:17.300111+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir haben sehr, sehr viele Babys, wo die Mamas nicht mehr da sind» – Wie eine Igel-Rettungsstation um das Überleben der Tiere kämpft",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/igel-rettungsstation-kaempft-um-das-ueberleben-verwaister-tiere-art-1719074",
+      "summary": "",
+      "published": "2026-08-29T22:32:17.300111+00:00"
     }
   ]
 }
