@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T04:32:47.531965+00:00",
+  "generated": "2026-08-29T05:02:36.148098+00:00",
   "date": "2026-08-29",
-  "count": 188,
+  "count": 199,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1318,6 +1318,83 @@
       "url": "https://www.watson.ch/international/usa/817058441-nager-auf-dem-rueckzug-new-york-meldet-weniger-ratten",
       "summary": "",
       "published": "2026-08-29T04:32:47.531965+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Umstrittene Datenzentren – Stromfresser oder Rückgrat der Schweizer Infrastruktur?",
+      "url": "https://www.srf.ch/news/schweiz/umstrittene-datenzentren-stromfresser-oder-rueckgrat-der-schweizer-infrastruktur",
+      "summary": "Nirgends wird so intensiv über Datenzentren diskutiert wie in Schaffhausen. Nun äussern sich die Vertreter der Anlagen.",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Roger Federer im exklusiven Interview: «Unsere Kids gehen gut mit ihrem bekannten Namen um»",
+      "url": "https://www.tagesanzeiger.ch/roger-federer-interview-zur-aufnahme-in-die-tennis-hall-of-fame-827250520498",
+      "summary": "Vor der Aufnahme in die Tennis-Ruhmeshalle spricht Roger Federer über sein Leben als Vater, die Vorbildfunktion von Martina Hingis – und er windet seiner Mutter ein Kränzchen.",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Neuer Insel-Präsident: Ein Arzt, der eine Million Franken verdient? «In Ausnahmefällen darf das vorkommen»",
+      "url": "https://www.bernerzeitung.ch/inselspital-praesident-schmitter-ueber-loehne-und-umbau-734795457786",
+      "summary": "Der neue Insel-Präsident Adrian Schmitter greift durch: Im Interview spricht er über fehlendes Know-how der Vorgänger, Spitzenlöhne und das Ende der «Königreiche» im Spital.",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Die letzten Transfertage: Blum-Wechsel vor Abschluss, Milan erkundigt sich nach Sanches – und was läuft mit Guirassy?",
+      "url": "https://www.bernerzeitung.ch/yb-lewin-blum-kurz-vor-transfer-in-die-serie-a-298847354128",
+      "summary": "Lewin Blums Transfer zu Lecce steht offenbar kurz bevor. Auch Alvyn Sanches weckt Begehr­lichkeiten – doch YB will den Super­techniker noch ein Jahr halten.",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "FC-Thun-Präsident Andres Gerber: «Ich dachte mir: Was da abgeht, darf doch nicht wahr sein!»",
+      "url": "https://www.bernerzeitung.ch/fc-thun-andres-gerber-ueber-auszeit-von-dominik-albrecht-498334562276",
+      "summary": "«Wir wollen Profifussball betreiben – aber auf eine menschliche, gute Art»: Der 53-Jährige äussert sich im zweiten, persönlichen Teil des grossen Interviews kritisch zur Branche, in der er tätig ist.",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Adrenalin beim Aareschwumm: Eine vermeintliche Begegnung mit dem «Killerwels»",
+      "url": "https://www.bernerzeitung.ch/wels-in-der-aare-angst-vor-dem-killerfisch-346504150102",
+      "summary": "Der 2-Meter-Fisch ist Richtung Aare unterwegs. Enten geht er gerne mal an den Kragen – und Menschen?",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kampf gegen Krebs bei Kindern: «Mit jeder Generation konnte man mehr Kinder heilen»",
+      "url": "https://www.bernerzeitung.ch/kinderkrebsregister-50-jahre-daten-retten-kinderleben-636828854851",
+      "summary": "Seit 1976 speisen Schweizer Onkologinnen und Onkologen jeden Befund und jede Therapie in ein nationales Kinderkrebsregister ein. Ein Blick in die trockene Statistik zeigt, wie Daten Kinderleben retten",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ärger im Altenbergquartier: Das Loch im Zaun bringt Lärm und Littering",
+      "url": "https://www.bernerzeitung.ch/altenberg-bern-quartier-kaempft-mit-aarebad-ansturm-645473627824",
+      "summary": "Immer mehr Bernerinnen und Berner gehen zwischen Nydegg und Lorraine in die Aare. Was bedeutet das für die Altenberglerinnen und Altenbergler?",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump-Regierung legt im Rechtsstreit um Briefwahl nach",
+      "url": "https://www.watson.ch/international/usa/680867687-trump-regierung-legt-im-rechtsstreit-um-briefwahl-nach",
+      "summary": "",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Behörde ICE plant Einsatz von Roboter-Hunden",
+      "url": "https://www.watson.ch/international/migration/533234034-us-behoerde-ice-plant-einsatz-von-roboter-hunden",
+      "summary": "",
+      "published": "2026-08-29T05:02:36.148098+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Waldbrände in Europa: Es war Glück, dass es nicht noch schlimmer kam",
+      "url": "https://www.watson.ch/international/extremwetter/832814815-waldbraende-in-europa-es-war-glueck-dass-es-nicht-noch-schlimmer-kam",
+      "summary": "",
+      "published": "2026-08-29T05:02:36.148098+00:00"
     }
   ]
 }
