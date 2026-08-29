@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T15:32:41.141983+00:00",
+  "generated": "2026-08-29T15:44:30.179961+00:00",
   "date": "2026-08-29",
-  "count": 434,
+  "count": 438,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3040,6 +3040,34 @@
       "url": "https://www.bote.ch/nachrichten/sport/servette-fc-fc-luzern-der-liveticker-zum-spiel-art-1719063",
       "summary": "",
       "published": "2026-08-29T15:32:41.141983+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Überbordende Nebenkosten zwingen Aurora Ramazzotti zum Umzug",
+      "url": "https://www.20min.ch/story/mailand-ueberbordende-nebenkosten-zwingen-aurora-ramazzotti-zum-umzug-103624364",
+      "summary": "Aurora Ramazzotti und ihr Mann Goffredo Cerza mussten jüngst ihr Traumhaus verlassen. Die Nebenkosten konnte sich das Paar nicht mehr leisten.",
+      "published": "2026-08-29T15:44:30.179961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Premier League: Ndoye bringt Nottingham gegen Liverpool in Führung",
+      "url": "https://www.tagesanzeiger.ch/dan-ndoye-schweizer-erzielt-tor-bei-liverpools-2-2-161682251735",
+      "summary": "Für Liverpool ist es bei 2:2 ein erneutes Unentschieden. Der Nottingham-Spieler Dan Ndoye kann sich jedoch über einen Treffer für sein Team freuen.",
+      "published": "2026-08-29T15:44:30.179961+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Tadej Pogacar muss die Vuelta nach einem heftigen Sturz aufgeben",
+      "url": "https://www.nzz.ch/sport/rad/tadej-pogacar-muss-die-vuelta-nach-einem-heftigen-sturz-aufgeben-ld.10021618",
+      "summary": "",
+      "published": "2026-08-29T15:44:30.179961+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Der Fc Baden Glänzt in der Ostschweiz",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/der-fc-baden-glaenzt-in-der-ostschweiz-ld.4221900",
+      "summary": "",
+      "published": "2026-08-29T15:44:30.179961+00:00"
     }
   ]
 }
