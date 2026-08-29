@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T07:02:42.006467+00:00",
+  "generated": "2026-08-29T07:32:37.871630+00:00",
   "date": "2026-08-29",
-  "count": 234,
+  "count": 245,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1640,6 +1640,83 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/grossbrand-in-ligschwil-saegerei-lang-steht-in-flammen-art-1719043",
       "summary": "",
       "published": "2026-08-29T07:02:42.006467+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Gesundheitskosten – Die Spitalrechnung – ein Mysterium für viele Versicherte",
+      "url": "https://www.srf.ch/news/dialog/gesundheitskosten-die-spitalrechnung-ein-mysterium-fuer-viele-versicherte",
+      "summary": "Die Rechnungen von Spitälern sind für Laien kaum entzifferbar. Wieso es so schwer ist, sich Transparenz zu verschaffen.",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Luzerns Trolleybusnetz bekommt mehr Power",
+      "url": "https://www.zentralplus.ch/news/luzerns-trolleybusnetz-bekommt-mehr-power-2895249/",
+      "summary": "Das Luzerner Trolleybusnetz läuft neu mit einer höheren Spannung. Die Umstellung erfolgte über Nacht. Die Verkehrsbetriebe Luzern (VBL) und die EWL haben die Spannung im Fahrleitungsnetz von 600 auf 7",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sägerei in Flammen: 150 Einsatzkräfte vor Ort",
+      "url": "https://www.zentralplus.ch/news/saegerei-in-flammen-150-einsatzkraefte-vor-ort-2895245/",
+      "summary": "Am Freitagabend kam es in der Sägerei Lang, zwischen Hochdorf und Urswil, zu einem Grossbrand. 150 Einsatzkräfte waren im Einsatz. Am Freitagabend brannte es im Lang-Sägewerk in Ligschwil, zwischen Ho",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Das Duell der Enttäuschten: Ein Derby mit viel Brisanz",
+      "url": "https://www.shn.ch/sport/regio-sport/2026-08-29/das-duell-der-enttaeuschten-ein-derby-mit-viel-brisanz",
+      "summary": "Den Saisonstart hatten sich sowohl die SV Schaffhausen als auch der FCS II anders vorgestellt.",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Brand in Thusis eine Person Soll Sich in Untersuchungshaft Befinden",
+      "url": "https://www.suedostschweiz.ch/graubuenden/brand-in-thusis-eine-person-soll-sich-in-untersuchungshaft-befinden-2140818",
+      "summary": "",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ferien Erholen Länger als Gedacht auf Zwei Dinge Kommt es Besonders an",
+      "url": "https://www.suedostschweiz.ch/panorama/ferien-erholen-laenger-als-gedacht-auf-zwei-dinge-kommt-es-besonders-an-2140660",
+      "summary": "",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Stadtfest Brugg 2026 Unterwegs mit dem Entsorgungsteam",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/stadtfest-brugg-2026-unterwegs-mit-dem-entsorgungsteam-ld.4218645",
+      "summary": "",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Freudensteinpark in Brugg eine Woche Kulturprogramm",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/freudensteinpark-in-brugg-eine-woche-kulturprogramm-ld.4222724",
+      "summary": "",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Daten von Autokennzeichen automatisiert gesammelt: Missbrauch vermutet",
+      "url": "https://www.watson.ch/schweiz/auto/507883969-daten-von-autokennzeichen-automatisiert-gesammelt-missbrauch-vermutet",
+      "summary": "",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rehkitz stirbt nach Hundebiss – St. Galler Hundehalterin bestraft",
+      "url": "https://www.watson.ch/schweiz/tier/291052791-rehkitz-stirbt-nach-hundebiss-st-galler-hundehalterin-bestraft",
+      "summary": "",
+      "published": "2026-08-29T07:32:37.871630+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "So tappt Blocher in die Putin-Falle",
+      "url": "https://www.freiburger-nachrichten.ch/story/286076/so-tappt-blocher-in-die-putinfalle",
+      "summary": "",
+      "published": "2026-08-29T07:32:37.871630+00:00"
     }
   ]
 }
