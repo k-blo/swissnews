@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T22:32:17.300111+00:00",
+  "generated": "2026-08-29T23:02:18.988038+00:00",
   "date": "2026-08-30",
-  "count": 6,
+  "count": 7,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -44,6 +44,13 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/igel-rettungsstation-kaempft-um-das-ueberleben-verwaister-tiere-art-1719074",
       "summary": "",
       "published": "2026-08-29T22:32:17.300111+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wasserschloss Schweiz am Ende?: Wenn das Eis schwindet, drohen harte Verteilungskämpfe mit der EU",
+      "url": "https://www.blick.ch/politik/wasserschloss-schweiz-am-ende-wenn-das-eis-schwindet-drohen-harte-verteilungskaempfe-mit-der-eu-id22218178.html",
+      "summary": "Der Klimawandel hat die Schweiz erreicht. Gletscherschmelze und Wasserknappheit könnten zu mehr Naturkatastrophen und harten Verteilungskämpfen führen, warnen Experten.",
+      "published": "2026-08-29T23:02:18.988038+00:00"
     }
   ]
 }
