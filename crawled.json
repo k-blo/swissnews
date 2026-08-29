@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T02:11:43.737342+00:00",
+  "generated": "2026-08-29T02:29:27.395367+00:00",
   "date": "2026-08-29",
-  "count": 42,
+  "count": 43,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -296,6 +296,13 @@
       "url": "https://www.bote.ch/nachrichten/kultur/alain-claude-sulzer-abgesang-auf-das-theater-art-1719014",
       "summary": "",
       "published": "2026-08-29T02:11:43.737342+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Hecht Bassist Philipp Morscher und Seine Zweite Heimat Bodensee",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/hecht-bassist-philipp-morscher-und-seine-zweite-heimat-bodensee-ld.4223561",
+      "summary": "",
+      "published": "2026-08-29T02:29:27.395367+00:00"
     }
   ]
 }
