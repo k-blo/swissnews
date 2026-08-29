@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T23:02:18.988038+00:00",
+  "generated": "2026-08-29T23:32:38.003325+00:00",
   "date": "2026-08-30",
-  "count": 7,
+  "count": 9,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -51,6 +51,20 @@
       "url": "https://www.blick.ch/politik/wasserschloss-schweiz-am-ende-wenn-das-eis-schwindet-drohen-harte-verteilungskaempfe-mit-der-eu-id22218178.html",
       "summary": "Der Klimawandel hat die Schweiz erreicht. Gletscherschmelze und Wasserknappheit könnten zu mehr Naturkatastrophen und harten Verteilungskämpfen führen, warnen Experten.",
       "published": "2026-08-29T23:02:18.988038+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Alles ganz anders? Blick kennt den Strafbefehl: Migros-Kritikerin soll teures Entrecôte geklaut haben",
+      "url": "https://www.blick.ch/schweiz/alles-ganz-anders-blick-kennt-den-strafbefehl-migros-kritikerin-soll-teures-entrecote-geklaut-haben-id22220005.html",
+      "summary": "Eine Rentnerin sieht sich von der Migros zu Unrecht als Ladendiebin verfolgt. Laut Strafbefehl liess sie allerdings ein dickes Stück Fleisch mitgehen. Preis: 69.95 Franken",
+      "published": "2026-08-29T23:32:38.003325+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jeder Fünfte würde auswandern, wenn die AfD an der Macht wäre",
+      "url": "https://www.20min.ch/story/umfrage-in-deutschland-jeder-fuenfte-wuerde-auswandern-wenn-die-afd-an-der-macht-waere-103624610",
+      "summary": "Was, wenn die AfD Deutschland regiert? 22 Prozent der Deutschen würden in diesem Fall laut einer neuen Umfrage das Land verlassen. Fast die Hälfte glaubt zudem, dass eine AfD-Bundesregierung Deutschla",
+      "published": "2026-08-29T23:32:38.003325+00:00"
     }
   ]
 }
