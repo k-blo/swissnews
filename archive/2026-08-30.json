@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T12:58:22.763985+00:00",
+  "generated": "2026-08-30T13:02:43.479374+00:00",
   "date": "2026-08-30",
-  "count": 319,
+  "count": 322,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -2235,6 +2235,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/muotathalerin-uebernimmt-tv-sendung-unterwegs-art-1719098",
       "summary": "",
       "published": "2026-08-30T12:58:22.763985+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Reportage So War der Festival Samstag bei Musig I De Altstadt",
+      "url": "https://www.aargauerzeitung.ch/kultur/aargau/reportage-so-war-der-festival-samstag-bei-musig-i-de-altstadt-ld.4221524",
+      "summary": "",
+      "published": "2026-08-30T13:02:43.479374+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Schweizer Ehepaar Wegen Betrugs vor Gericht",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/schweizer-ehepaar-wegen-betrugs-vor-gericht-ld.4224912",
+      "summary": "",
+      "published": "2026-08-30T13:02:43.479374+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Sonneggler sind wieder zu Hause",
+      "url": "https://www.freiburger-nachrichten.ch/story/286183/die-sonneggler-sind-wieder-zu-hause",
+      "summary": "",
+      "published": "2026-08-30T13:02:43.479374+00:00"
     }
   ]
 }
