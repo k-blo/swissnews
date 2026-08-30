@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T03:29:33.116740+00:00",
+  "generated": "2026-08-30T03:34:53.459809+00:00",
   "date": "2026-08-30",
-  "count": 58,
+  "count": 68,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -408,6 +408,76 @@
       "url": "https://www.watson.ch/schweiz/digital/936487159-so-viel-wasser-verbrauchen-schweizer-datenzentren",
       "summary": "",
       "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hintergründe noch unklar – Grosseinsatz in Aarau: Schüsse auf Menschenmenge",
+      "url": "https://www.srf.ch/news/schweiz/hintergruende-noch-unklar-grosseinsatz-in-aarau-schuesse-auf-menschenmenge-1",
+      "summary": "Laut Polizei wurden in Aarau Schüsse auf eine Menschenmenge abgegeben.",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wer folgt auf Dolly Parton? Diese Stimmen werden machen Hoffnung",
+      "url": "https://www.nzz.ch/feuilleton/wer-folgt-auf-dolly-parton-ld.10021106",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Rapper Stress: «Ich habe meinen Selbstwert daran gemessen, wie erfolgreich ich bin. Daraus kann nichts Gutes entstehen. Auch keine gute Musik»",
+      "url": "https://www.nzz.ch/feuilleton/rapper-stress-ich-habe-meinen-selbstwert-daran-gemessen-wie-erfolgreich-ich-bin-daraus-kann-nichts-gutes-entstehen-auch-keine-gute-musik-ld.10018314",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«A sad and beautiful world» zeigt eine libanesische Liebesgeschichte – und den Versuch, als Paar Kriege und Krisen zu überstehen",
+      "url": "https://www.nzz.ch/feuilleton/a-sad-and-beautiful-world-zeigt-eine-libanesische-liebesgeschichte-und-der-versuch-als-paar-kriege-und-krisen-zu-ueberstehen-ld.10020930",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Pogacar muss Vuelta-Traum nach heftigem Sturz aufgeben",
+      "url": "https://www.freiburger-nachrichten.ch/story/286142/pogacar-muss-vueltatraum-nach-heftigem-sturz-aufgeben",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Sonne scheint – ab in die Natur: Sieben Ideen für Ihren Familienausflug",
+      "url": "https://www.freiburger-nachrichten.ch/story/286111/die-sonne-scheint-ab-in-die-natur-sieben-ideen-f%C3%BCr-ihren-familienausflug",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Ich spüre alle Emotionen» – Baumann in Val di Sole mit erster WM-Medaille",
+      "url": "https://www.freiburger-nachrichten.ch/story/286153/ich-sp%C3%BCre-alle-emotionen%C2%A0-baumann-in-val-di-sole-mit-erster-wmmedaille",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Die Nazis haben sich besser getarnt»",
+      "url": "https://www.freiburger-nachrichten.ch/story/286095/die-nazis-haben-sich-besser-getarnt",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wieso das Ende des subventionierten Theaters nahe ist",
+      "url": "https://www.freiburger-nachrichten.ch/story/286094/wieso-das-ende-des-subventionierten-theaters-nahe-ist",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schluck aus dem Bergbach: Was Sie über Wasserfilter wissen müssen",
+      "url": "https://www.freiburger-nachrichten.ch/story/286103/schluck-aus-dem-bergbach-was-sie-%C3%BCber-wasserfilter-wissen-m%C3%BCssen",
+      "summary": "",
+      "published": "2026-08-30T03:34:53.459809+00:00"
     }
   ]
 }
