@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T03:02:32.169875+00:00",
+  "generated": "2026-08-30T03:29:33.116740+00:00",
   "date": "2026-08-30",
-  "count": 49,
+  "count": 58,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -345,6 +345,69 @@
       "url": "https://www.bote.ch/nachrichten/kultur/3-wird-20-von-bauern-bis-zum-bachelor-art-1719078",
       "summary": "",
       "published": "2026-08-30T03:02:32.169875+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hintergründe noch unklar – Grosseinsatz in Aarau: Schüsse auf Menschenmenge gefallen",
+      "url": "https://www.srf.ch/news/schweiz/hintergruende-noch-unklar-grosseinsatz-in-aarau-schuesse-auf-menschenmenge-gefallen",
+      "summary": "Laut Polizei wurden in Aarau Schüsse auf eine Menschenmenge abgegeben.",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Grosseinsatz von Sicherheitskräften läuft: Mehrere Schussabgaben und Verletzte beim Aarauer Rave auf Pferderennbahn",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/grosseinsatz-von-sicherheitskraeften-laeuft-mehrere-schussabgaben-und-verletzte-beim-aarauer-rave-auf-pferderennbahn-id22220509.html",
+      "summary": "Grosseinsatz von Sicherheitskräften auf der Pferderennbahn beim Aarauer Rave. Vor drei Uhr fielen Schüsse. Zahlreiche Polizeiautos, Ambulanzen und die Feuerwehr sind vor Ort. Die Polizei bestätigt meh",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mehrere Schüsse und Verletzte bei Aarauer Rave",
+      "url": "https://www.20min.ch/story/grosseinsatz-im-aargau-mehrere-schuesse-und-verletzte-bei-aarauer-rave-103624617",
+      "summary": "Grosseinsatz auf der Pferderennbahn in Aarau: In der Nacht auf Sonntag fielen Schüsse. Die Polizei bestätigt mehrere Verletzte. Das Gebiet ist grossräumig abgesperrt.",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "36-jährige Zürcherin im Luganersee vermisst",
+      "url": "https://www.20min.ch/story/badeunfall-36-jaehrige-zuercherin-im-luganersee-vermisst-103624616",
+      "summary": "Eine 36-jährige Schweizerin ist am Samstagabend beim Schwimmen im Luganersee verschwunden. Sie war zuvor auf einem Boot unterwgs. Die Suche blieb bislang erfolglos.",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Umfrage nach Hitzesommer: Klare Mehrheit für Klima­anlagen: Schweizer­innen und Schweizer wollen nicht länger schwitzen",
+      "url": "https://www.tagesanzeiger.ch/hitze-schweiz-mehrheit-fuer-private-klimaanlagen-640755787410",
+      "summary": "Eigentlich alle wollen Schulen und Altersheime künstlich herunter­kühlen, und zwei von drei Befragten sind für mehr private Klima­anlagen. Bei der Finanzierung zieht die Bevölkerung jedoch eine klare ",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Aarau: Grosseinsatz der Polizei",
+      "url": "https://www.zentralplus.ch/news/aarau-grosseinsatz-der-polizei-2895306/",
+      "summary": "In Aarau läuft ein Grosseinsatz der Polizei. Ein Reporter vor Ort berichtet, dass Schüsse in eine Menschenmenge abgefeuert wurden. Es gebe wohl mehrere Verletzte. Ein Armeehelikopter kreise über dem G",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stadpolizei Zürich: Polizist soll Asylsuchenden verprügelt haben",
+      "url": "https://www.watson.ch/schweiz/migration/307615236-stadpolizei-zuerich-polizist-soll-asylsuchenden-verpruegelt-haben",
+      "summary": "",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "17 Beweise, dass man fast überall eine Solaranlage bauen kann",
+      "url": "https://www.watson.ch/digital/energie/911464091-17-beweise-dass-man-fast-ueberall-eine-solaranlage-bauen-kann",
+      "summary": "",
+      "published": "2026-08-30T03:29:33.116740+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So viel Wasser verbrauchen Schweizer Datenzentren",
+      "url": "https://www.watson.ch/schweiz/digital/936487159-so-viel-wasser-verbrauchen-schweizer-datenzentren",
+      "summary": "",
+      "published": "2026-08-30T03:29:33.116740+00:00"
     }
   ]
 }
