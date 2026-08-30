@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T08:02:42.603884+00:00",
+  "generated": "2026-08-30T08:19:48.478605+00:00",
   "date": "2026-08-30",
-  "count": 155,
+  "count": 160,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -1087,6 +1087,41 @@
       "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-schuesse-an-rave-mit-toten-und-verletzten-ld.4224823",
       "summary": "",
       "published": "2026-08-30T08:02:42.603884+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hintergründe noch unklar – Schüsse in Aarau: 22-Jährige tot – 5 Verletzte",
+      "url": "https://www.srf.ch/news/schweiz/hintergruende-noch-unklar-schuesse-in-aarau-22-jaehrige-tot-5-verletzte",
+      "summary": "Laut Polizei wurden in Aarau Schüsse bei einer Veranstaltung abgegeben. Die Täterschaft ist weiter flüchtig.",
+      "published": "2026-08-30T08:19:48.478605+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Kapo gibt Update zu Schüssen: «Schüsse haben Todesopfer und fünf Verletzte gefordert»",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/kapo-gibt-update-zu-schuessen-schuesse-haben-todesopfer-und-fuenf-verletzte-gefordert-id22220744.html",
+      "summary": "Die Kantonspolizei Aargau informiert über die nächtlichen Schüsse im Schachen. Nach vorläufigen Erkenntnissen gibt es ein Todesopfer und fünf zum Teil schwer verletzte Personen.",
+      "published": "2026-08-30T08:19:48.478605+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Künftige Hitzesommer: ETH-Professor warnt: «Klima­anlagen lösen ein Problem, schaffen aber drei neue»",
+      "url": "https://www.tagesanzeiger.ch/hitzesommer-schweizer-wohnungen-bald-doppelt-so-lang-ueberhitzt-593896189827",
+      "summary": "Eine Studie zeigt: Bis 2050 könnten Schweizer Wohnungen fast doppelt so lange überhitzt sein. In Amerika und Japan gibts flächendeckend Klimaanlagen, doch die Schweiz zögert. Aus gutem Grund?",
+      "published": "2026-08-30T08:19:48.478605+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Russland  will Energieanlagen angreifen",
+      "url": "https://www.zentralplus.ch/news/russland-will-energieanlagen-angreifen-2895326/",
+      "summary": "Russland hat angekündigt, Energieanlagen in der Ukraine massiv angreifen zu wollen. Das russische Militär habe mit den entsprechenden Vorbereitungen begonnen, teilt das Verteidigungsministerium in Mos",
+      "published": "2026-08-30T08:19:48.478605+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Todesopfer und mehrere Verletzte nach Schüssen an Party – Polizei fahndet nach Täterschaft",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/ein-todesopfer-und-mehrere-verletzte-nach-schuessen-an-party-polizei-fahndet-nach-taeterschaft-art-1719084",
+      "summary": "",
+      "published": "2026-08-30T08:19:48.478605+00:00"
     }
   ]
 }
