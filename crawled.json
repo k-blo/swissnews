@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T01:31:10.939361+00:00",
+  "generated": "2026-08-30T01:46:08.042251+00:00",
   "date": "2026-08-30",
-  "count": 19,
+  "count": 21,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -135,6 +135,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/286151/sturm-trifft-zypern-ein-toter-boote-sinken-fl%C3%BCge-umgeleitet",
       "summary": "",
       "published": "2026-08-30T01:31:10.939361+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Sturzflut von Nepal: Drei Deutsche unter vermissten Ausländern in China +++ Zahl der Vermissten steigt auf 2500, mehr als 620 Tote geborgen",
+      "url": "https://www.nzz.ch/panorama/sturzflut-von-nepal-drei-deutsche-unter-vermissten-auslaendern-in-china-zahl-der-vermissten-steigt-auf-2500-mehr-als-620-tote-geborgen-ld.10021247",
+      "summary": "",
+      "published": "2026-08-30T01:46:08.042251+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Deutschland: Jeder Fünfte will bei AfD-Regierung weggehen",
+      "url": "https://www.watson.ch/international/medien/960941303-deutschland-jeder-fuenfte-will-bei-afd-regierung-weggehen",
+      "summary": "",
+      "published": "2026-08-30T01:46:08.042251+00:00"
     }
   ]
 }
