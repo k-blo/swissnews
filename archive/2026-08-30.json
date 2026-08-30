@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T05:33:10.010303+00:00",
+  "generated": "2026-08-30T06:02:31.300130+00:00",
   "date": "2026-08-30",
-  "count": 104,
+  "count": 112,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -730,6 +730,62 @@
       "url": "https://insideparadeplatz.ch/2026/08/30/trumps-oel-drecksspiel/",
       "summary": "",
       "published": "2026-08-30T05:33:10.010303+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Einstieg ins Berufsleben – Wie Praktika die Ungleichheit verstärken können",
+      "url": "https://www.srf.ch/news/dialog/einstieg-ins-berufsleben-wie-praktika-die-ungleichheit-verstaerken-koennen",
+      "summary": "Manche Praktika werden angemessen bezahlt, andere gar nicht. Kritiker sehen darin ein Problem für die Chancengleichheit.",
+      "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hintergründe noch unklar – Grosseinsatz in Aarau: Schüsse an Rave  – mehrere Opfer",
+      "url": "https://www.srf.ch/news/schweiz/hintergruende-noch-unklar-grosseinsatz-in-aarau-schuesse-an-rave-mehrere-opfer",
+      "summary": "Laut Polizei wurden in Aarau Schüsse auf eine Menschenmenge abgegeben. Es soll mehrere Verletzte geben.",
+      "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Kapo Aargau: «Wir reden aktuell von mehreren Opfern»",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/kapo-aargau-wir-reden-aktuell-von-mehreren-opfern-id22220582.html",
+      "summary": "In der Nacht auf Sonntag fielen beim Aarauer Rave mehrere Schüsse. Die Kantonspolizei Aargau spricht von einer Sonderlage und mehreren Opfern. Die Bevölkerung wird gebeten, das Gebiet zu meiden, währe",
+      "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Augenzeugen erzählen von Schüssen an Aarauer Rave: «Ich dachte, es sei Feuerwerk»",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/zeugen-erzaehlen-von-schuessen-an-aarauer-rave-ich-dachte-es-sei-feuerwerk-id22219391.html",
+      "summary": "In Aarau wurden in der Nacht auf Sonntag an einer Rave-Party mehrere Schüsse abgegeben. Die Situation ist nach wie vor unklar – Augenzeugen erzählen von dem Erlebten.",
+      "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Grosseinsatz in Aarau: Was die Polizei weiss – und was noch nicht",
+      "url": "https://www.20min.ch/video/aarau-grosseinsatz-in-aarau-was-die-polizei-weiss-und-was-noch-nicht-103624626",
+      "summary": "Pascal Wenzel, Mediensprecher der Kantonspolizei Aargau, schildert gegenüber der Agentur BRK News die Lage nach den Schüssen in Aarau. Er spricht von mehreren Opfern und einem Grossaufgebot der Polize",
+      "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Blums Zukunft bei YB: «Das grösste Zeichen ist, dass YB mit mir weitermachen will»",
+      "url": "https://www.bernerzeitung.ch/lewin-blum-bleibt-bei-yb-einigung-auf-vertragsverlaengerung-358619938896",
+      "summary": "Trotz Gerüchten über einen Abgang bleibt Lewin Blum bei YB und steht vor einer Vertragsverlängerung. Der Roggwiler strahlt Dankbarkeit aus – und liefert auf dem Platz ab.",
+      "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Grosseinsatz in Aarau: Schüsse auf Menschenmenge bei «Aarau Rave VOL. 7», Hintergründe noch unklar",
+      "url": "https://www.nzz.ch/panorama/grosseinsatz-in-aarau-schuesse-auf-menschenmenge-bei-aarau-rave-vol-7-hintergruende-noch-unklar-ld.10021629",
+      "summary": "",
+      "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Das sagt die Polizei Aargau zur Schiesserei am Rave",
+      "url": "https://www.watson.ch/schweiz/aargau/945170611-das-sagt-die-polizei-aargau-zur-schiesserei-am-rave",
+      "summary": "",
+      "published": "2026-08-30T06:02:31.300130+00:00"
     }
   ]
 }
