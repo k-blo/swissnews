@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T04:02:21.883893+00:00",
+  "generated": "2026-08-30T04:32:42.919574+00:00",
   "date": "2026-08-30",
-  "count": 86,
+  "count": 88,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -604,6 +604,20 @@
       "url": "https://www.watson.ch/schweiz/justiz/741240352-mehrere-opfer-nach-schuessen-bei-veranstaltung-in-aarau",
       "summary": "",
       "published": "2026-08-30T04:02:21.883893+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Alle runter!»: Zeugen berichten von den Schüssen am Rave",
+      "url": "https://www.20min.ch/story/pferderennbahn-aarau-alle-runter-zeugen-berichten-von-den-schuessen-am-rave-103624618",
+      "summary": "In der Nacht auf Sonntag fielen bei einem Rave auf der Pferderennbahn in Aarau Schüsse, es gibt mehrere Verletzte.",
+      "published": "2026-08-30T04:32:42.919574+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Albert Rösti streicht «Klimawandel» aus Texten: die Sonntagsnews",
+      "url": "https://www.watson.ch/schweiz/medien/692574171-albert-roesti-streicht-klimawandel-aus-texten-die-sonntagsnews",
+      "summary": "",
+      "published": "2026-08-30T04:32:42.919574+00:00"
     }
   ]
 }
