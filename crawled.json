@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T23:02:23.701335+00:00",
+  "generated": "2026-08-30T23:33:00.439077+00:00",
   "date": "2026-08-31",
-  "count": 13,
+  "count": 14,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -93,6 +93,13 @@
       "url": "https://www.watson.ch/international/iran/391309095-krieg-usa-iran-trumps-generaele-raten-ab-pentagon-dementiert",
       "summary": "",
       "published": "2026-08-30T23:02:23.701335+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "US-Militär greift Iran wieder an",
+      "url": "https://www.zentralplus.ch/news/us-militaer-greift-iran-wieder-an-2895397/",
+      "summary": "Zum ersten Mal seit rund einem Monat hat das US-Militär wieder den Iran angegriffen. Mehrere US-Medien berichten übereinstimmend, dass iranische Raketenwerfer auf einer Insel in der Strasse von Hormus",
+      "published": "2026-08-30T23:33:00.439077+00:00"
     }
   ]
 }
