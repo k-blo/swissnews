@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T22:32:32.064999+00:00",
+  "generated": "2026-08-30T23:02:23.701335+00:00",
   "date": "2026-08-31",
-  "count": 12,
+  "count": 13,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -86,6 +86,13 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/am-seebner-kindertriathlon-herrschten-traumbedingungen-zur-freude-der-organisierenden-olympiasiegerin-art-1719124",
       "summary": "",
       "published": "2026-08-30T22:32:32.064999+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg USA Iran: Trumps Generäle raten ab, Pentagon dementiert",
+      "url": "https://www.watson.ch/international/iran/391309095-krieg-usa-iran-trumps-generaele-raten-ab-pentagon-dementiert",
+      "summary": "",
+      "published": "2026-08-30T23:02:23.701335+00:00"
     }
   ]
 }
