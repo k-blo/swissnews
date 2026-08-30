@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T09:32:26.892747+00:00",
+  "generated": "2026-08-30T09:44:12.309087+00:00",
   "date": "2026-08-30",
-  "count": 197,
+  "count": 203,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -1381,6 +1381,48 @@
       "url": "https://www.bote.ch/nachrichten/sport/fcl-fans-protestieren-gegen-alpstaeg-art-1719087",
       "summary": "",
       "published": "2026-08-30T09:32:26.892747+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Ein Toter und ein Schwerverletzter: Zwei schwere Verkehrsunfälle auf Urner Passstrassen",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/uri/ein-toter-und-ein-schwerverletzter-zwei-schwere-verkehrsunfaelle-auf-urner-passstrassen-id22220943.html",
+      "summary": "Zwei schwere Verkehrsunfälle auf den Gotthard- und Furkapassstrasse fordern ein Todesopfer und einen lebensgefährlich Verletzten. Polizei und Rettungskräfte waren im Dauereinsatz.",
+      "published": "2026-08-30T09:44:12.309087+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Vietnamesische Küche in Luzern Wird Immer Beliebter",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/vietnamesische-kueche-in-luzern-wird-immer-beliebter-ld.4219841",
+      "summary": "",
+      "published": "2026-08-30T09:44:12.309087+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Jurassic Park im Sauriermuseum Bellach Drei Vorführungen",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/jurassic-park-im-sauriermuseum-bellach-drei-vorfuehrungen-ld.4224853",
+      "summary": "",
+      "published": "2026-08-30T09:44:12.309087+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Steinhausen Drei Kandidaten Kämpfen Ums Gemeindepräsidium",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/steinhausen-drei-kandidaten-kaempfen-ums-gemeindepraesidium-ld.4218390",
+      "summary": "",
+      "published": "2026-08-30T09:44:12.309087+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kampf ums Gemeindepräsidium: «Steinhausen braucht neue Ideen» – «Visionen haben Grenzen»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/steinhausen-drei-kandidaten-kaempfen-ums-gemeindepraesidium-art-1719091",
+      "summary": "",
+      "published": "2026-08-30T09:44:12.309087+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzern entdeckt die vietnamesische Küche",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/vietnamesische-kueche-in-luzern-wird-immer-beliebter-art-1719090",
+      "summary": "",
+      "published": "2026-08-30T09:44:12.309087+00:00"
     }
   ]
 }
