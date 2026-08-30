@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T20:02:19.963510+00:00",
+  "generated": "2026-08-30T20:32:26.144446+00:00",
   "date": "2026-08-30",
-  "count": 527,
+  "count": 528,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -3691,6 +3691,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-senior-misshandelte-seine-gattin-ueber-jahre-art-1719099",
       "summary": "",
       "published": "2026-08-30T20:02:19.963510+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bundesliga: Suzuki schiesst Freiburg mit Dreierpack zum 4:1 gegen Bremen",
+      "url": "https://www.tagesanzeiger.ch/bundesliga-freiburg-schlaegt-bremen-4-1-schalke-verliert-0-3-689690771927",
+      "summary": "Der Japaner Yuito Suzuki trifft dreimal und beschert seinem Team einen Bilderbuch-Auftakt. Augsburg feiert derweil ein 3:0 gegen Aufsteiger Schalke.",
+      "published": "2026-08-30T20:32:26.144446+00:00"
     }
   ]
 }
