@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T05:02:49.859458+00:00",
+  "generated": "2026-08-30T05:26:10.695127+00:00",
   "date": "2026-08-30",
-  "count": 97,
+  "count": 102,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -681,6 +681,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/roger-federer-in-hall-of-fame-aufgenommen-art-1719079",
       "summary": "",
       "published": "2026-08-30T05:02:49.859458+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Plötzlich fallen Schüsse: Leserin hält Knallgeräusche auf Video fest",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/ploetzlich-fallen-schuesse-leserin-haelt-knallgeraeusche-auf-video-fest-id22220551.html",
+      "summary": "Vor 3 Uhr fallen auf der Pferderennbahn in Aarau plötzlich Schüsse. Auf einem Video einer Leserin sind die Knallgeräusche deutlich zu hören.",
+      "published": "2026-08-30T05:26:10.695127+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Aussergewöhnlich wohnen in Basel: Er lebt im preisgekrönten Glashaus: «Am Anfang kam ich mir beäugt vor»",
+      "url": "https://www.tagesanzeiger.ch/loft-basel-leben-in-einem-glashaus-an-der-colmarerstrasse-749871534230",
+      "summary": "Ex-Banker Martin Koch wohnt in einem verglasten Loft für alle sichtbar. Ein Besuch in einem Gebäude, das Architekturgeschichte schrieb.",
+      "published": "2026-08-30T05:26:10.695127+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Was ausländische Gäste denken: «Ein Weg halt» – Google-Bewertungen enthüllen, was Touristen in der Schweiz wirklich nervt",
+      "url": "https://www.bernerzeitung.ch/tourismus-schweiz-was-touristen-an-sehenswuerdigkeiten-stoert-990170053547",
+      "summary": "Zu teuer, zu wenig pompös oder eine «Übertreibung ohne Ende». Das sind die amüsantesten Beschwerden über Schweizer Sehenswürdigkeiten.",
+      "published": "2026-08-30T05:26:10.695127+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Lebensfragen mit Stress: «Dass die Ehe mit Melanie gescheitert ist, war ein Knick im Erfolgsnarrativ»",
+      "url": "https://www.bernerzeitung.ch/rapper-stress-ueber-depression-joints-und-melanie-winiger-343400120082",
+      "summary": "Der Schweizer Rapper hat einen Ratgeber geschrieben, in dem er auf seine Erfahrungen mit Drogen, Depression und Dopamin zurückgreift. «Ich will nicht nur ein Entertainer sein», sagt er.",
+      "published": "2026-08-30T05:26:10.695127+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Mode von Basler Designer: Er steckt 30 Stunden Arbeit in ein Kleidungs­stück – und plötzlich trägt es ein Weltstar",
+      "url": "https://www.bazonline.ch/basler-designer-tondolo-kleidet-james-blake-in-nolans-video-440967616856",
+      "summary": "Eine Instagram-Nachricht veränderte alles: Stylisten wählten die Designs von Alessandro Tondolo für das Musikvideo zum Christopher-Nolan-Film «Die Odyssee».",
+      "published": "2026-08-30T05:26:10.695127+00:00"
     }
   ]
 }
