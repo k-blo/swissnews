@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T11:02:49.268860+00:00",
+  "generated": "2026-08-30T11:32:23.611348+00:00",
   "date": "2026-08-30",
-  "count": 253,
+  "count": 272,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -1773,6 +1773,139 @@
       "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/toggenburger-orchester-begeistert-in-wattwil-mit-jodelphonie-ld.4224875",
       "summary": "",
       "published": "2026-08-30T11:02:49.268860+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Museum in Freiburg zügelt – Mit dem Wal kopfvoran durch die Wand",
+      "url": "https://www.srf.ch/news/schweiz/museum-in-freiburg-zuegelt-mit-dem-wal-kopfvoran-durch-die-wand",
+      "summary": "Das Naturhistorische Museum Freiburg zieht um. Wie ein 1.6 Tonnen schwerer Wal von A nach B kommt.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Motiv unklar – Schüsse in Aarau: Suche nach Täterschaft läuft auf Hochtouren",
+      "url": "https://www.srf.ch/news/schweiz/motiv-unklar-schuesse-in-aarau-suche-nach-taeterschaft-laeuft-auf-hochtouren",
+      "summary": "Bei einer Rave-Party starb nach Schüssen eine junge Frau. Fünf weitere Personen wurden zum Teil schwer verletzt.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Rettungshelikopter im Einsatz: Zwei tödliche Verkehrsunfälle auf der Flüelapassstrasse",
+      "url": "https://www.blick.ch/schweiz/graubuenden/rettungshelikopter-im-einsatz-zwei-toedliche-verkehrsunfaelle-auf-der-flueelapassstrasse-id22221115.html",
+      "summary": "Auf der Flüelapassstrasse haben sich am Samstag innerhalb von vier Stunden zwei schwere Verkehrsunfälle ereignet. Dabei kamen zwei Personen ums Leben, zwei weitere wurden schwer verletzt.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Brenda war am Rave: «Plötzlich stand die Polizei mit Waffe vor mir»",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/brenda-war-am-rave-ploetzlich-stand-polizei-mit-waffe-vor-mir-id22221097.html",
+      "summary": "Die Schüsse im Aarauer Schachen treffen eine Besucherin völlig unvorbereitet. Zunächst hält sie die Knallgeräusche für Feuerwerk, doch später wird ihr das ganze Ausmass des Vorfalls bewusst.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fähre mit 270 Menschen an Bord gekentert",
+      "url": "https://www.20min.ch/story/unglueck-vor-zypern-faehre-mit-270-menschen-an-bord-gekentert-103624725",
+      "summary": "Vor der Küste Nordzyperns ist eine Passagierfähre gekentert. Zahlreiche Menschen warten auf dem umgedrehten Rumpf auf ihre Rettung.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Dolly Parton wurde beigesetzt – im Kleid und High Heels",
+      "url": "https://www.20min.ch/story/nashville-usa-dolly-parton-wurde-beigesetzt-im-kleid-und-high-heels-103624670",
+      "summary": "Im kleinen Kreis haben Angehörige und Vertraute Dolly Parton beigesetzt. Die Country-Ikone ruht nun neben ihrem Ehemann Carl Dean.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schlieren: Polizei umstellt Gebäude und verhaftet vier Jugendliche",
+      "url": "https://www.tagesanzeiger.ch/einbruch-in-schlieren-vier-jugendliche-verhaftet-700313185253",
+      "summary": "Die Jugendlichen verschafften sich am Samstagabend Zutritt zu einer Liegenschaft und liessen sich widerstandslos festnehmen. Die Polizei prüft, ob sie für weitere Einbrüche verantwortlich sind.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Projekt MobiGrün Winterthur: Pflanzentröge sollen den Hauptbahnhof grüner machen",
+      "url": "https://www.tagesanzeiger.ch/winterthur-hauptbahnhof-wird-fuer-22000-franken-begruent-408169595918",
+      "summary": "Die Stadt platziert beim Bahnhof neue Bänke mit Sträuchern und Stauden. Ein Mittel gegen die Hitze – zumindest vorerst.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Island/EU: Absage des Wunschkandidaten",
+      "url": "https://www.zentralplus.ch/news/island-eu-absage-des-wunschkandidaten-2895342/",
+      "summary": "Das Nein aus Island wurde auch in Brüssel eng verfolgt. Dort hätte man gerne auf einen Beitritt hingearbeitet, sagt EU-Korrespondent Matthias Strasser. «Das isländische Nein ist für die EU die Absage ",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Beggingen wählt Erich Schudel: SVP-Mann wird neuer Gemeindepräsident",
+      "url": "https://www.shn.ch/region/klettgau/2026-08-30/beggingen-waehlt-erich-schudel-svp-mann-wird-neuer-gemeindepraesident",
+      "summary": "Das ist ein glasklares Ergebnis: Völlig problemlos gelingt Erich Schudel die Wahl zum Begginger Gemeindepräsidenten.",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rheinfelden Eigene Schokolade Gestalten",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/rheinfelden-eigene-schokolade-gestalten-ld.4224161",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurner Spitäler Sp Zieht Puk Forderung Zurück",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/solothurner-spitaeler-sp-zieht-puk-forderung-zurueck-ld.4224462",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurn Drachenbootrennen Zieht 24 Teams an",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/solothurn-drachenbootrennen-zieht-24-teams-an-ld.4222093",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Röstifestival in Winznau Feiert 25 Ausgabe",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/roestifestival-in-winznau-feiert-25-ausgabe-ld.4224104",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Lionel Messi bei 7:1-Sieg von Inter Miami mit 4 Toren",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-lionel-messi-bei-7-1-sieg-von-inter-miami-mit-4-toren",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eismeister Zaugg über Rodrigo Abols, Sonny Milano und Aubins SCB-Taktik",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/338357569-eismeister-zaugg-ueber-rodrigo-abols-sonny-milano-und-aubins-scb-taktik",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Freiburger Musikforscher wird ausgezeichnet",
+      "url": "https://www.freiburger-nachrichten.ch/story/285924/freiburger-musikforscher-wird-ausgezeichnet",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein hart erkämpfter Auswärtssieg des FC Kerzers",
+      "url": "https://www.freiburger-nachrichten.ch/story/286184/ein-hart-erk%C3%A4mpfter-ausw%C3%A4rtssieg-des-fc-kerzers",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auch mit dem Dauerlächler Siegmund bleibt die AfD die Partei der Bitterkeit",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/sachsen-anhalt-die-afd-bleibt-auch-mit-siegmund-eine-schlechte-laune-partei-art-1719095",
+      "summary": "",
+      "published": "2026-08-30T11:32:23.611348+00:00"
     }
   ]
 }
