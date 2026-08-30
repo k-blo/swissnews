@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T02:02:18.806676+00:00",
+  "generated": "2026-08-30T02:32:19.918073+00:00",
   "date": "2026-08-30",
-  "count": 21,
+  "count": 27,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -149,6 +149,48 @@
       "url": "https://www.watson.ch/international/medien/960941303-deutschland-jeder-fuenfte-will-bei-afd-regierung-weggehen",
       "summary": "",
       "published": "2026-08-30T01:46:08.042251+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sturzflut in Nepal: 16 Tote in China",
+      "url": "https://www.zentralplus.ch/news/sturzflut-in-nepal-16-tote-in-china-2895304/",
+      "summary": "Nach der Sturzflut in Nepal und dem chinesisch kontrollierten Tibet haben die chinesischen Behörden 16 Todesopfer auf ihrer Seite gemeldet. Über 500 Menschen würden noch vermisst. Auf nepalesischer Se",
+      "published": "2026-08-30T02:32:19.918073+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Hallau kann einiges – Die Badimoms und ihr kleiner Regelverstoss",
+      "url": "https://www.shn.ch/region/klettgau/2026-08-30/hallau-kann-einiges-die-badimoms-und-ihr-kleiner-regelverstoss",
+      "summary": "Die Badi Hallau liegt versteckt zwischen den Rebbergen und hat die Badimoms zum Saisonabschluss noch einmal überrascht. Mit Sprungbrett, Rutschbahn und einem übersehenen Warnschild kam keine Langeweil",
+      "published": "2026-08-30T02:32:19.918073+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ein M Weniger Auswahl bei Migros Online",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/ein-m-weniger-auswahl-bei-migros-online-2140420",
+      "summary": "",
+      "published": "2026-08-30T02:32:19.918073+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Eine Schwester Zeichnet die Andere Schreibt Besuch bei Einem Kunstduo im Münstertal",
+      "url": "https://www.suedostschweiz.ch/kultur/eine-schwester-zeichnet-die-andere-schreibt-besuch-bei-einem-kunstduo-im-muenstertal-2136705",
+      "summary": "",
+      "published": "2026-08-30T02:32:19.918073+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Bündner Hochjagd Nur Echte Jäger Kennen Alle Antworten",
+      "url": "https://www.suedostschweiz.ch/graubuenden/buendner-hochjagd-nur-echte-jaeger-kennen-alle-antworten-1394885",
+      "summary": "",
+      "published": "2026-08-30T02:32:19.918073+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Lage in Niger weiter angespannt - Junta spricht von Meuterei",
+      "url": "https://www.freiburger-nachrichten.ch/story/286149/lage-in-niger-weiter-angespannt-junta-spricht-von-meuterei",
+      "summary": "",
+      "published": "2026-08-30T02:32:19.918073+00:00"
     }
   ]
 }
