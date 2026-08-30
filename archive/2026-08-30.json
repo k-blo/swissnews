@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T06:29:43.542109+00:00",
+  "generated": "2026-08-30T06:33:03.131913+00:00",
   "date": "2026-08-30",
-  "count": 117,
+  "count": 121,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -821,6 +821,34 @@
       "url": "https://insideparadeplatz.ch/2026/08/30/palaestina-krawall-macher-verwuesten-zuerichs-wiege/",
       "summary": "",
       "published": "2026-08-30T06:29:43.542109+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hintergründe noch unklar – Schüsse in Aarau: 1 Todesopfer – 5 Verletzte",
+      "url": "https://www.srf.ch/news/schweiz/hintergruende-noch-unklar-schuesse-in-aarau-1-todesopfer-5-verletzte",
+      "summary": "Laut Polizei wurden in Aarau Schüsse bei einer Veranstaltung abgegeben. Täterschaft weiter flüchtig.",
+      "published": "2026-08-30T06:33:03.131913+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schiesserei an Aarauer Rave: der Liveticker",
+      "url": "https://www.watson.ch/schweiz/liveticker/950516465-schiesserei-an-aarauer-rave-der-liveticker",
+      "summary": "",
+      "published": "2026-08-30T06:33:03.131913+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Odermatt verpasst Trainingslager in Chile verletzungsbedingt",
+      "url": "https://www.freiburger-nachrichten.ch/story/286147/odermatt-verpasst-trainingslager-in-chile-verletzungsbedingt",
+      "summary": "",
+      "published": "2026-08-30T06:33:03.131913+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schüsse in Aarau: Das sagt der Mediensprecher der Kantonspolizei",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/schuesse-in-aarau-das-sagt-der-mediensprecher-der-kantonspolizei-art-1719081",
+      "summary": "",
+      "published": "2026-08-30T06:33:03.131913+00:00"
     }
   ]
 }
