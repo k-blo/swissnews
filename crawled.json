@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T06:02:31.300130+00:00",
+  "generated": "2026-08-30T06:29:43.542109+00:00",
   "date": "2026-08-30",
-  "count": 112,
+  "count": 117,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -786,6 +786,41 @@
       "url": "https://www.watson.ch/schweiz/aargau/945170611-das-sagt-die-polizei-aargau-zur-schiesserei-am-rave",
       "summary": "",
       "published": "2026-08-30T06:02:31.300130+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hintergründe noch unklar – Grosseinsatz in Aarau: Schüsse an Rave  – 1 Todesopfer",
+      "url": "https://www.srf.ch/news/schweiz/hintergruende-noch-unklar-grosseinsatz-in-aarau-schuesse-an-rave-1-todesopfer",
+      "summary": "Laut Polizei wurden in Aarau Schüsse bei einer Veranstaltung abgegeben. Es soll laut Polizei mehrere Verletzte geben.",
+      "published": "2026-08-30T06:29:43.542109+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Grosseinsatz bei Pferderennbahn: Schüsse bei Aarauer Rave – 1 Todesopfer, 5 Verletzte",
+      "url": "https://www.bernerzeitung.ch/schuesse-in-aarau-grosseinsatz-auf-pferderennbahn-289263714138",
+      "summary": "Grosseinsatz auf der Pferderennbahn in Aarau: In der Nacht auf Sonntag sind Schüsse gefallen. Die Polizei bestätigt «mehrere Opfer». Das Gebiet ist grossräumig abgesperrt.",
+      "published": "2026-08-30T06:29:43.542109+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Ermotti Erringt Maximalen Triumpf Gegen Keller Sutter",
+      "url": "https://insideparadeplatz.ch/2026/08/30/ermotti-erringt-maximalen-triumpf-gegen-keller-sutter/",
+      "summary": "",
+      "published": "2026-08-30T06:29:43.542109+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Spiess Hegglin Anwältin Stoppt Weltwoche Autor",
+      "url": "https://insideparadeplatz.ch/2026/08/30/spiess-hegglin-anwaeltin-stoppt-weltwoche-autor/",
+      "summary": "",
+      "published": "2026-08-30T06:29:43.542109+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Palästina Krawall Macher Verwüsten Zürichs Wiege",
+      "url": "https://insideparadeplatz.ch/2026/08/30/palaestina-krawall-macher-verwuesten-zuerichs-wiege/",
+      "summary": "",
+      "published": "2026-08-30T06:29:43.542109+00:00"
     }
   ]
 }
