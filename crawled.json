@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T01:02:30.719510+00:00",
+  "generated": "2026-08-30T01:31:10.939361+00:00",
   "date": "2026-08-30",
-  "count": 16,
+  "count": 19,
   "articles": [
     {
       "source": "Zuger Zeitung",
@@ -114,6 +114,27 @@
       "url": "https://www.watson.ch/schweiz/fdp/745028559-lindenhof-besetzung-zuerich-jungfreisinnige-fordern-aufloesung",
       "summary": "",
       "published": "2026-08-30T01:02:30.719510+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lago di Lugano: 36-jährige Schwimmerin vermisst",
+      "url": "https://www.watson.ch/schweiz/tessin/862599747-lago-di-lugano-36-jaehrige-schwimmerin-vermisst",
+      "summary": "",
+      "published": "2026-08-30T01:31:10.939361+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Roger Federer in den USA offiziell in die Hall of Fame aufgenommen.",
+      "url": "https://www.watson.ch/sport/international/943539995-roger-federer-in-den-usa-offiziell-in-die-hall-of-fame-aufgenommen",
+      "summary": "",
+      "published": "2026-08-30T01:31:10.939361+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sturm trifft Zypern – ein Toter, Boote sinken, Flüge umgeleitet",
+      "url": "https://www.freiburger-nachrichten.ch/story/286151/sturm-trifft-zypern-ein-toter-boote-sinken-fl%C3%BCge-umgeleitet",
+      "summary": "",
+      "published": "2026-08-30T01:31:10.939361+00:00"
     }
   ]
 }
