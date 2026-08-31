@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T23:02:29.525022+00:00",
+  "generated": "2026-08-31T23:32:37.237787+00:00",
   "date": "2026-09-01",
-  "count": 36,
+  "count": 38,
   "articles": [
     {
       "source": "Persönlich",
@@ -254,6 +254,20 @@
       "url": "https://www.nzz.ch/sport/stan-wawrinka-am-us-open-in-der-startrunde-ausgeschieden-ld.10021847",
       "summary": "",
       "published": "2026-08-31T23:02:29.525022+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Weltweite Störung bei Microsoft",
+      "url": "https://www.zentralplus.ch/news/weltweite-stoerung-bei-microsoft-2895678/",
+      "summary": "Wer am Montagabend seine E-Mails checken wollte, hatte möglicherweise Probleme damit. Eine weltweite Störung bei Microsoft kann derzeit für Einschränkungen beim E-Mail-Verkehr sorgen. Betroffen seien ",
+      "published": "2026-08-31T23:32:37.237787+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stan Wawrinka scheitert am US Open in der ersten Runde",
+      "url": "https://www.watson.ch/sport/tennis/259895886-stan-wawrinka-scheitert-am-us-open-in-der-ersten-runde",
+      "summary": "",
+      "published": "2026-08-31T23:32:37.237787+00:00"
     }
   ]
 }
