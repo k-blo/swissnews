@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T09:32:25.500424+00:00",
+  "generated": "2026-08-31T09:40:02.871784+00:00",
   "date": "2026-08-31",
-  "count": 402,
+  "count": 411,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2816,6 +2816,69 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/vor-zypern-sinkt-passagierfaehre-suche-nach-vermissten-art-1719221",
       "summary": "",
       "published": "2026-08-31T09:32:25.500424+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "St. Gallen startet Pilotversuch mit E-Collecting",
+      "url": "https://www.inside-it.ch/st-gallen-startet-pilotversuch-mit-e-collecting-20260831",
+      "summary": "Dies ist der erste Pilottest mit E-Collecting in der Schweiz.",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Unkenrufen zum Trotz Fideriser Heuberge Starten im Dezember in eine Weitere Saison",
+      "url": "https://www.suedostschweiz.ch/graubuenden/unkenrufen-zum-trotz-fideriser-heuberge-starten-im-dezember-in-eine-weitere-saison-2132609",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Unter Uns aus nach über 30 Jahren Darum Zieht Rtl Jetzt den Stecker",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/unter-uns-aus-nach-ueber-30-jahren-darum-zieht-rtl-jetzt-den-stecker-2142509",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Affeltrangen Sucht Neue Firma für den Winterdienst",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/affeltrangen-sucht-neue-firma-fuer-den-winterdienst-ld.4225206",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Parteien melden für 2025 Einnahmen von 24,6 Millionen Franken",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/401059859-parteien-melden-fuer-2025-einnahmen-von-24-6-millionen-franken",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Visa und Mastercard planen neuen Dienst in der Schweiz",
+      "url": "https://www.watson.ch/schweiz/international/963345243-visa-und-mastercard-planen-neuen-dienst-in-der-schweiz",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hagelschaden? So gehen Sie richtig vor!",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/hagel-im-schweizer-mittelland-versicherungen-erwarten-tausende-faelle-art-1719247",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ukrainer: Kanton Schwyz will Gemeinden vor Mehrkosten schützen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ukrainer-kanton-schwyz-will-gemeinden-vor-mehrkosten-schuetzen-art-1719236",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Polizei fasst jungen «Fälleler»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-polizei-fasst-jungen-faelleler-art-1719246",
+      "summary": "",
+      "published": "2026-08-31T09:40:02.871784+00:00"
     }
   ]
 }
