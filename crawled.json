@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T23:35:25.631288+00:00",
+  "generated": "2026-08-31T00:02:41.643813+00:00",
   "date": "2026-08-31",
-  "count": 15,
+  "count": 18,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -107,6 +107,27 @@
       "url": "https://www.20min.ch/story/nationalpark-in-arizona-mehr-als-20-vermisste-nach-sturzflut-im-grand-canyon-103625081",
       "summary": "Am Samstag kommt es Behördenangaben zufolge im Grand Canyon zu einer Sturzflut. Nun bittet der National Park Service um Mithilfe.",
       "published": "2026-08-30T23:35:25.631288+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nationalpark in Arizona: Mehr als 20 Vermisste nach Sturzflut im Grand Canyon",
+      "url": "https://www.tagesanzeiger.ch/sturzflut-im-grand-canyon-mehr-als-20-menschen-vermisst-713060487562",
+      "summary": "Am Samstag ist es Behördenangaben zufolge im Grand Canyon zu einer Sturzflut gekommen. Nun bittet der National Park Service um Mithilfe.",
+      "published": "2026-08-31T00:02:41.643813+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Vermisste bei Sturzflut im Grand Canyon",
+      "url": "https://www.zentralplus.ch/news/vermisste-bei-sturzflut-im-grand-canyon-2895399/",
+      "summary": "Im Grand Canyon Nationalpark im US-Bundesstaat Arizona hat es eine Sturzflut gegeben. Die Behörden haben Dutzende Menschen aus dem Gebiet evakuiert, mindestens 15 werden allerdings noch vermisst. Das ",
+      "published": "2026-08-31T00:02:41.643813+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Iran USA eskaliert erneut",
+      "url": "https://www.watson.ch/international/liveticker/844313074-krieg-iran-usa-eskaliert-erneut",
+      "summary": "",
+      "published": "2026-08-31T00:02:41.643813+00:00"
     }
   ]
 }
