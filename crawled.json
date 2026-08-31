@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T04:03:01.278452+00:00",
+  "generated": "2026-08-31T04:32:30.281174+00:00",
   "date": "2026-08-31",
-  "count": 174,
+  "count": 181,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1220,6 +1220,55 @@
       "url": "https://www.watson.ch/sport/international/600542679-gianni-infantino-keine-fussballfelder-in-gaza",
       "summary": "",
       "published": "2026-08-31T04:03:01.278452+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Lernende klagen über Betriebe – Diskriminierung und Druck: Duale Ausbildung in der Kritik",
+      "url": "https://www.srf.ch/news/dialog/lernende-klagen-ueber-betriebe-diskriminierung-und-druck-duale-ausbildung-in-der-kritik",
+      "summary": "Lernende klagen über die Zustände in ihren Betrieben. Braucht es mehr Schutz für Junge in Berufsausbildung?",
+      "published": "2026-08-31T04:32:30.281174+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Bundesstrafgericht Bellinzona – Mutmasslicher Mafioso soll mit Waffen und Drogen gehandelt haben",
+      "url": "https://www.srf.ch/news/schweiz/bundesstrafgericht-bellinzona-mutmasslicher-mafioso-soll-mit-waffen-und-drogen-gehandelt-haben",
+      "summary": "Ein 59-jähriger Gartenbauer aus dem Aargau soll für die Mafia gearbeitet haben. Ihm drohen mehrere Jahre Gefängnis.",
+      "published": "2026-08-31T04:32:30.281174+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Tödliche Schüsse in Aarau – Italien verfolgt Schweizer Ermittlungen genau",
+      "url": "https://www.srf.ch/news/schweiz/toedliche-schuesse-in-aarau-italien-verfolgt-schweizer-ermittlungen-genau",
+      "summary": "Beim tödlichen Vorfall in Aarau wurde eine Italienerin getötet. Premier Meloni reagierte prompt.",
+      "published": "2026-08-31T04:32:30.281174+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Über ein Dutzend Vermisste nach Sturzflut im Grand Canyon",
+      "url": "https://www.nzz.ch/panorama/ueber-ein-dutzend-vermisste-nach-sturzflut-im-grand-canyon-ld.10021681",
+      "summary": "",
+      "published": "2026-08-31T04:32:30.281174+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Newsblog Tödliche Schüsse Beim Rave in Aarau im Schachen",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/newsblog-toedliche-schuesse-beim-rave-in-aarau-im-schachen-ld.4224808",
+      "summary": "",
+      "published": "2026-08-31T04:32:30.281174+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Starbucks, Migros und Coop verbieten E-Scooter",
+      "url": "https://www.watson.ch/schweiz/food/150669049-starbucks-migros-und-coop-verbieten-e-scooter",
+      "summary": "",
+      "published": "2026-08-31T04:32:30.281174+00:00"
+    },
+    {
+      "source": "Rathuus",
+      "title": "Zürich Will Kühler Werden aber Gebaut Wird wie Eh und Je",
+      "url": "https://rathuus.ch/zuerich-will-kuehler-werden-aber-gebaut-wird-wie-eh-und-je/",
+      "summary": "",
+      "published": "2026-08-31T04:32:30.281174+00:00"
     }
   ]
 }
