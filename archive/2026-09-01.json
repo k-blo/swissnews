@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T22:32:25.722880+00:00",
+  "generated": "2026-08-31T23:02:29.525022+00:00",
   "date": "2026-09-01",
-  "count": 35,
+  "count": 36,
   "articles": [
     {
       "source": "Persönlich",
@@ -247,6 +247,13 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/acht-zweierteams-gewinnen-an-der-schwyzer-stafette-art-1719294",
       "summary": "",
       "published": "2026-08-31T22:32:25.722880+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Stan Wawrinka am US Open in der Startrunde ausgeschieden",
+      "url": "https://www.nzz.ch/sport/stan-wawrinka-am-us-open-in-der-startrunde-ausgeschieden-ld.10021847",
+      "summary": "",
+      "published": "2026-08-31T23:02:29.525022+00:00"
     }
   ]
 }
