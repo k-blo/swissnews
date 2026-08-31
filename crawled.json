@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T07:27:42.457064+00:00",
+  "generated": "2026-08-31T07:33:46.339797+00:00",
   "date": "2026-08-31",
-  "count": 262,
+  "count": 265,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1836,6 +1836,27 @@
       "url": "https://www.watson.ch/international/usa/144857320-ex-diktator-maduro-meldet-sich-aus-us-haft-er-sieht-veraendert-aus",
       "summary": "",
       "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Blick-Redaktor wechselt zur Dorfzeitung",
+      "url": "https://www.persoenlich.com/medien/blick-redaktor-wechselt-zur-dorfzeitung",
+      "summary": "Tobias Bruggmann übernimmt am 1. November die Redaktionsleitung in Teufen AR. Der 31-jährige Journalist arbeitet heute als Blick-Bundeshausredaktor.",
+      "published": "2026-08-31T07:33:46.339797+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Schwestern aus Schwaderloch Sind Schweizermeisterinnen",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/schwestern-aus-schwaderloch-sind-schweizermeisterinnen-ld.4223666",
+      "summary": "",
+      "published": "2026-08-31T07:33:46.339797+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Golf-Star Scottie Scheffler scheffelt wie kein anderer",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-golf-star-scottie-scheffler-scheffelt-wie-kein-anderer",
+      "summary": "",
+      "published": "2026-08-31T07:33:46.339797+00:00"
     }
   ]
 }
