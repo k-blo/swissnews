@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T07:02:39.351350+00:00",
+  "generated": "2026-08-31T07:27:42.457064+00:00",
   "date": "2026-08-31",
-  "count": 240,
+  "count": 262,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1682,6 +1682,160 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/chinas-hoehepunkte-zwischen-peking-und-hongkong-mai-2027-art-1719227",
       "summary": "",
       "published": "2026-08-31T07:02:39.351350+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Rätseln im Tessin – Was hat die tote Frau im See mit einem Regierungsrat zu tun?",
+      "url": "https://www.srf.ch/news/schweiz/raetseln-im-tessin-was-hat-die-tote-frau-im-see-mit-einem-regierungsrat-zu-tun",
+      "summary": "Der Tod einer Frau im Luganersee sorgt im Tessin für Spekulationen. SRF-Tessin-Korrespondent Iwan Santoro ordnet ein.",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Brand mit Toten und Verletzten: Ermittler nehmen nach Feuer in Thusis eine Person fest",
+      "url": "https://www.tagesanzeiger.ch/brand-thusis-untersuchungshaft-wegen-fahrlaessiger-toetung-417241448157",
+      "summary": "Das Zwangsmassnahmengericht Graubünden hat Untersuchungshaft gegen eine Person angeordnet. Zudem weiss man nun mehr zur Identität der vier Todesopfer.",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gender Pay Gap in der Schweiz: Frauen verdienen durch­schnitt­lich 15,7 Prozent weniger als Männer",
+      "url": "https://www.bernerzeitung.ch/lohnunterschied-frauen-verdienen-15-7-weniger-als-maenner-420196265057",
+      "summary": "Die Lohnungleichheit zwischen Männern und Frauen ist weiter zurückgegangen, wie der Bericht des Bundesamtes für Statistik zeigt.",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sechs Verletzte an diesem Unfall-Wochenende in Luzern",
+      "url": "https://www.zentralplus.ch/news/sechs-verletzte-an-diesem-unfall-wochenende-in-luzern-2895413/",
+      "summary": "Für Polizei und Rettungsdienste gab es am Wochenende im Kanton Luzern mehrere Einsätze. Besonders auf der A2 und in der Stadt blieb es nicht nur bei Blechschäden. Bei insgesamt sieben Verkehrsunfällen",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "EFG startet in Bern mit zwei UBS-Bankern",
+      "url": "https://www.finews.ch/news/banken/73412-efg-startet-in-bern-mit-zwei-ubs-bankern",
+      "summary": "Die Privatbank EFG International eröffnet einen neuen Standort in Bern und holt dafür zwei erfahrene Kundenberatern von der UBS.",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI in der Cybersecurity: Verstärkung für Verteidiger im digitalen Zeitalter",
+      "url": "https://www.netzwoche.ch/news/2026-08-31/ki-in-der-cybersecurity-verstaerkung-fuer-verteidiger-im-digitalen-zeitalter",
+      "summary": "Die Bedrohungslandschaft ändert sich drastisch. Um der enormen Skalierung und Geschwindigkeit KI-gestützter ­Cyberangriffe wirksam begegnen zu können, müssen Unternehmen repetitive Abwehrprozesse auto",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Agent Factory mit Microsoft Copilot Studio",
+      "url": "https://www.netzwoche.ch/news/2026-08-31/agent-factory-mit-microsoft-copilot-studio",
+      "summary": "GenAI verspricht enorme Effizienzgewinne. Doch der Weg vom ersten Experiment zum produktiven KI-Agenten ist für viele Unternehmen anspruchsvoll. Häufig wissen Unternehmen nicht, wie und wo sie starten",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Der Angriff, den keine Firewall aufhält",
+      "url": "https://www.netzwoche.ch/news/2026-08-31/der-angriff-den-keine-firewall-aufhaelt",
+      "summary": "Die Firewall ist das selbstverständlichste Sicherheitsprodukt der IT. Doch sie hat einen blinden Fleck: Sie schützt nur ­einen Ort – gearbeitet wird an vielen. Das Notebook im Zug, das iPad beim Kunde",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "\"AI in Marketing\"-Konferenz: Zwischen Technik und Kreativität",
+      "url": "https://www.netzwoche.ch/news/2026-08-31/ai-in-marketing-konferenz-zwischen-technik-und-kreativitaet",
+      "summary": "Mit dem Einzug der KI sind IT und Marketing näher zusammengerückt. Wer beide Sprachen spricht, gewinnt. Am 21. April 2027 übernimmt die grösste \"AI in Marketing\"-Konferenz der Schweiz die Übersetzung ",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "\"Weibliche Vorbilder zeigen, dass es nicht 'den' Weg in die Security gibt\"",
+      "url": "https://www.netzwoche.ch/news/2026-08-31/weibliche-vorbilder-zeigen-dass-es-nicht-den-weg-in-die-security-gibt",
+      "summary": "Frauen sind in der Cybersecurity noch immer unterrepräsentiert – dabei stehen ihre Karrierechancen gut. Monika Stucki, Beraterin für Informationssicherheit und Trainerin bei der Digicomp Academy, spri",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Post-Quanten-Security ist in erster Linie ein Inventarproblem",
+      "url": "https://www.netzwoche.ch/meinungen/2026-08-31/post-quanten-security-ist-in-erster-linie-ein-inventarproblem",
+      "summary": "Der Q-Day – der Tag, an dem Quantencomputer heutige Verschlüsselungen knacken – dominiert die Schlagzeilen. Doch die meisten Unternehmen scheitern an einer viel banaleren Frage: Sie wissen nicht, wo s",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Agentic AI: Wie man seine neuen ­digitalen Mitarbeitenden führt",
+      "url": "https://www.netzwoche.ch/news/2026-08-31/agentic-ai-wie-man-seine-neuen-digitalen-mitarbeitenden-fuehrt",
+      "summary": "Während KI-Assistenten auf Anweisungen reagieren, handeln KI-Agenten proaktiv, um ein vorgegebenes Ziel zu erreichen. Wir bewegen uns weg von reiner Automatisierung hin zur überwachten Autonomie. Ein ",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Vertrauliche KI: Wie Unternehmen ­generative KI sicher nutzen können",
+      "url": "https://www.netzwoche.ch/news/2026-08-31/vertrauliche-ki-wie-unternehmen-generative-ki-sicher-nutzen-koennen",
+      "summary": "KI verändert die Welt. Gleichzeitig stellen Datenschutz, Compliance und Informationssicherheit viele Unternehmen vor neue Herausforderungen. Mit DeepConfidential zeigt DeepCloud, wie sich generative­ ",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Raus aus Zürich: Die Bank Vontobel verlegt 2030 ihren Hauptsitz in den Kanton Zug",
+      "url": "https://www.nzz.ch/wirtschaft/raus-aus-zuerich-die-bank-vontobel-verlegt-2030-ihren-hauptsitz-in-den-kanton-zug-ld.10021516",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Blum warnt vor schwindender Medienvielfalt",
+      "url": "https://www.persoenlich.com/medien/blum-warnt-vor-schwindender-medienvielfalt",
+      "summary": "Der emeritierte Berner Medienprofessor sieht in einem Gastbeitrag eine fortschreitende Ausdünnung der Schweizer Medienlandschaft.",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Jp1 Challenge in Mumpf die Jüngsten Zeigen Ihr Können",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/jp1-challenge-in-mumpf-die-juengsten-zeigen-ihr-koennen-ld.4223653",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fc Kickers United Startet Training in Rüfenach",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/fc-kickers-united-startet-training-in-ruefenach-ld.4222461",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Brugger Einwohnerrat Berät über Millionenprojekt am Bahnhof",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/brugger-einwohnerrat-beraet-ueber-millionenprojekt-am-bahnhof-ld.4224128",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Zwei Junge Franzosen nach Einbruch in Autogarage in Kaltbrunn Festgenommen",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/zwei-junge-franzosen-nach-einbruch-in-autogarage-in-kaltbrunn-festgenommen-ld.4225108",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stadt Zug rechnet bis 2040 mit 1000 zusätzlichen Schülern",
+      "url": "https://www.watson.ch/schweiz/schule-bildung/985071423-stadt-zug-rechnet-bis-2040-mit-1000-zusaetzlichen-schuelern",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Armon Orlik und der Druck auf einem König: «Ich brauche wohl Hilfe»",
+      "url": "https://www.watson.ch/sport/kampfsport/395156127-armon-orlik-und-der-druck-auf-einem-koenig-ich-brauche-wohl-hilfe",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ex-Diktator Maduro meldet sich aus US-Haft – er sieht verändert aus",
+      "url": "https://www.watson.ch/international/usa/144857320-ex-diktator-maduro-meldet-sich-aus-us-haft-er-sieht-veraendert-aus",
+      "summary": "",
+      "published": "2026-08-31T07:27:42.457064+00:00"
     }
   ]
 }
