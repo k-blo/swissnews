@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T00:49:00.144679+00:00",
+  "generated": "2026-08-31T01:02:24.737209+00:00",
   "date": "2026-08-31",
-  "count": 24,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,13 @@
       "url": "https://www.watson.ch/international/deutschland/965125335-hessisch-oldendorf-niedersachsen-mindestens-7-verletzte-nach-angriff",
       "summary": "",
       "published": "2026-08-31T00:33:05.361913+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Beringen SH: 16-jähriger Motorradfahrer verletzt",
+      "url": "https://www.watson.ch/schweiz/schaffhausen/478835900-beringen-sh-16-jaehriger-motorradfahrer-verletzt",
+      "summary": "",
+      "published": "2026-08-31T01:02:24.737209+00:00"
     }
   ]
 }
