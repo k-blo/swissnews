@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T01:38:03.356199+00:00",
+  "generated": "2026-08-31T02:02:36.088761+00:00",
   "date": "2026-08-31",
-  "count": 25,
+  "count": 27,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -177,6 +177,20 @@
       "url": "https://www.watson.ch/schweiz/schaffhausen/478835900-beringen-sh-16-jaehriger-motorradfahrer-verletzt",
       "summary": "",
       "published": "2026-08-31T01:02:24.737209+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "KI-Songs werden in Australien nicht mehr zu Charts zugelassen",
+      "url": "https://www.freiburger-nachrichten.ch/story/285909/kisongs-werden-in-australien-nicht-mehr-zu-charts-zugelassen",
+      "summary": "",
+      "published": "2026-08-31T02:02:36.088761+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das Geheimnis der Salzzitronen: So gelingen sie – und so verwendet man sie",
+      "url": "https://www.freiburger-nachrichten.ch/story/285920/das-geheimnis-der-salzzitronen-so-gelingen-sie-und-so-verwendet-man-sie",
+      "summary": "",
+      "published": "2026-08-31T02:02:36.088761+00:00"
     }
   ]
 }
