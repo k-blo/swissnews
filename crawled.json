@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T00:02:17.376303+00:00",
+  "generated": "2026-09-01T00:32:42.925621+00:00",
   "date": "2026-09-01",
-  "count": 41,
+  "count": 43,
   "articles": [
     {
       "source": "Persönlich",
@@ -289,6 +289,20 @@
       "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-aston-villa-verliert-ohne-manzambi",
       "summary": "",
       "published": "2026-09-01T00:02:17.376303+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Met-Gala: Ausstellung mit  Designer John Galliano abgesagt",
+      "url": "https://www.watson.ch/international/rassismus/444081091-met-gala-ausstellung-mit-designer-john-galliano-abgesagt",
+      "summary": "",
+      "published": "2026-09-01T00:32:42.925621+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Strasse von Hormuz: Erneut Tanker angegriffen",
+      "url": "https://www.watson.ch/international/iran/670471696-strasse-von-hormuz-erneut-tanker-angegriffen",
+      "summary": "",
+      "published": "2026-09-01T00:32:42.925621+00:00"
     }
   ]
 }
