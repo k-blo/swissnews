@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T22:02:18.065717+00:00",
+  "generated": "2026-09-01T22:32:21.774430+00:00",
   "date": "2026-09-02",
-  "count": 5,
+  "count": 31,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -37,6 +37,188 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/erfolgreiches-beachvolleyballturnier-zum-sommerende-art-1719488",
       "summary": "",
       "published": "2026-09-01T22:02:18.065717+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Arbeitgeber schlagen Alarm: Sind die Schulabgänger zu dumm für die Lehre?",
+      "url": "https://www.blick.ch/wirtschaft/arbeitgeber-schlagen-alarm-sind-die-schulabgaenger-zu-dumm-fuer-die-lehre-id22226903.html",
+      "summary": "Lesen, schreiben, rechnen – damit tun sich Jugendliche schwer. Das zeigt eine neue Umfrage vom Wirtschaftsdachverband Economiesuisse. Betriebe klagen, sie hätten zunehmend Mühe, geeignete Lehrlinge zu",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Endlich informiert die Polizei: Werden diese vier Widersprüche um die Aarau-Schiesserei heute aufgelöst?",
+      "url": "https://www.blick.ch/schweiz/endlich-informiert-die-polizei-werden-diese-vier-widersprueche-um-die-aarau-schiesserei-heute-aufgeloest-id22226730.html",
+      "summary": "Die Schweiz blickt gespannt auf die Pressekonferenz der Strafverfolger in Schafisheim AG. Zwei Tage nach der Schiesserei am Aarauer Rave bleiben zentrale Fragen zu Täter und Motiv offen.",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Super League live im Ticker: FCZ – YB. Die Young Boys spielen in Zürich",
+      "url": "https://www.watson.ch/sport/fc-zuerich/315345683-super-league-live-im-ticker-fcz-yb-die-young-boys-spielen-in-zuerich",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Spielrausch» ist das Fasnachtsmotto 2027",
+      "url": "https://www.bote.ch/nachrichten/schwyz/spielrausch-ist-das-fasnachtsmotto-2027-art-1719472",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Schweizer Filme sollen langfristig erhalten bleiben»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schweizer-filme-sollen-langfristig-erhalten-bleiben-art-1719570",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Der Wolf hat seine Berechtigung»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/der-wolf-hat-seine-berechtigung-art-1719624",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wissenschaft und Politik: eine Beziehung zwischen Wissen, Verantwortung und Macht",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wissenschaft-und-politik-eine-beziehung-zwischen-wissen-verantwortung-und-macht-art-1719565",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wird der Wolf zur Zerreissprobe? Das sagt Umweltdirektor Sandro Patierno zur aktuellen Lage",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wird-der-wolf-zur-zerreissprobe-das-sagt-umweltdirektor-sandro-patierno-zur-aktuellen-lage-art-1719545",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "TCS-Sektion Schwyz trotz hochsommerlicher Temperaturen in Wanderlaune",
+      "url": "https://www.bote.ch/nachrichten/vereine/tcs-sektion-schwyz-trotz-hochsommerlicher-temperaturen-in-wanderlaune-art-1719540",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Spaziergang durch sattes Grün",
+      "url": "https://www.bote.ch/nachrichten/schwyz/spaziergang-durch-sattes-gruen-art-1719451",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sofortmassnahmen für historische Fassade des Alten Rathauses",
+      "url": "https://www.bote.ch/nachrichten/schwyz/sofortmassnahmen-fuer-historische-fassade-des-alten-rathauses-art-1719471",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ruderclub Immensee feiert zehnjähriges Bestehen",
+      "url": "https://www.bote.ch/nachrichten/vereine/ruderclub-immensee-feiert-zehnjaehriges-bestehen-art-1719536",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach dem Hitzesommer: Bauern investieren in Wasserversorgung",
+      "url": "https://www.bote.ch/nachrichten/schwyz/nach-dem-hitzesommer-bauern-investieren-in-wasserversorgung-art-1719511",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Michael Gwerder als der Schwyzer Hoffnungsträger",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/michael-gwerder-als-der-schwyzer-hoffnungstraeger-art-1719501",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Lehrvertrag mit 13: Wettlauf um die Lehrstellen beginnt immer früher",
+      "url": "https://www.bote.ch/nachrichten/schwyz/lehrvertrag-mit-13-wettlauf-um-die-lehrstellen-beginnt-immer-frueher-art-1719538",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Komplizierter Brückenneubau: Verbindung Brunnen-Seewen ein Jahr gesperrt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/komplizierter-brueckenneubau-verbindung-brunnen-seewen-ein-jahr-gesperrt-art-1719531",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "KTV-Sattel absolviert anspruchsvolle Biketour auf und entlang der Rigi",
+      "url": "https://www.bote.ch/nachrichten/vereine/ktv-sattel-absolviert-anspruchsvolle-biketour-auf-und-entlang-der-rigi-art-1719543",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "KTV-Junior gewinnt mit Innerschweizer Auswahl Schweizer Meisterschaft",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ktv-junior-gewinnt-mit-innerschweizer-auswahl-schweizer-meisterschaft-art-1719534",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Güselmenge pro Kopf seit Jahren konstant",
+      "url": "https://www.bote.ch/nachrichten/schwyz/gueselmenge-pro-kopf-seit-jahren-konstant-art-1719544",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fotoclub Schwyz verabschiedet langjähriges Vorstandsmitglied Brigitte Stöckli",
+      "url": "https://www.bote.ch/nachrichten/vereine/fotoclub-schwyz-verabschiedet-langjaehriges-vorstandsmitglied-brigitte-stoeckli-art-1719541",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Feuerwehrvereinsreise Brunnen",
+      "url": "https://www.bote.ch/nachrichten/vereine/feuerwehrvereinsreise-brunnen-art-1719542",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "EHC Seewen wieder auf heimischem Eis",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ehc-seewen-wieder-auf-heimischem-eis-art-1719507",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Aufsichtsanzeige gegen gescheitertes Tourismusprojekt: Vorerst herrscht grosses Schweigen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/aufsichtsanzeige-gegen-gescheitertes-tourismusprojekt-vorerst-herrscht-grosses-schweigen-art-1719504",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Aufbruch mit facettenreichem Spielplan und grossen Namen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/aufbruch-mit-facettenreichem-spielplan-und-grossen-namen-art-1719523",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Altes Steiner Restaurant entpuppt sich als Sensation",
+      "url": "https://www.bote.ch/nachrichten/schwyz/altes-steiner-restaurant-entpuppt-sich-als-sensation-art-1719497",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "24 Mannschaften kickten im Schornen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/24-mannschaften-kickten-im-schornen-art-1719524",
+      "summary": "",
+      "published": "2026-09-01T22:32:21.774430+00:00"
     }
   ]
 }
