@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T05:02:39.426025+00:00",
+  "generated": "2026-09-01T05:32:12.776295+00:00",
   "date": "2026-09-01",
-  "count": 209,
+  "count": 220,
   "articles": [
     {
       "source": "Persönlich",
@@ -1465,6 +1465,83 @@
       "url": "https://www.bote.ch/nachrichten/sport/dirigent-wawrinka-verabschiedet-sich-von-der-grand-slam-buehne-art-1719435",
       "summary": "",
       "published": "2026-09-01T05:02:39.426025+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Swiss Life baut bis zu 600 Stellen ab",
+      "url": "https://www.20min.ch/story/versicherer-swiss-life-baut-bis-zu-600-stellen-ab-103625545",
+      "summary": "Bis Ende 2028 plant Swiss Life einen massiven Stellenabbau. Ein grosser  Teil soll über die natürliche Fluktuation erfolgen.",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Lebensversicherer: Swiss Life baut rund 600 Stellen ab",
+      "url": "https://www.tagesanzeiger.ch/swiss-life-baut-bis-2028-rund-600-stellen-ab-693344704337",
+      "summary": "Swiss Life streicht je 300 Stellen in der Schweiz und im Ausland. Betroffen sind das Schweizer Geschäft und die Vermögensverwaltung Swiss Life Asset Managers.",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Bis 9 Uhr: Bahnstrecke zwischen Bern und Thun unterbrochen – Ersatzbusse im Einsatz",
+      "url": "https://www.bernerzeitung.ch/sbb-personenunfall-unterbricht-bahnverkehr-bern-thun-282126247788",
+      "summary": "Seit dem Morgen fahren keine Züge zwischen Wankdorf und Gümligen. Die SBB setzen Ersatzbusse ein und empfehlen, via Belp zu reisen.",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Millionen Nutzer betroffen: Weltweite Störung bei Microsoft Outlook legte E-Mail lahm",
+      "url": "https://www.bernerzeitung.ch/microsoft-stoerung-weltweit-outlook-365-millionen-user-betroffen-124229099047",
+      "summary": "Ein Fehler in der Cloud-Infrastruktur blockierte am Montagabend Login, Versand und Empfang von E-Mails. Laut Microsoft hat sich die Lage inzwischen entspannt.",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stau: Unfall bremst den Morgenverkehr auf A2",
+      "url": "https://www.zentralplus.ch/stau/stau-unfall-bremst-den-morgenverkehr-auf-a2-2895684/",
+      "summary": "Auf der A2 sorgt ein Unfall am Dienstagmorgen für einen längeren Stau. Zwischen Sursee und Rothenburg müssen Autofahrende deutlich mehr Zeit einplanen. Ein Unfall führt am Dienstagmorgen zu grossem St",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trotz Stadttunnel-Nein: Jetzt werden Grundstücke blockiert",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/trotz-stadttunnel-nein-jetzt-werden-grundstuecke-blockiert-2894899/",
+      "summary": "Das Zuger Stimmvolk hat den Stadttunnel zweimal versenkt. Doch begraben ist das Milliardenprojekt noch lange nicht: Nun sollen elf Grundstücke für ein mögliches Tunnelportal freigehalten werden. Der Z",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Swiss Life steigert Gewinn und streicht 600 Stellen",
+      "url": "https://www.finews.ch/news/versicherungen/73426-swiss-life-halbjahr-2026-eigene-aktien-zurueckkaufen-sparprogramm-600-stellen",
+      "summary": "Swiss Life hat im ersten Halbjahr 2026 mehr verdient und will weitere eigene Aktien zurückkaufen. Gleichzeitig kündigt der Lebensversicherer ein Sparprogramm an: Bis Ende 2028 sollen rund 600 Stellen ",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Swiss Life baut bis Ende 2028 600 Stellen ab",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/906281650-swiss-life-baut-bis-ende-2028-600-stellen-ab",
+      "summary": "",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Handyverbot an Zürcher Schulen: Kantonsrat ist dafür",
+      "url": "https://www.watson.ch/schweiz/digital/358530286-handyverbot-an-zuercher-schulen-kantonsrat-ist-dafuer",
+      "summary": "",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Federer erhält seinen Ring der Hall of Fame: «Eine unglaubliche Woche»",
+      "url": "https://www.watson.ch/sport/roger-federer/977715723-federer-erhaelt-seinen-ring-der-hall-of-fame-eine-unglaubliche-woche",
+      "summary": "",
+      "published": "2026-09-01T05:32:12.776295+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Uster Polizei Affäre Überschattet die Ganze Legislatur",
+      "url": "https://insideparadeplatz.ch/2026/09/01/uster-polizei-affaere-ueberschattet-die-ganze-legislatur/",
+      "summary": "",
+      "published": "2026-09-01T05:32:12.776295+00:00"
     }
   ]
 }
