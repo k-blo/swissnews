@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T01:02:32.643235+00:00",
+  "generated": "2026-09-01T01:23:19.690606+00:00",
   "date": "2026-09-01",
-  "count": 50,
+  "count": 53,
   "articles": [
     {
       "source": "Persönlich",
@@ -352,6 +352,27 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/wahrscheinlich-rechtswidrig-der-hoechste-us-richter-blitzt-mit-kritik-an-trump-ab-art-1719414",
       "summary": "",
       "published": "2026-09-01T01:02:32.643235+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Prozess in Las Vegas: Mord an Rapper Tupac Shakur: Angeklagter schuldig gesprochen",
+      "url": "https://www.tagesanzeiger.ch/mord-prozess-las-vegas-tupac-shakur-angeklagter-schuldig-794673980840",
+      "summary": "Ein Geschworenengericht hat den Angeklagten Duane «Keffe D» Davis im Mordfall um die Rap-Ikone Tupac Shakur des Mordes schuldig gesprochen.",
+      "published": "2026-09-01T01:23:19.690606+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Angeklagter im Mord an Rap-Ikone Tupac Shakur schuldig gesprochen",
+      "url": "https://www.nzz.ch/panorama/angeklagter-im-mord-an-rap-ikone-tupac-shakur-schuldig-gesprochen-ld.10021848",
+      "summary": "",
+      "published": "2026-09-01T01:23:19.690606+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schiesserei Rave Aarau: Veranstalter verteidigt Sicherheitskonzept",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/368605963-schiesserei-rave-aarau-veranstalter-verteidigt-sicherheitskonzept",
+      "summary": "",
+      "published": "2026-09-01T01:23:19.690606+00:00"
     }
   ]
 }
