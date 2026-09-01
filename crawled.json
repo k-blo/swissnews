@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T01:32:17.198753+00:00",
+  "generated": "2026-09-01T02:02:37.667371+00:00",
   "date": "2026-09-01",
-  "count": 53,
+  "count": 54,
   "articles": [
     {
       "source": "Persönlich",
@@ -373,6 +373,13 @@
       "url": "https://www.watson.ch/schweiz/gesellschaft-politik/368605963-schiesserei-rave-aarau-veranstalter-verteidigt-sicherheitskonzept",
       "summary": "",
       "published": "2026-09-01T01:23:19.690606+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Times Square New York: Frau ersticht Passantin, Polizei erschiesst sie",
+      "url": "https://www.watson.ch/international/usa/627465058-times-square-new-york-frau-ersticht-passantin-polizei-erschiesst-sie",
+      "summary": "",
+      "published": "2026-09-01T02:02:37.667371+00:00"
     }
   ]
 }
