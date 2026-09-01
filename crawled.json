@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T23:02:59.259629+00:00",
+  "generated": "2026-09-01T23:32:13.755012+00:00",
   "date": "2026-09-02",
-  "count": 33,
+  "count": 36,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -233,6 +233,27 @@
       "url": "https://www.watson.ch/sport/belinda-bencic/953046388-us-open-belinda-bencic-scheitert-in-1-runde",
       "summary": "",
       "published": "2026-09-01T23:02:59.259629+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Ukraine: Wolodymyr Selenskyj warnt vor Flügen über Russland",
+      "url": "https://www.watson.ch/international/russland/898660152-krieg-ukraine-wolodymyr-selenskyj-warnt-vor-fluegen-ueber-russland",
+      "summary": "",
+      "published": "2026-09-01T23:32:13.755012+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Russland Ukraine: Vladmir Putin behauptet Fortschritte",
+      "url": "https://www.watson.ch/international/russland/898159115-krieg-russland-ukraine-vladmir-putin-behauptet-fortschritte",
+      "summary": "",
+      "published": "2026-09-01T23:32:13.755012+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vladimir Putin: Sanktionen von Deutschland wegen Drohne sind Fehler",
+      "url": "https://www.watson.ch/international/deutschland/822495424-vladimir-putin-sanktionen-von-deutschland-wegen-drohne-sind-fehler",
+      "summary": "",
+      "published": "2026-09-01T23:32:13.755012+00:00"
     }
   ]
 }
