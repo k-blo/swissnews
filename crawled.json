@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-31T23:32:37.237787+00:00",
+  "generated": "2026-09-01T00:02:17.376303+00:00",
   "date": "2026-09-01",
-  "count": 38,
+  "count": 41,
   "articles": [
     {
       "source": "Persönlich",
@@ -268,6 +268,27 @@
       "url": "https://www.watson.ch/sport/tennis/259895886-stan-wawrinka-scheitert-am-us-open-in-der-ersten-runde",
       "summary": "",
       "published": "2026-08-31T23:32:37.237787+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Supreme Court erteilt Trump grünes Licht für seinen prunkvollen Festsaal – und ausgerechnet der oberste US-Richter protestiert dagegen",
+      "url": "https://www.nzz.ch/international/der-supreme-court-erteilt-trump-gruenes-licht-fuer-seinen-prunkvollen-festsaal-und-ausgerechnet-der-oberste-us-richter-protestiert-dagegen-ld.10021843",
+      "summary": "",
+      "published": "2026-09-01T00:02:17.376303+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA: Daniel Driscoll ist nicht länger Staatssekretär des Heeres",
+      "url": "https://www.watson.ch/international/armee/925350978-usa-daniel-driscoll-ist-nicht-laenger-staatssekretaer-des-heeres",
+      "summary": "",
+      "published": "2026-09-01T00:02:17.376303+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Aston Villa verliert ohne Manzambi",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-aston-villa-verliert-ohne-manzambi",
+      "summary": "",
+      "published": "2026-09-01T00:02:17.376303+00:00"
     }
   ]
 }
