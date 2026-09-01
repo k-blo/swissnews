@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T02:02:37.667371+00:00",
+  "generated": "2026-09-01T02:32:12.346322+00:00",
   "date": "2026-09-01",
-  "count": 54,
+  "count": 59,
   "articles": [
     {
       "source": "Persönlich",
@@ -380,6 +380,41 @@
       "url": "https://www.watson.ch/international/usa/627465058-times-square-new-york-frau-ersticht-passantin-polizei-erschiesst-sie",
       "summary": "",
       "published": "2026-09-01T02:02:37.667371+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schuldspruch im Fall Tupac",
+      "url": "https://www.zentralplus.ch/news/schuldspruch-im-fall-tupac-2895682/",
+      "summary": "Rund 30 Jahre ist es her, dass der US-Rapper Tupac Shakur in Las Vegas auf offener Strasse erschossen wurde. Nun hat ein Geschworenengericht in den USA einen ehemaligen Gang-Anführer verurteilt. Er is",
+      "published": "2026-09-01T02:32:12.346322+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Messerattacke am New Yorker Times Square: Frau ersticht Passantin",
+      "url": "https://www.nzz.ch/panorama/messerattacke-am-new-yorker-times-square-frau-ersticht-passantin-ld.10021849",
+      "summary": "",
+      "published": "2026-09-01T02:32:12.346322+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wenig Wasser, wenig Strom – doch beim Strompreis gibt es Entwarnung",
+      "url": "https://www.shn.ch/region/kanton/2026-09-01/wenig-wasser-wenig-strom-doch-beim-strompreis-gibt-es-entwarnung",
+      "summary": "Das Kraftwerk in Schaffhausen produziert wegen des niedrigen Wasserstands des Rheins derzeit deutlich weniger Strom als gewöhnlich. Für die Kundinnen und Kunden hat das 2027 noch keine Folgen. BBei SH",
+      "published": "2026-09-01T02:32:12.346322+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ärger nach Debatte um Erziehungsrat: «Solche Spielchen sind demokratiepolitisch heikel»",
+      "url": "https://www.shn.ch/region/kanton/2026-09-01/aerger-nach-debatte-um-erziehungsrat-solche-spielchen-sind",
+      "summary": "Von rechts bis links fehlte Peter Fischli (FDP) die Unterstützung im Kantonsparlament bei seiner Kandidatur für den Erziehungsrat. Vorgeschlagen wurde er von der FDP-Mitte-Fraktion. Was sein Beitrag h",
+      "published": "2026-09-01T02:32:12.346322+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Strandbad Ermatingen 2027 Wieder mit Eintrittsgeld",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/strandbad-ermatingen-2027-wieder-mit-eintrittsgeld-ld.4225315",
+      "summary": "",
+      "published": "2026-09-01T02:32:12.346322+00:00"
     }
   ]
 }
