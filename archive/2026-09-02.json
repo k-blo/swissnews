@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T22:32:21.774430+00:00",
+  "generated": "2026-09-01T23:02:59.259629+00:00",
   "date": "2026-09-02",
-  "count": 31,
+  "count": 33,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -219,6 +219,20 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/24-mannschaften-kickten-im-schornen-art-1719524",
       "summary": "",
       "published": "2026-09-01T22:32:21.774430+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nestlé verkauft Vitamingeschäft",
+      "url": "https://www.zentralplus.ch/news/nestle-verkauft-vitamingeschaeft-2895841/",
+      "summary": "Der Schweizer Nahrungsmittelkonzern Nestlé verkauft sein Vitamingeschäft für eine Milliarde Dollar. Die Geschäftssparte mit Vitaminen, Mineralstoffen und Nahrungsergänzungsmitteln werde vom US-amerika",
+      "published": "2026-09-01T23:02:59.259629+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US Open: Belinda Bencic scheitert in 1. Runde",
+      "url": "https://www.watson.ch/sport/belinda-bencic/953046388-us-open-belinda-bencic-scheitert-in-1-runde",
+      "summary": "",
+      "published": "2026-09-01T23:02:59.259629+00:00"
     }
   ]
 }
