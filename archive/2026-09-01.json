@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T00:32:42.925621+00:00",
+  "generated": "2026-09-01T01:02:32.643235+00:00",
   "date": "2026-09-01",
-  "count": 43,
+  "count": 50,
   "articles": [
     {
       "source": "Persönlich",
@@ -303,6 +303,55 @@
       "url": "https://www.watson.ch/international/iran/670471696-strasse-von-hormuz-erneut-tanker-angegriffen",
       "summary": "",
       "published": "2026-09-01T00:32:42.925621+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mord an Rapper Tupac: Angeklagter schuldig gesprochen",
+      "url": "https://www.20min.ch/story/prozess-mord-an-rapper-tupac-angeklagter-schuldig-103625509",
+      "summary": "Ein Geschworenengericht hat den Angeklagten Duane «Keffe D» Davis im Mordfall um die Rap-Ikone Tupac Shakur des Mordes schuldig gesprochen.",
+      "published": "2026-09-01T01:02:32.643235+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Auf dem Times Square: Frau geht mit Küchenmesser auf Menschen los",
+      "url": "https://www.20min.ch/story/new-york-times-square-messer-angriff-mutmassliche-taeterin-tot-zwei-verletzte-103625508",
+      "summary": "In der Nähe eines Polizeipostens am New Yorker Time Square griff eine Frau Passanten an. Beamte waren schnell vor Ort.",
+      "published": "2026-09-01T01:02:32.643235+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wettbewerbsbehörde verklagt Amazon",
+      "url": "https://www.zentralplus.ch/news/wettbewerbsbehoerde-verklagt-amazon-2895680/",
+      "summary": "Amazon soll Preise manipuliert haben. Deswegen hat die US-Wettbewerbsbehörde zusammen mit 22 Bundesstaaten Klage gegen Amazon eingereicht. Bei der Klage geht es um das Werbegeschäft von Amazon. Untern",
+      "published": "2026-09-01T01:02:32.643235+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Circus Monti in Luzern",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/circus-monti-in-luzern-ld.4218012",
+      "summary": "",
+      "published": "2026-09-01T01:02:32.643235+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tupac Shakur: Gang-Anführer Duane Davis schuldig gesprochen",
+      "url": "https://www.watson.ch/international/usa/577033825-tupac-shakur-gang-anfuehrer-duane-davis-schuldig-gesprochen",
+      "summary": "",
+      "published": "2026-09-01T01:02:32.643235+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jared Kushner äussert sich zu Fifa-Plänen von Gianni Infantino",
+      "url": "https://www.watson.ch/wirtschaft/sport/517044373-jared-kushner-aeussert-sich-zu-fifa-plaenen-von-gianni-infantino",
+      "summary": "",
+      "published": "2026-09-01T01:02:32.643235+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wahrscheinlich rechtswidrig»: Der höchste US-Richter blitzt mit Kritik an Trump ab",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/wahrscheinlich-rechtswidrig-der-hoechste-us-richter-blitzt-mit-kritik-an-trump-ab-art-1719414",
+      "summary": "",
+      "published": "2026-09-01T01:02:32.643235+00:00"
     }
   ]
 }
