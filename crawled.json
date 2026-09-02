@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T12:02:48.988023+00:00",
+  "generated": "2026-09-02T12:32:30.491280+00:00",
   "date": "2026-09-02",
-  "count": 539,
+  "count": 556,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3775,6 +3775,125 @@
       "url": "https://www.watson.ch/schweiz/bundesrat/628721006-agrarpolitik-2030-diese-ziele-steckt-der-bundesrat-der-landwirtschaft",
       "summary": "",
       "published": "2026-09-02T12:02:48.988023+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Gewalttat an Rave in Aarau – Schüsse an Techno-Party: «Amoktat» mit Kalaschnikow",
+      "url": "https://www.srf.ch/news/schweiz/gewalttat-an-rave-in-aarau-schuesse-an-techno-party-amoktat-mit-kalaschnikow",
+      "summary": "Eine Tote, fünf Verletzte: Die Gewalttat in Aarau am Wochenende schockiert die Schweiz.",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweizerin Nina Flohr und Prinz Philippos sind Eltern geworden",
+      "url": "https://www.20min.ch/story/leihmutterschaft-in-den-usa-schweizerin-nina-flohr-bekommt-sohn-mit-prinz-philippos-103626329",
+      "summary": "Prinz Philippos und Nina Flohr verkünden süsse Neuigkeiten: Das griechische Prinzenpaar hat einen Sohn bekommen. Ausgetragen wurde ihr erstes Kind von einer Leihmutter in den USA.",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gemeinde führt Wettbewerb durch: Buchs plant Turnhalle mit Tagesstruktur",
+      "url": "https://www.tagesanzeiger.ch/buchs-neue-doppelturnhalle-fuer-primarschule-geplant-942494400970",
+      "summary": "Das Schulhaus aus dem Jahr 1964 soll durch einen modernen Bau ersetzt werden.",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ermittler gehen von Einzeltat aus",
+      "url": "https://www.zentralplus.ch/news/ermittler-gehen-von-einzeltat-aus-2895956/",
+      "summary": "Die Aargauer Kantonspolizei geht nach den Schüssen an einer Rave-Party in Aarau von einer Amoktat aus. Mit an Sicherheit grenzender Wahrscheinlichkeit sei der am Montag festgenommene Mann der Täter, s",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bankrat der SNB: Ammann wird Präsident",
+      "url": "https://www.zentralplus.ch/news/bankrat-der-snb-ammann-wird-praesident-2895954/",
+      "summary": "Der frühere Berner Regierungsrat Christoph Ammann wird Präsident des Bankrats der Schweizerischen Nationalbank SNB. Der Bundesrat hat ihn am Mittwoch ernannt. Er tritt das neue Amt am 1. Mai 2027 an u",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Logobject leitet Generationenwechsel ein",
+      "url": "https://www.netzwoche.ch/news/2026-09-02/logobject-leitet-generationenwechsel-ein",
+      "summary": "Der Schweizer Softwareanbieter Logobject regelt den Generationenwechsel. Für die Übergangsphase der nächsten vier Jahre wird Robin Kaufmann als Co-CEO mit Gründer und CEO Roberto Rossi zusammenarbeite",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Netanyahus machen den 7. Oktober zur Familienangelegenheit",
+      "url": "https://www.nzz.ch/international/die-netanyahus-machen-den-7-oktober-zur-familienangelegenheit-ld.10022025",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Deutschland protestiert, und der russische Finanzminister parliert in den USA: So funktionieren Sanktionen nicht",
+      "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Lucerne Festival 2026 Martha Argerich und Hayato Sumino Bieten Grosse Konzerte",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/lucerne-festival-2026-martha-argerich-und-hayato-sumino-bieten-grosse-konzerte-ld.4225264",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Vereinsreise des Mtv Obergösgen Ins Elsass",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/vereinsreise-des-mtv-obergoesgen-ins-elsass-ld.4226650",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Steuerstrategie Kantonsrat Zieht im Grundsatz mit",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/steuerstrategie-kantonsrat-zieht-im-grundsatz-mit-ld.4226574",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Olten Robi Spielplatz Hagberg nach Sturm Geschlossen",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/olten-robi-spielplatz-hagberg-nach-sturm-geschlossen-ld.4226571",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Eishockey Ehc Urdorf Feiert mit Klublegenden 85 Jahr Jubiläum",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/eishockey-ehc-urdorf-feiert-mit-klublegenden-85-jahr-jubilaeum-ld.4226010",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Ein Lob den Vereinen Svp mit Wettmelken am Dorffäscht",
+      "url": "https://www.limmattalerzeitung.ch/leserbeitrag/li/ein-lob-den-vereinen-svp-mit-wettmelken-am-dorffaescht-ld.4226213",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Traditionelles Lebkuchen Drehen an der Reider Kilbi",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/traditionelles-lebkuchen-drehen-an-der-reider-kilbi-ld.4226398",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Das neue SCB-Stadion und der Respekt vor dem «Veloständer-Reflex»",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/469788425-das-neue-scb-stadion-und-der-respekt-vor-dem-velostaender-reflex",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Grosse Abende im KKL: Wenn die Klavierlegende auf die Zukunft trifft",
+      "url": "https://www.bote.ch/nachrichten/kultur/lucerne-festival-2026-martha-argerich-und-hayato-sumino-bieten-grosse-konzerte-art-1719682",
+      "summary": "",
+      "published": "2026-09-02T12:32:30.491280+00:00"
     }
   ]
 }
