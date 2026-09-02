@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T04:32:21.490970+00:00",
+  "generated": "2026-09-02T05:02:34.168078+00:00",
   "date": "2026-09-02",
-  "count": 206,
+  "count": 211,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1444,6 +1444,41 @@
       "url": "https://www.freiburger-nachrichten.ch/story/286857/der-sommer-geht-die-hitze-bleibt",
       "summary": "",
       "published": "2026-09-02T04:32:21.490970+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Neues Strafverfahren – Kann die Tessiner Regierung Claudio Zali aus dem Amt werfen?",
+      "url": "https://www.srf.ch/news/schweiz/neues-strafverfahren-kann-die-tessiner-regierung-claudio-zali-aus-dem-amt-werfen",
+      "summary": "Gegen den Regierungsrat Claudio Zali gibt es ein neues Strafverfahren. Die Regierung fordert nun seinen Rücktritt.",
+      "published": "2026-09-02T05:02:34.168078+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Explosion am Hauptbahnhof Augsburg – mehrere Verletzte",
+      "url": "https://www.20min.ch/story/deutschland-explosion-am-hauptbahnhof-augsburg-mehrere-verletzte-103626096",
+      "summary": "Am frühen Mittwochmorgen ist es am Hauptbahnhof Augsburg zu einer Explosion gekommen. Die Polizei ist mit einem Grossaufgebot vor Ort.",
+      "published": "2026-09-02T05:02:34.168078+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Wir steuern auf eine Welt zu, in der jeder zweite Sommer heisser wird als diesmal»",
+      "url": "https://www.shn.ch/leben-leute/2026-09-02/wir-steuern-auf-eine-welt-zu-in-der-jeder-zweite-sommer-heisser-wird-als",
+      "summary": "ETH-Klimaforscher Reto Knutti war vom Hitzesommer nicht überrascht. Er warnt vor mehr Hitze, Wasserknappheit und hohen Kosten – und fordert rasche Anpassungen.",
+      "published": "2026-09-02T05:02:34.168078+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: BVB schlägt Fünftligisten",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-bvb-schlaegt-fuenftligisten",
+      "summary": "",
+      "published": "2026-09-02T05:02:34.168078+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Twint ist jetzt auch eine Einkaufsliste",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/twint-erweitert-die-app-um-eine-einkaufsliste-art-1719643",
+      "summary": "",
+      "published": "2026-09-02T05:02:34.168078+00:00"
     }
   ]
 }
