@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T01:02:20.614796+00:00",
+  "generated": "2026-09-02T01:32:37.244597+00:00",
   "date": "2026-09-02",
-  "count": 48,
+  "count": 50,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -338,6 +338,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/286357/frauen-in-freiburg-im-mittelpunkt",
       "summary": "",
       "published": "2026-09-02T00:32:27.461295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lora: Deutschland testet Langstreckenrakete",
+      "url": "https://www.watson.ch/international/armee/763511818-lora-deutschland-testet-langstreckenrakete",
+      "summary": "",
+      "published": "2026-09-02T01:32:37.244597+00:00"
+    },
+    {
+      "source": "Rathuus",
+      "title": "Staatliche Wohnstiftung Muss Sich mit Baumschützern Herumschlagen",
+      "url": "https://rathuus.ch/staatliche-wohnstiftung-muss-sich-mit-baumschuetzern-herumschlagen/",
+      "summary": "",
+      "published": "2026-09-02T01:32:37.244597+00:00"
     }
   ]
 }
