@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T22:49:15.189867+00:00",
+  "generated": "2026-09-02T23:02:16.446062+00:00",
   "date": "2026-09-03",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -163,6 +163,13 @@
       "url": "https://www.zentralplus.ch/news/tausende-demonstrieren-in-spanien-2-2896080/",
       "summary": "Zehntausende Menschen haben in Spanien an Kundgebungen teilgenommen und gegen die Migrationskrise in der spanischen Nordafrika-Exklave Ceuta protestiert. Sie werfen der spanischen Regierung vor, Ceuta",
       "published": "2026-09-02T22:49:15.189867+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Dänemarks Geheimdienst schlägt Alarm: Russland soll Sabotage und Brandstiftung planen",
+      "url": "https://www.nzz.ch/international/daenemarks-geheimdienst-schlaegt-alarm-russland-soll-sabotage-und-brandstiftung-planen-ld.10022196",
+      "summary": "",
+      "published": "2026-09-02T23:02:16.446062+00:00"
     }
   ]
 }
