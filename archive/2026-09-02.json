@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T23:32:13.755012+00:00",
+  "generated": "2026-09-02T00:02:17.930975+00:00",
   "date": "2026-09-02",
-  "count": 36,
+  "count": 38,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -254,6 +254,20 @@
       "url": "https://www.watson.ch/international/deutschland/822495424-vladimir-putin-sanktionen-von-deutschland-wegen-drohne-sind-fehler",
       "summary": "",
       "published": "2026-09-01T23:32:13.755012+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Wieder muss Bern erklären»: Italiens Medien ziehen Linie von Crans-Montana zu Aarau",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/wieder-muss-bern-erklaeren-italiens-medien-ziehen-linie-von-crans-montana-zu-aarau-id22227224.html",
+      "summary": "Sechs italienische Jugendliche starben im Januar beim Brand von Crans-Montana VS. Jetzt ist in Aarau AG erneut eine junge Italienerin tot. In Italien wird deshalb bereits die nächste Parallele gezogen",
+      "published": "2026-09-02T00:02:17.930975+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Streit um Transmenschen im Militär: Donald Trump zieht vor Supreme Court",
+      "url": "https://www.watson.ch/international/armee/521249916-streit-um-transmenschen-im-militaer-donald-trump-zieht-vor-supreme-court",
+      "summary": "",
+      "published": "2026-09-02T00:02:17.930975+00:00"
     }
   ]
 }
