@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T02:02:29.364753+00:00",
+  "generated": "2026-09-02T02:32:40.213869+00:00",
   "date": "2026-09-02",
-  "count": 55,
+  "count": 59,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -387,6 +387,34 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/hier-gehts-zum-messefuehrer-art-1719494",
       "summary": "",
       "published": "2026-09-02T02:02:29.364753+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schaffhausen ohne Rheinschifffahrt? Wie man das verhindern kann",
+      "url": "https://www.shn.ch/region/kanton/2026-09-02/schaffhausen-ohne-rheinschifffahrt-wie-man-das-verhindern-kann",
+      "summary": "Eduard Joos über die Zukunft der Schifffahrtsgesellschaft URh in Zeiten des Klimawandels.",
+      "published": "2026-09-02T02:32:40.213869+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schaffhauser Regierung lehnt neuen Straftatbestand für Cybermobbing ab",
+      "url": "https://www.shn.ch/region/kanton/2026-09-02/schaffhauser-regierung-lehnt-neuen-straftatbestand-fuer-cybermobbing-ab",
+      "summary": "Der Regierungsrat sieht keinen Bedarf für ein neues Strafgesetz gegen Mobbing und Cybermobbing. Nach seiner Einschätzung reichen die bestehenden straf- und zivilrechtlichen Mittel aus.",
+      "published": "2026-09-02T02:32:40.213869+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die SN am First Friday: Kommen Sie vorbei und lassen Sie sich von Pascal Coffez zeichnen",
+      "url": "https://www.shn.ch/region/stadt/2026-09-02/die-sn-am-first-friday-kommen-sie-vorbei-und-lassen-sie-sich-von-pascal",
+      "summary": "Am Freitag öffnen die SN wieder ihre Türen zum First Friday – dieses Mal mit komplett neuem Programm. Nehmen Sie eine Karikatur nach Hause, trinken Sie mit uns ein Gläschen Wein oder werfen einen exkl",
+      "published": "2026-09-02T02:32:40.213869+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Evp Amriswil Nominiert Christian Stricker für Stadtratswahl",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/evp-amriswil-nominiert-christian-stricker-fuer-stadtratswahl-ld.4219092",
+      "summary": "",
+      "published": "2026-09-02T02:32:40.213869+00:00"
     }
   ]
 }
