@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T23:02:16.446062+00:00",
+  "generated": "2026-09-02T23:32:24.782581+00:00",
   "date": "2026-09-03",
-  "count": 24,
+  "count": 26,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -170,6 +170,20 @@
       "url": "https://www.nzz.ch/international/daenemarks-geheimdienst-schlaegt-alarm-russland-soll-sabotage-und-brandstiftung-planen-ld.10022196",
       "summary": "",
       "published": "2026-09-02T23:02:16.446062+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ceuta: Tausende demonstrieren in Spanien gegen Pedro Sánchez",
+      "url": "https://www.watson.ch/international/migration/391432041-ceuta-tausende-demonstrieren-in-spanien-gegen-pedro-sanchez",
+      "summary": "",
+      "published": "2026-09-02T23:32:24.782581+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Dänemark: Russland plant Sabotageakte",
+      "url": "https://www.watson.ch/international/armee/560350458-daenemark-russland-plant-sabotageakte",
+      "summary": "",
+      "published": "2026-09-02T23:32:24.782581+00:00"
     }
   ]
 }
