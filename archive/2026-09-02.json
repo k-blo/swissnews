@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T05:02:34.168078+00:00",
+  "generated": "2026-09-02T05:32:21.466830+00:00",
   "date": "2026-09-02",
-  "count": 211,
+  "count": 225,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1479,6 +1479,104 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/twint-erweitert-die-app-um-eine-einkaufsliste-art-1719643",
       "summary": "",
       "published": "2026-09-02T05:02:34.168078+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Neues Strafverfahren – Tessiner Regierung fordert Rücktritt von Claudio Zali",
+      "url": "https://www.srf.ch/news/schweiz/neues-strafverfahren-tessiner-regierung-fordert-ruecktritt-von-claudio-zali",
+      "summary": "Gegen den Regierungsrat Claudio Zali gibt es ein neues Strafverfahren. Die Regierung fordert nun seinen Rücktritt.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Tourismus – Flusskreuzfahrten werden immer beliebter – auch bei Schweizern",
+      "url": "https://www.srf.ch/news/dialog/tourismus-flusskreuzfahrten-werden-immer-beliebter-auch-bei-schweizern",
+      "summary": "Flusskreuzfahrten erleben einen Boom. Reisen auf Rhein, Donau und Co. sind bei Schweizern immer beliebter.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Amtsgericht Thal-Gäu – Biber-Ärger endet für Gemeindepräsident vor Gericht",
+      "url": "https://www.srf.ch/news/schweiz/amtsgericht-thal-gaeu-biber-aerger-endet-fuer-gemeindepraesident-vor-gericht",
+      "summary": "Zig Mal hat ein Mitarbeiter im Auftrag einer Solothurner Gemeinde Biberbauten entfernt. Der Fall endete vor Gericht.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Noch kein Grund zur Panik – Steiler Anstieg bei Schusswaffen-Delikten – Expertin relativiert",
+      "url": "https://www.srf.ch/news/schweiz/noch-kein-grund-zur-panik-steiler-anstieg-bei-schusswaffen-delikten-expertin-relativiert",
+      "summary": "2025 gab es einen spürbaren Anstieg. Nach den Schüssen in Aarau Alarm zu schlagen, ist aber laut Expertin verfrüht.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jetzt wird deine Twint-App auch zum persönlichen Postizettel",
+      "url": "https://www.20min.ch/story/twint-update-ab-sofort-kannst-du-einkaufslisten-in-der-app-erstellen-103625613",
+      "summary": "Twint erweitert seine App mit einer neuen Funktion: Ab sofort kannst du Einkaufslisten erstellen, mit anderen teilen und gemeinsam bearbeiten.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wusste ich wirklich nicht»: Reporter überraschen YB-Matchwinner",
+      "url": "https://www.20min.ch/story/christian-fassnacht-wusste-ich-wirklich-nicht-reporter-ueberraschen-yb-matchwinner-103626058",
+      "summary": "Christian Fassnacht ist beim YB-Sieg in Zürich der Mann des Spiels. Dass sein dritter Treffer gegen den FCZ sein insgesamt 100. Super-League-Tor war, hatte er nicht auf der Rechnung.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wo «Dökterle» aufhört: Sie wurde als Neunjährige durch ein älteres Kind missbraucht: «Teils waren es zwei Übergriffe pro Woche»",
+      "url": "https://www.bernerzeitung.ch/sexueller-missbrauch-15-der-maedchen-opfer-von-uebergriffen-278082104450",
+      "summary": "Patricia B. wurde über Monate hinweg Opfer von Übergriffen. Sie ist kein Einzelfall: Minderjährige Täter und Opfer nehmen bei Sexualdelikten zu.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Eklat am US Open: «Das hätte mir nicht passieren dürfen» – Bencic entgeht Disqualifikation knapp und bricht ein",
+      "url": "https://www.bernerzeitung.ch/belinda-bencic-am-us-open-fast-disqualifiziert-und-gescheitert-942058590738",
+      "summary": "Belinda Bencic schiesst einen Ball ins Publikum, verliert danach den Faden und scheidet aus. Damit ist die Schweiz in der zweiten Runde nicht mehr vertreten – wie 2024.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Polizeilicher Grosseinsatz in Deutschland: Explosion am Hauptbahnhof in Augsburg",
+      "url": "https://www.bazonline.ch/explosion-am-hauptbahnhof-augsburg-polizei-im-grosseinsatz-827933320732",
+      "summary": "Am Augsburger Hauptbahnhof ist ein unbekannter Gegenstand explodiert. Die deutsche Polizei hat einen Grosseinsatz gestartet, Durchgänge sind gesperrt, der Bahnverkehr ist beeinträchtigt.",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Onboarding statt Monate nur noch Tage: Incore Bank testet KI-Agenten für KYC",
+      "url": "https://www.finews.ch/news/banken/73450-incore-bank-kyndryl-google-cloud-ki-kyc-onboarding",
+      "summary": "Incore Bank hat gemeinsam mit Kyndryl und Google Cloud den Einsatz agentenbasierter künstlicher Intelligenz im Know-Your-Customer-Prozess getestet. Die Ergebnisse des Proof of Concept sollen bemerkens",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein unbekannter Gegenstand ist am Bahnhof Augsburg explodiert – mehrere Personen wurden leicht verletzt",
+      "url": "https://www.nzz.ch/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017",
+      "summary": "",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Explosion am Bahnhof in Augsburg: Mehrere Verletzte",
+      "url": "https://www.watson.ch/international/oev/420218169-explosion-am-bahnhof-in-augsburg-mehrere-verletzte",
+      "summary": "",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eine neue Lösung für die kriselnde Swiss League zeichnet sich ab",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/136504934-eine-neue-loesung-fuer-die-kriselnde-swiss-league-zeichnet-sich-ab",
+      "summary": "",
+      "published": "2026-09-02T05:32:21.466830+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Am Bahnhof Augsburg hat sich eine Explosion ereignet – mehrere Verletzte",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/explosion-am-bahnhof-augsburg-d-mehrere-verletzte-art-1719644",
+      "summary": "",
+      "published": "2026-09-02T05:32:21.466830+00:00"
     }
   ]
 }
