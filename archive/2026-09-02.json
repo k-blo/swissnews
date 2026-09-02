@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T06:01:21.672156+00:00",
+  "generated": "2026-09-02T06:05:02.167093+00:00",
   "date": "2026-09-02",
-  "count": 244,
+  "count": 246,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1710,6 +1710,20 @@
       "url": "https://insideparadeplatz.ch/2026/09/02/armee-gibt-berater-27-mio-auftrag-ohne-ausschreibung/",
       "summary": "",
       "published": "2026-09-02T06:01:21.672156+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Experimentelle Zelltherapie: Novartis stoppt Studien nach mehreren Todesfällen",
+      "url": "https://www.tagesanzeiger.ch/novartis-drei-todesfaelle-stoppen-car-t-zelltherapie-studien-233008775745",
+      "summary": "Bei experimentellen Behandlungen von Autoimmunerkrankungen soll bei drei Personen eine seltene, bekannte Komplikation im Zusammenhang mit CAR-T-Zelltherapien aufgetreten sein.",
+      "published": "2026-09-02T06:05:02.167093+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Umstrittenes Sicherheitsgesetz: Hongkonger Demokratieaktivist Joshua Wong bekennt sich schuldig",
+      "url": "https://www.tagesanzeiger.ch/joshua-wong-bekennt-sich-schuldig-lebenslange-haft-droht-396320249968",
+      "summary": "Der Demokratieaktivist gesteht im zweiten Verfahren, mit ausländischen Kräften zusammengearbeitet zu haben. Der 29-Jährige verbüsst bereits eine Strafe von über vier Jahren.",
+      "published": "2026-09-02T06:05:02.167093+00:00"
     }
   ]
 }
