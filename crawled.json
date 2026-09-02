@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T20:45:32.373909+00:00",
+  "generated": "2026-09-02T21:02:18.251878+00:00",
   "date": "2026-09-02",
-  "count": 997,
+  "count": 999,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6981,6 +6981,20 @@
       "url": "https://www.bote.ch/nachrichten/sport/der-fc-luzern-empfaengt-aufsteiger-vaduz-ticker-art-1719787",
       "summary": "",
       "published": "2026-09-02T20:45:32.373909+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gegen Osnabrück: Bayern zieht nach Schrecksekunde auch ohne Musiala in die nächste Runde ein",
+      "url": "https://www.tagesanzeiger.ch/dfb-pokal-bayern-muenchen-siegt-4-1-gegen-osnabrueck-396310776713",
+      "summary": "Bayern München besiegt in der 1. Runde des DFB-Pokals Osnabrück 4:1. Es ist ein glanzloser Sieg des deutschen Rekordmeisters,",
+      "published": "2026-09-02T21:02:18.251878+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Warum Frühfranzösisch nicht hält, was es verspricht",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/warum-fruehfranzoesisch-nicht-haelt-was-es-verspricht-art-1719794",
+      "summary": "",
+      "published": "2026-09-02T21:02:18.251878+00:00"
     }
   ]
 }
