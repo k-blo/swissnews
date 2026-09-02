@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T22:32:37.175134+00:00",
+  "generated": "2026-09-02T22:49:15.189867+00:00",
   "date": "2026-09-03",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -156,6 +156,13 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/brunnen-holt-sich-im-spitzenspiel-drei-punkte-art-1719711",
       "summary": "",
       "published": "2026-09-02T22:32:37.175134+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tausende demonstrieren in Spanien",
+      "url": "https://www.zentralplus.ch/news/tausende-demonstrieren-in-spanien-2-2896080/",
+      "summary": "Zehntausende Menschen haben in Spanien an Kundgebungen teilgenommen und gegen die Migrationskrise in der spanischen Nordafrika-Exklave Ceuta protestiert. Sie werfen der spanischen Regierung vor, Ceuta",
+      "published": "2026-09-02T22:49:15.189867+00:00"
     }
   ]
 }
