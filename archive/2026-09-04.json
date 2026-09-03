@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T22:02:27.455439+00:00",
+  "generated": "2026-09-03T22:32:20.594574+00:00",
   "date": "2026-09-04",
-  "count": 3,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -23,6 +23,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/286761/gr%C3%BCnde-f%C3%BCr-einen-%C3%BCberhitzten-immobilienmarkt",
       "summary": "",
       "published": "2026-09-03T22:02:27.455439+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Für gute Laune geht Moderatorin Ramona Schelbert an ein Stoner-Rock-Konzert",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fuer-gute-laune-geht-moderatorin-ramona-schelbert-an-ein-stoner-rock-konzert-art-1719849",
+      "summary": "",
+      "published": "2026-09-03T22:32:20.594574+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "SP will Klarheit bei Beiträgen für die Kinderbetreuung schaffen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/sp-will-klarheit-bei-beitraegen-fuer-die-kinderbetreuung-schaffen-art-1719875",
+      "summary": "",
+      "published": "2026-09-03T22:32:20.594574+00:00"
     }
   ]
 }
