@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T21:32:33.737062+00:00",
+  "generated": "2026-09-03T21:55:44.768269+00:00",
   "date": "2026-09-03",
-  "count": 968,
+  "count": 970,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6778,6 +6778,20 @@
       "url": "https://www.bzbasel.ch/sport/fc-basel/fc-basel-verliert-gegen-sion-cisse-fliegt-vom-platz-ld.4227561",
       "summary": "",
       "published": "2026-09-03T21:32:33.737062+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "UN-Bericht zum Sudan: Söldner aus Kolumbien, Geld aus den Emiraten – wie der Krieg am Laufen bleibt",
+      "url": "https://www.tagesanzeiger.ch/sudan-un-bericht-belegt-auslaendische-kriegshilfe-fuer-rsf-397303873402",
+      "summary": "Von Drohnentechnik bis Kinderrekrutierung: UN-Ermittler legen offen, wie ein grenzüberschreitendes Netzwerk die paramilitärischen RSF im Sudan aufrüstet. Beide Kriegsparteien verweigerten die Kooperat",
+      "published": "2026-09-03T21:55:44.768269+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Trumps zweite Amtszeit: Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
+      "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court-ld.1856621",
+      "summary": "",
+      "published": "2026-09-03T21:55:44.768269+00:00"
     }
   ]
 }
