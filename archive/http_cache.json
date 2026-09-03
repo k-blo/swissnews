@@ -4,7 +4,7 @@
     "etag": "\"bbca0eac83091870cddd753d1722b336\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"185e1-0QbVYW7AdKJM/zRkxgflCs6jHtE\""
+    "etag": "W/\"185e1-rb+/3nKHmjQDutqNM+Z0Nlisr7U\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
     "etag": "W/\"bf9b-SQJM0vYZ/5jwwkH4jSRJkr14uH4\""
@@ -16,14 +16,14 @@
     "last_modified": "Thu, 03 Sep 2026 15:40:14 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Thu, 03 Sep 2026 15:53:58 GMT"
+    "last_modified": "Thu, 03 Sep 2026 16:02:23 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Thu, 03 Sep 2026 15:34:26 GMT",
     "etag": "\"1788449666\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Thu, 03 Sep 2026 15:53:15 GMT"
+    "last_modified": "Thu, 03 Sep 2026 15:58:16 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -44,22 +44,22 @@
     "etag": "\"1788450305\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
-    "etag": "W/\"2c463-bU1ttqeecD14nguKcXIaS1d1QEk\""
+    "etag": "W/\"2c430-jPXDrq7lANgQl740eyKxWKlouM0\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=14": {
     "last_modified": "Thu, 27 Aug 2026 04:16:40 GMT",
     "etag": "\"1787804200\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Thu, 03 Sep 2026 15:45:09 GMT",
-    "etag": "W/\"1788450309-gzip\""
+    "last_modified": "Thu, 03 Sep 2026 16:00:29 GMT",
+    "etag": "W/\"1788451229-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"201c4-erSgszrp4OkFmv/r8CzRPQNJZko\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Thu, 03 Sep 2026 15:49:00 GMT",
-    "etag": "\"1788450540\""
+    "last_modified": "Thu, 03 Sep 2026 16:01:01 GMT",
+    "etag": "\"1788451261\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Fri, 31 Jul 2026 14:09:59 GMT",
