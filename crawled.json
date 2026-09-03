@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T18:32:45.078081+00:00",
+  "generated": "2026-09-03T19:02:44.597312+00:00",
   "date": "2026-09-03",
-  "count": 930,
+  "count": 933,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6512,6 +6512,27 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/ber-terminal-1-nach-gefahrgut-alarm-teilweise-geraeumt-art-1719954",
       "summary": "",
       "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Open AI stellt das neue Modell «Astra» für künstliche Intelligenz vor und beansprucht damit die technologische Führung",
+      "url": "https://www.nzz.ch/wirtschaft/open-ai-stellt-das-neue-modell-astra-fuer-kuenstliche-intelligenz-vor-und-beansprucht-damit-die-technologische-fuehrung-ld.10022357",
+      "summary": "",
+      "published": "2026-09-03T19:02:44.597312+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Gefahrengut-Alarm in Berlin: Terminal 1 am BER teilweise geräumt",
+      "url": "https://www.watson.ch/international/luftfahrt/438333915-gefahrengut-alarm-in-berlin-terminal-1-am-ber-teilweise-geraeumt",
+      "summary": "",
+      "published": "2026-09-03T19:02:44.597312+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Premiere für Schulbegleithund: So bereichert Lucky den Kindergarten",
+      "url": "https://www.bote.ch/nachrichten/schwyz/premiere-fuer-schulbegleithund-so-bereichert-lucky-den-kindergarten-art-1719918",
+      "summary": "",
+      "published": "2026-09-03T19:02:44.597312+00:00"
     }
   ]
 }
