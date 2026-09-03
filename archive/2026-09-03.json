@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T23:32:24.782581+00:00",
+  "generated": "2026-09-03T00:02:37.366594+00:00",
   "date": "2026-09-03",
-  "count": 26,
+  "count": 32,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -184,6 +184,48 @@
       "url": "https://www.watson.ch/international/armee/560350458-daenemark-russland-plant-sabotageakte",
       "summary": "",
       "published": "2026-09-02T23:32:24.782581+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Deutscher Rüstungschef: «Mein Tod ist einkalkuliert»",
+      "url": "https://www.20min.ch/story/bedrohung-aus-russland-deutscher-ruestungschef-mein-tod-ist-einkalkuliert-103626730",
+      "summary": "Der «Donaustahl»-Chef Stefan Thumann lebt an geheimen Orten und wird rund um die Uhr bewacht. Grund sei ein mutmasslicher Mordplan des russischen Geheimdienstes.",
+      "published": "2026-09-03T00:02:37.366594+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "FL: Parlament für Fristenlösung",
+      "url": "https://www.zentralplus.ch/news/fl-parlament-fuer-fristenloesung-2896082/",
+      "summary": "Das Thema Schwangerschaftsabbrüche sorgt im Fürstentum Liechtenstein weiterhin für Uneinigkeit. Stand jetzt dürfen Frauen in Liechtenstein nur in wenigen Ausnahmefällen in ihrer Heimat abtreiben. Eine",
+      "published": "2026-09-03T00:02:37.366594+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mehr Robotaxis und Drohnen: Uber will sich für die Zukunft rüsten und entlässt zehn Prozent seiner globalen Belegschaft",
+      "url": "https://www.nzz.ch/technologie/mehr-robotaxis-und-drohnen-uber-will-sich-fuer-die-zukunft-ruesten-und-entlaesst-zehn-prozent-seiner-globalen-belegschaft-ld.10022194",
+      "summary": "",
+      "published": "2026-09-03T00:02:37.366594+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Royals: Donald Trump lästert über Harry und Meghan",
+      "url": "https://www.watson.ch/international/usa/692836973-royals-donald-trump-laestert-ueber-harry-und-meghan",
+      "summary": "",
+      "published": "2026-09-03T00:02:37.366594+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jazz-Sängerin Cassandra Wilson gestorben",
+      "url": "https://www.watson.ch/international/usa/659411297-jazz-saengerin-cassandra-wilson-gestorben",
+      "summary": "",
+      "published": "2026-09-03T00:02:37.366594+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "María Corina Machado kann nach Venezuela zurück",
+      "url": "https://www.watson.ch/international/usa/863745427-maria-corina-machado-kann-nach-venezuela-zurueck",
+      "summary": "",
+      "published": "2026-09-03T00:02:37.366594+00:00"
     }
   ]
 }
