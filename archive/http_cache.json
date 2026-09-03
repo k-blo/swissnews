@@ -1,13 +1,13 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Thu, 03 Sep 2026 19:58:41 GMT",
-    "etag": "\"5ada22acef64f0e7558e4662ee51f75f\""
+    "last_modified": "Thu, 03 Sep 2026 20:42:18 GMT",
+    "etag": "\"14c42ad53f318412fa6471eb0c462828\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"18582-KXMns0r6TSfU3x21vVb2SUhFe0A\""
+    "etag": "W/\"18582-xvuPgKinyDjCYrTgyr6K1Pwsh3Y\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"c1eb-sf7RLa6iWsOrHvBacD/vTiZBM7I\""
+    "etag": "W/\"c204-piO1SwXrYTh+cSIx4H5C7VvcAjs\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"d56f-C9YrGqG4qYsKZFhiVt2c6ZnBvi8\""
@@ -16,14 +16,14 @@
     "last_modified": "Thu, 03 Sep 2026 20:10:16 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Thu, 03 Sep 2026 20:01:57 GMT"
+    "last_modified": "Thu, 03 Sep 2026 20:44:14 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Thu, 03 Sep 2026 19:40:08 GMT",
     "etag": "\"1788464408\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Thu, 03 Sep 2026 20:28:36 GMT"
+    "last_modified": "Thu, 03 Sep 2026 20:43:37 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -33,15 +33,15 @@
     "etag": "W/\"d638-QTC9unNE0D6wO+qvwfLkWXxt9oY\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"cd3d-j0ObcwdYJejTe86R4pM0OIzDkgw\""
+    "etag": "W/\"cd4c-D+mhOgJG1fE7ZsOh3XATWMGr6Jw\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Thu, 03 Sep 2026 20:22:24 GMT",
-    "etag": "\"1788466944\""
+    "last_modified": "Thu, 03 Sep 2026 20:39:15 GMT",
+    "etag": "\"1788467955\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Thu, 03 Sep 2026 20:22:24 GMT",
-    "etag": "\"1788466944\""
+    "last_modified": "Thu, 03 Sep 2026 20:39:15 GMT",
+    "etag": "\"1788467955\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2c556-g3vObtDsikXkuJX8ZjuxvhlliKg\""
