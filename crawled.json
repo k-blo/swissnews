@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T06:32:52.561092+00:00",
+  "generated": "2026-09-03T06:40:27.549531+00:00",
   "date": "2026-09-03",
-  "count": 260,
+  "count": 264,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1822,6 +1822,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/287015/neuer-gemeinderat-in-r%C3%BCschegg",
       "summary": "",
       "published": "2026-09-03T06:32:52.561092+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Spurensuche im Jura: «Ich hätte mir nicht vorstellen können, dass dieser Typ Waffen besass»: Was wir zum Tatverdächtigen von Aarau wissen",
+      "url": "https://www.tagesanzeiger.ch/montsevelier-schuetze-von-aarau-lebte-im-kanton-jura-511092376518",
+      "summary": "Der mutmassliche Schütze vom Rave in Aarau hatte bis 2013 MIlitärdienst geleistet. Seine Nachbarn in Montsevelier beschreiben ihn als sehr zurückgezogen.",
+      "published": "2026-09-03T06:40:27.549531+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wohnen in Luzern ist laut UBS attraktiver als in Zug",
+      "url": "https://www.zentralplus.ch/news/wohnen-in-luzern-ist-laut-ubs-attraktiver-als-in-zug-2896097/",
+      "summary": "See, Stadtleben und offenbar ein ziemlich guter Alltag macht Luzern zu einem attraktiven Wohnort. Im UBS-Ranking zur Wohnattraktivität in der Zentralschweiz folgt Zug direkt dahinter. Wer in der Zentr",
+      "published": "2026-09-03T06:40:27.549531+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Moskau reagiert auf deutsche Sanktionen",
+      "url": "https://www.zentralplus.ch/news/moskau-reagiert-auf-deutsche-sanktionen-2896103/",
+      "summary": "Russland schliesst als Reaktion auf deutsche Strafmassnahmen im Zusammenhang mit dem Drohnenvorfall am Flughafen Leipzig/Halle Niederlassungen des Goethe‑Instituts. Es handle sich um eine Reaktion auf",
+      "published": "2026-09-03T06:40:27.549531+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Inflation in der Schweiz im August überraschend hoch",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/896161824-inflation-in-der-schweiz-im-august-ueberraschend-hoch",
+      "summary": "",
+      "published": "2026-09-03T06:40:27.549531+00:00"
     }
   ]
 }
