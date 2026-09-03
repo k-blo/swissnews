@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T22:32:20.594574+00:00",
+  "generated": "2026-09-03T23:03:21.202662+00:00",
   "date": "2026-09-04",
-  "count": 5,
+  "count": 7,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/sp-will-klarheit-bei-beitraegen-fuer-die-kinderbetreuung-schaffen-art-1719875",
       "summary": "",
       "published": "2026-09-03T22:32:20.594574+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "15-jährige E-Bikerin bei Kollision mit Lieferwagen verletzt",
+      "url": "https://www.20min.ch/story/unfall-in-altikon-zh-15-jaehrige-e-bikerin-bei-kollision-mit-lieferwagen-verletzt-103627281",
+      "summary": "In Altikon ZH ist am Donnerstag eine 15-jährige E-Bikerin bei einem Unfall mittelschwer verletzt worden. Sie musste mit einem Rettungshelikopter ins Spital geflogen werden.",
+      "published": "2026-09-03T23:03:21.202662+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall in Altikon: 15-jährige E-Bikerin bei Kollision mit Lieferwagen verletzt",
+      "url": "https://www.tagesanzeiger.ch/altikon-15-jaehrige-nach-e-bike-unfall-mit-helikopter-ins-spital-958574174315",
+      "summary": "In Altikon ZH ist am Donnerstag eine 15-jährige E-Bikerin bei einem Unfall mittelschwer verletzt worden. Sie musste mit einem Rettungshelikopter ins Spital geflogen werden.",
+      "published": "2026-09-03T23:03:21.202662+00:00"
     }
   ]
 }
