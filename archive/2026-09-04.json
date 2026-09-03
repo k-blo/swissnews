@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T23:07:45.897702+00:00",
+  "generated": "2026-09-03T23:32:27.513333+00:00",
   "date": "2026-09-04",
-  "count": 7,
+  "count": 10,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -51,6 +51,27 @@
       "url": "https://www.tagesanzeiger.ch/altikon-15-jaehrige-nach-e-bike-unfall-mit-helikopter-ins-spital-958574174315",
       "summary": "In Altikon ZH ist am Donnerstag eine 15-jährige E-Bikerin bei einem Unfall mittelschwer verletzt worden. Sie musste mit einem Rettungshelikopter ins Spital geflogen werden.",
       "published": "2026-09-03T23:03:21.202662+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bethanien schliesst Geburtsabteilung",
+      "url": "https://www.zentralplus.ch/news/bethanien-schliesst-geburtsabteilung-2896398/",
+      "summary": "Die Zürcher Privatklinik Bethanien schliesst ihre stationäre Geburtsabteilung per Ende Jahr. Als Grund nennt sie die gesunkenen Geburtszahlen. So rechnet die Klinik in diesem Jahr mit nur 260 Geburten",
+      "published": "2026-09-03T23:32:27.513333+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Swiss-Notlandung in Kanada",
+      "url": "https://www.zentralplus.ch/news/swiss-notlandung-in-kanada-2896399/",
+      "summary": "Ein Swiss-Flug musste auf dem Weg von Zürich nach New York in Kanada notlanden. Grund war ein medizinischer Zwischenfall. Der betroffene Passagier sei in St. John’s in ärztliche Obhut übergeben worden",
+      "published": "2026-09-03T23:32:27.513333+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nvidia baut sein KI-Imperium aus und übernimmt die Plattform Hugging Face für knapp 13 Milliarden Dollar",
+      "url": "https://www.nzz.ch/wissenschaft/nvidia-baut-sein-ki-imperium-aus-und-uebernimmt-die-plattform-hugging-face-fuer-knapp-13-milliarden-dollar-ld.10022361",
+      "summary": "",
+      "published": "2026-09-03T23:32:27.513333+00:00"
     }
   ]
 }
