@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T01:02:27.771007+00:00",
+  "generated": "2026-09-03T01:32:19.307234+00:00",
   "date": "2026-09-03",
-  "count": 40,
+  "count": 44,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -282,6 +282,34 @@
       "url": "https://www.watson.ch/international/deutschland/927576276-deutschland-jaeger-erschiesste-anderen-jaeger-im-westerwald",
       "summary": "",
       "published": "2026-09-03T00:32:34.283729+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Nachts im Maisfeld: Jäger erschiesst Kollegen auf Hochsitz",
+      "url": "https://www.blick.ch/ausland/nachts-im-maisfeld-jaeger-erschiesst-kollegen-auf-hochsitz-id22229849.html",
+      "summary": "Jäger erschiesst offenbar Jäger: Ein 50-Jähriger wird nachts auf einem Hochsitz im Westerwald von einer Kugel getroffen und stirbt. Gegen einen 58-jährigen Jagdpächter wird wegen fahrlässiger Tötung e",
+      "published": "2026-09-03T01:32:19.307234+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Jazz-Sängerin Wilson gestorben",
+      "url": "https://www.zentralplus.ch/news/jazz-saengerin-wilson-gestorben-2896085/",
+      "summary": "Die Jazz-Sängerin Cassandra Wilson ist laut US-Medien im Alter von 70 Jahren gestorben. Sie berufen sich auf die Behörden im Bundesstaat Mississippi. Wilson wurde zweimal mit einem Grammy ausgezeichne",
+      "published": "2026-09-03T01:32:19.307234+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Italien prüft Infos zu Verdächtigem",
+      "url": "https://www.zentralplus.ch/news/italien-prueft-infos-zu-verdaechtigem-2896084/",
+      "summary": "Derzeit prüft Italien, ob ein Tatverdächtiger im Fall der Sprengstoffdrohne von Leipzig mit einem italienischen Touristenvisum in die EU eingereist ist. Das berichten mehrere deutsche Zeitungen. Unter",
+      "published": "2026-09-03T01:32:19.307234+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mindestens zwei Tote bei Schiesserei in Minneapolis (USA)",
+      "url": "https://www.watson.ch/international/usa/439617629-mindestens-zwei-tote-bei-schiesserei-in-minneapolis-usa",
+      "summary": "",
+      "published": "2026-09-03T01:32:19.307234+00:00"
     }
   ]
 }
