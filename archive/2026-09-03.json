@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T18:03:07.277067+00:00",
+  "generated": "2026-09-03T18:32:45.078081+00:00",
   "date": "2026-09-03",
-  "count": 919,
+  "count": 930,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6435,6 +6435,83 @@
       "url": "https://www.watson.ch/sport/liveticker/881229640-super-league-fc-basel-gegen-fc-sion-live-im-ticker",
       "summary": "",
       "published": "2026-09-03T18:03:07.277067+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Swiss-Flug nach New York sendet Notfallcode über dem Atlantik",
+      "url": "https://www.20min.ch/story/lx14-swiss-flug-nach-new-york-sendet-notfallcode-ueber-dem-atlantik-103627135",
+      "summary": "Der Flug, der eigentlich am späten Donnerstagabend in den USA landen sollte, wurde auf die kanadische Insel Neufundland umgeleitet und ist dort bereits gelandet. Die Hintergründe sind noch unklar.",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Syrien beginnt mit Vernichtung von Assads Chemiewaffen",
+      "url": "https://www.20min.ch/story/auch-uran-gefunden-syrien-beginnt-mit-vernichtung-von-assads-chemiewaffen-103627130",
+      "summary": "Die neue Regierung in Syrien hat mit der Vernichtung der Chemiewaffen aus der Assad-Ära begonnen. Dies erklärte der syrische UN-Gesandte. Eine unabhängige Organisation bestätigte es.",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Der grosse Regenwald-Report, Teil 1: Forscherlegende Carlos Nobre sagt: «Der Amazonas stirbt.» Sein Tod würde das Weltklima verändern",
+      "url": "https://www.tagesanzeiger.ch/amazonas-stirbt-der-regenwald-kippt-das-klima-der-welt-634188334075",
+      "summary": "Der Mann spricht vom Regenwald wie von einem Freund. Uns erklärt der 75-Jährige, wie «fliegende Flüsse» weit weg für Regen und Reichtum sorgen. Und warum der Wald auf seinen Kipppunkt zusteuert.",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Comeback fünf Monate nach Geburt: Judoka Clarisse Agbégnénou gewinnt Bronze – und stillt zwischen den Kämpfen ihr Baby",
+      "url": "https://www.tagesanzeiger.ch/judo-agbegnenou-gewinnt-bronze-fuenf-monate-nach-geburt-294158971069",
+      "summary": "Die mehrfache Olympiasiegerin und Weltmeisterin holte am Grand Slam von Lausanne die Bronzemedaille – nur fünf Monate nach der Geburt ihres zweiten Kindes.",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Der grosse Regenwald-Report, Teil 2: Luciana Gatti weint um den Regenwald. Doch ein Forscherkollege sagt: «Wir können den Amazonas retten»",
+      "url": "https://www.tagesanzeiger.ch/amazonas-tod-oder-rettung-der-grosse-regenwald-report-196860920554",
+      "summary": "Sie rast im Sturzflug auf Baumkronen zu, fürchtet Mordanschläge. Doch Gattis Arbeit, eine Sensation in der Klimaforschung, bleibt folgenlos. Ist alles zu spät für den Wald der Welt? Nein!, sagt Paulo ",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bundesverwaltungsgericht wehrt sich",
+      "url": "https://www.zentralplus.ch/news/bundesverwaltungsgericht-wehrt-sich-2896386/",
+      "summary": "Das Bundesverwaltungsgericht weist den Vorwurf zurück, organisatorische oder administrative Mängel seien für die langen Asylverfahren verantwortlich. Wesentlicher Grund für die Verzögerungen sei der m",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Video Umfrage am Solothurner Chästag 2026 So Erleben die Besuchenden den Anlass",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/video-umfrage-am-solothurner-chaestag-2026-so-erleben-die-besuchenden-den-anlass-ld.4227109",
+      "summary": "",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Valérie Dittli gerät wegen Parteispende von Winzer Stäubli unter",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/491691642-valerie-dittli-geraet-wegen-parteispende-von-winzer-staeubli-unter",
+      "summary": "",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Migros verkauft die Trompe-l'œil-Frucht-Desserts von Atelier Illusion",
+      "url": "https://www.watson.ch/leben/food/709404687-migros-verkauft-die-trompe-l-oeil-frucht-desserts-von-atelier-illusion",
+      "summary": "",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI-Datenzentren werden zur Kampfzone bei den US-Midterms",
+      "url": "https://www.watson.ch/digital/international/671689859-ki-datenzentren-werden-zur-kampfzone-bei-den-us-midterms",
+      "summary": "",
+      "published": "2026-09-03T18:32:45.078081+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gefahrengut-Alarm: Terminal am Berliner Flughafen teilweise geräumt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/ber-terminal-1-nach-gefahrgut-alarm-teilweise-geraeumt-art-1719954",
+      "summary": "",
+      "published": "2026-09-03T18:32:45.078081+00:00"
     }
   ]
 }
