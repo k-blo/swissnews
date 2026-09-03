@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T01:43:13.803258+00:00",
+  "generated": "2026-09-03T01:55:27.246470+00:00",
   "date": "2026-09-03",
-  "count": 44,
+  "count": 45,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -310,6 +310,13 @@
       "url": "https://www.watson.ch/international/usa/439617629-mindestens-zwei-tote-bei-schiesserei-in-minneapolis-usa",
       "summary": "",
       "published": "2026-09-03T01:32:19.307234+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Habe lange auf einen Mann gewartet, der mehr Eier hat als ich»",
+      "url": "https://www.20min.ch/story/salma-hayek-wird-60-habe-lange-auf-einen-mann-gewartet-der-mehr-eier-hat-als-ich-103626739",
+      "summary": "Salma Hayek feierte gerade ihren 60. Geburtstag. Die Schauspielerin blickt auf eine erfolgreiche Karriere, eine prominente Ehe und schwierige Erfahrungen in Hollywood zurück.",
+      "published": "2026-09-03T01:55:27.246470+00:00"
     }
   ]
 }
