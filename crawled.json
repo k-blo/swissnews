@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T00:05:07.527866+00:00",
+  "generated": "2026-09-04T00:32:48.701330+00:00",
   "date": "2026-09-04",
-  "count": 10,
+  "count": 20,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -72,6 +72,76 @@
       "url": "https://www.nzz.ch/wissenschaft/nvidia-baut-sein-ki-imperium-aus-und-uebernimmt-die-plattform-hugging-face-fuer-knapp-13-milliarden-dollar-ld.10022361",
       "summary": "",
       "published": "2026-09-03T23:32:27.513333+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Schafwolle statt Plastikplanen: Jetzt sollen Schafe die Schweizer Gletscher retten",
+      "url": "https://www.blick.ch/schweiz/schafwolle-statt-plastikplanen-jetzt-sollen-schafe-die-schweizer-gletscher-retten-id22232550.html",
+      "summary": "Schweizer Forscher setzen auf eine ungewöhnliche Waffe gegen die Gletscherschmelze: Schafwolle. Erste Tests zeigen, dass das Naturmaterial das Eis ähnlich gut schützen könnte wie Plastikplanen – und d",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fifa wirft Uefa «Verleumdungskampagne» vor",
+      "url": "https://www.20min.ch/story/machtkampf-der-verbaende-fifa-wirft-uefa-verleumdungskampagne-vor-103627286",
+      "summary": "Die Uefa plant, juristisch gegen Fifa-Präsident Gianni Infantino vorzugehen. Nun kontert der Fussball-Weltverband die Attacke der Europäer.",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Machtkampf der Fussball-Verbände: Fifa wirft Uefa «Verleumdungskampagne» vor",
+      "url": "https://www.tagesanzeiger.ch/fifa-wirft-uefa-verleumdungskampagne-vor-644833296952",
+      "summary": "Die Uefa plant, juristisch gegen Fifa-Präsident Gianni Infantino vorzugehen. Nun kontert der Fussball-Weltverband die Attacke der Europäer.",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump erneut vor Supreme Court",
+      "url": "https://www.zentralplus.ch/news/trump-erneut-vor-supreme-court-2896402/",
+      "summary": "US-Präsident Donald Trump zieht im Rechtsstreit um verschärfte Regeln bei der Briefwahl erneut vor den Supreme Court. Es geht um den Entscheid einer Bundesrichterin, die Trumps Pläne, die Briefwahl ei",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Mike Müller X Amok",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/mike-mueller-x-amok",
+      "summary": "",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Schweiz ist eines der Weltweit Durchlässigsten Länder Iwp Studie Liefert die Zahlen",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/die-schweiz-ist-eines-der-weltweit-durchlaessigsten-laender-iwp-studie-liefert-die-zahlen",
+      "summary": "",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Noch Nie Hat es auf der Erde So Wenig Gebrannt wie Dieses Jahr",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/noch-nie-hat-es-auf-der-erde-so-wenig-gebrannt-wie-dieses-jahr",
+      "summary": "",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Dublin Abkommen Funktioniert Nicht Vertragsverletzungen Werden Belohnt",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/dublin-abkommen-funktioniert-nicht-vertragsverletzungen-werden-belohnt",
+      "summary": "",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Replik auf Lino Guzzella Energie Sichern Statt Milliarden Verbrennen",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/replik-auf-lino-guzzella-energie-sichern-statt-milliarden-verbrennen",
+      "summary": "",
+      "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Deutschland Erklärt Russland den Krieg Unsinn aber Gewissermassen",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/deutschland-erklaert-russland-den-krieg-unsinn-aber-gewissermassen",
+      "summary": "",
+      "published": "2026-09-04T00:32:48.701330+00:00"
     }
   ]
 }
