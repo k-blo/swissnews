@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T10:54:28.423047+00:00",
+  "generated": "2026-09-04T11:01:44.994742+00:00",
   "date": "2026-09-04",
-  "count": 550,
+  "count": 555,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3852,6 +3852,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/fifa-konflikt-mit-uefa-spitzt-sich-vor-gerichten-zu-art-1720060",
       "summary": "",
       "published": "2026-09-04T10:54:28.423047+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Podcast «Politbüro»: «Rösti kann den Thermostat nicht einfach runterdrehen»: Warum Bundesräte bei Kritik zur Lieblingszielscheibe werden",
+      "url": "https://www.tagesanzeiger.ch/politbuero-personalisierung-von-keller-sutter-bis-roesti-915581594314",
+      "summary": "Bei Karin Keller-Sutter ist es derzeit die Bankenregulierung, bei Albert Rösti immer noch die Hitze. Komplexe Themen werden gern mit einer Person verknüpft. Lässt sich komplexe Politik nur so erzählen",
+      "published": "2026-09-04T11:01:44.994742+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gasthof in Küsnacht: Gemeinderat zieht Krone-Forch-Entscheid ans Bundesgericht",
+      "url": "https://www.tagesanzeiger.ch/kuesnacht-gemeinderat-zieht-krone-forch-entscheid-ans-bundesgericht-969831236548",
+      "summary": "Der Gemeinderat akzeptiert den Entscheid des Verwaltungsgerichts zur Sanierung des Gasthofs nicht. Nun muss das Bundesgericht klären, ob die Liegenschaft zum Finanz- oder Verwaltungsvermögen gehört.",
+      "published": "2026-09-04T11:01:44.994742+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Krogerus & Tschäppeler erklären: Warum man Fake News mit Richtigstellungen nicht ungeschehen machen kann",
+      "url": "https://www.tagesanzeiger.ch/belief-echoes-warum-richtigstellungen-kaum-wirken-604798604065",
+      "summary": "Ein Experiment zeigt: Eine Korrektur macht die Falschmeldung nicht wett. Unsere Kolumnisten wissen, was man aus dieser Erkenntnis lernen kann.",
+      "published": "2026-09-04T11:01:44.994742+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ostschweizer Initiativen für Autobahnausbau Ständeratskommission Stimmt zu",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/ostschweizer-initiativen-fuer-autobahnausbau-staenderatskommission-stimmt-zu-ld.4228035",
+      "summary": "",
+      "published": "2026-09-04T11:01:44.994742+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fall Claudio Zali: Ertrunkene Frau wies hohen Alkoholspiegel auf",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/318467566-fall-claudio-zali-ertrunkene-frau-wies-hohen-alkoholspiegel-auf",
+      "summary": "",
+      "published": "2026-09-04T11:01:44.994742+00:00"
     }
   ]
 }
