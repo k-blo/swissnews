@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T01:32:17.523942+00:00",
+  "generated": "2026-09-04T02:02:23.384084+00:00",
   "date": "2026-09-04",
-  "count": 21,
+  "count": 29,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -149,6 +149,62 @@
       "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/zum-95-geburtstag-ld.4226417",
       "summary": "",
       "published": "2026-09-04T01:02:36.614114+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Umspannwerk in Dormagen: Polizei spricht von Sabotage",
+      "url": "https://www.20min.ch/story/anschlag-auf-kraftwerk-umspannwerk-in-dormagen-polizei-spricht-von-sabotage-103627289",
+      "summary": "Nach den Attacken auf Umspannwerke in Nordrhein-Westfalen und Brandenburg liegt der Polizei ein Bekennerschreiben vor. Noch ist unklar, ob auch weitere Regionen betroffen sein könnten.",
+      "published": "2026-09-04T02:02:23.384084+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Anschlag auf Kraftwerk: Umspannwerk in Dormagen: Polizei spricht von Sabotage",
+      "url": "https://www.tagesanzeiger.ch/sabotage-an-umspannwerk-polizei-koeln-hat-bekennerschreiben-117436176006",
+      "summary": "Nach den Attacken auf Umspannwerke in Nordrhein-Westfalen und Brandenburg liegt der Polizei ein Bekennerschreiben vor. Noch ist unklar, ob auch weitere Regionen betroffen sein könnten.",
+      "published": "2026-09-04T02:02:23.384084+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auto Inderbitzin AG",
+      "url": "https://www.bote.ch/nachrichten/sponsored/auto-inderbitzin-ag-art-1719705",
+      "summary": "",
+      "published": "2026-09-04T02:02:23.384084+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wolf macht Wanderern zu schaffen: Routen wegen Herdenschutzhunden gesperrt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wolf-macht-wanderern-zu-schaffen-routen-wegen-herdenschutzhunden-gesperrt-art-1719894",
+      "summary": "",
+      "published": "2026-09-04T02:02:23.384084+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sozialrundgang durch Schwyz",
+      "url": "https://www.bote.ch/nachrichten/vereine/sozialrundgang-durch-schwyz-art-1719906",
+      "summary": "",
+      "published": "2026-09-04T02:02:23.384084+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyz von vier Hitzewellen überrollt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyz-von-vier-hitzewellen-ueberrollt-art-1719858",
+      "summary": "",
+      "published": "2026-09-04T02:02:23.384084+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Regierungsrat Michael Stähli zu Besuch",
+      "url": "https://www.bote.ch/nachrichten/schwyz/regierungsrat-michael-staehli-zu-besuch-art-1719924",
+      "summary": "",
+      "published": "2026-09-04T02:02:23.384084+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Cybermobbing: Regierung sagt Nein zu neuem Straftatbestand",
+      "url": "https://www.bote.ch/nachrichten/schwyz/cybermobbing-regierung-sagt-nein-zu-neuem-straftatbestand-art-1719878",
+      "summary": "",
+      "published": "2026-09-04T02:02:23.384084+00:00"
     }
   ]
 }
