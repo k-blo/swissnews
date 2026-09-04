@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T18:32:48.886023+00:00",
+  "generated": "2026-09-04T19:02:47.204300+00:00",
   "date": "2026-09-04",
-  "count": 949,
+  "count": 960,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6645,6 +6645,83 @@
       "url": "https://www.watson.ch/schweiz/sport/835550989-200-millionen-franken-kredit-fuer-schweizer-olympia-nimmt-erste-huerde",
       "summary": "",
       "published": "2026-09-04T18:32:48.886023+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Von wegen Geld zurück: Betrüger zocken Touris mit Whatsapp-Trick ab",
+      "url": "https://www.blick.ch/schweiz/von-wegen-geld-zurueck-betrueger-zocken-touris-mit-whatsapp-trick-ab-id22234533.html",
+      "summary": "Ferien gebucht, Hotel bezahlt und plötzlich gibts vom Hotel Geld zurück. Zu schön, um wahr zu sein? In der Tat. Betrügerbanden finden immer neue Wege, um Leute um ihr Geld zu bringen.",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tessiner Politaffäre: Schlüsselfigur in Zali-Affäre ertrank unter Einfluss von Alkohol und Medikamenten",
+      "url": "https://www.tagesanzeiger.ch/luganersee-tote-52-jaehrige-hatte-alkohol-und-beruhigungsmittel-270559482803",
+      "summary": "Die Rechtsmedizin findet eine «sehr hohe Blut­alkohol­konzen­tration» und Beruhigungs­mittel – aber keine Spuren von Gewalt. Die Ermittlungen laufen weiter.",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Diamond League in Brüssel: Ehammer wird Dritter",
+      "url": "https://www.nzz.ch/sport/diamond-league-in-bruessel-ehammer-wird-dritter-ld.10022542",
+      "summary": "",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Nach elf Jahren Kampf haben wir es geschafft»: Warum in Büsingen die Korken knallen",
+      "url": "https://www.shn.ch/region/grenzregion/2026-09-04/nach-elf-jahren-kampf-haben-wir-es-geschafft-warum-in-buesingen-die",
+      "summary": "Nicht nur die Erhöhung des Steuerfreibetrags, auch der Grundsatzbeschluss zur Erweiterung des Staatsvertrags ist bei der Gemeinderatssitzung in Büsingen Grund zum Jubeln.",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Warum in Marthalen ein gelber Blickfang für das «Gewerbe-Schaufenster» erwünscht ist",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-04/warum-in-marthalen-ein-gelber-blickfang-fuer-das-gewerbe",
+      "summary": "Am Donnerstagabend hat das OK der Gewerbeausstellung vom 10. bis 12. September 2027 im Rahmen von «Wo Macher sich zeigen» in Marthalen die potenziellen Aussteller über den Grossanlass informiert.",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Ev Zug Gewinnt das Testspiel in Ingolstadt nach Verlängerung",
+      "url": "https://www.zugerzeitung.ch/sport/evz/ev-zug-gewinnt-das-testspiel-in-ingolstadt-nach-verlaengerung-ld.4224728",
+      "summary": "",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lake Ontario: Uralt-Kartenapp MapQuest auf Platz 1 bei US-Downloads",
+      "url": "https://www.watson.ch/international/apple/806852505-lake-ontario-uralt-kartenapp-mapquest-auf-platz-1-bei-us-downloads",
+      "summary": "",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wenn Etiketten zur Sackgasse werden",
+      "url": "https://www.freiburger-nachrichten.ch/story/285298/wenn-etiketten-zur-sackgasse-werden",
+      "summary": "",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Prozess gegen Mutter nach Tötung dreier Kinder in den USA gescheitert",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/lindsay-clancy-prozess-nach-toetung-dreier-kinder-gescheitert-art-1720164",
+      "summary": "",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Riva meldet sich mit einem Tor zurück – Rohrer schiesst den EV Zug zum Sieg",
+      "url": "https://www.bote.ch/nachrichten/sport/ev-zug-gewinnt-das-testspiel-in-ingolstadt-nach-verlaengerung-art-1720162",
+      "summary": "",
+      "published": "2026-09-04T19:02:47.204300+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Basler Zeitung Unten Wird Gestöhnt Oben Gebrüllt",
+      "url": "https://insideparadeplatz.ch/2026/09/04/basler-zeitung-unten-wird-gestoehnt-oben-gebruellt/",
+      "summary": "",
+      "published": "2026-09-04T19:02:47.204300+00:00"
     }
   ]
 }
