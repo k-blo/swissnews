@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T08:02:42.238217+00:00",
+  "generated": "2026-09-04T08:32:38.682006+00:00",
   "date": "2026-09-04",
-  "count": 329,
+  "count": 357,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2305,6 +2305,202 @@
       "url": "https://www.infosperber.ch/gesundheit/dr-kurios-vier-kleine-wunden-und-eine-bleibende-behinderung/",
       "summary": "",
       "published": "2026-09-04T08:02:42.238217+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Gewalt im öffentlichen Verkehr – «Geschlagen und bespuckt»: Zwei Zugbegleitende erzählen",
+      "url": "https://www.srf.ch/news/schweiz/gewalt-im-oeffentlichen-verkehr-geschlagen-und-bespuckt-zwei-zugbegleitende-erzaehlen",
+      "summary": "Zugbegleiterinnen und Zugbegleiter sind immer wieder Gewalt von Passagieren ausgesetzt. Nun fordern sie mehr Respekt.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Hausdurchsuchung bei Ex-Grossrat: Neue Datenträger belasten Patrick F. noch mehr",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/hausdurchsuchung-bei-ex-grossrat-neue-datentraeger-belasten-patrick-f-noch-mehr-id22229122.html",
+      "summary": "Eine Hausdurchsuchung beim Aargauer Ex-SVP-Grossrat Patrick F. bringt neue Beweise ans Licht. Die Behörden konnten weitere Datenträger sicherstellen, die den Beschuldigten noch weiter belasten. Eine n",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Polizei findet weitere Datenträger bei Ex-SVP-Grossrat",
+      "url": "https://www.20min.ch/story/aargau-polizei-findet-weitere-datentraeger-bei-ex-svp-grossrat-103627410",
+      "summary": "Ermittler haben beim Ex-SVP-Grossrat weitere Datenträger gefunden. Eine erste Sichtung zeigt Bezüge zu angeklagten Taten, aber keine neuen Opfer.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "3-Sterne-Koch Sven Wassmer verlässt das Grand Hotel Bad Ragaz",
+      "url": "https://www.20min.ch/story/sven-wassmer-verlaesst-das-grand-resort-bad-ragaz-ende-februar-2027-103627402",
+      "summary": "Nach acht Jahren ist Schluss: Spitzenkoch Sven Wassmer verlässt sein Drei-Sterne-Restaurant «Memories» im Grand Resort Bad Ragaz Ende Februar 2027.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Erin (32) wollte heim zu ihrem Baby – dann wurde sie erstochen",
+      "url": "https://www.20min.ch/story/erin-piacenti-mutter-erstochen-am-times-square-am-ersten-tag-zurueck-im-job-103627338",
+      "summary": "Am Times Square wollte Erin Piacenti (32) nur nach Hause. Doch an ihrem ersten Arbeitstag nach dem Mutterschaftsurlaub wurde die Bankmanagerin und Mutter eines fünf Monate alten Babys erstochen.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "2 Arbeiter nach 9 Tagen aus verschüttetem Tunnel gerettet",
+      "url": "https://www.20min.ch/video/nepal-2-arbeiter-nach-9-tagen-aus-verschuettetem-tunnel-gerettet-103627357",
+      "summary": "Mehr als eine Woche nach der Sturzflut in Nepal retteten Einsatzkräfte heute zwei Arbeiter aus einem verschütteten Tunnel des Wasserkraftwerks Trishuli 3A. Weiterhin werden Hunderte Arbeiter von Wasse",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Amelia Dimoldenberg stellt Kultshow «Chicken Shop Date» ein",
+      "url": "https://www.20min.ch/story/chicken-shop-date-endet-amelia-dimoldenberg-beendet-ihre-kult-serie-103627359",
+      "summary": "Eine letzte Staffel, dann ist Schluss: Die kultigen Promi-Interviews von «Chicken Shop Date» enden nach zwölf Jahren. Stars wie Jennifer Lawrence und Paul McCartney waren bei Moderatorin Amelia Dimold",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fall Untersiggenthal: Weitere Datenträger entdeckt – noch ein Strafverfahren gegen Aargauer Ex-Grossrat",
+      "url": "https://www.tagesanzeiger.ch/untersiggenthal-neue-datentraeger-nach-hausdurchsuchung-574312087202",
+      "summary": "Der ehemalige SVP-Politiker aus dem Raum Baden hat offenbar noch mehr Delikte begangen. Die Aargauer Staatsanwaltschaft hat zusätzliches Material gefunden.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Künstliche Intelligenz: «Das weltweit intelligenteste Modell»: OpenAI stellt GPT-6 Astra vor",
+      "url": "https://www.tagesanzeiger.ch/openai-gpt-6-astra-neues-ai-modell-fuer-alltag-930661121948",
+      "summary": "Das neue KI-Modell soll komplexe Alltagsaufgaben selbstständig erledigen können. OpenAI-Präsident Greg Brockman hält es für einen Meilenstein auf dem Weg zur Allgemeinen Künstlichen Intelligenz.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bezirksgericht Zürich: Prozess gegen «Junge Tat»: Antifa marschiert vor dem Gericht auf",
+      "url": "https://www.tagesanzeiger.ch/prozess-junge-tat-antifa-demonstriert-vor-bezirksgericht-zuerich-914269395607",
+      "summary": "Die Verhandlung gegen sechs Neonazis sorgt am Freitag für Wirbel. Rund zweihundert Personen skandierten vor dem Gericht «Nazis raus!».",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Angriffe auf deutsches Energienetz: Erneut Sabotage am Stromnetz – Polizei prüft Bekennerbrief",
+      "url": "https://www.tagesanzeiger.ch/stromnetz-sabotage-polizei-fahndet-nach-mann-aus-gevelsberg-911919949391",
+      "summary": "Am Umspannwerk Dormagen lagen Abschussvorrichtungen mit Zeitschaltuhren bereit – offenbar baugleich mit jenen, die in Bergheim Kraftwerksblöcke lahmlegten. Inzwischen durchsucht die Polizei weitere St",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Forensiker im Interview: «Dass der Schütze von Aarau sich selbst stellte, spricht gegen eine schwere dissoziale Persönlichkeits­störung»",
+      "url": "https://www.bernerzeitung.ch/attentat-von-aarau-forensikexperte-erklaert-die-taeterpsyche-226371629030",
+      "summary": "Ein kleiner Teil psychisch schwer belasteter Menschen falle heute durch die Maschen. Psychiater Marc Graf warnt: Die Gesellschaft schaue zu oft weg – bis eine Situation eskaliert.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vorstoss fordert Verbot: Kamerabrillen in Badis: «Bern soll nicht warten, bis der erste Missbrauchsfall publik wird»",
+      "url": "https://www.bernerzeitung.ch/kamerabrillen-bern-will-verbot-in-staedtischen-baedern-764934475252",
+      "summary": "Mit Smart Glasses können etwa in Garderoben unbemerkt Videos aufgenommen werden. Drei Stadtratsmitglieder fordern nun ein Verbot in städtischen Bädern – mit breiter Unterstützung im Parlament.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Spiess-Hegglin vs. Ringier geht ans Bundesgericht",
+      "url": "https://www.zentralplus.ch/news/spiess-hegglin-vs-ringier-geht-ans-bundesgericht-2896454/",
+      "summary": "Der Rechtsstreit um die Gewinnherausgabe hat bereits das Zuger Kantonsgericht und Obergericht durchlaufen. Ringier reicht nun eine Beschwerde beim Bundesgericht ein. Es geht um hunderttausende Franken",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Im Fall Bondo wird die Gemeindepräsidentin Anna Giacometti freigesprochen – das ist richtig",
+      "url": "https://www.nzz.ch/meinung/im-fall-bondo-wird-die-gemeindepraesidentin-anna-giacometti-freigesprochen-das-ist-richtig-ld.10022264",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Emotionen sind wirksamer als Fakten",
+      "url": "https://www.persoenlich.com/prcorporate-communication/emotionen-sind-wirksamer-als-fakten",
+      "summary": "Eine Studie der Universität Genf zeigt: Während das Hervorheben finanzieller Folgen wirkt, läuft eine andere Strategie komplett ins Leere.",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Sbb Zug Überfüllt Muss Ich Aussteigen Wenn das Personal Mich Dazu Auffordert",
+      "url": "https://www.suedostschweiz.ch/panorama/sbb-zug-ueberfuellt-muss-ich-aussteigen-wenn-das-personal-mich-dazu-auffordert-2148312",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Neue Strafuntersuchung im Fall des Aargauer Ex Svp Grossrats",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/neue-strafuntersuchung-im-fall-des-aargauer-ex-svp-grossrats-ld.4227856",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Wolfhalden Schliesst Dorfschulhaus Sofort Wegen Brandschutzmängeln",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/wolfhalden-schliesst-dorfschulhaus-sofort-wegen-brandschutzmaengeln-ld.4227807",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Daniel von Holzen Holt Podestplatz im Tessin",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/daniel-von-holzen-holt-podestplatz-im-tessin-ld.4227338",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Josefina Herger Kempf Feiert Ihren 100 Geburtstag",
+      "url": "https://www.urnerzeitung.ch/leserbeitrag/uz/josefina-herger-kempf-feiert-ihren-100-geburtstag-ld.4226697",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukrainische Kinder erhalten in St.Gallen eine Pause vom Krieg",
+      "url": "https://www.watson.ch/schweiz/kinder/693881149-ukrainische-kinder-erhalten-in-st-gallen-eine-pause-vom-krieg",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sabotage am Stromnetz in Deutschland – Polizei prüft Bekennerbrief",
+      "url": "https://www.watson.ch/international/deutschland/518373938-sabotage-am-stromnetz-in-deutschland-polizei-prueft-bekennerbrief",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kanton Uri sensibilisiert Oberstufenschüler wegen sexualisierter Gewalt",
+      "url": "https://www.watson.ch/schweiz/digital/279299501-kanton-uri-sensibilisiert-oberstufenschueler-wegen-sexualisierter-gewalt",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kakerlakenmilch und mehr: Das sind die skurrilsten Ig-Nobelpreise 2026",
+      "url": "https://www.watson.ch/wissen/schweiz/471528893-kakerlakenmilch-und-mehr-das-sind-die-skurrilsten-ig-nobelpreise-2026",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Flughafen Zürich: 150 Flüge gestrichen wegen Unwetter der Vorwoche",
+      "url": "https://www.watson.ch/schweiz/luftfahrt/410735831-flughafen-zuerich-150-fluege-gestrichen-wegen-unwetter-der-vorwoche",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bern: Vorstoss fordert Verbot von Kamerabrillen in Stadtberner Bädern",
+      "url": "https://www.watson.ch/schweiz/digital/871491689-bern-vorstoss-fordert-verbot-von-kamerabrillen-in-stadtberner-baedern",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Weisses Haus macht Trumps Politik zum Retro-Game",
+      "url": "https://www.watson.ch/international/das-ist-nicht-normal-ticker/822761134-weisses-haus-macht-trumps-politik-zum-retro-game",
+      "summary": "",
+      "published": "2026-09-04T08:32:38.682006+00:00"
     }
   ]
 }
