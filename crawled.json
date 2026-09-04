@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T21:02:43.228691+00:00",
+  "generated": "2026-09-04T21:32:24.490103+00:00",
   "date": "2026-09-04",
-  "count": 993,
+  "count": 998,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6953,6 +6953,41 @@
       "url": "https://www.watson.ch/leben/netflix/875489036-the-gentlemen-die-action-serie-schlaegt-neue-toene-bei-netflix-an",
       "summary": "",
       "published": "2026-09-04T21:02:43.228691+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Abstimmungs-Arena» – Ernährungsinitiative: Mehr Sicherheit oder «Vegan-Zwang»?",
+      "url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-ernaehrungsinitiative-mehr-sicherheit-oder-vegan-zwang",
+      "summary": "Initiantin Franziska Herren trifft auf den Bundes-, den Bauernpräsidenten und auf Gegenwind aus dem linken Lager.",
+      "published": "2026-09-04T21:32:24.490103+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Amoklauf in Aarau: Rund 300 Menschen gedenken dem Opfer von Aarau",
+      "url": "https://www.tagesanzeiger.ch/repo-gedenkmarsch-und-schweigeminute-zu-aarau-wir-sind-vorort-und-machen-ein-kleines-rundes-stueck-dazu-laut-blick-ist-die-mutter-des-opfers-in-der-schweiz-evt-kommt-sie-auch-um-19-45-badi-aarau-950993742380",
+      "summary": "Am Freitagabend fand im Schachen ein Gedenkmarsch mit Schweigeminute für das Opfer des Amoklaufs statt. Die Stimmung war von grosser Anteilnahme geprägt.",
+      "published": "2026-09-04T21:32:24.490103+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ligue 1: Athekame trifft erstmals für Lyon – Monaco schockt PSG",
+      "url": "https://www.bernerzeitung.ch/athekame-trifft-erstmals-fuer-lyon-350851458076",
+      "summary": "Der von Milan ausgeliehene Schweizer ist bei seinem neuen Verein erfolgreich. Und Meister PSG bleibt noch immer sieglos.",
+      "published": "2026-09-04T21:32:24.490103+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Das Argovia Fäscht in Bildern So Wird auf dem Birrfeld Gefeiert",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/das-argovia-faescht-in-bildern-so-wird-auf-dem-birrfeld-gefeiert-ld.4228327",
+      "summary": "",
+      "published": "2026-09-04T21:32:24.490103+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Polizeieinsatz in Goldach die Bilder",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/polizeieinsatz-in-goldach-die-bilder-ld.4228475",
+      "summary": "",
+      "published": "2026-09-04T21:32:24.490103+00:00"
     }
   ]
 }
