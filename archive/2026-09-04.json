@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T00:32:48.701330+00:00",
+  "generated": "2026-09-04T01:02:36.614114+00:00",
   "date": "2026-09-04",
-  "count": 20,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -142,6 +142,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/deutschland-erklaert-russland-den-krieg-unsinn-aber-gewissermassen",
       "summary": "",
       "published": "2026-09-04T00:32:48.701330+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Zum 95 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/zum-95-geburtstag-ld.4226417",
+      "summary": "",
+      "published": "2026-09-04T01:02:36.614114+00:00"
     }
   ]
 }
