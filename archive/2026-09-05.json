@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T23:14:02.746704+00:00",
+  "generated": "2026-09-04T23:32:22.342630+00:00",
   "date": "2026-09-05",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,13 @@
       "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gratulation-zum-90-geburtstag-ld.4223602",
       "summary": "",
       "published": "2026-09-04T23:02:35.272054+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hintergründe unklar – Polizeieinsatz in Goldach SG – Schule evakuiert",
+      "url": "https://www.srf.ch/news/schweiz/hintergruende-unklar-polizeieinsatz-in-goldach-sg-schule-evakuiert",
+      "summary": "Bei der Notrufzentrale seien Meldungen eingegangen, die zurzeit verifiziert werden müssten, so die Polizei.",
+      "published": "2026-09-04T23:32:22.342630+00:00"
     }
   ]
 }
