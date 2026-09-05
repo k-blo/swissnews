@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T23:02:31.028589+00:00",
+  "generated": "2026-09-05T23:32:41.932784+00:00",
   "date": "2026-09-06",
-  "count": 5,
+  "count": 6,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,13 @@
       "url": "https://www.badenertagblatt.ch/aargau/baden/handball-sc-siggenthal-unterliegt-gossau-wegen-vieler-technischer-fehler-ld.4226794",
       "summary": "",
       "published": "2026-09-05T22:32:55.891813+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Mutmassliche Täterin verhaftet: Mann bei Messerangriff in Oberwil BL verletzt",
+      "url": "https://www.blick.ch/schweiz/basel-landschaft/mutmassliche-taeterin-verhaftet-mann-bei-messerangriff-in-oberwil-bl-verletzt-id22237931.html",
+      "summary": "Am Samstagabend kam es in Oberwil zu einem blutigen Beziehungsdelikt beim Coop-Parkplatz. Die mutmassliche Täterin wurde festgenommen.",
+      "published": "2026-09-05T23:32:41.932784+00:00"
     }
   ]
 }
