@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T21:32:41.174782+00:00",
+  "generated": "2026-09-05T21:50:28.701288+00:00",
   "date": "2026-09-05",
-  "count": 590,
+  "count": 594,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4132,6 +4132,34 @@
       "url": "https://www.aargauerzeitung.ch/aargau/brugg/brugg-tag-der-offenen-tuer-im-bundesasylzentrum-ld.4227728",
       "summary": "",
       "published": "2026-09-05T21:32:41.174782+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Medizinischer Vorfall: Swiss-Flieger muss über Atlantik umdrehen",
+      "url": "https://www.20min.ch/story/flug-nach-boston-medizinischer-notfall-swiss-flieger-muss-ueber-atlantik-umdrehen-103628197",
+      "summary": "Auf dem Weg von Zürich nach Boston kam es an Bord zu einem medizinischen Vorfall. Die betroffene Person befinde laut Swiss in einem stabilen Zustand.",
+      "published": "2026-09-05T21:50:28.701288+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Amokläufer von Aarau: «Es war eine ganz normale Familie. Er war ein guter Schüler»",
+      "url": "https://www.bernerzeitung.ch/amoklauf-in-aarau-vater-und-ehemaliger-lehrer-ueber-den-mutmasslichen-schuetzen-992948161471",
+      "summary": "Der mutmassliche Täter von Aarau lebte in einem kleinen Dorf im Jura und war vor vielen Jahren in einer psychiatrischen Klinik. Was weiss man über den 43-Jährigen?",
+      "published": "2026-09-05T21:50:28.701288+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran greift mehrere Schiffe an",
+      "url": "https://www.zentralplus.ch/news/iran-greift-mehrere-schiffe-an-2896803/",
+      "summary": "Die Marine der iranischen Revolutionsgarden haben in der Strasse von Hormus nach eigenen Angaben mehrere Schiffe in der Strasse von Hormus angegriffen. Diese hätten Verbindungen zu den USA. Es handle ",
+      "published": "2026-09-05T21:50:28.701288+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nach monatelangen Verzögerungen: Die Deutsche Isar-Aerospace-Rakete ist erfolgreich ins All gestartet",
+      "url": "https://www.nzz.ch/wirtschaft/nach-monatelangen-verzoegerungen-die-deutsche-isar-aerospace-rakete-ist-erfolgreich-ins-all-gestartet-ld.10022589",
+      "summary": "",
+      "published": "2026-09-05T21:50:28.701288+00:00"
     }
   ]
 }
