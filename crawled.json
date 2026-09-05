@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T22:02:33.269864+00:00",
+  "generated": "2026-09-05T22:32:55.891813+00:00",
   "date": "2026-09-06",
-  "count": 2,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/286771/feuerverbot-im-kanton-freiburg-wird-aufgehoben",
       "summary": "",
       "published": "2026-09-05T22:02:33.269864+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Komitee kündigt Widerstand an: Referendum gegen Kopftuchverbot – dahinter stecken Islamisten",
+      "url": "https://www.blick.ch/politik/komitee-kuendigt-widerstand-an-referendum-gegen-kopftuchverbot-dahinter-stecken-islamisten-id22233856.html",
+      "summary": "Ein Komitee plant das Referendum gegen ein Kopftuchverbot an Zürcher Schulen. Die Fäden zieht der fundamentalistische Zentralrat. Das bringt Mitte-links in die Bredouille.",
+      "published": "2026-09-05T22:32:55.891813+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Starke Erste Hälfte Bleibt Unbelohnt Red Boots Verlieren Gegen Fcl",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/starke-erste-haelfte-bleibt-unbelohnt-red-boots-verlieren-gegen-fcl-ld.4228527",
+      "summary": "",
+      "published": "2026-09-05T22:32:55.891813+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Handball Sc Siggenthal Unterliegt Gossau Wegen Vieler Technischer Fehler",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/handball-sc-siggenthal-unterliegt-gossau-wegen-vieler-technischer-fehler-ld.4226794",
+      "summary": "",
+      "published": "2026-09-05T22:32:55.891813+00:00"
     }
   ]
 }
