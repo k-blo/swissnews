@@ -1,7 +1,7 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Sat, 05 Sep 2026 00:19:55 GMT",
-    "etag": "\"94d313fe9ff38b00857d2e18c8b6d3fa\""
+    "last_modified": "Sat, 05 Sep 2026 00:49:16 GMT",
+    "etag": "\"2438233fc5a9b7dabf00a77a839ec005\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"18796-AXmDgd4T9W9+8TBhSkCwVBdD4GM\""
@@ -16,14 +16,14 @@
     "last_modified": "Fri, 04 Sep 2026 23:05:13 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Sat, 05 Sep 2026 00:31:40 GMT"
+    "last_modified": "Sat, 05 Sep 2026 01:01:45 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Sat, 05 Sep 2026 00:00:16 GMT",
     "etag": "\"1788566416\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sat, 05 Sep 2026 00:28:35 GMT"
+    "last_modified": "Sat, 05 Sep 2026 00:58:45 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -36,12 +36,12 @@
     "etag": "W/\"df4a-TKDXzOPz4/Q2ZYw98MtdJFzodRM\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Sat, 05 Sep 2026 00:15:40 GMT",
-    "etag": "\"1788567340\""
+    "last_modified": "Sat, 05 Sep 2026 00:50:34 GMT",
+    "etag": "\"1788569434\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Sat, 05 Sep 2026 00:15:40 GMT",
-    "etag": "\"1788567340\""
+    "last_modified": "Sat, 05 Sep 2026 00:50:34 GMT",
+    "etag": "\"1788569434\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2c460-NeooHiGeLKKVL+3anDVICBDuqDM\""
@@ -51,8 +51,8 @@
     "etag": "\"1787804200\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sat, 05 Sep 2026 00:30:12 GMT",
-    "etag": "W/\"1788568212-gzip\""
+    "last_modified": "Sat, 05 Sep 2026 01:00:16 GMT",
+    "etag": "W/\"1788570016-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"217fa-UMXzCV68Egu/fhwf5QYXC8UnAZ4\""
