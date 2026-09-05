@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T03:35:21.756829+00:00",
+  "generated": "2026-09-05T04:02:17.395661+00:00",
   "date": "2026-09-05",
-  "count": 179,
+  "count": 182,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1255,6 +1255,27 @@
       "url": "https://www.nzz.ch/schweiz/staatskrise-in-liechtenstein-die-abtreibungsdebatte-spaltet-das-fuerstentum-ld.10018220",
       "summary": "",
       "published": "2026-09-05T03:35:21.756829+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Grosseinsatz in Goldach: Pyrotechnik: Polizei evakuiert Schulfest",
+      "url": "https://www.bernerzeitung.ch/schuesse-in-goldach-300-personen-bei-schulfest-evakuiert-208751487357",
+      "summary": "Meldungen über angebliche Schüsse während eines Schulfests im Schulhaus Wartegg in Goldach haben einen Grosseinsatz der Kantonspolizei St. Gallen ausgelöst. Diese gibt Entwarnung.",
+      "published": "2026-09-05T04:02:17.395661+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Ende der Ära Kaczynski: Die Macht des polnischen Schattenherrschers schwindet",
+      "url": "https://www.nzz.ch/international/spaltung-der-pis-in-polen-der-einfluss-von-jaroslaw-kaczynski-schwindet-ld.10020755",
+      "summary": "",
+      "published": "2026-09-05T04:02:17.395661+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Schwerer Stand für die Meinungsfreiheit: Es gibt zu viel Moralismus und zu viele Tabus",
+      "url": "https://www.nzz.ch/meinung/schwerer-stand-fuer-die-meinungsfreiheit-es-gibt-zu-viel-moralismus-und-zu-viele-tabus-ld.10022068",
+      "summary": "",
+      "published": "2026-09-05T04:02:17.395661+00:00"
     }
   ]
 }
