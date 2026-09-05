@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T20:33:30.820716+00:00",
+  "generated": "2026-09-05T21:03:12.176472+00:00",
   "date": "2026-09-05",
-  "count": 584,
+  "count": 586,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4090,6 +4090,20 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/flugshow-in-athen-endet-mit-zwei-todesopfern-art-1720264",
       "summary": "",
       "published": "2026-09-05T20:33:30.820716+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Australien: Dreijährige stirbt nach Zoobesuch an Folgen einer E.-coli-Infektion",
+      "url": "https://www.tagesanzeiger.ch/e-coli-infektion-dreijaehrige-stirbt-nach-streichelzoo-besuch-796671642623",
+      "summary": "Ein Mädchen steckte sich möglicherweise beim Streicheln von Tieren mit gefährlichen Bakterien an. Laut Behörden sind solch schwere Krankheitsverläufe «sehr, sehr selten».",
+      "published": "2026-09-05T21:03:12.176472+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Super League: Ein Neuling rettet GC in der Nachspielzeit einen Punkt im Derby",
+      "url": "https://www.bernerzeitung.ch/zuercher-derby-pllana-rettet-gc-in-der-96-minute-130959637789",
+      "summary": "Eine wilde Partie ohne Sieger: Das erste Zürcher Derby der Saison endet nach einem Chancenwucher inklusive verschossenem Penalty mit 2:2.",
+      "published": "2026-09-05T21:03:12.176472+00:00"
     }
   ]
 }
