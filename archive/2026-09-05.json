@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T01:02:41.637379+00:00",
+  "generated": "2026-09-05T01:32:36.668239+00:00",
   "date": "2026-09-05",
-  "count": 30,
+  "count": 31,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,13 @@
       "url": "https://www.tagblatt.ch/ostschweiz/stgallen/panik-in-goldach-nach-angeblichen-schuessen-es-war-wohl-pyrotechnik-ld.4228457",
       "summary": "",
       "published": "2026-09-05T01:02:41.637379+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kein Urteil in Prozess um Kindstötung",
+      "url": "https://www.zentralplus.ch/news/kein-urteil-in-prozess-um-kindstoetung-2896746/",
+      "summary": "Ein Prozess um den Tod dreier kleiner Kinder ist in den USA ohne Urteil zu Ende gegangen. Die Jury konnte sich auch nach sieben Tagen nicht einigen. Die Angeklagte hatte 2023 ihre Kinder getötet. Laut",
+      "published": "2026-09-05T01:32:36.668239+00:00"
     }
   ]
 }
