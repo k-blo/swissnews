@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T00:02:44.352452+00:00",
+  "generated": "2026-09-05T00:32:31.005968+00:00",
   "date": "2026-09-05",
-  "count": 23,
+  "count": 29,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,48 @@
       "url": "https://www.srf.ch/news/schweiz/hintergruende-unklar-polizeieinsatz-in-goldach-sg-schule-evakuiert",
       "summary": "Bei der Notrufzentrale seien Meldungen eingegangen, die zurzeit verifiziert werden müssten, so die Polizei.",
       "published": "2026-09-04T23:32:22.342630+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wohl Pyrotechnik – Grosseinsatz bei Schule in Goldach SG – Polizei gibt Entwarnung",
+      "url": "https://www.srf.ch/news/schweiz/wohl-pyrotechnik-grosseinsatz-bei-schule-in-goldach-sg-polizei-gibt-entwarnung",
+      "summary": "Nach Meldungen angeblicher Schüsse bei einem Schulfest gibt die Kantonspolizei St. Gallen nun Entwarnung.",
+      "published": "2026-09-05T00:32:31.005968+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Steht Guy Parmelin vor dem Rücktritt",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/steht-guy-parmelin-vor-dem-ruecktritt",
+      "summary": "",
+      "published": "2026-09-05T00:32:31.005968+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Schule Schweiz Sorry Note Ungenügend",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/schule-schweiz-sorry-note-ungenuegend",
+      "summary": "",
+      "published": "2026-09-05T00:32:31.005968+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Sp Bundesrat Beat Jans Kündigt an und Verzögert",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/sp-bundesrat-beat-jans-kuendigt-an-und-verzoegert",
+      "summary": "",
+      "published": "2026-09-05T00:32:31.005968+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Bundesrat Erteilt Synthetischen Energieträgern als Mittel Gegen die Winterstromlücke eine Absage",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/bundesrat-erteilt-synthetischen-energietraegern-als-mittel-gegen-die-winterstromluecke-eine-absage",
+      "summary": "",
+      "published": "2026-09-05T00:32:31.005968+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Schweiz das Land der Primarschulen und der Turnvereine ist Auch ein Land des Aufstiegs eine Neue Studie Erschüttert Ihre Vo",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/die-schweiz-das-land-der-primarschulen-und-der-turnvereine-ist-auch-ein-land-des-aufstiegs-eine-neue-studie-erschuettert-ihre-vo",
+      "summary": "",
+      "published": "2026-09-05T00:32:31.005968+00:00"
     }
   ]
 }
