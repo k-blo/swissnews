@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T20:02:28.220515+00:00",
+  "generated": "2026-09-05T20:33:30.820716+00:00",
   "date": "2026-09-05",
-  "count": 580,
+  "count": 584,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4062,6 +4062,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-400-menues-gegen-lebensmittelverschwendung-art-1720263",
       "summary": "",
       "published": "2026-09-05T20:02:28.220515+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Drei Wochen Wildnis – Walliser Jugendliche leben autonom in Grönland",
+      "url": "https://www.srf.ch/news/dialog/drei-wochen-wildnis-walliser-jugendliche-leben-autonom-in-groenland",
+      "summary": "21 Walliser Jugendliche haben diesen Sommer drei Wochen fernab der Zivilisation in Grönland gelebt.",
+      "published": "2026-09-05T20:33:30.820716+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Streit beim Coop Park in Oberwil BL – eine Person verletzt",
+      "url": "https://www.20min.ch/story/grosseinsatz-streit-beim-coop-park-in-oberwil-bl-eine-person-verletzt-103628275",
+      "summary": "Beim Coop Park in Oberwil BL läuft am Samstagabend ein Grosseinsatz. Bei einer Streitigkeit wurde eine Person verletzt, die mutmassliche Täterschaft ist gefasst.",
+      "published": "2026-09-05T20:33:30.820716+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Werro siegt auch im Diamond-League-Final",
+      "url": "https://www.freiburger-nachrichten.ch/story/287964/werro-siegt-auch-im-diamondleaguefinal",
+      "summary": "",
+      "published": "2026-09-05T20:33:30.820716+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Tote bei Flugshow-Unfall",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/flugshow-in-athen-endet-mit-zwei-todesopfern-art-1720264",
+      "summary": "",
+      "published": "2026-09-05T20:33:30.820716+00:00"
     }
   ]
 }
