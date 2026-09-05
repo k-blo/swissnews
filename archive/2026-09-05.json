@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T06:02:40.752473+00:00",
+  "generated": "2026-09-05T06:33:14.237770+00:00",
   "date": "2026-09-05",
-  "count": 235,
+  "count": 248,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1647,6 +1647,97 @@
       "url": "https://www.bote.ch/nachrichten/sport/kilchberger-schwinget-liveticker-vom-schwingfest-art-1720237",
       "summary": "",
       "published": "2026-09-05T06:02:40.752473+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Mutmasslich Pyrotechnik – Grosseinsatz bei Schule in Goldach SG – Polizei gibt Entwarnung",
+      "url": "https://www.srf.ch/news/schweiz/mutmasslich-pyrotechnik-grosseinsatz-bei-schule-in-goldach-sg-polizei-gibt-entwarnung",
+      "summary": "Nach Meldungen angeblicher Schüsse bei einem Schulfest gibt die Kantonspolizei St. Gallen nun Entwarnung.",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jetzt gehts los! Wer bringt sich in Gang 1 in eine gute Position?",
+      "url": "https://www.20min.ch/story/sport-ticker-schwing-arena-fuellt-sich-langsam-wetter-soll-halten-103627646",
+      "summary": "Der Kilchberger Schwinget steht auf dem Programm. Mit 20 Minuten verpasst du nichts.",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "La Liga: Mbappé verschiesst Penalty: Real Madrid taucht bei Betis Sevilla",
+      "url": "https://www.tagesanzeiger.ch/mbappe-verschiesst-penalty-real-madrid-taucht-bei-betis-sevilla-972007106378",
+      "summary": "In seiner zweiten Amtszeit bei Real Madrid war José Mourinho bislang noch ungeschlagen. In Sevilla reisst die Serie.",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Immer mehr Kinder musizieren – jetzt wird Platz knapp",
+      "url": "https://www.zentralplus.ch/news/immer-mehr-kinder-musizieren-jetzt-wird-platz-knapp-2896735/",
+      "summary": "In Horw wollen immer mehr Kinder Instrumente lernen und bringen damit die Musikschule an ihre räumlichen Grenzen. Die Gemeinde plant deshalb die nächsten Jahre neu und nimmt dabei auch einen zentralen",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Kilchberg Schwinget Ticker zum Abschneiden der Nordostschweizer",
+      "url": "https://www.tagblatt.ch/sport/ostschweiz/kilchberg-schwinget-ticker-zum-abschneiden-der-nordostschweizer-ld.4227074",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Bibel ist kein brauchbares Zeugnis für die Existenz Gottes",
+      "url": "https://www.watson.ch/blogs/sektenblog/875637357-die-bibel-ist-kein-brauchbares-zeugnis-fuer-die-existenz-gottes",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Darum verdient Jeff Skinner beim EHC Biel so viel Geld",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/194161513-darum-verdient-jeff-skinner-beim-ehc-biel-so-viel-geld",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kilchberger Schwinget: Das Schwingfest live im Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/508945067-kilchberger-schwinget-das-schwingfest-live-im-ticker-und-stream",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US Open: Tsitsipas erstmals seit 2 Jahren im Achtelfinal",
+      "url": "https://www.watson.ch/sport/tennis/113982088-us-open-tsitsipas-erstmals-seit-2-jahren-im-achtelfinal",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Mehr Schweiz heisst weniger Fleisch: Was wir heute essen – und was sich ändern soll",
+      "url": "https://www.freiburger-nachrichten.ch/story/287803/mehr-schweiz-heisst-weniger-fleisch-was-wir-heute-essen%C2%A0-und-was-sich-%C3%A4ndern-soll",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der Bund zieht den Sportevents den Stecker",
+      "url": "https://www.freiburger-nachrichten.ch/story/287811/der-bund-zieht-den-sportevents-den-stecker",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Vom Bieler Stress in die Ruhe am Murtensee",
+      "url": "https://www.freiburger-nachrichten.ch/story/287687/vom-bieler-stress-in-die-ruhe-am-murtensee",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Junge Tat vor Gericht: Staatsanwalt fordert ungewöhnlich harte Strafen für Führungsduo",
+      "url": "https://www.freiburger-nachrichten.ch/story/287799/die-junge-tat-vor-gericht-staatsanwalt-fordert-ungew%C3%B6hnlich-harte-strafen-f%C3%BCr-f%C3%BChrungsduo",
+      "summary": "",
+      "published": "2026-09-05T06:33:14.237770+00:00"
     }
   ]
 }
