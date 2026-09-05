@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T07:29:44.432055+00:00",
+  "generated": "2026-09-05T07:33:08.299671+00:00",
   "date": "2026-09-05",
-  "count": 265,
+  "count": 266,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1857,6 +1857,13 @@
       "url": "https://www.watson.ch/schweiz/polizeirapport/643408404-siegershausen-tg-toefffahrer-verletzt-sich-bei-kollision",
       "summary": "",
       "published": "2026-09-05T07:29:44.432055+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Theater Lüuet Dänike Vereinsreise",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/theater-lueuet-daenike-vereinsreise-ld.4228431",
+      "summary": "",
+      "published": "2026-09-05T07:33:08.299671+00:00"
     }
   ]
 }
