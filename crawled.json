@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T21:03:12.176472+00:00",
+  "generated": "2026-09-05T21:32:41.174782+00:00",
   "date": "2026-09-05",
-  "count": 586,
+  "count": 590,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4104,6 +4104,34 @@
       "url": "https://www.bernerzeitung.ch/zuercher-derby-pllana-rettet-gc-in-der-96-minute-130959637789",
       "summary": "Eine wilde Partie ohne Sieger: Das erste Zürcher Derby der Saison endet nach einem Chancenwucher inklusive verschossenem Penalty mit 2:2.",
       "published": "2026-09-05T21:03:12.176472+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schüsse an Rave: Wer ist der Amokläufer von Aarau? Sein Vater und ein ehemaliger Lehrer erzählen",
+      "url": "https://www.tagesanzeiger.ch/amoklauf-in-aarau-vater-und-ehemaliger-lehrer-ueber-den-mutmasslichen-schuetzen-992948161471",
+      "summary": "Der mutmassliche Täter von Aarau lebte in einem kleinen Dorf im Jura und war vor vielen Jahren in einer psychiatrischen Klinik. Ein Einblick in das Leben des 43-Jährigen.",
+      "published": "2026-09-05T21:32:41.174782+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neues zu Crans-Montana: Die Baudirektorin warnte vor dem verheerenden Schaum",
+      "url": "https://www.tagesanzeiger.ch/crans-montana-baudirektorin-wusste-von-brandgefahr-im-constellation-280851956449",
+      "summary": "Eine verräterische Mail machte aus einer Randfigur eine Beschuldigte. Die Entdeckung ist brisant.",
+      "published": "2026-09-05T21:32:41.174782+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kein Sieger im 295. Zürcher Derby: Den Grasshoppers gelingt spät der Ausgleich",
+      "url": "https://www.nzz.ch/sport/kein-sieger-im-295-zuercher-derby-den-grasshoppers-gelingt-spaet-der-ausgleich-ld.10022588",
+      "summary": "",
+      "published": "2026-09-05T21:32:41.174782+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Brugg Tag der Offenen Tür im Bundesasylzentrum",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/brugg-tag-der-offenen-tuer-im-bundesasylzentrum-ld.4227728",
+      "summary": "",
+      "published": "2026-09-05T21:32:41.174782+00:00"
     }
   ]
 }
