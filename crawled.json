@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T01:32:21.086853+00:00",
+  "generated": "2026-09-06T02:02:37.063583+00:00",
   "date": "2026-09-06",
-  "count": 16,
+  "count": 19,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -114,6 +114,27 @@
       "url": "https://www.watson.ch/schweiz/gesellschaft-politik/143814112-stiftung-beloved-fuer-brandkatastrophe-in-crans-montana-70-anfragen",
       "summary": "",
       "published": "2026-09-06T01:32:21.086853+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Betrüger locken Hotelgäste mit 250 Franken in die Falle",
+      "url": "https://www.20min.ch/story/lenzerheide-gr-betrueger-locken-hotelgaeste-mit-250-franken-in-die-falle-103628307",
+      "summary": "Der Schweizerhof in Lenzerheide warnt rund 10'000 Gäste vor einer WhatsApp-Betrugsmasche. Die Täter haben es auf persönliche Daten und Kreditkarteninformationen abgesehen.",
+      "published": "2026-09-06T02:02:37.063583+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sachsen-Anhalt wählt neuen Landtag",
+      "url": "https://www.zentralplus.ch/news/sachsen-anhalt-waehlt-neuen-landtag-2896807/",
+      "summary": "Im deutschen Bundesland Sachsen-Anhalt wird heute ein neuer Landtag gewählt. Die Wahl sorgt seit Monaten über Deutschland hinaus für Aufsehen. In den Umfragen liegt die Rechtsaussenpartei AfD mit gros",
+      "published": "2026-09-06T02:02:37.063583+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Armee USA: Pentagon blockiert ID-Tracker",
+      "url": "https://www.watson.ch/digital/international/335073756-armee-usa-pentagon-blockiert-id-tracker",
+      "summary": "",
+      "published": "2026-09-06T02:02:37.063583+00:00"
     }
   ]
 }
