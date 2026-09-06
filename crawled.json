@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T11:02:48.020438+00:00",
+  "generated": "2026-09-06T11:32:22.436943+00:00",
   "date": "2026-09-06",
-  "count": 272,
+  "count": 286,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1906,6 +1906,104 @@
       "url": "https://www.bote.ch/nachrichten/kultur/lucerne-festival-2026-fiddle-night-mit-augustin-hadelich-countrypaar-oconnor-art-1720286",
       "summary": "",
       "published": "2026-09-06T11:02:48.020438+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Aufsichtsbehörden verfolgen Aufarbeitung der Polizeiaffäre genau: Stadt Uster steht unter Beobachtung",
+      "url": "https://www.blick.ch/politik/aufsichtsbehoerden-verfolgen-aufarbeitung-der-polizeiaffaere-genau-stadt-uster-steht-unter-beobachtung-id22237083.html",
+      "summary": "Ist die Aufarbeitung der Polizeiaffäre in Uster ZH genügend? Bezirksratspräsident Markus Ehrensperger sagt, er schaue genau hin – und werde gegebenenfalls einschreiten.",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Strom-Sabotage in Deutschland: Polizei startet Grosseinsatz in Wald bei Köln",
+      "url": "https://www.tagesanzeiger.ch/stromnetz-sabotage-polizei-startet-grosseinsatz-am-hambacher-forst-759209570803",
+      "summary": "Seit Tagen sucht die Polizei nach dem Mann, der für versuchte Sabotageakte gegen das deutsche Stromnetz verantwortlich sein soll. Jetzt läuft ein massiver Einsatz am Hambacher Forst.",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hitze am Zürichberg: Anwohnende und Politik fordern Klimatisierung der Seilbahn Rigiblick",
+      "url": "https://www.tagesanzeiger.ch/seilbahn-rigiblick-kabinen-heizen-sich-um-4-grad-auf-960656014353",
+      "summary": "An Sommertagen heizen sich die neuen Kabinen des Zürichberg-Bähnleins stark auf. Es gibt weder Klimaanlage noch Lüftung. Die VBZ will das Problem angehen.",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Armut in Frankreich: «Heute bringen wir die Kinder ans Meer»",
+      "url": "https://www.tagesanzeiger.ch/kinderarmut-in-frankreich-3500-kinder-entdecken-das-meer-880485085307",
+      "summary": "Es ist die Ahnung von einer besseren Welt für einen Tag: 3500 französische Kinder aus ärmeren Familien fahren an den Strand von Deauville. Wenn da nur nicht der Regen wäre.",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«In die Schweiz» von Emma Cline: Ihre Hauptfigur will in Zürich sterben – und wir verlieren auf geniale Weise die Orientierung",
+      "url": "https://www.tagesanzeiger.ch/emma-clines-in-die-schweiz-ein-roman-von-schrecklicher-schoenheit-648829078844",
+      "summary": "Die US-Autorin geht ein Wagnis ein und schreibt in ihrem Roman aus der Sicht eines Demenzkranken. Das literarische Experiment glückt auf jeder Ebene.",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Weitwandern auf dem Lechweg: Immer am ungezähmten Fluss entlang",
+      "url": "https://www.tagesanzeiger.ch/lechweg-125-km-entlang-des-letzten-wildflusses-noerdlich-der-alpen-543828577899",
+      "summary": "Der Lech gilt als letzter Wildfluss im nördlichen Alpenraum. Auf 125 Kilometern kann man ihm auf einem Weitwanderweg von der Quelle im österreichischen Hochgebirge bis nach Bayern folgen.",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Schmelzi Flohmarkt in Grenchen War ein Publikumsmagnet",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/schmelzi-flohmarkt-in-grenchen-war-ein-publikumsmagnet-ld.4228608",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Kölliken Riskantes Überholmanöver Führt zu Auffahrunfall",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/koelliken-riskantes-ueberholmanoever-fuehrt-zu-auffahrunfall-ld.4228623",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Noche Latina in Stans Tanzabend auf dem Dorfplatz",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/noche-latina-in-stans-tanzabend-auf-dem-dorfplatz-ld.4214077",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Altdorf Ürner Oktoberfest Startet mit Prominenten Gästen",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/altdorf-uerner-oktoberfest-startet-mit-prominenten-gaesten-ld.4212713",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US-Vermittler Witkoff und Kushner erstmals in Kiew",
+      "url": "https://www.watson.ch/international/usa/800482447-us-vermittler-witkoff-und-kushner-erstmals-in-kiew",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Super League: Servette gegen St.Gallen live im Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/451383959-super-league-servette-gegen-st-gallen-live-im-ticker",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mountainbikestar Linda Indergand lancierte das «Ürner Oktoberfest»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/altdorf-uerner-oktoberfest-startet-mit-prominenten-gaesten-art-1720288",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Salsa, Bachata und Mojitos: So bringt die «Noche Latina» Stans zum Tanzen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/noche-latina-in-stans-tanzabend-auf-dem-dorfplatz-art-1720287",
+      "summary": "",
+      "published": "2026-09-06T11:32:22.436943+00:00"
     }
   ]
 }
