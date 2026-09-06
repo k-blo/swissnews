@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T04:02:44.495788+00:00",
+  "generated": "2026-09-06T04:32:19.355306+00:00",
   "date": "2026-09-06",
-  "count": 87,
+  "count": 89,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -611,6 +611,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/287847/auf-hochglanz-lackiert-diese-m%C3%B6bel-bringen-abwechslung-in-die-gute-stube",
       "summary": "",
       "published": "2026-09-06T04:02:44.495788+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vitznau Grosserle: 400-jähriges Bauernhaus muss für Zweitwohnungen weg",
+      "url": "https://www.watson.ch/schweiz/immobilien/720319893-vitznau-grosserle-400-jaehriges-bauernhaus-muss-fuer-zweitwohnungen-weg",
+      "summary": "",
+      "published": "2026-09-06T04:32:19.355306+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neue AKW Schweiz: Forscher bezweifeln Kosten von 43 Milliardn",
+      "url": "https://www.watson.ch/schweiz/medien/607916015-neue-akw-schweiz-forscher-bezweifeln-kosten-von-43-milliardn",
+      "summary": "",
+      "published": "2026-09-06T04:32:19.355306+00:00"
     }
   ]
 }
