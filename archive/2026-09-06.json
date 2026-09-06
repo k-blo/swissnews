@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T04:32:19.355306+00:00",
+  "generated": "2026-09-06T05:02:41.126804+00:00",
   "date": "2026-09-06",
-  "count": 89,
+  "count": 91,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -625,6 +625,20 @@
       "url": "https://www.watson.ch/schweiz/medien/607916015-neue-akw-schweiz-forscher-bezweifeln-kosten-von-43-milliardn",
       "summary": "",
       "published": "2026-09-06T04:32:19.355306+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gallagher-Brüder mit Doku zur Reunion",
+      "url": "https://www.zentralplus.ch/news/gallagher-brueder-mit-doku-zur-reunion-2896811/",
+      "summary": "Oasis haben bei den Filmfestspielen in Venedig eine Dokumentation über ihre Reunion-Tour präsentiert. Liam und Noel Gallagher geben darin erstmals seit mehr als 20 Jahren wieder gemeinsam ein Intervie",
+      "published": "2026-09-06T05:02:41.126804+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fc Uzwil Gewinnt in Frauenfeld Knapp mit 10",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/fc-uzwil-gewinnt-in-frauenfeld-knapp-mit-10-ld.4228568",
+      "summary": "",
+      "published": "2026-09-06T05:02:41.126804+00:00"
     }
   ]
 }
