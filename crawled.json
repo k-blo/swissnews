@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T03:02:36.183614+00:00",
+  "generated": "2026-09-06T03:33:07.301737+00:00",
   "date": "2026-09-06",
-  "count": 55,
+  "count": 58,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -387,6 +387,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/kriens-pastoralraumleiter-bernhard-waldmueller-hoert-auf-art-1720267",
       "summary": "",
       "published": "2026-09-06T03:02:36.183614+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Die Zahl der Schadensmeldungen ist beispiellos», sagt der Fahrzeugexperte im Hagel-Drive-in. Die Unwetterfolgen dürften Hunderte Millionen Franken kosten",
+      "url": "https://www.nzz.ch/zuerich/hagel-drive-in-in-seuzach-schaeden-an-autos-in-millionenhoehe-ld.10021910",
+      "summary": "",
+      "published": "2026-09-06T03:33:07.301737+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neulich in Florida: Irre Dinge, die du nur im Sunshine State siehst",
+      "url": "https://www.watson.ch/spass/usa/273811483-neulich-in-florida-irre-dinge-die-du-nur-im-sunshine-state-siehst",
+      "summary": "",
+      "published": "2026-09-06T03:33:07.301737+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Homeschooling in der Schweiz: Christina unterrichtet ihre Kinder selbst",
+      "url": "https://www.watson.ch/schweiz/leben/737870714-homeschooling-in-der-schweiz-christina-unterrichtet-ihre-kinder-selbst",
+      "summary": "",
+      "published": "2026-09-06T03:33:07.301737+00:00"
     }
   ]
 }
