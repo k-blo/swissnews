@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T00:50:58.024864+00:00",
+  "generated": "2026-09-06T01:02:23.174905+00:00",
   "date": "2026-09-06",
-  "count": 11,
+  "count": 13,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -79,6 +79,20 @@
       "url": "https://www.watson.ch/international/usa/356461364-wladimir-putin-trifft-in-moskau-auf-jared-kushner-und-steve-witkoff",
       "summary": "",
       "published": "2026-09-06T00:50:58.024864+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Deutsche Rakete erreicht erstmals die Erdumlaufbahn",
+      "url": "https://www.20min.ch/story/europas-weg-ins-all-deutsche-rakete-erreicht-erstmals-die-erdumlaufbahn-103628306",
+      "summary": "Nach einem Fehlstart hat die deutsche Spectrum-Rakete diesmal die Karman-Linie erreicht. Ein wichtiger Schritt für Europas Raumfahrt – und für die Unabhängigkeit von US-Anbietern.",
+      "published": "2026-09-06T01:02:23.174905+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Isar Aerospace Spectrum Rakete von Andoya ins All gestartet",
+      "url": "https://www.watson.ch/international/luftfahrt/600837790-isar-aerospace-spectrum-rakete-von-andoya-ins-all-gestartet",
+      "summary": "",
+      "published": "2026-09-06T01:02:23.174905+00:00"
     }
   ]
 }
