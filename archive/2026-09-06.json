@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T02:02:37.063583+00:00",
+  "generated": "2026-09-06T02:32:40.091364+00:00",
   "date": "2026-09-06",
-  "count": 19,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -135,6 +135,20 @@
       "url": "https://www.watson.ch/digital/international/335073756-armee-usa-pentagon-blockiert-id-tracker",
       "summary": "",
       "published": "2026-09-06T02:02:37.063583+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Konkrete Pläne für nächste Schritte",
+      "url": "https://www.zentralplus.ch/news/konkrete-plaene-fuer-naechste-schritte-2896809/",
+      "summary": "Bei einem Treffen von Russlands Präsident Wladimir Putin mit US-Sondergesandtem Steve Witkoff und Jared Kushner, dem Schwiegersohn von US-Präsident Donald Trump, sind konkrete Pläne für die nächsten S",
+      "published": "2026-09-06T02:32:40.091364+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kalaschnikow AK-47: Keine Zahlen über halbautomatische Waffen Schweiz",
+      "url": "https://www.watson.ch/schweiz/waffen/142508582-kalaschnikow-ak-47-keine-zahlen-ueber-halbautomatische-waffen-schweiz",
+      "summary": "",
+      "published": "2026-09-06T02:32:40.091364+00:00"
     }
   ]
 }
