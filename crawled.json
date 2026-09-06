@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T08:51:39.677727+00:00",
+  "generated": "2026-09-06T09:02:25.142389+00:00",
   "date": "2026-09-06",
-  "count": 192,
+  "count": 199,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1346,6 +1346,55 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/bern-jugendlicher-am-bahnhof-europaplatz-toedlich-verletzt-art-1720279",
       "summary": "",
       "published": "2026-09-06T08:51:39.677727+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Klimawandel in den Bergen – Steigende Temperaturen verändern die Pflanzenwelt in den Alpen",
+      "url": "https://www.srf.ch/news/schweiz/klimawandel-in-den-bergen-steigende-temperaturen-veraendern-die-pflanzenwelt-in-den-alpen",
+      "summary": "Arnika statt Gletscher-Hahnenfuss: In Europas Berggipfeln verschwinden kälteliebende Arten – und machen neuen Platz.",
+      "published": "2026-09-06T09:02:25.142389+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wohnungsbrand in Frauenfeld: «Das Feuer brach auf dem Balkon aus»",
+      "url": "https://www.blick.ch/schweiz/feuerwehr-im-einsatz-leservideo-zeigt-den-brand-in-frauenfeld-id22238200.html",
+      "summary": "In einer Wohnung in Frauenfeld kam es zu einem Brand, weshalb die Feuerwehr am Sonntagmorgen ausrücken musste.",
+      "published": "2026-09-06T09:02:25.142389+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zuger Maskendeals: mehr als «nur» 750 Steuermillionen",
+      "url": "https://www.zentralplus.ch/kolumne/zuger-maskendeals-mehr-als-nur-750-steuermillionen-2894025/",
+      "summary": "Der Medienrummel um den Berufungsprozess im Fall Raiffeisen / Vincenz lässt einen finanziell und rechtsstaatlich bedeutenden Fall in den Hintergrund treten: die Maskendeals der Zuger Emix. «Unfair wär",
+      "published": "2026-09-06T09:02:25.142389+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Was Ich Noch zu Sagen Hätte Maya Buckel",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/was-ich-noch-zu-sagen-haette-maya-buckel-ld.4190923",
+      "summary": "",
+      "published": "2026-09-06T09:02:25.142389+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Keine Verletzten nach Brand in Mehrfamilienhaus in Frauenfeld TG",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/374699947-keine-verletzten-nach-brand-in-mehrfamilienhaus-in-frauenfeld-tg",
+      "summary": "",
+      "published": "2026-09-06T09:02:25.142389+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Neutralitäts-Initiative würde die Schweizer Flexibilität gefährden",
+      "url": "https://www.watson.ch/schweiz/blogs/957661927-die-neutralitaets-initiative-wuerde-die-schweizer-flexibilitaet-gefaehrden",
+      "summary": "",
+      "published": "2026-09-06T09:02:25.142389+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Autobahn von Goldau nach Küssnacht wegen Unfall gesperrt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/autobahn-von-goldau-nach-kuessnacht-wegen-unfall-gesperrt-art-1720281",
+      "summary": "",
+      "published": "2026-09-06T09:02:25.142389+00:00"
     }
   ]
 }
