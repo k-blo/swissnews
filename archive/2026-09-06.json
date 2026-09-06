@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T00:02:39.958617+00:00",
+  "generated": "2026-09-06T00:32:26.988347+00:00",
   "date": "2026-09-06",
-  "count": 6,
+  "count": 10,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -44,6 +44,34 @@
       "url": "https://www.blick.ch/schweiz/basel-landschaft/mutmassliche-taeterin-verhaftet-mann-bei-messerangriff-in-oberwil-bl-verletzt-id22237931.html",
       "summary": "Am Samstagabend kam es in Oberwil zu einem blutigen Beziehungsdelikt beim Coop-Parkplatz. Die mutmassliche Täterin wurde festgenommen.",
       "published": "2026-09-05T23:32:41.932784+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Europas Weg ins All: Deutsche Rakete erreicht erstmals die Erdumlaufbahn",
+      "url": "https://www.tagesanzeiger.ch/isar-aerospace-spectrum-rakete-erreicht-erstmals-den-weltraum-826383236131",
+      "summary": "Nach einem Fehlstart im vergangenen Jahr hat die deutsche Spectrum-Rakete diesmal die Karman-Linie erreicht. Damit wächst Europas Hoffnung auf einen eigenen Zugang zum All – unabhängig von US-Anbieter",
+      "published": "2026-09-06T00:32:26.988347+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wer Bezahlt die Aufrüstung der Armee",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/wer-bezahlt-die-aufruestung-der-armee",
+      "summary": "",
+      "published": "2026-09-06T00:32:26.988347+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Mut zu Sich zu Stehen Island Sagt Nein zu Beitrittsverhandlungen mit der Eu",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/mut-zu-sich-zu-stehen-island-sagt-nein-zu-beitrittsverhandlungen-mit-der-eu",
+      "summary": "",
+      "published": "2026-09-06T00:32:26.988347+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Fuchs im Hühnerstall ein Modernes Märchen",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/der-fuchs-im-huehnerstall-ein-modernes-maerchen",
+      "summary": "",
+      "published": "2026-09-06T00:32:26.988347+00:00"
     }
   ]
 }
