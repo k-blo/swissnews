@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T00:32:26.988347+00:00",
+  "generated": "2026-09-06T00:50:58.024864+00:00",
   "date": "2026-09-06",
-  "count": 10,
+  "count": 11,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -72,6 +72,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/der-fuchs-im-huehnerstall-ein-modernes-maerchen",
       "summary": "",
       "published": "2026-09-06T00:32:26.988347+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wladimir Putin trifft in Moskau auf Jared Kushner und Steve Witkoff",
+      "url": "https://www.watson.ch/international/usa/356461364-wladimir-putin-trifft-in-moskau-auf-jared-kushner-und-steve-witkoff",
+      "summary": "",
+      "published": "2026-09-06T00:50:58.024864+00:00"
     }
   ]
 }
