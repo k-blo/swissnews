@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T22:32:17.283223+00:00",
+  "generated": "2026-09-06T23:02:40.741441+00:00",
   "date": "2026-09-07",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/birdys-vogel-ist-koch-des-monats-art-1720294",
       "summary": "",
       "published": "2026-09-06T22:32:17.283223+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Fünf Tote bei Flugzeugunfall in Miami",
+      "url": "https://www.zentralplus.ch/news/fuenf-tote-bei-flugzeugunfall-in-miami-2896863/",
+      "summary": "Bei einem Unfall eines Amazon-Frachtflugzeugs am Flughafen Miami im US-Bundesstaat Florida sind mindestens fünf Menschen ums Leben gekommen. Fünf weitere wurden verletzt ins Krankenhaus gebracht. Das ",
+      "published": "2026-09-06T23:02:40.741441+00:00"
     }
   ]
 }
