@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T09:32:57.128176+00:00",
+  "generated": "2026-09-06T09:36:19.690481+00:00",
   "date": "2026-09-06",
-  "count": 222,
+  "count": 224,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1556,6 +1556,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/bistro-der-gewuerzmuehle-wird-zur-buehne-fuer-winkelzug-art-1720282",
       "summary": "",
       "published": "2026-09-06T09:32:57.128176+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Neuer Roman von Giuliano Musio: Der Berner Autor erzählt die Pinocchio-Geschichte radikal anders",
+      "url": "https://www.bernerzeitung.ch/giuliano-musio-pinocchio-neu-erzaehlt-auf-longlist-309537056366",
+      "summary": "Giuliano Musio ist für den Deutschen Buchpreis nominiert. Packend und originell erzählt er von der Menschwerdung der Holzpuppe und taucht in das Italien der 1980er-Jahre ein.",
+      "published": "2026-09-06T09:36:19.690481+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Graz droht Zahlungsunfähigkeit: Die Kommunisten müssen einen Ausgabenstopp verhängen",
+      "url": "https://www.nzz.ch/international/graz-droht-zahlungsunfaehigkeit-kommunisten-verhaengen-ausgabenstopp-ld.10022307",
+      "summary": "",
+      "published": "2026-09-06T09:36:19.690481+00:00"
     }
   ]
 }
