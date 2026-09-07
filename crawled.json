@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T14:01:50.262045+00:00",
+  "generated": "2026-09-07T14:32:21.260600+00:00",
   "date": "2026-09-07",
-  "count": 664,
+  "count": 707,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4650,6 +4650,307 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/mehr-geld-fuer-die-strassen-im-kanton-luzern-art-1720476",
       "summary": "",
       "published": "2026-09-07T14:01:50.262045+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Cannabis-Studie – Erste Ergebnisse: Legale Hanf-Abgabe lässt Konsum nicht steigen",
+      "url": "https://www.srf.ch/news/schweiz/cannabis-studie-erste-ergebnisse-legale-hanf-abgabe-laesst-konsum-nicht-steigen",
+      "summary": "Zwischenresultate zeigen: Reguliertes Cannabis aus Apotheken erhöht den Konsum nicht und fördert risikoärmere Formen.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Bundesrat unterstützt Vorstoss – Im Notfall soll die Schweiz eine Eintrittsgebühr verlangen dürfen",
+      "url": "https://www.srf.ch/news/schweiz/bundesrat-unterstuetzt-vorstoss-im-notfall-soll-die-schweiz-eine-eintrittsgebuehr-verlangen-duerfen",
+      "summary": "Ein neuer Vorschlag für eine Zuwanderungsabgabe hat Aufwind im Bundeshaus. Die wichtigsten Antworten.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kantonale Abstimmung – Genfer Bevölkerung stimmt über Gratis-Verhütung ab",
+      "url": "https://www.srf.ch/news/schweiz/kantonale-abstimmung-genfer-bevoelkerung-stimmt-ueber-gratis-verhuetung-ab",
+      "summary": "Das Ziel der linken Initiantinnen: Genf soll Vorreiter sein für kostenlose Verhütungsmittel in der ganzen Schweiz.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Schwerer Unfall in Rothenbrunnen GR: Töfffahrer (74) nach Kollision durch Luft geschleudert",
+      "url": "https://www.blick.ch/schweiz/schwerer-unfall-in-rothenbrunnen-gr-toefffahrer-74-nach-kollision-durch-luft-geschleudert-id22241182.html",
+      "summary": "Am Sonntagnachmittag hat sich auf der Autostrasse A13 in Rothenbrunnen eine Auffahrkollision ereignet. Ein Motorradfahrer wurde dabei schwer verletzt.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Messer und Schussgeräusche an Schülerfest: Polizei informiert",
+      "url": "https://www.20min.ch/story/nach-aarau-amoktat-es-war-angst-da-vermeintliche-schuesse-an-schuelerfest-103629248",
+      "summary": "Am Freitagabend wurden in Goldach rund 300 Schülerinnen und Schüler von einem Schulfest evakuiert. Die Polizei erhielt mehrere Anrufe über mutmassliche Schüsse, dabei handelte es sich aber um Böller.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Was machen wir hier eigentlich?» Radprofis wegen Hitze am Limit",
+      "url": "https://www.20min.ch/story/la-vuelta-was-machen-wir-hier-eigentlich-radprofis-wegen-hitze-am-limit-103629159",
+      "summary": "Brütende Hitze prägt die Etappe in Andalusien. Sieger Wout van Aert droht mit Konsequenzen, andere Fahrer warnen vor Hitzeschlägen.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ariel und Elena Miras ziehen in die «Promis unter Palmen»-Villa",
+      "url": "https://www.20min.ch/story/promis-unter-palmen-staffel-5-harald-gloeoeckler-und-zwei-dschungelkoenige-dabei-103629123",
+      "summary": "Der Cast für die neue Staffel «Promis unter Palmen» steht fest. Neben Ariel und Elena Miras ziehen zwei ehemalige Dschungelkönige und weitere Realitystars in die Villa.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jäger erschiesst Pferd statt Hirsch",
+      "url": "https://www.20min.ch/story/avers-gr-verwechslung-jaeger-erschiesst-pferd-statt-hirsch-103629175",
+      "summary": "Am frühen Sonntagmorgen hat ein Jäger in Avers GR auf ein Pferd geschossen und dieses getötet. Er dachte, er ziele auf einen Hirsch.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Von KI-Angst zu Widerstand: Wo ist die KI-Greta?",
+      "url": "https://www.tagesanzeiger.ch/ki-kippt-die-stimmung-gerade-966521922045",
+      "summary": "Job-Killer und Umweltbelastung: Die Angst vor künstlicher Intelligenz wächst – und mit ihr der Widerstand gegen Rechenzentren und Techkonzerne.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zürcher Weinland: «Bekanntmachung!» – Sohn des ehemaligen Gemeindepräsidenten findet alte Meldeglocke im Keller",
+      "url": "https://www.tagesanzeiger.ch/dachsen-historische-meldeglocke-kehrt-nach-60-jahren-zurueck-732304383233",
+      "summary": "Als Markus Vogel sein Haus in Kilchberg ZH räumte, entdeckte er ein historisches Stück aus Dachsen. Die feierliche Übergabe im Güterschuppen löste eine Freibier-Verwirrung aus.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tipps für Herbstausflüge: 5 leichte Wanderungen zum Spätsommer",
+      "url": "https://encore-mag.ch/de/5-spaziergaenge-zum-spaetsommer/",
+      "summary": "Ein wenig frische Bergluft, bevor der Alltag wieder richtig beginnt! Diese Routen in der Westschweiz sind Klassiker, die man immer wieder gerne begeht.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Nach Cupfinal 2025 im Wankdorf: Berner Polizei will vier Pyro-Zünder an den Internet­pranger stellen",
+      "url": "https://www.bernerzeitung.ch/cupfinal-wankdorf-polizei-fahndet-nach-pyro-zuendern-521489295262",
+      "summary": "Beim Cupfinal 2025 zündeten vier Männer Fackeln und Knall­petarden mitten in der Menschen­menge. Die Polizei initiiert nun eine stufen­weise Öffentlich­keits­fahndung.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Grosser Rat stimmt zu: Drei historische Liegenschaften bleiben beim Kanton Bern",
+      "url": "https://www.bernerzeitung.ch/kanton-bern-7-4-mio-fuer-amthaeuser-meiringen-und-erlach-963061171784",
+      "summary": "Der Grosse Rat nimmt die Liegenschaften in Meiringen, Erlach und Büren an der Aare ins Verwaltungsvermögen zurück. Für deren Sanierung sind 7,4 Millionen Franken vorgesehen.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Familiendoku mit Baschi: «Keine Mutter will hören, dass das eigene Kind scheisse sei»",
+      "url": "https://www.bazonline.ch/baschi-spricht-in-srf-doku-ueber-alkohol-und-krebs-seiner-mutter-802993101522",
+      "summary": "In einer neuen Doku spricht der Baselbieter mit seiner Mutter Monika über seine Kindheit, ihre Krebserkrankung und sein Gefühlsleben. Das sind die spannendsten Beichten von Mutter und Sohn.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Planung genehmigt: Zweiter Anlauf gelingt: Birsfelden baut Zentrum um",
+      "url": "https://www.bazonline.ch/birsfelden-zentrumsplanung-nach-nein-2022-genehmigt-683138172193",
+      "summary": "Nach einem Nein an der Urne 2022 hat der Regierungsrat Basel-Landschaft die überarbeitete Quartierplanung genehmigt. Geplant sind Wohnbauten, eine Kultur- und Markthalle – doch bis zum Baustart dauert",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Armeechef warnt vor Sabotageangriffen",
+      "url": "https://www.zentralplus.ch/news/armeechef-warnt-vor-sabotageangriffen-2897027/",
+      "summary": "Die Schweiz ist laut Armeechef Benedikt Roos ebenfalls Ziel von Cyberangriffen und Sabotage. Besonders Russland stelle eine Bedrohung für die Schweizer Sicherheit dar, sagte Roos im «Tagesgespräch» vo",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Mit 1,34 Promille ins Taxi gecrasht",
+      "url": "https://www.zentralplus.ch/news/mit-134-promille-ins-taxi-gecrasht-2897022/",
+      "summary": "Ein 21-Jähriger übersah in Zug ein vortrittsberechtigtes Taxi. Nach der Kollision nahm ihm die Polizei den Führerausweis ab. Am frühen Sonntagmorgen ist es in der Stadt Zug zu einer Kollision zwischen",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Roger Federer verkörperte als Maskottchen von Schweiz Tourismus den Erfolg und die ostentative Bescheidenheit des Landes – eine Würdigung",
+      "url": "https://www.nzz.ch/schweiz/roger-federer-verkoerperte-als-maskottchen-von-schweiz-tourismus-den-erfolg-und-die-ostentative-bescheidenheit-des-landes-eine-wuerdigung-ld.10022670",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Sechs Jahre nach Corona erhalten Zürcher Gemeindebehörden das Recht, Sitzungen virtuell abzuhalten",
+      "url": "https://www.nzz.ch/zuerich/sechs-jahre-nach-corona-erhalten-zuercher-gemeindebehoerden-jetzt-das-recht-sitzungen-virtuell-abzuhalten-ld.10022705",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Ipso!-Schulen schärfen ihre einzelnen Profile",
+      "url": "https://www.persoenlich.com/kategorie-werbung/ipso-schulen-scharfen-ihre-einzelnen-profile",
+      "summary": "Die Farner-Agentur hat für die Bildungsanbieterin eine neue Kampagne für die vier Schulen IBZ, IFA, HWS und NSH entwickelt. Unter der Leitidee «Bildung mit Wirkung» erhält jede Schule einen eigenständ",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Bank holt Chef Marketing und Kommunikation",
+      "url": "https://www.persoenlich.com/marketing/bank-holt-chef-marketing-und-kommunikation",
+      "summary": "José-Manuel Pombo Lanz übernimmt per 1. Januar 2027 die Leitung Marketing und Kommunikation der Zürcher Kantonalbank. Der 52-Jährige wechselt von der LGT Group zur Zürcher Kantonalbank.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Grüne Schaffhausen lancieren Petition für strengere Regeln bei Datencentern",
+      "url": "https://www.shn.ch/region/kanton/2026-09-07/gruene-schaffhausen-lancieren-petition-fuer-strengere-regeln-bei",
+      "summary": "Die Grünen Schaffhausen erhöhen den Druck auf Politik und Regierung: Mit einer Petition fordern sie strengere Vorgaben für Datencenter im Kanton Schaffhausen.",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Deutsche Eishockeyfans Schwärmen von Davos und Sticheln",
+      "url": "https://www.suedostschweiz.ch/regionalsport/deutsche-eishockeyfans-schwaermen-von-davos-und-sticheln-2151337",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Abstimmung vom 27 September Darum Gehts bei der Ernährungsinitiative",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/abstimmung-vom-27-september-darum-gehts-bei-der-ernaehrungsinitiative-2147357",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "100 Jahre Menzi in Mitlödi wie Sich die Metzg zur Hauptschlagader des Dorfes Verwandelte",
+      "url": "https://www.suedostschweiz.ch/glarus/100-jahre-menzi-in-mitloedi-wie-sich-die-metzg-zur-hauptschlagader-des-dorfes-verwandelte-2138853",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Giovanni Pini der Luzerner Schwergewichtsboxer",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/giovanni-pini-der-luzerner-schwergewichtsboxer-ld.4225640",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kantonsrat Bewilligt 20 Millionen Beitrag für die Ph Luzern",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/kantonsrat-bewilligt-20-millionen-beitrag-fuer-die-ph-luzern-ld.4228374",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fc Luzern Lars Villiger Könnte Noch Wechseln",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fc-luzern-lars-villiger-koennte-noch-wechseln-ld.4229171",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Möhlin Tiefkühlgerät Wohl Auslöser für Grossbrand",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/moehlin-tiefkuehlgeraet-wohl-ausloeser-fuer-grossbrand-ld.4228861",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Goldach wie der Amoklauf in Aarau die Schussmeldungen Prägte",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/goldach-wie-der-amoklauf-in-aarau-die-schussmeldungen-praegte-ld.4228979",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Rotary Club Olten West Wald und Weide im Gleichgewicht",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/rotary-club-olten-west-wald-und-weide-im-gleichgewicht-ld.4229347",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Virtülle Sitzungen Zürcher Gemeinden Erhalten Rechtsgrundlage",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/virtuelle-sitzungen-zuercher-gemeinden-erhalten-rechtsgrundlage-ld.4229139",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Open Desk: Bund startet Versuch mit Microsoft-freien Arbeitsplätzen",
+      "url": "https://www.watson.ch/digital/arbeitswelt/827561900-open-desk-bund-startet-versuch-mit-microsoft-freien-arbeitsplaetzen",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Israelische Angriffe auf Libanon: 12 Tote",
+      "url": "https://www.watson.ch/international/israel/336032858-israelische-angriffe-auf-libanon-12-tote",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Saudische Investoren versprechen Taliban Millionen für Suche nach Erdöl",
+      "url": "https://www.watson.ch/wirtschaft/international/104221504-saudische-investoren-versprechen-taliban-millionen-fuer-suche-nach-erdoel",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Moskau schliesst Goethe-Institute – Mitarbeitende müssen Land verlassen",
+      "url": "https://www.watson.ch/international/deutschland/323222180-moskau-schliesst-goethe-institute-mitarbeitende-muessen-land-verlassen",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Diebe geben sich in Winterthur als Handwerker aus",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/358780763-diebe-geben-sich-in-winterthur-als-handwerker-aus",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "46-Jähriger schwer verletzt: Basler Polizei sucht drei Jugendliche",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/778073820-46-jaehriger-schwer-verletzt-basler-polizei-sucht-drei-jugendliche",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zigarettenstummel auf Spielplätzen: «stop2drop» zählt erstmals auch Snus und Vapes",
+      "url": "https://www.freiburger-nachrichten.ch/story/288365/zigarettenstummel-auf-spielpl%C3%A4tzen-stop2drop-z%C3%A4hlt-erstmals-auch-snus-und-vapes",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gras statt vom Dealer aus der Apotheke – mit überraschenden Folgen",
+      "url": "https://www.freiburger-nachrichten.ch/story/288418/gras-statt-vom-dealer-aus-der-apotheke-mit-%C3%BCberraschenden-folgen",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kantonsrat bewilligt Millionenbeitrag für PH Luzern trotz Widerstand von SVP",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kantonsrat-bewilligt-20-millionen-beitrag-fuer-die-ph-luzern-art-1720486",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wechselt FCL-Stürmer Lars Villiger auf den letzten Drücker?",
+      "url": "https://www.bote.ch/nachrichten/sport/fc-luzern-lars-villiger-koennte-noch-wechseln-art-1720485",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Die Innerschweizer Glanzleistung in Kilchberg»",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/die-innerschweizer-glanzleistung-in-kilchberg-art-1720481",
+      "summary": "",
+      "published": "2026-09-07T14:32:21.260600+00:00"
     }
   ]
 }
