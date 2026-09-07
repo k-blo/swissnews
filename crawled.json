@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T23:01:48.629031+00:00",
+  "generated": "2026-09-07T23:31:44.750308+00:00",
   "date": "2026-09-08",
-  "count": 38,
+  "count": 41,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -268,6 +268,27 @@
       "url": "https://www.watson.ch/international/akw/912016338-krieg-ukraine-russland-akw-saporischja-hat-wieder-strom",
       "summary": "",
       "published": "2026-09-07T23:01:48.629031+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Unglück mit Amazon-Flugzeug: Todesopfer sassen in Kleinbus",
+      "url": "https://www.20min.ch/story/amazon-prime-crash-miami-neue-details-zu-todesopfern-ursache-noch-unbekannt-103629374",
+      "summary": "Nach dem Crash eines Amazon-Frachtflugzeugs am Flughafen Miami mit fünf Toten haben die Ermittler erste Spuren gesichert.",
+      "published": "2026-09-07T23:31:44.750308+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ecuador: Polizei stellt mehr als zwei Tonnen Kokain sicher",
+      "url": "https://www.watson.ch/international/drogen/642123229-ecuador-polizei-stellt-mehr-als-zwei-tonnen-kokain-sicher",
+      "summary": "",
+      "published": "2026-09-07T23:31:44.750308+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Gianni Infantino Fifa: Belgien entzieht Vertrauen",
+      "url": "https://www.watson.ch/sport/fifa/799450724-gianni-infantino-fifa-belgien-entzieht-vertrauen",
+      "summary": "",
+      "published": "2026-09-07T23:31:44.750308+00:00"
     }
   ]
 }
