@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T07:01:48.229522+00:00",
+  "generated": "2026-09-07T07:31:31.438089+00:00",
   "date": "2026-09-07",
-  "count": 226,
+  "count": 246,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1584,6 +1584,146 @@
       "url": "https://insideparadeplatz.ch/2026/09/07/hochgelobte-yael-meier-eine-jugend-auspresserin/",
       "summary": "",
       "published": "2026-09-07T07:01:48.229522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Arbeitsmarkt Schweiz: Arbeitslosenquote bleibt bei 3,0 Prozent",
+      "url": "https://www.tagesanzeiger.ch/arbeitslosenquote-schweiz-verharrt-im-august-bei-3-0-prozent-676921780984",
+      "summary": "Die Zahl der Arbeitslosen stieg leicht auf 141’544 Personen. Bei den Jugendlichen kletterte die Quote saisonbedingt von 2,8 auf 3,4 Prozent.",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stephan Lichtsteiner: Der FCB-Trainer wird ausgepfiffen, sein Sitz wackelt mehr denn je",
+      "url": "https://www.tagesanzeiger.ch/fc-basel-die-situation-um-lichtsteiner-bleibt-ungewiss-135594715576",
+      "summary": "Nach der Heim-Niederlage gegen Lugano bekommt er auch von den eigenen Fans keinen Support mehr – muss Stephan Lichtsteiner nun seinen Platz räumen?",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Medien über AfD-Sieg: «Der Weg für die erste rechtsextreme Regierung seit 1945 ist geebnet»",
+      "url": "https://www.bernerzeitung.ch/afd-sieg-in-sachsen-anhalt-weltmedien-berichten-ueber-merz-367771506430",
+      "summary": "BBC, «Le Monde», «New York Times»: Die Landtagswahl in Sachsen-Anhalt dominiert die internationalen Schlagzeilen. Viele Medien betonen den historischen Bruch und den Absturz der CDU.",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "E-Trotti-Fahrerin angefahren: An der Kreuzung zur Schwarzwaldallee krachte es – Fahrerflucht",
+      "url": "https://www.bazonline.ch/fahrerflucht-in-basel-auto-kollidiert-mit-e-trotti-377901089652",
+      "summary": "Bei einer Kollision mit einem Auto wurde eine E-Trotti-Fahrerin verletzt. Die Polizei sucht Zeugen.",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kirchen feiern Bettag mit islamischer Gemeinde",
+      "url": "https://www.zentralplus.ch/news/kirchen-feiern-bettag-mit-islamischer-gemeinde-2896877/",
+      "summary": "Die Luzerner Landeskirchen führen eine gemeinsame Aktion mit der islamischen Gemeinde Luzern durch. Im Zentrum steht das bewusste Wahrnehmen anderer Perspektiven. Die Luzerner Landeskirchen und der Ka",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Strategien gegen AfD gescheitert»",
+      "url": "https://www.zentralplus.ch/news/strategien-gegen-afd-gescheitert-2896884/",
+      "summary": "SRF-Deutschland-Korrespondentin Simone Fatzer erklärt, wie der Erfolg der AfD in Sachsen-Anhalt zu deuten ist. «Es zeigt sich, dass nun auch in Deutschland radikale Ideologien und antidemokratische Po",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Bund konkretisiert Open-Source-Arbeitsplatz",
+      "url": "https://www.inside-it.ch/bund-konkretisiert-open-source-arbeitsplatz-20260907",
+      "summary": "Für den Betrieb werden derzeit zwei Modelle parallel geprüft: eine Lösung von Schweizer Anbietern und der Eigenbetrieb von Opendesk.",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "An Diese Seat Modelle Werden Wir Uns Erinnern",
+      "url": "https://www.bilanz.ch/archiv/an-diese-seat-modelle-werden-wir-uns-erinnern/cllz470",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Noble Pool Villa an der Goldküste zum Verkauf für 98 Millionen",
+      "url": "https://www.bilanz.ch/archiv/noble-pool-villa-an-der-goldkueste-zum-verkauf-fuer-98-millionen/96z12mj",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Schweiz Tourismus Verzichtet auf Roger Federer das Steckt Hinter dem Wechsel",
+      "url": "https://www.suedostschweiz.ch/sportradar/schweiz-tourismus-verzichtet-auf-roger-federer-das-steckt-hinter-dem-wechsel-2150720",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Beim Fernwärmeprojekt in Frauenfeld Sind Keine Lecks Bekannt",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/beim-fernwaermeprojekt-in-frauenfeld-sind-keine-lecks-bekannt-ld.4227819",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Förderverein des Paul Gugelmann Museums Dankte für die Freiwilligenarbeit",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/foerderverein-des-paul-gugelmann-museums-dankte-fuer-die-freiwilligenarbeit-ld.4228729",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland-Aussenminister Lawrow weist Vorwürfe zurück – und droht",
+      "url": "https://www.watson.ch/international/deutschland/784925928-russland-aussenminister-lawrow-weist-vorwuerfe-zurueck-und-droht",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "US Open: Alcaraz dominiert weiter – Sabalenka souverän",
+      "url": "https://www.watson.ch/sport/tennis/421809680-us-open-alcaraz-dominiert-weiter-sabalenka-souveraen",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Arbeitslosenquote in der Schweiz bleibt im August bei 3,0 Prozent",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/975031561-arbeitslosenquote-in-der-schweiz-bleibt-im-august-bei-3-0-prozent",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kosten von E-Autos: Beim Fahren 33 Prozent günstiger als Benziner",
+      "url": "https://www.watson.ch/international/auto/902384491-kosten-von-e-autos-beim-fahren-33-prozent-guenstiger-als-benziner",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Discounter Action eröffnet 20. Filiale im Shoppingcenter Tellpark",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/258414113-discounter-action-eroeffnet-20-filiale-im-shoppingcenter-tellpark",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Wer Wählte die Afd in Sachsen Anhalt",
+      "url": "https://www.infosperber.ch/politik/wer-waehlte-die-afd-in-sachsen-anhalt/",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Deutschlands Geschichte Kocht in der Rentendebatte Wieder Hoch",
+      "url": "https://www.infosperber.ch/wirtschaft/uebriges-wirtschaft/deutschlands-geschichte-kocht-in-der-rentendebatte-wieder-hoch/",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Und sie Dürfen Diese Strafe auf Instagram Nicht Liken",
+      "url": "https://www.infosperber.ch/gesellschaft/und-sie-duerfen-diese-strafe-auf-instagram-nicht-liken/",
+      "summary": "",
+      "published": "2026-09-07T07:31:31.438089+00:00"
     }
   ]
 }
