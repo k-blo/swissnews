@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T01:03:29.281808+00:00",
+  "generated": "2026-09-07T01:32:30.455397+00:00",
   "date": "2026-09-07",
-  "count": 29,
+  "count": 32,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -205,6 +205,27 @@
       "url": "https://www.tagesanzeiger.ch/usa-gouverneurswahlen-ohio-angriff-auf-demokratin-amy-acton-unverletzt-835076501472",
       "summary": "Ein Mann stürzt sich bei einem Volksfest im US-Bundesstaat Ohio auf eine demokratische Kandidatin. Es gibt Verletzte.",
       "published": "2026-09-07T01:03:29.281808+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "MEX: 10 Tote bei Feuerwerksexplosion",
+      "url": "https://www.zentralplus.ch/news/mex-10-tote-bei-feuerwerksexplosion-2896867/",
+      "summary": "Bei einer Feuerwerksexplosion rund 160 Kilometer nordwestlich von Mexiko-Stadt sind mindestens zehn Menschen ums Leben gekommen. Weitere 64 Menschen seien verletzt worden, teilte die Regierung des zen",
+      "published": "2026-09-07T01:32:30.455397+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ohio: Angriff auf Demokratin Amy Acton",
+      "url": "https://www.zentralplus.ch/news/ohio-angriff-auf-demokratin-amy-acton-2896865/",
+      "summary": "Im US-Bundesstaat Ohio hat ein bewaffneter Angreifer die demokratische Gouverneurskandidatin Amy Acton attackiert. Gemäss Medienberichten stürzte er sich auf Acton und riss dabei mehrere Personen zu B",
+      "published": "2026-09-07T01:32:30.455397+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Noch nichts vor im Herbst?",
+      "url": "https://www.shn.ch/multimedia/publireportagen/2026-09-07/noch-nichts-vor-im-herbst",
+      "summary": "Wir haben ein vielseitiges Herbst-Programm zusammengestellt und bieten für Gross und Klein, Jung und Alt das Passende: spannende Begegnungen an der Herbstmesse, einen unterhaltsamen Kinonachmittag für",
+      "published": "2026-09-07T01:32:30.455397+00:00"
     }
   ]
 }
