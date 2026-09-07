@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T23:32:58.928375+00:00",
+  "generated": "2026-09-07T00:02:46.252468+00:00",
   "date": "2026-09-07",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,13 @@
       "url": "https://www.zentralplus.ch/news/fuenf-tote-bei-flugzeugunfall-in-miami-2896863/",
       "summary": "Bei einem Unfall eines Amazon-Frachtflugzeugs am Flughafen Miami im US-Bundesstaat Florida sind mindestens fünf Menschen ums Leben gekommen. Fünf weitere wurden verletzt ins Krankenhaus gebracht. Das ",
       "published": "2026-09-06T23:02:40.741441+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Amy Acton Ohio: Angriff auf demokratische Gouverneurs-Kandidatin",
+      "url": "https://www.watson.ch/international/usa/488242908-amy-acton-ohio-angriff-auf-demokratische-gouverneurs-kandidatin",
+      "summary": "",
+      "published": "2026-09-07T00:02:46.252468+00:00"
     }
   ]
 }
