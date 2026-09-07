@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T01:32:30.455397+00:00",
+  "generated": "2026-09-07T02:02:17.302909+00:00",
   "date": "2026-09-07",
-  "count": 32,
+  "count": 33,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -226,6 +226,13 @@
       "url": "https://www.shn.ch/multimedia/publireportagen/2026-09-07/noch-nichts-vor-im-herbst",
       "summary": "Wir haben ein vielseitiges Herbst-Programm zusammengestellt und bieten für Gross und Klein, Jung und Alt das Passende: spannende Begegnungen an der Herbstmesse, einen unterhaltsamen Kinonachmittag für",
       "published": "2026-09-07T01:32:30.455397+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Fünf Tote bei Unfall mit Amazon-Frachtflugzeug in Miami",
+      "url": "https://www.nzz.ch/panorama/fuenf-tote-bei-unfall-mit-amazon-frachtflugzeug-in-miami-ld.10022643",
+      "summary": "",
+      "published": "2026-09-07T02:02:17.302909+00:00"
     }
   ]
 }
