@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T22:01:59.953377+00:00",
+  "generated": "2026-09-07T22:32:11.021824+00:00",
   "date": "2026-09-08",
-  "count": 3,
+  "count": 35,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -23,6 +23,230 @@
       "url": "https://www.freiburger-nachrichten.ch/story/284860/mit-der-zahnradbahn-zum-alpinum-la-rambertia",
       "summary": "",
       "published": "2026-09-07T22:01:59.953377+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Folge der Trockenheit: Weil Heu fehlt, sammelt Knies Kinderzoo Äste für seine Tiere",
+      "url": "https://www.tagesanzeiger.ch/knies-kinderzoo-rapperswil-heuknappheit-zwingt-zu-ast-diaet-458038477084",
+      "summary": "Wegen des Heumangels setzt der Zoo in Rapperswil neu auf Knospen, Rinde und Blätter. Bereits 20 Spender haben Schnittgut angeliefert. Auch Dorniges ist dabei – für die Kamele.",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "UKR: AKW Saporischschja wieder am Netz",
+      "url": "https://www.zentralplus.ch/news/ukr-akw-saporischschja-wieder-am-netz-2897079/",
+      "summary": "Das ukrainische Atomkraftwerk Saporischschja hat nach fast drei Wochen wieder externe Stromversorgung. Eine beschädigte Stromleitung sei repariert worden, teilte die Internationale Atomenergiebehörde ",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ritterliche Ehre für Alt-Bezirksammann Oliver Ebert",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ritterliche-ehre-fuer-alt-bezirksammann-oliver-ebert-art-1720489",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Das ist erst der Anfang. Wir bauen unsere Angebote weiter aus»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/das-ist-erst-der-anfang-wir-bauen-unsere-angebote-weiter-aus-art-1720541",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wozu dient uns der Wolf?",
+      "url": "https://www.bote.ch/service/leserbriefe/wozu-dient-uns-der-wolf-art-1720512",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wassermangel durch KI?",
+      "url": "https://www.bote.ch/service/leserbriefe/wassermangel-durch-ki-art-1720516",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Senioren-Jahresausflug Morschach führt nach Seengen",
+      "url": "https://www.bote.ch/nachrichten/vereine/senioren-jahresausflug-morschach-fuehrt-nach-seengen-art-1720462",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Jäger wollen keine stinkenden Hirsche",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-jaeger-wollen-keine-stinkenden-hirsche-art-1720520",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rochade im Kantonsrat: Nach sechs Jahren tritt SP-Politikerin zurück",
+      "url": "https://www.bote.ch/nachrichten/schwyz/rochade-im-kantonsrat-nach-sechs-jahren-tritt-sp-politikerin-zurueck-art-1720490",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Politische Sturheit als neue Kunst",
+      "url": "https://www.bote.ch/service/leserbriefe/politische-sturheit-als-neue-kunst-art-1720514",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Oldtimer-Ausfahrt mit insieme",
+      "url": "https://www.bote.ch/nachrichten/vereine/oldtimer-ausfahrt-mit-insieme-art-1720472",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nicht viele, dafür schöne Steinpilze",
+      "url": "https://www.bote.ch/nachrichten/schwyz/nicht-viele-dafuer-schoene-steinpilze-art-1720448",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nachhaltigkeit statt Experimente",
+      "url": "https://www.bote.ch/service/leserbriefe/nachhaltigkeit-statt-experimente-art-1720515",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Meistertitel zum Familientreff",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/meistertitel-zum-familientreff-art-1720456",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzerner übernimmt Leitung des Alters- und Pflegeheims Ybrig",
+      "url": "https://www.bote.ch/nachrichten/schwyz/luzerner-uebernimmt-leitung-des-alters-und-pflegeheims-ybrig-art-1720487",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Küssnacht mit Blitzstart zum klaren 4:1-Sieg",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/kuessnacht-mit-blitzstart-zum-klaren-41-sieg-art-1720484",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kloster Au weiht goldene Monstranz ein",
+      "url": "https://www.bote.ch/nachrichten/vereine/kloster-au-weiht-goldene-monstranz-ein-art-1720451",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Herbstwetter verdrängt den heissen Sommer",
+      "url": "https://www.bote.ch/nachrichten/schwyz/herbstwetter-verdraengt-den-heissen-sommer-art-1720498",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gemütlicher Sportwettstreit in der Au",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/gemuetlicher-sportwettstreit-in-der-au-art-1720473",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gemütlicher Pfadirückblick der PTA",
+      "url": "https://www.bote.ch/nachrichten/vereine/gemuetlicher-pfadirueckblick-der-pta-art-1720452",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gemischter Chor Schwyz: Reinschauen, mitsingen, strahlen",
+      "url": "https://www.bote.ch/nachrichten/vereine/gemischter-chor-schwyz-reinschauen-mitsingen-strahlen-art-1720466",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Galleria Szenario überzeugt mit einer frechen Expo",
+      "url": "https://www.bote.ch/nachrichten/schwyz/galleria-szenario-ueberzeugt-mit-einer-frechen-expo-art-1720488",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fotoclub Schwyz startet in die zweite Jahreshälfte",
+      "url": "https://www.bote.ch/nachrichten/vereine/fotoclub-schwyz-startet-in-die-zweite-jahreshaelfte-art-1720457",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein klangvolles Vereinsjahr ist beendet",
+      "url": "https://www.bote.ch/nachrichten/vereine/ein-klangvolles-vereinsjahr-ist-beendet-art-1720453",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eidgenossen, bleibt standhaft",
+      "url": "https://www.bote.ch/service/leserbriefe/eidgenossen-bleibt-standhaft-art-1720511",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Schule verspielt ihr Fundament",
+      "url": "https://www.bote.ch/service/leserbriefe/die-schule-verspielt-ihr-fundament-art-1720513",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Coop Familienwanderung begeisterte Familien auf dem Stoos",
+      "url": "https://www.bote.ch/nachrichten/schwyz/coop-familienwanderung-begeisterte-familien-auf-dem-stoos-art-1720477",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bezirk Küssnacht entwickelt die Altersversorgung weiter",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bezirk-kuessnacht-entwickelt-die-altersversorgung-weiter-art-1720479",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bezirk Gersau treibt Seewärme-Projekt voran",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bezirk-gersau-treibt-seewaerme-projekt-voran-art-1720508",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "An nationalen Nachwuchsmeisterschaften aufgetrumpft",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/an-nationalen-nachwuchsmeisterschaften-aufgetrumpft-art-1720470",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Regierung sieht keinen Handlungsbedarf bei Mitsprache von Studierenden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-regierung-lehnt-mehr-mitsprache-fuer-studierende-ab-art-1720603",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Radweg von Baldegg nach Gelfingen soll 2030 eröffnet werden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/radweg-zwischen-baldegg-und-gelfingen-soll-2030-fertig-sein-art-1720604",
+      "summary": "",
+      "published": "2026-09-07T22:32:11.021824+00:00"
     }
   ]
 }
