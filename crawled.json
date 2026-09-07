@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-07T00:02:46.252468+00:00",
+  "generated": "2026-09-07T00:32:43.160019+00:00",
   "date": "2026-09-07",
-  "count": 24,
+  "count": 28,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -170,6 +170,34 @@
       "url": "https://www.watson.ch/international/usa/488242908-amy-acton-ohio-angriff-auf-demokratische-gouverneurs-kandidatin",
       "summary": "",
       "published": "2026-09-07T00:02:46.252468+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bewaffneter geht auf Demokratin los",
+      "url": "https://www.20min.ch/story/usa-wahlkampf-gouverneurswahlen-ohia-2026-versuchter-angriff-auf-demokratin-amy-acton-103628886",
+      "summary": "Ein 38-jähriger Mann hatte es an einer Veranstaltung auf die demokratische Kandidatin Amy Acton abgesehen. Mehrere Waffen wurden sichergestellt.",
+      "published": "2026-09-07T00:32:43.160019+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ahv und Armee Finanzielle Desaster",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/ahv-und-armee-finanzielle-desaster",
+      "summary": "",
+      "published": "2026-09-07T00:32:43.160019+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Neutralitätsinitiative die Neutralität ist Kein Schutzschild die Nato ist es",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/neutralitaetsinitiative-die-neutralitaet-ist-kein-schutzschild-die-nato-ist-es",
+      "summary": "",
+      "published": "2026-09-07T00:32:43.160019+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zehn Tote bei Feuerwerksexplosion in Kirche in Mexiko",
+      "url": "https://www.watson.ch/international/mexiko/172434691-zehn-tote-bei-feuerwerksexplosion-in-kirche-in-mexiko",
+      "summary": "",
+      "published": "2026-09-07T00:32:43.160019+00:00"
     }
   ]
 }
