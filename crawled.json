@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08T00:01:39.987728+00:00",
+  "generated": "2026-09-08T00:32:07.195445+00:00",
   "date": "2026-09-08",
-  "count": 43,
+  "count": 47,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -303,6 +303,34 @@
       "url": "https://www.watson.ch/wirtschaft/international/338471849-amazon-frachtjet-unfall-miami-ermittler-sichern-flugschreiber",
       "summary": "",
       "published": "2026-09-08T00:01:39.987728+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wie die Medien den Aufstieg der Afd Begünstigten",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/wie-die-medien-den-aufstieg-der-afd-beguenstigten",
+      "summary": "",
+      "published": "2026-09-08T00:32:07.195445+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Jean Pierre Gallati Nordafrikaner Eritreer und Afghanen Tanzen Uns auf der Nase Herum",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/jean-pierre-gallati-nordafrikaner-eritreer-und-afghanen-tanzen-uns-auf-der-nase-herum",
+      "summary": "",
+      "published": "2026-09-08T00:32:07.195445+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Deutschland vor einer Wende Sachsen Anhalt ist der Anfang vom Ende der Kanzlerschaft Merz",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/deutschland-vor-einer-wende-sachsen-anhalt-ist-der-anfang-vom-ende-der-kanzlerschaft-merz",
+      "summary": "",
+      "published": "2026-09-08T00:32:07.195445+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Armeechef Benedikt Roos hält Angriff Russlands für realistisch",
+      "url": "https://www.watson.ch/schweiz/international/944603945-armeechef-benedikt-roos-haelt-angriff-russlands-fuer-realistisch",
+      "summary": "",
+      "published": "2026-09-08T00:32:07.195445+00:00"
     }
   ]
 }
