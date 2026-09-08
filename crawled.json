@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08T01:01:45.625677+00:00",
+  "generated": "2026-09-08T01:31:51.077402+00:00",
   "date": "2026-09-08",
-  "count": 48,
+  "count": 50,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -338,6 +338,20 @@
       "url": "https://www.watson.ch/international/deutschland/442121685-ahrensburg-schleswig-holstein-frau-mit-schwert-angegriffen",
       "summary": "",
       "published": "2026-09-08T01:01:45.625677+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump droht Flugzeugbauer Bombardier",
+      "url": "https://www.zentralplus.ch/news/trump-droht-flugzeugbauer-bombardier-2897085/",
+      "summary": "Kanada führt in der Nacht auf Dienstag neue Zölle auf bestimmte Waren aus den USA ein. Betroffen sind etwa Stahl- und Aluminiumprodukte, Haushaltsgeräte sowie Landwirtschaftsgeräte. Das Finanzminister",
+      "published": "2026-09-08T01:31:51.077402+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "UKR: Generalstaatsanwalt tritt ab",
+      "url": "https://www.zentralplus.ch/news/ukr-generalstaatsanwalt-tritt-ab-2897083/",
+      "summary": "Der ukrainische Generalstaatsanwalt Ruslan Kravchenko hat am Montagabend seinen Rücktritt im Zusammenhang mit einer Korruptionsaffäre in seiner Behörde eingereicht. Er begründete den Rücktritt mit pol",
+      "published": "2026-09-08T01:31:51.077402+00:00"
     }
   ]
 }
