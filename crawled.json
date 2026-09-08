@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08T22:32:33.434766+00:00",
+  "generated": "2026-09-08T23:02:44.789577+00:00",
   "date": "2026-09-09",
-  "count": 27,
+  "count": 30,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -191,6 +191,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/bauftakt-nach-massb-bc-schwyz-2-startet-mit-52-heimsieg-art-1720744",
       "summary": "",
       "published": "2026-09-08T22:32:33.434766+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Mitarbeiter alarmieren Suva und Arbeitsinspektor mit Brandbrief: Was lief da wirklich im neuen Mega-Verteilzentrum von Migros Online?",
+      "url": "https://www.blick.ch/wirtschaft/mitarbeiter-alarmieren-suva-und-arbeitsinspektor-mit-brandbrief-was-lief-da-wirklich-im-neuen-mega-verteilzentrum-von-migros-online-id22244441.html",
+      "summary": "Geht im neuen Logistikzentrum von Migros Online in Regensdorf ZH alles mit rechten Dingen zu? Mitarbeiter schlagen Alarm und schalten das Arbeitsinspektorat und die Suva ein. Die Migros legt unterdess",
+      "published": "2026-09-08T23:02:44.789577+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Drei Kindergärtler in Zürich-Oerlikon mit Messer attackiert und schwer verletzt: Chinese hatte Tat zusammen mit ChatGPT geplant!",
+      "url": "https://www.blick.ch/schweiz/zuerich/drei-kindergaertler-in-zuerich-oerlikon-mit-messer-attackiert-und-schwer-verletzt-chinese-hatte-tat-zusammen-mit-chatgpt-geplant-id22244459.html",
+      "summary": "Er plante die Tat über Wochen und soll dafür sogar ChatGPT genutzt haben. Nächste Woche steht Han L.* (24) wegen des Messerangriffs auf drei Kinder vor Gericht. Blick kennt die Anklage.",
+      "published": "2026-09-08T23:02:44.789577+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Donald Trump Zollstreit: Keine Produkte aus Kanada mehr in US-Behörden",
+      "url": "https://www.watson.ch/wirtschaft/international/725438435-donald-trump-zollstreit-keine-produkte-aus-kanada-mehr-in-us-behoerden",
+      "summary": "",
+      "published": "2026-09-08T23:02:44.789577+00:00"
     }
   ]
 }
