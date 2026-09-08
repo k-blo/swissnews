@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08T23:02:44.789577+00:00",
+  "generated": "2026-09-08T23:32:50.022963+00:00",
   "date": "2026-09-09",
-  "count": 30,
+  "count": 32,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -212,6 +212,20 @@
       "url": "https://www.watson.ch/wirtschaft/international/725438435-donald-trump-zollstreit-keine-produkte-aus-kanada-mehr-in-us-behoerden",
       "summary": "",
       "published": "2026-09-08T23:02:44.789577+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Europapark Rust warnt vor Fake-Shops und Ticket-Betrug",
+      "url": "https://www.watson.ch/wirtschaft/international/899445219-europapark-rust-warnt-vor-fake-shops-und-ticket-betrug",
+      "summary": "",
+      "published": "2026-09-08T23:32:50.022963+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine: Tote und Verletzte bei russischen Angriffen",
+      "url": "https://www.watson.ch/international/russland/491585787-ukraine-tote-und-verletzte-bei-russischen-angriffen",
+      "summary": "",
+      "published": "2026-09-08T23:32:50.022963+00:00"
     }
   ]
 }
