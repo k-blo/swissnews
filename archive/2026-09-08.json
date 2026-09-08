@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08T20:02:40.700718+00:00",
+  "generated": "2026-09-08T20:32:26.705886+00:00",
   "date": "2026-09-08",
-  "count": 1244,
+  "count": 1248,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -8710,6 +8710,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/vom-veloparkplatz-bis-zur-korporation-das-entdeckte-die-sp-in-sursee-art-1720803",
       "summary": "",
       "published": "2026-09-08T20:02:40.700718+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "So liebt die Schweiz: «Der erste Kuss war im Besucherraum»: Dara wohnt in Zürich, Anton im Gefängnis",
+      "url": "https://www.tagesanzeiger.ch/gefaengnis-liebe-in-der-schweiz-dara-33-liebt-haeftling-688529070245",
+      "summary": "Der 33-Jährige ist in Haft und schreibt dort Gedichte für seine Jugendliebe. In stundenlangen Telefongesprächen kommen sie sich näher.",
+      "published": "2026-09-08T20:32:26.705886+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Datingtrend Rewind Romance: Warum die erste Liebe so schwer loszulassen ist",
+      "url": "https://www.tagesanzeiger.ch/jugendliebe-wenn-alte-gefuehle-zum-ex-neu-aufflammen-188049790555",
+      "summary": "Marie küsst ihren Ex – vier Jahre nach der Trennung. Auch Tina bleibt ihrer Jugendliebe nah. Expertinnen erklären, wie ein zweiter Versuch funktionieren kann.",
+      "published": "2026-09-08T20:32:26.705886+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Künstliche Intelligenz: Open-AI löst eines der grössten Rätsel der Mathematik – in 88 Stunden",
+      "url": "https://www.tagesanzeiger.ch/openai-loest-navier-stokes-gleichungen-in-88-stunden-464452968868",
+      "summary": "Ein unveröffentlichtes KI-Modell soll die Navier-Stokes-Gleichungen geknackt haben, eines von sieben Millenniumproblemen der Mathematik. Es gibt aber Kritik.",
+      "published": "2026-09-08T20:32:26.705886+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Umstrittene Expansion: Nach heftiger Kritik: FIS-Präsident verteidigt Pläne für jährlich Ski-WM",
+      "url": "https://www.tagesanzeiger.ch/ski-wm-fast-jaehrlich-fis-praesident-ospelt-verteidigt-plaene-630897529436",
+      "summary": "Der Internationale Skiverband plant, Weltmeisterschaften in allen nicht-olympischen Jahren auszutragen. Der Österreichische Skiverband warnt vor einer «schleichenden Entwertung» des Titels.",
+      "published": "2026-09-08T20:32:26.705886+00:00"
     }
   ]
 }
