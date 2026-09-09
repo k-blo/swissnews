@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-09T08:33:14.328492+00:00",
+  "generated": "2026-09-09T08:41:11.661720+00:00",
   "date": "2026-09-09",
-  "count": 350,
+  "count": 355,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -2452,6 +2452,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/sabah-fk-schreibt-geschichte-ein-quizgewinn-fuer-die-koenigsklasse-art-1720844",
       "summary": "",
       "published": "2026-09-09T08:33:14.328492+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Technologiezentrum Laufenburg – Kann das Batteriespeicher-Projekt seinen Zeitplan einhalten?",
+      "url": "https://www.srf.ch/news/schweiz/technologiezentrum-laufenburg-kann-das-batteriespeicher-projekt-seinen-zeitplan-einhalten",
+      "summary": "In Laufenburg AG wird ein riesiger Batteriespeicher gebaut. 2029 soll er fertig sein. Doch es gibt Zweifel am Zeitplan.",
+      "published": "2026-09-09T08:41:11.661720+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tigermücke löst Kontrollen in Baar aus",
+      "url": "https://www.zentralplus.ch/news/tigermuecke-loest-kontrollen-in-baar-aus-2897362/",
+      "summary": "In Baar ist eine Asiatische Tigermücke entdeckt worden. Nun überwachen die Behörden das Gebiet an der Grenze zur Stadt Zug und versuchen, eine weitere Ausbreitung zu verhindern. Am Ibelweg in der Geme",
+      "published": "2026-09-09T08:41:11.661720+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Mann tötet seine Mutter in der gemeinsamen Wohnung. Dann bestellt er sich eine Pizza",
+      "url": "https://www.nzz.ch/zuerich/zuerich-junger-mann-ersticht-mutter-in-der-gemeinsamen-wohnung-ld.10022865",
+      "summary": "",
+      "published": "2026-09-09T08:41:11.661720+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die KI-Firma Open AI hat eines der schwierigsten Probleme der Mathematik gelöst. Konkurrent Anthropic wirft ihr Ideenklau vor",
+      "url": "https://www.nzz.ch/wissenschaft/die-ki-firma-open-ai-hat-eines-der-schwierigsten-probleme-der-mathematik-geloest-konkurrent-anthropic-wirft-ihr-ideenklau-vor-ld.10022996",
+      "summary": "",
+      "published": "2026-09-09T08:41:11.661720+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Brand in Romanshorn Feuerwehr mit über 100 Kräften im Einsatz",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/brand-in-romanshorn-feuerwehr-mit-ueber-100-kraeften-im-einsatz-ld.4231270",
+      "summary": "",
+      "published": "2026-09-09T08:41:11.661720+00:00"
     }
   ]
 }
