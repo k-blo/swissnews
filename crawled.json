@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08T23:32:50.022963+00:00",
+  "generated": "2026-09-09T00:02:32.458046+00:00",
   "date": "2026-09-09",
-  "count": 32,
+  "count": 34,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -226,6 +226,20 @@
       "url": "https://www.watson.ch/international/russland/491585787-ukraine-tote-und-verletzte-bei-russischen-angriffen",
       "summary": "",
       "published": "2026-09-08T23:32:50.022963+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zollstreit zwischen den USA und Kanada",
+      "url": "https://www.zentralplus.ch/news/zollstreit-zwischen-den-usa-und-kanada-2897315/",
+      "summary": "US-Präsident Donald Trump will kanadischen Firmen den Zugang zu öffentlichen Beschaffungen in den USA verwehren. Damit erhöht er den Druck im Zollstreit zwischen den USA und Kanada. In einem Post auf ",
+      "published": "2026-09-09T00:02:32.458046+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sachsen-Anhalt: Sven Schulze wird Fraktionsvorsitzender der CDU",
+      "url": "https://www.watson.ch/international/deutschland/226400313-sachsen-anhalt-sven-schulze-wird-fraktionsvorsitzender-der-cdu",
+      "summary": "",
+      "published": "2026-09-09T00:02:32.458046+00:00"
     }
   ]
 }
