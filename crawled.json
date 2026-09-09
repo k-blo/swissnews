@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-09T23:32:06.849758+00:00",
+  "generated": "2026-09-09T23:49:19.228582+00:00",
   "date": "2026-09-10",
-  "count": 29,
+  "count": 30,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -205,6 +205,13 @@
       "url": "https://www.watson.ch/videos/tier/951726785-tiefsee-expedition-in-der-karibik-entdeckt-20-moegliche-neue-arten",
       "summary": "",
       "published": "2026-09-09T23:32:06.849758+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fast 600 Jahre alte Grabstätte in Peru entdeckt",
+      "url": "https://www.20min.ch/story/spektakulaerer-fund-fast-600-jahre-alte-grabstaette-in-peru-entdeckt-103630735",
+      "summary": "In Chan Chan haben Forschende eine Grabstätte mit mindestens 38 hochrangigen Chimú entdeckt. Eine Bestattung gibt Rätsel auf.",
+      "published": "2026-09-09T23:49:19.228582+00:00"
     }
   ]
 }
