@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-09T16:22:47.371556+00:00",
+  "generated": "2026-09-09T16:25:52.685817+00:00",
   "date": "2026-09-09",
-  "count": 867,
+  "count": 868,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6071,6 +6071,13 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/kriens-plant-massnahmen-gegen-hitze-an-schulen-art-1720917",
       "summary": "",
       "published": "2026-09-09T16:22:47.371556+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rüstungsindustrie in Europa: US-Firma Covenant will ab 2027 Marschflugkörper in Leipzig produzieren",
+      "url": "https://www.tagesanzeiger.ch/marschflugkoerper-us-firma-baut-ab-2027-fabrik-in-leipzig-383467066229",
+      "summary": "Das Start-up plant bis zu 5000 Stück pro Jahr – zum Bruchteil bisheriger Kosten. Es steht laut Informationen bereits in Gesprächen mit der Bundeswehr.",
+      "published": "2026-09-09T16:25:52.685817+00:00"
     }
   ]
 }
