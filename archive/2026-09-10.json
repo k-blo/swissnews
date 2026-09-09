@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-09T22:32:23.181020+00:00",
+  "generated": "2026-09-09T23:02:33.727927+00:00",
   "date": "2026-09-10",
-  "count": 22,
+  "count": 26,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -156,6 +156,34 @@
       "url": "https://www.bote.ch/nachrichten/vereine/125-jahre-feldmusik-seewen-genuss-statt-musik-art-1720847",
       "summary": "",
       "published": "2026-09-09T22:32:23.181020+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran: Bericht über Explosionen im Süden",
+      "url": "https://www.zentralplus.ch/news/iran-bericht-ueber-explosionen-im-sueden-2897534/",
+      "summary": "Im Süden des Irans ist es örtlichen Medienberichten zufolge im Bereich der Strasse von Hormus zu Explosionen gekommen. Betroffen seien die Insel Gheschm in der Meerenge sowie die Städte Sirik und Mina",
+      "published": "2026-09-09T23:02:33.727927+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ceuta: Spanischer Geheimdienst warnte vor Massenankunft",
+      "url": "https://www.watson.ch/international/migration/331467153-ceuta-spanischer-geheimdienst-warnte-vor-massenankunft",
+      "summary": "",
+      "published": "2026-09-09T23:02:33.727927+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Taubentötung Zürich: Stadtrat muss Taubenschläge ausbauen",
+      "url": "https://www.watson.ch/schweiz/gruene/938323845-taubentoetung-zuerich-stadtrat-muss-taubenschlaege-ausbauen",
+      "summary": "",
+      "published": "2026-09-09T23:02:33.727927+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Iran USA: Berichte über Explosionen nahe Strasse von Hormus",
+      "url": "https://www.watson.ch/international/iran/103758691-krieg-iran-usa-berichte-ueber-explosionen-nahe-strasse-von-hormus",
+      "summary": "",
+      "published": "2026-09-09T23:02:33.727927+00:00"
     }
   ]
 }
