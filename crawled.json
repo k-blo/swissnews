@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-09T12:02:41.070816+00:00",
+  "generated": "2026-09-09T12:32:38.368835+00:00",
   "date": "2026-09-09",
-  "count": 559,
+  "count": 584,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3915,6 +3915,181 @@
       "url": "https://www.freiburger-nachrichten.ch/story/287648/der-preis-f%C3%BCr-deutschfreiburger-lernende-geht-in-eine-dritte-runde",
       "summary": "",
       "published": "2026-09-09T12:02:41.070816+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Heftiger Unfall in L'Etivaz VD: Töff-Fahrer (†17) kracht in Traktor und stirbt",
+      "url": "https://www.blick.ch/schweiz/westschweiz/waadt/heftiger-unfall-in-letivaz-vd-toeff-fahrer-17-kracht-in-traktor-und-stirbt-id22246305.html",
+      "summary": "Am Dienstag verunglückte ein junger Töff-Fahrer tödlich bei L'Etivaz VD. Nach einem Sturz prallte er gegen einen Traktor und starb.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "F-35-Fiasko: Gehts Viola Amherd nun ans eigene Portemonnaie?",
+      "url": "https://www.20min.ch/story/parlamentarier-fordert-f-35-fiasko-gehts-viola-amherd-nun-ans-eigene-portemonnaie-103630281",
+      "summary": "Die jüngsten Erkenntnisse zur F-35-Beschaffung geben zu reden. Während Viola Amherd in offizieller Mission in Norwegen weilt, debattiert Bundesbern über mögliche rechtliche Konsequenzen für die alt Bu",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zimmer Biomet plant Abbau von 580 Stellen",
+      "url": "https://www.20min.ch/story/winterthur-zimmer-biomet-plant-abbau-von-580-stellen-103630359",
+      "summary": "Der US-Medizintechnikkonzern Zimmer Biomet in Winterthur plant einen massiven Stellenabbau. Grund dafür ist eine Umstrukturierung.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hollywood-Stars verlieren Mutter und Vater in nur einem Jahr",
+      "url": "https://www.20min.ch/story/ben-und-casey-affleck-brueder-verlieren-mutter-und-vater-im-selben-jahr-103630328",
+      "summary": "Die Brüder sind zusammen in Venedig aufgetreten. Zuvor hatte Casey bei einer Pressekonferenz öffentlich gemacht, dass sie dieses Jahr beide Elternteile verloren haben.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kahlschlag: Bis zu 580 Stellen weg: Zimmer Biomet plant grossen Jobabbau in Winterthur",
+      "url": "https://www.tagesanzeiger.ch/zimmer-biomet-580-stellen-in-winterthur-gefaehrdet-781026064099",
+      "summary": "Der US-Medizintechnikkonzern plant einen Kahlschlag in Winterthur.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Düstere Prognose eines Insiders: Ex-Anthropic-Forscher warnt: KI kann bald «alles hacken»",
+      "url": "https://www.tagesanzeiger.ch/ki-forscher-kuendigt-bei-anthropic-alles-hacken-koennen-352897472060",
+      "summary": "Jacob Coxon hat bei Anthropic gekündigt und schlägt Alarm: Techfirmen lieferten sich ein gefährliches Wettrennen um Superintelligenz. Ein interner Sicherheitsexperte pflichtet ihm bei.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "«Einmal Basler, immer Basler»: Embolo trägt in Atlanta die Nummer 36 auf dem Rücken – jetzt verrät er wieso",
+      "url": "https://www.bazonline.ch/breel-embolo-darum-traegt-er-bei-atlanta-die-nummer-36-942040173656",
+      "summary": "Der Basler Nati-Star Breel Embolo wird in den USA nach seiner Rückennummer gefragt. Seine Antwort lässt Basler Fanherzen höherschlagen.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Darum bleiben Luzerns Gaspreise vorerst stabil",
+      "url": "https://www.zentralplus.ch/news/darum-bleiben-luzerns-gaspreise-vorerst-stabil-2897422/",
+      "summary": "Der Nahostkonflikt sorgt für Unsicherheit auf dem Gasmarkt. Trotzdem kann EWL die Gaspreise vorerst stabil halten. Energie Wasser Luzern (EWL) kann die Gaspreise trotz des Nahostkonflikts vorerst stab",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Erdgas teuer wie lange nicht mehr",
+      "url": "https://www.zentralplus.ch/news/erdgas-teuer-wie-lange-nicht-mehr-2897428/",
+      "summary": "Europäisches Erdgas ist im Moment so teuer wie seit langem nicht mehr. An der wichtigen niederländischen Gasbörse kostete es zeitweise über 79 Euro pro Megawattstunde. So hoch war der Gaspreis letztma",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Menschenähnliche Roboter sollen Aufgaben von Menschen übernehmen",
+      "url": "https://www.netzwoche.ch/news/2026-09-09/menschenaehnliche-roboter-sollen-aufgaben-von-menschen-uebernehmen",
+      "summary": "Dank Technologie wird in Zukunft alles einfacher. Davon scheinen zumindest die 2000 Aussteller an der IFA 2026 überzeugt zu sein. Die Messe für Consumer Electronics, Home Applicances und Future Tech z",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Digitale Kluft: Bundesrat sieht keinen neuen Handlungsbedarf",
+      "url": "https://www.inside-it.ch/digitale-kluft-bundesrat-sieht-keinen-neuen-handlungsbedarf-20260909",
+      "summary": "Die Regierung findet, dass weder neue Verordnungen noch zusätzliche Finanzmittel notwendig sind.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Winterthur wechselt auf kantonale Baugesuchsplattform",
+      "url": "https://www.inside-it.ch/winterthur-wechselt-auf-kantonale-baugesuchsplattform-20260909",
+      "summary": "Der bis anhin für Baugesuche genutzte eFormularservice wird Mitte Monat abgeschaltet. Ab Oktober wechselt Winterthur dann auf die kantonale Plattform eBaugesucheZH.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Alkohol, Milch und Motorräder: Trump will Amerikaner mit Importverboten vom Konsum kanadischer Waren abhalten",
+      "url": "https://www.nzz.ch/wirtschaft/alkohol-milch-und-motorraeder-trump-will-amerikaner-mit-importverboten-vom-konsum-kanadischer-waren-abhalten-ld.10022995",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wie familienfreundlich ist die Stadt Schaffhausen als Arbeitgeberin?",
+      "url": "https://www.shn.ch/region/stadt/2026-09-09/wie-familienfreundlich-ist-die-stadt-schaffhausen-als-arbeitgeberin",
+      "summary": "Grossstadträtin Nicole Silvestri will wissen, wie die Stadt Schaffhausen mit unbezahltem Urlaub und Pensenreduktionen nach der Geburt eines Kindes umgeht.",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Srf Bi De Lüt Dieses Hüttenpaar Startet in Graubünden Noch Einmal Neu",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/srf-bi-de-luet-dieses-huettenpaar-startet-in-graubuenden-noch-einmal-neu-2154423",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Spital Menziken Streit um Schliessung der Akutmedizin",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/spital-menziken-streit-um-schliessung-der-akutmedizin-ld.4231268",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gewitter Stoppen Zwei Partien in der 2 Liga Afv",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/gewitter-stoppen-zwei-partien-in-der-2-liga-afv-ld.4231221",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurner Spitäler Kritik an Schaffners Departement",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/solothurner-spitaeler-kritik-an-schaffners-departement-ld.4231497",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Kanton Zug Rechnet 2027 mit 290 Milliarden Franken Überschuss",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/kanton-zug-rechnet-2027-mit-290-milliarden-franken-ueberschuss-ld.4231254",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zimmer Biomet will in Winterthur 580 von 730 Jobs abbauen",
+      "url": "https://www.watson.ch/wirtschaft/zuerich/501909523-zimmer-biomet-will-in-winterthur-580-von-730-jobs-abbauen",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "In Bern entsteht das Holocaust-Mahnmal Unfolded Minute",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/368712417-in-bern-entsteht-das-holocaust-mahnmal-unfolded-minute",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Apple-Keynote am Mittwoch mit iPhone Ultra und mehr: die Vorschau",
+      "url": "https://www.watson.ch/digital/apple/836409328-apple-keynote-am-mittwoch-mit-iphone-ultra-und-mehr-die-vorschau",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Darf ich trotz Pensionskassenguthabens Sozialhilfe beziehen?",
+      "url": "https://www.watson.ch/blogs/down-by-law/503323376-darf-ich-trotz-pensionskassenguthabens-sozialhilfe-beziehen",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "730 Millionen gegen den digitalen Stadt-Land-Graben",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/bundesrat-will-schnelleres-internet-auf-dem-land-foerdern-art-1720878",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trotz Rekordeinzahlung in den NFA: Der Kanton Zug rechnet für 2027 mit 291 Millionen Franken Überschuss",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kanton-zug-rechnet-2027-mit-290-milliarden-franken-ueberschuss-art-1720842",
+      "summary": "",
+      "published": "2026-09-09T12:32:38.368835+00:00"
     }
   ]
 }
