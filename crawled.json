@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T17:02:00.236054+00:00",
+  "generated": "2026-09-10T18:25:09.570812+00:00",
   "date": "2026-09-10",
-  "count": 860,
+  "count": 907,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6022,6 +6022,335 @@
       "url": "https://www.suedostschweiz.ch/graubuenden/wohnungsmarkt-graubuenden-anzahl-der-leeren-wohnungen-sinkt-die-unterschiede-sind-gross-2155478",
       "summary": "",
       "published": "2026-09-10T17:02:00.236054+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Viel Vertrauen in der Schweiz – Was die Wissenschaft zur Demokratie beiträgt",
+      "url": "https://www.srf.ch/news/dialog/viel-vertrauen-in-der-schweiz-was-die-wissenschaft-zur-demokratie-beitraegt",
+      "summary": "Die Wissenschaft geniesst in der Schweiz mehr Vertrauen als Polizei und Regierung. Was ist ihre Rolle in der Demokratie?",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schweiz-EU – Reaktionen aus der Schweiz zum EU-Entscheid zum Innovationsgesetz",
+      "url": "https://www.srf.ch/news/schweiz/schweiz-eu-reaktionen-aus-der-schweiz-zum-eu-entscheid-zum-innovationsgesetz",
+      "summary": "Beim EU-Innovationsgesetz hoffen Schweizer Aussenpolitiker darauf, dass sich die Schweiz noch beteiligen darf.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Zürcher Bezirksgericht – Hackerangriff auf Stadler Rail: Täter zu langer Haft verurteilt",
+      "url": "https://www.srf.ch/news/schweiz/zuercher-bezirksgericht-hackerangriff-auf-stadler-rail-taeter-zu-langer-haft-verurteilt",
+      "summary": "Der 52-Jährige hatte Firmendaten verschlüsselt, um Lösegeld zu erpressen. Zu den Opfern gehörte auch Stadler Rail.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Mehrere Helikopter im Einsatz – Reisecar im Unterengadin verunfallt: Mehrere Tote und Verletzte",
+      "url": "https://www.srf.ch/news/schweiz/mehrere-helikopter-im-einsatz-reisecar-im-unterengadin-verunfallt-mehrere-tote-und-verletzte",
+      "summary": "Wie die Kantonspolizei mitteilt, ist ein Reisecar im Unterengadin verunglückt. Sie spricht von einem «schweren Unfall».",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Aufgewärmte Resten»: Samsung verspottet Apples neues Falt-Handy",
+      "url": "https://www.20min.ch/story/iphone-duo-samsung-verspottet-apples-erstes-faltbares-handy-103630821",
+      "summary": "Apple steigt spät ins Geschäft mit faltbaren Handys ein – und muss dafür Spott von Samsung einstecken. Ein Experte erklärt, wieso er trotzdem mit Lieferengpässen rechnet und wo er die grössten Schwäch",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Unwetter in Norditalien: 83-Jährige ertrinkt in überflutetem Auto",
+      "url": "https://www.20min.ch/video/italien-unwetter-in-norditalien-83-jaehrige-ertrinkt-in-ueberflutetem-auto-103631103",
+      "summary": "Nach starkem Regen ist in Norditalien eine 83-jährige Frau in ihrem überfluteten Auto ertrunken. Ihr Wagen blieb in einer Unterführung in Latisana stecken. Zwei Rettungskräfte zogen die Frau aus dem A",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Brand bei Recycling-Firma ausgebrochen – Feuerwehr vor Ort",
+      "url": "https://www.20min.ch/story/biel-be-grossbrand-bei-recycling-firma-ausgebrochen-feuerwehr-vor-ort-103631149",
+      "summary": "Am Donnerstagabend ist in Biel bei einem Industriegebäude ein Brand ausgebrochen. Die Löscharbeiten sind im Gang.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Reiseanbieter zu Unfall: «Gedanken sind bei den Betroffenen»",
+      "url": "https://www.20min.ch/story/mehrere-tote-in-susch-gr-niederlaendischer-reisecar-verunfallt-unternehmen-aeussert-sich-103631175",
+      "summary": "Bei einem schweren Unfall mit einem Reisecar sind am Donnerstagabend mehrere Menschen gestorben, weitere wurden verletzt.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kurden in Nordsyrien: Sie besiegten die Jihadisten des IS – nun gibt es ihre Armee nicht mehr",
+      "url": "https://www.tagesanzeiger.ch/syrien-kurdische-armee-loest-sich-auf-254316156248",
+      "summary": "Kurdische Kämpferinnen galten als Heldinnen im Krieg gegen den Islamischen Staat. Mit der Auflösung der SDF endet in Rojava ein einzigartiges Kapitel weiblicher Emanzipation im Nahen Osten.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall in Hettlingen: 81-Jährige prallt beim Überholen eines Lieferwagens frontal in Gegenverkehr",
+      "url": "https://www.tagesanzeiger.ch/frontalkollision-in-hettlingen-zwei-frauen-verletzt-171390864098",
+      "summary": "Eine Seniorin wird bei der Kollision schwer verletzt, ihr Auto kippt auf die Seite. Die zweite Fahrerin erleidet leichte Verletzungen.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Streit um Rosengartenstrasse: 200 Menschen protestieren gegen kantonale Blockade von Lärmschutz",
+      "url": "https://www.tagesanzeiger.ch/rosengartenstrasse-200-protestieren-fuer-laermschutz-524879209012",
+      "summary": "An der grössten Zürcher Strasse mit 60’000 Fahrzeugen täglich fordern Anwohnende Tempo 30 und sichere Übergänge.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Abbau bei Zimmer Biomet: Ein Zettel an der Werkhalle verrät, was Winterthur droht",
+      "url": "https://www.tagesanzeiger.ch/zimmer-biomet-warum-580-jobs-in-winterthur-wegfallen-677035213495",
+      "summary": "Der US-Medizintechnikkonzern Zimmer Biomet will sein Produktionsnetz umbauen und streicht dafür bis 580 Stellen. Der Abbau trifft auch Zulieferer, Lernende und das Industriegebiet Grüze.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Siebter Sinn oder Unsinn?: Sie behauptet, zu wissen, was Haustiere wirklich denken",
+      "url": "https://www.bernerzeitung.ch/tierkommunikation-koennen-tiere-wirklich-telepathisch-sprechen-178917489269",
+      "summary": "Tierkommunikatorinnen meinen, dass Tiere telepathisch mit ihnen sprechen würden. Sie bedienen ein wachsendes Bedürfnis. Wir haben zwei Kommunikatorinnen gefragt, was Hund Buddy zu sagen hat.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Unfall im Unterengadin: Reisecar verunfallt zwischen Zernez und Susch – mehrere Tote",
+      "url": "https://www.bernerzeitung.ch/reisecar-verunfallt-zwischen-zernez-und-susch-494245568096",
+      "summary": "Am Donnerstag ist im Unterengadin ein Reisecar von der Strasse abgekommen. Laut Polizei sind mehrere Menschen ums Leben gekommen.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Brand auf dem Müve-Areal: Auf einem Entsorgungshof in Biel ist ein Feuer ausgebrochen",
+      "url": "https://www.bernerzeitung.ch/brand-auf-entsorgungshof-dichter-schwarzer-rauch-237483948720",
+      "summary": "Am Donnerstagabend geriet auf einem Bieler Entsorgungshof ein Sperrguthaufen in Brand. Der Rauch ist weitherum sichtbar.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Streit um Budget: Berner Stadtrat lehnt sowohl Steuersenkungen als auch Steuererhöhungen ab",
+      "url": "https://www.derbund.ch/bern-stadtrat-beraet-budget-2027-mit-2-5-mio-defizit-343259984055",
+      "summary": "Im Berner Stadtrat scheitern sowohl bürgerliche Senkungsanträge als auch linke Erhöhungsforderungen. Das Parlament debattiert über ein Budget mit 2,5 Millionen Franken Defizit.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Biel: Starke Rauchentwicklung bei Brand",
+      "url": "https://www.zentralplus.ch/news/biel-starke-rauchentwicklung-bei-brand-2897758/",
+      "summary": "Am Donnerstagabend ist es bei Biel bei einem Entsorgungshof zu einem Brand gekommen. Der Warndienst Alertswiss warnte vor starker Rauchentwicklung. Betroffen seien die Gebiete Biel, Nidau und Port, te",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "SP-Politiker will diese Vapes verbieten",
+      "url": "https://www.zentralplus.ch/news/sp-politiker-will-diese-vapes-verbieten-2897749/",
+      "summary": "Einweg-Vapes sind bei Jugendlichen beliebt und landen millionenfach im Abfall. Nun fordert ein Luzerner Kantonsrat ein Verbot – und will nicht länger auf den Bund warten. Der Kanton Luzern soll den Ve",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Flughafen Zürich steigert Passagierzahl",
+      "url": "https://www.zentralplus.ch/news/flughafen-zuerich-steigert-passagierzahl-2897754/",
+      "summary": "Rund 3,3 Millionen Passagiere sind im August über den Flughafen Zürich gereist. Das sind 1,8 Prozent mehr, als im August letzten Jahres. Es starteten und landeten auch mehr Flugzeuge in Zürich. Mit ru",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Reisecar in Graubünden verunfallt – Polizei meldet mehrere Tote und Verletzte",
+      "url": "https://www.nzz.ch/panorama/reisecar-in-graubuenden-verunfallt-mehrere-tote-und-verletzte-ld.10023365",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Unter 1 Prozent: In der Schweiz gibt es immer weniger leere Wohnungen",
+      "url": "https://www.nzz.ch/wirtschaft/unter-1-prozent-in-der-schweiz-gibt-es-immer-weniger-leere-wohnungen-ld.10023227",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Was das SRF von den regionalen Medien lernen kann",
+      "url": "https://www.shn.ch/region/kanton/2026-09-10/was-das-srf-von-den-regionalen-medien-lernen-kann",
+      "summary": "Die Bundeshaus-Redaktion des SRF stattete am Donnerstag dem Medienhaus Meier einen Besuch ab. Dabei wurde klar: Die «Grossen» können sich auch bei den «Kleinen» immer noch etwas abgucken.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ella Ljustina schiesst ein Traumtor gegen den FC Basel",
+      "url": "https://www.shn.ch/sport/fussball/2026-09-10/ella-ljustina-schiesst-ein-traumtor-gegen-den-fc-basel",
+      "summary": "Die gebürtige Schaffhauserin ist aktuell in Topform und geht bei den GC-Frauen als Leaderin voran.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Andelfinger Kandidaten für die Kantonsratswahlen: Die Grünliberalen wollen mit ihrem Viererticket auf Platz vier",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-10/andelfinger-kandidaten-fuer-die-kantonsratswahlen-die",
+      "summary": "Die Weinländer GLP hat ihre Kandidaturen für die Kantonsratswahlen kommenden April kommuniziert; die Partei möchte viertstärkste Kraft im Bezirk werden. An der Spitze der Liste: ein 30-jähriger Wirtsc",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Jetzt steht fest, wohin es ihn zieht: Marc Giger spielt nun in Ungarn",
+      "url": "https://www.shn.ch/sport/fussball/2026-09-10/jetzt-steht-fest-wohin-es-ihn-zieht-marc-giger-spielt-nun-in-ungarn",
+      "summary": "Bei Union Saint-Gilloise kam Marc Giger nicht mehr wirklich zum Zug. So geht er auf Leihbasis zu Györi Eto FC.",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Windisch Holt Stefan Walder als Leiter Planung und Bau",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/windisch-holt-stefan-walder-als-leiter-planung-und-bau-ld.4232485",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Sechs Jahre Haft für Garagisten aus Lenzburg",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/sechs-jahre-haft-fuer-garagisten-aus-lenzburg-ld.4232491",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Svp Aargau Topfavorit für Glarner Nachfolge Sagt Ab",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/svp-aargau-topfavorit-fuer-glarner-nachfolge-sagt-ab-ld.4232476",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Waffenverkauf Strompreise und Ko Tropfen der Tvo Stammtisch",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/waffenverkauf-strompreise-und-ko-tropfen-der-tvo-stammtisch-ld.4232495",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Vermisstenfall Andreas Portmann Neue Hinweise Durch Aktenzeichen Xy Ungelöst",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/vermisstenfall-andreas-portmann-neue-hinweise-durch-aktenzeichen-xy-ungeloest-ld.4232490",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Beiz Eröffnet auf dem Balmberg Kann Man Endlich Wieder Einkehren",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/beiz-eroeffnet-auf-dem-balmberg-kann-man-endlich-wieder-einkehren-ld.4232496",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Knabenschiessen 2026 Zürichs Chilbi mit Neuen Attraktionen",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/knabenschiessen-2026-zuerichs-chilbi-mit-neuen-attraktionen-ld.4232071",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Rotkreuz Mobilezone Holt Entlassenen Kadermitarbeiter Zurück",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/rotkreuz-mobilezone-holt-entlassenen-kadermitarbeiter-zurueck-ld.4231977",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Huthi nehmen wichtige Hafenstadt Mokka im Jemen ein",
+      "url": "https://www.watson.ch/international/iran/243444109-huthi-nehmen-wichtige-hafenstadt-mokka-im-jemen-ein",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chat-Futter: Wenn die YouTube-Werbung im dümmsten Moment zuschlägt",
+      "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-wenn-die-youtube-werbung-im-duemmsten-moment-zuschlaegt",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Coop ruft Bio Crevetten zurück – Salmonellengefahr",
+      "url": "https://www.watson.ch/schweiz/konsum/932320941-coop-ruft-bio-crevetten-zurueck-salmonellengefahr",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: OK-Präsident der Winterspiele 2030 tritt zurück",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-ok-praesident-der-winterspiele-2030-tritt-zurueck",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Flugzeug blockiert Rollfeld am Euroairport in Basel-Mulhouse",
+      "url": "https://www.watson.ch/schweiz/luftfahrt/366709718-flugzeug-blockiert-rollfeld-am-euroairport-in-basel-mulhouse",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI-Agenten shoppen im Schweizer Onlinehandel und das hat Folgen",
+      "url": "https://www.watson.ch/wirtschaft/digital/752558191-ki-agenten-shoppen-im-schweizer-onlinehandel-und-das-hat-folgen",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach AfD-Erfolg: SV Blau-Weiss Grana bangt um seine Zukunft",
+      "url": "https://www.watson.ch/sport/fussball/319954466-nach-afd-erfolg-sv-blau-weiss-grana-bangt-um-seine-zukunft",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Champions League: Bayern München gegen Bodö/Glimt live im Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/270987591-champions-league-bayern-muenchen-gegen-bodoe-glimt-live-im-ticker",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "KI gefährlicher als Atombombe? Experte warnt: «Wer diese Technologie kontrolliert, hat die Macht»",
+      "url": "https://www.freiburger-nachrichten.ch/story/289200/ki-gef%C3%A4hrlicher-als-atombombe-experte-warnt-wer-diese-technologie-kontrolliert-hat-die-macht",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein Finne, viele Rohdiamanten und ein grosses Ziel",
+      "url": "https://www.freiburger-nachrichten.ch/story/289176/ein-finne-viele-rohdiamanten-und-ein-grosses-ziel",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mehrere Menschen tot: Schwerer Unfall bei Zernez GR – Reisecar umgekippt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/mehrere-menschen-tot-schwerer-unfall-bei-zernez-gr-art-1721152",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "US-Erdölkonzern mit enormen Potential: +165.9 Prozent in fünf Jahren",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/boersen-blog-money-chevron-corporation-mit-1659-in-5-jahren-art-1721151",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kantonsrat kritisiert Regierung wegen KI: «Es geht wertvolle Zeit verloren!»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kantonsrat-kritisiert-regierung-wegen-ki-es-geht-wertvolle-zeit-verloren-art-1721098",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Jahre nach Sexismusvorwürfen: Mobilezone holt entlassenen Kadermitarbeiter zurück",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/rotkreuz-mobilezone-holt-entlassenen-kadermitarbeiter-zurueck-art-1721149",
+      "summary": "",
+      "published": "2026-09-10T18:25:09.570812+00:00"
     }
   ]
 }
