@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T00:31:54.812208+00:00",
+  "generated": "2026-09-10T00:46:04.271185+00:00",
   "date": "2026-09-10",
-  "count": 35,
+  "count": 37,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -247,6 +247,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/wer-afd-waehlt-ist-ein-modernisierungsverlierer-unsinn-marx-hat-nicht-recht",
       "summary": "",
       "published": "2026-09-10T00:31:54.812208+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Anthropic meldet weiteren Hackerangriff",
+      "url": "https://www.zentralplus.ch/news/anthropic-meldet-weiteren-hackerangriff-2897540/",
+      "summary": "Das US-Unternehmen Anthropic hat einen weiteren Hackerangriff seines KI-Modells Claude gemeldet. Der Zwischenfall ereignete sich im Januar, wie Anthropic in einem Blogeintrag schreibt. Die Betroffenen",
+      "published": "2026-09-10T00:46:04.271185+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Peru: Fast 600 Jahre alte Grabstätte entdeckt",
+      "url": "https://www.watson.ch/international/kultur/747183546-peru-fast-600-jahre-alte-grabstaette-entdeckt",
+      "summary": "",
+      "published": "2026-09-10T00:46:04.271185+00:00"
     }
   ]
 }
