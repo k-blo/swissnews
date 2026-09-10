@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T15:31:58.955698+00:00",
+  "generated": "2026-09-10T15:45:44.010596+00:00",
   "date": "2026-09-10",
-  "count": 781,
+  "count": 793,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5469,6 +5469,90 @@
       "url": "https://www.bote.ch/nachrichten/sport/noah-okafor-nati-ruecktritt-wegen-murat-yakin-art-1721120",
       "summary": "",
       "published": "2026-09-10T15:31:58.955698+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Anschlusslösung für Lehrlinge – Rettung geglückt: 80 Berner Lernende atmen auf",
+      "url": "https://www.srf.ch/news/schweiz/anschlussloesung-fuer-lehrlinge-rettung-geglueckt-80-berner-lernende-atmen-auf",
+      "summary": "Nach langer Ungewissheit: Mediamatiker haben nach den Herbstferien, wenn ihre Privatschule schliesst, eine Alternative.",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Das rät der Kanton Basel-Stadt: Welttag der Suizidprävention – so helfen Sie Betroffenen",
+      "url": "https://www.bazonline.ch/suizidpraevention-und-depression-basel-stadt-gibt-tipps-619369071656",
+      "summary": "Wie spreche ich eine Person darauf an? Und wie kann ich unterstützen, ohne selbst daran kaputt zu gehen? Zum Welttag der Suizidprävention gibt der Kanton Tipps.",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Murat Yakin in Basel: Rindsfilet, Tennisstars und gute Laune – dann crasht Noah Okafor die Party",
+      "url": "https://www.bazonline.ch/murat-yakin-in-basel-noah-okafor-crasht-swiss-indoors-party-523019963021",
+      "summary": "Der Business Club Swiss Indoors lud den Schweizer Nationaltrainer nach Basel ein. Am Ende gab es nur noch ein Thema.",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Strafbefehl Gegen Wirtin Wegen zu Vieler Gäste Draussen",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-strafbefehl-gegen-wirtin-wegen-zu-vieler-gaeste-draussen-ld.4229325",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargau Weniger Freie Wohnungen Markt Bleibt Angespannt",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/aargau-weniger-freie-wohnungen-markt-bleibt-angespannt-ld.4232037",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Uni Basel Startet mit über 13000 Studierenden Ins Herbstsemester",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/uni-basel-startet-mit-ueber-13000-studierenden-ins-herbstsemester-ld.4232059",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Feuerverbote in Basel Stadt und Baselland Gelockert",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/feuerverbote-in-basel-stadt-und-baselland-gelockert-ld.4232440",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zug United Fabio Flütsch nach Verletzungspause Zurück",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zug-united-fabio-fluetsch-nach-verletzungspause-zurueck-ld.4228532",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Gruppe Sachseln Steinbock Gewinnt Bronze im Finale",
+      "url": "https://www.obwaldnerzeitung.ch/leserbeitrag/oz/gruppe-sachseln-steinbock-gewinnt-bronze-im-finale-ld.4232439",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stefan Küng feiert an der Vuelta 2. Etappensieg an einer Grand Tour",
+      "url": "https://www.watson.ch/sport/velo/861460292-stefan-kueng-feiert-an-der-vuelta-2-etappensieg-an-einer-grand-tour",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vor Midterms: Wahlkreiskrach in Missouri schaukelt sich hoch",
+      "url": "https://www.watson.ch/international/usa/797767140-vor-midterms-wahlkreiskrach-in-missouri-schaukelt-sich-hoch",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zu viele Gäste auf dem Trottoir vor der Bar: Stadtluzerner Wirtin kassiert Strafbefehl",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-strafbefehl-gegen-wirtin-wegen-zu-vieler-gaeste-draussen-art-1721130",
+      "summary": "",
+      "published": "2026-09-10T15:45:44.010596+00:00"
     }
   ]
 }
