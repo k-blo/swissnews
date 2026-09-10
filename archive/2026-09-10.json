@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T00:46:04.271185+00:00",
+  "generated": "2026-09-10T01:02:18.575489+00:00",
   "date": "2026-09-10",
-  "count": 37,
+  "count": 38,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -261,6 +261,13 @@
       "url": "https://www.watson.ch/international/kultur/747183546-peru-fast-600-jahre-alte-grabstaette-entdeckt",
       "summary": "",
       "published": "2026-09-10T00:46:04.271185+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sommerausflug vom 27 08 2026",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/sommerausflug-vom-27-08-2026-ld.4231245",
+      "summary": "",
+      "published": "2026-09-10T01:02:18.575489+00:00"
     }
   ]
 }
