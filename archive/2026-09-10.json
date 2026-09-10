@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T01:32:04.192936+00:00",
+  "generated": "2026-09-10T02:01:55.366220+00:00",
   "date": "2026-09-10",
-  "count": 42,
+  "count": 43,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -296,6 +296,13 @@
       "url": "https://www.watson.ch/international/liveticker/664855486-donald-trump-spricht-an-midterm-parteitag-in-dallas-jetzt-live",
       "summary": "",
       "published": "2026-09-10T01:32:04.192936+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Pilot wollte Landung abbrechen",
+      "url": "https://www.20min.ch/story/amazon-flugzeugunglueck-pilot-wollte-landung-abbrechen-103630746",
+      "summary": "Einer der Piloten warnte mehrfach vor zu hoher Geschwindigkeit und forderte zum Abbruch der Landung auf. Der zweite Pilot reagierte nicht – fünf Menschen starben.",
+      "published": "2026-09-10T02:01:55.366220+00:00"
     }
   ]
 }
