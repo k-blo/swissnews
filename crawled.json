@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T01:02:18.575489+00:00",
+  "generated": "2026-09-10T01:32:04.192936+00:00",
   "date": "2026-09-10",
-  "count": 38,
+  "count": 42,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -268,6 +268,34 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/sommerausflug-vom-27-08-2026-ld.4231245",
       "summary": "",
       "published": "2026-09-10T01:02:18.575489+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Amazon-Flugzeugunglück: Pilot wollte Landung abbrechen",
+      "url": "https://www.tagesanzeiger.ch/amazon-absturz-miami-pilot-warnte-vor-zu-schnellem-anflug-154016124116",
+      "summary": "Beim Anflug auf Miami warnte einer der Piloten mehrfach vor der hohen Geschwindigkeit. Kurz vor dem Aufsetzen forderte er zum Abbruch der Landung auf. Wenig später schoss die Maschine über die Landeba",
+      "published": "2026-09-10T01:32:04.192936+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "ESP-Geheimdienst warnte vor den Massen",
+      "url": "https://www.zentralplus.ch/news/esp-geheimdienst-warnte-vor-den-massen-2897542/",
+      "summary": "Spanien hat geheime Unterlagen freigegeben, die zeigen, dass der spanische Geheimdienst CNI vor der Ankunft von Migranten auf der Nordafrika-Exklave Ceunta warnte. Demnach informierte der CNI am 29. J",
+      "published": "2026-09-10T01:32:04.192936+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Schlafwandelt Europa in den Weltenbrand",
+      "url": "https://weltwoche.ch/story/schlafwandelt-europa-in-den-weltenbrand/",
+      "summary": "",
+      "published": "2026-09-10T01:32:04.192936+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Donald Trump spricht an Midterm-Parteitag in Dallas: Jetzt live",
+      "url": "https://www.watson.ch/international/liveticker/664855486-donald-trump-spricht-an-midterm-parteitag-in-dallas-jetzt-live",
+      "summary": "",
+      "published": "2026-09-10T01:32:04.192936+00:00"
     }
   ]
 }
