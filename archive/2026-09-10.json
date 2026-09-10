@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T02:01:55.366220+00:00",
+  "generated": "2026-09-10T02:22:39.334392+00:00",
   "date": "2026-09-10",
-  "count": 43,
+  "count": 45,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -303,6 +303,20 @@
       "url": "https://www.20min.ch/story/amazon-flugzeugunglueck-pilot-wollte-landung-abbrechen-103630746",
       "summary": "Einer der Piloten warnte mehrfach vor zu hoher Geschwindigkeit und forderte zum Abbruch der Landung auf. Der zweite Pilot reagierte nicht – fünf Menschen starben.",
       "published": "2026-09-10T02:01:55.366220+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump spricht am Parteitag",
+      "url": "https://www.zentralplus.ch/news/trump-spricht-am-parteitag-2897544/",
+      "summary": "Die Republikaner führen zwei Monate vor den Zwischenwahlen einen Parteitag in Dallas durch. US-Präsident Donald spricht dabei und erklärt den Kommunismus zur grössten Bedrohung für die USA. Und dieser",
+      "published": "2026-09-10T02:22:39.334392+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Frühes Saisonende in der Badi Andelfingen: Jetzt dominieren die Bagger zwischen den Bassins",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-10/fruehes-saisonende-in-der-badi-andelfingen-jetzt-dominieren",
+      "summary": "Das bald 60 Jahre alte Schwimmbad  Andelfingen wird derzeit einer umfassenden Sanierung und Erneuerung unterzogen. Gesamthaft fallen dafür Kosten von rund 7,5 Millionen Franken an.",
+      "published": "2026-09-10T02:22:39.334392+00:00"
     }
   ]
 }
