@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T03:01:43.961267+00:00",
+  "generated": "2026-09-10T03:31:37.735418+00:00",
   "date": "2026-09-10",
-  "count": 150,
+  "count": 168,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1052,6 +1052,132 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-stadtparlament-131-kandidierende-kaempfen-um-40-sitze-art-1721008",
       "summary": "",
       "published": "2026-09-10T03:01:43.961267+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "KI soll uraltes Mathe-Rätsel gelöst haben",
+      "url": "https://www.20min.ch/story/openai-ki-soll-uraltes-mathe-raetsel-geloest-haben-103630747",
+      "summary": "Fast 100 Jahre lang blieb das Navier-Stokes-Problem ungelöst. Nun will OpenAI es mit KI geknackt haben – Mathematikprofessor Joachim Escher ordnet den Fall ein.",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bildung im Kanton: Sollen Lehrpersonen mehr Zeit für ihre Arbeit bekommen? «Ja, aber ...»",
+      "url": "https://www.tagesanzeiger.ch/zuerich-66-prozent-wollen-mehr-zeit-fuer-lehrpersonen-431621671477",
+      "summary": "Eine neue Befragung zeigt: Die Zürcher Bevölkerung gönnt den Lehrpersonen mehr Zeit für ihre Arbeit – doch wird sie am 27. September auch so abstimmen? Die wichtigsten Erkenntnisse.",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Politikrimi: Im Bezirk Meilen kämpfen zwei FDP-Mitglieder um dasselbe Richteramt",
+      "url": "https://www.tagesanzeiger.ch/fdp-bezirk-meilen-zwei-kandidierende-bei-bezirksrichterwahl-699633342473",
+      "summary": "Umstrittenes Lobbying, eine fehlerhafte Abstimmung und eine überraschende Wende: An der Zürcher Goldküste kommt es zu einem aussergewöhnlichen Duell.",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Philipp Loser über FDP & Mitte: Guten Morgen, liebe Partei­präsidenten, Zeit zum Aufwachen!",
+      "url": "https://www.tagesanzeiger.ch/fdp-und-mitte-warum-die-parteipraesidenten-blass-bleibt-259306221160",
+      "summary": "Eine Vermissten­meldung: Wo ist das Führungs­personal von FDP und Mitte? Dabei wäre ein starkes bürgerliches Zentrum gerade jetzt so wichtig.",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview zum F-35: Er warnte schon vor vier Jahren vor höheren Preisen für den F-35 – und vermutet Kalkül hinter dem Vorgehen des VBS",
+      "url": "https://www.tagesanzeiger.ch/f-35-kauf-fridez-erhebt-vorwuerfe-gegen-armasuisse-583361704580",
+      "summary": "Pierre-Alain Fridez hat zwei Bücher zur Kampfjetbeschaffung veröffentlicht. Nun sieht er sich bestätigt – sagt aber, das Parlament habe längst nicht alles Nötige aufgearbeitet.",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schattenseite des Billigversprechens: Zu wenig Zeit und viele Minusstunden: Insider berichten über extremen Druck bei Aldi Schweiz",
+      "url": "https://www.tagesanzeiger.ch/aldi-schweiz-insider-berichten-von-extremem-druck-716975138866",
+      "summary": "Seit neustem dreht sich bei Aldi wieder alles um den Preis. Mit Folgen fürs Personal: Filialleiter berichten wie reduzierte Vorgaben und unrealistische Zeitkontingente das Personal massiv belasten.",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Der Fixpreis, den es nie gab: Welche Konsequenzen hat das Kampfjet-Debakel für Viola Amherd?",
+      "url": "https://www.tagesanzeiger.ch/das-debakel-um-den-fixpreis-des-f-35-kampfjets-und-seine-folgen-829247397961",
+      "summary": "Die ehemalige Verteidigungsministerin sprach von einem Fixpreis, ihr Nachfolger von einem «Missverständnis». Ein Bericht zeigt nun: Für den Kampfjet wurde nie ein Pauschalpreis vereinbart. Eine Rekons",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA: Kampf gegen Drogen intensivieren",
+      "url": "https://www.zentralplus.ch/news/usa-kampf-gegen-drogen-intensivieren-2897546/",
+      "summary": "US-Aussenminister hat angekündigt, dass die USA zusammen mit Ecuador den Kampf gegen Drogen intensivieren. Er werde den Kongress bitten, weitere 45 Millionen US-Dollar für Ecuador freizugeben, sagte R",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Vontobel kommt: So reagiert Baar auf den Mega-Zuzug",
+      "url": "https://www.zentralplus.ch/arbeiten/vontobel-kommt-so-reagiert-baar-auf-den-mega-zuzug-2896276/",
+      "summary": "Vontobel zieht mit 1500 Mitarbeitern nach Baar. Die Gemeinde freut sich über den prominenten Zuzug – rechnet aber auch mit mehr Druck auf den Wohnungsmarkt. Dass der Kanton Zug Unternehmen aus Zürich ",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stehen Horwerinnen künftig ohne Ökihof da?",
+      "url": "https://www.zentralplus.ch/leben/stehen-horwerinnen-kuenftig-ohne-oekihof-da-2897243/",
+      "summary": "Ein Bericht des Horwer Gemeinderats macht stutzig. Eine Schliessung des bestehenden Ökihofs – auch ohne Ersatz – sei nicht ausgeschlossen. Gemeinde und Güselverband beschwichtigen – eine Lösung ist al",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Europa geht mit gefährlich niedrigen Gasvorräten in den Winter – weil die Händler sich im Iran-Krieg verzockt haben",
+      "url": "https://www.nzz.ch/meinung/europa-geht-mit-gefaehrlich-niedrigen-gasvorraeten-in-den-winter-weil-die-haendler-sich-im-iran-krieg-verzockt-haben-ld.10023015",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Die Neutralität ist fremdbestimmt",
+      "url": "https://www.nzz.ch/meinung/die-neutralitaet-ist-fremdbestimmt-ld.10019422",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Bankenregulierung im Blindflug",
+      "url": "https://www.nzz.ch/meinung/bankenregulierung-im-blindflug-ld.10023081",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Lehrpersonalgesetz: Die Vorlage ist untauglich – die Zahlenschieberei an Zürcher Schulen muss aufhören",
+      "url": "https://www.nzz.ch/meinung/lehrpersonalgesetz-die-vorlage-ist-untauglich-die-zahlenschieberei-an-zuercher-schulen-muss-aufhoeren-ld.10021625",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Über 2200 Adressen für Hochbauvorsteher Langenegger: AL-Urgestein Niklaus Scherr will Beschränkung von Business-Apartments in Zürich vorantreiben",
+      "url": "https://www.nzz.ch/zuerich/niklaus-scherr-will-beschraenkung-von-business-apartments-in-zuerich-vorantreibend-ld.10023055",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Vor elf Jahren reist der Ex-Mann von Irina Vencu mit dem gemeinsamen Sohn nach Jordanien. Und bringt ihn nicht mehr zurück. Nun sagt er: «Ich hatte Angst»",
+      "url": "https://www.nzz.ch/zuerich/vater-entfuehrt-sohn-nach-jordanien-geschaeftsmann-in-zuerich-vor-gericht-ld.10022846",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Austausch Zwischen Ennetmoos und Saviese Bringt Freundschaft",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/austausch-zwischen-ennetmoos-und-saviese-bringt-freundschaft-ld.4223041",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir haben eine Verbindung, ohne uns zu verstehen»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/austausch-zwischen-ennetmoos-und-saviese-bringt-freundschaft-art-1721022",
+      "summary": "",
+      "published": "2026-09-10T03:31:37.735418+00:00"
     }
   ]
 }
