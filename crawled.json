@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T12:31:56.643425+00:00",
+  "generated": "2026-09-10T13:01:42.168829+00:00",
   "date": "2026-09-10",
-  "count": 585,
+  "count": 613,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4097,6 +4097,202 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/schmierereien-vor-prozess-gegen-junge-tat-9-personen-festgenommen-art-1721088",
       "summary": "",
       "published": "2026-09-10T12:31:56.643425+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Parlament gibt grünes Licht für höchste Wohnhäuser der Schweiz: Wird Basel jetzt zu einem neuen Bebbi-Dubai?",
+      "url": "https://www.blick.ch/wirtschaft/parlament-gibt-gruenes-licht-fuer-hoechste-wohnhaeuser-der-schweiz-wird-basel-jetzt-zu-einem-neuen-bebbi-dubai-id22248310.html",
+      "summary": "Das Basler Parlament hat grünes Licht für drei Rekord-Hochhäuser auf dem Dreispitz-Areal gegeben. Mit bis zu 151 Metern werden sie die höchsten Wohnhäuser der Schweiz. Weitere Hochhäuser stehen in der",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "50 Geheimtipps in Europa – Platz 1 liegt am Schwarzen Meer",
+      "url": "https://www.20min.ch/story/sozopol-beddgelert-voguee-das-sind-europas-beste-reise-geheimtipps-103630891",
+      "summary": "Keine Lust auf überlaufene Ferienorte? Ein Ferienhausportal hat 50 weniger gesuchte Reiseziele in Europa verglichen. Vier Schweizer Orte schaffen es ins Ranking, ganz vorne liegt aber Bulgarien.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Streit um Wahlkampf-Konto: Wegen 22’000 Franken: Die Mitte zeigt Staatsrätin Valérie Dittli erneut an",
+      "url": "https://www.tagesanzeiger.ch/dittli-mitte-erstattet-erneut-strafanzeige-wegen-22000-franken-889496341601",
+      "summary": "Die Waadtländer Politikerin wollte ein Parteikonto auflösen und die Gelder überweisen. Ihre ehemalige Sektion sperrte das Konto und erstattete Strafanzeige.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Folgen der Anschläge: 9/11 war ein Urknall, der bis heute nachhallt",
+      "url": "https://www.tagesanzeiger.ch/9-11-wie-islamistischer-terror-die-welt-bis-heute-praegt-700287183841",
+      "summary": "Derzeit gibt es fünfmal mehr islamistische Terrororganisationen als im Jahr 2001. Sie haben topmoderne Mittel, die Bin Laden noch nicht zur Verfügung standen. Und sie schlagen zu, auch in der Schweiz.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sicherheitsvorfall bei Claude-Tests: Anthropics KI-Modell hat insgesamt vier Mal fremde Systeme gehackt",
+      "url": "https://www.tagesanzeiger.ch/anthropic-vierter-hackerangriff-auf-ai-modell-claude-entdeckt-391661255015",
+      "summary": "Das KI-Unternehmen entdeckte erst bei der Auswertung von über 141’000 Testprotokollen, dass es einen bisher unbekannten Hackerangriff gibt. Die Branche gerät zunehmend unter Druck.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vorwürfe an Murat Yakin: «Ich kann einfach nicht mehr»: Noah Okafor tritt aus dem Nationalteam zurück",
+      "url": "https://www.bernerzeitung.ch/ich-kann-einfach-nicht-mehr-noah-okafor-tritt-ueberraschend-aus-der-nati-zurueck-363088015450",
+      "summary": "Der Stürmer hat seinen Abgang aus dem Schweizer Nationalteam verkündet. Es ist das nächste Kapitel in einer Karriere, die geprägt ist von Konfrontationen und dem Gefühl, benachteiligt zu werden.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Cupfinal 2025 im Wankdorf: Polizei sucht vier Pyro-Zünder mit verpixelten Fotos",
+      "url": "https://www.bernerzeitung.ch/wankdorf-stadion-bern-polizei-sucht-vier-pyro-zuender-694366948872",
+      "summary": "Vier Fans sollen am Cupfinal 2025 im Wankdorf Fackeln und Knallpetarden gezündet haben. Melden sie sich nicht innert einer Woche, publiziert die Polizei ihre Bilder unverpixelt.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Basler Gartenbäder ziehen Bilanz: 550’000 Badi-Eintritte – aber doch weit weg vom Rekord von 2003",
+      "url": "https://www.bazonline.ch/gartenbaeder-basel-550000-eintritte-in-rekordsaison-414326896685",
+      "summary": "Die Basler Badis verzeichnen 26 Prozent mehr Besuche als im Vorjahr. Auf Besuchermassen reagiert man heute aber empfindlicher als früher, wie ein Blick ins Archiv zeigt.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Fernabstimmungen: Landräte dürfen digital abstimmen – nicht, wenn sie chronisch krank sind",
+      "url": "https://www.bazonline.ch/baselland-landrat-erlaubt-digitale-abstimmungen-960283252358",
+      "summary": "Landrätinnen und Landräte können künftig auch digital abstimmen, ohne an der Sitzung teilnehmen zu müssen – allerdings mit strengend Einschränkungen.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Protestaktion Lokpersonal in Polen",
+      "url": "https://www.zentralplus.ch/news/protestaktion-lokpersonal-in-polen-2897663/",
+      "summary": "Lokführerinnen und Lokführer wollen in Polen aus Protest morgen 24 Stunden lang Bahnübergänge nur sehr langsam passieren. Damit reagieren sie auf das Zugunglück von Mittwoch mit einer Toten und mehrer",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Europäische Zentralbank erfüllt mit Zinsschritt Erwartungen",
+      "url": "https://www.finews.ch/news/finanzplatz/73573-ezb-leitzinsen-inflation-konjunktur",
+      "summary": "Der EZB-Rat hat an seiner heutigen Sitzung in Berlin eine Anhebung der Leitzinsen um jeweils 25 Basispunkte beschlossen. Die Inflations- und Wachstumsschätzungen werden leicht angepasst. Insbesondere ",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Galdermas Jason Goddard ist CIO des Jahres",
+      "url": "https://www.inside-it.ch/galdermas-jason-goddard-ist-cio-des-jahres-20260910",
+      "summary": "Beim Pharmakonzern hat Jason Goddard eine Verbindung der Technologieagenda mit den geschäftlichen Wachstumszielen geschaffen. Dafür wurde er als CIO des Jahres geehrt.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Plötzlich König? Wie ein Amateurkicker aus London zum Thronfolger in Uganda wurde",
+      "url": "https://www.nzz.ch/panorama/ploetzlich-koenig-wie-ein-amateurkicker-aus-london-zum-thronfolger-in-uganda-wurde-ld.10023218",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Angst vor dem Druck der Grossmächte wächst – und kaum jemand glaubt, dass die Schweizer Politik darauf vorbereitet ist",
+      "url": "https://www.nzz.ch/schweiz/die-angst-vor-dem-druck-der-grossmaechte-waechst-und-kaum-jemand-glaubt-dass-die-schweizer-politik-darauf-vorbereitet-ist-ld.10023228",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wo ist Chanel? Familie macht Ferien an der Autobahn, weil ihre Katze entlaufen ist",
+      "url": "https://www.nzz.ch/panorama/wo-ist-chanel-familie-macht-ferien-an-der-autobahn-weil-ihre-katze-entlaufen-ist-ld.10023202",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Bettina Oberli geehrt für «Naked»",
+      "url": "https://www.persoenlich.com/gesellschaft/bettina-oberli-geehrt-fur-naked",
+      "summary": "Die Schweizer Regisseurin und Drehbuchautorin ist für ihre Serie in der Kategorie «Beste Regie Fiktion» ausgezeichnet worden.",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Jugendsession Aargau Befürwortet Atomkraft Investitionen",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/jugendsession-aargau-befuerwortet-atomkraft-investitionen-ld.4232232",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Nach Weltrekord im Pazifik Team um Samül Widmer Spendet",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/nach-weltrekord-im-pazifik-team-um-samuel-widmer-spendet-ld.4232191",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Kolumne Warum die Fahrt im Ersatzbus Auch Durchaus Reizvoll Sein Kann",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/kolumne-warum-die-fahrt-im-ersatzbus-auch-durchaus-reizvoll-sein-kann-ld.4232204",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Französische Bulldogge Naboo Lernt Schwimmen am Hallwilersee",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/franzoesische-bulldogge-naboo-lernt-schwimmen-am-hallwilersee-ld.4231196",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Inline Alpin Weltcup Schweizer Team Überzeugt im Slalom",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/inline-alpin-weltcup-schweizer-team-ueberzeugt-im-slalom-ld.4228977",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jimmy Kimmel darf Interview mit James Talarico nicht im Fernsehen zeigen",
+      "url": "https://www.watson.ch/international/tv/524263893-jimmy-kimmel-darf-interview-mit-james-talarico-nicht-im-fernsehen-zeigen",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Oasis»-Doku erzählt von Versöhnung der Gallagher-Brüder",
+      "url": "https://www.watson.ch/leben/reviews/323990787-oasis-doku-erzaehlt-von-versoehnung-der-gallagher-brueder",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Studie: Darmpilz N. glabratus macht Prostatakrebs therapieresistent",
+      "url": "https://www.watson.ch/schweiz/forschung/888690364-studie-darmpilz-n-glabratus-macht-prostatakrebs-therapieresistent",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stadt Bern will politische Teilhabe für Ausländer erleichtern",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/267417732-stadt-bern-will-politische-teilhabe-fuer-auslaender-erleichtern",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Gurbrü-Chilbi ist zurück",
+      "url": "https://www.freiburger-nachrichten.ch/story/289052/die-gurbr%C3%BCchilbi-ist-zur%C3%BCck",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Monatelang bremsten ihn Schmerzen – jetzt kann Fabio Flütsch wieder lachen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zug-united-fabio-fluetsch-nach-verletzungspause-zurueck-art-1721089",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Okafor zieht die Reissleine: Keine Nati mehr unter Murat Yakin",
+      "url": "https://www.bote.ch/nachrichten/sport/noah-okafor-will-vorerst-nicht-mehr-fuer-die-nati-spielen-art-1721068",
+      "summary": "",
+      "published": "2026-09-10T13:01:42.168829+00:00"
     }
   ]
 }
