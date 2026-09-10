@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T20:32:18.757064+00:00",
+  "generated": "2026-09-10T21:02:27.065060+00:00",
   "date": "2026-09-10",
-  "count": 950,
+  "count": 952,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6652,6 +6652,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/lk-zug-schlaegt-aargau-ost-klar-mit-3724-art-1721206",
       "summary": "",
       "published": "2026-09-10T20:32:18.757064+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach Tod von 39-Jähriger spricht nun Ex-Frau des Verdächtigen",
+      "url": "https://www.20min.ch/story/frau-39-stirbt-nach-missbrauch-in-oesterreich-ex-frau-erhebt-schwere-vorwuerfe-103630935",
+      "summary": "Zwei Männer sitzen in U-Haft, weitere könnten beteiligt sein. Nun erhebt auch die Ex-Frau des Hauptverdächtigen schwere Gewaltvorwürfe.",
+      "published": "2026-09-10T21:02:27.065060+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Champions League: Musiala trifft nach Zusammenbrüchen erstmals, Bayern und ManUtd in Torlaune",
+      "url": "https://www.tagesanzeiger.ch/champions-league-bayern-gewinnt-5-0-gegen-bodoe-glimt-123627307870",
+      "summary": "Bayern München und Manchester United starten mit klaren Siegen in die neue Saison der Champions League. Jamal Musiala sorgt für einen Lichtblick.",
+      "published": "2026-09-10T21:02:27.065060+00:00"
     }
   ]
 }
