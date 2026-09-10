@@ -1,13 +1,13 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Thu, 10 Sep 2026 21:38:43 GMT",
-    "etag": "\"24af90c4e3c907c031bdcc543c3683be\""
+    "last_modified": "Thu, 10 Sep 2026 22:46:19 GMT",
+    "etag": "\"66d9972fef315b3291bbbd5b2d7173ff\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"1871e-kN86etjFT8qstGUYRAjPwW5xLpQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"d7dc-Ja13jX5CKRkVj00/AlKUVALwYRk\""
+    "etag": "W/\"d7dc-ibs8smkEOJNdid9SB6hVapn6YNE\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"d689-TnH6CKlWJepWH/haWem11wDrBUM\""
@@ -16,14 +16,14 @@
     "last_modified": "Thu, 10 Sep 2026 19:05:13 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Thu, 10 Sep 2026 22:31:27 GMT"
+    "last_modified": "Thu, 10 Sep 2026 23:01:32 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Thu, 10 Sep 2026 21:11:09 GMT",
     "etag": "\"1789074669\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Thu, 10 Sep 2026 22:29:58 GMT"
+    "last_modified": "Thu, 10 Sep 2026 23:00:03 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -36,12 +36,12 @@
     "etag": "W/\"cbfa-AEt51o2QyEocNOUDRnFYBAULm+c\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Thu, 10 Sep 2026 22:08:40 GMT",
-    "etag": "\"1789078120\""
+    "last_modified": "Thu, 10 Sep 2026 22:52:37 GMT",
+    "etag": "\"1789080757\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Thu, 10 Sep 2026 22:08:40 GMT",
-    "etag": "\"1789078120\""
+    "last_modified": "Thu, 10 Sep 2026 22:52:37 GMT",
+    "etag": "\"1789080757\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2c639-SGkV5oUO0wNh1u/BXNrHdmIQjys\""
@@ -51,8 +51,8 @@
     "etag": "\"1789014460\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Thu, 10 Sep 2026 22:27:05 GMT",
-    "etag": "W/\"1789079225-gzip\""
+    "last_modified": "Thu, 10 Sep 2026 23:00:39 GMT",
+    "etag": "W/\"1789081239-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"197b1-uG1noMkzecOW6z0my1UCVc1CRE0\""

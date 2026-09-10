@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T22:32:24.859666+00:00",
+  "generated": "2026-09-10T23:02:15.405133+00:00",
   "date": "2026-09-11",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/albin-spaeni-erlebte-911-in-new-york-art-1721051",
       "summary": "",
       "published": "2026-09-10T22:32:24.859666+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Im Unterengadin – Niederländischer Reisecar verunfallt: Mehrere Tote und Verletzte",
+      "url": "https://www.srf.ch/news/schweiz/im-unterengadin-niederlaendischer-reisecar-verunfallt-mehrere-tote-und-verletzte",
+      "summary": "Zwischen Susch und Zernez ist ein Car verunglückt. Es handelt sich um einen niederländischen Reisebus.",
+      "published": "2026-09-10T23:02:15.405133+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Tote und Verletzte: Das wissen wir über das Busunglück im Engadin",
+      "url": "https://www.blick.ch/schweiz/graubuenden/tote-und-verletzte-das-wissen-wir-ueber-das-busunglueck-im-engadin-id22250026.html",
+      "summary": "Ein schwerer Busunfall hat am Donnerstag im Unterengadin mehrere Menschen das Leben gekostet. Ein niederländischer Reisecar kam zwischen Zernez und Susch von der Strasse ab und stürzte neben einer Bau",
+      "published": "2026-09-10T23:02:15.405133+00:00"
     }
   ]
 }
