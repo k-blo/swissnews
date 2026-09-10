@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10T18:25:09.570812+00:00",
+  "generated": "2026-09-10T18:32:18.847862+00:00",
   "date": "2026-09-10",
-  "count": 907,
+  "count": 910,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6351,6 +6351,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/rotkreuz-mobilezone-holt-entlassenen-kadermitarbeiter-zurueck-art-1721149",
       "summary": "",
       "published": "2026-09-10T18:25:09.570812+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verstecktes Risiko fürs Herz: Sollte es zum Schlafen wirklich stockdunkel sein?",
+      "url": "https://www.tagesanzeiger.ch/lichtverschmutzung-schwaches-licht-im-schlaf-schadet-dem-herz-195965914860",
+      "summary": "Schon wenig Licht während des Schlafs hängt einer neuen Studie zufolge mit Veränderungen des Herzens zusammen. Doch muss deshalb nachts wirklich jeder Lichtschimmer draussen bleiben?",
+      "published": "2026-09-10T18:32:18.847862+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Der Hcd Erfüllt in Polen Seine Pflicht Hat aber Mehr Mühe als Erwartet",
+      "url": "https://www.suedostschweiz.ch/regionalsport/der-hcd-erfuellt-in-polen-seine-pflicht-hat-aber-mehr-muehe-als-erwartet-2147678",
+      "summary": "",
+      "published": "2026-09-10T18:32:18.847862+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach Hitzesommer: Rigi baut Wasserversorgung massiv aus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/nach-hitzesommer-rigi-baut-wasserversorgung-massiv-aus-art-1721076",
+      "summary": "",
+      "published": "2026-09-10T18:32:18.847862+00:00"
     }
   ]
 }
