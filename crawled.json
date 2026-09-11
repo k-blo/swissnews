@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T22:32:34.232002+00:00",
+  "generated": "2026-09-11T23:01:48.987001+00:00",
   "date": "2026-09-12",
-  "count": 21,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -149,6 +149,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/darum-geht-es-bei-der-mythenforum-abstimmung-art-1721265",
       "summary": "",
       "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "24 Milliarden Aktienwert futsch: Novartis-Boss Vas Narasimhan erlebt schlimmste Börsenwoche",
+      "url": "https://www.blick.ch/wirtschaft/invest/24-milliarden-aktienwert-futsch-novartis-boss-vas-narasimhan-erlebt-schlimmste-boersenwoche-id22251238.html",
+      "summary": "Diese Woche gab es einen grossen Rückschlag für die erfolgsverwöhnten Novartis-Aktionäre. Professionelle Anleger verkauften viele Aktien des Basler Pharmakonzerns. Blick fragte bei Fachleuten nach, wa",
+      "published": "2026-09-11T23:01:48.987001+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Fahrzeugsicherheitsexperte zu Busunfall im Engadin: «Die Gurtentragpflicht in den Cars wird schlecht umgesetzt»",
+      "url": "https://www.blick.ch/schweiz/graubuenden/fahrzeugsicherheitsexperte-zu-busunfall-im-engadin-die-gurtentragpflicht-in-den-cars-wird-schlecht-umgesetzt-id22251986.html",
+      "summary": "Der schwere Car-Unfall im Engadin wirft auch Fragen zur Sicherheit an Bord von Reisebussen auf. Ein Experte erklärt, wieso Gurte so wichtig sind und wie man sich am besten schützt.",
+      "published": "2026-09-11T23:01:48.987001+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SRF Arena zu EU-Verträgen: So unfreiwillig helfen Befürworter der SVP",
+      "url": "https://www.watson.ch/schweiz/reviews/317415708-srf-arena-zu-eu-vertraegen-so-unfreiwillig-helfen-befuerworter-der-svp",
+      "summary": "",
+      "published": "2026-09-11T23:01:48.987001+00:00"
     }
   ]
 }
