@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T19:32:53.442746+00:00",
+  "generated": "2026-09-11T20:03:13.666790+00:00",
   "date": "2026-09-11",
-  "count": 925,
+  "count": 936,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6477,6 +6477,83 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/wolfsrisse-im-melchtal-abschuss-noch-nicht-moeglich-art-1721348",
       "summary": "",
       "published": "2026-09-11T19:32:53.442746+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Altes Handwerk – Fördert Mähen mit der Sense die Biodiversität?",
+      "url": "https://www.srf.ch/news/schweiz/altes-handwerk-foerdert-maehen-mit-der-sense-die-biodiversitaet",
+      "summary": "Sensen – das Mähen von Hand – liegt im Trend. Doch hilft das traditionelle Mähen tatsächlich der biologischen Vielfalt?",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Seilzieh-WM in Südafrika – Diese Seilzieher sind Weltspitze – und fast alle aus Engelberg",
+      "url": "https://www.srf.ch/news/schweiz/seilzieh-wm-in-suedafrika-diese-seilzieher-sind-weltspitze-und-fast-alle-aus-engelberg",
+      "summary": "Bald ist Seilzieh-WM in Südafrika, wo die Schweiz in der Königsklasse bei den Männern von Engelberg vertreten wird.",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die richtige Wandertechnik: Bloss nicht auf die Füsse schauen: So kommen Sie sicher den Berg runter",
+      "url": "https://www.tagesanzeiger.ch/wandern-so-kommen-sie-sicher-und-gefahrlos-den-berg-hinunter-699858992346",
+      "summary": "Bergab sterben mehr Menschen als bergauf. Trailrunning-Europameisterin Judith Wyder sagt, wie sich Wandernde vor Stürzen schützen und was wir von Kindern lernen können.",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tipps fürs Bergabwandern: «Das Schlimmste ist, direkt danach stunden lang im Auto oder Zug zu sitzen»",
+      "url": "https://www.tagesanzeiger.ch/bergab-wandern-7-tipps-von-expertin-judith-wyder-170532856535",
+      "summary": "Knieschmerzen, Muskelkater oder Angst: Trailrunning-Europameisterin Judith Wyder gibt Ratschläge zu sieben typischen Problemen beim Bergabgehen.",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Untersuchung in Brasilien: Ein Film über Jair Bolsonaro bringt dessen Sohn in Bedrängnis",
+      "url": "https://www.tagesanzeiger.ch/brasilien-ermittlungen-gegen-flavio-bolsonaro-wegen-geldwaesche-293140497103",
+      "summary": "Flávio Bolsonaro soll die Produktion von «Dark Horse» mit Geld eines mutmasslichen Betrügers finanziert haben. Der Fall hat einen offenen Machtkampf am Obersten Gerichtshof ausgelöst.",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "9/11 veränderte USA fundamental",
+      "url": "https://www.zentralplus.ch/news/9-11-veraenderte-usa-fundamental-2897958/",
+      "summary": "Die Terroanschläge vom 11. September 2001 hatten Auswirkungen weit über die fast 3000 Toten des Attentats hinaus, wie USA-Korrespondent Pascal Weber beobachtet. Der Gedanke der nationalen Sicherheit s",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ultimate Championship: Werro siegt im Halbfinal",
+      "url": "https://www.nzz.ch/sport/ultimate-championship-werro-locker-im-final-ld.10023526",
+      "summary": "",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fc Wil Verliert Beim Leader Stade Lausanne Ouchy 04",
+      "url": "https://www.tagblatt.ch/sport/ostschweiz/fc-wil-verliert-beim-leader-stade-lausanne-ouchy-04-ld.4233146",
+      "summary": "",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Liveticker der Fc Wil Verliert Gegen Stade Lausanne Ouchy Gleich mit 04",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/liveticker-der-fc-wil-verliert-gegen-stade-lausanne-ouchy-gleich-mit-04-ld.4228489",
+      "summary": "",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "15-Jähriger treibt tagelang im Meer – und wird gerettet",
+      "url": "https://www.watson.ch/international/usa/315470298-15-jaehriger-treibt-tagelang-im-meer-und-wird-gerettet",
+      "summary": "",
+      "published": "2026-09-11T20:03:13.666790+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "25 Jahre nach 9/11 – USA gedenken der Terroropfer",
+      "url": "https://www.watson.ch/international/usa/975931842-25-jahre-nach-9-11-usa-gedenken-der-terroropfer",
+      "summary": "",
+      "published": "2026-09-11T20:03:13.666790+00:00"
     }
   ]
 }
