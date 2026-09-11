@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T01:02:34.689921+00:00",
+  "generated": "2026-09-11T01:32:12.700757+00:00",
   "date": "2026-09-11",
-  "count": 33,
+  "count": 35,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -233,6 +233,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/die-ausgleichsmassnahmen-sind-gefaehrliche-sanktionen",
       "summary": "",
       "published": "2026-09-11T00:32:28.718291+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gedenkveranstaltungen in den USA",
+      "url": "https://www.zentralplus.ch/news/gedenkveranstaltungen-in-den-usa-2897770/",
+      "summary": "Genau 25 Jahre sind die islamistischen Terroranschläge auf das World Trade Center in New York und das Pentagon in Washington her. Zum Jahrestag finden überall in den USA Gedenkveranstaltungen statt. M",
+      "published": "2026-09-11T01:32:12.700757+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Wettbewerb World Band",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/wettbewerb-world-band-ld.4152745",
+      "summary": "",
+      "published": "2026-09-11T01:32:12.700757+00:00"
     }
   ]
 }
