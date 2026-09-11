@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T22:02:05.340117+00:00",
+  "generated": "2026-09-11T22:32:34.232002+00:00",
   "date": "2026-09-12",
-  "count": 4,
+  "count": 21,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -30,6 +30,125 @@
       "url": "https://www.freiburger-nachrichten.ch/story/288899/weiter-warten-auf-die-offizielle-zweisprachigkeit",
       "summary": "",
       "published": "2026-09-11T22:02:05.340117+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dacia Striker: Der Kombi ist zurück",
+      "url": "https://www.tagesanzeiger.ch/dacia-striker-neuer-kombi-startet-ab-dezember-2026-674578882950",
+      "summary": "Mehrere Hersteller bringen wieder Kombimodelle auf den Markt – mit oder ohne Elektroantrieb. Mit dem Striker will auch Dacia punkten. Das bewährte Rezept: viel Auto fürs Geld.",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "F: 44 Verletzte bei Entgleisung",
+      "url": "https://www.zentralplus.ch/news/f-44-verletzte-bei-entgleisung-2897962/",
+      "summary": "Ein Regionalzug ist am Freitagabend im Nordwesten Frankreichs entgleist. 44 Personen wurden dabei verletzt, eine davon schwer, wie die Behörden mitteilen. Der Zug war mit 180 Fahrgästen auf der Streck",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Einfach nur loswerden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/einfach-nur-loswerden-art-1721345",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zürcher gewinnt das Roggenstockschiessen 2026",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/zuercher-gewinnt-das-roggenstockschiessen-2026-art-1721301",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wanderrucksack statt Sporttasche",
+      "url": "https://www.bote.ch/nachrichten/vereine/wanderrucksack-statt-sporttasche-art-1721291",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Spielend sicher durch den Verkehr",
+      "url": "https://www.bote.ch/nachrichten/schwyz/spielend-sicher-durch-den-verkehr-art-1721308",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Saisonstart für die SG Muotathal/Mythen-Shooters",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/saisonstart-fuer-die-sg-muotathalmythen-shooters-art-1721300",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Küssnacht feiert Kantersieg gegen Zürcherinnen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/kuessnacht-feiert-kantersieg-gegen-zuercherinnen-art-1721299",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Klare Worte: Waldeigentümer fordern vom Kanton mehr Geld und Sofortmassnahmen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/klare-worte-waldeigentuemer-fordern-vom-kanton-mehr-geld-und-sofortmassnahmen-art-1721306",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Jolanda Steiner zu Besuch in Schwyz",
+      "url": "https://www.bote.ch/nachrichten/vereine/jolanda-steiner-zu-besuch-in-schwyz-art-1721288",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Janine Imholz: Vom Dächli Leni nach Hollywood? «Das wäre der absolute Traum»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/janine-imholz-vom-daechli-leni-nach-hollywood-das-waere-der-absolute-traum-art-1721314",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fusion von arabischen Klängen und westlicher Harmonie",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fusion-von-arabischen-klaengen-und-westlicher-harmonie-art-1721307",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Früherkennung von Brustkrebs rückt auch im Kanton Schwyz in den Fokus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/frueherkennung-von-brustkrebs-rueckt-auch-im-kanton-schwyz-in-den-fokus-art-1721302",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fecker Musig rockte<br />\nSchnecke-Fescht",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fecker-musig-rocktebr-schnecke-fescht-art-1721305",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eindrücklicher Abend in Morgarten",
+      "url": "https://www.bote.ch/nachrichten/vereine/eindruecklicher-abend-in-morgarten-art-1721271",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "EHC-Seewen-Spieler gewährt persönliche Einblicke am Sportforum",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ehc-seewen-spieler-gewaehrt-persoenliche-einblicke-am-sportforum-art-1721297",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Darum geht es bei der Mythenforum-Abstimmung",
+      "url": "https://www.bote.ch/nachrichten/schwyz/darum-geht-es-bei-der-mythenforum-abstimmung-art-1721265",
+      "summary": "",
+      "published": "2026-09-11T22:32:34.232002+00:00"
     }
   ]
 }
