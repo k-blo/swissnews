@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T10:17:49.530977+00:00",
+  "generated": "2026-09-11T10:32:54.480419+00:00",
   "date": "2026-09-11",
-  "count": 508,
+  "count": 519,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3558,6 +3558,83 @@
       "url": "https://www.watson.ch/wirtschaft/bitcoin/895016195-bitcoin-suisse-streicht-bis-zu-60-stellen",
       "summary": "",
       "published": "2026-09-11T10:17:49.530977+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung Kanton Waadt – Waadt stimmt über Steuersenkung von 12 Prozent ab",
+      "url": "https://www.srf.ch/news/schweiz/abstimmung-kanton-waadt-waadt-stimmt-ueber-steuersenkung-von-12-prozent-ab",
+      "summary": "Die Initiative gehört zu den am heftigsten umkämpften kantonalen Abstimmungsvorlagen der vergangenen Jahre.",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Piz Languard im Engadin – Wie der «König der Schweiz» in Vergessenheit geriet",
+      "url": "https://www.srf.ch/news/schweiz/piz-languard-im-engadin-wie-der-koenig-der-schweiz-in-vergessenheit-geriet",
+      "summary": "Britischer Adel auf einem Engadiner Berg, der «König der Schweiz» genannt wird? Ein Buch beleuchtet den Piz Languard.",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Offene Leitplanke war Hauptproblem»: Experte ordnet Bilder ein",
+      "url": "https://www.20min.ch/story/unfallanalytiker-offene-leitplanke-war-hauptproblem-experte-ordnet-bilder-ein-103631454",
+      "summary": "Beim tödlichen Buscrash in Zernez spielte laut einem Unfallanalytiker die offene Leitplanke eine wesentliche Rolle. Ohne Baustelle wäre das Unglück so wohl nicht passiert.",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wettswil am Albis: Oberhausenstrasse kommt im Dezember vors Volk",
+      "url": "https://www.tagesanzeiger.ch/wettswil-oberhausenstrasse-kommt-im-dezember-vors-volk-664315204130",
+      "summary": "Der Gemeinderat hat die Ingenieurdienstleistungen für die Strassensanierung für 84'800 Franken vergeben. Gleichzeitig bereitet die Verwaltung zwei weitere Neuerungen vor.",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Friedhof Moosseedorf: Gemeinde hebt Dutzende Gräber auf",
+      "url": "https://www.bernerzeitung.ch/friedhof-moosseedorf-32-graeber-werden-2027-geraeumt-438039484539",
+      "summary": "Mehrere Sarg- und Urnenreihengräber auf dem Gemeindefriedhof werden Anfang 2027 geräumt. Angehörige müssen Ansprüche bis zum 8. Januar 2027 anmelden – danach erlöschen alle Rechte.",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Huthi erobern wichtige Insel",
+      "url": "https://www.zentralplus.ch/news/huthi-erobern-wichtige-insel-2897867/",
+      "summary": "Die jemenitischen Huthi-Rebellen haben in der Meerenge Bab al-Mandab zum Roten Meer eine strategisch wichtige Insel erobert, wie mehrere Nachrichtenagenturen berichten. Damit dürfte der Erdöltransport",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Rolando Villazon Oper Orgel und das Dschungelbuch",
+      "url": "https://www.tagblatt.ch/kultur/ostschweiz/rolando-villazon-oper-orgel-und-das-dschungelbuch-ld.4232526",
+      "summary": "",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Önsingen 12 Lehrstellenbörse Gibt Einblick in Lehrberufe",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/oensingen-12-lehrstellenboerse-gibt-einblick-in-lehrberufe-ld.4232481",
+      "summary": "",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Werkbeitrag für Stefan Inauens Pop Up Store in Appenzell",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/werkbeitrag-fuer-stefan-inauens-pop-up-store-in-appenzell-ld.4232758",
+      "summary": "",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Island will kommerziellen Walfang dauerhaft verbieten",
+      "url": "https://www.watson.ch/international/tier/956451212-island-will-kommerziellen-walfang-dauerhaft-verbieten",
+      "summary": "",
+      "published": "2026-09-11T10:32:54.480419+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Der Brutalo Abbruch bei Zuger Bitcoin Suisse",
+      "url": "https://insideparadeplatz.ch/2026/09/11/der-brutalo-abbruch-bei-zuger-bitcoin-suisse/",
+      "summary": "",
+      "published": "2026-09-11T10:32:54.480419+00:00"
     }
   ]
 }
