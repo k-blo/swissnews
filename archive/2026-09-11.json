@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T18:32:42.901568+00:00",
+  "generated": "2026-09-11T19:02:37.914050+00:00",
   "date": "2026-09-11",
-  "count": 908,
+  "count": 919,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6358,6 +6358,83 @@
       "url": "https://www.watson.ch/international/leben/437666543-prinzessin-astrid-von-norwegen-ihr-leben-in-bildern",
       "summary": "",
       "published": "2026-09-11T18:32:42.901568+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Diskussion im «Club» – Neutralitätsinitiative: Mehr Schutz oder weniger Spielraum?",
+      "url": "https://www.srf.ch/news/schweiz/diskussion-im-club-neutralitaetsinitiative-mehr-schutz-oder-weniger-spielraum",
+      "summary": "Im «Club» geht es darum, was Neutralität heute leisten soll und ob strengere Regeln die Schweiz sicherer machen.",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Abgelehnt nach Rechtsüberholen: Verwaltungsgericht kippt negativen Einbürgerungsentscheid",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/abgelehnt-nach-rechtsueberholen-verwaltungsgericht-kippt-negativen-einbuergerungsentscheid-id22251891.html",
+      "summary": "Für einen im Aargau aufgewachsenen ETH-Studenten landet das Einbürgerungsgesuch vor dem Verwaltungsgericht. Weil er auf der Autobahn rechts überholt hatte, verwehrte ihm der Kanton den Schweizer Pass.",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Saisonniers verzweifelt: «Auch kleine Wohnungen kosten 1900 Fr.»",
+      "url": "https://www.20min.ch/story/wohnungsnot-in-zermatt-saisonniers-zahlen-1-900-fr-fuer-kleine-wohnungen-103630258",
+      "summary": "Wer in Zermatt und Umgebung eine Wohnung sucht, hat es nicht einfach. Betroffene Saisonangestellte erzählen von horrenden Preisen und fehlenden Unterkünften.",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Neue KI soll sogar Deepfakes erkennen, die andere Tools täuschen",
+      "url": "https://www.20min.ch/story/exposeanyone-erkennt-selbst-deepfakes-an-denen-andere-detektoren-scheitern-103630809",
+      "summary": "Was ist echt? Was fake? Das zu erkennen, wird zunehmend schwieriger. Gerade Deepfakes stellen ein Problem dar. Die Erfindung japanischer Forscher soll es deutlich verkleinern.",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Leck beim Mobilfunkanbieter: Salt meldet möglichen Zugriff auf Kundendaten",
+      "url": "https://www.tagesanzeiger.ch/salt-datenleck-betrifft-kundendaten-wie-namen-338794122904",
+      "summary": "Unbefugte verschafften sich Zugang zu einem Nebensystem mit Namen und Adressen. Passwörter und Bankdaten seien nicht betroffen.",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hans Buschor und der Streit um den K Tv Nachlass",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/hans-buschor-und-der-streit-um-den-k-tv-nachlass-ld.4233211",
+      "summary": "",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Rothenthurm Polizist bei Streit an Silvester Wüst Beschimpft",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/rothenthurm-polizist-bei-streit-an-silvester-wuest-beschimpft-ld.4233209",
+      "summary": "",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Wolfsrisse im Melchtal Abschuss Noch Nicht Möglich",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/wolfsrisse-im-melchtal-abschuss-noch-nicht-moeglich-ld.4233213",
+      "summary": "",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Nora Meister holt drittes Paralympics-Gold",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-nora-meister-holt-drittes-paralympics-gold",
+      "summary": "",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Prinzessin Astrid von Norwegen ist tot: ihr Leben in Bildern",
+      "url": "https://www.watson.ch/international/leben/437666543-prinzessin-astrid-von-norwegen-ist-tot-ihr-leben-in-bildern",
+      "summary": "",
+      "published": "2026-09-11T19:02:37.914050+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bürgerliches Bündnis: Gemeinsam – solange es nicht wehtut",
+      "url": "https://www.freiburger-nachrichten.ch/story/289387/b%C3%BCrgerliches-b%C3%BCndnis-gemeinsam-solange-es-nicht-wehtut",
+      "summary": "",
+      "published": "2026-09-11T19:02:37.914050+00:00"
     }
   ]
 }
