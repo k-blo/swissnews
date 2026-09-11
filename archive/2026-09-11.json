@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-11T12:32:55.629501+00:00",
+  "generated": "2026-09-11T13:02:49.378966+00:00",
   "date": "2026-09-11",
-  "count": 606,
+  "count": 624,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4244,6 +4244,132 @@
       "url": "https://insideparadeplatz.ch/2026/09/11/neuer-sobli-ist-von-gestern-wie-waers-mit-inside-langstasse/",
       "summary": "",
       "published": "2026-09-11T12:32:55.629501+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jetzt wird erst recht auf Prügel-Judoka eingedroschen",
+      "url": "https://www.20min.ch/story/nach-gruenden-fuer-attacke-jetzt-wird-erst-recht-auf-pruegel-judoka-eingedroschen-103631537",
+      "summary": "Nach der Attacke auf Timo Cavelius verteidigt Akaki Japaridze sein Verhalten mit einer Provokation. Der Deutsche Judo-Bund verurteilt diese Relativierung scharf.",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Fahrerflucht in Bottmingen: Autofahrer (84) erfasst 12-Jährigen und entfernt sich von Unfallort",
+      "url": "https://www.bazonline.ch/kollision-in-bottmingen-polizei-sucht-zeugen-778462867046",
+      "summary": "Der Unfall wurde erst bekannt, als sich der Vater des leicht verletzten Jugendlichen und der Autofahrer bei der Polizei meldeten.",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Druckmittel gegen Saudi Arabien",
+      "url": "https://www.zentralplus.ch/news/druckmittel-gegen-saudi-arabien-2897909/",
+      "summary": "Mit der Eroberung einer Insel in der Meerenge Bab el-Mandab und einer Hafenstadt wollten die Huthi-Rebellen unter anderem Saudi Arabien unter Druck setzen, sagt Nahost-Korrespondent Thomas Gutersohn. ",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Steuerbehörden wollen Open-Source-Middleware",
+      "url": "https://www.inside-it.ch/steuerbehoerden-wollen-open-source-middleware-20260911",
+      "summary": "Bei der neuen Middleware für den Austausch von Daten zwischen Steuerbehörden und dem Bundesamt für Sozialversicherungen ist Open Source vorgeschrieben.",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Ich schneide Dir den Kopf ab!» – ein Vater bedroht die Lehrerin seines Sohnes und wird zu sechs Monaten Haft verurteilt",
+      "url": "https://www.nzz.ch/international/ich-schneide-dir-den-kopf-ab-ein-vater-bedroht-die-lehrerin-seines-sohnes-und-wird-zu-sechs-monaten-haft-verurteilt-ld.10023388",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Was Menstruationsblut und Frauenspucke mit Höhlenmalerei zu tun haben",
+      "url": "https://www.shn.ch/region/stadt/2026-09-11/was-menstruationsblut-und-frauenspucke-mit-hoehlenmalerei-zu-tun-haben",
+      "summary": "Ulli Lust «comict» durch Jahrtausende weiblichen Wirkens. Am Donnerstag las sie im Museum zu Allerheiligen aus dem preisgekrönten Werk vor.",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Emmer Einwohnerrat Vorstösse zum Kulturzentrum Gersag",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/emmer-einwohnerrat-vorstoesse-zum-kulturzentrum-gersag-ld.4232636",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Kanton Aargau Kritisiert Öv Pläne des Bundesrats",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/kanton-aargau-kritisiert-oev-plaene-des-bundesrats-ld.4232675",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Jurapark Aargau Schaltet 29 Gemeinden am 19 September Dunkel",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/jurapark-aargau-schaltet-29-gemeinden-am-19-september-dunkel-ld.4229733",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Toggenburg Plant Velonetz für Alltag und Freizeit",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/toggenburg-plant-velonetz-fuer-alltag-und-freizeit-ld.4232143",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Plötzlich Datenlimits bei Swisscom – Kunden sollen Datenpakete kaufen",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/415361827-ploetzlich-datenlimits-bei-swisscom-kunden-sollen-datenpakete-kaufen",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Doppelbürger-Debatte: Nati-Trainer Yakin bindet Jungstars an die Schweiz",
+      "url": "https://www.watson.ch/sport/fussball/193243685-doppelbuerger-debatte-nati-trainer-yakin-bindet-jungstars-an-die-schweiz",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Grünen-Politikerin Dröge teilt hart gegen Kanzler Merz und AfD aus",
+      "url": "https://www.watson.ch/international/gruene/509712317-gruenen-politikerin-droege-teilt-hart-gegen-kanzler-merz-und-afd-aus",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Regierungsrat nimmt automatisiertes Fahren in Zürcher Richtplan auf",
+      "url": "https://www.watson.ch/schweiz/auto/862561941-regierungsrat-nimmt-automatisiertes-fahren-in-zuercher-richtplan-auf",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach dem Unglück im Engadin: Wie sicher sind Carreisen?",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/carreisen-wie-sicher-sind-reisecars-nach-dem-unglueck-im-engadin-art-1721289",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kanadischer US-Erdgasspezialist mit Aufwärtspotential: +165,9 % in fünf Jahren",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/canadian-natural-resources-boersenblog-stellt-aktie-vor-art-1721286",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kulturzentrum Gersag: Weniger Kapazität wegen aktueller Fluchtwegsituation?",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/emmer-einwohnerrat-vorstoesse-zum-kulturzentrum-gersag-art-1721272",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "F 35 Skandal War Bestechung im Spiel",
+      "url": "https://insideparadeplatz.ch/2026/09/11/f-35-skandal-war-bestechung-im-spiel/",
+      "summary": "",
+      "published": "2026-09-11T13:02:49.378966+00:00"
     }
   ]
 }
