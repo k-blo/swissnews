@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T18:33:18.143487+00:00",
+  "generated": "2026-09-12T19:02:59.243901+00:00",
   "date": "2026-09-12",
-  "count": 551,
+  "count": 555,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3859,6 +3859,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/der-muni-des-luzerner-kantonalen-schwingfests-2027-wird-getauft-art-1721442",
       "summary": "",
       "published": "2026-09-12T18:33:18.143487+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Filmfestspiele in Venedig: John Malkovich als bester Schauspieler geehrt",
+      "url": "https://www.tagesanzeiger.ch/john-malkovich-gewinnt-schauspielpreis-in-venedig-720704269213",
+      "summary": "In «Wild Horse Nine» spielt er einen alternden CIA-Agenten. Dafür wurde er nun bei den Filmfestspielen ausgezeichnet – und Oscar-Gerüchte gibt es auch schon.",
+      "published": "2026-09-12T19:02:59.243901+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mit Drama zum Schluss Alligators Captain Sorgt im Bündner Derby Spät für den Unterschied",
+      "url": "https://www.suedostschweiz.ch/regionalsport/mit-drama-zum-schluss-alligators-captain-sorgt-im-buendner-derby-spaet-fuer-den-unterschied-2152875",
+      "summary": "",
+      "published": "2026-09-12T19:02:59.243901+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Mehr als ein letzter Weg",
+      "url": "https://www.freiburger-nachrichten.ch/story/278356/mehr-als-ein-letzter-weg",
+      "summary": "",
+      "published": "2026-09-12T19:02:59.243901+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sion distanziert St. Gallen und der Meister schwächelt weiter",
+      "url": "https://www.bote.ch/nachrichten/sport/super-league-sion-distanziert-st-gallen-und-thun-schwaechelt-weiter-art-1721444",
+      "summary": "",
+      "published": "2026-09-12T19:02:59.243901+00:00"
     }
   ]
 }
