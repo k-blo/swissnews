@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T05:22:04.104877+00:00",
+  "generated": "2026-09-12T05:33:29.971859+00:00",
   "date": "2026-09-12",
-  "count": 225,
+  "count": 230,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1577,6 +1577,41 @@
       "url": "https://www.watson.ch/sport/eishockey/217634130-champions-league-erste-niederlage-von-fribourg-gotteron",
       "summary": "",
       "published": "2026-09-12T05:22:04.104877+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Umfrage in Lausanne – Studierende verzichten auf Essen und Hygiene",
+      "url": "https://www.srf.ch/news/dialog/umfrage-in-lausanne-studierende-verzichten-auf-essen-und-hygiene",
+      "summary": "Essen, Miete, Krankenkasse: Steigende Lebenshaltungskosten setzen Studierenden zu. Viele sparen bei Grundbedürfnissen.",
+      "published": "2026-09-12T05:33:29.971859+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Istanbuls abgesetzter Bürgermeister: Erdogan-Rivale Imamoglu zu 25 Monaten Haft verurteilt",
+      "url": "https://www.tagesanzeiger.ch/imamoglu-erdogans-rivale-zu-25-monaten-haft-verurteilt-314642565707",
+      "summary": "Istanbuls abgesetzter Bürgermeister nennt das Urteil einen Skandal – die Opposition spricht von einem politisch motivierten Verfahren.",
+      "published": "2026-09-12T05:33:29.971859+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Srf Bi De Lüt Hüttenpaar in Graubünden Bleiben Nur 24 Stunden für den Neustart",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/srf-bi-de-luet-huettenpaar-in-graubuenden-bleiben-nur-24-stunden-fuer-den-neustart-2158048",
+      "summary": "",
+      "published": "2026-09-12T05:33:29.971859+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "5000 Dollar für jeden Bürger? Gegen diesen Gegner ist selbst Trump chancenlos",
+      "url": "https://www.freiburger-nachrichten.ch/story/289543/5000-dollar-f%C3%BCr-jeden-b%C3%BCrger-gegen-diesen-gegner-ist-selbst-trump-chancenlos",
+      "summary": "",
+      "published": "2026-09-12T05:33:29.971859+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schluss mit Teenager-Bashing! Wir Erwachsenen haben es verbockt",
+      "url": "https://www.freiburger-nachrichten.ch/story/289541/schluss-mit-teenagerbashing-wir-erwachsenen-haben-es-verbockt",
+      "summary": "",
+      "published": "2026-09-12T05:33:29.971859+00:00"
     }
   ]
 }
