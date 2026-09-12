@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T00:52:26.412281+00:00",
+  "generated": "2026-09-12T01:02:56.949159+00:00",
   "date": "2026-09-12",
-  "count": 30,
+  "count": 31,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,13 @@
       "url": "https://www.zentralplus.ch/news/saudi-arabien-stellt-oelpipeline-ab-2897968/",
       "summary": "Saudi-Arabien hat eine wichtige Ölpipeline zwischen dem Persischen Golf und dem Roten Meer vorübergehend abgestellt. Grund seien Drohnenangriffe auf die Pipeline, sagt ein Sprecher der saudischen Regi",
       "published": "2026-09-12T00:41:57.952594+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4232275",
+      "summary": "",
+      "published": "2026-09-12T01:02:56.949159+00:00"
     }
   ]
 }
