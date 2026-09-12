@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T20:33:28.149317+00:00",
+  "generated": "2026-09-12T21:03:19.509229+00:00",
   "date": "2026-09-12",
-  "count": 580,
+  "count": 585,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4062,6 +4062,41 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/eine-rondinone-installation-ziert-neu-den-auslandschweizerplatz-art-1721446",
       "summary": "",
       "published": "2026-09-12T20:33:28.149317+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Skandal bei F-35-Beschaffung: Vor Weihnachten kam dicke Post aus den USA – nach Neujahr traten Amherd und Savic zurück",
+      "url": "https://www.tagesanzeiger.ch/f-35-skandal-savic-verschwieg-den-usa-einspruch-zum-fixpreis-280873334189",
+      "summary": "Ein bisher unbekanntes Dokument gibt dem F-35-Debakel zusätzliche Brisanz. Und ein Bericht der Oberaufsicht liefert Hinweise, wie aus einem eigenmächtigen Manöver ein riesiger Bluff wurde.",
+      "published": "2026-09-12T21:03:19.509229+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sursee Zwölfter Poller Unfall am Oberen Graben Diesmal mit Postauto",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/sursee-zwoelfter-poller-unfall-am-oberen-graben-diesmal-mit-postauto-ld.4233288",
+      "summary": "",
+      "published": "2026-09-12T21:03:19.509229+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Hsc Gewinnt Gegen Wacker Thun und Holt Zweiten Saisonsieg",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/hsc-gewinnt-gegen-wacker-thun-und-holt-zweiten-saisonsieg-ld.4229110",
+      "summary": "",
+      "published": "2026-09-12T21:03:19.509229+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI-Entwickelung: Jetzt schlägt auch der Anthropic-Chef Alarm",
+      "url": "https://www.watson.ch/wirtschaft/international/966855011-ki-entwickelung-jetzt-schlaegt-auch-der-anthropic-chef-alarm",
+      "summary": "",
+      "published": "2026-09-12T21:03:19.509229+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bereits der zwölfte Poller-Unfall: Diesmal musste ein Postauto daran glauben",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/sursee-zwoelfter-poller-unfall-am-oberen-graben-diesmal-mit-postauto-art-1721447",
+      "summary": "",
+      "published": "2026-09-12T21:03:19.509229+00:00"
     }
   ]
 }
