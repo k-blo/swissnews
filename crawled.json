@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T22:33:11.465809+00:00",
+  "generated": "2026-09-12T23:02:50.594830+00:00",
   "date": "2026-09-13",
-  "count": 4,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -30,6 +30,13 @@
       "url": "https://www.zentralplus.ch/news/ki-openai-verschiebt-boersengang-2898078/",
       "summary": "Wegen der aktuellen Sicherheitsbedenken rund um KI verschiebt der ChatGPT-Entwickler OpenAI seinen geplanten Börsengang. Der Börsengang des US-Techkonzerns werde wohl nicht mehr dieses Jahr stattfinde",
       "published": "2026-09-12T22:33:11.465809+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Brisante USA-Warnung – was wusste Amherd vor ihrem Rücktritt?",
+      "url": "https://www.20min.ch/story/f35-debakel-brisante-usa-warnung-was-wusste-amherd-vor-ihrem-ruecktritt-103632193",
+      "summary": "Ist der F-35-Deal noch schlechter als befürchtet? Neue Enthüllungen bringen Amherd und Savic in Erklärungsnot.",
+      "published": "2026-09-12T23:02:50.594830+00:00"
     }
   ]
 }
