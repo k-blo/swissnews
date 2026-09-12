@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T23:02:50.594830+00:00",
+  "generated": "2026-09-12T23:12:14.914204+00:00",
   "date": "2026-09-13",
-  "count": 5,
+  "count": 6,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,13 @@
       "url": "https://www.20min.ch/story/f35-debakel-brisante-usa-warnung-was-wusste-amherd-vor-ihrem-ruecktritt-103632193",
       "summary": "Ist der F-35-Deal noch schlechter als befürchtet? Neue Enthüllungen bringen Amherd und Savic in Erklärungsnot.",
       "published": "2026-09-12T23:02:50.594830+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sabalenkas Krone geklaut: Rybakina gewinnt erstmals die US Open",
+      "url": "https://www.bote.ch/nachrichten/sport/rybakina-enttrohnt-sabalenka-und-gewinnt-erstmals-die-us-open-art-1721448",
+      "summary": "",
+      "published": "2026-09-12T23:12:14.914204+00:00"
     }
   ]
 }
