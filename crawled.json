@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T01:32:37.974355+00:00",
+  "generated": "2026-09-12T02:02:59.132765+00:00",
   "date": "2026-09-12",
-  "count": 31,
+  "count": 33,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -219,6 +219,20 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4232275",
       "summary": "",
       "published": "2026-09-12T01:02:56.949159+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "25 Monate Haft für Imamoglu",
+      "url": "https://www.zentralplus.ch/news/25-monate-haft-fuer-imamoglu-2897970/",
+      "summary": "Istanbuls abgesetzter Stadtpräsident Ekrem Imamoglu ist wegen Beleidigung eines Staatsangestellten zu 25 Monaten Haft verurteilt worden, wie türkische Medien am Freitagabend berichteten. Zusätzlich be",
+      "published": "2026-09-12T02:02:59.132765+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Ersatzwahl in Sirnach Bosshart Setzt auf Finanzkompetenz",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/ersatzwahl-in-sirnach-bosshart-setzt-auf-finanzkompetenz-ld.4232564",
+      "summary": "",
+      "published": "2026-09-12T02:02:59.132765+00:00"
     }
   ]
 }
