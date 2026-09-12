@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T22:02:59.381720+00:00",
+  "generated": "2026-09-12T22:33:11.465809+00:00",
   "date": "2026-09-13",
-  "count": 2,
+  "count": 4,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/288466/uhc-kerzersm%C3%BCntschemier-bereit-f%C3%BCr-die-neue-saison",
       "summary": "",
       "published": "2026-09-12T22:02:59.381720+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Die angebliche Tessiner Spur der «Sarajevo-Safaris» – Bundesanwaltschaft prüft Anzeigen: Machten reiche Schweizer im Bosnienkrieg Jagd auf Zivilisten?",
+      "url": "https://www.blick.ch/schweiz/die-angebliche-tessiner-spur-der-sarajevo-safaris-bundesanwaltschaft-prueft-anzeigen-machten-reiche-schweizer-im-bosnienkrieg-jagd-auf-zivilisten-id22251127.html",
+      "summary": "Die Bundesanwaltschaft prüft Hinweise auf mutmassliche Scharfschützentouristen aus Lugano, die im Bosnienkrieg aus Spass Menschen getötet haben sollen. Belege fehlen, Fachleute sind skeptisch.",
+      "published": "2026-09-12T22:33:11.465809+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "KI: OpenAI verschiebt Börsengang",
+      "url": "https://www.zentralplus.ch/news/ki-openai-verschiebt-boersengang-2898078/",
+      "summary": "Wegen der aktuellen Sicherheitsbedenken rund um KI verschiebt der ChatGPT-Entwickler OpenAI seinen geplanten Börsengang. Der Börsengang des US-Techkonzerns werde wohl nicht mehr dieses Jahr stattfinde",
+      "published": "2026-09-12T22:33:11.465809+00:00"
     }
   ]
 }
