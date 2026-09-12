@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T04:32:38.997640+00:00",
+  "generated": "2026-09-12T04:39:23.789440+00:00",
   "date": "2026-09-12",
-  "count": 202,
+  "count": 203,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1416,6 +1416,13 @@
       "url": "https://www.watson.ch/digital/spass/234410617-einfach-die-besten-karikaturen-der-woche",
       "summary": "",
       "published": "2026-09-12T04:32:38.997640+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Saudische Ölexporte nach Pipeline-Abschaltung massiv unter Druck",
+      "url": "https://www.watson.ch/wirtschaft/international/584134470-saudische-oelexporte-nach-pipeline-abschaltung-massiv-unter-druck",
+      "summary": "",
+      "published": "2026-09-12T04:39:23.789440+00:00"
     }
   ]
 }
