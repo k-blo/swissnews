@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T11:00:27.497835+00:00",
+  "generated": "2026-09-13T11:03:49.634010+00:00",
   "date": "2026-09-13",
-  "count": 260,
+  "count": 262,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1822,6 +1822,20 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/mindestens-sechs-tote-nach-faehrunglueck-in-indonesien-art-1721462",
       "summary": "",
       "published": "2026-09-13T11:00:27.497835+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zugunglück in Frankreich: Rätsel um fremdes Schienenstück auf dem Gleis",
+      "url": "https://www.tagesanzeiger.ch/zugunglueck-frankreich-raetsel-um-fremdes-schienenstueck-911790761773",
+      "summary": "In der Normandie entgleist ein Regionalzug mit 186 Passagieren, 44 Menschen werden verletzt. Die Ursache ist unklar – ein fünf Meter langes Schienenstück wurde auf dem Gleis gefunden.",
+      "published": "2026-09-13T11:03:49.634010+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neues Buch vorgestellt: Der vergessene Klotener «Bankencrash» und ein Internierungslager kehren ins Gedächtnis zurück",
+      "url": "https://www.tagesanzeiger.ch/kloten-neue-chronik-erzaehlt-auch-vergessene-geschichte-n-541636104021",
+      "summary": "Vor 15 Jahren warb der Stadtrat noch vergeblich für eine neue Klotener Chronik. Einst als Luxus abgetan, freuen sich nun viele über das spannende Werk. Diese Woche wurde es vorgestellt.",
+      "published": "2026-09-13T11:03:49.634010+00:00"
     }
   ]
 }
