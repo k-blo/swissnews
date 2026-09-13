@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T05:02:44.581283+00:00",
+  "generated": "2026-09-13T05:32:23.013339+00:00",
   "date": "2026-09-13",
-  "count": 95,
+  "count": 98,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -667,6 +667,27 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/sonntagspresse-sarajevo-vorwuerfe-tiefe-milch-loehne-und-lob-fuer-trump-art-1721450",
       "summary": "",
       "published": "2026-09-13T05:02:44.581283+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Küchenchef Gstaad Palace – «Ich bin ‹gottefroh›» – Kult-Koch Franz Faeh geht in Pension",
+      "url": "https://www.srf.ch/news/schweiz/kuechenchef-gstaad-palace-ich-bin-gottefroh-kult-koch-franz-faeh-geht-in-pension",
+      "summary": "Nach rund 50 Jahren in den besten Hotelküchen der Welt beginnt für den Berner Oberländer nun ein neuer Lebensabschnitt.",
+      "published": "2026-09-13T05:32:23.013339+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rettungseinsatz  in der Javasee: Fähre mit 243 Menschen an Bord in Seenot – mindestens ein Todesopfer",
+      "url": "https://www.tagesanzeiger.ch/faehre-in-indonesien-243-menschen-in-seenot-auf-javasee-771326364050",
+      "summary": "Die Virgo Transport 8 verliert in Indonesien den Funkkontakt. Rettungskräfte und nahe Schiffe bergen über hundert Passagiere.",
+      "published": "2026-09-13T05:32:23.013339+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Spezielle Mitmenschen, Teil 1: Im Strassenverkehr wie im Kühlschrank: Überall lauern sie, die Frechheiten unserer Mitmenschen.",
+      "url": "https://www.bernerzeitung.ch/diese-50-marotten-unserer-mitmenschen-nerven-im-alltag-981744255836",
+      "summary": "Oft sind es gerade die kleinen Marotten der Mitmenschen, die einen auf die Palme bringen. Unsere 50 «Favoriten».",
+      "published": "2026-09-13T05:32:23.013339+00:00"
     }
   ]
 }
