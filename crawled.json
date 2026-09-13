@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T23:02:16.830454+00:00",
+  "generated": "2026-09-13T23:31:57.208674+00:00",
   "date": "2026-09-14",
-  "count": 27,
+  "count": 30,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -191,6 +191,27 @@
       "url": "https://www.watson.ch/sport/tennis/176586428-tennis-atp-erster-challenger-turniersieg-von-mika-brunold",
       "summary": "",
       "published": "2026-09-13T23:02:16.830454+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Treffen der Golfstaaten verschoben",
+      "url": "https://www.zentralplus.ch/news/treffen-der-golfstaaten-verschoben-2898197/",
+      "summary": "Das für diesen Montag geplante Treffen der Aussenminister der Golfstaaten im Oman ist verschoben worden. «Im Interesse des Konsenses» sei das für Salalah geplante regionale Treffen verschoben worden, ",
+      "published": "2026-09-13T23:31:57.208674+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Asterix bei den Briten für 1,2 Millionen versteigert",
+      "url": "https://www.watson.ch/wirtschaft/international/966058532-asterix-bei-den-briten-fuer-1-2-millionen-versteigert",
+      "summary": "",
+      "published": "2026-09-13T23:31:57.208674+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ski Alpin: Olympiasiegerin Sofia Goggia bricht Trainingslager ab",
+      "url": "https://www.watson.ch/sport/ski/413115645-ski-alpin-olympiasiegerin-sofia-goggia-bricht-trainingslager-ab",
+      "summary": "",
+      "published": "2026-09-13T23:31:57.208674+00:00"
     }
   ]
 }
