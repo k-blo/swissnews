@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T03:03:23.278549+00:00",
+  "generated": "2026-09-13T03:33:25.032442+00:00",
   "date": "2026-09-13",
-  "count": 58,
+  "count": 62,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -408,6 +408,34 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/vicafe-will-in-der-romandie-und-zentralschweiz-wachsen-art-1721449",
       "summary": "",
       "published": "2026-09-13T03:03:23.278549+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "KI im Arbeitsmarkt: Wie sicher ist dein Job wirklich?",
+      "url": "https://www.zentralplus.ch/arbeiten/ki-im-arbeitsmarkt-wie-sicher-ist-dein-job-wirklich-2896180/",
+      "summary": "KI macht Unternehmen effizienter – doch für Angestellte könnte genau das zum Problem werden. Ein ETH-Professor erklärt, welche Jobs besonders unter Druck geraten. Was das für Luzern und Zug bedeutet, ",
+      "published": "2026-09-13T03:33:25.032442+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Treffen Zürcher besser als andere? Schlagen Mädchen die Knaben? Und was ist mit Familie Tell? Unnützes Halbwissen zum Showdown am Knabenschiessen",
+      "url": "https://www.nzz.ch/zuerich/statistiken-zum-knabenschiessen-wer-hat-die-besten-nerven-ld.10023141",
+      "summary": "",
+      "published": "2026-09-13T03:33:25.032442+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Leben ist für sie ein Geschenk, Sterbehilfe etwas Verstörendes: zu Besuch in einem religiösen Heim, das staatlichen Zwang fürchtet",
+      "url": "https://www.nzz.ch/zuerich/sterbehilfe-im-altersheim-grosse-sorge-in-christlichen-heimen-in-zuerich-ld.10022089",
+      "summary": "",
+      "published": "2026-09-13T03:33:25.032442+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Milch müsste 77 Prozent teurer werden: die Sonntagsnews",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/719501331-milch-muesste-77-prozent-teurer-werden-die-sonntagsnews",
+      "summary": "",
+      "published": "2026-09-13T03:33:25.032442+00:00"
     }
   ]
 }
