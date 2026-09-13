@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T22:31:46.558821+00:00",
+  "generated": "2026-09-13T23:02:16.830454+00:00",
   "date": "2026-09-14",
-  "count": 24,
+  "count": 27,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,27 @@
       "url": "https://www.bote.ch/nachrichten/kultur/late-night-switzerland-amherd-und-jositsch-im-fokus-art-1721594",
       "summary": "",
       "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ölpreis steigt nach Angriffen",
+      "url": "https://www.zentralplus.ch/news/oelpreis-steigt-nach-angriffen-2898195/",
+      "summary": "Der Ölpreis ist nach erneuten Angriffen in Saudi-Arabien und im Persischen Golf um mehr als drei Dollar gestiegen. Ein Fass der Nordseesorte Brent verteuerte sich um 3,62 Dollar auf 108,23 Dollar. Gru",
+      "published": "2026-09-13T23:02:16.830454+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Omans Aussenminister Badr al Busaidi: Kein Treffen zu Strasse von Hormus",
+      "url": "https://www.watson.ch/international/iran/959245478-omans-aussenminister-badr-al-busaidi-kein-treffen-zu-strasse-von-hormus",
+      "summary": "",
+      "published": "2026-09-13T23:02:16.830454+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tennis ATP: Erster Challenger-Turniersieg von Mika Brunold",
+      "url": "https://www.watson.ch/sport/tennis/176586428-tennis-atp-erster-challenger-turniersieg-von-mika-brunold",
+      "summary": "",
+      "published": "2026-09-13T23:02:16.830454+00:00"
     }
   ]
 }
