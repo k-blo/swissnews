@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T01:02:26.658221+00:00",
+  "generated": "2026-09-13T01:32:49.405333+00:00",
   "date": "2026-09-13",
-  "count": 13,
+  "count": 15,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -93,6 +93,20 @@
       "url": "https://www.watson.ch/sport/tennis/826767103-jelena-rybakina-gewinnt-us-open-2026-gegen-aryna-sabalenka",
       "summary": "",
       "published": "2026-09-13T01:02:26.658221+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Saudi-Arabien: Zwei Verletzte nach Huthi-Beschuss",
+      "url": "https://www.watson.ch/international/armee/359102420-saudi-arabien-zwei-verletzte-nach-huthi-beschuss",
+      "summary": "",
+      "published": "2026-09-13T01:32:49.405333+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zugunglück TGV Caen Rouen Frankreich: kein Anschlag",
+      "url": "https://www.watson.ch/international/oev/551807432-zugunglueck-tgv-caen-rouen-frankreich-kein-anschlag",
+      "summary": "",
+      "published": "2026-09-13T01:32:49.405333+00:00"
     }
   ]
 }
