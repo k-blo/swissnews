@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T00:32:38.310151+00:00",
+  "generated": "2026-09-13T01:02:26.658221+00:00",
   "date": "2026-09-13",
-  "count": 10,
+  "count": 13,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -72,6 +72,27 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/beat-jans-und-die-asylpolitik-karin-keller-sutter-und-die-ubs",
       "summary": "",
       "published": "2026-09-13T00:32:38.310151+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Menschen fliehen aus dem Jemen",
+      "url": "https://www.zentralplus.ch/news/menschen-fliehen-aus-dem-jemen-2898080/",
+      "summary": "Rund 1400 Menschen sind innerhalb von 24 Stunden vom Jemen aus ins ostafrikanische Land Dschibuti geflohen, wie der dortige Wirtschaftsminister, Ilyas Moussa Dawaleh, auf der Plattform X schrieb. Seit",
+      "published": "2026-09-13T01:02:26.658221+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI Boom: OpenAI-Chef Sam Altman will nicht mehr dieses Jahr an die Börse",
+      "url": "https://www.watson.ch/wissen/digital/952075236-ki-boom-openai-chef-sam-altman-will-nicht-mehr-dieses-jahr-an-die-boerse",
+      "summary": "",
+      "published": "2026-09-13T01:02:26.658221+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jelena Rybakina gewinnt US Open 2026 gegen Aryna Sabalenka",
+      "url": "https://www.watson.ch/sport/tennis/826767103-jelena-rybakina-gewinnt-us-open-2026-gegen-aryna-sabalenka",
+      "summary": "",
+      "published": "2026-09-13T01:02:26.658221+00:00"
     }
   ]
 }
