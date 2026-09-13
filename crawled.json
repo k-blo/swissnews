@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T01:32:49.405333+00:00",
+  "generated": "2026-09-13T01:54:09.132212+00:00",
   "date": "2026-09-13",
-  "count": 15,
+  "count": 17,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -107,6 +107,20 @@
       "url": "https://www.watson.ch/international/oev/551807432-zugunglueck-tgv-caen-rouen-frankreich-kein-anschlag",
       "summary": "",
       "published": "2026-09-13T01:32:49.405333+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brics-Staaten fordern maximale Zurückhaltung im Nahost-Konflikt",
+      "url": "https://www.watson.ch/international/iran/121856317-brics-staaten-fordern-maximale-zurueckhaltung-im-nahost-konflikt",
+      "summary": "",
+      "published": "2026-09-13T01:54:09.132212+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Céline Dion feiert Comeback in Paris",
+      "url": "https://www.watson.ch/international/eurovision-song-contest/813922633-celine-dion-feiert-comeback-in-paris",
+      "summary": "",
+      "published": "2026-09-13T01:54:09.132212+00:00"
     }
   ]
 }
