@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T04:02:20.925441+00:00",
+  "generated": "2026-09-13T04:32:40.790013+00:00",
   "date": "2026-09-13",
-  "count": 80,
+  "count": 86,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -562,6 +562,48 @@
       "url": "https://www.freiburger-nachrichten.ch/story/288781/helikopter-erfasst-radioaktivit%C3%A4t-im-sense-und-seebezirk",
       "summary": "",
       "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kunst am Zürichsee: 16 Kunstschaffende verwandeln den Rösslipark in eine Open-Air-Galerie",
+      "url": "https://www.tagesanzeiger.ch/line-of-art-skulpturen-im-roesslipark-erlenbach-443455255351",
+      "summary": "Im Rösslipark Erlenbach stehen Kunstwerke, die klingen, flattern und zum Berühren einladen. Doch Vandalismus trübt die fünfte Ausgabe der Freiluft-Ausstellung «Line of Art».",
+      "published": "2026-09-13T04:32:40.790013+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wortsuche Lösungshilfe: Wortsuche vom Sonntag, 13. September 2026: Drei Hinweise und die Lösung",
+      "url": "https://www.tagesanzeiger.ch/wortsuche-13-september-loesung-lautet-unrat-563321653865",
+      "summary": "Wer sonntags durch die Stadt spaziert, sieht es besonders deutlich: Pizzaschachteln auf dem Trottoir, Flaschen im Gebüsch, Zigarettenstummel auf Treppenstufen. Was Menschen zurücklassen, wenn sie glau",
+      "published": "2026-09-13T04:32:40.790013+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Filmemacherin Bringt den Schwingerkönig Ins Kino",
+      "url": "https://www.suedostschweiz.ch/regionalsport/filmemacherin-bringt-den-schwingerkoenig-ins-kino-2157688",
+      "summary": "",
+      "published": "2026-09-13T04:32:40.790013+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Tut die St Galler Politik Genug um Unreifen Kindern zu Helfen",
+      "url": "https://www.suedostschweiz.ch/linth/tut-die-st-galler-politik-genug-um-unreifen-kindern-zu-helfen-2148013",
+      "summary": "",
+      "published": "2026-09-13T04:32:40.790013+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Indonesische Fähre mit rund 240 Menschen an Bord in Seenot",
+      "url": "https://www.watson.ch/international/schifffahrt/618073112-indonesische-faehre-mit-rund-240-menschen-an-bord-in-seenot",
+      "summary": "",
+      "published": "2026-09-13T04:32:40.790013+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vicafe plant 11 neue Standorte",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/499502014-vicafe-plant-11-neue-standorte",
+      "summary": "",
+      "published": "2026-09-13T04:32:40.790013+00:00"
     }
   ]
 }
