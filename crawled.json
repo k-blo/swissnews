@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T22:02:06.876459+00:00",
+  "generated": "2026-09-13T22:31:46.558821+00:00",
   "date": "2026-09-14",
-  "count": 2,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,160 @@
       "url": "https://www.freiburger-nachrichten.ch/story/288730/kanton-arbeitet-an-biberplanung-f%C3%BCr-2027",
       "summary": "",
       "published": "2026-09-13T22:02:06.876459+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Miriam Parisi (27) wog 111 Kilo – dann veränderte ein Eingriff ihr Leben: «Meine Eltern haben mich nie gelehrt, gesund zu essen!»",
+      "url": "https://www.blick.ch/schweiz/zuerich/miriam-parisi-27-wog-111-kilo-dann-veraenderte-ein-eingriff-ihr-leben-meine-eltern-haben-mich-nie-gelehrt-gesund-zu-essen-id22255114.html",
+      "summary": "Als Kind isst sie in Italien Unmengen. Vor ihrem Magenbypass im Jahr 2024 wiegt Miriam Parisi 111 Kilo. Jetzt ist die Zürcherin 50 kg leichter. Ein Portrait über bittere Tränen, Diskriminierung, übers",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Alexander Zverev krönt sich zum US-Open-Sieger",
+      "url": "https://www.nzz.ch/sport/alexander-zverev-kroent-sich-zum-us-open-sieger-ld.10023631",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Alexander Zverev triumphiert erstmals am US Open",
+      "url": "https://www.watson.ch/sport/tennis/800814348-alexander-zverev-triumphiert-erstmals-am-us-open",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zverev gewinnt US Open und holt zweiten Grand-Slam-Titel",
+      "url": "https://www.bote.ch/nachrichten/sport/us-open-2026-alexander-zverev-schlaegt-ben-shelton-im-final-art-1721595",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ybriger Brauchtumskost begeisterte das Publikum",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ybriger-brauchtumskost-begeisterte-das-publikum-art-1721514",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Volksfeststimmung an der Ibächler Chilbi",
+      "url": "https://www.bote.ch/nachrichten/schwyz/volksfeststimmung-an-der-ibaechler-chilbi-art-1721509",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Viel Volksmusik im Acherhof",
+      "url": "https://www.bote.ch/nachrichten/schwyz/viel-volksmusik-im-acherhof-art-1721513",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Viel Gelächter mit Clownin Gigeli",
+      "url": "https://www.bote.ch/nachrichten/schwyz/viel-gelaechter-mit-clownin-gigeli-art-1721510",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trotz Unterzahl holt Brunnen in Baar den Sieg",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/trotz-unterzahl-holt-brunnen-in-baar-den-sieg-art-1721487",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Starker Auftritt im Spitzenkampf",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/starker-auftritt-im-spitzenkampf-art-1721499",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Solange, bis es dem Guru zu viel wird",
+      "url": "https://www.bote.ch/nachrichten/schwyz/solange-bis-es-dem-guru-zu-viel-wird-art-1721483",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Shooters-Handballer zeigen die angestrebte Reaktion",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/shooters-handballer-zeigen-die-angestrebte-reaktion-art-1721498",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Shooters startet erfolgreich in die neue Saison",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/shooters-startet-erfolgreich-in-die-neue-saison-art-1721490",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzerinnen erkämpfen sich gegen Baar einen Punkt",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyzerinnen-erkaempfen-sich-gegen-baar-einen-punkt-art-1721497",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "KTV-Niederlage mit Kampfgeist",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ktv-niederlage-mit-kampfgeist-art-1721489",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ibach zwingt Cham II in die Knie",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ibach-zwingt-cham-ii-in-die-knie-art-1721493",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Grosses Fest im kleinen Dorf",
+      "url": "https://www.bote.ch/nachrichten/schwyz/grosses-fest-im-kleinen-dorf-art-1721516",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Goldau siegt in letzter Sekunde",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/goldau-siegt-in-letzter-sekunde-art-1721495",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein waghalsiger Pionier",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ein-waghalsiger-pionier-art-1721492",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bittere Heimniederlage für den FCK",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/bittere-heimniederlage-fuer-den-fck-art-1721505",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Als Friedensvermittlerin nützt eine konsequent neutrale Schweiz Europa mehr",
+      "url": "https://www.bote.ch/nachrichten/schwyz/als-friedensvermittlerin-nuetzt-eine-konsequent-neutrale-schweiz-europa-mehr-art-1721465",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Büssi liefert – doch jemand anderes räumt ab",
+      "url": "https://www.bote.ch/nachrichten/kultur/late-night-switzerland-amherd-und-jositsch-im-fokus-art-1721594",
+      "summary": "",
+      "published": "2026-09-13T22:31:46.558821+00:00"
     }
   ]
 }
