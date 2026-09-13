@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T00:03:33.817462+00:00",
+  "generated": "2026-09-13T00:32:38.310151+00:00",
   "date": "2026-09-13",
-  "count": 7,
+  "count": 10,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -51,6 +51,27 @@
       "url": "https://www.nzz.ch/sport/tennis/sie-ist-die-neue-nummer-eins-jelena-rybakina-triumphiert-bei-us-open-ld.10023572",
       "summary": "",
       "published": "2026-09-12T23:55:56.782343+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neue US-Open-Siegerin: Sabalenka glänzt mit 400’000-Dollar-Schmuck – Rybakina mit ihrem Tennis",
+      "url": "https://www.tagesanzeiger.ch/us-open-jelena-rybakina-entthront-aryna-sabalenka-im-final-679291404414",
+      "summary": "Die scheue Kasachin Jelena Rybakina entthront im New Yorker Final die schillernde Aryna Sabalenka. Hinter dem Triumph steckt auch eine kontroverse Geschichte mit ihrem dominanten Coach.",
+      "published": "2026-09-13T00:32:38.310151+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Pisa Studie 2025 die Nivellierung nach Unten Funktioniert",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/pisa-studie-2025-die-nivellierung-nach-unten-funktioniert",
+      "summary": "",
+      "published": "2026-09-13T00:32:38.310151+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Beat Jans und die Asylpolitik Karin Keller Sutter und die Ubs",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/beat-jans-und-die-asylpolitik-karin-keller-sutter-und-die-ubs",
+      "summary": "",
+      "published": "2026-09-13T00:32:38.310151+00:00"
     }
   ]
 }
