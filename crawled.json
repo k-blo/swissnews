@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T10:02:45.979020+00:00",
+  "generated": "2026-09-13T10:05:52.288895+00:00",
   "date": "2026-09-13",
-  "count": 222,
+  "count": 224,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1556,6 +1556,20 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/waldbrand-auf-bra-weiter-nicht-unter-kontrolle-art-1721457",
       "summary": "",
       "published": "2026-09-13T10:02:45.979020+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schimmel in ungeöffneter Reibkäse-Packung: Wie ist das möglich?",
+      "url": "https://www.20min.ch/story/von-betty-bossi-schimmel-in-ungeoeffneter-reibkaese-packung-wie-ist-das-moeglich-103626322",
+      "summary": "Eine Coop-Kundin entdeckt Schimmel in einer Packung Reibkäse, obwohl sie das Produkt erst beim Verzehr öffnet. Zwei Experten erklären, wie das passieren kann – und worauf du als Konsument achten sollt",
+      "published": "2026-09-13T10:05:52.288895+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "27-Jähriger kracht in Vättis SG frontal in Felsen und stirbt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/625881141-27-jaehriger-kracht-in-vaettis-sg-frontal-in-felsen-und-stirbt",
+      "summary": "",
+      "published": "2026-09-13T10:05:52.288895+00:00"
     }
   ]
 }
