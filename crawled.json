@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T18:01:53.736661+00:00",
+  "generated": "2026-09-13T18:32:14.333787+00:00",
   "date": "2026-09-13",
-  "count": 526,
+  "count": 538,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3684,6 +3684,90 @@
       "url": "https://www.bote.ch/nachrichten/sport/fcl-gegen-basel-viele-schlechte-noten-stuermer-als-lichtblick-art-1721496",
       "summary": "",
       "published": "2026-09-13T18:01:53.736661+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schlussetappe: Erster spanischer Sieger seit 12 Jahren: Mas gewinnt die Vuelta",
+      "url": "https://www.tagesanzeiger.ch/vuelta-enric-mas-mit-erstem-spanier-sieg-seit-2014-649975916519",
+      "summary": "Er war bereits dreimal Zweiter und einmal Dritter: Nun ist Enric Mas doch noch der Sieg bei der heimischen Rundfahrt geglückt.",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Einsatz in Winterthur-Seen: Mehrfamilienhaus ist nach Brand nicht bewohnbar",
+      "url": "https://www.tagesanzeiger.ch/brand-in-winterthur-seen-mehrfamilienhaus-evakuiert-463022522402",
+      "summary": "Im Keller eines Gebäudes hat es am Sonntag gebrannt. Eine Person wurde ins Spital gebracht.",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Final US Open im Ticker: Nervöser Start von Shelton – er kassiert gleich ein Break",
+      "url": "https://www.bernerzeitung.ch/final-us-open-im-ticker-alexander-zverev-gegen-ben-shelton-145301172932",
+      "summary": "Ben Shelton möchte gegen Alexander Zverev der erste Grand-Slam-Champion aus den USA seit 23 Jahren werden. Der Deutsche greift nach seinem zweiten Major-Titel. Der US-Open-Final hier live im Ticker.",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Oasis vor neuer Tourankündigung",
+      "url": "https://www.zentralplus.ch/news/oasis-vor-neuer-tourankuendigung-2898184/",
+      "summary": "Eine Lichtshow mit Drohnen und ein Datum, das Hoffnungen der Fans weckt: Anhänger der Britpopband Oasis dürfen sich in den kommenden Tagen auf Neuigkeiten der Gruppe rund um die Brüder Liam und Noel G",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Futterknappheit bei Pferden Heu Wird Knapp und Teuer",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/futterknappheit-bei-pferden-heu-wird-knapp-und-teuer-ld.4233515",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Viele Waren Befreit das Sagen die Fcb Spieler zum Lichtsteiner Ende",
+      "url": "https://www.bzbasel.ch/sport/fc-basel/viele-waren-befreit-das-sagen-die-fcb-spieler-zum-lichtsteiner-ende-ld.4233440",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Matzendorf Genusswanderung Verbindet Vereine und Besucher",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/matzendorf-genusswanderung-verbindet-vereine-und-besucher-ld.4232868",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Arktis-Gipfel mit Merz hat begonnen",
+      "url": "https://www.watson.ch/international/eu/400372456-arktis-gipfel-mit-merz-hat-begonnen",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Assoziierte Mitgliedschaft: EU will für Kanada neue Regel einführen",
+      "url": "https://www.watson.ch/international/eu/847146696-assoziierte-mitgliedschaft-eu-will-fuer-kanada-neue-regel-einfuehren",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Fixpreis-Debakel: Die falschen Richtigstellungen des VBS",
+      "url": "https://www.freiburger-nachrichten.ch/story/289701/fixpreisdebakel-die-falschen-richtigstellungen-des-vbs",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Obwaldner Ski-Nachwuchs trainiert auf Ski-Teppich",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/obwaldner-ski-nachwuchs-trainiert-auf-ski-teppich-art-1721518",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Mas-Mission» endlich vollendet: Der Dauer-Zweite gewinnt die Vuelta",
+      "url": "https://www.bote.ch/nachrichten/sport/radsport-der-spanier-enric-mas-gewinnt-erstmals-die-vuelta-art-1721517",
+      "summary": "",
+      "published": "2026-09-13T18:32:14.333787+00:00"
     }
   ]
 }
