@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-13T03:33:25.032442+00:00",
+  "generated": "2026-09-13T04:02:20.925441+00:00",
   "date": "2026-09-13",
-  "count": 62,
+  "count": 80,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -436,6 +436,132 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/719501331-milch-muesste-77-prozent-teurer-werden-die-sonntagsnews",
       "summary": "",
       "published": "2026-09-13T03:33:25.032442+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vertrag läuft Ende Jahr ab: Aargauer Gemeinde verbannt Zürcher Nachbarn aus Badi",
+      "url": "https://www.tagesanzeiger.ch/fisibach-schliesst-weiachern-ab-2027-die-badi-262831195253",
+      "summary": "Die Aargauer Gemeinde Fisibach beendet die Mitbenutzung der «Fisibadi» für Einwohnerinnen und Einwohner aus Weiach. Auslöser ist ein Streit über Kosten und Besucherzahlen.",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Huthi erobern die Meerenge Bab al-Mandab nicht nur zur Schützenhilfe Irans. Sie wollen ihre eigene Kasse mit Milliarden füllen",
+      "url": "https://www.nzz.ch/international/die-huthi-erobern-die-meerenge-bab-al-mandab-nicht-nur-zur-schuetzenhilfe-irans-sie-wollen-ihre-eigene-kasse-mit-milliarden-fuellen-ld.10023548",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Er ist im Visier der Schweizer, Maduro liess ihn verhaften, doch dann verschwand er:  Welche Rolle spielt der Cousin von Venezuelas neuem Öl-Zaren?",
+      "url": "https://www.nzz.ch/schweiz/er-ist-im-visier-der-schweizer-maduro-liess-ihn-verhaften-doch-dann-verschwand-er-welche-rolle-spielt-der-cousin-von-trumps-neuem-oel-zaren-in-venezuela-ld.10023406",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Er wirkte blass und distanziert. Trotzdem hatte der neue Apple-Chef John Ternus einen guten ersten Auftritt",
+      "url": "https://www.nzz.ch/wirtschaft/er-wirkte-blass-und-distanziert-trotzdem-hatte-der-neue-apple-chef-john-ternus-einen-guten-einstand-bei-seinem-ersten-grossen-auftritt-ld.10023395",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Spekulanten werden die Entschlossenheit von US-Finanzminister Scott Bessent testen",
+      "url": "https://www.nzz.ch/wirtschaft/die-spekulanten-werden-die-entschlossenheit-von-us-finanzminister-scott-bessent-testen-ld.10023394",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Bitcoin feiert ein Comeback – oder handelt es sich bloss um ein Strohfeuer?",
+      "url": "https://www.nzz.ch/wirtschaft/bitcoin-feiert-ein-comeback-oder-handelt-es-sich-bloss-um-ein-strohfeuer-ld.10023393",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die ewige Suche nach Relevanz: Wie Prognosen am Handy und ein schwarzer Rasen die Leichtathletik verändern sollen",
+      "url": "https://www.nzz.ch/sport/leichtathletik/leichtathletik-die-ultimate-championship-will-ein-juengeres-publikum-anziehen-ld.10023381",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Donald Trump ist für einmal der ehrlichste Politiker der Welt",
+      "url": "https://www.nzz.ch/meinung/donald-trump-ist-fuer-einmal-der-ehrlichste-politiker-der-welt-ld.10023356",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Trump-Dividende», «Trump-Flughafen», «Arc de Trump». Die Obsession des Präsidenten, Amerika seinen Stempel für immer aufzudrücken",
+      "url": "https://www.nzz.ch/international/trump-dividende-trump-flughafen-arc-de-trump-die-obsession-des-praesidenten-amerika-seinen-stempel-fuer-immer-aufzudruecken-ld.10023330",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mladic wird in Serbien als Held stilisiert – was steht eigentlich in den Geschichtsbüchern vor Ort?",
+      "url": "https://www.nzz.ch/international/mladic-wird-in-serbien-als-held-stilisiert-was-steht-eigentlich-in-den-geschichtsbuechern-vor-ort-ld.10023329",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die AfD und Russland: Reden, wie es Putin gefällt",
+      "url": "https://www.nzz.ch/international/die-afd-und-russland-reden-wie-es-putin-gefaellt-ld.10023327",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Alles schlecht? Was die deutschen Regierungsparteien vom Wahlsieger AfD lernen können",
+      "url": "https://www.nzz.ch/international/alles-schlecht-was-die-deutschen-regierungsparteien-vom-wahlsieger-afd-lernen-koennen-ld.10023325",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Dem Ultimo wird es nicht anders ergehen als dem Harald: Er soll einmal ausgestopft an Samuel Gigers Wand hängen",
+      "url": "https://www.nzz.ch/sport/weitere-sportarten/dem-ultimo-wird-es-nicht-anders-ergehen-als-dem-harald-er-soll-einmal-ausgestopft-an-samuel-gigers-wand-haengen-ld.10023249",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Ein Drittel der Gutachten ist problematisch» – ein Strafrechtsprofessor kritisiert die Arbeit von Psychiatern bei der Beurteilung von Straftätern",
+      "url": "https://www.nzz.ch/schweiz/ein-drittel-der-gutachten-ist-problematisch-ein-strafrechtsprofessor-kritisiert-die-arbeit-von-psychiatern-bei-der-beurteilung-von-straftaetern-ld.10023232",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Auf der Ehrenrunde: Wie lange bleibt Guy Parmelin noch im Bundesrat?",
+      "url": "https://www.nzz.ch/schweiz/auf-der-ehrenrunde-wie-lange-bleibt-guy-parmelin-noch-im-bundesrat-ld.10023116",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Amherds Erbe bröckelt: Die Frauenquote für Sportverbände könnte bereits wieder kippen",
+      "url": "https://www.nzz.ch/schweiz/amherd-droht-bereits-die-naechste-schmach-die-frauenquote-fuer-sportverbaende-koennte-wieder-kippen-ld.10023073",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Darüber spricht Bischkek: Bei dieser Olympiade messen sich Russen und Amerikaner im Ziegenschmeissen",
+      "url": "https://www.nzz.ch/international/darueber-spricht-bischkek-bei-dieser-olympiade-messen-sich-russen-und-amerikaner-im-ziegenschmeissen-ld.10023064",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Helikopter erfasst Radioaktivität im Sense- und Seebezirk",
+      "url": "https://www.freiburger-nachrichten.ch/story/288781/helikopter-erfasst-radioaktivit%C3%A4t-im-sense-und-seebezirk",
+      "summary": "",
+      "published": "2026-09-13T04:02:20.925441+00:00"
     }
   ]
 }
