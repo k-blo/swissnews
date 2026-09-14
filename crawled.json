@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T18:32:05.526855+00:00",
+  "generated": "2026-09-14T19:02:08.713496+00:00",
   "date": "2026-09-14",
-  "count": 929,
+  "count": 944,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6505,6 +6505,111 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/stahltunnel-macht-den-weg-frei-art-1721683",
       "summary": "",
       "published": "2026-09-14T18:32:05.526855+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Angespannte Finanzen – Kanton Jura: Moutier-Wechsel kostet 140 Millionen Franken",
+      "url": "https://www.srf.ch/news/schweiz/angespannte-finanzen-kanton-jura-moutier-wechsel-kostet-140-millionen-franken",
+      "summary": "Kantone wie Zürich, Basel und Genf finanzieren dem Jura die Übernahme von Moutier. Es geht um 65 Millionen Franken.",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Neutralitätsinitiative – Keine EU-Sanktionen mehr – Freipass für Despoten und Terroristen?",
+      "url": "https://www.srf.ch/news/schweiz/neutralitaetsinitiative-keine-eu-sanktionen-mehr-freipass-fuer-despoten-und-terroristen",
+      "summary": "Die Neutralitätsinitiative will keine Sanktionen gegen kriegführende Staaten. Was ist mit Sanktionen gegen Personen?",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Bergläuferin verschwand am Matterhorn – Rettungschef Anjan Truffer (52) über den Liongrat: «Es gibt dort teils tiefe und fast unzugängliche Schluchten»",
+      "url": "https://www.blick.ch/ausland/berglaeuferin-verschwand-am-matterhorn-rettungschef-anjan-truffer-52-ueber-den-liongrat-es-gibt-dort-teils-tiefe-und-fast-unzugaengliche-schluchten-id22256456.html",
+      "summary": "Seit mehr als einer Woche wird eine Bergläuferin am Matterhorn vermisst. Am Liongrat verliert sich die Spur der Kanadierin. Was über die Route bekannt ist.",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gewaltiger Felssturz nahe der Schweizer Grenze",
+      "url": "https://www.20min.ch/video/suedtirol-gewaltiger-felssturz-nahe-der-schweizer-grenze-103633222",
+      "summary": "Am Samstag stürzten von der Vorderen Schöntaufspitze, in der Nähe von Sulden, Tausende Kubikmeter Gestein ins Tal. Laut «Suedtirolnews» gingen die Gesteinsmassen in einem unbewohnten Gebiet nieder und",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Russischer Oligarch finanzierte Hochzeitsfeier von Trump-Sohn mit",
+      "url": "https://www.20min.ch/story/donald-trump-jr-russischer-oligarch-finanzierte-hochzeitsfeier-von-trump-sohn-mit-103633224",
+      "summary": "Während Moskau den Angriffskrieg gegen die Ukraine fortsetzt, finanziert ein russischer Oligarch mit Putin-Verbindungen Teile der Hochzeitsfeier von Donald Trump Jr. Die frisch Getrauten verteidigen d",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach «Free Palestine»-Rufen: US-Rapper Macklemore fliegt aus Ed Sheerans Vorprogramm",
+      "url": "https://www.tagesanzeiger.ch/macklemore-von-ed-sheerans-tour-gefeuert-819547375437",
+      "summary": "Der 43-Jährige hatte auf Konzerten des britischen Popstars propalästinensische Äusserungen gemacht. Deshalb wollen mehrere Veranstaltungsorte Macklemore nicht auftreten lassen.",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Triumphale Rückkehr: Nach sechs Jahren Pause: So war Céline Dions Comeback-Konzert",
+      "url": "https://www.bernerzeitung.ch/celine-dion-triumphales-comeback-vor-35000-fans-in-paris-206667143145",
+      "summary": "Die kanadische Sängerin feiert in Paris vor 35’000 Fans ihr Comeback: stimmgewaltig und überraschend nahbar. Unser Autor war dabei.",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Windischs Budget 2027 Sondereffekt Sorgt für Gewinn",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/windischs-budget-2027-sondereffekt-sorgt-fuer-gewinn-ld.4232258",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Stipendien für Stgaller Studierende Nur Noch Teilweise Geschenkt",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/stipendien-fuer-stgaller-studierende-nur-noch-teilweise-geschenkt-ld.4234177",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Rapperswil Jona Lakers Fabian Maier im Tvo Sporttalk",
+      "url": "https://www.tagblatt.ch/sport/ostschweiz/rapperswil-jona-lakers-fabian-maier-im-tvo-sporttalk-ld.4234286",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Herbstsession im Kanton Stgallen Frühe Förderung und Stipendien",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/herbstsession-im-kanton-stgallen-fruehe-foerderung-und-stipendien-ld.4233742",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Mitglieder des Sc Buochs Heissen Alle Anträge Einstimmig Gut",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/mitglieder-des-sc-buochs-heissen-alle-antraege-einstimmig-gut-ld.4234251",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "England: Mann betäubte und vergewaltigte Frau während 20 Jahren",
+      "url": "https://www.watson.ch/international/grossbritannien/581222579-england-mann-betaeubte-und-vergewaltigte-frau-waehrend-20-jahren",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Fehler beim Klimawandel dürfen wir bei der KI nicht wiederholen",
+      "url": "https://www.watson.ch/schweiz/digital/942056201-die-fehler-beim-klimawandel-duerfen-wir-bei-der-ki-nicht-wiederholen",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bab al-Mandab – oder wie die Huthi den Welthandel unter Druck setzen",
+      "url": "https://www.watson.ch/international/usa/408486077-bab-al-mandab-oder-wie-die-huthi-den-welthandel-unter-druck-setzen",
+      "summary": "",
+      "published": "2026-09-14T19:02:08.713496+00:00"
     }
   ]
 }
