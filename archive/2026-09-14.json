@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T01:31:48.196904+00:00",
+  "generated": "2026-09-14T02:02:17.657854+00:00",
   "date": "2026-09-14",
-  "count": 34,
+  "count": 38,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -240,6 +240,34 @@
       "url": "https://www.watson.ch/international/armee/686270146-bundeswehr-reservisten-wollen-militaerplan-aus-sachen-anhalt-abzuegeln",
       "summary": "",
       "published": "2026-09-14T01:02:27.524353+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach Auszeichnung in Venedig: Israels Kulturminister droht «NAZA»-Regisseuren mit Ausbürgerung",
+      "url": "https://www.tagesanzeiger.ch/nach-auszeichnung-in-venedig-israel-droht-nazaregisseuren-664606500957",
+      "summary": "Ein Film über das Vorgehen der israelischen Armee in Gaza gewann an den Filmfestspielen in Venedig einen Spezialpreis. Ein israelischer Minister droht nun mit dem Entzug der Staatsbürgerschaft.",
+      "published": "2026-09-14T02:02:17.657854+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Zofingen Will Vorerst Nicht auf Energiestadt Gold Hinarbeiten",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/zofingen-will-vorerst-nicht-auf-energiestadt-gold-hinarbeiten-ld.4233112",
+      "summary": "",
+      "published": "2026-09-14T02:02:17.657854+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sozialdemokraten gewinnen Wahlen, Schwedendemokraten verlieren",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/677271239-sozialdemokraten-gewinnen-wahlen-schwedendemokraten-verlieren",
+      "summary": "",
+      "published": "2026-09-14T02:02:17.657854+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Gaza: Minister will Rachel Szor & Yuval Abraham Pass entziehen",
+      "url": "https://www.watson.ch/international/israel/814839026-gaza-minister-will-rachel-szor-yuval-abraham-pass-entziehen",
+      "summary": "",
+      "published": "2026-09-14T02:02:17.657854+00:00"
     }
   ]
 }
