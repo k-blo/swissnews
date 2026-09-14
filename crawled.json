@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T02:02:17.657854+00:00",
+  "generated": "2026-09-14T02:32:07.074379+00:00",
   "date": "2026-09-14",
-  "count": 38,
+  "count": 48,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -268,6 +268,76 @@
       "url": "https://www.watson.ch/international/israel/814839026-gaza-minister-will-rachel-szor-yuval-abraham-pass-entziehen",
       "summary": "",
       "published": "2026-09-14T02:02:17.657854+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sozialdemokraten wohl stärkste Kraft - doch der Krimi geht weiter",
+      "url": "https://www.20min.ch/story/wahlen-schweden-sozialdemokraten-wohl-staerkste-kraft-doch-der-krimi-geht-weiter-103632813",
+      "summary": "Während die Rechtspopulisten Verluste machen, holen die Sozialdemokraten wohl die meisten Stimmen. Ein klarer Sieger könnte erst am Mittwoch feststehen.",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "WC-Regel wird für Bundesrat bei EU‑Mammutdebatte zu Challenge",
+      "url": "https://www.20min.ch/story/drei-tage-im-staenderat-wc-regel-wird-fuer-bundesrat-bei-eumammutdebatte-zu-challenge-103632311",
+      "summary": "Drei Tage lang wird der Ständerat die neuen EU-Verträge debattieren. Gleich am ersten Tag sogar «Open End» – und dies in Anwesenheit von gleich drei Bundesräten. Wir sagen dir alles, was du wissen mus",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Midterms 2026: Das musst du zu den Kongresswahlen wissen",
+      "url": "https://www.20min.ch/story/usa-unter-trump-midterms-2026-das-musst-du-zu-den-kongresswahlen-wissen-103631819",
+      "summary": "Bei den Midterms im November wird der US-Kongress neu gewählt. Die Demokraten wollen Trump die Mehrheiten abnehmen – und seine Agenda in den letzten beiden Jahren seiner Amtszeit ausbremsen.",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Die grosse Gefahr für Trump im November: 4 Parteilose",
+      "url": "https://www.20min.ch/story/midterms-die-grosse-gefahr-fuer-trump-im-november-4-parteilose-103631055",
+      "summary": "Die Demokraten wollen den Republikanern die Mehrheit im US-Senat abnehmen. Dabei könnten vier Unabhängige in konservativen Bundesstaaten zu einem entscheidenden Faktor werden.",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "EU: Kanada will «einzigartige Allianz»",
+      "url": "https://www.zentralplus.ch/news/eu-kanada-will-einzigartige-allianz-2898201/",
+      "summary": "Kanada will die Beziehungen zur Europäischen Union deutlich vertiefen. Einen Beitritt zur EU schliesst Premierminister Mark Carney jedoch aus. «Wir wollen kein Mitglied der Europäischen Union werden»,",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kommunalwahl Niedersachsen: CDU führt",
+      "url": "https://www.zentralplus.ch/news/kommunalwahl-niedersachsen-cdu-fuehrt-2898199/",
+      "summary": "Bei der Kommunalwahl im deutschen Bundesland Niedersachsen liegt die CDU laut einer ersten Hochrechnung vorn. Sie kommt auf knapp 28 Prozent. Dahinter folgen die SPD mit 24,5 Prozent und die Grünen mi",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Fixpreis-Debakel: Die falschen Richtigstellungen des VBS",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-09-14/fixpreis-debakel-die-falschen-richtigstellungen-des-vbs",
+      "summary": "Das Verteidigungsdepartement konterte kritische Berichte zum F-35 mehrfach mit «Richtigstellungen». Darin finden sich Passagen, die sich heute als falsch erweisen.",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Drei Aargauer Fälle Autofahrer Blockieren und Bremsen aus",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/drei-aargauer-faelle-autofahrer-blockieren-und-bremsen-aus-ld.4232336",
+      "summary": "",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Das Jubiläum der Kläranlage Untersee Stösst auf Grosses Interesse",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/das-jubilaeum-der-klaeranlage-untersee-stoesst-auf-grosses-interesse-ld.4233412",
+      "summary": "",
+      "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Hefenhofen Zieht Gestaltungsplan Striitholz Zurück",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/hefenhofen-zieht-gestaltungsplan-striitholz-zurueck-ld.4232802",
+      "summary": "",
+      "published": "2026-09-14T02:32:07.074379+00:00"
     }
   ]
 }
