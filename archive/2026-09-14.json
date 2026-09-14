@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T00:32:28.525451+00:00",
+  "generated": "2026-09-14T01:02:27.524353+00:00",
   "date": "2026-09-14",
-  "count": 32,
+  "count": 34,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -226,6 +226,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/der-klimawandel-interessiert-bald-niemanden-mehr",
       "summary": "",
       "published": "2026-09-14T00:32:28.525451+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/artikel-ld.4228066",
+      "summary": "",
+      "published": "2026-09-14T01:02:27.524353+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundeswehr: Reservisten wollen Militärplan aus Sachen-Anhalt abzügeln",
+      "url": "https://www.watson.ch/international/armee/686270146-bundeswehr-reservisten-wollen-militaerplan-aus-sachen-anhalt-abzuegeln",
+      "summary": "",
+      "published": "2026-09-14T01:02:27.524353+00:00"
     }
   ]
 }
