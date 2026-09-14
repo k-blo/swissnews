@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T04:31:42.352353+00:00",
+  "generated": "2026-09-14T05:01:45.999736+00:00",
   "date": "2026-09-14",
-  "count": 192,
+  "count": 195,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1346,6 +1346,27 @@
       "url": "https://rathuus.ch/aggressives-sexwerben-ausserhalb-der-strichzonen-sorgt-fuer-aerger/",
       "summary": "",
       "published": "2026-09-14T04:31:42.352353+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Highlights der Herbstsession – Das sind die fünf brisantesten Geschäfte im Bundeshaus",
+      "url": "https://www.srf.ch/news/schweiz/highlights-der-herbstsession-das-sind-die-fuenf-brisantesten-geschaefte-im-bundeshaus",
+      "summary": "Auf das Parlament warten in den nächsten drei Wochen brisante Geschäfte – wir stellen die wichtigsten vor.",
+      "published": "2026-09-14T05:01:45.999736+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Westaustralien: Hai attackiert Schwimmer – 56-Jähriger schwer am Bein verletzt",
+      "url": "https://www.tagesanzeiger.ch/haiangriff-in-westaustralien-56-jaehriger-schwer-verletzt-485115539526",
+      "summary": "Am Glenfield Beach nördlich von Geraldton hat ein Hai einen Mann angegriffen. Es ist bereits der fünfte schwere Vorfall in Australien in diesem Jahr.",
+      "published": "2026-09-14T05:01:45.999736+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Funktioniert die erste energieautarke SAC-Hütte tatsächlich?",
+      "url": "https://www.freiburger-nachrichten.ch/story/289721/funktioniert-die-erste-energieautarke-sach%C3%BCtte-tats%C3%A4chlich",
+      "summary": "",
+      "published": "2026-09-14T05:01:45.999736+00:00"
     }
   ]
 }
