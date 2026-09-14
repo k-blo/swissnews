@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T22:02:19.445908+00:00",
+  "generated": "2026-09-14T22:31:44.805269+00:00",
   "date": "2026-09-15",
-  "count": 4,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -30,6 +30,139 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-regierung-lehnt-strengere-regeln-fuer-herrenlose-grundstuecke-ab-art-1721798",
       "summary": "",
       "published": "2026-09-14T22:02:19.445908+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "1. August kein Feiertag für Tausende Zusteller: Pöstlerin hässig: «Wir fühlen uns ausgenutzt»",
+      "url": "https://www.blick.ch/wirtschaft/1-august-kein-feiertag-fuer-tausende-zusteller-poestlerin-haessig-wir-fuehlen-uns-ausgenutzt-id22256869.html",
+      "summary": "Zustellerin und Zusteller sind empört: Der 1. August wurde vielen nicht als freier Tag angerechnet, weil er dieses Jahr auf einen Samstag fiel. Sie fordern mit einem offenen Brief an den Post-Chef ein",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Prostituierte Ajla Bronja (31) erklärt, warum sie ihren Job liebt: «Ich gebe den Freiern mehr Liebe als ihre Ehefrauen»",
+      "url": "https://www.blick.ch/schweiz/bern/prostituierte-ajla-bronja-31-erklaert-warum-sie-ihren-job-liebt-ich-gebe-den-freiern-mehr-liebe-als-ihre-ehefrauen-id22256842.html",
+      "summary": "Ajla Bronja kann sich im Moment nicht vorstellen, etwas anderes als Prostituierte zu sein. Deshalb spricht sie auf den sozialen Medien offen und ehrlich über ihren Job. Blick hat sie zum Interview get",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Mission Suisse» startete in Brunnen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mission-suisse-startete-in-brunnen-art-1721688",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Künstlerinnen stellen den Menschen ins Zentrum",
+      "url": "https://www.bote.ch/nachrichten/schwyz/zwei-kuenstlerinnen-stellen-den-menschen-ins-zentrum-art-1721714",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vipers mit knapper Niederlage im Startspiel",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/vipers-mit-knapper-niederlage-im-startspiel-art-1721669",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ueli Schnyder und Werner Zehnder mit 96 Punkten",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ueli-schnyder-und-werner-zehnder-mit-96-punkten-art-1721721",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Downhiller auf dem Podest",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyzer-downhiller-auf-dem-podest-art-1721712",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rondinone-Kunstwerk: Am Schluss ist es noch äusserst knapp geworden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/rondinone-kunstwerk-am-schluss-ist-es-noch-aeusserst-knapp-geworden-art-1721675",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nachwuchstalente zeigten ihr Ausdauerkönnen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/nachwuchstalente-zeigten-ihr-ausdauerkoennen-art-1721709",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Letzter Belcar findet zurück in den Kanton Schwyz",
+      "url": "https://www.bote.ch/nachrichten/schwyz/letzter-belcar-findet-zurueck-in-den-kanton-schwyz-art-1721681",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Küssnacht verliert trotz Aufholjagd",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/kuessnacht-verliert-trotz-aufholjagd-art-1721706",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Knappe Niederlage der Brunner Ringer",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/knappe-niederlage-der-brunner-ringer-art-1721674",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kapelle Gläuffig sorgte für Hörgenuss in Steinerberg",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kapelle-glaeuffig-sorgte-fuer-hoergenuss-in-steinerberg-art-1721700",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Steinpilz im Dreierpack",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ein-steinpilz-im-dreierpack-art-1721638",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Kapelle Illgauergruess verabschiedete sich von der Bühne",
+      "url": "https://www.bote.ch/nachrichten/schwyz/die-kapelle-illgauergruess-verabschiedete-sich-von-der-buehne-art-1721637",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Chorreise in den Winter",
+      "url": "https://www.bote.ch/nachrichten/vereine/chorreise-in-den-winter-art-1721666",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Aus einem schiefen Ton etwas Neues machen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/aus-einem-schiefen-ton-etwas-neues-machen-art-1721696",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "50 Jahre Theatergesellschaft Oberiberg – Vorhang auf für «Als wärs geschter gsi»",
+      "url": "https://www.bote.ch/nachrichten/vereine/50-jahre-theatergesellschaft-oberiberg-vorhang-auf-fuer-als-waers-geschter-gsi-art-1721662",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "300 Traktoren und Einachser auf Ausfahrt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/300-traktoren-und-einachser-auf-ausfahrt-art-1721665",
+      "summary": "",
+      "published": "2026-09-14T22:31:44.805269+00:00"
     }
   ]
 }
