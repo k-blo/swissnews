@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T11:32:04.135556+00:00",
+  "generated": "2026-09-14T11:40:29.564040+00:00",
   "date": "2026-09-14",
-  "count": 523,
+  "count": 528,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3663,6 +3663,41 @@
       "url": "https://www.aargauerzeitung.ch/aargau/freiamt/zufiker-ortsbuergergmeind-startet-neubau-im-dorfzentrum-ld.4233596",
       "summary": "",
       "published": "2026-09-14T11:32:04.135556+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung am 27. September – Ist Neutralität eine Sicherheitsgarantie oder ein Risiko?",
+      "url": "https://www.srf.ch/news/schweiz/abstimmung-am-27-september-ist-neutralitaet-eine-sicherheitsgarantie-oder-ein-risiko",
+      "summary": "Befürworter sagen, die Neutralitätsinitiative mache die Schweiz sicherer. Skeptische Stimmen sehen sie als Risiko.",
+      "published": "2026-09-14T11:40:29.564040+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eklat bei IAEA-Konferenz: Kein Visum für Vizepräsident des Iran",
+      "url": "https://www.watson.ch/international/energie/484037828-eklat-bei-iaea-konferenz-kein-visum-fuer-vizepraesident-des-iran",
+      "summary": "",
+      "published": "2026-09-14T11:40:29.564040+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polizei verhaftet in Abtwil SG einen gewalttätigen Mann",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/341180857-polizei-verhaftet-in-abtwil-sg-einen-gewalttaetigen-mann",
+      "summary": "",
+      "published": "2026-09-14T11:40:29.564040+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Mitte tritt mit drei Kandidierenden für den Gemeinderat an",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/die-mitte-tritt-mit-drei-kandidierenden-fuer-den-gemeinderat-an-art-1721658",
+      "summary": "",
+      "published": "2026-09-14T11:40:29.564040+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ups, wenn die Stadt an der nächsten Ecke bereits wieder endet",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ups-wenn-die-stadt-an-der-naechsten-ecke-bereits-wieder-endet-art-1721657",
+      "summary": "",
+      "published": "2026-09-14T11:40:29.564040+00:00"
     }
   ]
 }
