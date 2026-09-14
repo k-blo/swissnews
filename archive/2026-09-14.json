@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T08:01:54.134503+00:00",
+  "generated": "2026-09-14T08:21:49.936246+00:00",
   "date": "2026-09-14",
-  "count": 293,
+  "count": 316,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2053,6 +2053,167 @@
       "url": "https://www.watson.ch/schweiz/graubuenden/248192109-carunfall-in-susch-verfahren-gegen-chauffeur-eroeffnet",
       "summary": "",
       "published": "2026-09-14T08:01:54.134503+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wutanfall beim Säntispark: Nordmazedonier (30) ohrfeigt erst Frau, dann geht er auch noch Einsatzkräfte an",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/wutanfall-beim-saentispark-nordmazedonier-30-ohrfeigt-erst-frau-dann-geht-er-auch-noch-einsatzkraefte-an-id22255705.html",
+      "summary": "Polizeieinsatz im Säntispark am Sonntag: Ein Nordmazedonier geriet am Sonntagabend in Rage und schlug eine Frau. Er bedrohte anschliessend die angerückten Einsatzkräfte und wurde verhaftet.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Forscher finden «gummiverwandte Chemikalien» in Schweizer Milch",
+      "url": "https://www.20min.ch/story/folgen-unklar-forscher-finden-gummiverwandte-chemikalien-in-schweizer-milch-103632865",
+      "summary": "In Proben von 17 Schweizer Bauernhöfen fanden Forschende gummiverwandte Chemikalien. Als Quellen kommen Strassenabrieb und Anlagen in der Milchproduktion infrage. Die möglichen Folgen sind offen.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nächster Rücktritt: Auch Fassnacht verlässt die Nati",
+      "url": "https://www.20min.ch/story/nach-widmer-naechster-ruecktritt-auch-fassnacht-verlaesst-die-nati-103632925",
+      "summary": "Christian Fassnacht tritt per sofort aus der Schweizer Nationalmannschaft zurück.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Reisecar-Unfall in Graubünden: Staatsanwaltschaft eröffnet Verfahren gegen den Chauffeur",
+      "url": "https://www.tagesanzeiger.ch/carunfall-susch-chauffeur-wegen-fahrlaessiger-toetung-angeklagt-253399564757",
+      "summary": "Dem Fahrer werden mehrfache fahrlässige Tötung und Körperverletzung vorgeworfen. Bei dem Unglück starben fünf Menschen, 40 wurden verletzt.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rückkehr nach England: Meghan zeigt auf Instagram erste Familienbilder aus Grossbritannien",
+      "url": "https://www.tagesanzeiger.ch/royals-meghan-zeigt-erste-familien-bilder-seit-rueckkehr-522830073355",
+      "summary": "Nach der Rückkehr aus den USA gewährt die Herzogin einen Einblick in das Familienleben mit Prinz Harry und den Kindern.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dritter Abgang nach der WM: Nach Widmer und Okafor tritt auch Fassnacht aus dem Nationalteam zurück",
+      "url": "https://www.tagesanzeiger.ch/fassnacht-tritt-aus-schweizer-nationalteam-zurueck-481923153944",
+      "summary": "Christian Fassnacht kehrt dem Schweizer Fussball-Nationalteam den Rücken. Der Stürmer macht Platz für die Jungen.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Geschmacklose «Jota»-Fanrufe: Saudiarabischer Fanskandal um Neves bringt Ronaldo auf die Palme",
+      "url": "https://www.tagesanzeiger.ch/ronaldo-kritisiert-fans-spott-ueber-toten-diogo-jota-empoert-132722688340",
+      "summary": "In der Saudi Pro League rufen Fans dem Portugiesen Rúben Neves «Jota, Jota» zu. Neves’ Freund Diogo Jota war bei einem Autounfall gestorben. Die Empörung ist gross, Cristiano Ronaldo fordert Strafen.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Naturschutz im Bielersee: Arten­vielfalt der Wasser­pflanzen hat sich verdoppelt – eine invasive Pflanze breitet sich aus",
+      "url": "https://www.bernerzeitung.ch/bielersee-artenvielfalt-der-wasserpflanzen-hat-sich-verdoppelt-839003372667",
+      "summary": "Der Bielersee hat sich ökologisch deutlich erholt – dank sinkender Nährstoff­konzentration und besserer Wasser­qualität. Doch Klima­wandel und invasive Arten bedrohen diese Entwicklung.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Spital Emmental: Burgdorf und Langnau erhalten zusätzliche Betten und Notfall­plätze",
+      "url": "https://www.bernerzeitung.ch/spital-emmental-mehr-betten-in-burgdorf-und-langnau-974024187576",
+      "summary": "Das Spital Emmental baut ab November seine stationären Kapazitäten aus. Allein in Burgdorf werden zehn neue Betten und zwei zusätzliche Notfall-Behandlungs­plätze eingerichtet.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Abschluss nachholen lohnt sich",
+      "url": "https://www.zentralplus.ch/news/abschluss-nachholen-lohnt-sich-2898228/",
+      "summary": "Wer nach der obligatorischen Schulzeit eine Ausbildung macht, hat auf dem Schweizer Arbeitsmarkt grundsätzlich bessere Chancen. Jetzt zeigen neue Zahlen des Bundesamts für Statistik: Einen solchen Abs",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bittere Niederlage für den FC Thayngen, Spielvi holt ersten Punkt nach dem Abstieg",
+      "url": "https://www.shn.ch/sport/fussball/2026-09-14/bittere-niederlage-fuer-den-fc-thayngen-spielvi-holt-ersten-punkt-nach",
+      "summary": "In einer hart umkämpften, ruppigen Drittligapartie gewinnt die SV Schaffhausen 2 mit 1:0 gegen den FC Thayngen.",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Migros Neuer Rückruf in der Ganzen Schweiz",
+      "url": "https://www.suedostschweiz.ch/panorama/migros-neuer-rueckruf-in-der-ganzen-schweiz-2159729",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Svp Thal Gäu Nominiert Diana Stärkle für den Nationalrat",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/svp-thal-gaeu-nominiert-diana-staerkle-fuer-den-nationalrat-ld.4233588",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ballyana in Schönenwerd Zukunft der Schuhsammlung Offen",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/ballyana-in-schoenenwerd-zukunft-der-schuhsammlung-offen-ld.4229591",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Die Synodalratspräsidentin auf den Spuren der Basler Mission in Indien",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/die-synodalratspraesidentin-auf-den-spuren-der-basler-mission-in-indien-ld.4233490",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Kath Kirchenchor Wangen bei Olten auf Reisen im Schwarzwald",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/kath-kirchenchor-wangen-bei-olten-auf-reisen-im-schwarzwald-ld.4233464",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Mtv Starrkirch Wil auf Vereinsreise im Entlebuch",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/mtv-starrkirch-wil-auf-vereinsreise-im-entlebuch-ld.4233458",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Sicher Unterwegs auf Zwei Rädern Velowoche Schule Langnau",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/sicher-unterwegs-auf-zwei-raedern-velowoche-schule-langnau-ld.4233561",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Christian Fassnacht wird nicht mehr für die Nati spielen",
+      "url": "https://www.watson.ch/sport/yb/156998739-christian-fassnacht-wird-nicht-mehr-fuer-die-nati-spielen",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Deutsche CDU gewinnt Kommunalwahl in Niedersachsen",
+      "url": "https://www.watson.ch/international/deutschland/280506563-deutsche-cdu-gewinnt-kommunalwahl-in-niedersachsen",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizer KI-Aktien nach CEO-Warnungen an der Börse im Minus",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/738524365-schweizer-ki-aktien-nach-ceo-warnungen-an-der-boerse-im-minus",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Pflanzenartenvielfalt im Bielersee hat sich verdoppelt",
+      "url": "https://www.watson.ch/schweiz/bern/831943050-pflanzenartenvielfalt-im-bielersee-hat-sich-verdoppelt",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Meine Nachbarin nimmt meine Pakete an und öffnet sie manchmal»",
+      "url": "https://www.watson.ch/leben/rat-der-weisen/869573422-meine-nachbarin-nimmt-meine-pakete-an-und-oeffnet-sie-manchmal",
+      "summary": "",
+      "published": "2026-09-14T08:21:49.936246+00:00"
     }
   ]
 }
