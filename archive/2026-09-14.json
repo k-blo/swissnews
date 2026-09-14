@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T00:01:52.005438+00:00",
+  "generated": "2026-09-14T00:32:28.525451+00:00",
   "date": "2026-09-14",
-  "count": 30,
+  "count": 32,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -212,6 +212,20 @@
       "url": "https://www.watson.ch/sport/ski/413115645-ski-alpin-olympiasiegerin-sofia-goggia-bricht-trainingslager-ab",
       "summary": "",
       "published": "2026-09-13T23:31:57.208674+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Afd Sachsen Anhalt Quittung",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/afd-sachsen-anhalt-quittung",
+      "summary": "",
+      "published": "2026-09-14T00:32:28.525451+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Klimawandel Interessiert Bald Niemanden Mehr",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/der-klimawandel-interessiert-bald-niemanden-mehr",
+      "summary": "",
+      "published": "2026-09-14T00:32:28.525451+00:00"
     }
   ]
 }
