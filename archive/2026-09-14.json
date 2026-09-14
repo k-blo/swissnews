@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T20:01:47.900030+00:00",
+  "generated": "2026-09-14T20:32:06.554167+00:00",
   "date": "2026-09-14",
-  "count": 966,
+  "count": 969,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6764,6 +6764,27 @@
       "url": "https://www.watson.ch/sport/eismeister-zaugg/745854432-national-league-welcher-trainer-muss-zuerst-gehen",
       "summary": "",
       "published": "2026-09-14T20:01:47.900030+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Mein Lohn: Rettungssanitäterin verdient 6900 Franken: «Wir tragen eine enorme Verantwortung»",
+      "url": "https://www.bernerzeitung.ch/rettungssanitaeterin-6900-franken-lohn-fuer-extremjob-410161298083",
+      "summary": "Cornelia Schütz rückt täglich zu Notfällen aus und trifft Entscheidungen unter grossem Druck. Verglichen mit Bürojobs empfindet sie ihren Lohn als zu tief.",
+      "published": "2026-09-14T20:32:06.554167+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Streit um Lärmschutz: Emmen kämpft gegen die F-35 : «Für die Menschen und Tiere ist dieser Lärm eine massive Belastung»",
+      "url": "https://www.derbund.ch/f-35-in-emmen-streit-um-laermschutzkredit-434193849284",
+      "summary": "Mit der Stationierung des F-35-Kampfjets in Emmen droht den Antwohnern ein Verlust an Lebensqualität. Sie fordern mehr Geld für Lärmschutz – stossen aber in der Politik bisher auf taube Ohren.",
+      "published": "2026-09-14T20:32:06.554167+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Öltanker in der Strasse von Hormus explodiert",
+      "url": "https://www.watson.ch/international/iran/238661057-oeltanker-in-der-strasse-von-hormus-explodiert",
+      "summary": "",
+      "published": "2026-09-14T20:32:06.554167+00:00"
     }
   ]
 }
