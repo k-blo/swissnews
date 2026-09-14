@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T23:01:59.304084+00:00",
+  "generated": "2026-09-14T23:31:43.987875+00:00",
   "date": "2026-09-15",
-  "count": 25,
+  "count": 28,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -177,6 +177,27 @@
       "url": "https://www.watson.ch/international/armee/734731665-litauen-nato-kampfjets-schiessen-drohne-ab",
       "summary": "",
       "published": "2026-09-14T23:01:59.304084+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA lockern Klimaregeln für Kraftwerke",
+      "url": "https://www.zentralplus.ch/news/usa-lockern-klimaregeln-fuer-kraftwerke-2898425/",
+      "summary": "Die US-Regierung von Präsident Donald Trump hebt die Treibhausgas-Grenzwerte für Gas- und Kohlekraftwerke auf. Die Umweltschutzbehörde EPA erklärte, der Industrie würden dadurch mehr als 300 Milliarde",
+      "published": "2026-09-14T23:31:43.987875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wolodymr Selenskyj: Ukraine im Russland-Krieg zu Deeskalation bereit",
+      "url": "https://www.watson.ch/international/usa/466864734-wolodymr-selenskyj-ukraine-im-russland-krieg-zu-deeskalation-bereit",
+      "summary": "",
+      "published": "2026-09-14T23:31:43.987875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Präsidentschaftswahl 2028: Gavin Newsom lässt Kamala Harris Vortritt",
+      "url": "https://www.watson.ch/international/usa/539161995-praesidentschaftswahl-2028-gavin-newsom-laesst-kamala-harris-vortritt",
+      "summary": "",
+      "published": "2026-09-14T23:31:43.987875+00:00"
     }
   ]
 }
