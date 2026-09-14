@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T02:32:07.074379+00:00",
+  "generated": "2026-09-14T03:02:08.445925+00:00",
   "date": "2026-09-14",
-  "count": 48,
+  "count": 123,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -338,6 +338,531 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/hefenhofen-zieht-gestaltungsplan-striitholz-zurueck-ld.4232802",
       "summary": "",
       "published": "2026-09-14T02:32:07.074379+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Kann solchen Content nicht mehr sehen»: Haben User genug?",
+      "url": "https://www.20min.ch/story/influencer-fatigue-kann-solchen-content-nicht-mehr-sehen-haben-user-genug-103632295",
+      "summary": "Immer mehr Content, Werbung und kopierte Trends nerven Social-Media-User. Eine Expertin erklärt, warum der Markt übersättigt ist – und wer trotzdem Chancen hat.",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Messerangriff auf Kinder: Täter «kaufte Rindfleisch, um zu üben»",
+      "url": "https://www.20min.ch/story/zuerich-messerangriff-auf-kinder-taeter-kaufte-rindfleisch-um-zu-ueben-103632247",
+      "summary": "Ein chinesischer Student, der im Herbst 2024 in Zürich-Oerlikon auf drei Buben eingestochen hat, steht am Donnerstag wegen versuchten Mordes vor Gericht. Die Anklageschrift enthüllt weitere Details zu",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "So geniesst ehemaliger Odi-Konkurrent sein Leben als Rentner",
+      "url": "https://www.20min.ch/story/alexis-pinturault-so-geniesst-ehemaliger-odi-konkurrent-sein-leben-als-rentner-103629303",
+      "summary": "Alexis Pinturault arbeitet heute im Familienhotel, hat mehr Zeit für seine Liebsten und entdeckt Sport ohne Stoppuhr neu.",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fischer entdeckt Wal in seinem Netz – und rettet ihn",
+      "url": "https://www.20min.ch/video/peru-fischer-entdeckt-wal-in-seinem-netz-und-rettet-ihn-103632165",
+      "summary": "Vor Perus Küste hat der Fischer Jonathan Quispe einen Wal befreit, der sich in seinem Fischernetz verfing. Er sprang mit einer Taucherbrille ins kalte Meer und kletterte auf den Rücken des Tiers. Dann",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Emmen kämpft um 58 Millionen gegen den F-35-Lärm",
+      "url": "https://www.zentralplus.ch/umwelt/emmen-kaempft-um-58-millionen-gegen-den-f-35-laerm-2897707/",
+      "summary": "Der lautere F-35-Kampfjet sorgt in Emmen für rote Köpfe – und entfacht einen Streit um Millionen für den Lärmschutz. Nun entscheidet der Nationalrat, wie weit der Bund beim Schutz der Bevölkerung gehe",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK - Ulrich Siegmund tappt durchs Minenfeld: Für die AfD wird Sachsen-Anhalt zum ersten schmerzhaften Realitätstest",
+      "url": "https://www.nzz.ch/der-andere-blick/ulrich-siegmund-im-minenfeld-sachsen-anhalt-wird-zum-ersten-afd-realitaetstest-ld.10023602",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schaffhauser Kindergarten zeigt, wie Denkmalschutz und Alltag zusammenpassen",
+      "url": "https://www.shn.ch/region/stadt/2026-09-14/schaffhauser-kindergarten-zeigt-wie-denkmalschutz-und-alltag-zusammenpassen",
+      "summary": "Im Rahmen der 33. Europäischen Tage des Denkmals konnten in Schaffhausen ganz unterschiedliche Stätten besucht werden, eine von ihnen der Kindergarten im Kasinogässchen.",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Kunst als Gegenpol: Dominique Belvedere stellt in Schaffhausen aus",
+      "url": "https://www.shn.ch/region/stadt/2026-09-14/kunst-als-gegenpol-dominique-belvedere-stellt-in-schaffhausen-aus",
+      "summary": "Dominique Belvedere zeigt in der Galerie für Gegenwartskunst in Schaffhausen ihre «Bilder und Objekte». Bei der Vernissage am Freitag sprach die Künstlerin darüber, warum ihre Arbeiten gerade in schwi",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Streit um Sicherheit bei Digitalem Gesundheitsdossier",
+      "url": "https://www.republik.ch/2026/09/14/streit-um-sicherheit-bei-digitalem-gesundheitsdossier",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Dritte Gewalt ein Indizienprozess mit Schnüffelhund",
+      "url": "https://www.republik.ch/2026/09/14/dritte-gewalt-ein-indizienprozess-mit-schnueffelhund",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Immer Mehr Wolfsrudel in Graubünden Wann ist Genug",
+      "url": "https://www.suedostschweiz.ch/graubuenden/immer-mehr-wolfsrudel-in-graubuenden-wann-ist-genug-2151335",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Sagt die Glarner Expertin",
+      "url": "https://www.suedostschweiz.ch/glarus/sagt-die-glarner-expertin-2148284",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Frischgebackene Grosseltern das Solltet Ihr auf Keine Fälle mit dem Grosskind Tun",
+      "url": "https://www.suedostschweiz.ch/glarus/frischgebackene-grosseltern-das-solltet-ihr-auf-keine-faelle-mit-dem-grosskind-tun-2150959",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Stadt Luzern Plant Ausbildungsoffensive in der Schulbetreuung",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/stadt-luzern-plant-ausbildungsoffensive-in-der-schulbetreuung-ld.4231945",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Stadt Kriens Soll Sich an Fernwärme Luzern Ag Beteiligen",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/stadt-kriens-soll-sich-an-fernwaerme-luzern-ag-beteiligen-ld.4232039",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hermap Ag in Ebikon an Solothurner Familie Verkauft",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/hermap-ag-in-ebikon-an-solothurner-familie-verkauft-ld.4220668",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Zentralschweiz Neuer Verein Schliesst Lücke bei Sexualberatung",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/zentralschweiz-neuer-verein-schliesst-luecke-bei-sexualberatung-ld.4231770",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fdp Will Snb Millionen als Steuerrabatt in Luzern",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/fdp-will-snb-millionen-als-steuerrabatt-in-luzern-ld.4231875",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Mellikon Forschung Zeigt Wirkung von Biotopen auf Insekten",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/mellikon-forschung-zeigt-wirkung-von-biotopen-auf-insekten-ld.4223726",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fusion Menziken Burg Neue Bauordnung Kommt Voran",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/fusion-menziken-burg-neue-bauordnung-kommt-voran-ld.4227086",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarburg Junglenker nach Unfall von Staatsanwaltschaft Gebüsst",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/aarburg-junglenker-nach-unfall-von-staatsanwaltschaft-gebuesst-ld.4231958",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rupperswil Starke Spurrinnen Kreisel Hobrüti Ii Muss Saniert Werden",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/rupperswil-starke-spurrinnen-kreisel-hobrueti-ii-muss-saniert-werden-ld.4232522",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Hunzenschwil Gemeinde Will Sitzungszimmer Modernisieren",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/hunzenschwil-gemeinde-will-sitzungszimmer-modernisieren-ld.4232438",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Strassenverkehrsamt Aargau 75000 Autos Warten auf Prüfung",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/strassenverkehrsamt-aargau-75000-autos-warten-auf-pruefung-ld.4232575",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Grossrätin Fordert Antworten zu Smart Glasses im Aargau",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/grossraetin-fordert-antworten-zu-smart-glasses-im-aargau-ld.4232726",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Möhlin die Wöschwiiber Sammeln Unterwäsche für die Fasnacht",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/moehlin-die-woeschwiiber-sammeln-unterwaesche-fuer-die-fasnacht-ld.4232203",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Wohlen Plant Steuererhöhung auf 122 Prozent Ab 2028",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/wohlen-plant-steuererhoehung-auf-122-prozent-ab-2028-ld.4232414",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Brugg Evp Will Hitzeschutz für Schulhäuser Prüfen",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/brugg-evp-will-hitzeschutz-fuer-schulhaeuser-pruefen-ld.4231921",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Elina Ritmeisters und Catarina Martins Gründen Verein in Aarau",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/elina-ritmeisters-und-catarina-martins-gruenden-verein-in-aarau-ld.4221541",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Aushilfslehrer in Uzwil Anklage Wegen Sexüller Handlungen mit Kind",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/aushilfslehrer-in-uzwil-anklage-wegen-sexueller-handlungen-mit-kind-ld.4232587",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Bergbahnen Wildhaus Schneekanonen Retten das Weihnachtsgeschäft",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/bergbahnen-wildhaus-schneekanonen-retten-das-weihnachtsgeschaeft-ld.4233414",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Stgallen Sucht im Zweiten Anlauf Stadtingenieur Stelle Weiter Vakant",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/stgallen-sucht-im-zweiten-anlauf-stadtingenieur-stelle-weiter-vakant-ld.4228927",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Rorschacherberg Spricht Kein Geld für Badhütte das Halten Menschen am See Davon",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/rorschacherberg-spricht-kein-geld-fuer-badhuette-das-halten-menschen-am-see-davon-ld.4232982",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Häggenschwil Entscheidet über 99 Millionen Sporthalle die Wichtigsten Fakten",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/haeggenschwil-entscheidet-ueber-99-millionen-sporthalle-die-wichtigsten-fakten-ld.4223112",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Rorschacherberg Zahlt Nicht für Wiederaufbau der Badhütte",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/rorschacherberg-zahlt-nicht-fuer-wiederaufbau-der-badhuette-ld.4233021",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Kantonsrat Stgallen was die Weibel Alles Leisten",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/kantonsrat-stgallen-was-die-weibel-alles-leisten-ld.4228089",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Salzkorn Schritttempo in der Altstadt Wers Glaubt Wird Selig",
+      "url": "https://www.tagblatt.ch/leben/kolumnen/salzkorn-schritttempo-in-der-altstadt-wers-glaubt-wird-selig-ld.4233489",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Steckborn Mann Belästigt Frau an Bushaltestelle",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/steckborn-mann-belaestigt-frau-an-bushaltestelle-ld.4217163",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "150 Jahre Musig Müllheim ein Jubiläum Voller Musik Begegnungen und Emotionen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/150-jahre-musig-muellheim-ein-jubilaeum-voller-musik-begegnungen-und-emotionen-ld.4233432",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Gili Tal in der Kunsthalle Basel Croissants und Kühlschränke",
+      "url": "https://www.bzbasel.ch/kultur/basel/gili-tal-in-der-kunsthalle-basel-croissants-und-kuehlschraenke-ld.4231173",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Münchenstein Prüft Einwohnerrat Statt Gemeindeversammlung",
+      "url": "https://www.bzbasel.ch/basel/baselland/muenchenstein-prueft-einwohnerrat-statt-gemeindeversammlung-ld.4232730",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Schatten Studierende an der Uni So Profitieren sie",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/schatten-studierende-an-der-uni-so-profitieren-sie-ld.4232608",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Kanton Solothurn Sucht Neuen Standort für Fahrende",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/kanton-solothurn-sucht-neuen-standort-fuer-fahrende-ld.4231741",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Pirmin Bischof Hält Sich bei den Bilateralen Iii Noch Zurück",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/pirmin-bischof-haelt-sich-bei-den-bilateralen-iii-noch-zurueck-ld.4232672",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Projekt Restwert aus Wangen bei Olten Verschickt Ricardo Pakete",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/projekt-restwert-aus-wangen-bei-olten-verschickt-ricardo-pakete-ld.4224130",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Pascale Schuoler Verkauft Kunst in Dulliken",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/pascale-schuoler-verkauft-kunst-in-dulliken-ld.4232549",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Erlinsbach Hobbyfotograf Hält Trockenheit Fest",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/erlinsbach-hobbyfotograf-haelt-trockenheit-fest-ld.4232646",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Begegnungszone Beim Bt Hochhaus in Baden Verzögert Sich",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/begegnungszone-beim-bt-hochhaus-in-baden-verzoegert-sich-ld.4232556",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Grenchen Mobilitätstag auf dem Zytplatz mit Grossem Echo",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/grenchen-mobilitaetstag-auf-dem-zytplatz-mit-grossem-echo-ld.4233068",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Elias Vogt Fordert Abstimmung über Windpark Grenchen Behörden Winken Ab",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/elias-vogt-fordert-abstimmung-ueber-windpark-grenchen-behoerden-winken-ab-ld.4231094",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Messerangriff auf Hortkinder in Zürich Tat Minutiös Geplant",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/messerangriff-auf-hortkinder-in-zuerich-tat-minutioes-geplant-ld.4232969",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Unlimmitiert Worauf es bei der Wahl der Mobilfunknummer Ankommt",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/unlimmitiert-worauf-es-bei-der-wahl-der-mobilfunknummer-ankommt-ld.4233367",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Staffelbach Muscheln Ziehen am Tessinerabend der Männerriege",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/staffelbach-muscheln-ziehen-am-tessinerabend-der-maennerriege-ld.4232759",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Herisau Diskutiert Bodenpolitik Kirchengeläut und Parkplätze",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/herisau-diskutiert-bodenpolitik-kirchengelaeut-und-parkplaetze-ld.4227108",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Svp Veröffentlicht Deepfake von Ursula von der Leyen",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-svp-veroeffentlicht-deepfake-von-ursula-von-der-leyen-ld.4231135",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Instagram im Zuger Wahlkampf So Unterschiedlich Treten die Parteien auf",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/instagram-im-zuger-wahlkampf-so-unterschiedlich-treten-die-parteien-auf-ld.4231765",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Ev Zug vor Saisonstart 2026 2027 Alles Wissenswerte",
+      "url": "https://www.zugerzeitung.ch/sport/evz/ev-zug-vor-saisonstart-2026-2027-alles-wissenswerte-ld.4231984",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Ev Zug der Neue Sportchef Ted Suihkonen Steht Unter Beobachtung",
+      "url": "https://www.zugerzeitung.ch/sport/evz/ev-zug-der-neue-sportchef-ted-suihkonen-steht-unter-beobachtung-ld.4220989",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Goodwood-Auktion: Seltene japanische Kleinst-Autos im Angebot",
+      "url": "https://www.watson.ch/leben/auto/373756441-goodwood-auktion-seltene-japanische-kleinst-autos-im-angebot",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Servierkräfte wollen steuerfreies Trinkgeld – ein Professor warnt davor",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/949407750-servierkraefte-wollen-steuerfreies-trinkgeld-ein-professor-warnt-davor",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rovaniemi Finnland: Europäer nehmen Kampf um Einfluss in der Arktis auf",
+      "url": "https://www.watson.ch/international/gesundheit/778943173-rovaniemi-finnland-europaeer-nehmen-kampf-um-einfluss-in-der-arktis-auf",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schmeckt aufgewärmtes Essen wirklich besser?",
+      "url": "https://www.freiburger-nachrichten.ch/story/289137/schmeckt-aufgew%C3%A4rmtes-essen-wirklich-besser",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "KI-Hype bringt 80er-Looks zurück – doch nicht alle finden das lustig",
+      "url": "https://www.freiburger-nachrichten.ch/story/289131/kihype-bringt-80erlooks-zur%C3%BCck-doch-nicht-alle-finden-das-lustig",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Grenze überschritten»: Zuger SVP veröffentlicht Deepfake von Ursula von der Leyen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-svp-veroeffentlicht-deepfake-von-ursula-von-der-leyen-art-1721602",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was in WGs selbstverständlich ist – und Bundesbern schwerfällt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/wg-leben-als-schule-fuers-leben-was-bundesbern-lernen-kann-art-1721607",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Von zahm&nbsp;bis zugespitzt: So unterschiedlich treten die Zuger Parteien in den sozialen Medien auf",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/instagram-im-zuger-wahlkampf-so-unterschiedlich-treten-die-parteien-auf-art-1721601",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Plötzlich Sportchef: Ted Suihkonen steht nun unter besonderer Beobachtung",
+      "url": "https://www.bote.ch/nachrichten/sport/ev-zug-der-neue-sportchef-ted-suihkonen-steht-unter-beobachtung-art-1721599",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neuer Verein in Luzern berät Menschen mit Behinderungen zu Sexualität",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zentralschweiz-neuer-verein-schliesst-luecke-bei-sexualberatung-art-1721603",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kriens will bei der Fernwärme Luzern AG einsteigen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/stadt-kriens-soll-sich-an-fernwaerme-luzern-ag-beteiligen-art-1721605",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Junges Paar übernimmt Ebikoner&nbsp; Traditionsfirma Hermap AG",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/hermap-ag-in-ebikon-an-solothurner-familie-verkauft-art-1721597",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FDP will Nationalbank-Millionen als Steuerrabatt an Luzerner Bevölkerung weitergeben",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/fdp-will-snb-millionen-als-steuerrabatt-in-luzern-art-1721608",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FCL-Mittelfeldmann Leonardo Bertone: «Wir machten überall zu wenig»",
+      "url": "https://www.bote.ch/nachrichten/sport/fcl-mittelfeldmann-leonardo-bertone-wir-machten-ueberall-zu-wenig-art-1721609",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ethikprofessor über soziale Medien: «Es braucht Entzugsmassnahmen, wie bei Alkohol und Drogen»",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/ethikprofessor-ueber-soziale-medien-es-braucht-entzugsmassnahmen-art-1721598",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eigenheim-Traum ausgeträumt: Selbst bei Erbschaften von 200'000 Franken wird «die Luft rasch dünn»",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/immobilien-kauf-selbst-bei-200000-franken-erbschaft-wird-luft-rasch-duenn-art-1721600",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die seltsame Rechnung des Bauernverbands",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/mercosur-abkommen-die-seltsame-rechnung-des-bauernverbands-art-1721606",
+      "summary": "",
+      "published": "2026-09-14T03:02:08.445925+00:00"
     }
   ]
 }
