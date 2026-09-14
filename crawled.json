@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T22:31:44.805269+00:00",
+  "generated": "2026-09-14T23:01:59.304084+00:00",
   "date": "2026-09-15",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/300-traktoren-und-einachser-auf-ausfahrt-art-1721665",
       "summary": "",
       "published": "2026-09-14T22:31:44.805269+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "VTB Bank: USA sanktionieren russische Bank, um Druck auf Iran auszuüben",
+      "url": "https://www.watson.ch/wirtschaft/international/546755882-vtb-bank-usa-sanktionieren-russische-bank-um-druck-auf-iran-auszuueben",
+      "summary": "",
+      "published": "2026-09-14T23:01:59.304084+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Litauen: Nato-Kampfjets schiessen Drohne ab",
+      "url": "https://www.watson.ch/international/armee/734731665-litauen-nato-kampfjets-schiessen-drohne-ab",
+      "summary": "",
+      "published": "2026-09-14T23:01:59.304084+00:00"
     }
   ]
 }
