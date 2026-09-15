@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-15T22:32:05.506905+00:00",
+  "generated": "2026-09-15T23:02:02.464455+00:00",
   "date": "2026-09-16",
-  "count": 29,
+  "count": 33,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -205,6 +205,34 @@
       "url": "https://www.bote.ch/nachrichten/vereine/der-klosterbach-wird-geheut-art-1721871",
       "summary": "",
       "published": "2026-09-15T22:25:14.584218+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Russland Ukraine: Selenskyj lässt Eisenbahnen verstärken",
+      "url": "https://www.watson.ch/international/oev/393458559-krieg-russland-ukraine-selenskyj-laesst-eisenbahnen-verstaerken",
+      "summary": "",
+      "published": "2026-09-15T23:02:02.464455+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Israel Gaza: Hamas-Kommandeur Nayal Abu Obeid getötet",
+      "url": "https://www.watson.ch/international/armee/379898404-israel-gaza-hamas-kommandeur-nayal-abu-obeid-getoetet",
+      "summary": "",
+      "published": "2026-09-15T23:02:02.464455+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eigenkapital: FDP will UBS-Regulierung an den  Bundesrat zurückweisen",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/128369443-eigenkapital-fdp-will-ubs-regulierung-an-den-bundesrat-zurueckweisen",
+      "summary": "",
+      "published": "2026-09-15T23:02:02.464455+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Berufsbildung 2026: Wege, Chancen und Herausforderungen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/berufsbildung-2026-wege-chancen-und-herausforderungen-art-1721862",
+      "summary": "",
+      "published": "2026-09-15T23:02:02.464455+00:00"
     }
   ]
 }
