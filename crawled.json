@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-15T02:01:54.063576+00:00",
+  "generated": "2026-09-15T02:32:27.577992+00:00",
   "date": "2026-09-15",
-  "count": 43,
+  "count": 47,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -303,6 +303,34 @@
       "url": "https://www.watson.ch/international/schule-bildung/860781035-usa-gericht-stoppt-visa-verschaerfung-fuer-studenten-und-journalisten",
       "summary": "",
       "published": "2026-09-15T02:01:54.063576+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Ausbau von Strasse und Bahn – EFK übt scharfe Kritik an «Verkehr'45»",
+      "url": "https://www.srf.ch/news/schweiz/ausbau-von-strasse-und-bahn-efk-uebt-scharfe-kritik-an-verkehr-45",
+      "summary": "Die Eidgenössische Finanzkontrolle spricht von erheblichen Schwächen. Das Departement von Bundesrat Rösti widerspricht.",
+      "published": "2026-09-15T02:32:27.577992+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "US-Wahl 2028: Gavin Newsom lässt Kamala Harris den Vortritt",
+      "url": "https://www.tagesanzeiger.ch/newsom-keine-kandidatur-gegen-kamala-harris-2028-740357230155",
+      "summary": "Wen werden die US-Demokraten bei der Präsidentschaftswahl 2028 als Kandidaten präsentieren? Der Gouverneur von Kalifornien wird dafür immer wieder ins Spiel gebracht – nun äussert er sich dazu.",
+      "published": "2026-09-15T02:32:27.577992+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Modeunternehmen Broadway setzt auf Schaffhausen: Ladeneröffnung im Oktober",
+      "url": "https://www.shn.ch/region/stadt/2026-09-15/modeunternehmen-broadway-setzt-auf-schaffhausen-ladeneroeffnung-im-oktober",
+      "summary": "Das Glarner Modeunternehmen Broadway eröffnet Anfang Oktober eine neue Filiale in der Vorstadt. Während sich der Modehandel zunehmend ins Internet verlagert, setzt Broadway weiterhin auf das klassisch",
+      "published": "2026-09-15T02:32:27.577992+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Was arbeitet die Gemeinde Neuhausen – und was kommt dabei heraus?",
+      "url": "https://www.shn.ch/region/neuhausen/2026-09-15/was-arbeitet-die-gemeinde-neuhausen-und-was-kommt-dabei-heraus",
+      "summary": "FDP-Einwohnerrat Peter Fischli wollte wissen, wie aussagekräftig die Neuhauser Geschäftsberichte tatsächlich sind. Nun gibt der Gemeinderat Antwort.",
+      "published": "2026-09-15T02:32:27.577992+00:00"
     }
   ]
 }
