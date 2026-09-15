@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-15T23:02:02.464455+00:00",
+  "generated": "2026-09-15T23:31:59.039696+00:00",
   "date": "2026-09-16",
-  "count": 33,
+  "count": 35,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -233,6 +233,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/berufsbildung-2026-wege-chancen-und-herausforderungen-art-1721862",
       "summary": "",
       "published": "2026-09-15T23:02:02.464455+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Studie zeigt: Erstmals seit fünf Jahren sinken in der Schweiz die Mieten",
+      "url": "https://www.watson.ch/schweiz/immobilien/474372571-studie-zeigt-erstmals-seit-fuenf-jahren-sinken-in-der-schweiz-die-mieten",
+      "summary": "",
+      "published": "2026-09-15T23:31:59.039696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Iran: USA wehren Angriff in Strasse von Hormus ab",
+      "url": "https://www.watson.ch/international/armee/924694507-krieg-iran-usa-wehren-angriff-in-strasse-von-hormus-ab",
+      "summary": "",
+      "published": "2026-09-15T23:31:59.039696+00:00"
     }
   ]
 }
