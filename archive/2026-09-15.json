@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-15T00:32:00.810048+00:00",
+  "generated": "2026-09-15T01:02:18.382338+00:00",
   "date": "2026-09-15",
-  "count": 38,
+  "count": 39,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -268,6 +268,13 @@
       "url": "https://www.watson.ch/international/julian-assange/712807034-donald-trump-midterms-supreme-court-stoppt-briefwahl-einschraenkungen",
       "summary": "",
       "published": "2026-09-15T00:32:00.810048+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Jeder wird gewinnen»: Trump und Jensen Huang machen gegen die KI-Skeptiker Front",
+      "url": "https://www.nzz.ch/technologie/jeder-wird-gewinnen-trump-und-jensen-huang-machen-gegen-die-ki-skeptiker-front-ld.10023787",
+      "summary": "",
+      "published": "2026-09-15T01:02:18.382338+00:00"
     }
   ]
 }
