@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T01:01:44.768387+00:00",
+  "generated": "2026-09-16T01:32:08.412988+00:00",
   "date": "2026-09-16",
-  "count": 47,
+  "count": 49,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -331,6 +331,20 @@
       "url": "https://www.watson.ch/wirtschaft/international/992552604-saudi-arabien-pipeline-chris-wright-usa-ist-zuversichtlich",
       "summary": "",
       "published": "2026-09-16T01:01:44.768387+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Heathrow-Ausbau gefährdet Klimaziele",
+      "url": "https://www.zentralplus.ch/news/heathrow-ausbau-gefaehrdet-klimaziele-2898659/",
+      "summary": "Der Flughafen London-Heathrow soll ausgebaut werden. Doch laut einem Bericht des britischen Komitees für Klimawandel ist der geplante Ausbau nicht mit den Klimazielen des Landes vereinbar. Die britisc",
+      "published": "2026-09-16T01:32:08.412988+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Taliban Afghanistan: Frauenrechte sind massiv eingeschränkt",
+      "url": "https://www.watson.ch/international/kinder/590331976-taliban-afghanistan-frauenrechte-sind-massiv-eingeschraenkt",
+      "summary": "",
+      "published": "2026-09-16T01:32:08.412988+00:00"
     }
   ]
 }
