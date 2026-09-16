@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T21:01:53.721767+00:00",
+  "generated": "2026-09-16T21:32:03.548573+00:00",
   "date": "2026-09-16",
-  "count": 1019,
+  "count": 1023,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -7135,6 +7135,34 @@
       "url": "https://www.watson.ch/international/naher-osten/229321916-40-luftangriffe-innert-24-stunden-weitere-gefechte-im-jemen",
       "summary": "",
       "published": "2026-09-16T21:01:53.721767+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Rüfenniedergang_am_ofenpass",
+      "url": "https://www.suedostschweiz.ch/graubuenden/ruefenniedergang_am_ofenpass-2163880",
+      "summary": "",
+      "published": "2026-09-16T21:32:03.548573+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Europa League: Xhaka siegt mit Sunderland, Freuler bereitet Siegtor vor",
+      "url": "https://www.watson.ch/sport/europa-league/962516886-europa-league-xhaka-siegt-mit-sunderland-freuler-bereitet-siegtor-vor",
+      "summary": "",
+      "published": "2026-09-16T21:32:03.548573+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Aurele Amenda verletzt ausgewechselt",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-aurele-amenda-verletzt-ausgewechselt",
+      "summary": "",
+      "published": "2026-09-16T21:32:03.548573+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Nicht unsere Initiative»: Die SVP emanzipiert sich von Blocher",
+      "url": "https://www.freiburger-nachrichten.ch/story/290510/nicht-unsere-initiative-die-svp-emanzipiert-sich-von-blocher",
+      "summary": "",
+      "published": "2026-09-16T21:32:03.548573+00:00"
     }
   ]
 }
