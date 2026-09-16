@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T01:32:08.412988+00:00",
+  "generated": "2026-09-16T02:02:22.860162+00:00",
   "date": "2026-09-16",
-  "count": 49,
+  "count": 52,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -345,6 +345,27 @@
       "url": "https://www.watson.ch/international/kinder/590331976-taliban-afghanistan-frauenrechte-sind-massiv-eingeschraenkt",
       "summary": "",
       "published": "2026-09-16T01:32:08.412988+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Saudi-Arabien wehrt Huthi-Drohne bei Mekka ab",
+      "url": "https://www.watson.ch/international/armee/969773238-saudi-arabien-wehrt-huthi-drohne-bei-mekka-ab",
+      "summary": "",
+      "published": "2026-09-16T02:02:22.860162+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der Traumberuf, der keiner war",
+      "url": "https://www.bote.ch/nachrichten/sponsored/der-traumberuf-der-keiner-war-art-1713801",
+      "summary": "",
+      "published": "2026-09-16T02:02:22.860162+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Ein Jahr voller Begegnungen und ein grosses Merci</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/bein-jahr-voller-begegnungen-und-ein-grosses-mercib-art-1721678",
+      "summary": "",
+      "published": "2026-09-16T02:02:22.860162+00:00"
     }
   ]
 }
