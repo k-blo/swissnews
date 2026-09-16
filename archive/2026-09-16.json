@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T04:32:01.829391+00:00",
+  "generated": "2026-09-16T05:02:06.176837+00:00",
   "date": "2026-09-16",
-  "count": 220,
+  "count": 227,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1542,6 +1542,55 @@
       "url": "https://www.freiburger-nachrichten.ch/story/290283/m%C3%BCssen-wir-den-fanklub-jetzt-aufl%C3%B6sen",
       "summary": "",
       "published": "2026-09-16T04:32:01.829391+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Los Angeles: Newshelikopter stürzt bei Einsatz zu Busunfall ab – mindestens drei Tote",
+      "url": "https://www.tagesanzeiger.ch/helikopter-absturz-in-los-angeles-drei-tote-541718538491",
+      "summary": "Die Crew des Nachrichtenhelikopters berichtet über einen schweren Busunfall, als sie plötzlich selbst in Not gerät.",
+      "published": "2026-09-16T05:02:06.176837+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Entwicklung der Atmosphäre: Das Ozonloch schrumpft weiter – doch die UV-Strahlung über Europa nimmt zu",
+      "url": "https://www.tagesanzeiger.ch/ozonloch-ueber-antarktis-2025-so-klein-wie-selten-seit-1990-607298614570",
+      "summary": "Für die Weltwetterorganisation ist die Entwicklung der Ozonschicht eine «Erfolgsgeschichte im Umweltschutz». In Europa werden die Sonnenstrahlen dennoch immer mehr zum Problem.",
+      "published": "2026-09-16T05:02:06.176837+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kunst mit Kuno Lauener: Die Sterne von Züri West leuchten bald in Bethlehem",
+      "url": "https://www.bernerzeitung.ch/zueri-west-sterne-skulpturen-im-holenacker-bern-438468358342",
+      "summary": "Inspiriert von Züri-West-Songs, verwandelt ein Kunstprojekt ein Hochhaus im Holenacker in einen Erlebnisort – unter anderem mit einer goldenen Teppichstange.",
+      "published": "2026-09-16T05:02:06.176837+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Schimmel Trotz Lüften Diese Fehler Können das Problem Verschärfen",
+      "url": "https://www.suedostschweiz.ch/panorama/schimmel-trotz-lueften-diese-fehler-koennen-das-problem-verschaerfen-2161447",
+      "summary": "",
+      "published": "2026-09-16T05:02:06.176837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Südkorea erlaubt erstmals Medikamente zum Schwangerschaftsabbruch",
+      "url": "https://www.watson.ch/international/leben/453556044-suedkorea-erlaubt-erstmals-medikamente-zum-schwangerschaftsabbruch",
+      "summary": "",
+      "published": "2026-09-16T05:02:06.176837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Real Madrid schlägt Elche ganz knapp",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-real-madrid-schlaegt-elche-ganz-knapp",
+      "summary": "",
+      "published": "2026-09-16T05:02:06.176837+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Züri West erhält ein Denkmal – und einen neuen Ort",
+      "url": "https://www.bote.ch/nachrichten/kultur/zueri-west-erhaelt-ein-denkmal-und-einen-neuen-ort-art-1722022",
+      "summary": "",
+      "published": "2026-09-16T05:02:06.176837+00:00"
     }
   ]
 }
