@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T02:02:22.860162+00:00",
+  "generated": "2026-09-16T02:32:00.329655+00:00",
   "date": "2026-09-16",
-  "count": 52,
+  "count": 56,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -366,6 +366,34 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/bein-jahr-voller-begegnungen-und-ein-grosses-mercib-art-1721678",
       "summary": "",
       "published": "2026-09-16T02:02:22.860162+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kesswiler Schiffergesellschaft Hält an Hafenplänen Fest",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/kesswiler-schiffergesellschaft-haelt-an-hafenplaenen-fest-ld.4233206",
+      "summary": "",
+      "published": "2026-09-16T02:32:00.329655+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Iran: Abbas Araghchi macht sich über USA lustig",
+      "url": "https://www.watson.ch/international/anonymous/559221174-iran-abbas-araghchi-macht-sich-ueber-usa-lustig",
+      "summary": "",
+      "published": "2026-09-16T02:32:00.329655+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Merz sagt Reise zur UN-Generaldebatte nach New York ab",
+      "url": "https://www.freiburger-nachrichten.ch/story/290270/merz-sagt-reise-zur-ungeneraldebatte-nach-new-york-ab",
+      "summary": "",
+      "published": "2026-09-16T02:32:00.329655+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Vinzenz Rohrer und seine famose Premiere – Neuzugang glänzt mit drei Skorerpunkten",
+      "url": "https://www.freiburger-nachrichten.ch/story/290268/vinzenz-rohrer-und-seine-famose-premiere-neuzugang-gl%C3%A4nzt-mit-drei-skorerpunkten",
+      "summary": "",
+      "published": "2026-09-16T02:32:00.329655+00:00"
     }
   ]
 }
