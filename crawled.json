@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T14:02:43.248262+00:00",
+  "generated": "2026-09-16T14:32:11.508016+00:00",
   "date": "2026-09-16",
-  "count": 705,
+  "count": 741,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -4937,6 +4937,258 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/kanton-zug-will-mehr-wohnraum-mit-einfacheren-regeln-schaffen-art-1722098",
       "summary": "",
       "published": "2026-09-16T14:02:43.248262+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Zwei Köpfe, zwei Meinungen – So steht es um die Gleichstellung von Menschen mit Behinderung",
+      "url": "https://www.srf.ch/news/schweiz/zwei-koepfe-zwei-meinungen-so-steht-es-um-die-gleichstellung-von-menschen-mit-behinderung",
+      "summary": "Die Nationalrätinnen Katja Stettler-Riem und Florence Brenzikofer kreuzen die Klingen.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Leukerbad VS – Absturz eines Kleinflugzeuges fordert drei Todesopfer",
+      "url": "https://www.srf.ch/news/schweiz/leukerbad-vs-absturz-eines-kleinflugzeuges-fordert-drei-todesopfer",
+      "summary": "Aus bislang ungeklärten Gründen ist das Kleinflugzeug mit dem nördlichen Hang im Gebiet Fluhalp kollidiert.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Rücktritt Anfang 2027 – Seco-Direktorin Helene Budliger kündigt Rücktritt an",
+      "url": "https://www.srf.ch/news/schweiz/ruecktritt-anfang-2027-seco-direktorin-helene-budliger-kuendigt-ruecktritt-an",
+      "summary": "Staatssekretärin Helene Budliger Artieda tritt Ende März 2027 zurück. Eine Findungskommission plant ihre Nachfolge.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Maschine krachte in Hang: Drei Tote bei Flugzeugabsturz in Leukerbad VS",
+      "url": "https://www.blick.ch/schweiz/jede-hilfe-kam-zu-spaet-drei-tote-bei-flugzeugabsturz-in-leukerbad-vs-id22259874.html",
+      "summary": "Am Dienstag stürzte ein Kleinflugzeug in der Region Fluhalp bei Leukerbad ab. Dabei kamen drei Personen ums Leben.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "EU will Kanada unbedingt stark an sich binden – der Plan steht",
+      "url": "https://www.20min.ch/story/vorschlag-aus-bruessel-eu-will-kanada-unbedingt-stark-an-sich-binden-der-plan-steht-103634164",
+      "summary": "EU-Kommissionspräsidentin Ursula von der Leyen bringt eine «assoziierte» EU-Mitgliedschaft Kanadas ins Spiel. Mit Premier Mark Carney will sie die Beziehungen auf ein neues Niveau heben.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich liebte ihn»: Escort Greg von Witwe auf 6 Millionen verklagt",
+      "url": "https://www.20min.ch/story/roblox-witwe-verklagt-escort-streit-um-sechs-millionen-dollar-103634311",
+      "summary": "Nach dem Tod ihres Mannes engagierte Mary Anne Flippo einen Escort. Um ihn aus Liebe aus dem angeblichen Agenturvertrag zu lösen, überwies sie ihm fast 6 Millionen Dollar. Nun wirft sie ihm Betrug vor",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nächster «Hunger Games»-Film: Hier ist der neue Trailer",
+      "url": "https://www.20min.ch/story/hunger-games-sunrise-on-the-reaping-neuer-trailer-zum-panem-prequel-103634354",
+      "summary": "Der neue «Hunger Games»-Film kommt am 19. November 2026 in die Schweizer Kinos. Im Mittelpunkt steht Haymitch Abernathy bei den 50. Hungerspielen.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall an der Zollstrasse: Zwei Bauarbeiter stürzen auf Baustelle beim Hauptbahnhof in die Tiefe",
+      "url": "https://www.tagesanzeiger.ch/baustellenunfall-zuerich-zwei-arbeiter-stuerzen-in-tiefe-252881046069",
+      "summary": "In Zürich hat sich am Mittwoch ein schwerer Baustellenunfall ereignet. Ein Grosseinsatz läuft, der Zustand der Betroffenen ist noch unklar.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rekord in den Alpen: 9-Jähriger besteigt Mont Blanc und reklamiert Rekord für sich",
+      "url": "https://www.tagesanzeiger.ch/mont-blanc-9-jaehriger-italiener-besteigt-alpen-gipfel-461706623162",
+      "summary": "Vater und Sohn besteigen Mont-Blanc. Aber ist das auch gesund? Der Wissenschaft fehlt eine solide Datengrundlage.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schlüsselbein- und Halswirbelbruch: Pogacar zeigt seine Narben – und steigt bereits wieder auf sein Rennrad",
+      "url": "https://www.tagesanzeiger.ch/pogacar-nach-sturz-ich-bin-supergluecklich-283488699007",
+      "summary": "Tadej Pogacar stürzte bei der Vuelta schwer. Nun befindet sich der Slowene bereits auf dem Weg der Besserung, das zeigt er in einem Video.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vom Rückzug zum Comeback: Warum Raphael Golta wieder auf die alten Züri-Fäscht-Macher setzt",
+      "url": "https://www.tagesanzeiger.ch/zueri-faescht-warum-der-stadtrat-dem-verein-den-zuschlag-erteilt-575242485516",
+      "summary": "Vor drei Jahren kündigte der Verein Zürcher Volksfeste der Stadt die Zusammenarbeit auf. Nun holt der Stadtrat ihn fürs neue Stadtfest zurück. Die direkte Vergabe sorgt für Kritik.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hitze in der Stadt Zürich: Zürich will die Zahl seiner Strassenbäume bis 2050 verdoppeln",
+      "url": "https://www.tagesanzeiger.ch/zuerich-verdoppelt-baumkronenflaeche-bis-2050-821131905996",
+      "summary": "Ein neues Strassenbaumkonzept soll die Baumkronenfläche auf öffentlichen Strassen von 12,5 auf 25 Prozent steigern. Besonders hitzebelastete Quartiere wie Aussersihl und Oerlikon stehen im Fokus.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Berner Luxusanwesen: Weinkeller, Sauna, Innenpool: Jetzt steht die frühere Villa von Bruno Marazzi «günstig» zum Verkauf",
+      "url": "https://www.bernerzeitung.ch/marazzi-villa-bern-preis-halbiert-auf-7-millionen-franken-767152778206",
+      "summary": "Das ehemalige Zuhause des Berner Bauunternehmers steht neu für 7 Millionen Franken zum Verkauf. Der Makler hat gewechselt, der Preis halbiert sich. Dies auch, weil das zum Verkauf stehende Grundstück ",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Berner Ausgehtipps (17.9. bis 23.9.): Die fleissigste Frau im Showbusiness, Angélique Kidjo, zu Gast in Bern",
+      "url": "https://www.bernerzeitung.ch/bern-kidjo-simon-duvanel-kulturtipps-der-woche-450592864390",
+      "summary": "Und sonst? Theater im Gewächshaus, schöne Rückenansichten, Yasmine Hamdan und Odd Beholder mit neuen Alben und Christoph Simon mit neuem Krimi.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kita per sofort geschlossen: Betreuerin ist mit 15 Kindern auf dem Spielplatz – dann erfährt sie, dass sie seit letzter Woche arbeitslos ist",
+      "url": "https://www.bernerzeitung.ch/kita-moris-liestal-konkurs-trifft-betreuer-unvorbereitet-459039788877",
+      "summary": "Eltern mussten ihre Kinder ungeplant aus der Kita Moris abholen und haben nun keinen Betreuungs­platz mehr. Zwei Kita-Angestellte berichten von chaotischen Stunden.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Dieser Car setzte den Luzerner Verkehr ausser Betrieb",
+      "url": "https://www.zentralplus.ch/news/dieser-car-setzte-den-luzerner-verkehr-ausser-betrieb-2898837/",
+      "summary": "Kurz nach dem Reussporttunnel ist es am Dienstagnachmittag zu einer Auffahrkollision gekommen. Dabei hat ein Car alle drei Streifen der Autobahn blockiert – und für mächtig Stau gesorgt. Über eine Stu",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schweiz fällt bei Gleichstellung zurück",
+      "url": "https://www.zentralplus.ch/news/schweiz-faellt-bei-gleichstellung-zurueck-2898840/",
+      "summary": "Die Schweiz hat bei der Gleichstellung der Geschlechter Rückschritte gemacht, wie der «Gender Gap Report» des Weltwirtschaftsforums WEF zeigt. In diesem Jahr ist die Schweiz im weltweiten Vergleich au",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Für Blochers Neutralitätsinitiative zeichnet sich ein deutlicher Absturz ab",
+      "url": "https://www.nzz.ch/schweiz/fuer-blochers-neutralitaetsinitiative-zeichnet-sich-ein-deutlicher-absturz-ab-ld.10023991",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Mühlentalstrasse in Schaffhausen am Wochenende gesperrt",
+      "url": "https://www.shn.ch/region/stadt/2026-09-16/muehlentalstrasse-in-schaffhausen-am-wochenende-gesperrt",
+      "summary": "Wegen Belagsarbeiten wird die Mühlentalstrasse von Samstagmorgen bis Montagfrüh für den Verkehr gesperrt. Auch die Buslinie 23 wird umgeleitet.",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Nächste Sendetermine Wann Läuft eine Neue Folge",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/naechste-sendetermine-wann-laeuft-eine-neue-folge-2163411",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ea Fc 27 Event Kalender Zeigt Wann Toty Future Stars und Neue Promos Kommen",
+      "url": "https://www.suedostschweiz.ch/panorama/ea-fc-27-event-kalender-zeigt-wann-toty-future-stars-und-neue-promos-kommen-2163522",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hübeli Schulhaus in Emmenbrücke Wird Eröffnet",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/huebeli-schulhaus-in-emmenbruecke-wird-eroeffnet-ld.4235172",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Silvio Blatter Ki Sein Buch für die Vögel er Liest an Literaturtagen Brugg",
+      "url": "https://www.aargauerzeitung.ch/kultur/aargau/silvio-blatter-ki-sein-buch-fuer-die-voegel-er-liest-an-literaturtagen-brugg-ld.4233356",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Sirnacher Fasnacht Oktopus aus Frauenfeld Erhält Letztes Ende",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/sirnacher-fasnacht-oktopus-aus-frauenfeld-erhaelt-letztes-ende-ld.4233614",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Seilpark Balmberg Öffnet nach Sturmschäden Wieder",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/seilpark-balmberg-oeffnet-nach-sturmschaeden-wieder-ld.4235069",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Unfall Zollikerberg Rega Fliegt Töfffahrer mit Schweren Verletzungen Ins Spital",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/unfall-zollikerberg-rega-fliegt-toefffahrer-mit-schweren-verletzungen-ins-spital-ld.4235497",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jeff Skinner brilliert bei Biel und schreibt eine verrückte Geschichte",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/785673518-jeff-skinner-brilliert-bei-biel-und-schreibt-eine-verrueckte-geschichte",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UBS-Regulierung: Über diese Vorschläge debattiert der Ständerat",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/207319454-ubs-regulierung-ueber-diese-vorschlaege-debattiert-der-staenderat",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bernie Sanders und Steve Bannon zu den Gefahren von KI",
+      "url": "https://www.watson.ch/international/videos/233282542-bernie-sanders-und-steve-bannon-zu-den-gefahren-von-ki",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Was dich in der Halloweensaison im Europa-Park 2026 erwartet",
+      "url": "https://www.watson.ch/leben/deutschland/649230533-was-dich-in-der-halloweensaison-im-europa-park-2026-erwartet",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wegen Asylplan: Dorf will nicht mehr britisch sein",
+      "url": "https://www.watson.ch/international/grossbritannien/539959452-wegen-asylplan-dorf-will-nicht-mehr-britisch-sein",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Auch Freiburger Schweine von Lungenkrankheit betroffen",
+      "url": "https://www.freiburger-nachrichten.ch/story/290441/auch-freiburger-schweine-von-lungenkrankheit-betroffen",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trump wollte Kanada zum 51. Bundesstaat machen&nbsp;– jetzt könnte es zum 28. EU-Staat werden",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/trump-machts-moeglich-eu-will-kanada-als-halb-mitglied-art-1722108",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Turnhalle, Schulräume und «Chendi» – das Hübeli zeigt sich der Bevölkerung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/huebeli-schulhaus-in-emmenbruecke-wird-eroeffnet-art-1722105",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "US-Cybersicherheitsspezialist startet durch: +&nbsp;187,7&nbsp;% in fünf Jahren",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/boersen-blog-money-fortinet-mit-1877-in-5-jahren-art-1722103",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Staatssekretärin Budliger hat gekündigt&nbsp;– flieht sie vor einem verheerenden Bericht?",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/seco-chefin-helene-budliger-artieda-tritt-per-maerz-2027-zurueck-art-1722066",
+      "summary": "",
+      "published": "2026-09-16T14:32:11.508016+00:00"
     }
   ]
 }
