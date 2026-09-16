@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T23:02:08.384829+00:00",
+  "generated": "2026-09-16T23:31:53.995631+00:00",
   "date": "2026-09-17",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/100-tage-alpzeit-trotz-grosser-trockenheit-art-1722072",
       "summary": "",
       "published": "2026-09-16T22:32:23.659909+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Starker Rauch bei Brand in Entsorgungsfirma – Alertswiss warnt",
+      "url": "https://www.20min.ch/story/allschwil-bl-starker-rauch-bei-brand-in-entsorgungsfirma-alertswiss-warnt-103634633",
+      "summary": "In Allschwil BL ist am Mittwochabend ein Müllhaufen mit Haushaltsabfällen in Brand geraten. Es kam zu starker Rauchentwicklung. Verletzt wurde niemand.",
+      "published": "2026-09-16T23:31:53.995631+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Ukraine Russland: US-Kongress beschliesst Gesetz für Sanktionen",
+      "url": "https://www.watson.ch/international/energie/736199898-krieg-ukraine-russland-us-kongress-beschliesst-gesetz-fuer-sanktionen",
+      "summary": "",
+      "published": "2026-09-16T23:31:53.995631+00:00"
     }
   ]
 }
