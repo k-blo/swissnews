@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T03:31:57.611615+00:00",
+  "generated": "2026-09-17T04:02:39.690519+00:00",
   "date": "2026-09-17",
-  "count": 163,
+  "count": 196,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1143,6 +1143,237 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/gemeinde-verkauft-das-elektrizitaetswerk-fuer-rund-28-millionen-franken-ans-ebs-art-1722067",
       "summary": "",
       "published": "2026-09-17T03:31:57.611615+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Offset-Geschäft zum Kampfjet – Warum der F-35 der ETH einen Quantencomputer beschert",
+      "url": "https://www.srf.ch/news/schweiz/offset-geschaeft-zum-kampfjet-warum-der-f-35-der-eth-einen-quantencomputer-beschert",
+      "summary": "Der F-35-Kauf geht weit über Kampfjets hinaus. Nun verhilft die Beschaffung der ETH zu einem Quantencomputer von IBM.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Klimawandel in den Alpen – Für Bergführer wird die Anpassung zur Pflicht",
+      "url": "https://www.srf.ch/news/schweiz/klimawandel-in-den-alpen-fuer-bergfuehrer-wird-die-anpassung-zur-pflicht",
+      "summary": "Die Alpen verändern sich wegen des Klimawandels rasant. Bergführer müssen daher weit mehr können als nur klettern.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Messerattacke in Zürich – Prozess nach Angriff auf Kindergartenkinder beginnt",
+      "url": "https://www.srf.ch/news/schweiz/messerattacke-in-zuerich-prozess-nach-angriff-auf-kindergartenkinder-beginnt",
+      "summary": "Im Oktober 2024 attackierte ein 23-jähriger Mann drei Kindergartenkinder mit einem Messer. Nun steht er vor Gericht.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fragebogen mit Giulia Steingruber: «Plötzlich stand ich vor dem Nichts»",
+      "url": "https://www.tagesanzeiger.ch/giulia-steingruber-ich-stand-ploetzlich-vor-dem-nichts-562568078168",
+      "summary": "Im etwas anderen Interview sagt die Schweizer Ausnahmeturnerin, dass sie früher gern zierlicher gewesen wäre. Sie spricht über den Tod ihrer Schwester – und einen sonderbaren Wunsch eines Fans.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wortsuche Lösungshilfe: Wortsuche vom Donnerstag, 17. September 2026: Mit diesen Tipps knacken Sie das Rätsel",
+      "url": "https://www.tagesanzeiger.ch/wortsuche-tipps-zum-raetsel-vom-17-september-2026-109285663046",
+      "summary": "Stecken Sie beim heutigen Rätsel fest? Keine Sorge! Mit unseren drei Hinweisen kommen Sie der Lösung Schritt für Schritt näher. Die Auflösung gibt es in der Infobox.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sweet Home: 6 gemütliche Rezepte, in denen noch ein wenig Sommer steckt",
+      "url": "https://www.tagesanzeiger.ch/stifado-gemueselasagne-oder-zwetschgenkuchen-herbstrezepte-zum-schmoren-backen-und-geniessen-256748312996",
+      "summary": "Ein griechisches Schmorgericht mit Rindfleisch, eine Gemüselasagne oder Hackfleisch mit Auberginen: Köstlichkeiten wie diese machen Lust, langsamer und deftiger zu kochen – und sich dazu ein Glas Rotw",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tiny-Wohnung zum Selbstausbau: 41 Quadratmeter für 656 Franken: «Endlich hat jemand verstanden, wie man gescheit Häuser baut»",
+      "url": "https://www.tagesanzeiger.ch/homebase-pratteln-dieses-paar-ist-von-der-wohnung-begeistert-361763822437",
+      "summary": "Brigitte und Hanspeter Mösch tauschen ihr Paradies am Luganersee gegen einen Rohbau in Pratteln – ohne Innenwände, ohne Heizung. Setzt sich das Modell auch anderswo durch?",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Messerattacke in Zürich Oerlikon: Er plante den Angriff auf die Hortkinder wochenlang – nun drohen ihm 15 Jahre Gefängnis",
+      "url": "https://www.tagesanzeiger.ch/messerangriff-auf-hortkinder-in-zuerich-oerlikon-prozess-beginnt-688953727571",
+      "summary": "Ab Donnerstag steht ein chinesischer Student vor Gericht, der im Oktober 2024 beim Berninaplatz auf drei Kindergärtler einstach. Die Tat plante er mithilfe von Chat-GPT. Die zentrale Frage: War er sch",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Architektur am Zürichsee: «Awesome» oder «Einfallslos»? Dieses Hochhaus in Horgen spaltet die Geister",
+      "url": "https://www.tagesanzeiger.ch/hochaus-horgen-der-neue-wohnturm-spaltet-die-geister-779088809828",
+      "summary": "Am Bahnhof Oberdorf wuchs ein Wohnturm in den Himmel – als Reminiszenz an das alte Getreidesilo. Vor Ort markant, im Netz heftig umstritten.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verkehr in Bülach: An diesen Stellen ist es mit dem Velo gefährlich",
+      "url": "https://www.tagesanzeiger.ch/buelach-an-diesen-stellen-ist-es-mit-dem-velo-gefaehrlich-848954298714",
+      "summary": "Die neu gegründete Gruppe Pro Velo Bülach will sich für mehr Sicherheit einsetzen. Sie hat analysiert, wo es für Radfahrende prekär ist.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Reform der Regierung: 7 statt 5: Braucht die Stadt Bern zwei zusätzliche Gemeinderatssitze?",
+      "url": "https://www.bernerzeitung.ch/berner-gemeinderat-zeitplan-fuer-7-sitze-wackelt-872612785335",
+      "summary": "Die Idee einer grösseren Stadtregierung hat im Parlament an Unterstützung verloren. Der ambitionierte Zeitplan gerät ins Wanken.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Steffisburg rettet Wildbienen: Gemeinde weist fünf von sechs gefährdeten Wild­bienen­arten nach",
+      "url": "https://www.bernerzeitung.ch/steffisburg-fuenf-gefaehrdete-wildbienenarten-nachgewiesen-893669384830",
+      "summary": "Weil ihr natürlicher Lebens­raum immer mehr zurück­gedrängt wird, brauchen Wild­bienen Hilfe. Steffis­burg kann nun erste Erfolge vermelden. Und neue Ideen.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Leidenschaft für die Eisenbahn: Lieblingszug? Autozug!",
+      "url": "https://www.bernerzeitung.ch/lokfuehrer-in-spiez-kindheitstraum-auf-der-schiene-166115819823",
+      "summary": "Vom Güter- bis zum Regionalzug: Am Standort Spiez gehören beide Einsatzbereiche zum Alltag des Lokführers Martin Jost. Zwei Schüler aus Spiez wollten mehr wissen.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Mieter bauen ihre Wohnung selbst aus: Sie ziehen von ihrem Paradies im Tessin nach Pratteln – und sind begeistert",
+      "url": "https://www.bazonline.ch/homebase-pratteln-dieses-paar-ist-von-der-wohnung-begeistert-361763822437",
+      "summary": "Hanspeter und Brigitte Mösch tauschen den Luganersee gegen eine neue Wohnform am Bahnhof Pratteln. Sie zahlen nur 650 Franken Miete, müssen aber 40’000 Franken Eigenkapital einschiessen.",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die Schweiz braucht mehr Föderalismus – und nicht weniger",
+      "url": "https://www.nzz.ch/meinung/die-schweiz-braucht-mehr-foederalismus-und-nicht-weniger-ld.10023700",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Crackkonsumenten werden kontrolliert, weggewiesen und kommen wieder: Zürich kriegt sein Drogenproblem nicht in den Griff",
+      "url": "https://www.nzz.ch/zuerich/die-crackkonsumenten-werden-kontrolliert-weggewiesen-und-kommen-wieder-zuerich-kriegt-sein-drogenproblem-nicht-in-den-griff-ld.10022844",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Viel Bewegung bei Swiss Ice Hockey: Der Schiedsrichterchef tritt ab, es gibt eine neue Verwaltungsrätin – und ein alter Bekannter eilt zu Hilfe",
+      "url": "https://www.nzz.ch/sport/eishockey/viel-bewegung-bei-swiss-ice-hockey-der-schiedsrichterchef-tritt-ab-es-gibt-eine-neue-verwaltungsraetin-und-ein-alter-bekannter-eilt-zu-hilfe-ld.10024168",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Erstmals leben über 100 000 Hundertjährige in Japan",
+      "url": "https://www.nzz.ch/panorama/erstmals-leben-ueber-100-000-hundertjaehrige-in-japan-ld.10024067",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Seine Gefährte waren mobile Kunstwerke: Der letzte Kutschenbauer der britischen Krone ist tot",
+      "url": "https://www.nzz.ch/panorama/seine-werke-waren-mobile-kunstwerke-der-letzte-kutschenbauer-der-britischen-krone-ist-tot-ld.10023965",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Erster Showdown in der UBS-Kapitalfrage: Warum AT1-Anleihen den Kompromissvorschlag des Ständerats torpedieren könnten",
+      "url": "https://www.nzz.ch/wirtschaft/erster-showdown-in-der-ubs-kapitalfrage-warum-at1-anleihen-den-kompromissvorschlag-des-staenderats-torpedieren-koennten-ld.10023861",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Über eine Million Franken fehlen: Den Schwimm-EM 2027 in Basel droht das Aus",
+      "url": "https://www.nzz.ch/sport/weitere-sportarten/keine-sponsoren-der-schwimm-em-2027-in-basel-droht-das-aus-ld.10023847",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trams in Tarnfarben, diverse Terroristen, Geheimagenten: Deutschland macht Werbung für den Ernstfall",
+      "url": "https://www.nzz.ch/feuilleton/trams-in-tarnfarben-diverse-terroristen-geheimagenten-deutschland-macht-werbung-fuer-den-ernstfall-ld.10023838",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Der Einbruch bei den Novartis-Titeln zeigt: Medikamente sind auch ein Hochrisikogeschäft",
+      "url": "https://www.nzz.ch/meinung/der-einbruch-bei-den-novartis-titeln-zeigt-medikamente-sind-auch-ein-hochrisikogeschaeft-ld.10023824",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Deutschland bekommt den ersten F-35 – aber selbst der beste Kampfjet entscheidet nicht den Luftkrieg der Zukunft",
+      "url": "https://www.nzz.ch/pro/deutschland-bekommt-den-ersten-f-35-aber-selbst-der-beste-kampfjet-entscheidet-nicht-den-luftkrieg-der-zukunft-ld.10023781",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der oberste Banker der Schweiz will wieder schweigen",
+      "url": "https://www.nzz.ch/wirtschaft/der-oberste-banker-der-schweiz-will-wieder-schweigen-ld.10023757",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Österreichs Integrationsministerin zum Kopftuch: «Ich finde es zutiefst abstossend, wenn alte Männer Mädchen markieren wollen, sobald sie geschlechtsreif sind»",
+      "url": "https://www.nzz.ch/international/integrationsministerin-bauer-ueber-oesterreichs-kopftuchverbot-und-islamismus-ld.10023690",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Untergangspropheten, Skeptiker und Utopisten: Diese drei Lager streiten um die KI-Zukunft",
+      "url": "https://www.nzz.ch/technologie/untergangspropheten-skeptiker-und-utopisten-diese-drei-lager-streiten-um-die-ki-zukunft-ld.10023675",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Free Solo lehrt mich, wie man lebt», sagt die Kletterin Aleksandra Taistra. Ohne Seil erklimmt sie 200 Meter hohe Felsen",
+      "url": "https://www.nzz.ch/sport/alpinismus/frauen-und-free-solo-aleksandra-taistra-klettert-200-meter-wand-ohne-seil-ld.10023204",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Schauspielhaus Zürich in der NS-Zeit: Die Abgründe des vielgelobten Emigrantentheaters",
+      "url": "https://www.nzz.ch/feuilleton/das-schauspielhaus-zuerich-in-der-ns-zeit-die-abgruende-des-vielgelobten-emigrantentheaters-ld.10023198",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Hüpfburg, Honig und Maschinengewehr: ein Tag am Hizbullah-Volksfest",
+      "url": "https://www.nzz.ch/international/libanon-ein-tag-auf-dem-hizbullah-volksfest-ld.10022415",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Fast eine Milliarde Dollar Eingespielt Dieses Fantasy Epos Läuft Heute im Free Tv",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/fast-eine-milliarde-dollar-eingespielt-dieses-fantasy-epos-laeuft-heute-im-free-tv-2163565",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Baden Ex Politiker Mark Füllemann Hinterfragt Infrastruktur",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/baden-ex-politiker-mark-fuellemann-hinterfragt-infrastruktur-ld.4235025",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chinese stach auf Kinder in Zürich ein, hatte Tat mit ChatGPT geplant",
+      "url": "https://www.watson.ch/schweiz/kinder/277778627-chinese-stach-auf-kinder-in-zuerich-ein-hatte-tat-mit-chatgpt-geplant",
+      "summary": "",
+      "published": "2026-09-17T04:02:39.690519+00:00"
     }
   ]
 }
