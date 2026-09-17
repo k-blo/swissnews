@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T21:02:07.241000+00:00",
+  "generated": "2026-09-17T21:32:13.122067+00:00",
   "date": "2026-09-17",
-  "count": 946,
+  "count": 948,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6624,6 +6624,20 @@
       "url": "https://www.bote.ch/nachrichten/sport/kriens-luzern-verliert-heimspiel-gegen-magdeburg-klar-art-1722418",
       "summary": "",
       "published": "2026-09-17T21:02:07.241000+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Russische Duma-Wahl: Putin macht die Parlamentswahl zum Referendum über seinen Krieg",
+      "url": "https://www.tagesanzeiger.ch/russland-parlamentswahl-unter-kriegsbedingungen-gestartet-362338051764",
+      "summary": "Der Kremlchef ruft die Bürger auf, mit ihrer Stimme zum Sieg beizutragen. Erstmals wird auch in den besetzten ukrainischen Gebieten gewählt.",
+      "published": "2026-09-17T21:32:13.122067+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "UN-Vollversammlung: USA verweigern Palästinenserpräsident Abbas erneut die Einreise",
+      "url": "https://www.tagesanzeiger.ch/abbas-usa-verweigern-visum-fuer-un-vollversammlung-716248440670",
+      "summary": "Mahmoud Abbas darf zum zweiten Mal in Folge nicht persönlich an der UN-Generalversammlung in New York teilnehmen. Washington begründet die Visa-Sanktionen mit ausbleibenden Reformen der Palästinensisc",
+      "published": "2026-09-17T21:32:13.122067+00:00"
     }
   ]
 }
