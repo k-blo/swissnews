@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T23:02:23.101600+00:00",
+  "generated": "2026-09-17T23:32:06.376660+00:00",
   "date": "2026-09-18",
-  "count": 30,
+  "count": 31,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -212,6 +212,13 @@
       "url": "https://www.nzz.ch/wissenschaft/nature-chefin-magdalena-skipper-ueber-ki-diversitaet-und-macht-ld.10023881",
       "summary": "",
       "published": "2026-09-17T23:02:23.101600+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Putin stellt Nestlé-Gesellschaften unter russische Verwaltung",
+      "url": "https://www.20min.ch/story/schweizer-nahrungsmulti-putin-stellt-nestle-gesellschaften-unter-russische-verwaltung-103635158",
+      "summary": "Der Schweizer Lebensmittelkonzern Nestlé verliert die Kontrolle über Teile seines Russland-Geschäfts. Kreml-Chef Wladimir Putin liess die betroffenen Vermögenswerte per Dekret an eine russische Gesell",
+      "published": "2026-09-17T23:32:06.376660+00:00"
     }
   ]
 }
