@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T00:59:07.375311+00:00",
+  "generated": "2026-09-17T01:02:20.509540+00:00",
   "date": "2026-09-17",
-  "count": 41,
+  "count": 43,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -289,6 +289,20 @@
       "url": "https://www.watson.ch/wirtschaft/international/822044571-fed-leitzins-usa-experten-erleichtert-donald-trump-unzufrieden",
       "summary": "",
       "published": "2026-09-17T00:59:07.375311+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Autosteuer entfällt 2027 in Italien",
+      "url": "https://www.zentralplus.ch/news/autosteuer-entfaellt-2027-in-italien-2898911/",
+      "summary": "Die italienische Regierung von Giorgia Meloni will Autofahrerinnen und Autofahrer entlasten. Dafür streicht sie für das Jahr 2027 die Autosteuer. Grund dafür sind die hohen Benzinpreise. Konkret müsse",
+      "published": "2026-09-17T01:02:20.509540+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4235379",
+      "summary": "",
+      "published": "2026-09-17T01:02:20.509540+00:00"
     }
   ]
 }
