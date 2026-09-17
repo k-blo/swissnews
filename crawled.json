@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T04:31:50.115686+00:00",
+  "generated": "2026-09-17T05:02:29.523663+00:00",
   "date": "2026-09-17",
-  "count": 210,
+  "count": 215,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1472,6 +1472,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/fanzuege-fcz-attackiert-sbb-art-1722235",
       "summary": "",
       "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hagelsturm richtete fast eine Milliarde Franken Schaden an",
+      "url": "https://www.20min.ch/story/schweiz-hagelsturm-richtete-fast-eine-milliarde-franken-schaden-an-103634657",
+      "summary": "Nach ersten Schätzungen des Schweizerischen Versicherungsverbandes SVV hat das schwere Hagel- und Sturmereignis von Ende August Schäden von fast einer Milliarde Franken verursacht.",
+      "published": "2026-09-17T05:02:29.523663+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ohne Lenkrad und Pedale unterwegs: US-Verkehrsaufsicht nimmt sich Teslas Robotaxi vor",
+      "url": "https://www.tagesanzeiger.ch/tesla-cybercab-nhtsa-prueft-robotaxi-ohne-pedale-382734090904",
+      "summary": "Nach US-Regeln brauchen auch autonome Robotaxis eine Ausnahmeerlaubnis, wenn sie ohne Lenkrad und Pedale unterwegs sein sollen. Elon Musks Tesla ignorierte das.",
+      "published": "2026-09-17T05:02:29.523663+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der US-Kongress sagt Ja zu neuen Russland-Sanktionen",
+      "url": "https://www.nzz.ch/international/der-us-kongress-sagt-ja-zu-neuen-russland-sanktionen-ld.10024170",
+      "summary": "",
+      "published": "2026-09-17T05:02:29.523663+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wandern mal anders: Das sind die schönsten Themenwanderwege rund um Schaffhausen",
+      "url": "https://www.shn.ch/leben-genuss/2026-09-17/wandern-mal-anders-das-sind-die-schoensten-themenwanderwege-rund-um",
+      "summary": "Noch sind die Blätter grün, bald schon bunt: Der Spätsommer und beginnende Herbst sind ideal für Ausflüge. In der Region gibt es zahlreiche Themenwander­wege. Die SN haben vier besonders schöne Wege f",
+      "published": "2026-09-17T05:02:29.523663+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Barack Obama: Familie trauert um Hündin Sunny",
+      "url": "https://www.watson.ch/international/leben/489544393-barack-obama-familie-trauert-um-huendin-sunny",
+      "summary": "",
+      "published": "2026-09-17T05:02:29.523663+00:00"
     }
   ]
 }
