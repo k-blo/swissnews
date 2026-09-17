@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T04:02:39.690519+00:00",
+  "generated": "2026-09-17T04:31:50.115686+00:00",
   "date": "2026-09-17",
-  "count": 196,
+  "count": 210,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1374,6 +1374,104 @@
       "url": "https://www.watson.ch/schweiz/kinder/277778627-chinese-stach-auf-kinder-in-zuerich-ein-hatte-tat-mit-chatgpt-geplant",
       "summary": "",
       "published": "2026-09-17T04:02:39.690519+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Too big to fail»-Regulierung – «Lex UBS» – Jetzt kommt es zum Showdown im Ständerat",
+      "url": "https://www.srf.ch/news/schweiz/too-big-to-fail-regulierung-lex-ubs-jetzt-kommt-es-zum-showdown-im-staenderat",
+      "summary": "Der Ständerat entscheidet, wie die UBS ihre ausländischen Tochtergesellschaften besser absichern soll. Die Ausgangslage.",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Hagel-Walze im Mittelland: Fast eine Milliarde Franken Schaden",
+      "url": "https://www.blick.ch/schweiz/mittelland/hagel-walze-im-mittelland-fast-eine-milliarde-franken-schaden-id22261712.html",
+      "summary": "Das Unwetter mit riesigen Hagelkörnern und Orkanböen richtete am 28. August im Mittelland Schäden von fast einer Milliarde Franken an. Besonders betroffen: über 100'000 Autos. Versicherer setzten auf ",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Energiewende in Winterthur: Diese Nachbarschaft investiert gemeinsam in eine Solarbatterie – und spart so viel Geld",
+      "url": "https://www.tagesanzeiger.ch/winterthur-acht-haushalte-sparen-400-franken-mit-solarbatterie-992107131777",
+      "summary": "Acht Haushalte beziehen Strom aus drei Solaranlagen. Dank einer Batterie decken sie damit zwei Drittel ihres Stromverbrauchs – und zahlen deutlich weniger als vorher.",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wohnen in der Schweiz: Die Anzahl Wohnungen steigt stärker als die Bevölkerung. Darum bleiben die Mieten dennoch hoch",
+      "url": "https://www.bernerzeitung.ch/wohnung-schweiz-es-wird-mehr-gebaut-aber-mieten-sinken-kaum-398211835276",
+      "summary": "Neue Zahlen von Wüest Partner zeigen, dass die Schweiz so viele Wohnungen baut wie lange nicht mehr. Wo die neuen Wohnungen entstehen und was das für die Mieterinnen und Mieter bedeutet.",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gefahren von Smart Glasses: Metas smarte Brillen verwandeln Innen­städte in Über­wachungs­zonen",
+      "url": "https://www.bernerzeitung.ch/ray-ban-meta-smart-glasses-muessen-reguliert-werden-153803188773",
+      "summary": "Ray-Ban-Meta-Brillen filmen geräuschlos und erkennen Gesichter – ein US-Konzern erhält so Zugriff auf den öffentlichen Raum. Ein Forscher der Berner Fachhochschule fordert eine Verschreibungspflicht.",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Saisonstart der Swiss League: Der EHC Basel startet mit offenen Fragen und klaren Zielen in die Saison",
+      "url": "https://www.bazonline.ch/der-ehc-basel-startet-mit-veraendertem-kader-in-die-saison-430656585730",
+      "summary": "Mit einem veränderten Kader startet der EHC Basel am kommenden Donnerstag in die Swiss-League-Saison. Noch wurde kein Aufstiegsgesuch gestellt.",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Hagelschlag: Versicherte Schäden von fast einer Milliarde Franken",
+      "url": "https://www.finews.ch/news/versicherungen/73638-hagelschlag-versicherte-schaeden-fast-eine-milliarde-franken",
+      "summary": "Das Unwetter vom 28. August 2026 hat im Schweizer Mittelland nach ersten Schätzungen privatversicherte Schäden von knapp einer Milliarde Franken verursacht. Mehr als 80 Prozent davon entfallen auf Mot",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Immobilienkonzerne enteignen? Berlin streitet über Lösungen für die Wohnungsnot",
+      "url": "https://www.nzz.ch/wirtschaft/immobilienkonzerne-enteignen-berlin-streitet-ueber-loesungen-fuer-die-wohnungsnot-ld.10022697",
+      "summary": "",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kanzler Merz Geht Angezählt in die Nächste Runde",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/kanzler-merz-geht-angezaehlt-in-die-naechste-runde-2161563",
+      "summary": "",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Sie Läuft Rekorde und Sagt",
+      "url": "https://www.suedostschweiz.ch/regionalsport/sie-laeuft-rekorde-und-sagt-2148423",
+      "summary": "",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hagel Schweiz: Unwetter verursachen Schäden von fast einer Milliarde",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/395980328-hagel-schweiz-unwetter-verursachen-schaeden-von-fast-einer-milliarde",
+      "summary": "",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Crazy: Das goldene Doppel-WC von Spice Girl Mel B",
+      "url": "https://www.watson.ch/spass/immo-bizarre/863674542-crazy-das-goldene-doppel-wc-von-spice-girl-mel-b",
+      "summary": "",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Unerwartet oder besorgniserregend» verhalten: OpenAI macht weitere KI-Probleme öffentlich",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/openai-macht-weitere-ki-probleme-oeffentlich-art-1722236",
+      "summary": "",
+      "published": "2026-09-17T04:31:50.115686+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Streit um Fanzüge geht weiter: FCZ attackiert SBB",
+      "url": "https://www.bote.ch/nachrichten/sport/fanzuege-fcz-attackiert-sbb-art-1722235",
+      "summary": "",
+      "published": "2026-09-17T04:31:50.115686+00:00"
     }
   ]
 }
