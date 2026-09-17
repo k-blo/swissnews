@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T08:01:52.104783+00:00",
+  "generated": "2026-09-17T08:32:01.617340+00:00",
   "date": "2026-09-17",
-  "count": 307,
+  "count": 350,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2151,6 +2151,307 @@
       "url": "https://www.infosperber.ch/politik/welt/komplize-usa-will-tausende-toedlichste-bomben-an-israel-liefern/",
       "summary": "",
       "published": "2026-09-17T08:01:52.104783+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nach Seco-Abgang – Bundespräsident Parmelin: «So ist das Leben»",
+      "url": "https://www.srf.ch/news/schweiz/nach-seco-abgang-bundespraesident-parmelin-so-ist-das-leben",
+      "summary": "Der Abgang von Seco-Chefin Budliger kommt überraschend. Bundespräsident Parmelin reagiert im Tagesgespräch pragmatisch.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Steinfrucht-Sorge – Tonnenschwerer Ernteverlust bei den Schweizer Zwetschgen",
+      "url": "https://www.srf.ch/news/schweiz/steinfrucht-sorge-tonnenschwerer-ernteverlust-bei-den-schweizer-zwetschgen",
+      "summary": "Hunderte Tonnen Zwetschgen können nicht verkauft werden und verfaulen. Und gibt es noch Hoffnung für die Steinfrucht?",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Mehr Fälle von Legionellose: Kanton Zürich meldet ersten Todesfall in Wetzikon",
+      "url": "https://www.blick.ch/schweiz/mehr-faelle-von-legionellose-kanton-zuerich-meldet-ersten-todesfall-in-wetzikon-id22261716.html",
+      "summary": "In der Stadt Wetzikon häufen sich die Fälle von Infektionen mit Legionellen. Wie die Gesundheitsdirektion des Kantons Zürich in schreibt, ist bisher sogar eine Person verstorben.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polizei bestätigt Einsatz: Leiche im St. Moritzersee gefunden",
+      "url": "https://www.blick.ch/schweiz/polizei-bestaetigt-einsatz-leiche-im-st-moritzersee-gefunden-id22261990.html",
+      "summary": "Im St. Moritzersee ist am vergangenen Wochenende eine Leiche gefunden worden. Die Polizei bestätigte einen entsprechenden Einsatz.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Lehrperson hat Tuberkulose – jetzt werden Schulkinder untersucht",
+      "url": "https://www.20min.ch/story/ueber-100-kinder-betroffen-lehrperson-hat-tuberkulose-jetzt-werden-schulkinder-untersucht-103634718",
+      "summary": "Die 8- bis 12-jährigen Schülerinnen und Schüler der Primarschule Bottmingen BL werden vorsorglich medizinisch abgeklärt. Die Lehrperson befindet sich in Behandlung und unterrichtet derzeit nicht mehr.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Bringt uns doppelt um»: Franzoso-Eltern erheben schwere Vorwürfe",
+      "url": "https://www.20min.ch/story/matteo-franzoso-stirbt-nach-schwerem-trainingsunfall-in-chile-schwere-vorwuerfe-erhoben-103634726",
+      "summary": "Im Spätsommer 2025 starb der italienische Skirennfahrer Matteo Franzoso nach einem Trainingssturz. Nun erheben dessen Eltern Vorwürfe und fühlen sich alleingelassen.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Swifts Mann Travis Kelce verliert Millionen an Betrüger",
+      "url": "https://www.20min.ch/story/travis-kelce-nfl-star-wurde-opfer-eines-millionenschweren-betrugs-103634708",
+      "summary": "Travis Kelce wurde um mehrere Millionen Dollar betrogen. Der Ehemann von Taylor Swift verlor durch ein Schneeballsystem eine stattliche Summe.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hotellerie: Mehrwertsteuer-Sondersatz für Hotels bleibt im Parlament umstritten",
+      "url": "https://www.tagesanzeiger.ch/staenderat-mehrwertsteuer-sondersatz-fuer-hotels-soll-bleiben-136730257317",
+      "summary": "Die kleine Kammer stellt sich mit 31 zu 9 Stimmen hinter den reduzierten Mehrwertsteuersatz von 3,8 Prozent für die Hotellerie. Hält der Nationalrat an seinem Nein fest, läuft der Sondersatz Ende 2027",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall im Kreis 5: Baustellenlift stürzt ab – auch zweiter Arbeiter gestorben",
+      "url": "https://www.tagesanzeiger.ch/baustellenlift-unfall-zuerich-zweiter-arbeiter-gestorben-135764687798",
+      "summary": "Der 54-Jährige erlag am Mittwochabend im Spital seinen Verletzungen. Sein 57-jähriger Arbeitskollege war nach dem Unfall an der Hafnerstrasse noch vor Ort gestorben.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Internationaler Sportgerichtshof: Ex-Nationalrainer Patrick Fischer geht gegen seine Sperre vor",
+      "url": "https://www.tagesanzeiger.ch/patrick-fischer-ficht-iihf-sperre-vor-cas-an-780215115681",
+      "summary": "Der 51-Jährige wurde vom internationalen Eishockey-Weltverband IIHF für vier Jahre gesperrt. Nun zieht er das Urteil weiter.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unwetter vom 28. August: Hagelsturm verursacht Schäden von 1,5 Milliarden Franken",
+      "url": "https://www.tagesanzeiger.ch/hagel-28-august-rekordschaden-von-1-5-milliarden-franken-900491069596",
+      "summary": "Eine derart hohe Schadenssumme hat es nach einem Hagelereignis hierzulande noch nie gegeben. So wurden etwa mehr als 100’000 Autos beschädigt.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Invasives Insekt: Erneut Nest der Asiatischen Hornisse in Kloten gefunden",
+      "url": "https://www.tagesanzeiger.ch/asiatische-hornisse-neues-nest-in-kloten-entdeckt-648800160362",
+      "summary": "Nachdem bereits im geschützten Eigental ein Nest der Asiatischen Hornisse entdeckt wurde, gibt es in Kloten nun einen neuen Fund. Die Stadt bittet die Bevölkerung um Hilfe im Kampf gegen die hochinvas",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Zusammenschluss im Berner Jura: Reconvilier und Saules fusionieren per 1. Januar zu «Clairval»",
+      "url": "https://www.bernerzeitung.ch/fusion-im-berner-jura-reconvilier-und-saules-werden-clairval-686091720746",
+      "summary": "Der Berner Regierungsrat hat die Fusion der beiden Gemeinden genehmigt. Loveresse hatte den Zusammenschluss im November abgelehnt und bleibt eigenständig.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Nach Eklat um Rauswurf von Macklemore: Ed Sheeran bat Milliardär Robert Kraft offenbar um Millionenspende für Palästina",
+      "url": "https://www.derbund.ch/macklemore-ed-sheeran-soll-kraft-um-spenden-gebeten-haben-353829063704",
+      "summary": "Ein 40-minütiges Telefongespräch führte zum Rauswurf von Macklemore aus Sheerans Tour. Nun versucht der Popstar, den Unternehmer zu einer Spende an Hilfsorganisationen zu überzeugen.",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stadt Bern muss Trottoirs sanieren",
+      "url": "https://www.zentralplus.ch/news/stadt-bern-muss-trottoirs-sanieren-2898991/",
+      "summary": "Die Trottoirs und Strassen in der Stadt Bern sind zu einem grossen Teil in schlechtem Zustand, darum will die Stadtregierung knapp 18 Millionen Franken ausgeben, um sie zu sanieren. Sie schreibt: Rund",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Beim Trinkgeld setzt das Parlament neue Regeln",
+      "url": "https://www.zentralplus.ch/gastronomie/beim-trinkgeld-setzt-das-parlament-neue-regeln-2898966/",
+      "summary": "Beim Trinkgeld setzt das Parlament dem Bundesrat neue Leitplanken. Die lokale Gastrobranche begrüsst den Entscheid. Trinkgeld ist ein Thema, das polarisiert. Manche geben einen Zustupf, weil sie mit e",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "So extrem ist der Wohnungsmangel in Zug und Luzern",
+      "url": "https://www.zentralplus.ch/news/so-extrem-ist-der-wohnungsmangel-in-zug-und-luzern-2898971/",
+      "summary": "In der Schweiz entstehen Zehntausende neue Wohnungen – doch längst nicht alle Regionen profitieren vom Bauboom. Besonders Luzern und Zug hinken beim Wohnungsbau deutlich hinterher. In der Schweiz ents",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ständerat will Sondersatz verlängern",
+      "url": "https://www.zentralplus.ch/news/staenderat-will-sondersatz-verlaengern-2898985/",
+      "summary": "Die Schweizer Hotels und Beherbergungsbetriebe sollen weiterhin von einem reduzierten Mehrwertsteuersatz profitieren. Das möchte der Ständerat. Er hat einer Verlängerung des Satzes bis 2035 zugestimmt",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bund hebt BIP-Prognose für 2026 an",
+      "url": "https://www.zentralplus.ch/news/bund-hebt-bip-prognose-fuer-2026-an-2898977/",
+      "summary": "Die Schweizer Wirtschaft dürfte sich laut den Ökonomen des Bundes besser entwickeln als bislang erwartet. Deshalb heben sie ihre Prognose für das laufende Jahr an.  Sie rechnen neu damit, dass das Bru",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Revolut beantragt Schweizer Banklizenz",
+      "url": "https://www.netzwoche.ch/news/2026-09-17/revolut-beantragt-schweizer-banklizenz",
+      "summary": "Revolut hat bei der Finma eine Banklizenz beantragt und will sein Schweizer Angebot um Lohnkonten und weitere Zahlungsdienste erweitern. Zudem plant das Fintech, in den kommenden fünf Jahren mehr als ",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Klopp startet mit zwei Länderspiel-Kadern in Rekordgrösse",
+      "url": "https://www.nzz.ch/sport/fussball/klopp-startet-mit-zwei-laenderspiel-kadern-in-rekordgroesse-ld.10024203",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KURZMELDUNGEN - Polizei-News aus Zürich: Zweites Todesopfer nach schwerem Baustellenunfall im Kreis 5",
+      "url": "https://www.nzz.ch/zuerich/polizei-news-aus-zuerich-zweites-todesopfer-nach-schwerem-baustellenunfall-ld.10022316",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Rätoromanischer Sender spart ohne Jobabbau",
+      "url": "https://www.persoenlich.com/medien/ratoromanischer-sender-spart-ohne-jobabbau",
+      "summary": "Das rätoromanische Radio und Fernsehen RTR muss im kommenden Jahr 100’000 Franken einsparen. Auf einen Stellenabbau im Rahmen des SRG- Spar- und Transformationsprojekts «Enavant» kann RTR aber verzich",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Jürgen Klopp Überrascht bei Seinem Ersten Xxl Dfb Kader Diese Spieler Sind Dabei",
+      "url": "https://www.suedostschweiz.ch/sportradar/juergen-klopp-ueberrascht-bei-seinem-ersten-xxl-dfb-kader-diese-spieler-sind-dabei-2164230",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Vögel Beobachten eine Besondere Schatzsuche im Churer Fürstenwald",
+      "url": "https://www.suedostschweiz.ch/graubuenden/voegel-beobachten-eine-besondere-schatzsuche-im-churer-fuerstenwald-2163547",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Warnt vor Phishing mit Angeblichen Steuerrechnungen",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzern-warnt-vor-phishing-mit-angeblichen-steuerrechnungen-ld.4235654",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Frölein Da Capo mit Programm Halbzeit Show sie Rechnet mit der Lebensmitte Ab",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/froelein-da-capo-mit-programm-halbzeit-show-sie-rechnet-mit-der-lebensmitte-ab-ld.4235262",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Vereinsreise Petanqü Club Reiden",
+      "url": "https://www.luzernerzeitung.ch/leserbeitrag/lz/vereinsreise-petanque-club-reiden-ld.4235619",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Die Stauseevögel Wieder auf Wanderschaft",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/die-stauseevoegel-wieder-auf-wanderschaft-ld.4235625",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Schmerzen Nicht Einfach Hinnehmen",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/schmerzen-nicht-einfach-hinnehmen-ld.4235556",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Stgallen Sp Will Kürzungen bei Pflegeausbildung Stoppen",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/stgallen-sp-will-kuerzungen-bei-pflegeausbildung-stoppen-ld.4235775",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Adelboden Schön Wars",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/adelboden-schoen-wars-ld.4235627",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Himmlisches Pilzrisotto oder Heute Wird Nicht Gepredigt Heute Wird Gerührt",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/himmlisches-pilzrisotto-oder-heute-wird-nicht-gepredigt-heute-wird-geruehrt-ld.4235621",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Zürich 2 Bauarbeiter Sterben nach Liftabsturz auf Baustelle",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuerich-2-bauarbeiter-sterben-nach-liftabsturz-auf-baustelle-ld.4235592",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Legionellose-Häufung in Wetzikon: Kanton Zürich meldet Todesfall",
+      "url": "https://www.watson.ch/schweiz/zuerich/494359464-legionellose-haeufung-in-wetzikon-kanton-zuerich-meldet-todesfall",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Leiche im St.Moritzersee gefunden",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/999970446-leiche-im-st-moritzersee-gefunden",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Duma-Wahlen in Russland: Putins Zustimmungswerte sinken",
+      "url": "https://www.watson.ch/international/russland/503638060-duma-wahlen-in-russland-putins-zustimmungswerte-sinken",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das Risiko von Christoph Blocher: Wenn Initiativen zum Bumerang werden",
+      "url": "https://www.freiburger-nachrichten.ch/story/290585/das-risiko-von-christoph-blocher-wenn-initiativen-zum-bumerang-werden",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Kein Grund nervös zu werden",
+      "url": "https://www.freiburger-nachrichten.ch/story/290431/kein-grund-nerv%C3%B6s-zu-werden",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Schwerer russischer Raketenangriff auf Kiew – Kinder unter den Verletzten",
+      "url": "https://www.freiburger-nachrichten.ch/story/245026/schwerer-russischer-raketenangriff-auf-kiew-kinder-unter-den-verletzten",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Steuerrechnungen und Mahnungen kommen nie per E-Mail",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-warnt-vor-phishing-mit-angeblichen-steuerrechnungen-art-1722254",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wechseljahre, Weltgeschichte und WC-Papier: Frölein Da Capo rechnet mit der Lebensmitte ab",
+      "url": "https://www.bote.ch/nachrichten/kultur/froelein-da-capo-mit-programm-halbzeit-show-sie-rechnet-mit-der-lebensmitte-ab-art-1722253",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Macklemore spendet an Palästina – an wen spendet Robert Kraft?",
+      "url": "https://www.bote.ch/nachrichten/kultur/macklemore-spendet-an-palaestina-und-fordert-robert-kraft-heraus-art-1722252",
+      "summary": "",
+      "published": "2026-09-17T08:32:01.617340+00:00"
     }
   ]
 }
