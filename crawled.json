@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T00:31:57.034767+00:00",
+  "generated": "2026-09-17T00:59:07.375311+00:00",
   "date": "2026-09-17",
-  "count": 37,
+  "count": 41,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -261,6 +261,34 @@
       "url": "https://www.watson.ch/wirtschaft/international/283083922-ursula-von-der-leyen-donald-trump-droht-eu-wegen-annaeherung-an-kanada",
       "summary": "",
       "published": "2026-09-17T00:31:57.034767+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Engere Partnerschaft: Trump will Handel mit EU bei Annäherung an Kanada einstellen",
+      "url": "https://www.tagesanzeiger.ch/trump-droht-eu-mit-zoellen-wegen-kanada-annaeherung-879716479293",
+      "summary": "EU-Kommissionspräsidentin Ursula von der Leyen hat mit einem Vorschlag für Aufsehen gesorgt. Es geht um den US-Nachbarn Kanada. Präsident Trumps Reaktion lässt nicht auf sich warten.",
+      "published": "2026-09-17T00:59:07.375311+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "BL: Brand in Allschwil",
+      "url": "https://www.zentralplus.ch/news/bl-brand-in-allschwil-2898910/",
+      "summary": "Bei einem Brand am Mittwochabend auf dem Gelände einer Entsorgungsfirma in Allschwil im Baselbiet entstand viel Rauch. Verletzt wurde niemand. Nach Polizeiangaben brach das Feuer auf einem Müllberg mi",
+      "published": "2026-09-17T00:59:07.375311+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Russland Ukriane: Schwerer Raketenangriff auf Kiew",
+      "url": "https://www.watson.ch/international/armee/103553738-krieg-russland-ukriane-schwerer-raketenangriff-auf-kiew",
+      "summary": "",
+      "published": "2026-09-17T00:59:07.375311+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fed Leitzins USA: Experten erleichtert, Donald Trump unzufrieden",
+      "url": "https://www.watson.ch/wirtschaft/international/822044571-fed-leitzins-usa-experten-erleichtert-donald-trump-unzufrieden",
+      "summary": "",
+      "published": "2026-09-17T00:59:07.375311+00:00"
     }
   ]
 }
