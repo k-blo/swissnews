@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T06:31:52.800854+00:00",
+  "generated": "2026-09-17T07:02:23.449336+00:00",
   "date": "2026-09-17",
-  "count": 253,
+  "count": 265,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1773,6 +1773,90 @@
       "url": "https://insideparadeplatz.ch/2026/09/17/revolut-hack-viel-groesser-als-dargestellt/",
       "summary": "",
       "published": "2026-09-17T06:31:52.800854+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Folgen des Hitzesommers – Grundwasser durch die Gegend pumpen: Das geht, ist aber aufwendig",
+      "url": "https://www.srf.ch/news/schweiz/folgen-des-hitzesommers-grundwasser-durch-die-gegend-pumpen-das-geht-ist-aber-aufwendig",
+      "summary": "Die Hitzeperiode ist vorbei, trotzdem fehlt vielerorts noch Grundwasser. Die Wasserversorgungen überlegen sich Lösungen.",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Messerangriff auf Kinder mit ChatGPT geplant: Prozess geht weiter",
+      "url": "https://www.20min.ch/story/zuerich-prozess-taeter-plante-messerangriff-auf-hortkinder-mit-chatgpt-103634407",
+      "summary": "Ein chinesischer Student steht wegen versuchten Mordes an drei fünfjährigen Buben vor Gericht. Die Staatsanwaltschaft fordert 15 Jahre Haft. 20 Minuten berichtet live aus dem Gerichtssaal.",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Halbjahresergebnis: Helvetia Baloise sieht sich mit Integration gut auf Kurs",
+      "url": "https://www.tagesanzeiger.ch/helvetia-baloise-halbjahresgewinn-bei-632-millionen-franken-253608894505",
+      "summary": "Die Helvetia Baloise erzielt einen bereinigten Halbjahresgewinn von 632 Millionen Franken. Die Synergien aus der Fusion werden schneller realisiert als geplant.",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zürcher Gemeinderat: Vorstoss zu Asylzentrum artet in Zürich in Rassismus-Debatte aus",
+      "url": "https://www.tagesanzeiger.ch/svp-vorstoss-zu-asylzentrum-zuerich-lehnt-postulat-mit-102-zu-15-ab-223833447859",
+      "summary": "Die SVP wollte Geflüchtete von Schularealen fernhalten und berief sich auf Ängste von Eltern. Andere Parteien warfen ihr vor, Menschen pauschal als Gefahr für Kinder darzustellen.",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vitantonio Lovallo: Ältester Mann Europas mit 112 Jahren gestorben",
+      "url": "https://www.tagesanzeiger.ch/aeltester-mann-europas-italiener-lovallo-mit-112-gestorben-282065828423",
+      "summary": "Der Italiener Vitantonio Lovallo arbeitete noch mit mehr als 100 Jahren in seinem Weinberg. Der frühere Kriegsgefangene lebte in der süditalienischen Gemeinde Avigliano. Er wurde 112 Jahre alt.",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Für 17,6 Millionen Franken: Stadt Bern muss Strassen und Trottoirs sanieren",
+      "url": "https://www.bernerzeitung.ch/bern-17-6-mio-franken-fuer-strassen-und-trottoirs-643135898905",
+      "summary": "Der Zustand der Berner Strasseninfrastruktur hat sich in den letzten 15 Jahren verschlechtert. Der Sanierungsrückstand soll laut Gemeinderat innert zehn Jahren behoben werden.",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Salesforce-Benioff interviewt Anthropic-CEO Dario Amodei",
+      "url": "https://www.netzwoche.ch/news/2026-09-17/salesforce-benioff-interviewt-anthropic-ceo-dario-amodei",
+      "summary": "Die rasche wirtschaftliche Verbreitung von KI hat selbst Anthropic-Mitgründer und -CEO Dario Amodei überrascht. Im Gespräch mit Salesforce-Gründer und -CEO Marc Benioff erläutert er, wie die Branche m",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Stoppt Umgestaltung der Villen und Moosstrasse",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-stoppt-umgestaltung-der-villen-und-moosstrasse-ld.4235652",
+      "summary": "",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Wohlen Staatsanwaltschaft Fordert Verwahrung nach Tötungsdelikt",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/wohlen-staatsanwaltschaft-fordert-verwahrung-nach-toetungsdelikt-ld.4235655",
+      "summary": "",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Teslas Robotaxi hat wegen Sicherheitsbedenken Ärger mit US-Behörde",
+      "url": "https://www.watson.ch/international/auto/950171484-teslas-robotaxi-hat-wegen-sicherheitsbedenken-aerger-mit-us-behoerde",
+      "summary": "",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Keine Champions League für Olympic",
+      "url": "https://www.freiburger-nachrichten.ch/story/290541/keine-champions-league-f%C3%BCr-olympic",
+      "summary": "",
+      "published": "2026-09-17T07:02:23.449336+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Widerstand aus dem Quartier: Stadt Luzern stoppt umstrittenes Verkehrsprojekt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-stoppt-umgestaltung-der-villen-und-moosstrasse-art-1722244",
+      "summary": "",
+      "published": "2026-09-17T07:02:23.449336+00:00"
     }
   ]
 }
