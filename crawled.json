@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-16T23:31:53.995631+00:00",
+  "generated": "2026-09-17T00:01:59.373575+00:00",
   "date": "2026-09-17",
-  "count": 25,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -177,6 +177,27 @@
       "url": "https://www.watson.ch/international/energie/736199898-krieg-ukraine-russland-us-kongress-beschliesst-gesetz-fuer-sanktionen",
       "summary": "",
       "published": "2026-09-16T23:31:53.995631+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Weiteres Sanktionsgesetz gegen Russland",
+      "url": "https://www.zentralplus.ch/news/weiteres-sanktionsgesetz-gegen-russland-2898908/",
+      "summary": "Nach dem US-Senat hat auch das Repräsentantenhaus für ein Sanktionsgesetz gestimmt, um Russland wegen des Ukrainekriegs stärker unter Druck zu setzen. Neben direkten Strafmassnahmen gegen russische Po",
+      "published": "2026-09-17T00:01:59.373575+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hausbau: Studie sieht Entspannung am Wohnungsmarkt",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/634332631-hausbau-studie-sieht-entspannung-am-wohnungsmarkt",
+      "summary": "",
+      "published": "2026-09-17T00:01:59.373575+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erderwärmung erhöhte Risiko für Sturzflut in Nepal",
+      "url": "https://www.watson.ch/wissen/international/365687652-erderwaermung-erhoehte-risiko-fuer-sturzflut-in-nepal",
+      "summary": "",
+      "published": "2026-09-17T00:01:59.373575+00:00"
     }
   ]
 }
