@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T01:32:12.955906+00:00",
+  "generated": "2026-09-17T02:01:52.555622+00:00",
   "date": "2026-09-17",
-  "count": 47,
+  "count": 48,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -331,6 +331,13 @@
       "url": "https://www.watson.ch/wirtschaft/digital/383127337-openai-veroeffentlicht-besorgniserregendes-verhalten-seiner-ki",
       "summary": "",
       "published": "2026-09-17T01:32:12.955906+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schon Zähne geputzt? Nur die Hälfte der Schweizer tuts dir gleich",
+      "url": "https://www.20min.ch/story/zahnseide-und-putzdauer-wo-die-schweizer-mundhygiene-am-meisten-hapert-103634151",
+      "summary": "Eine Schweizer Befragung zeigt: Direkt nach dem Aufstehen greift nicht einmal die Hälfte der Bevölkerung zur Zahnbürste. Besonders junge Erwachsene putzen zudem häufig zu kurz.",
+      "published": "2026-09-17T02:01:52.555622+00:00"
     }
   ]
 }
