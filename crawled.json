@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-17T01:02:20.509540+00:00",
+  "generated": "2026-09-17T01:32:12.955906+00:00",
   "date": "2026-09-17",
-  "count": 43,
+  "count": 47,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -303,6 +303,34 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4235379",
       "summary": "",
       "published": "2026-09-17T01:02:20.509540+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VD: Mitte will Sitz verteidigen",
+      "url": "https://www.zentralplus.ch/news/vd-mitte-will-sitz-verteidigen-2898916/",
+      "summary": "Die Mitte-Partei des Kantons Waadt will ihren Sitz in der Kantonsregierung verteidigen. Also den Sitz von Valérie Dittli, die zwar auch wieder kandidieren will, aber für eine neu gegründete Partei. Di",
+      "published": "2026-09-17T01:32:12.955906+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "GR: Anna Giacometti tritt nicht an",
+      "url": "https://www.zentralplus.ch/news/gr-anna-giacometti-tritt-nicht-an-2898917/",
+      "summary": "Die Bündner FDP-Nationalrätin Anna Giacometti wird bei den Wahlen 2027 nicht antreten. Das sagte sie zu RTR, dem rätoromanischen Radio und Fernsehen. Giacometti ist seit sieben Jahren Nationalrätin. Z",
+      "published": "2026-09-17T01:32:12.955906+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kanada will sich EU annähern",
+      "url": "https://www.zentralplus.ch/news/kanada-will-sich-eu-annaehern-2898914/",
+      "summary": "US-Präsident Donald Trump ist nicht erfreut darüber, dass die EU Kanada zu einem assoziierten Mitglied machen will. Vor Medienschaffenden sagte Trump, es sei potenziell ein feindseliger Akt. Er drohte",
+      "published": "2026-09-17T01:32:12.955906+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "OpenAI veröffentlicht besorgniserregendes Verhalten seiner KI",
+      "url": "https://www.watson.ch/wirtschaft/digital/383127337-openai-veroeffentlicht-besorgniserregendes-verhalten-seiner-ki",
+      "summary": "",
+      "published": "2026-09-17T01:32:12.955906+00:00"
     }
   ]
 }
