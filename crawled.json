@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T08:32:18.855968+00:00",
+  "generated": "2026-09-18T08:35:41.727781+00:00",
   "date": "2026-09-18",
-  "count": 379,
+  "count": 383,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2655,6 +2655,34 @@
       "url": "https://www.infosperber.ch/kuenstliche-intelligenz/kontertext-das-uebersetzen-die-ki-und-das-fremde/",
       "summary": "",
       "published": "2026-09-18T08:32:18.855968+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mysteriöse Legionellen-Welle: «Gibt mir ein mulmiges Gefühl»",
+      "url": "https://www.20min.ch/story/legionellen-in-wetzikon-raetselhafte-welle-beunruhigt-anwohnerinnen-und-anwohner-103635019",
+      "summary": "Seit Monaten treten in der Stadt Wetzikon Dutzende Legionellose-Fälle auf. Eine erkrankte Person ist verstorben. Anwohnerinnen und Anwohner zeigen sich besorgt.",
+      "published": "2026-09-18T08:35:41.727781+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Buchtipp der Woche: «Die Glasglocke»: Sylvia Plaths schonungsloser Blick auf Depressionen",
+      "url": "https://www.tagesanzeiger.ch/die-glasglocke-sylvia-plaths-duesteres-meisterwerk-751588285947",
+      "summary": "Erhellend düster: In diesem Buch von lauert ein Abgrund, in den hinabzublicken es sich lohnt.",
+      "published": "2026-09-18T08:35:41.727781+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tag im Leben eines Taxifahrers: «Nach vierzig Jahren im Geschäft erkenne ich ziemlich gut, wie betrunken jemand ist»",
+      "url": "https://www.tagesanzeiger.ch/taxifahrer-in-muenchen-florian-bachmann-faehrt-bis-73-914727230049",
+      "summary": "Florian Bachmann (70) hat einst Philosophie studiert, ist dann aber – wie er selbst sagt – beim Taxifahren hängen geblieben. Welchen Fahrgast wird er nie vergessen?",
+      "published": "2026-09-18T08:35:41.727781+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI-Ausgaben in Europa steigen bis 2030 auf 470 Milliarden US-Dollar",
+      "url": "https://www.netzwoche.ch/news/2026-09-18/ki-ausgaben-in-europa-steigen-bis-2030-auf-470-milliarden-us-dollar",
+      "summary": "Gemäss einer Prognose des Marktforschungsunternehmens IDC wachsen die europäischen Ausgaben für künstliche Intelligenz bis 2030 auf rund 470 Milliarden US-Dollar. Getrieben wird dieses Wachstum vor al",
+      "published": "2026-09-18T08:35:41.727781+00:00"
     }
   ]
 }
