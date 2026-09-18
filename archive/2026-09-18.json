@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T02:02:15.683056+00:00",
+  "generated": "2026-09-18T02:32:22.808066+00:00",
   "date": "2026-09-18",
-  "count": 41,
+  "count": 44,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -289,6 +289,27 @@
       "url": "https://www.zentralplus.ch/news/rus-erste-wahlurnen-sind-geoeffnet-2899194/",
       "summary": "In Russland hat die Parlamentswahl begonnen. Die ersten Wahlurnen sind geöffnet. Die Opposition ist nicht zur Wahl zugelassen. Die Partei Jabloko, die den Krieg gegen die Ukraine ablehnt, wurde im Aug",
       "published": "2026-09-18T02:02:15.683056+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Republikanische Abgeordnete gegen Trump: «Sie gingen zu weit»",
+      "url": "https://www.20min.ch/story/us-wahlkampf-republikanische-abgeordnete-gegen-trump-sie-gingen-zu-weit-103635176",
+      "summary": "Bei den Parlamentswahlen in den USA wollen die Republikaner ihre Mehrheit verteidigen. Jetzt muss sich Trump aus den eigenen Reihen offener Kritik stellen. Eine Abgeordnete geht ihn frontal an.",
+      "published": "2026-09-18T02:32:22.808066+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sieben Wochen bis zu den Midterms: Republikanische Abgeordnete gegen Trump: «Sie gingen zu weit»",
+      "url": "https://www.tagesanzeiger.ch/salazar-kritisiert-trump-hispanics-fuehlen-sich-verraten-869537028982",
+      "summary": "Bei den Parlamentswahlen in den USA wollen die Republikaner ihre Mehrheit verteidigen. Jetzt muss sich Trump aus den eigenen Reihen offener Kritik stellen. Eine Abgeordnete geht ihn frontal an.",
+      "published": "2026-09-18T02:32:22.808066+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "In Marthalen wird das Wasser erneut teurer",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-18/in-marthalen-wird-das-wasser-erneut-teurer",
+      "summary": "Die Weinländer Gemeinde hebt nach 2025 die Preise für das Frisch- und Abwasser auf 2027 ein weiteres Mal an. Damit will sie wieder ausgeglichene Abschlüsse bei beiden Werken erreichen.",
+      "published": "2026-09-18T02:32:22.808066+00:00"
     }
   ]
 }
