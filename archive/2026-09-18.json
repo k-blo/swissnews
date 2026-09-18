@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T11:02:22.330796+00:00",
+  "generated": "2026-09-18T11:31:59.561813+00:00",
   "date": "2026-09-18",
-  "count": 542,
+  "count": 556,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3796,6 +3796,104 @@
       "url": "https://www.watson.ch/schweiz/haeusliche-gewalt/593325451-frauen-betaeubt-opferhilfen-berichten-von-mehreren-faellen-in-der",
       "summary": "",
       "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Kanadische Journalistin deckte Fall auf: Genfer soll Ehefrau betäubt und vergewaltigt haben",
+      "url": "https://www.blick.ch/schweiz/westschweiz/genf/kanadische-journalistin-deckte-fall-auf-genfer-soll-ehefrau-betaeubt-und-vergewaltigt-haben-id22264812.html",
+      "summary": "Ein Mann aus Genf soll seine Frau über 20 Jahre unter Drogen gesetzt und missbraucht haben. Ermittlungen laufen seit Mai 2025, nachdem eine kanadische Journalistin Beweise geliefert hatte.",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unteres Tösstal: 14 Aren in Rorbas werden für bedrohte Arten zur Magerwiese aufgewertet",
+      "url": "https://www.tagesanzeiger.ch/rorbas-magerwiese-im-roerli-wird-ab-21-september-aufgewertet-846205032871",
+      "summary": "Im Gebiet Rörli in Rorbas entsteht auf 14 Aren ein artenreicher Halbtrockenrasen – dort, wo bisher Goldrute und Berufkraut wucherten. Die Aufwertung soll auch die Vernetzung bedrohter Lebensräume im Z",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Beton mit Carbonfasern: Diese neue Brücke in Bülach ist besonders",
+      "url": "https://www.tagesanzeiger.ch/buelach-neuartige-carbonbetonbruecke-montiert-600599939500",
+      "summary": "Die am Freitag montierte Brücke über den Rietbach diente zuvor an einer Fachmesse als Beispiel für innovative Bauweisen. Die Montage lockte viele Interessierte an.",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Behördliche Anordnung: Wegen Sicherheitsbedenken: FCZ-Spiel in Sion vorverschoben",
+      "url": "https://www.tagesanzeiger.ch/fc-zuerich-in-sion-partie-vorgezogen-wegen-fanzug-aus-547041191753",
+      "summary": "Die Auswärtspartie des FC Zürich in Sion wird vorverlegt. Ohne Extrazug hätten die Zürcher Fans nach Spielschluss nicht mehr nach Hause reisen können.",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall in Volketswil: Autofahrer übersieht Töff – 43-Jähriger schwer verletzt",
+      "url": "https://www.tagesanzeiger.ch/volketswil-motorradfahrer-nach-kollision-mit-auto-schwer-verletzt-380972122044",
+      "summary": "Ein Autolenker kollidierte beim Abbiegen auf die A15 mit einem vortrittsberechtigten Motorrad. Der 43-jährige Töfffahrer wurde mit schweren Verletzungen ins Spital gebracht.",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Am Sempachersee ist eine öffentliche Sauna geplant",
+      "url": "https://www.zentralplus.ch/news/am-sempachersee-ist-eine-oeffentliche-sauna-geplant-2899285/",
+      "summary": "In der Badi Sempach ist eine temporäre Sauna geplant. Sie soll jeweils während der Wintersaison öffentlich zugänglich sein. In der Badi Sempach soll während der Wintersaison eine temporäre Sauna entst",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Dennis Giavina ist der neue CTO von Helvetia Baloise",
+      "url": "https://www.inside-it.ch/dennis-giavina-ist-der-neue-cto-von-helvetia-baloise-20260918",
+      "summary": "Die fusionierte Versicherung befördert Dennis Giavina zum neuen Chief Technology Officer. Er folgt auf die künftige CTTO Sandra Hürlimann.",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nach der Entwendung von Kundendaten fordern Erpresser von Revolut 3 Millionen Dollar",
+      "url": "https://www.nzz.ch/wirtschaft/nach-der-entwendung-von-kundendaten-fordern-erpresser-von-revolut-3-millionen-dollar-ld.10024390",
+      "summary": "",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Warren Buffett tritt auch als Verwaltungsratspräsident von Berkshire Hathaway zurück",
+      "url": "https://www.nzz.ch/wirtschaft/warren-buffett-tritt-auch-als-verwaltungsratspraesident-von-berkshire-hathaway-zurueck-ld.10024451",
+      "summary": "",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Schweizer Imker jagen die asiatische Hornisse mit Hightech-Methoden",
+      "url": "https://www.nzz.ch/panorama/schweizer-imker-jagen-die-asiatische-hornisse-mit-hightech-methoden-ld.10024394",
+      "summary": "",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ein Drittes Kind Warum auf Diese Frage Heute die Antwort Viel zu Oft ist",
+      "url": "https://www.suedostschweiz.ch/linth/ein-drittes-kind-warum-auf-diese-frage-heute-die-antwort-viel-zu-oft-ist-1951825",
+      "summary": "",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Versuchter Livestream: 13-Jähriger in Rom greift Lehrerin an",
+      "url": "https://www.watson.ch/international/italien/885702812-versuchter-livestream-13-jaehriger-in-rom-greift-lehrerin-an",
+      "summary": "",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Royal Family: Buch von Dianas Bruder erhebt Vorwürfe gegen König Charles",
+      "url": "https://www.watson.ch/international/grossbritannien/152834099-royal-family-buch-von-dianas-bruder-erhebt-vorwuerfe-gegen-koenig-charles",
+      "summary": "",
+      "published": "2026-09-18T11:31:59.561813+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lady Gagas Baby heisst Rose Bean: Das bedeutet der Name",
+      "url": "https://www.watson.ch/leben/people-news/480550565-lady-gagas-baby-heisst-rose-bean-das-bedeutet-der-name",
+      "summary": "",
+      "published": "2026-09-18T11:31:59.561813+00:00"
     }
   ]
 }
