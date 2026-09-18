@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T22:32:04.062794+00:00",
+  "generated": "2026-09-18T23:02:08.197648+00:00",
   "date": "2026-09-19",
-  "count": 30,
+  "count": 32,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/angehende-polizistin-ich-schaetzte-es-sogar-auch-mal-in-der-nacht-zu-arbeiten-art-1722508",
       "summary": "",
       "published": "2026-09-18T22:32:04.062794+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Beim Abbiegen übersehen: Tödlicher Crash zwischen Auto und Motorrad",
+      "url": "https://www.blick.ch/schweiz/zuerich/beim-abbiegen-uebersehen-toedlicher-crash-zwischen-auto-und-motorrad-id22266448.html",
+      "summary": "In Bubikon ZH kam es am Freitagabend zu einem tödlichen Unfall. Ein Autofahrer übersah einen Motorradfahrer beim Abbiegen. Der 65-jährige Töfffahrer starb trotz Reanimationsversuchen noch an der Unfal",
+      "published": "2026-09-18T23:02:08.197648+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Roger Glover ist Gast Beim 500 Jahr Bachfischet in Aarau",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/roger-glover-ist-gast-beim-500-jahr-bachfischet-in-aarau-ld.4236347",
+      "summary": "",
+      "published": "2026-09-18T23:02:08.197648+00:00"
     }
   ]
 }
