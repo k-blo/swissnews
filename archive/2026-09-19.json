@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T23:02:08.197648+00:00",
+  "generated": "2026-09-18T23:32:13.673833+00:00",
   "date": "2026-09-19",
-  "count": 32,
+  "count": 33,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -226,6 +226,13 @@
       "url": "https://www.aargauerzeitung.ch/aargau/aarau/roger-glover-ist-gast-beim-500-jahr-bachfischet-in-aarau-ld.4236347",
       "summary": "",
       "published": "2026-09-18T23:02:08.197648+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "65-jähriger Töfffahrer kommt bei Verkehrsunfall ums Leben",
+      "url": "https://www.20min.ch/story/verkehrsunfall-kanton-zuerich-bubikon-motorradfahrer-kollision-mit-auto-103635673",
+      "summary": "Bei einer Kollision in Bubikon ist am Freitagabend ein 65-jähriger Motorradfahrer tödlich verletzt worden. Der Unfall passierte, als ein Auto in die Grüningerstrasse einbog.",
+      "published": "2026-09-18T23:32:13.673833+00:00"
     }
   ]
 }
