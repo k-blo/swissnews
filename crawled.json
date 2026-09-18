@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T04:02:22.940693+00:00",
+  "generated": "2026-09-18T04:32:07.068401+00:00",
   "date": "2026-09-18",
-  "count": 226,
+  "count": 242,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1584,6 +1584,118 @@
       "url": "https://www.suedostschweiz.ch/linth/pensionskasse-baut-neue-wohnungen-in-rapperswil-jona-oeffentlichkeit-erhaelt-zueckerchen-2164459",
       "summary": "",
       "published": "2026-09-18T04:02:22.940693+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Ungleichheit in der Schweiz – Neue Studie zeigt: Die Reichsten bezahlen am wenigsten Steuern",
+      "url": "https://www.srf.ch/news/wirtschaft/ungleichheit-in-der-schweiz-neue-studie-zeigt-die-reichsten-bezahlen-am-wenigsten-steuern",
+      "summary": "Wer mehr verdient, soll auch mehr Steuern bezahlen. Doch das Gegenteil ist der Fall: Das Top 1% bezahlt am wenigsten.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Vernehmlassungsende – Mischen von PFAS-Fleisch: Vorschlag des Bundesrats ist umstritten",
+      "url": "https://www.srf.ch/news/schweiz/vernehmlassungsende-mischen-von-pfas-fleisch-vorschlag-des-bundesrats-ist-umstritten",
+      "summary": "Vermischen von PFAS-Fleisch und strengere Trinkwasser-Grenzwerte: Die Reaktionen auf diese Massnahmen sind gemischt.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schuttkegel Blatten – Was unter dem Schutt zum Umweltrisiko wird",
+      "url": "https://www.srf.ch/news/schweiz/schuttkegel-blatten-was-unter-dem-schutt-zum-umweltrisiko-wird",
+      "summary": "Im betroffenen Gebiet in Blatten befanden sich laut einer neuen Studie geschätzt 150'000 Liter Heizöl und Treibstoff.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Seco-Chefin Helene Budliger: Der Spitzen­diplomatin von Guy Parmelin winken lukrative Wirtschaftsmandate",
+      "url": "https://www.tagesanzeiger.ch/seco-direktorin-budliger-diese-lukrativen-mandate-stehen-bereit-635073873352",
+      "summary": "Die scheidende Staats­sekretärin Helene Budliger Artieda ist mit Schweizer Wirtschafts­grössen bestens vernetzt. Ihre Vorgängerin wurde Verwaltungs­rätin in mehreren Konzernen.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zum Fall Lindsay Clancy: Sie hat ihre drei kleinen Kinder erwürgt – und ist für Feministinnen das Opfer",
+      "url": "https://www.tagesanzeiger.ch/lindsay-clancy-warum-haben-frauen-verstaendnis-fuer-sie-682287135702",
+      "summary": "Die 36-Jährige steht wegen dreifachem Mord vor Gericht. Statt Entsetzen erntet sie in den USA Solidarität. Warum zeigen manche Frauen so viel Sympathie für sie?",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "KI-Entwicklung: Claude entwickelt bereits 26 Prozent seines eigenen Nachfolgers",
+      "url": "https://www.tagesanzeiger.ch/anthropic-ai-claude-entwickelt-seinen-nachfolger-mit-897287836042",
+      "summary": "Das KI-Modell übernimmt bereits über ein Viertel der Forschungsarbeit bei Anthropic. Das Unternehmen fordert die gesamte Branche auf, solche Kennzahlen offenzulegen – bevor die Selbstverbesserung unko",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Abstimmung in Ostermundigen: Ein 69 Meter hoher Holzturm könnte neue Nachhaltigkeits-Massstäbe setzen",
+      "url": "https://www.bernerzeitung.ch/ostermundigen-abstimmung-ueber-69-meter-holzhochhaus-741491813807",
+      "summary": "Ostermundigen könnte bald einen «Ökoturm» erhalten. Am 27. September entscheidet das Stimmvolk über das Projekt.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Events Thun/Oberland: Vom Nebenerwerb zum Hobby: So werden Trückli gemacht",
+      "url": "https://www.bernerzeitung.ch/vom-nebenerwerb-zum-hobby-so-werden-trueckli-gemacht-243110102577",
+      "summary": "In Adelboden wird altes Handwerk gepflegt, in Thun musiziert und erzählt und in Oey geschwungen: Die Ausgehtipps für die nächsten sieben Tage.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Produktiver «Breitsch»-Akteur: Die Promotion League als Sprungbrett zum Profifussball",
+      "url": "https://www.bernerzeitung.ch/fc-breitenrain-kevin-krasniqi-will-profifussball-741897192574",
+      "summary": "Er trainierte einst unter Mauro Lustrinelli, zurzeit spielt Kevin Krasniqi für den FC Breitenrain. Doch der 21-Jährige strebt nach Höherem. Seine Inspiration: Cristiano Ronaldo.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Basler Anti-Chaoten-Initiative: «Eine unbewilligte Demo ist nicht illegal»– «Du verharmlost das Problem»",
+      "url": "https://www.bazonline.ch/anti-chaoten-initiative-basel-svp-und-sp-im-streit-894787595986",
+      "summary": "Die SVP will «Störer» an Demos härter anpacken, die Linke warnt vor einem Eingriff in die Grundrechte. Beim Streitgespräch zwischen Pascal Messerli (SVP) und Daniel Gmür (SP) prallen zwei Welten aufei",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Zwischen Dorf-Romantik und Drogen­szene: 20 Jahre Matthäusmarkt: Wo Kastenvelo-Eltern auf Dealer und Baselbieter Bauern treffen",
+      "url": "https://www.bazonline.ch/matthaeusmarkt-basel-20-jahre-quartiermarkt-in-kleinbasel-784701770833",
+      "summary": "Seit zwei Jahrzehnten ist der Matthäusmarkt ein wichtiger Treffpunkt für das untere Kleinbasel, ein Versuchsfeld für Gastro-Start-ups – und ein Seismograf für die Umbrüche im Quartier.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Nati-Stars herzen Noah Okafor nach Rücktritt – wie gefährlich ist das für Murat Yakin?",
+      "url": "https://www.shn.ch/sport/2026-09-18/nati-stars-herzen-noah-okafor-nach-ruecktritt-wie-gefaehrlich-ist-das-fuer-murat",
+      "summary": "Murat Yakin äussert sich erstmals ausführlich über den Rücktritt von Noah Okafor. Welche Folgen der Entscheid für den Nationaltrainer haben könnte.",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Republikanerin Salazar kritisiert Donald Trump wegen Migrationspolitik",
+      "url": "https://www.watson.ch/international/usa/239862185-republikanerin-salazar-kritisiert-donald-trump-wegen-migrationspolitik",
+      "summary": "",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cute News: Lustige Tierbilder von Motten, Ziegen und Koalas",
+      "url": "https://www.watson.ch/spass/cute-news/903116497-cute-news-lustige-tierbilder-von-motten-ziegen-und-koalas",
+      "summary": "",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Monster liegen im Bett»: Vergewaltiger-Netzwerk reicht bis in die Schweiz",
+      "url": "https://www.freiburger-nachrichten.ch/story/290791/monster-liegen-im-bett-vergewaltigernetzwerk-reicht-bis-in-die-schweiz",
+      "summary": "",
+      "published": "2026-09-18T04:32:07.068401+00:00"
+    },
+    {
+      "source": "Rathuus",
+      "title": "So Sportlich ist der Zürcher Kantonsrat",
+      "url": "https://rathuus.ch/so-sportlich-ist-der-zuercher-kantonsrat/",
+      "summary": "",
+      "published": "2026-09-18T04:32:07.068401+00:00"
     }
   ]
 }
