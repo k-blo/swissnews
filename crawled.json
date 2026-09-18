@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T10:32:23.570059+00:00",
+  "generated": "2026-09-18T11:02:22.330796+00:00",
   "date": "2026-09-18",
-  "count": 531,
+  "count": 542,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3719,6 +3719,83 @@
       "url": "https://www.bote.ch/nachrichten/sport/fussball-wegen-sbb-knatsch-und-fandrohung-sion-gegen-fc-zuerich-verschoben-art-1722476",
       "summary": "",
       "published": "2026-09-18T10:32:23.570059+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Datenklau bei Online-Bank – Hackerangriff auf Revolut trifft viele Schweizer Bankkunden",
+      "url": "https://www.srf.ch/news/international/datenklau-bei-online-bank-hackerangriff-auf-revolut-trifft-viele-schweizer-bankkunden",
+      "summary": "Hacker haben Kontodaten der britischen Online-Bank Revolut geklaut – und fordern nun auf ungewöhnliche Weise Lösegeld.",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Berkshire Hathaway: Warren Buffett gibt mit 96 Jahren den Verwaltungsrats­vorsitz per sofort ab",
+      "url": "https://www.tagesanzeiger.ch/warren-buffett-gibt-mit-96-jahren-den-verwaltungsratsvorsitz-per-sofort-ab-365465926893",
+      "summary": "Der legendäre US-Investor zieht sich als Chairman des Billionen-Konzerns zurück. Sein Sohn Howard Buffett soll die Nachfolge an der Spitze übernehmen.",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sender habe Frau gewollt: Sascha Ruefer abgesetzt: SRF wechselt Schwing-Moderator aus",
+      "url": "https://www.tagesanzeiger.ch/schwingen-srf-setzt-sascha-ruefer-ab-183968936276",
+      "summary": "Am Kilchberg-Schwinget fiel auf, dass im TV eine neue Moderatorin durch den Anlass führte. Sascha Ruefer wurde vom SRF ausgetauscht.",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Neun Pächter seit 2013: Drei Gründe, warum alle Gastrokonzepte im Feldberg-Kiosk scheiterten",
+      "url": "https://www.bazonline.ch/feldberg-kiosk-warum-9-gastro-konzepte-scheiterten-347731462865",
+      "summary": "Vegane Burger, asiatische Küche, Tacos – nichts funktionierte in der Liegenschaft im unteren Kleinbasel. Darum wurde das Gebäude trotz günstiger Miete zum Friedhof der Gastroträume.",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Aquila-CIO: «Der Anleihenmarkt bereitet mir am meisten Sorgen»",
+      "url": "https://www.finews.ch/news/banken/73649-aquila-silvano-marchesi-anleihenmarkt-us-schulden-ki-gold",
+      "summary": "Öl, KI-Boom und steigende US-Renditen setzen die Märkte unter Druck. Aquila-CIO Silvano Marchesi sieht die grösste Gefahr jedoch am Anleihenmarkt – und setzt wieder stärker auf Gold.",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Saisonauftakt von Argovia Philharmonic mit Saint Säns und einer Liveschaltung",
+      "url": "https://www.aargauerzeitung.ch/kultur/aargau/saisonauftakt-von-argovia-philharmonic-mit-saint-saens-und-einer-liveschaltung-ld.4231368",
+      "summary": "",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarau Weiht Sanierte Rasensportanlage Winkel ein",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-weiht-sanierte-rasensportanlage-winkel-ein-ld.4236368",
+      "summary": "",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Fortyseven in Baden Baut Gastronomie um Neues Restaurant Heisst Tyde",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/fortyseven-in-baden-baut-gastronomie-um-neues-restaurant-heisst-tyde-ld.4236335",
+      "summary": "",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mindestens 16 Tote bei Anschlag mit Autobombe in Pakistan",
+      "url": "https://www.watson.ch/international/pakistan/250165049-mindestens-16-tote-bei-anschlag-mit-autobombe-in-pakistan",
+      "summary": "",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warren Buffett tritt bei Berkshire Hathaway ab",
+      "url": "https://www.watson.ch/wirtschaft/international/273602210-warren-buffett-tritt-bei-berkshire-hathaway-ab",
+      "summary": "",
+      "published": "2026-09-18T11:02:22.330796+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frauen betäubt: Opferhilfen berichten von mehreren Fällen in der",
+      "url": "https://www.watson.ch/schweiz/haeusliche-gewalt/593325451-frauen-betaeubt-opferhilfen-berichten-von-mehreren-faellen-in-der",
+      "summary": "",
+      "published": "2026-09-18T11:02:22.330796+00:00"
     }
   ]
 }
