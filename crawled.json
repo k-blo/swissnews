@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-18T16:02:13.240878+00:00",
+  "generated": "2026-09-18T16:22:40.256439+00:00",
   "date": "2026-09-18",
-  "count": 826,
+  "count": 838,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5784,6 +5784,90 @@
       "url": "https://www.freiburger-nachrichten.ch/story/290841/putin-nimmt-nestl-ins-visier",
       "summary": "",
       "published": "2026-09-18T16:02:13.240878+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Habe Verantwortung meines Vaters auf meinen Freund übertragen»",
+      "url": "https://www.20min.ch/story/summer-terenzi-habe-verantwortung-meines-vaters-auf-meinen-freund-uebertragen-103635266",
+      "summary": "Summer Terenzi spricht im TV unter Tränen über die Enttäuschungen durch ihren Vater Marc. Als Kind habe sie oft vergeblich auf ihn gewartet.",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Grenzschutzinitiative der SVP: Kommt bereits die nächste Chaos-Initiative?",
+      "url": "https://www.tagesanzeiger.ch/bundesrat-lehnt-svp-grenzschutzinitiative-ab-697070082426",
+      "summary": "Der Bundesrat lehnt das jüngste Volksbegehren der SVP ab. Ungültig erklären will er die Initiative nicht – obwohl sie sich im Wortlaut gar nicht umsetzen lasse.",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Macklemore erhält Wandbild in Gaza",
+      "url": "https://www.zentralplus.ch/news/macklemore-erhaelt-wandbild-in-gaza-2899391/",
+      "summary": "Künstler in Gaza haben dem US-Rapper Macklemore ein Wandbild gewidmet. Auf einer grossen Betonplatte in den Ruinen von Gaza-Stadt ist der Musiker mit erhobener Faust und in eine palästinensische Flagg",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Weinfelden Berufswettkampf für Fachfrauen Gesundheit",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/weinfelden-berufswettkampf-fuer-fachfrauen-gesundheit-ld.4236595",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Nicolas Dähler Schwimmt in Costa Rica Gegen die Dürre",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/nicolas-daehler-schwimmt-in-costa-rica-gegen-die-duerre-ld.4232896",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Alexandre Felt Soll Neuer Kraftwerksleiter in Gösgen Werden",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/alexandre-felt-soll-neuer-kraftwerksleiter-in-goesgen-werden-ld.4236999",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Pro Alps Lädt zu Wanderung Rund um die Göscheneralp",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/pro-alps-laedt-zu-wanderung-rund-um-die-goescheneralp-ld.4236276",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Im Dezember ist Schluss: Jan Böhmermann stellt «ZDF Magazin Royale» ein",
+      "url": "https://www.watson.ch/international/tv/868768635-im-dezember-ist-schluss-jan-boehmermann-stellt-zdf-magazin-royale-ein",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Achterbahn-Waggon der grandiosen Osnabrück-Choreo gestohlen",
+      "url": "https://www.watson.ch/sport/bundesliga/537549116-achterbahn-waggon-der-grandiosen-osnabrueck-choreo-gestohlen",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Interaktive Wanderung zeigt Lösungen für die Göscheneralp",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/pro-alps-laedt-zu-wanderung-rund-um-die-goescheneralp-art-1722550",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Ich bin Russe»: Hockeylegende reagiert auf den Vorwurf der Putin-Nähe",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/so-reagiert-der-nhl-star-owetschkin-auf-den-vorwurf-er-verteidige-putin-art-1722549",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Tanzfeste Schliessen vor Chaoten Waffen Strecken",
+      "url": "https://insideparadeplatz.ch/2026/09/18/tanzfeste-schliessen-vor-chaoten-waffen-strecken/",
+      "summary": "",
+      "published": "2026-09-18T16:22:40.256439+00:00"
     }
   ]
 }
