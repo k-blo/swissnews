@@ -4,26 +4,26 @@
     "etag": "\"8172129c714f1420b03525a619460dcf\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"185f3-YV43+J6+23xkpSqBjhg3wIZLty0\""
+    "etag": "W/\"185f3-w8psHAfZK2ylOPZwWVkMU5V3lNM\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"c9bf-fdnIuSGfhuTeCruj3uuhZlYpKL0\""
+    "etag": "W/\"c962-SoDHCASyUaAMhW/M4mwFAcqOkmM\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"e73c-jKUilSOxgEQnt1Iuo0g+oj13uP8\""
+    "etag": "W/\"e779-P1bWodFhwMscLZvtynS8yNSEjVc\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Sat, 19 Sep 2026 02:20:13 GMT"
+    "last_modified": "Sat, 19 Sep 2026 03:11:00 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Sat, 19 Sep 2026 03:01:09 GMT"
+    "last_modified": "Sat, 19 Sep 2026 03:31:14 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Sat, 19 Sep 2026 02:11:10 GMT",
     "etag": "\"1789783870\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sat, 19 Sep 2026 02:57:34 GMT"
+    "last_modified": "Sat, 19 Sep 2026 03:27:34 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
@@ -33,7 +33,7 @@
     "etag": "W/\"e1d7-UkyNPzMaGvVONo5uHGQ+QFL8b0Y\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"cc84-xVEyvgYTwUbfPVtdgyUHizwJHUs\""
+    "etag": "W/\"cd1f-Jof+1udlkI4DjAmkw/KGz9qaSfQ\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Sat, 19 Sep 2026 02:20:54 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1789542485\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sat, 19 Sep 2026 03:00:28 GMT",
-    "etag": "W/\"1789786828-gzip\""
+    "last_modified": "Sat, 19 Sep 2026 03:30:29 GMT",
+    "etag": "W/\"1789788629-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"1af2f-9OIje4rCbQcQdMTsNw4tF+yfN5o\""
