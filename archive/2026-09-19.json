@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-19T00:36:56.904652+00:00",
+  "generated": "2026-09-19T01:02:24.045187+00:00",
   "date": "2026-09-19",
-  "count": 38,
+  "count": 39,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -268,6 +268,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/merz-vor-dem-untergang-selten-hat-ein-kanzler-so-versagt",
       "summary": "",
       "published": "2026-09-19T00:32:44.229250+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kuba: Stromnetz bricht zusammen",
+      "url": "https://www.zentralplus.ch/news/kuba-stromnetz-bricht-zusammen-2899430/",
+      "summary": "Im Karibikstaat Kuba ist es zum siebten Mal seit Jahresbeginn zu einem kompletten Stromausfall gekommen. «Die Ursache wird umgehend untersucht, und die Protokolle zur Wiederherstellung der Versorgung ",
+      "published": "2026-09-19T01:02:24.045187+00:00"
     }
   ]
 }
