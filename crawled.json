@@ -1,6 +1,21 @@
 {
-  "generated": "2026-09-19T22:02:10.492759+00:00",
+  "generated": "2026-09-19T22:32:09.448512+00:00",
   "date": "2026-09-20",
-  "count": 0,
-  "articles": []
+  "count": 2,
+  "articles": [
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview mit Harald Lesch: «Niemand, der bei Verstand ist, baut heute noch Kernkraftwerke»",
+      "url": "https://www.tagesanzeiger.ch/harald-lesch-uebers-klima-wasser-wird-in-europa-knapp-700884401907",
+      "summary": "Der Münchner Astrophysiker ist ein grosser Erklärer der Natur­wissenschaft. Er spricht über das Klima, vom Rekordsommer «überraschte» Politiker und KI an Schulen. Und teilt aus.",
+      "published": "2026-09-19T22:32:09.448512+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Wurzeln Cressiers reichen weit tiefer als ins Jahr 1080",
+      "url": "https://www.freiburger-nachrichten.ch/story/289090/die-wurzeln-cressiers-reichen-weit-tiefer-als-ins-jahr-1080",
+      "summary": "",
+      "published": "2026-09-19T22:32:09.448512+00:00"
+    }
+  ]
 }
