@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-19T02:02:14.135464+00:00",
+  "generated": "2026-09-19T02:32:08.237147+00:00",
   "date": "2026-09-19",
-  "count": 45,
+  "count": 57,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -317,6 +317,90 @@
       "url": "https://www.freiburger-nachrichten.ch/story/291014/kanada-gibt-gr%C3%BCnes-licht-sandoz-macht-vorw%C3%A4rts-mit-diabetesspritzen",
       "summary": "",
       "published": "2026-09-19T02:02:14.135464+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Deutsche Luftwaffe erhält F-35-Jet",
+      "url": "https://www.zentralplus.ch/news/deutsche-luftwaffe-erhaelt-f-35-jet-2899434/",
+      "summary": "Der deutsche Verteidigungsminister Boris Pistorius hat am Freitag das erste Kampfflugzeug vom Typ F-35 für die deutsche Luftwaffe in Empfang genommen. «Für die Luftwaffe beginnt ab jetzt eine neue Ära",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Netto-Null im Betrieb: Was Schaffhauser Unternehmen konkret tun können",
+      "url": "https://www.shn.ch/region/regionale-wirtschaft/2026-09-19/netto-null-im-betrieb-was-schaffhauser-unternehmen-konkret",
+      "summary": "Wie gelingt der Weg zu Netto-Null? Schaffhauser Unternehmen zeigen, wo sie ansetzen und warum dabei nicht alles auf einmal gehen kann. Tipps für den Einstieg in den CO₂-Ausstieg.",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Angst vor KI: Ohne Forschung wären wir noch in der Steinzeit",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-09-19/angst-vor-ki-ohne-forschung-waeren-wir-noch-in-der-steinzeit",
+      "summary": "Droht uns die Ausrottung durch die künstliche Intelligenz? Wir müssen klären, wo wir die Technologie einsetzen; die Forschung einzuschränken ist aber der falsche Weg.",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Spitzenkampf mit alten Bekannten: Kadetten gastieren bei Kriens-Luzern",
+      "url": "https://www.shn.ch/sport/handball/2026-09-19/spitzenkampf-mit-alten-bekannten-kadetten-gastieren-bei-kriens-luzern",
+      "summary": "Die Kadetten gastieren am Sonntag bei Meister Kriens-Luzern. Das erste Kräftemessen der beiden Titelfavoriten ist zugleich ein Wiedersehen mit mehreren ehemaligen Schaffhausern, was dem Duell besonder",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Angela Haas Übernimmt die Apfelkönigin Wahl an der Wega",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/angela-haas-uebernimmt-die-apfelkoenigin-wahl-an-der-wega-ld.4236346",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Von Sonnenschutz Bis Lebensretter was Kopfbedeckungen Alles Draufhaben",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/von-sonnenschutz-bis-lebensretter-was-kopfbedeckungen-alles-draufhaben-ld.4236024",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kopfbedeckungen im Lauf der Geschichte Schutz Status Stil",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/kopfbedeckungen-im-lauf-der-geschichte-schutz-status-stil-ld.4235892",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Bezirksgericht Münchwilen Spricht Vermeintlich Illegalen Waffenimporteur Frei",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/bezirksgericht-muenchwilen-spricht-vermeintlich-illegalen-waffenimporteur-frei-ld.4235811",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Thurgauer Gewerkschaftsbund Kritisiert Migros Teo Filiale",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/thurgauer-gewerkschaftsbund-kritisiert-migros-teo-filiale-ld.4236388",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Felben Wellhausen Ralph Ott Zögert Wegen Pensumkürzung",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/felben-wellhausen-ralph-ott-zoegert-wegen-pensumkuerzung-ld.4235310",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Arena» zu UBS-Regulierung: AT1, Eigenkapital und Lobbying-Zoff",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/432219968-arena-zu-ubs-regulierung-at1-eigenkapital-und-lobbying-zoff",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "PFAS: Kritik an Grenzwerten und dem Vermischen belasteter Lebensmittel",
+      "url": "https://www.freiburger-nachrichten.ch/story/291010/pfas-kritik-an-grenzwerten-und-dem-vermischen-belasteter-lebensmittel",
+      "summary": "",
+      "published": "2026-09-19T02:32:08.237147+00:00"
     }
   ]
 }
