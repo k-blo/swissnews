@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-19T23:31:50.630196+00:00",
+  "generated": "2026-09-20T00:02:14.198993+00:00",
   "date": "2026-09-20",
-  "count": 2,
+  "count": 3,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -16,6 +16,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/289090/die-wurzeln-cressiers-reichen-weit-tiefer-als-ins-jahr-1080",
       "summary": "",
       "published": "2026-09-19T22:32:09.448512+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hitzesommer drückte auf Produktivität",
+      "url": "https://www.zentralplus.ch/news/hitzesommer-drueckte-auf-produktivitaet-2899516/",
+      "summary": "Der Hitzesommer 2026 soll die Wirtschaft 2,1 Milliarden Franken gekostet haben. Das sagt eine Studie im Auftrag des Schweizerischen Städteverbands, die der «NZZ am Sonntag» vorliegt. Sie hat die Produ",
+      "published": "2026-09-20T00:02:14.198993+00:00"
     }
   ]
 }
