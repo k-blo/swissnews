@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T20:02:03.747477+00:00",
+  "generated": "2026-09-20T20:14:11.746479+00:00",
   "date": "2026-09-20",
-  "count": 558,
+  "count": 561,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -3908,6 +3908,27 @@
       "url": "https://www.watson.ch/international/deutschland/363306471-naechstes-desaster-fuer-die-cdu-der-wahltag-in-deutschland-in-5-punkten",
       "summary": "",
       "published": "2026-09-20T20:02:03.747477+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "KI-Protokoll in Sitzungen: «Kritische Diskussion finden höchstens noch in Kaffeepausen oder beim Mittagessen statt»",
+      "url": "https://www.bernerzeitung.ch/ai-notizassistent-wie-er-sitzungen-praegt-296835502238",
+      "summary": "Immer mehr Unternehmen lassen Sitzungen automatisch transkribieren. Das spart Zeit – doch Mitarbeitende zensieren sich aus Angst vor Konsequenzen selbst.",
+      "published": "2026-09-20T20:14:11.746479+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Wahlsonntag in Deutschland: In Berlin feiert die Linke – im Nordosten droht der CDU ein historisches Debakel",
+      "url": "https://www.derbund.ch/afd-gewinnt-mecklenburg-vorpommern-270665239620",
+      "summary": "Die linke Spitzenkandidatin Elif Eralp gewinnt die Wahl in der Hauptstadt. In Mecklenburg-Vorpommern holt die AfD den ersten Platz, die CDU scheitert gemäss Hochrechnungen an der 5-Prozent-Hürde. Was ",
+      "published": "2026-09-20T20:14:11.746479+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Urner Jungschützennachwuchs Trotzt Schwierigen Bedingungen",
+      "url": "https://www.urnerzeitung.ch/leserbeitrag/uz/urner-jungschuetzennachwuchs-trotzt-schwierigen-bedingungen-ld.4237360",
+      "summary": "",
+      "published": "2026-09-20T20:14:11.746479+00:00"
     }
   ]
 }
