@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T22:01:55.674785+00:00",
+  "generated": "2026-09-20T22:32:05.107197+00:00",
   "date": "2026-09-21",
-  "count": 6,
+  "count": 29,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -44,6 +44,167 @@
       "url": "https://www.freiburger-nachrichten.ch/story/288482/frauenriege-kerzers-reist-ins-hasliberggebiet",
       "summary": "",
       "published": "2026-09-20T22:01:55.674785+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wahlen Russland: Partei von Vladimir Putin Geeintes Russland Wahlsieger",
+      "url": "https://www.watson.ch/international/russland/887681759-wahlen-russland-partei-von-vladimir-putin-geeintes-russland-wahlsieger",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Sehr gut», «super», «optimal»: Eine Badisaison auf der Sonnenseite",
+      "url": "https://www.bote.ch/nachrichten/schwyz/sehr-gut-super-optimal-eine-badisaison-auf-der-sonnenseite-art-1722544",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwischen Hebammen und Rechtsanwälten: Mitte Schwyz beginnt neue Ära",
+      "url": "https://www.bote.ch/nachrichten/schwyz/zwischen-hebammen-und-rechtsanwaelten-mitte-schwyz-beginnt-neue-aera-art-1722752",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wild garniert mit Ländlermusik",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wild-garniert-mit-laendlermusik-art-1722737",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was für ein Fest!",
+      "url": "https://www.bote.ch/nachrichten/schwyz/was-fuer-ein-fest-art-1722731",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trotz Niederlage starker Auftritt im Cup",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/trotz-niederlage-starker-auftritt-im-cup-art-1722772",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Steigerung nach der Pause bringt den Heimsieg",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/steigerung-nach-der-pause-bringt-den-heimsieg-art-1722769",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Später Nackenschlag und keine Punkte für Ibach im Tessin",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/spaeter-nackenschlag-und-keine-punkte-fuer-ibach-im-tessin-art-1722759",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Seit Jahren wird hier Kindern vermittelt: «Ich kann was. Ich gehöre dazu.»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/seit-jahren-wird-hier-kindern-vermittelt-ich-kann-was-ich-gehoere-dazu-art-1722751",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyz besiegt den FC Luzern",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyz-besiegt-den-fc-luzern-art-1722765",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "SC Schwyz mit Remis",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/sc-schwyz-mit-remis-art-1722763",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Packende musikalische Lesung im Chupferturm",
+      "url": "https://www.bote.ch/nachrichten/schwyz/packende-musikalische-lesung-im-chupferturm-art-1722767",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neuer Verein Alzheimer Schwyz gegründet",
+      "url": "https://www.bote.ch/nachrichten/schwyz/neuer-verein-alzheimer-schwyz-gegruendet-art-1722546",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Küssnacht bezwingt Sion und klettert auf Rang zwei",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/kuessnacht-bezwingt-sion-und-klettert-auf-rang-zwei-art-1722775",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Harry Chäli und Prinz Grizzley: Wenn zwei Bergwelten aufeinandertreffen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/harry-chaeli-und-prinz-grizzley-wenn-zwei-bergwelten-aufeinandertreffen-art-1722768",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Goldau siegt beim Leader Emmen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/goldau-siegt-beim-leader-emmen-art-1722754",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Erfinder des Alpenrocks kommt nach Brunnen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/erfinder-des-alpenrocks-kommt-nach-brunnen-art-1722748",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Trubiläum, wie es schöner nicht hätte sein können",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ein-trubilaeum-wie-es-schoener-nicht-haette-sein-koennen-art-1722766",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Start nach Mass für den EHC Seewen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ein-start-nach-mass-fuer-den-ehc-seewen-art-1722756",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Mythen-Shooters siegen ungefährdet",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/die-mythen-shooters-siegen-ungefaehrdet-art-1722771",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Brunnen lässt gegen Perlen-Buchrain zwei Punkte liegen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/brunnen-laesst-gegen-perlen-buchrain-zwei-punkte-liegen-art-1722761",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Autos und Musik zum 60-Jahr-Jubiläum",
+      "url": "https://www.bote.ch/nachrichten/schwyz/autos-und-musik-zum-60-jahr-jubilaeum-art-1722734",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Alice Weidel in Einsiedeln",
+      "url": "https://www.bote.ch/service/leserbriefe/alice-weidel-in-einsiedeln-art-1722778",
+      "summary": "",
+      "published": "2026-09-20T22:32:05.107197+00:00"
     }
   ]
 }
