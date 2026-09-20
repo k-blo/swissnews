@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T23:01:53.389500+00:00",
+  "generated": "2026-09-20T23:33:00.756023+00:00",
   "date": "2026-09-21",
-  "count": 30,
+  "count": 32,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,20 @@
       "url": "https://www.bote.ch/nachrichten/kultur/late-night-switzerland-ki-uebernimmt-buessis-show-art-1722847",
       "summary": "",
       "published": "2026-09-20T23:01:53.389500+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "ICE-Beamter rammt Auto eines Mannes und feuert fünf Schüsse ab",
+      "url": "https://www.20min.ch/story/texas-usa-ice-schuesse-auf-mann-im-auto-proteste-in-austin-103636454",
+      "summary": "Im US-Bundesstaat Texas hat ein ICE-Beamter auf einen Mann geschossen. Der Vorfall löste Proteste am Ort des Geschehens aus.",
+      "published": "2026-09-20T23:33:00.756023+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Enttäuschung für Stefan Küng, Remco Evenepoel zum vierten Mal in Folge Weltmeister",
+      "url": "https://www.freiburger-nachrichten.ch/story/291339/entt%C3%A4uschung-f%C3%BCr-stefan-k%C3%BCng-remco-evenepoel-zum-vierten-mal-in-folge-weltmeister",
+      "summary": "",
+      "published": "2026-09-20T23:33:00.756023+00:00"
     }
   ]
 }
