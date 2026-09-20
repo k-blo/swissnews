@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T13:02:29.481945+00:00",
+  "generated": "2026-09-20T13:32:18.110569+00:00",
   "date": "2026-09-20",
-  "count": 322,
+  "count": 339,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -2256,6 +2256,125 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/stans-hps-und-logopaedie-beziehen-erweiterte-raeumlichkeiten-art-1722739",
       "summary": "",
       "published": "2026-09-20T13:02:29.481945+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Teure ZFF-Tickets: Wer die Stars sehen will, zahlt jetzt mehr",
+      "url": "https://www.blick.ch/schweiz/teure-zff-tickets-wer-die-stars-sehen-will-zahlt-jetzt-mehr-id22267549.html",
+      "summary": "Das Zurich Film Festival verlangt für gewisse Vorstellungen bis zu 119 Franken – deutlich mehr als letztes Jahr. Das Festival begründet die Erhöhung mit gestiegenen Kosten.",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Aktion zum Saisonende: Zürcher Badis lassen die Vierbeiner ins Wasser",
+      "url": "https://www.tagesanzeiger.ch/hundeschwimmen-zuercher-badis-oeffnen-zum-saisonende-fuer-vierbeiner-478896052177",
+      "summary": "Mehrere Badis öffneten ihre chlorfreien Becken am Wochenende exklusiv für Vierbeiner. Bis zu 200 Hunde planschten, rutschten und sprangen vom Sprungbrett.",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Europas Surf-Elite kämpft in Ebikon um den Titel",
+      "url": "https://www.zentralplus.ch/news/europas-surf-elite-kaempft-in-ebikon-um-den-titel-2899579/",
+      "summary": "In Ebikon werden erstmals Europameistertitel im Rapid Surfing vergeben. 78 Athletinnen treten auf der stehenden Welle gegeneinander an. Vom 23. bis 26. September findet im «Oana» in der Mall of Switze",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hünenberg soll beim Wohnen vorwärtsmachen",
+      "url": "https://www.zentralplus.ch/news/huenenberg-soll-beim-wohnen-vorwaertsmachen-2899568/",
+      "summary": "Die SP Hünenberg verlangt mehr preisgünstigen Wohnraum. Mit einer Motion setzt sie dem Gemeinderat ein konkretes Ziel. Der Gemeinderat soll innerhalb von zehn Jahren 50 preisgünstige Wohnungen bauen o",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "In Graubünden ist das Wimmeln Praktisch Abgeschlossen So Sieht das Resultat aus",
+      "url": "https://www.suedostschweiz.ch/graubuenden/in-graubuenden-ist-das-wimmeln-praktisch-abgeschlossen-so-sieht-das-resultat-aus-2164176",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Logistik Tagung in Aarau Jan Arnet Warnt vor Lastwagenfahrermangel in Europa",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/logistik-tagung-in-aarau-jan-arnet-warnt-vor-lastwagenfahrermangel-in-europa-ld.4236615",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Im Live Ticker der Fcsg Gegen Basel in der Super Leagü",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/im-live-ticker-der-fcsg-gegen-basel-in-der-super-league-ld.4236309",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "22 Jähriger Bedroht Gast in Gossauer Klub mit Messer",
+      "url": "https://www.tagblatt.ch/ostschweiz/toggenburg/22-jaehriger-bedroht-gast-in-gossauer-klub-mit-messer-ld.4237238",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Hsg Präzisiert Klimaziele Netto Null Bis 2030",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/hsg-praezisiert-klimaziele-netto-null-bis-2030-ld.4237239",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Der Liveticker zum Spiel Fc Basel Gegen Fc St Gallen",
+      "url": "https://www.bzbasel.ch/sport/fc-basel/der-liveticker-zum-spiel-fc-basel-gegen-fc-st-gallen-ld.4236356",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Wisen Feiert 800 Jahre mit Fest und Holzprogramm",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/wisen-feiert-800-jahre-mit-fest-und-holzprogramm-ld.4236391",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Volleyball Kanti Baden Startet mit Sieg in Lausanne",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/volleyball-kanti-baden-startet-mit-sieg-in-lausanne-ld.4236451",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Nach Kontrolle auf der A4 Vier Männer Festgenommen",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/nach-kontrolle-auf-der-a4-vier-maenner-festgenommen-ld.4237242",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Basel vs. FCSG – hier gibt es das Super-League-Spiel im Liveticker",
+      "url": "https://www.watson.ch/sport/liveticker/541371274-basel-vs-fcsg-hier-gibt-es-das-super-league-spiel-im-liveticker",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Tanzä - gniässä – fäschtä» mit der Trachtengruppe Buochs",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/tanzae-gniaessae-faeschtae-mit-der-trachtengruppe-buochs-art-1722742",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Es lebe der Pass! Nieder mit dem Verkehr!",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/es-lebe-der-pass-nieder-mit-dem-verkehr-art-1722741",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Jugendliche auf Pannenstreifen festgenommen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/zwei-jugendliche-auf-pannenstreifen-festgenommen-art-1722735",
+      "summary": "",
+      "published": "2026-09-20T13:32:18.110569+00:00"
     }
   ]
 }
