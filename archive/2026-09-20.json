@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T04:01:47.422721+00:00",
+  "generated": "2026-09-20T04:32:10.768674+00:00",
   "date": "2026-09-20",
-  "count": 86,
+  "count": 90,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -604,6 +604,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/291159/nach-ihrem-tod-wurde-es-entspannter-wie-schizophrenie-eine-familie-ver%C3%A4ndern-kann",
       "summary": "",
       "published": "2026-09-20T04:01:47.422721+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Krieg in der Ukraine: Moskau meldet ukrainischen Angriff mit 180 Drohnen am letzten Wahltag +++ Berichte von Cyberangriff  bei Wahlen in Russland",
+      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-moskau-meldet-ukrainischen-angriff-mit-180-drohnen-am-letzten-wahltag-berichte-von-cyberangriff-bei-wahlen-in-russland-ld.10021245",
+      "summary": "",
+      "published": "2026-09-20T04:32:10.768674+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Diebestour Durch die Schweiz er Startete in Ermenswil und Landete im Knast",
+      "url": "https://www.suedostschweiz.ch/linth/diebestour-durch-die-schweiz-er-startete-in-ermenswil-und-landete-im-knast-2162943",
+      "summary": "",
+      "published": "2026-09-20T04:32:10.768674+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Zwangsarbeit für die Spinnerei das Vergessene Kapitel der Versorgten Frauen im Marienheim in Rüti",
+      "url": "https://www.suedostschweiz.ch/glarus/zwangsarbeit-fuer-die-spinnerei-das-vergessene-kapitel-der-versorgten-frauen-im-marienheim-in-rueti-1274352",
+      "summary": "",
+      "published": "2026-09-20T04:32:10.768674+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Iran USA: Trump droht mit Eskalation",
+      "url": "https://www.watson.ch/international/iran/426646074-krieg-iran-usa-trump-droht-mit-eskalation",
+      "summary": "",
+      "published": "2026-09-20T04:32:10.768674+00:00"
     }
   ]
 }
