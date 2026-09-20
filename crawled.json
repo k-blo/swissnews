@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T22:32:05.107197+00:00",
+  "generated": "2026-09-20T23:01:53.389500+00:00",
   "date": "2026-09-21",
-  "count": 29,
+  "count": 30,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -205,6 +205,13 @@
       "url": "https://www.bote.ch/service/leserbriefe/alice-weidel-in-einsiedeln-art-1722778",
       "summary": "",
       "published": "2026-09-20T22:32:05.107197+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die KI übernimmt Büssis Show",
+      "url": "https://www.bote.ch/nachrichten/kultur/late-night-switzerland-ki-uebernimmt-buessis-show-art-1722847",
+      "summary": "",
+      "published": "2026-09-20T23:01:53.389500+00:00"
     }
   ]
 }
