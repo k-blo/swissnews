@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T10:31:50.513844+00:00",
+  "generated": "2026-09-20T11:01:54.945072+00:00",
   "date": "2026-09-20",
-  "count": 253,
+  "count": 265,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -1773,6 +1773,90 @@
       "url": "https://www.bote.ch/nachrichten/kultur/ed-sheeran-bittet-bei-erstem-konzert-nach-macklemore-ausschluss-um-entschuldigung-art-1722727",
       "summary": "",
       "published": "2026-09-20T10:31:50.513844+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Zwei Personen verhaftet: Zwei Personen bei Auseinandersetzung in Schaffhausen verletzt",
+      "url": "https://www.blick.ch/schweiz/schaffhausen/zwei-personen-verhaftet-zwei-personen-bei-auseinandersetzung-in-schaffhausen-verletzt-id22268719.html",
+      "summary": "In Schaffhausen kam es am frühen Sonntagmorgen zu einer Auseinandersetzung zwischen mehreren Personen. Dabei wurden mindestens zwei Personen verletzt. Zwei Personen wurden verhaftet.",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Auto überschlug sich: Zwei Personen bei Selbstunfall in Schwenden BE verletzt",
+      "url": "https://www.blick.ch/schweiz/bern/auto-ueberschlug-sich-zwei-personen-bei-selbstunfall-in-schwenden-be-verletzt-id22268720.html",
+      "summary": "In der Nacht auf Sonntag ist es in Schwenden im Diemtigtal zu einem Selbstunfall eines Autos gekommen. Der Fahrer wurde in kritischem Zustand mit einem Helikopter ins Spital geflogen. Der Beifahrer ve",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Toaster ausschütteln wegen Brösmeli? Das kann böse enden",
+      "url": "https://www.20min.ch/story/richtige-reinigung-toaster-ausschuetteln-wegen-broesmeli-das-kann-boese-enden-103636174",
+      "summary": "Den Toaster einfach umdrehen und ausschütteln? Was praktisch klingt, kann das Gerät beschädigen. So wirst du die Brösmeli sicher los.",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Nichts kapiert»: Fans verreissen Ed Sheerans Entschuldigung",
+      "url": "https://www.20min.ch/story/ed-sheeran-entschuldigt-sich-fuer-macklemore-rauswurf-fans-zeigen-sich-enttaeuscht-103636165",
+      "summary": "In Philadelphia sprach Ed Sheeran erstmals über den Wirbel um seine US-Tour. Viele Fans werfen ihm vor, den Kern des Problems immer noch nicht verstanden zu haben.",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hitlergrüsse und Gewalt: Demo in Den Haag eskaliert",
+      "url": "https://www.20min.ch/story/niederlande-hitlergruesse-und-gewalt-demo-in-den-haag-eskaliert-103636170",
+      "summary": "Bei einer rechtsextremen Demonstration in Den Haag eskalierte die Lage. Teilnehmer zeigten Hitlergrüsse und griffen Polizisten an. 24 Menschen wurden festgenommen.",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Parkhaus gesperrt: Autobrand am Flughafen Zürich – Rauch im Parkhaus P6",
+      "url": "https://www.tagesanzeiger.ch/brand-am-flughafen-zuerich-parkhaus-p6-gesperrt-327487413526",
+      "summary": "Am Samstagvormittag ist in einem Parkhaus am Flughafen Zürich ein Auto in Brand geraten. Die Feuerwehr konnte den Brand löschen, doch die Einfahrt ist derzeit nicht möglich.",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Militärübung auf Kreta: Kampfjets und Schnellboote überraschen Badegäste am Strand",
+      "url": "https://www.tagesanzeiger.ch/militaermanoever-medusa-touristen-auf-kreta-als-augenzeugen-326436928945",
+      "summary": "Das internationale Manöver «Medusa» endet mit einer Strandlandung direkt vor den Sonnenliegen von Touristen. Fünf Mittelmeerstaaten proben die militärische Zusammenarbeit.",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Unfall im Diemtigtal: Auto überschlägt sich und landet auf dem Dach in einem Bachbett",
+      "url": "https://www.bernerzeitung.ch/selbstunfall-im-diemtigtal-fahrer-kritisch-verletzt-527041056758",
+      "summary": "Ein Autofahrer gerät nachts in Schwenden von der Strasse ab und wird in kritischem Zustand ins Spital geflogen. Sein Beifahrer erlitt leichte Verletzungen.",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zwei Verletzte bei einer Schlägerei in Schaffhausen",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/640759111-zwei-verletzte-bei-einer-schlaegerei-in-schaffhausen",
+      "summary": "",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Ngetich läuft Halbmarathon-Weltrekord",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-ngetich-laeuft-halbmarathon-weltrekord",
+      "summary": "",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Europas Staatschefs schlagen Alarm: Russland könnte Eskalation gegen Nato-Staaten planen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/europas-staatschefs-schlagen-alarm-wegen-russlands-hybriden-angriffen-art-1722729",
+      "summary": "",
+      "published": "2026-09-20T11:01:54.945072+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Amerika Gewinnt Welt Verliert und Friert",
+      "url": "https://insideparadeplatz.ch/2026/09/20/amerika-gewinnt-welt-verliert-und-friert/",
+      "summary": "",
+      "published": "2026-09-20T11:01:54.945072+00:00"
     }
   ]
 }
