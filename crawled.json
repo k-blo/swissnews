@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T04:32:10.768674+00:00",
+  "generated": "2026-09-20T05:01:53.111764+00:00",
   "date": "2026-09-20",
-  "count": 90,
+  "count": 92,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -632,6 +632,20 @@
       "url": "https://www.watson.ch/international/iran/426646074-krieg-iran-usa-trump-droht-mit-eskalation",
       "summary": "",
       "published": "2026-09-20T04:32:10.768674+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neutralitätsinitiative: Christoph Blocher gesteht Niederlage bereits ein",
+      "url": "https://www.watson.ch/schweiz/christoph-blocher/271947934-neutralitaetsinitiative-christoph-blocher-gesteht-niederlage-bereits-ein",
+      "summary": "",
+      "published": "2026-09-20T05:01:53.111764+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Intimes Flüstern mit Überwältigungs-Ambition",
+      "url": "https://www.bote.ch/nachrichten/kultur/kunsthaus-zuerich-ikonen-der-sammlung-neu-praesentiert-art-1722708",
+      "summary": "",
+      "published": "2026-09-20T05:01:53.111764+00:00"
     }
   ]
 }
