@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T01:02:07.415451+00:00",
+  "generated": "2026-09-20T01:32:11.221606+00:00",
   "date": "2026-09-20",
-  "count": 8,
+  "count": 9,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -58,6 +58,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/291174/roger-r%C3%B6nnberg-und-dann-denkst-du-es-wird-ein-einfacher-abend",
       "summary": "",
       "published": "2026-09-20T01:02:07.415451+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neuer US-Angriff auf «Drogenschmuggler»",
+      "url": "https://www.zentralplus.ch/news/neuer-us-angriff-auf-drogenschmuggler-2899520/",
+      "summary": "Das US-Militär hat nach eigenen Angaben in der Karibik erneut ein Boot aus der Luft angegriffen und vier Menschen getötet. Das Schiff sei in den Drogenhandel verwickelt gewesen, schreibt das Southern ",
+      "published": "2026-09-20T01:32:11.221606+00:00"
     }
   ]
 }
