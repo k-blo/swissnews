@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T21:02:01.596537+00:00",
+  "generated": "2026-09-20T21:32:04.598192+00:00",
   "date": "2026-09-20",
-  "count": 572,
+  "count": 574,
   "articles": [
     {
       "source": "Tages-Anzeiger",
@@ -4006,6 +4006,20 @@
       "url": "https://www.blick.ch/schweiz/journalistin-des-jahres-susanne-brunner-nicht-mehr-srf-auslandschefin-id22267816.html",
       "summary": "Bis Ende September gibt es bei SRF zig Kündigungen. Bereits jetzt steht fest: Susanne Brunner leitet nicht mehr die SRF-Auslandsredaktion. Ihre Gaza-Berichte sollen nicht der Grund sein.",
       "published": "2026-09-20T21:02:01.596537+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "KI-Protokoll in Sitzungen: «Kritische Diskussionen finden höchstens noch in Kaffeepausen oder beim Mittagessen statt»",
+      "url": "https://www.derbund.ch/ai-notizassistent-wie-er-sitzungen-praegt-296835502238",
+      "summary": "Immer mehr Unternehmen lassen Sitzungen automatisch transkribieren. Das spart Zeit – doch Mitarbeitende zensieren sich aus Angst vor Konsequenzen selbst.",
+      "published": "2026-09-20T21:32:04.598192+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Sina Freis Monster-Serie reisst nach 3. Platz",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-sina-freis-monster-serie-reisst-nach-3-platz",
+      "summary": "",
+      "published": "2026-09-20T21:32:04.598192+00:00"
     }
   ]
 }
