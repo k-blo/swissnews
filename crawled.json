@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T23:23:42.731727+00:00",
+  "generated": "2026-09-21T23:32:10.461583+00:00",
   "date": "2026-09-22",
-  "count": 39,
+  "count": 40,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -275,6 +275,13 @@
       "url": "https://www.watson.ch/wirtschaft/international/558876073-usa-liefern-erstmals-seit-1977-waffen-nach-guatemala",
       "summary": "",
       "published": "2026-09-21T23:23:42.731727+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mette-Marit: Norwegen-Königin überraschend vorzeitig im Einsatz",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/986728988-mette-marit-norwegen-koenigin-ueberraschend-vorzeitig-im-einsatz",
+      "summary": "",
+      "published": "2026-09-21T23:32:10.461583+00:00"
     }
   ]
 }
