@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T00:31:52.060629+00:00",
+  "generated": "2026-09-21T01:02:05.034254+00:00",
   "date": "2026-09-21",
-  "count": 37,
+  "count": 41,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -261,6 +261,34 @@
       "url": "https://www.watson.ch/international/medien/245396611-landtagswahlen-meck-pom-und-berlin-druck-auf-friedrich-merz-waechst",
       "summary": "",
       "published": "2026-09-21T00:31:52.060629+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Putins Kriegsparlament: Kremlpartei zur Wahlsiegerin erklärt",
+      "url": "https://www.20min.ch/story/russland-duma-wahl-partei-von-wladimir-putin-wahlsiegerin-103636455",
+      "summary": "Bei der von Kritikern als Farce bezeichneten Parlamentswahl ist die regierende Kremlpartei zur Siegerin erklärt worden. In der neuen Staatsduma sitzen für die treibende Kriegskraft auch Veteranen.",
+      "published": "2026-09-21T01:02:05.034254+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "SVK: Tausende fordern Abtreibungsverbot",
+      "url": "https://www.zentralplus.ch/news/svk-tausende-fordern-abtreibungsverbot-2899619/",
+      "summary": "Tausende haben am Sonntag in der slowakischen Hauptstadt Bratislava gegen Abtreibungen und Leihmutterschaften demonstriert. Das öffentlich-rechtliche Fernsehen STVR sprach von rund 30&#8217;000 Teilne",
+      "published": "2026-09-21T01:02:05.034254+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Äthiopien: Allianz will Regierungssturz",
+      "url": "https://www.zentralplus.ch/news/aethiopien-allianz-will-regierungssturz-2899617/",
+      "summary": "Die sieben wichtigsten Rebellengruppen in Äthiopien haben sich offenbar zum Kampf gegen die Regierung zusammengeschlossen. Man habe eine Allianz gegründet mit dem Ziel, das Regime zu stürzen und eine ",
+      "published": "2026-09-21T01:02:05.034254+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Pro Life: Tausende Abtreibungsgegner demonstrieren in der Slowakei",
+      "url": "https://www.watson.ch/international/leben/831864903-pro-life-tausende-abtreibungsgegner-demonstrieren-in-der-slowakei",
+      "summary": "",
+      "published": "2026-09-21T01:02:05.034254+00:00"
     }
   ]
 }
