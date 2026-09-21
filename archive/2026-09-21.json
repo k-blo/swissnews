@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T02:02:06.597365+00:00",
+  "generated": "2026-09-21T02:32:01.639269+00:00",
   "date": "2026-09-21",
-  "count": 46,
+  "count": 51,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -324,6 +324,41 @@
       "url": "https://www.freiburger-nachrichten.ch/story/290808/warum-alte-schuhe-pl%C3%B6tzlich-nicht-mehr-passen",
       "summary": "",
       "published": "2026-09-21T02:02:06.597365+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Reportage erklärt das Recycling von Atommüll",
+      "url": "https://www.persoenlich.com/prcorporate-communication/reportage-erklart-das-recycling-von-atommull",
+      "summary": "Im Auftrag der Nagra geht Reporterin Michèle Roten in einem Video der Frage nach, warum Atommüll in der Schweiz nicht wiederaufgearbeitet wird.",
+      "published": "2026-09-21T02:32:01.639269+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Union erleidet ein Debakel, doch am Abgrund gibt Merz sich kämpferisch",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-09-21/die-union-erleidet-ein-debakel-doch-am-abgrund-gibt-merz-sich",
+      "summary": "Die Regionalwahlen in Berlin und Mecklenburg-Vorpommern enden mit schweren Niederlagen für die Partei des Kanzlers. Die AfD und die Linkspartei triumphieren.",
+      "published": "2026-09-21T02:32:01.639269+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Das Sportzentrum Aranea feiert 30 Jahre Kletterspass",
+      "url": "https://www.shn.ch/region/stadt/2026-09-21/das-sportzentrum-aranea-feiert-30-jahre-kletterspass",
+      "summary": "Im Rahmen des Tages der offenen Tür feiert das Sportzentrum Aranea am Samstag 30-Jahr-Jubiläum. Die Kletterbegeisterten konnten neben kostenlosem Eintritt von Klettershows, Kinderschminken und Essenss",
+      "published": "2026-09-21T02:32:01.639269+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Im Alter vergisst man manchmal, dass man ein Kind war»: Künstler Kolibri will das Spielerische im Menschen wecken",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-09-21/im-alter-vergisst-man-manchmal-dass-man-ein-kind-war-kuenstler",
+      "summary": "In der Galerie zum Kranz, dem ehemaligen Wirkungsort des verstorbenen Künstlers Josef Gnädinger, tut sich eine farbenfrohe Welt auf.",
+      "published": "2026-09-21T02:32:01.639269+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ihr Kind liest nicht gern? Diese Tipps können helfen",
+      "url": "https://www.freiburger-nachrichten.ch/story/290796/ihr-kind-liest-nicht-gern-diese-tipps-k%C3%B6nnen-helfen",
+      "summary": "",
+      "published": "2026-09-21T02:32:01.639269+00:00"
     }
   ]
 }
