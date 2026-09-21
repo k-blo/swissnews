@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T04:02:29.024295+00:00",
+  "generated": "2026-09-21T04:31:57.740513+00:00",
   "date": "2026-09-21",
-  "count": 122,
+  "count": 138,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -856,6 +856,118 @@
       "url": "https://www.watson.ch/wirtschaft/digital/994742960-vor-trump-xi-treffen-china-und-usa-sprechen-ueber-ki",
       "summary": "",
       "published": "2026-09-21T04:02:29.024295+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Verwitterte Felsen – Freiburg kämpft gegen die Erosion unter der Altstadt",
+      "url": "https://www.srf.ch/news/schweiz/verwitterte-felsen-freiburg-kaempft-gegen-die-erosion-unter-der-altstadt",
+      "summary": "Die Freiburger Altstadt bröckelt: Eine einsturzgefährdete Mauer muss aufwendig gesichert werden.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Landwirtschaftliches Erbe – Wie Tessiner Bauern ihren Polentamais zurückholten",
+      "url": "https://www.srf.ch/news/dialog/landwirtschaftliches-erbe-wie-tessiner-bauern-ihren-polentamais-zurueckholten",
+      "summary": "Seit der Nachkriegszeit drohte der Mais im Tessin zu verschwinden, wegen des Futteranbaus. Heute erlebt er ein Revival.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kameras statt Augen – KI macht die Schweizer Schienen sicherer",
+      "url": "https://www.srf.ch/news/schweiz/kameras-statt-augen-ki-macht-die-schweizer-schienen-sicherer",
+      "summary": "Statt durch mühsames Ablaufen werden monatlich 2000 Kilometer Schienen mittels KI gecheckt.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Super-GAU für Merz-Partei: CDU fliegt aus Landtag",
+      "url": "https://www.20min.ch/story/landtagswahlen-super-gau-fuer-merz-partei-cdu-fliegt-aus-landtag-103636468",
+      "summary": "Bitterer Abend für die CDU: In Mecklenburg-Vorpommern ist sie zum ersten Mal raus aus einem Landesparlament – und in Berlin muss sie sich der Linken geschlagen geben. Die Kanzlerpartei taumelt.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Autor Dave Eggers im Interview: «Trump wird die Zwischenwahlen verlieren, ich garantiere es»",
+      "url": "https://www.tagesanzeiger.ch/dave-eggers-warnt-vor-kuenstlicher-intelligenz-551872604790",
+      "summary": "Eggers kämpft für Schulen ohne Smartphone. Der Autor erklärt, was ihn dazu antreibt – und warum er einen Erdrutschsieg der Demokraten prophezeit.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Business-Apartments in Zürich: Viele Sugus-Wohnungen werden als Airbnbs vermietet – verletzt dies das neue Teilverbot?",
+      "url": "https://www.tagesanzeiger.ch/sugus-haeuser-airbnb-vermietung-verstoesst-gegen-teilverbot-815372922625",
+      "summary": "Seit dem 1. September verstossen Hunderte von temporär vermieteten Wohnungen gegen die Bauordnung. Dazu könnten auch jene in den leergekündigten Sugus-Häusern gehören.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ärger über Gefälligkeitsatteste: Trotz Arztzeugnis nicht wirklich krank? Bundesrat soll «Betrugspraxis» bekämpfen",
+      "url": "https://www.tagesanzeiger.ch/arztgeheimnis-nationalrat-will-lockerung-folgt-der-staenderat-548050462284",
+      "summary": "Die Arbeitgeber beklagen hohe Kosten wegen Schein­kranken – und wollen das Arzt­geheimnis lockern. Der National­rat stimmte bereits zu, morgen könnte der Ständerat folgen. Den Ärzten macht dies «gross",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vor dem Ski-Weltcup: Warum bleibt Odermatt länger als alle anderen in Chile?",
+      "url": "https://www.tagesanzeiger.ch/marco-odermatt-so-geht-es-dem-ski-star-nach-der-verletzung-663385293518",
+      "summary": "Der Nidwaldner trainiert noch immer in Südamerika. Wie geht es ihm und den anderen Schweizern und Schweizerinnen? Und was sollen die neuen WM-Pläne? Fragen und Antworten zum Ski-Winter.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Weg mit dem Smartphone: Wieso Sie sich wieder mal richtig langweilen sollten",
+      "url": "https://www.tagesanzeiger.ch/langeweile-warum-nichtstun-gluecklich-macht-410202556481",
+      "summary": "Noch schnell ans Handy, während man aufs Tram wartet – wir haben verlernt, die kleinen Lücken im Alltag auszuhalten. Dabei gilt: Wer sich langweilt, lebt gesünder.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Smartphone und Sicherheit: Was Sie tun können, wenn Ihr iPhone mit «Cleaner-Apps» verseucht ist",
+      "url": "https://www.tagesanzeiger.ch/cleaner-apps-fuers-iphone-teuer-und-nutzlos-321608155911",
+      "summary": "Was, wenn das Handy andauernd behauptet, es müsse dringend «gereinigt» werden? Schuld sind Apps von fragwürdigem Nutzen, aber mit exorbitanten Abopreisen.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Neues Kapitel im «Unterschriften-Bschiss»: Wie unser Reporter den abgetauchten Drahtzieher in den USA aufspürte",
+      "url": "https://www.tagesanzeiger.ch/unterschriftenbetrug-tessemo-startet-in-den-usa-neu-durch-195418378644",
+      "summary": "Nach dem Skandal um Fälschungen bei Initiativen aus der Schweiz ist eine der Schlüsselfiguren abgetaucht. Jetzt wurde Franck Tessemo in den USA erwischt – mit der gleichen Masche.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Basels hundertste Baustelle: Die Wanderstrasse wird für rund ein Jahr teilweise gesperrt",
+      "url": "https://www.bazonline.ch/wanderstrasse-basel-sperrung-dauert-bis-september-2027-185348752160",
+      "summary": "Die Teilsperrung dieser Hauptverkehrsachse nach Allschwil zwingt Pendler und Buslinien auf zeitraubende Umleitungen.",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "2 Oscar Nominierungen Dieser 80er Thriller von Ridley Scott Läuft Heute im Free Tv",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/2-oscar-nominierungen-dieser-80er-thriller-von-ridley-scott-laeuft-heute-im-free-tv-2165765",
+      "summary": "",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Landet Gastrokönig Peclard auf der Ufnau den Nächsten Coup",
+      "url": "https://www.suedostschweiz.ch/linth/landet-gastrokoenig-peclard-auf-der-ufnau-den-naechsten-coup-2162080",
+      "summary": "",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Streit eskaliert weiter: Trump kickt TV-Team von CNN aus Weissem Haus",
+      "url": "https://www.watson.ch/international/usa/109428496-streit-eskaliert-weiter-trump-kickt-tv-team-von-cnn-aus-weissem-haus",
+      "summary": "",
+      "published": "2026-09-21T04:31:57.740513+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Landwehr feiert frisch gekleidet das Schnapszahl-Jubiläum",
+      "url": "https://www.freiburger-nachrichten.ch/story/290959/die-landwehr-feiert-frisch-gekleidet-das-schnapszahljubil%C3%A4um",
+      "summary": "",
+      "published": "2026-09-21T04:31:57.740513+00:00"
     }
   ]
 }
