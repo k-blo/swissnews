@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T22:32:06.173696+00:00",
+  "generated": "2026-09-21T23:02:19.552020+00:00",
   "date": "2026-09-22",
-  "count": 35,
+  "count": 38,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -247,6 +247,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/400-sprinttalente-starteten-am-schweizer-final-in-bern-art-1722914",
       "summary": "",
       "published": "2026-09-21T22:32:06.173696+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Unfall bei Free-Fall-Turm: Mitarbeiter stirbt",
+      "url": "https://www.20min.ch/story/muenchner-oktoberfest-unfall-bei-free-fall-turm-mitarbeiter-stirbt-103636894",
+      "summary": "Ein Mitarbeiter eines Fahrgeschäfts auf dem Münchner Oktoberfest ist nach einem Unfall an seinen schweren Verletzungen gestorben.",
+      "published": "2026-09-21T23:02:19.552020+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Yosemite National Park: Löschhelikopter abgestürzt nach Waldbrand, 2 tot",
+      "url": "https://www.watson.ch/international/klima/462426763-yosemite-national-park-loeschhelikopter-abgestuerzt-nach-waldbrand-2-tot",
+      "summary": "",
+      "published": "2026-09-21T23:02:19.552020+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Oktoberfest 2026: Mitarbeiter nach Unfall in Lebensgefahr",
+      "url": "https://www.watson.ch/international/deutschland/161482298-oktoberfest-2026-mitarbeiter-nach-unfall-in-lebensgefahr",
+      "summary": "",
+      "published": "2026-09-21T23:02:19.552020+00:00"
     }
   ]
 }
