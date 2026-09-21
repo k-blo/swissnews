@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T01:02:05.034254+00:00",
+  "generated": "2026-09-21T01:32:02.665625+00:00",
   "date": "2026-09-21",
-  "count": 41,
+  "count": 43,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -289,6 +289,20 @@
       "url": "https://www.watson.ch/international/leben/831864903-pro-life-tausende-abtreibungsgegner-demonstrieren-in-der-slowakei",
       "summary": "",
       "published": "2026-09-21T01:02:05.034254+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jovenel Moise Haiti: 18 Angeklagte an die USA ausgeliefert",
+      "url": "https://www.watson.ch/international/usa/124926406-jovenel-moise-haiti-18-angeklagte-an-die-usa-ausgeliefert",
+      "summary": "",
+      "published": "2026-09-21T01:32:02.665625+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Huthis beschiessen saudische Hauptstadt – Meloni schickt Kriegsschiffe",
+      "url": "https://www.freiburger-nachrichten.ch/story/291344/huthis-beschiessen-saudische-hauptstadt-meloni-schickt-kriegsschiffe",
+      "summary": "",
+      "published": "2026-09-21T01:32:02.665625+00:00"
     }
   ]
 }
