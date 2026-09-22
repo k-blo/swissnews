@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-22T22:32:00.056765+00:00",
+  "generated": "2026-09-22T23:02:17.976755+00:00",
   "date": "2026-09-23",
-  "count": 31,
+  "count": 35,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -219,6 +219,34 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/120-wildkameras-ueberwachen-das-schwyzer-wild-art-1723134",
       "summary": "",
       "published": "2026-09-22T22:32:00.056765+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Parmelin hält Rede an UNO-Versammlung",
+      "url": "https://www.zentralplus.ch/news/parmelin-haelt-rede-an-uno-versammlung-2900091/",
+      "summary": "Bundespräsident Guy Parmelin hat an der 81. UNO-Generalversammlung in New York zur Zusammenarbeit aufgerufen. Das Vertrauen zwischen den Ländern schwinde. Dies betreffe nicht nur die Sicherheit, sonde",
+      "published": "2026-09-22T23:02:17.976755+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundesrat Guy Parmelin spricht an UN-Generalversammlung",
+      "url": "https://www.watson.ch/schweiz/international/578516045-bundesrat-guy-parmelin-spricht-an-un-generalversammlung",
+      "summary": "",
+      "published": "2026-09-22T23:02:17.976755+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Patient Zero: Taylor Swift veröffentlicht neue Single",
+      "url": "https://www.watson.ch/international/usa/586590076-patient-zero-taylor-swift-veroeffentlicht-neue-single",
+      "summary": "",
+      "published": "2026-09-22T23:02:17.976755+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Martin Pfister: Fixpreis beim F-35-Jet war ein Fehler",
+      "url": "https://www.watson.ch/schweiz/armee/172176514-martin-pfister-fixpreis-beim-f-35-jet-war-ein-fehler",
+      "summary": "",
+      "published": "2026-09-22T23:02:17.976755+00:00"
     }
   ]
 }
