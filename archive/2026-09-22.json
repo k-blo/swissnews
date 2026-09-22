@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T23:32:10.461583+00:00",
+  "generated": "2026-09-22T00:02:11.248528+00:00",
   "date": "2026-09-22",
-  "count": 40,
+  "count": 43,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -282,6 +282,27 @@
       "url": "https://www.watson.ch/international/gesellschaft-politik/986728988-mette-marit-norwegen-koenigin-ueberraschend-vorzeitig-im-einsatz",
       "summary": "",
       "published": "2026-09-21T23:32:10.461583+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Münchner Oktoberfest: Mitarbeiter nach Unfall bei Free-Fall-Turm gestorben",
+      "url": "https://www.tagesanzeiger.ch/oktoberfest-mitarbeiter-stirbt-nach-unfall-an-free-fall-turm-703262565241",
+      "summary": "Das Oktoberfest in München wird zu Wochenbeginn von einem schweren Unfall überschattet. Für einen Mitarbeiter kommt jede Hilfe zu spät. Augenzeugen müssen von Seelsorgern betreut werden.",
+      "published": "2026-09-22T00:02:11.248528+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Abkommen soll unterzeichnet werden",
+      "url": "https://www.zentralplus.ch/news/abkommen-soll-unterzeichnet-werden-2899852/",
+      "summary": "Die USA, Dänemark und Grönland wollen am Dienstag ihr angekündigtes Sicherheitsabkommen unterzeichnen. US-Präsident Donald Trump, die dänische Ministerpräsidentin Mette Frederiksen und der grönländisc",
+      "published": "2026-09-22T00:02:11.248528+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Paris: Fast eine Million Euro für Brigitte Bardots Habseligkeiten",
+      "url": "https://www.watson.ch/international/populaerkultur/242975937-paris-fast-eine-million-euro-fuer-brigitte-bardots-habseligkeiten",
+      "summary": "",
+      "published": "2026-09-22T00:02:11.248528+00:00"
     }
   ]
 }
