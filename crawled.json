@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-22T23:32:03.802273+00:00",
+  "generated": "2026-09-23T00:01:52.398826+00:00",
   "date": "2026-09-23",
-  "count": 40,
+  "count": 41,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -282,6 +282,13 @@
       "url": "https://www.watson.ch/international/schule-bildung/857021914-emmanuel-macron-kritisiert-vor-uno-lage-in-gaza-als-beschaemend",
       "summary": "",
       "published": "2026-09-22T23:32:03.802273+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA prüfen Exportstopp für Diesel",
+      "url": "https://www.zentralplus.ch/news/usa-pruefen-exportstopp-fuer-diesel-2900097/",
+      "summary": "Die Spritpreise in den USA ziehen weiter deutlich an, weswegen die US-Regierung nun einen Exportstopp des Kraftstoffs prüft. Die USA produzierten viel Diesel und eine Unterbrechung der Ausfuhren könnt",
+      "published": "2026-09-23T00:01:52.398826+00:00"
     }
   ]
 }
