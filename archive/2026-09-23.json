@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T10:02:31.542222+00:00",
+  "generated": "2026-09-23T10:31:57.591360+00:00",
   "date": "2026-09-23",
-  "count": 477,
+  "count": 499,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3341,6 +3341,160 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/ckw-plant-nur-noch-zwei-windraeder-auf-dem-ruswilerberg-art-1723323",
       "summary": "",
       "published": "2026-09-23T10:02:31.542222+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mann in Biel tot aufgefunden – Verdächtiger in Polen festgenommen",
+      "url": "https://www.20min.ch/story/biel-be-verdaechtiger-nach-tod-eines-mannes-in-polen-festgenommen-103637688",
+      "summary": "Ein Mann starb in Biel durch stumpfe Gewalteinwirkung. Nun wurde ein Verdächtiger in Polen angehalten – die Identität des Opfers ist weiterhin unklar.",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Geldscheine der Zukunft: Die neuen Euro-Noten kommen ab 2030 in Umlauf",
+      "url": "https://www.tagesanzeiger.ch/euro-banknoten-ezb-plant-neue-ausgabe-ab-2030-197542214684",
+      "summary": "Fast zehn Millionen Menschen haben über das Design der dritten Euro-Banknotenserie abgestimmt. Ende des Jahres will der EZB-Rat abschliessend über die Gestaltung der Scheine entscheiden.",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vortrag in Uster: Wie Altersbilder Gesundheit und Lebenserwartung prägen",
+      "url": "https://www.tagesanzeiger.ch/vortrag-in-uster-wie-altersbilder-die-gesundheit-praegen-451254769029",
+      "summary": "Am 1. Oktober spricht Professorin Christina Röcke im Stadthofsaal Uster über individuelle und gesellschaftliche Vorstellungen vom Älterwerden. Studien zeigen dabei einen überraschenden Zusammenhang zw",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Papierloser Prozess: Baugesuche können in Obfelden nur noch digital eingereicht werden",
+      "url": "https://www.tagesanzeiger.ch/obfelden-baugesuche-nur-noch-digital-ueber-ebaugesuchezh-391523270488",
+      "summary": "Seit dem 1. September wickelt die Gemeinde Obfelden Baubewilligungen ausschliesslich über die kantonale Plattform eBaugesucheZH ab. Das bisherige Log-in über ZHservices entfällt.",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Microsoft-Lizenzen treiben IT-Beschaffungen des Bundes nach oben",
+      "url": "https://www.netzwoche.ch/news/2026-09-23/microsoft-lizenzen-treiben-it-beschaffungen-des-bundes-nach-oben",
+      "summary": "Der Bund bestellte im Jahr 2025 IT-Produkte und -Leistungen im Wert von 1,66 Milliarden Franken. Der Anteil der IT am gesamten Vertragsvolumen stieg auf 25 Prozent - hauptsächlich wegen der Beschaffun",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Nationalrat fordert strengere Kontrollen für Bestellungen ausländischer Onlineshops",
+      "url": "https://www.netzwoche.ch/news/2026-09-23/nationalrat-fordert-strengere-kontrollen-fuer-bestellungen-auslaendischer",
+      "summary": "Der Nationalrat will ausländische Onlineshops zu mehr Sicherheitsmassnahmen verpflichten. Trotz der vom Bundesrat im Juni 2026 vorgeschlagenen Gesetzesverschärfung fordert die grosse Kammer erneut Anp",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Schweiz liegt bei KI-Nutzung über globalem Durchschnitt",
+      "url": "https://www.netzwoche.ch/news/2026-09-23/schweiz-liegt-bei-ki-nutzung-ueber-globalem-durchschnitt",
+      "summary": "Die KI-Nutzung in der Schweiz liegt deutlich über dem globalen Durchschnitt. Im zweiten Quartal 2026 nutzten 39,1 Prozent der Bevölkerung im erwerbsfähigen Alter generative KI, wie aus einem Bericht v",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Der Tag, an dem erstmals ein Mensch auf dem Mond geflucht hat",
+      "url": "https://www.netzwoche.ch/netzwitzig/2026-09-23/der-tag-an-dem-erstmals-ein-mensch-auf-dem-mond-geflucht-hat",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Digisanté wird nach Open-Source-Prinzip aufgebaut",
+      "url": "https://www.inside-it.ch/digisante-wird-nach-open-source-prinzip-aufgebaut-20260923",
+      "summary": "Der Ständerat folgt dem Nationalrat und stimmt einem \"Community-Ansatz\" beim Grossprojekt zu.",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Basel-Landschaft gründet Kompetenzteam SAP",
+      "url": "https://www.inside-it.ch/basel-landschaft-gruendet-kompetenzteam-sap-20260923",
+      "summary": "Die Verwaltung verankert mit dem Team das Zusammenwirken des SAP Competence Centers der Zentralen Informatik und der direktionsübergreifenden Business Process Owner.",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Aktivisten besetzen Dach der CDU-Parteizentrale in Berlin – und fordern eine «Klare Kante gegen Rechts»",
+      "url": "https://www.nzz.ch/international/aktivisten-besetzen-dach-der-cdu-parteizentrale-in-berlin-und-fordern-eine-klare-kante-gegen-rechts-ld.10025057",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Xi Jinping besucht die USA: Grosses Programm, grosse Konflikte",
+      "url": "https://www.nzz.ch/international/xi-jinping-bei-trump-der-staatsbesuch-in-den-usa-im-liveticker-ld.10025033",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wer folgt auf Corinne Ullmann? Steiner SVP bringt sich in Stellung",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-09-23/wer-folgt-auf-corinne-ullmann-steiner-svp-bringt-sich-in",
+      "summary": "Corinne Ullmann tritt Ende August 2027 als Steiner Stadtpräsidentin zurück. Die Suche nach ihrer Nachfolge beginnt bereits jetzt: Die Steiner SVP will bei der Ersatzwahl mit einer eigenen Kandidatur a",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "At1 Anleihen was Hinter der Ubs Debatte Steckt",
+      "url": "https://www.bilanz.ch/unternehmen/at1-anleihen-was-hinter-der-ubs-debatte-steckt/sht1035",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Ständerat Fordert 90percent Eigenkapital für Ubs Auslandstöchter",
+      "url": "https://www.bilanz.ch/unternehmen/staenderat-fordert-90percent-eigenkapital-fuer-ubs-auslandstoechter/hfe9kkl",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Trockenheit Macht Schweizer Wälder zur Gefahr Äste Brechen Ohne Vorwarnung",
+      "url": "https://www.suedostschweiz.ch/panorama/trockenheit-macht-schweizer-waelder-zur-gefahr-aeste-brechen-ohne-vorwarnung-2170976",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Mobilitätsstrategie für Baselland Planung von Verkehr und Raum Verknüpfen",
+      "url": "https://www.bzbasel.ch/basel/baselland/mobilitaetsstrategie-fuer-baselland-planung-von-verkehr-und-raum-verknuepfen-ld.4239038",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Findeldinger 40mal Kauen für eine Bessere Gesundheit",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/findeldinger-40mal-kauen-fuer-eine-bessere-gesundheit-ld.4238862",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Lausanne zwei Monate lang ohne Czarnik",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-lausanne-zwei-monate-lang-ohne-czarnik",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kriminelle haben angeblich FBI gehackt – Tausende Mitarbeiter betroffen",
+      "url": "https://www.watson.ch/digital/usa/257652483-kriminelle-haben-angeblich-fbi-gehackt-tausende-mitarbeiter-betroffen",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum Trump jetzt nicht mehr auf dem Wahlzettel stehen will",
+      "url": "https://www.watson.ch/wirtschaft/international/684819696-warum-trump-jetzt-nicht-mehr-auf-dem-wahlzettel-stehen-will",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wie die Schweiz seine Ski-Talente fördert – trotz Odermatts Dominanz",
+      "url": "https://www.watson.ch/sport/ski/747570417-wie-die-schweiz-seine-ski-talente-foerdert-trotz-odermatts-dominanz",
+      "summary": "",
+      "published": "2026-09-23T10:31:57.591360+00:00"
     }
   ]
 }
