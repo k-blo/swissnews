@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T22:32:17.346726+00:00",
+  "generated": "2026-09-23T23:02:22.390444+00:00",
   "date": "2026-09-24",
-  "count": 19,
+  "count": 22,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -135,6 +135,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/90-kinder-zeigten-in-goldau-einsatz-art-1723340",
       "summary": "",
       "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Feuer in St. Gallen: Brand in Wohnung: 24-Jähriger lebensbedrohlich verletzt",
+      "url": "https://www.tagesanzeiger.ch/brand-in-wohnung-24-jaehriger-lebensbedrohlich-verletzt-535218649105",
+      "summary": "In einer Wohnung an der Rorschacherstrasse in St.Gallen ist am Mittwochabend ein Feuer ausgebrochen. Ein 24-jähriger Bewohner wurde dabei lebensbedrohlich verletzt, ein weiterer Mann erlitt leichte Ve",
+      "published": "2026-09-23T23:02:22.390444+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann bei Wohnungsbrand in St. Gallen lebensbedrohlich verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/458734267-mann-bei-wohnungsbrand-in-st-gallen-lebensbedrohlich-verletzt",
+      "summary": "",
+      "published": "2026-09-23T23:02:22.390444+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chinas Präsident Xi Jinping zu Staatsbesuch in den USA angekommen",
+      "url": "https://www.watson.ch/international/usa/618822838-chinas-praesident-xi-jinping-zu-staatsbesuch-in-den-usa-angekommen",
+      "summary": "",
+      "published": "2026-09-23T23:02:22.390444+00:00"
     }
   ]
 }
