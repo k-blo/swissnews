@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T20:02:01.399756+00:00",
+  "generated": "2026-09-23T20:32:12.343281+00:00",
   "date": "2026-09-23",
-  "count": 984,
+  "count": 987,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6890,6 +6890,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/jetzt-kann-die-zukunft-geplant-werden-das-sagt-die-spitaldirektorin-zum-gerichtsurteil-art-1723348",
       "summary": "",
       "published": "2026-09-23T20:02:01.399756+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schweizer Hilfsorganisation – 125 Jahre Caritas: Vom Suppenteller zur Systemkritik",
+      "url": "https://www.srf.ch/news/schweiz/schweizer-hilfsorganisation-125-jahre-caritas-vom-suppenteller-zur-systemkritik",
+      "summary": "Das einst katholische Hilfswerk hat sich zur politischen Stimme gegen die Armut gewandelt.",
+      "published": "2026-09-23T20:32:12.343281+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump hat erstmals Venezuelas Präsidentin getroffen",
+      "url": "https://www.watson.ch/international/usa/238133673-trump-hat-erstmals-venezuelas-praesidentin-getroffen",
+      "summary": "",
+      "published": "2026-09-23T20:32:12.343281+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wahlbeobachter-Vorwurf an USA: Keine Einladung erhalten",
+      "url": "https://www.watson.ch/international/usa/359453253-wahlbeobachter-vorwurf-an-usa-keine-einladung-erhalten",
+      "summary": "",
+      "published": "2026-09-23T20:32:12.343281+00:00"
     }
   ]
 }
