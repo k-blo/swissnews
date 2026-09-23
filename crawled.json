@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T01:01:58.496777+00:00",
+  "generated": "2026-09-23T01:31:58.805815+00:00",
   "date": "2026-09-23",
-  "count": 49,
+  "count": 50,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -345,6 +345,13 @@
       "url": "https://www.tagesanzeiger.ch/swiss-flug-nach-vilnius-umgeleitet-wetterballons-aus-belarus-878298902877",
       "summary": "121 Fluggäste von Swiss waren am Montagabend von einem Vorfall in Vilnius betroffen. Ihr Flug, durchgeführt von AirBaltic, wurde ins nahe Kaunas umgeleitet – erst um 2.30 Uhr erreichten sie ihr Ziel.",
       "published": "2026-09-23T01:01:58.496777+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "X2 Six Flags USA: Achterbahn soll schwere Hirnschäden auslösen",
+      "url": "https://www.watson.ch/international/usa/734901885-x2-six-flags-usa-achterbahn-soll-schwere-hirnschaeden-ausloesen",
+      "summary": "",
+      "published": "2026-09-23T01:31:58.805815+00:00"
     }
   ]
 }
