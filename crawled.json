@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T22:02:07.362703+00:00",
+  "generated": "2026-09-23T22:32:17.346726+00:00",
   "date": "2026-09-24",
-  "count": 3,
+  "count": 19,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -23,6 +23,118 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/wildspitzlauf-geht-in-die-naechste-runde-art-1723365",
       "summary": "",
       "published": "2026-09-23T22:02:07.362703+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Artikel",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/artikel-ld.4239460",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Regionaler Abfall nimmt deutlich zu",
+      "url": "https://www.bote.ch/nachrichten/schwyz/regionaler-abfall-nimmt-deutlich-zu-art-1723472",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Volley KTV Muotathal stellte Spiel und Spass in den Mittelpunkt",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/volley-ktv-muotathal-stellte-spiel-und-spass-in-den-mittelpunkt-art-1723352",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Seniorenehrung in Seewen",
+      "url": "https://www.bote.ch/nachrichten/vereine/seniorenehrung-in-seewen-art-1723343",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Perfiden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/perfiden-art-1723313",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neuer Wald kann dank neuem Gesetz wieder entfernt werden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/neuer-wald-kann-dank-neuem-gesetz-wieder-entfernt-werden-art-1723333",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Fahne verbindet die Schwyzer Lourdespilger",
+      "url": "https://www.bote.ch/nachrichten/vereine/neue-fahne-verbindet-die-schwyzer-lourdespilger-art-1723356",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hart erkämpfter Auswärtssieg für den EHC Seewen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/hart-erkaempfter-auswaertssieg-fuer-den-ehc-seewen-art-1723471",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gemeinsam für ein sauberes Weggis und einen sauberen Vierwaldstättersee",
+      "url": "https://www.bote.ch/nachrichten/schwyz/gemeinsam-fuer-ein-sauberes-weggis-und-einen-sauberen-vierwaldstaettersee-art-1723373",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fight Pigs stehen in den Playoffs",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/fight-pigs-stehen-in-den-playoffs-art-1723351",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Erntedankfest: Dankbarkeit für Regen und zwei Jubiläen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/erntedankfest-dankbarkeit-fuer-regen-und-zwei-jubilaeen-art-1723379",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eisbären organisieren das Oktoberfest zum letzten Mal",
+      "url": "https://www.bote.ch/nachrichten/schwyz/eisbaeren-organisieren-das-oktoberfest-zum-letzten-mal-art-1723342",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ballone werden zur Gefahr für Wild- und Haustiere",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ballone-werden-zur-gefahr-fuer-wild-und-haustiere-art-1723349",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Badmintonclub Schwyz feiert 50-Jahr-Jubiläum",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/badmintonclub-schwyz-feiert-50-jahr-jubilaeum-art-1723353",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Am See statt in der Bergwelt: Neuer Schauplatz für das Muotathaler Theater",
+      "url": "https://www.bote.ch/nachrichten/schwyz/am-see-statt-in-der-bergwelt-neuer-schauplatz-fuer-das-muotathaler-theater-art-1723335",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "90 Kinder zeigten in Goldau Einsatz",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/90-kinder-zeigten-in-goldau-einsatz-art-1723340",
+      "summary": "",
+      "published": "2026-09-23T22:32:17.346726+00:00"
     }
   ]
 }
