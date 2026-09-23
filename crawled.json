@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T00:32:06.975653+00:00",
+  "generated": "2026-09-23T01:01:58.496777+00:00",
   "date": "2026-09-23",
-  "count": 48,
+  "count": 49,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -338,6 +338,13 @@
       "url": "https://www.watson.ch/international/extremwetter/988500162-hurrikan-polo-haefen-und-schulen-schliessen-in-mexiko",
       "summary": "",
       "published": "2026-09-23T00:32:06.975653+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Swiss-Flug umgeleitet – wegen Wetterballons in Vilnius",
+      "url": "https://www.tagesanzeiger.ch/swiss-flug-nach-vilnius-umgeleitet-wetterballons-aus-belarus-878298902877",
+      "summary": "121 Fluggäste von Swiss waren am Montagabend von einem Vorfall in Vilnius betroffen. Ihr Flug, durchgeführt von AirBaltic, wurde ins nahe Kaunas umgeleitet – erst um 2.30 Uhr erreichten sie ihr Ziel.",
+      "published": "2026-09-23T01:01:58.496777+00:00"
     }
   ]
 }
