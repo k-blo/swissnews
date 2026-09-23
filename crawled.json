@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T07:32:23.785332+00:00",
+  "generated": "2026-09-23T07:40:46.909687+00:00",
   "date": "2026-09-23",
-  "count": 303,
+  "count": 308,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2123,6 +2123,41 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/raum-fuer-ein-neues-asylzentrum-das-seehotel-helvetia-schliesst-art-1723302",
       "summary": "",
       "published": "2026-09-23T07:32:23.785332+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich war noch fast nie so unglücklich auf dem Podest»",
+      "url": "https://www.20min.ch/story/schweizer-rad-star-ich-war-noch-fast-nie-so-ungluecklich-auf-dem-podest-103637536",
+      "summary": "Stefan Küng hadert nach WM-Bronze mit seinem Defekt. Der Thurgauer glaubt, dass für die Schweiz ohne das Problem deutlich mehr drin gewesen wäre.",
+      "published": "2026-09-23T07:40:46.909687+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gift-Alarm: DHL-Zentrum wegen Quecksilber-Verdacht geräumt",
+      "url": "https://www.20min.ch/story/rostock-de-gift-alarm-dhl-zentrum-wegen-quecksilber-verdacht-geraeumt-103637610",
+      "summary": "Erneut innerhalb weniger Wochen ist es in Deutschland zu einer möglichen Vergiftung durch Quecksilber gekommen. Wer dahinterstecken könnte und mit welchem Ziel, ist noch unklar.",
+      "published": "2026-09-23T07:40:46.909687+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Robotaxi Ohne Lenkrad Us Behörde Prüft Tesla",
+      "url": "https://www.bilanz.ch/the-wall-street-journal/robotaxi-ohne-lenkrad-us-behoerde-prueft-tesla/ejm7qkv",
+      "summary": "",
+      "published": "2026-09-23T07:40:46.909687+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Verkehrshaus Luzern Gartenbahn Wird 50 Jahre Alt",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/verkehrshaus-luzern-gartenbahn-wird-50-jahre-alt-ld.4238916",
+      "summary": "",
+      "published": "2026-09-23T07:40:46.909687+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Attraktion im Miniformat: Gartenbahn im Verkehrshaus wird 50 Jahre alt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/verkehrshaus-luzern-gartenbahn-wird-50-jahre-alt-art-1723305",
+      "summary": "",
+      "published": "2026-09-23T07:40:46.909687+00:00"
     }
   ]
 }
