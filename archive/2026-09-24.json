@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-23T23:02:22.390444+00:00",
+  "generated": "2026-09-23T23:32:26.633371+00:00",
   "date": "2026-09-24",
-  "count": 22,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -156,6 +156,27 @@
       "url": "https://www.watson.ch/international/usa/618822838-chinas-praesident-xi-jinping-zu-staatsbesuch-in-den-usa-angekommen",
       "summary": "",
       "published": "2026-09-23T23:02:22.390444+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lindsey Vonn liebt französischen Skirennfahrer Matthieu Bailet",
+      "url": "https://www.watson.ch/sport/international/226108539-lindsey-vonn-liebt-franzoesischen-skirennfahrer-matthieu-bailet",
+      "summary": "",
+      "published": "2026-09-23T23:32:26.633371+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland beschiesst Kiew mit ballistischen Raketen",
+      "url": "https://www.watson.ch/international/russland/730095107-russland-beschiesst-kiew-mit-ballistischen-raketen",
+      "summary": "",
+      "published": "2026-09-23T23:32:26.633371+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "CNN Weisses Haus Rausschmiss: Medienwelt solidarisiert sich",
+      "url": "https://www.watson.ch/international/usa/917598464-cnn-weisses-haus-rausschmiss-medienwelt-solidarisiert-sich",
+      "summary": "",
+      "published": "2026-09-23T23:32:26.633371+00:00"
     }
   ]
 }
