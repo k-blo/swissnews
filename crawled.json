@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T02:02:00.363232+00:00",
+  "generated": "2026-09-24T02:31:49.962403+00:00",
   "date": "2026-09-24",
-  "count": 47,
+  "count": 53,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -331,6 +331,48 @@
       "url": "https://www.watson.ch/international/russland/110733987-sibirien-toedliche-baerenangriffe-in-russland-nehmen-zu",
       "summary": "",
       "published": "2026-09-24T02:02:00.363232+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trump rollt auf dem Militärflughafen Joint Base Andrews Xi den roten Teppich aus – aber in Washington gibt es auch Misstöne",
+      "url": "https://www.nzz.ch/international/trump-rollt-auf-dem-militaerflughafen-joint-base-andrews-xi-den-roten-teppich-aus-aber-in-washington-gibt-es-auch-misstoene-ld.10025188",
+      "summary": "",
+      "published": "2026-09-24T02:31:49.962403+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Stelleninserat für Helene Budliger",
+      "url": "https://www.persoenlich.com/prcorporate-communication/stelleninserat-fur-helene-budliger",
+      "summary": "Die Nichtregierungsorganisation bietet der Seco-Direktorin, die Ende März 2027 zurücktritt, in einer Zeitungsanzeige einen Beraterposten an. Das Sujet ist am Donnerstag in vier Tamedia-Zeitungen ersch",
+      "published": "2026-09-24T02:31:49.962403+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die «Kinder-Theater-Schule Schaffhausen» hat ihr Zuhause gefunden",
+      "url": "https://www.shn.ch/region/stadt/2026-09-24/die-kinder-theater-schule-schaffhausen-hat-ihr-zuhause-gefunden",
+      "summary": "Als Theaterpädagogin bietet Elisabeth Bleiker mit ihrer Theaterschule Kindern eine Bühne, um ihrer Fantasie freien Lauf zu lassen. Seit August wird erstmals auf der eigenen Bühne gespielt.",
+      "published": "2026-09-24T02:31:49.962403+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Online Hass in Chur Wenn die Diskussion in der Kommentarspalte Eskaliert",
+      "url": "https://www.suedostschweiz.ch/graubuenden/online-hass-in-chur-wenn-die-diskussion-in-der-kommentarspalte-eskaliert-2152454",
+      "summary": "",
+      "published": "2026-09-24T02:31:49.962403+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Thurgau Viele Sonderbewilligungen für Verbotene Pestizide",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/thurgau-viele-sonderbewilligungen-fuer-verbotene-pestizide-ld.4197394",
+      "summary": "",
+      "published": "2026-09-24T02:31:49.962403+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kreuzlingen Kik Geht mit Vier Schweizer Premieren zu Ende",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/kreuzlingen-kik-geht-mit-vier-schweizer-premieren-zu-ende-ld.4239043",
+      "summary": "",
+      "published": "2026-09-24T02:31:49.962403+00:00"
     }
   ]
 }
