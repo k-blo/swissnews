@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T01:02:45.793349+00:00",
+  "generated": "2026-09-24T01:32:21.912703+00:00",
   "date": "2026-09-24",
-  "count": 40,
+  "count": 42,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -282,6 +282,20 @@
       "url": "https://www.watson.ch/wirtschaft/international/222131487-bank-melli-iran-vereinigte-arabische-emirate-sprechen-sanktionen-aus",
       "summary": "",
       "published": "2026-09-24T01:02:45.793349+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Lindsey Vonn zeigt sich verliebt mit Franzosen Matthieu Bailet",
+      "url": "https://www.20min.ch/story/meer-und-pool-lindsey-vonn-zeigt-sich-verliebt-mit-franzosen-matthieu-bailet-103638030",
+      "summary": "Lindsey Vonn teilt ihre Sommer-Eindrücke – und Fotos im Bikini an der Seite des Franzosen Matthieu Bailet. Gerüchte über eine Beziehung der beiden hatte es seit Längerem gegeben.",
+      "published": "2026-09-24T01:32:21.912703+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Venezuelas Präsidentin Delcy Rodríguez stellt Wahlen in Aussicht",
+      "url": "https://www.watson.ch/international/usa/411361485-venezuelas-praesidentin-delcy-rodriguez-stellt-wahlen-in-aussicht",
+      "summary": "",
+      "published": "2026-09-24T01:32:21.912703+00:00"
     }
   ]
 }
