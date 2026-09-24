@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T01:32:21.912703+00:00",
+  "generated": "2026-09-24T02:02:00.363232+00:00",
   "date": "2026-09-24",
-  "count": 42,
+  "count": 47,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -296,6 +296,41 @@
       "url": "https://www.watson.ch/international/usa/411361485-venezuelas-praesidentin-delcy-rodriguez-stellt-wahlen-in-aussicht",
       "summary": "",
       "published": "2026-09-24T01:32:21.912703+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump empfängt Xi auf Rollfeld – TV-Kameras bleiben aus",
+      "url": "https://www.20min.ch/story/staatsbesuch-trump-empfaengt-xi-auf-rollfeld-us-kameras-laufen-nicht-103638031",
+      "summary": "Mit einem bemerkenswerten Empfang direkt auf dem Rollfeld hat US-Präsident Donald Trump den chinesischen Staatschef Xi Jinping in Washington willkommen geheissen.",
+      "published": "2026-09-24T02:02:00.363232+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Auf Staatsbesuch: Trump empfängt Xi auf Rollfeld – TV-Kameras laufen nicht",
+      "url": "https://www.tagesanzeiger.ch/trump-empfaengt-xi-auf-rollfeld-tv-kameras-laufen-nicht-422394888164",
+      "summary": "Mit einem bemerkenswerten Empfang direkt auf dem Rollfeld hat US-Präsident Donald Trump den chinesischen Staatschef Xi Jinping in Washington willkommen geheissen.",
+      "published": "2026-09-24T02:02:00.363232+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Auf Staatsbesuch: Trump empfängt Xi auf Rollfeld – TV-Kameras bleiben aus",
+      "url": "https://www.bazonline.ch/trump-empfaengt-xi-auf-rollfeld-tv-kameras-laufen-nicht-422394888164",
+      "summary": "Mit einem bemerkenswerten Empfang direkt auf dem Rollfeld hat US-Präsident Donald Trump den chinesischen Staatschef Xi Jinping in Washington willkommen geheissen.",
+      "published": "2026-09-24T02:02:00.363232+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Selenski nennt Putin «Patient Null»",
+      "url": "https://www.zentralplus.ch/news/selenski-nennt-putin-patient-null-2900358/",
+      "summary": "Der ukrainische Präsident Wolodimir Selenski hat Russlands Präsidenten Wladimir Putin als «Patient Null» bezeichnet. Vor der UNO-Generalversammlung sagte Selenski, Putin sei die Person, von der aus si",
+      "published": "2026-09-24T02:02:00.363232+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sibirien: Tödliche Bärenangriffe in Russland nehmen zu",
+      "url": "https://www.watson.ch/international/russland/110733987-sibirien-toedliche-baerenangriffe-in-russland-nehmen-zu",
+      "summary": "",
+      "published": "2026-09-24T02:02:00.363232+00:00"
     }
   ]
 }
