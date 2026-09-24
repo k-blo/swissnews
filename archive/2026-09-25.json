@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T22:32:03.638254+00:00",
+  "generated": "2026-09-24T23:02:37.455457+00:00",
   "date": "2026-09-25",
-  "count": 24,
+  "count": 26,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/andre-rueegsegger-auf-der-leinwand-verewigt-art-1723552",
       "summary": "",
       "published": "2026-09-24T22:32:03.638254+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Umstrittener US-Investor Peter Thiel erhält Axel-Springer-Preis",
+      "url": "https://www.20min.ch/story/auszeichnung-in-berlin-umstrittener-us-investor-peter-thiel-erhaelt-axel-springer-preis-103638573",
+      "summary": "Der US-Investor Peter Thiel ist in Berlin mit dem Axel-Springer-Preis ausgezeichnet worden. Verleger Mathias Döpfner bezeichnete den Paypal-Mitgründer als «wirkungsvollsten Deutschen unserer Zeit».",
+      "published": "2026-09-24T23:02:37.455457+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wildes Remis bei Klopps erster Bundestrainer-Show",
+      "url": "https://www.freiburger-nachrichten.ch/story/292620/wildes-remis-bei-klopps-erster-bundestrainershow",
+      "summary": "",
+      "published": "2026-09-24T23:02:37.455457+00:00"
     }
   ]
 }
