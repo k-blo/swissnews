@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T23:02:37.455457+00:00",
+  "generated": "2026-09-24T23:31:50.649453+00:00",
   "date": "2026-09-25",
-  "count": 26,
+  "count": 27,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/292620/wildes-remis-bei-klopps-erster-bundestrainershow",
       "summary": "",
       "published": "2026-09-24T23:02:37.455457+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Macron will saudischen Hafen schützen",
+      "url": "https://www.zentralplus.ch/news/macron-will-saudischen-hafen-schuetzen-2900600/",
+      "summary": "Frankreich will die saudische Hafenstadt Janbu am Roten Meer militärisch schützen. Präsident Emmanuel Macron kündigte in einem Fernsehinterview an, Soldaten sowie Radar- und Verteidigungssysteme dorth",
+      "published": "2026-09-24T23:31:50.649453+00:00"
     }
   ]
 }
