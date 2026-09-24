@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T19:32:07.172296+00:00",
+  "generated": "2026-09-24T20:02:04.736493+00:00",
   "date": "2026-09-24",
-  "count": 952,
+  "count": 956,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6666,6 +6666,34 @@
       "url": "https://www.watson.ch/international/usa/746641706-trumps-krach-mit-medien-ueberschattet-xi-besuch",
       "summary": "",
       "published": "2026-09-24T19:32:07.172296+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interaktives Quiz Teil 3: Wie viel wissen Sie im Vergleich zu anderen über die Schweiz?",
+      "url": "https://www.tagesanzeiger.ch/schweiz-quiz-testen-sie-ihr-wissen-in-21-fragen-796310993018",
+      "summary": "21 neue Fragen – exklusiv zusammengestellt von einem Quizprofi. Danach können Sie sehen, wie gut Sie im Vergleich zu anderen Teilnehmerinnen und Teilnehmern abschneiden.",
+      "published": "2026-09-24T20:02:04.736493+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ethiker zu gefälschten Covid-Zertifikaten: «Das dient sicher nicht der Aufarbeitung der Pandemie und schon gar nicht einer Versöhnung»",
+      "url": "https://www.bernerzeitung.ch/ethiker-strub-ueber-den-fall-granit-xhaka-523181915349",
+      "summary": "Ethiker Jean-Daniel Strub hält die Jagd auf Prominente mit gefälschten Covid-Zertifikaten für kontraproduktiv. Sie reisse alte Gräben auf, statt die Pandemie aufzuarbeiten.",
+      "published": "2026-09-24T20:02:04.736493+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Tensing» an der ZFF-Opening-Night: Das sagen die Schweizer Promis",
+      "url": "https://www.watson.ch/schweiz/videos/436754348-tensing-an-der-zff-opening-night-das-sagen-die-schweizer-promis",
+      "summary": "",
+      "published": "2026-09-24T20:02:04.736493+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UN-Eklat: Etliche verlassen wegen Netanjahus Rede den Raum",
+      "url": "https://www.watson.ch/international/usa/156139307-un-eklat-etliche-verlassen-wegen-netanjahus-rede-den-raum",
+      "summary": "",
+      "published": "2026-09-24T20:02:04.736493+00:00"
     }
   ]
 }
