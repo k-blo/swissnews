@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T04:02:01.729284+00:00",
+  "generated": "2026-09-24T04:31:53.460435+00:00",
   "date": "2026-09-24",
-  "count": 196,
+  "count": 212,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1374,6 +1374,118 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/424782032-bootsfahrt-heidi-klum-auf-dem-zuerichsee-landet-vor-bundesgericht",
       "summary": "",
       "published": "2026-09-24T04:02:01.729284+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "SNB-Zinsentscheid steht an – Sparer könnten profitieren",
+      "url": "https://www.20min.ch/story/snb-zinsentscheid-experte-burckhardt-erwartet-keine-zinserhoehung-im-september-103637653",
+      "summary": "Während im Ausland die Zinsen wieder steigen, hält die SNB ihren Leitzins bislang bei null. Experte Philipp Burckhardt erklärt, weshalb sich das vorerst nicht ändern dürfte – die Zinswende aber näher ",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Oligarchen-Holding in der Schweiz: Panik vor Premier Magyar? Orbáns Lieblings­milliardär verwischt seine Spuren in Zug",
+      "url": "https://www.tagesanzeiger.ch/lorinc-meszaros-orban-vertrauter-verwischt-spuren-in-zug-201078711524",
+      "summary": "Lőrinc Mészáros tauscht bei seiner Schweizer Briefkastenfirma den Verwaltungsrat aus. Über sie kontrolliert er einen Teil des ungarischen Gasnetzes. Experten sehen darin ein Warnsignal.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vor Abstimmung im Ständerat: Kantone warnen: «Eine Massnahme ist für Jugendliche die härtere Strafe als Gefängnis»",
+      "url": "https://www.tagesanzeiger.ch/jugendstrafrecht-kantone-warnen-staenderat-vor-verschaerfung-145525846515",
+      "summary": "Der Nationalrat will das Jugendstrafrecht verschärfen. Nun schlagen die Justiz- und Polizeidirektoren Alarm: Das wäre gar kontraproduktiv, sagt die Zürcher Justizdirektorin Jacqueline Fehr.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Erste Sichtung in Stäfa: Der heisse Sommer war perfekt für Blaualgen. Wie gefährlich sind sie?",
+      "url": "https://www.tagesanzeiger.ch/blaualgen-im-zuerichsee-gefahr-fuer-hunde-und-kleinkinder-927956668732",
+      "summary": "Im Zürichsee sind die ersten Blaualgen aufgetaucht, im Herbst dürften weitere Stellen betroffen sein. Das ist vor allem für Hunde ein Problem. Die wichtigsten Fragen und Antworten.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Philipp Loser zum F-35-Debakel: Lieber abschleichen als hinstehen: Der Schweiz fehlt eine Fehlerkultur",
+      "url": "https://www.tagesanzeiger.ch/f-35-skandal-schweiz-bestraft-transparenz-statt-fehler-796069599518",
+      "summary": "Ignorierte Warnungen und Hunderte Millionen Mehrkosten: Die Beschaffung des US-Kampfjets ist ein einziges Fiasko. Und was sagen die Beteiligten? Lieber nichts.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Parteiübergreifender Vorstoss: Fünf Nationalrätinnen fordern nach Rave-Attentat in Aarau ein schärferes Waffenrecht",
+      "url": "https://www.tagesanzeiger.ch/aarau-attentat-fuenf-nationalraetinnen-fordern-waffenrecht-113712472482",
+      "summary": "Jährlich werden Tausende automatische Waffen verkauft – obwohl sie verboten sind. Nun soll die Schweiz ihre Ausnahmepraxis strenger auslegen.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Cyberangriff auf das FBI: Hacker behaupten, Daten von Tausenden FBI-Agenten gestohlen zu haben",
+      "url": "https://www.tagesanzeiger.ch/fbi-untersucht-shinyhunters-hack-auf-mitarbeiterdaten-136746583645",
+      "summary": "Die Gruppe Shinyhunters will die Job-Webseite der US-Bundespolizei kompromittiert haben. Das FBI untersucht den Fall – die betroffene Seite ist weiterhin offline.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hack in Australien: «Er wollte ein Nein nicht akzeptieren» – KI umgeht Regierungssperre",
+      "url": "https://www.tagesanzeiger.ch/openai-agent-hackt-australiens-medicare-portal-929052857593",
+      "summary": "Ein autonomer KI-Agent verschaffte sich unbefugt Zugang zum Medicare-Portal der australischen Regierung. Premier Albanese kritisiert OpenAI für die verspätete Meldung.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Konkurrenz unter Spitälern: Spitzenchirurgin wechselt vom Clara­spital ans Kantonsspital Baselland – und sofort wieder zurück",
+      "url": "https://www.bazonline.ch/kantonsspital-baselland-aerztin-kehrt-zum-claraspital-zurueck-788029980825",
+      "summary": "Mit einer Spezialistin wollten die Baselbieter dem Unispital Patientinnen streitig machen. Doch die Ärztin war vom neuen Ort wenig begeistert.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Schaut euch diese wunderschöne Milch an»: Trump hat einen neuen TV-Sender – wir haben zugeschaut",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-09-24/schaut-euch-diese-wunderschoene-milch-an-trump-hat-einen-neuen",
+      "summary": "Endlos-Reden und Lobhudelei: Seit Montag betreibt das Weisse Haus «Trump TV». Was dort zu sehen ist, verstört.",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Thomas Tschudi Erklärt wie er für die Umfahrung Netstal Kämpft",
+      "url": "https://www.suedostschweiz.ch/glarus/thomas-tschudi-erklaert-wie-er-fuer-die-umfahrung-netstal-kaempft-2170759",
+      "summary": "",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sentitreff in Luzern Interkulturelles Bla Festival mit Musik Tanz und Mehr",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/sentitreff-in-luzern-interkulturelles-bla-festival-mit-musik-tanz-und-mehr-ld.4238997",
+      "summary": "",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Spital Nidwalden Kanton Will Verantwortung Nicht Abgeben",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/spital-nidwalden-kanton-will-verantwortung-nicht-abgeben-ld.4238544",
+      "summary": "",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "OpenAI-Agent hackt australisches Regierungsportal",
+      "url": "https://www.watson.ch/digital/international/568135071-openai-agent-hackt-australisches-regierungsportal",
+      "summary": "",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Landrat führt Debatte zur Zukunft des Spitals",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/spital-nidwalden-kanton-will-verantwortung-nicht-abgeben-art-1723492",
+      "summary": "",
+      "published": "2026-09-24T04:31:53.460435+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Musik, Spoken Word und Ausstellungen: Sentitreff lädt zum interkulturellen Festival des Ausdrucks",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/sentitreff-in-luzern-interkulturelles-bla-festival-mit-musik-tanz-und-mehr-art-1723491",
+      "summary": "",
+      "published": "2026-09-24T04:31:53.460435+00:00"
     }
   ]
 }
