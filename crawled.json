@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T03:33:07.724937+00:00",
+  "generated": "2026-09-25T04:02:22.169461+00:00",
   "date": "2026-09-25",
-  "count": 165,
+  "count": 200,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1157,6 +1157,251 @@
       "url": "https://www.freiburger-nachrichten.ch/story/292484/bei-jan-dorthe-hat-es-klick-gemacht",
       "summary": "",
       "published": "2026-09-25T03:33:07.724937+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Aktion «Keine 50-Grad-Sommer» – Die Klimabewegung nimmt einen neuen Anlauf",
+      "url": "https://www.srf.ch/news/schweiz/aktion-keine-50-grad-sommer-die-klimabewegung-nimmt-einen-neuen-anlauf",
+      "summary": "Mit Demonstrationen in Schweizer Städten meldet sich die Klimabewegung zurück. Die Pläne reichen bis ins Wahljahr 2027.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Aus für Eigenmietwert – Neue Bündner Steuer auf Zweitwohnungen soll Finanzloch stopfen",
+      "url": "https://www.srf.ch/news/schweiz/aus-fuer-eigenmietwert-neue-buendner-steuer-auf-zweitwohnungen-soll-finanzloch-stopfen",
+      "summary": "Der Tourismuskanton will den Steuerausfall in Millionenhöhe abfedern. Graubünden hätte damit eine Vorreiterrolle.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wir sind Zukunft: Dark Data verursacht mehr CO₂ als 3 Millionen Flüge nach New York",
+      "url": "https://www.tagesanzeiger.ch/dark-data-datenmuell-verursacht-mehr-co2-als-flugverkehr-636778431337",
+      "summary": "Bis zu 88 Prozent aller Daten sollen ungenutzt herumliegen – und jährlich Unmengen an CO₂ produzieren. Das sagt ein britisches Forscherteam, das dem Datenmüll den Kampf angesagt hat.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "USA-China: Prunk und Pandadiplomatie – so lief der Staatsbesuch ab",
+      "url": "https://www.tagesanzeiger.ch/trump-empfaengt-xi-pandas-gala-dinner-und-freundlichkeiten-452356252983",
+      "summary": "Donald Trump überhäuft Xi Jinping in Washington mit Freundlichkeiten. Die heiklen Themen sparen die beiden aus, zumindest bei ihren  öffentlichen Auftritten. Der Gast verspricht dafür ein beliebtes Ge",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die letzte Flotte der Swissair (4): Britische Flight-Attendants lernen in diesem Swissair-Airbus",
+      "url": "https://www.tagesanzeiger.ch/swissair-airbus-kabine-bildet-in-england-flight-attendants-aus-389100993120",
+      "summary": "Die Swissair-Jets «Bachenbülach» und «Winkel» fliegen nicht mehr. Trotzdem erfüllen sie noch heute eine wichtige Aufgabe.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wohnungsbau in Rapperswil-Jona: Pensionskasse baut neue Wohnungen – Öffentlichkeit erhält ein Zückerchen",
+      "url": "https://www.tagesanzeiger.ch/rapperswil-jona-migros-pensionskasse-plant-60-neubauwohnungen-393420944547",
+      "summary": "In Rapperswil sollen fünf Häuser vier Neubauten weichen. Die Zahl der Wohnungen steigt stark, die Mieten wohl ebenfalls. Für die Öffentlichkeit springt immerhin ein neuer Weg am Stadtbach heraus.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wortsuche Lösungshilfe: Wortsuche vom Freitag, 25. September 2026: Mit diesen Tipps knacken Sie das Rätsel",
+      "url": "https://www.tagesanzeiger.ch/wortsuche-tipps-zum-raetsel-vom-25-september-2026-486373503912",
+      "summary": "Stecken Sie beim heutigen Rätsel fest? Keine Sorge! Mit unseren drei Hinweisen kommen Sie der Lösung Schritt für Schritt näher. Die Auflösung gibt es in der Infobox.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Lohnrunde 2027: Gewerkschaften fordern Lohnsprung von 2,5 Prozent – Arbeitgeber budgetieren weniger als die Hälfte",
+      "url": "https://www.tagesanzeiger.ch/arbeitsmarkt-gewerkschaften-fordern-2-5-mehr-lohn-fuer-alle-667835723952",
+      "summary": "Die Wirtschaft wächst stärker als erwartet, die Personal­budgets bleiben stabil. Doch die Lohn­erhöhungen werden gezielt an Leistungs­träger statt an alle ausbezahlt – ein Trend, der sich verschärft.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trotz Abkühlung des Arbeitsmarkts: In diesen Berufen gibt es in Zürich immer mehr Jobs",
+      "url": "https://www.tagesanzeiger.ch/arbeitsmarkt-zuerich-wer-jobs-findet-und-wer-nicht-719874177167",
+      "summary": "Die Stellensuche ist schwieriger geworden, aber längst nicht für alle. Unsere Auswertung zeigt, dass etwa Handwerkerinnen derzeit gesucht sind – im Gegensatz zu Softwareentwicklern und Anlageberatern.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Neue Daten: Trotz Klimakrise: Über die Hälfte der Wohnhäuser im Kanton Bern heizt noch mit Öl und Gas",
+      "url": "https://www.bernerzeitung.ch/kanton-bern-noch-88000-oelheizungen-trotz-klimaziel-646982083709",
+      "summary": "Werden Ölheizungen nicht schneller ersetzt, dann verpasst der Kanton sein Klimaziel. Nun beginnt die Debatte um ein Verbot erneut.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Events Thun/Oberland: Schneller, stärker, länger: Die grosse Hyrox-Premiere im Berner Oberland",
+      "url": "https://www.bernerzeitung.ch/die-hyrox-premiere-im-berner-oberland-359264781023",
+      "summary": "Zwei Thuner organisieren eine Arena für den neuen Trendsport. Aber auch musikalisch bietet die regionale Agenda interessante Anlässe. Und zwei grosse Feste.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Herbst-Quiz: Erkennen Sie den giftigen Pilz?",
+      "url": "https://www.bernerzeitung.ch/pilze-quiz-erkennen-sie-den-giftigen-pilz-373476547114",
+      "summary": "Welcher ist der grösste, warum leuchten manche in der Nacht grün, und was hat das mit Peach Weber zu tun? Testen Sie Ihr Wissen über die Welt der Pilze.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Baumschule Heggidorn: Hier wachsen Pflanzen für Festivals wie das Paléo",
+      "url": "https://www.bernerzeitung.ch/heggidorn-ag-baumschule-forscht-mit-eth-zuerich-zur-schwammstadt-446668032200",
+      "summary": "Eine Eventfirma und ein Landschaftsbauer haben die Baumschule Heggidorn bei Mühleberg übernommen. Sie pflegen dort rund 1000 Pflanzen für 300 Anlässe pro Jahr und forschen zum Thema Schwammstadt.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Demos in der ganzen Schweiz: Comeback der Klimabewegung? Zehntausende wollen am Freitag auf die Strasse",
+      "url": "https://www.bernerzeitung.ch/klimastreik-demos-in-zehn-schweizer-staedten-am-freitag-841678470579",
+      "summary": "15’000 Menschen gingen vor einer Woche in Lausanne und Genf auf die Strasse, heute sind in zehn Deutschschweizer Städten Demos angesagt: Der Hitzesommer befeuert die Klimabewegung.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Unter dem Gurtenriesenrad: Kunst, die vergeht: Saypes Fresko auf der Gurtenwiese",
+      "url": "https://www.derbund.ch/saype-malt-riesiges-fresko-auf-dem-berner-gurten-729857225889",
+      "summary": "Der weltbekannte Land-Art-Künstler sprüht mit biologisch abbaubarer Farbe zwei spielende Kinder auf den Rasen – im Auftrag von Handicap International. Das Werk bleibt knapp zwei Wochen sichtbar.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "In Lucens/VD brennt eine Fabrik",
+      "url": "https://www.zentralplus.ch/news/in-lucens-vd-brennt-eine-fabrik-2900610/",
+      "summary": "Im Waadtland hat in der Nacht auf Freitag eine Fabrik Feuer gefangen, wie die Plattform Alertswiss mitteilte. Es handelt sich um eine Fabrik in Lucens. Sie stellt Isolations-Material her. Die Behörden",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Haben die FDP-Regierungsräte ihre Versprechen eingehalten?",
+      "url": "https://www.zentralplus.ch/politik/das-haben-die-fdp-regierungsraete-versprochen-und-geliefert-2897490/",
+      "summary": "Im Wahlkampf präsentieren die Kandidaten Ziele, Visionen und markige Slogans, wie sie den Kanton Zug vorantreiben wollen. Doch wie viel steckt dahinter? Wir haben die Wahlversprechen der FDP-Regierung",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stadt boomt, Hinterland schwächelt – nur auf den ersten Blick",
+      "url": "https://www.zentralplus.ch/wirtschaft/stadt-boomt-hinterland-schwaechelt-nur-auf-den-ersten-blick-2900388/",
+      "summary": "Weil im Luzerner Hinterland die Arbeitsplätze schwinden, schlägt ein Kantonsrat Alarm und malt ein düsteres Szenario. Ein Regionalökonom und die Wirtschaftsförderung kommen zu einem anderen Schluss. I",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Spaniens Rechte auf Konfrontationskurs mit Marokko: Selbst die Fussball-WM wird jetzt infrage gestellt",
+      "url": "https://www.nzz.ch/international/spaniens-rechte-auf-konfrontationskurs-mit-marokko-selbst-die-fussball-wm-wird-jetzt-infrage-gestellt-ld.10025324",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mercedes elektrifiziert die C-Klasse und setzt auf Sportlichkeit",
+      "url": "https://www.nzz.ch/mobilitaet/mercedes-elektrifiziert-die-c-klasse-und-setzt-auf-sportlichkeit-ld.10025321",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die meisten Muslime wählen sehr links – die neue Demografie gefährdet Europas Demokratien",
+      "url": "https://www.nzz.ch/meinung/neue-demografie-in-europa-muslimische-stimmen-staerken-linke-parteien-ld.10025284",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trumps Friedensrat stellt Plan für Wiederaufbau in Gaza vor – doch es gibt zentrale Hindernisse",
+      "url": "https://www.nzz.ch/international/trumps-friedensrat-stellt-plan-fuer-wiederaufbau-in-gaza-vor-doch-es-gibt-zentrale-hindernisse-ld.10025259",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Kann Granit Xhaka Captain bleiben? – «Ich sehe nichts, was dagegenspricht», sagt der Nationalteam-Experte Benjamin Huggel",
+      "url": "https://www.nzz.ch/sport/fussball/kann-granit-xhaka-captain-bleiben-ich-sehe-nichts-was-dagegen-spricht-sagt-der-nationalteam-experte-benjamin-huggel-ld.10025229",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Europa ist die Nummer vier» – die USA holen die Nato-Partner auf den Boden der Realität",
+      "url": "https://www.nzz.ch/international/sicherheitspolitik-unter-trump-europa-nur-noch-vierte-prioritaet-ld.10025170",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Rivalität zwischen China und den USA: Der Welthandel ist stärker regionalisiert als es sein Name impliziert",
+      "url": "https://www.nzz.ch/pro/rivalitaet-zwischen-china-und-den-usa-der-welthandel-ist-staerker-regionalisiert-als-es-sein-name-impliziert-ld.10025104",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Liebesgrüsse aus dem Weltall: Der Zürcher Aviel Cahn übernimmt Berlins grösstes Opernhaus in Turbulenzen",
+      "url": "https://www.nzz.ch/feuilleton/liebesgruesse-aus-dem-weltall-der-zuercher-aviel-cahn-uebernimmt-berlins-groesstes-opernhaus-in-turbulenzen-ld.10025084",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK - Die konservative Revolution darf nicht zur Revanche geraten",
+      "url": "https://www.nzz.ch/meinung/die-konservative-revolution-darf-nicht-zur-revanche-geraten-ld.10025045",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Schweizer Team im WM-Strassenrennen ist vielseitig unterwegs – das ist Konzept und ein Trumpf",
+      "url": "https://www.nzz.ch/sport/rad/rad-wm-das-schweizer-frauen-team-fuer-das-strassenrennen-ist-vielseitig-begabt-ld.10024891",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Marco Rima, der Unterschätzte",
+      "url": "https://www.nzz.ch/feuilleton/marco-rima-der-unterschaetzte-ld.10024281",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Deutscher Politiker fordert harte China-Zölle: «Wir verfüttern den Mittelstand und hoffen, dass wenige Grossunternehmen als Letztes gefressen werden»",
+      "url": "https://www.nzz.ch/wirtschaft/deutscher-politiker-fordert-harte-china-zoelle-wir-verfuettern-den-mittelstand-und-hoffen-dass-wenige-grossunternehmen-als-letztes-gefressen-werden-ld.10024034",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Vor dreissig Jahren eroberten die Taliban erstmals Kabul: Die Parallelen zur Gegenwart sind verblüffend",
+      "url": "https://www.nzz.ch/international/vor-dreissig-jahren-wie-die-taliban-erstmals-kabul-einnahmen-ld.10023376",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ QUANTENSPRUNG» - 5G aus dem All: Das Satelliteninternet von Starlink wird Funklöcher und Roaming abschaffen",
+      "url": "https://www.nzz.ch/podcast/5g-aus-dem-all-das-satelliteninternet-von-starlink-wird-funkloecher-und-roaming-abschaffen-ld.10023099",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die EU geht gegen grünen Etikettenschwindel vor – und sorgt auch bei Schweizer Textilfirmen für grosse Verunsicherung",
+      "url": "https://www.nzz.ch/wirtschaft/die-eu-geht-gegen-gruenen-etikettenschwindel-vor-und-sorgt-auch-bei-schweizer-textilfirmen-fuer-grosse-verunsicherung-ld.10022901",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der Präsident redet von einer «neuen Phase des Wiederaufbaus» – so sieht die Lage in Syrien wirklich aus",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-09-25/der-praesident-redet-von-einer-neuen-phase-des-wiederaufbaus-so",
+      "summary": "Letzten Monat haben die USA das Land von der Liste der Staaten gestrichen, die Terror unterstützen. Gleichzeitig machen Berichte von Gräueltaten gegen Minderheiten die Runde.",
+      "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "15 Prozent mehr Gäste im Strandbad Murten",
+      "url": "https://www.freiburger-nachrichten.ch/story/291430/15-prozent-mehr-g%C3%A4ste-im-strandbad-murten",
+      "summary": "",
+      "published": "2026-09-25T04:02:22.169461+00:00"
     }
   ]
 }
