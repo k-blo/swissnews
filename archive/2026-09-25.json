@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T04:28:52.860467+00:00",
+  "generated": "2026-09-25T04:32:30.441535+00:00",
   "date": "2026-09-25",
-  "count": 212,
+  "count": 213,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1486,6 +1486,13 @@
       "url": "https://www.tagesanzeiger.ch/hurrikan-nolo-hawaii-drohen-katastrophale-ueberschwemmungen-313915738074",
       "summary": "Der tropische Wirbelsturm nimmt Kurs auf die Big Island und soll weiter an Stärke gewinnen. Bereits ab Freitagabend könnten auf der Insel Hurrikanbedingungen herrschen.",
       "published": "2026-09-25T04:25:35.882656+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Freiburg regelt die Abbruchprämie",
+      "url": "https://www.freiburger-nachrichten.ch/story/292177/freiburg-regelt-die-abbruchpr%C3%A4mie",
+      "summary": "",
+      "published": "2026-09-25T04:32:30.441535+00:00"
     }
   ]
 }
