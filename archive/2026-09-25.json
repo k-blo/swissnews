@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T21:32:45.678843+00:00",
+  "generated": "2026-09-25T21:44:56.884939+00:00",
   "date": "2026-09-25",
-  "count": 1065,
+  "count": 1066,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -7457,6 +7457,13 @@
       "url": "https://www.bote.ch/nachrichten/sport/der-ev-zug-zeigt-eine-ungenuegende-leistung-und-verliert-mit-35-art-1723841",
       "summary": "",
       "published": "2026-09-25T21:32:45.678843+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Dritter Sieg in Serie: Der EHC Basel siegt gegen La Chaux-de-Fonds nach spektakulärer Wende",
+      "url": "https://www.bazonline.ch/eishockey-der-ehc-basel-gewinnt-dank-spektakulaerer-wende-433271994254",
+      "summary": "Die Basler machen gegen La Chaux-de-Fonds einen 0:3-Rückstand wett und siegen am Ende 4:3. Dabei erzielen sie alle Tore im Mitteldrittel.",
+      "published": "2026-09-25T21:44:56.884939+00:00"
     }
   ]
 }
