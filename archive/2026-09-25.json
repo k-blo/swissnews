@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-24T23:31:50.649453+00:00",
+  "generated": "2026-09-25T00:02:09.903174+00:00",
   "date": "2026-09-25",
-  "count": 27,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -191,6 +191,13 @@
       "url": "https://www.zentralplus.ch/news/macron-will-saudischen-hafen-schuetzen-2900600/",
       "summary": "Frankreich will die saudische Hafenstadt Janbu am Roten Meer militärisch schützen. Präsident Emmanuel Macron kündigte in einem Fernsehinterview an, Soldaten sowie Radar- und Verteidigungssysteme dorth",
       "published": "2026-09-24T23:31:50.649453+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Xi Jinping zu Besuch bei Trump",
+      "url": "https://www.zentralplus.ch/news/xi-jinping-zu-besuch-bei-trump-2900602/",
+      "summary": "US-Präsident Donald Trump hat den chinesischen Staatschef Xi Jinping im Weissen Haus in Washington empfangen. Es ist Xis erster Staatsbesuch in den USA seit elf Jahren. Nach einem ersten Gespräch spra",
+      "published": "2026-09-25T00:02:09.903174+00:00"
     }
   ]
 }
