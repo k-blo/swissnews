@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T23:02:17.070323+00:00",
+  "generated": "2026-09-25T23:32:19.530164+00:00",
   "date": "2026-09-26",
-  "count": 25,
+  "count": 26,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -177,6 +177,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/altersheim-ist-nicht-die-einzige-option-unterstuetzung-fuer-ein-selbstbestimmtes-leben-im-alter-art-1723758",
       "summary": "",
       "published": "2026-09-25T22:31:51.172686+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Edelweiss-Flug nach Florida landet in Kanada",
+      "url": "https://www.20min.ch/story/medizinischer-notfall-edelweiss-flug-nach-florida-landet-in-kanada-103639279",
+      "summary": "Wegen eines medizinischen Notfalls musste ein Edelweiss-Flug von Zürich nach Tampa in Halifax zwischenlanden. Inzwischen ist das Flugzeug wieder Richtung Florida unterwegs.",
+      "published": "2026-09-25T23:32:19.530164+00:00"
     }
   ]
 }
