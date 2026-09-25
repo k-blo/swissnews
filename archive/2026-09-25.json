@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T01:42:46.597123+00:00",
+  "generated": "2026-09-25T02:02:30.427156+00:00",
   "date": "2026-09-25",
-  "count": 36,
+  "count": 38,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -254,6 +254,20 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4239977",
       "summary": "",
       "published": "2026-09-25T01:02:11.789652+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump über Xi: «Wir haben uns nie besser verstanden»",
+      "url": "https://www.20min.ch/story/staatsbankett-trump-ueber-xi-wir-haben-uns-nie-besser-verstanden-103638590",
+      "summary": "Ungeachtet etlicher Konflikte bietet US-Präsident Donald Trump Chinas Präsident Xi Jinping einen pompösen Empfang – und lobt die Verbindung beider Länder.",
+      "published": "2026-09-25T02:02:30.427156+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Saudi-Arabien plant Militärtreffen",
+      "url": "https://www.zentralplus.ch/news/saudi-arabien-plant-militaertreffen-2900606/",
+      "summary": "Saudi-Arabien plant ein Militärtreffen mit seinen neuen Verbündeten Pakistan und der Türkei. Die Generalstabschefs der drei Länder wollen beraten, wie Saudi-Arabien im Rahmen des gemeinsamen Verteidig",
+      "published": "2026-09-25T02:02:30.427156+00:00"
     }
   ]
 }
