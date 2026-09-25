@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T04:22:29.512184+00:00",
+  "generated": "2026-09-25T04:25:35.882656+00:00",
   "date": "2026-09-25",
-  "count": 211,
+  "count": 212,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1479,6 +1479,13 @@
       "url": "https://www.watson.ch/spass/cute-news/687533368-cute-news-einzigartige-pfoten-aus-dem-tierreich",
       "summary": "",
       "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hurrikan Nolo: Hawaii bereitet sich auf katastrophale Überschwemmungen vor",
+      "url": "https://www.tagesanzeiger.ch/hurrikan-nolo-hawaii-drohen-katastrophale-ueberschwemmungen-313915738074",
+      "summary": "Der tropische Wirbelsturm nimmt Kurs auf die Big Island und soll weiter an Stärke gewinnen. Bereits ab Freitagabend könnten auf der Insel Hurrikanbedingungen herrschen.",
+      "published": "2026-09-25T04:25:35.882656+00:00"
     }
   ]
 }
