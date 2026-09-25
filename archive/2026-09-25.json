@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T04:02:22.169461+00:00",
+  "generated": "2026-09-25T04:22:29.512184+00:00",
   "date": "2026-09-25",
-  "count": 200,
+  "count": 211,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1402,6 +1402,83 @@
       "url": "https://www.freiburger-nachrichten.ch/story/291430/15-prozent-mehr-g%C3%A4ste-im-strandbad-murten",
       "summary": "",
       "published": "2026-09-25T04:02:22.169461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ausgehtipps fürs Wochenende: Das läuft im Zürcher Unterland",
+      "url": "https://www.tagesanzeiger.ch/ausgehtipps-fuers-wochenende-das-laeuft-im-zuercher-unterland-922999821902",
+      "summary": "Buchs feiert mit grosser Chilbi, abwechslungsreichem Programm und Essensständen. In Eglisau wird der Dirigent des Kammerchors Unterland verabschiedet.",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Lohnrunde 2027: Gewerkschaften fordern Lohn­sprung von 2,5 Prozent – Arbeit­geber budget­ieren weniger als Hälfte",
+      "url": "https://www.bernerzeitung.ch/arbeitsmarkt-gewerkschaften-fordern-2-5-mehr-lohn-fuer-alle-667835723952",
+      "summary": "Die Wirtschaft wächst stärker als erwartet, die Personal­budgets bleiben stabil. Doch die Lohn­erhöhungen werden gezielt an Leistungs­träger statt an alle ausbezahlt – ein Trend, der sich verschärft.",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Debüt nach Leidenszeit: 21 Monate musste der SCB-Goalie warten. Dann liefert Christof von Burg sofort",
+      "url": "https://www.bernerzeitung.ch/scb-goalie-von-burg-debuet-mit-96-fangquote-954521925090",
+      "summary": "Die Berner mussten sich wegen ihres Umgangs mit dem Torhüter Kritik einstecken. Er selber blieb gelassen. Sein erster Einsatz hätte kaum besser laufen können.",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Neue Daten: Wo steht Bern beim Klimaziel? Wir haben untersucht, wie die Häuser im Kanton heizen",
+      "url": "https://www.derbund.ch/kanton-bern-noch-88000-oelheizungen-trotz-klimaziel-646982083709",
+      "summary": "Werden Ölheizungen nicht schneller ersetzt, dann verpasst der Kanton sein Klimaziel. Nun beginnt die Debatte um ein Verbot erneut.",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Papstbesuch in Frankreich: «Die älteste Tochter der Kirche» empfängt Leo XIV. – und Präsident Macron schmollt",
+      "url": "https://www.nzz.ch/international/papstbesuch-in-frankreich-die-aelteste-tochter-der-kirche-empfaengt-leo-xiv-und-praesident-macron-schmollt-ld.10025235",
+      "summary": "",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wolfsbarsch und chinesischer Weisskohl: Auch beim Staatsbankett versucht Trump, Xis Geschmack zu treffen",
+      "url": "https://www.nzz.ch/international/wolfsbarsch-und-chinesischer-weisskohl-auch-beim-staatsbankett-versucht-trump-xis-geschmack-zu-treffen-ld.10025418",
+      "summary": "",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bilaterale hin oder her: Brüssel setzt auf «Europe first» – und drängt die Schweiz ins Abseits",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-09-25/bilaterale-hin-oder-her-bruessel-setzt-auf-europe-first-und",
+      "summary": "Die EU macht immer mehr Gesetze mit «Made in Europe»-Klauseln. Für die Schweiz steigt das Risiko, als Drittstaat übergangen zu werden.",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Tv Programm Heute eine Bombe Zwingt Liam Neeson zu einer Irrfahrt Durch Berlin",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/tv-programm-heute-eine-bombe-zwingt-liam-neeson-zu-einer-irrfahrt-durch-berlin-2172618",
+      "summary": "",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Erhöhte Abschussquoten Rumäniens Bären Geht es an den Kragen",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/erhoehte-abschussquoten-rumaeniens-baeren-geht-es-an-den-kragen-2172472",
+      "summary": "",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweiz lehnt Asyl ab: Schwules Paar bekämpft Wegweisung nach Russland",
+      "url": "https://www.watson.ch/schweiz/videos/345532325-schweiz-lehnt-asyl-ab-schwules-paar-bekaempft-wegweisung-nach-russland",
+      "summary": "",
+      "published": "2026-09-25T04:22:29.512184+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cute News: Einzigartige Pfoten aus dem Tierreich",
+      "url": "https://www.watson.ch/spass/cute-news/687533368-cute-news-einzigartige-pfoten-aus-dem-tierreich",
+      "summary": "",
+      "published": "2026-09-25T04:22:29.512184+00:00"
     }
   ]
 }
