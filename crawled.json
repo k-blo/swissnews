@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T18:32:25.449973+00:00",
+  "generated": "2026-09-25T19:02:25.790791+00:00",
   "date": "2026-09-25",
-  "count": 1006,
+  "count": 1017,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -7044,6 +7044,83 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/klimademos-zurueck-in-luzern-art-1723852",
       "summary": "",
       "published": "2026-09-25T18:32:25.449973+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Finanzstreit in Genf – Genfer Geldsegen sorgt weiter für Streit im Kantonsparlament",
+      "url": "https://www.srf.ch/news/schweiz/finanzstreit-in-genf-genfer-geldsegen-sorgt-weiter-fuer-streit-im-kantonsparlament",
+      "summary": "Genf hat viel Geld, aber aktuell kein Budget. Auch ob sich das Parlament auf ein Budget für 2027 einigt, ist offen.",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmungen vom 27. September – Was wissen Sie über eidgenössische Volksinitiativen?",
+      "url": "https://www.srf.ch/news/schweiz/abstimmungen-vom-27-september-was-wissen-sie-ueber-eidgenoessische-volksinitiativen",
+      "summary": "Abläufe, Zahlen und Besonderheiten bei den Urnengängen – testen Sie Ihr Wissen im Quiz.",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Von Gefühlen übermannt» – diese Seite von Merz kennen wenige",
+      "url": "https://www.20min.ch/story/merz-biografin-habe-keinen-kanzler-so-oft-weinen-sehen-103639059",
+      "summary": "Nach dem CDU-Debakel wächst der Druck auf Friedrich Merz. Seine Biografin erklärt, warum der Kanzler als distanziert gilt – und dennoch oft weint.",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Urteil in den USA: Jury sieht Millionen Datenschutz-Verstösse bei Facebook als erwiesen an",
+      "url": "https://www.tagesanzeiger.ch/facebook-datenskandal-jury-in-new-mexico-sieht-2-mio-verstoesse-394389419171",
+      "summary": "Im Cambridge-Analytica-Skandal hat eine Jury in New Mexico Facebook schuldig gesprochen. Dem Konzern droht eine Strafe von bis zu 10 Milliarden Dollar.",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Leben mit KI: Wie wäre es, wenn wir nicht mehr arbeiten? Ein Tag im KI-Paradies im Jahr 2060",
+      "url": "https://www.bernerzeitung.ch/ai-utopie-2060-so-sieht-ein-tagesablauf-in-der-zukunft-aus-414929617802",
+      "summary": "In Zukunft heilen Künstliche Intelligenzen Krebs, ersetzen Hausärzte und planen den Tag. Wie werden unsere Tage aussehen? Was gibt uns noch Sinn? Ein spekulativer Blick in den Alltag einer Mutter im J",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gefährliche Mutprobe unter Jugendlichen",
+      "url": "https://www.zentralplus.ch/news/gefaehrliche-mutprobe-unter-jugendlichen-2900874/",
+      "summary": "Wegen einer Mutprobe ist ein Jugendlicher im zürcherischen Dübendorf in eine lebensbedrohliche Situation geraten. Der 15-Jährige hat sich von einem 14-Jährigen so lange würgen lassen, bis er bewusstlo",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Treffen mit Xi für Trump erfolgreich",
+      "url": "https://www.zentralplus.ch/news/treffen-mit-xi-fuer-trump-erfolgreich-2900872/",
+      "summary": "Das Treffen zwischen Chinas Staatschef Xi Jinping und US-Präsident Donald Trump sei ein Erfolg gewesen, schrieb Trump im Anschluss auf seiner Plattform Truth Social. Xi war zu einem dreitägigen Staats",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Friedrich Merz Plant Investitionsgipfel in Deutschland",
+      "url": "https://www.bilanz.ch/partner-insights/friedrich-merz-plant-investitionsgipfel-in-deutschland/xk7ypp6",
+      "summary": "",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Stadtzürcher Parlament Will Vorsorgegeld Nicht in Waffen Stecken",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/stadtzuercher-parlament-will-vorsorgegeld-nicht-in-waffen-stecken-ld.4240860",
+      "summary": "",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Zürich Zieht Streit um Trottoir Parkieren vor Gericht",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuerich-zieht-streit-um-trottoir-parkieren-vor-gericht-ld.4240858",
+      "summary": "",
+      "published": "2026-09-25T19:02:25.790791+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Yakin zu Embolo und Xhaka: «Die Entscheidung kam nicht von mir»",
+      "url": "https://www.watson.ch/sport/fussball/540316026-yakin-zu-embolo-und-xhaka-die-entscheidung-kam-nicht-von-mir",
+      "summary": "",
+      "published": "2026-09-25T19:02:25.790791+00:00"
     }
   ]
 }
