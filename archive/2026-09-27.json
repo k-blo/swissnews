@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T23:02:39.851816+00:00",
+  "generated": "2026-09-26T23:32:58.625541+00:00",
   "date": "2026-09-27",
-  "count": 9,
+  "count": 11,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -65,6 +65,20 @@
       "url": "https://www.zentralplus.ch/news/eu-700-mio-euro-an-hilfsgelder-2900975/",
       "summary": "Die EU stellt mehr als 700 Millionen Euro für Vertriebene in Subsahara-Afrika sowie von Krisen betroffene Menschen weltweit bereit. Die EU-Kommissionspräsidentin Ursula von der Leyen hat dies verkünde",
       "published": "2026-09-26T23:02:39.851816+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wenn der ungebrochene Siegeshunger fast zu gross ist",
+      "url": "https://www.freiburger-nachrichten.ch/story/293180/wenn-der-ungebrochene-siegeshunger-fast-zu-gross-ist",
+      "summary": "",
+      "published": "2026-09-26T23:32:58.625541+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Fluchwort, eine Höchstnote und einige Muntermacher – das sind die Nati-Noten",
+      "url": "https://www.bote.ch/nachrichten/sport/noten-der-schweizer-nati-spieler-beim-30-in-nordmazedonien-art-1723979",
+      "summary": "",
+      "published": "2026-09-26T23:32:58.625541+00:00"
     }
   ]
 }
