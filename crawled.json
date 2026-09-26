@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T12:03:02.110963+00:00",
+  "generated": "2026-09-26T12:32:46.094360+00:00",
   "date": "2026-09-26",
-  "count": 394,
+  "count": 410,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2760,6 +2760,118 @@
       "url": "https://www.freiburger-nachrichten.ch/story/292824/zwei-banner-f%C3%BCr-einen-sieg",
       "summary": "",
       "published": "2026-09-26T12:03:02.110963+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sturz mit E-Trotti: Heli fliegt Mann schwer verletzt ins Spital",
+      "url": "https://www.20min.ch/story/fisibach-ag-47-jaehriger-stuerzt-mit-e-trotti-schwere-kopfverletzungen-103639421",
+      "summary": "Ein Mann wurde am Freitagabend kurz vor Mitternacht auf einer Strasse liegend in Fisibach entdeckt. Er hatte schwere Verletzungen erlitten und musste mit dem Rettungshelikopter ins Spital geflogen wer",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Cora Schumacher: «Habe mit Sex und Männern abgeschlossen»",
+      "url": "https://www.20min.ch/story/cora-schumacher-habe-mit-sex-und-maennern-abgeschlossen-103639393",
+      "summary": "Die Deutsche hat vorerst mit der Männerwelt abgeschlossen. Nach harten zwei Jahren möchte sie sich auf ihr Leben fokussieren.",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "OL-EM in Litauen: Fabian Aebersold gewinnt EM-Bronze über die Mitteldistanz",
+      "url": "https://www.tagesanzeiger.ch/fabian-aebersold-bronze-ueber-mitteldistanz-an-ol-em-990489294688",
+      "summary": "Nachdem der 26-jährige Schweizer am Donnerstag über die Langdistanz Silber holte, jubelt er am Samstag über seine zweite EM-Medaille",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "«Es gibt keine Alternative»: Investoren wollen das «Zuckerrübengleis» weghaben, aber die SBB halten den Bauern die Stange",
+      "url": "https://www.bazonline.ch/muenchenstein-rangiergleis-streit-bedroht-zuckerruebenanbau-584020867122",
+      "summary": "Bauern aus der Region Basel haben rund 6000 Tonnen Zuckerrüben in Münchenstein auf die Schiene geladen. Das ist nur dank eines Rangiergleises möglich, das Politik und Investoren weghaben möchten.",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "SNB: Öl treibt Schweizer Inflation",
+      "url": "https://www.zentralplus.ch/news/snb-oel-treibt-schweizer-inflation-2900936/",
+      "summary": "Die gestiegene Inflation in der Schweiz ist laut SNB-Präsident Martin Schlegel bislang fast ausschliesslich auf Erdölprodukte zurückzuführen. Der heisse und trockene Sommer habe zwar ebenfalls Spuren ",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Notstand nach Regen in Bangkok",
+      "url": "https://www.zentralplus.ch/news/notstand-nach-regen-in-bangkok-2900934/",
+      "summary": "Nach tagelangem Dauerregen haben die Behörden in Bangkok für alle 50 Stadtbezirke den Notstand ausgerufen. Teile der thailändischen Hauptstadt stehen unter Wasser, weitere Regenfälle werden erwartet. ",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KI-Agenten von Open AI leaken Dutzende Bilder von Chat-GPT-Nutzern",
+      "url": "https://www.nzz.ch/technologie/ki-agenten-von-open-ai-leaken-dutzende-bilder-von-chat-gpt-nutzern-ld.10025610",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Porsche Cayenne Turbo Electric 0 100 Kmh in 24 Sekunden",
+      "url": "https://www.bilanz.ch/the-wall-street-journal/porsche-cayenne-turbo-electric-0-100-kmh-in-24-sekunden/bhny7h6",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Swatch Bringt Shanghai Kunst als Uhren Ans Handgelenk",
+      "url": "https://www.bilanz.ch/watches/swatch-bringt-shanghai-kunst-als-uhren-ans-handgelenk/jwj6jw0",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sardinien-Trip: Neuer Wirbel um CDU-Skandalpolitiker Spahn",
+      "url": "https://www.watson.ch/international/deutschland/293229950-sardinien-trip-neuer-wirbel-um-cdu-skandalpolitiker-spahn",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der heutige Nati-Gegner Nordmazedonien: Zäh, aber zuletzt auch zahnlos",
+      "url": "https://www.watson.ch/sport/fussball/556369479-der-heutige-nati-gegner-nordmazedonien-zaeh-aber-zuletzt-auch-zahnlos",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stau am Gotthard: An diesen Tagen und Uhrzeiten ist es am schlimmsten",
+      "url": "https://www.watson.ch/schweiz/auto/302044305-stau-am-gotthard-an-diesen-tagen-und-uhrzeiten-ist-es-am-schlimmsten",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Unfall in Zwingen: Autofahrer übersieht Fussgängerin",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/566544775-unfall-in-zwingen-autofahrer-uebersieht-fussgaengerin",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Unfall auf Julierstrasse bei Vazerol: Töfffahrer schwer verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/670646509-unfall-auf-julierstrasse-bei-vazerol-toefffahrer-schwer-verletzt",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tiana Moser sagt Nein zu Bilaterale III wäre Brexit auf Raten",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/789726720-tiana-moser-sagt-nein-zu-bilaterale-iii-waere-brexit-auf-raten",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Familienzeit-Volksinitiative: Genügend Unterschriften gesammelt",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/897303893-familienzeit-volksinitiative-genuegend-unterschriften-gesammelt",
+      "summary": "",
+      "published": "2026-09-26T12:32:46.094360+00:00"
     }
   ]
 }
