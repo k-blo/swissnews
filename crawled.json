@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T08:32:49.678247+00:00",
+  "generated": "2026-09-26T09:02:33.806049+00:00",
   "date": "2026-09-26",
-  "count": 310,
+  "count": 325,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2172,6 +2172,111 @@
       "url": "https://insideparadeplatz.ch/2026/09/26/verschuldungsexplosion-in-zuerich/",
       "summary": "",
       "published": "2026-09-26T08:32:49.678247+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "KI krempelt die Arbeitswelt um – wer hat die besten Chancen?",
+      "url": "https://www.20min.ch/story/ki-transformation-warum-frauen-laut-mckinsey-studie-profitieren-koennten-103630126",
+      "summary": "Eine neue Studie zeigt, dass Empathie, Kommunikation und Urteilsvermögen im KI-Zeitalter an Bedeutung gewinnen. Eine Expertin erklärt, wo Chancen entstehen – und wo neue Risiken drohen.",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach Geburt des zweiten Sohnes: «Haben uns als Paar verloren»",
+      "url": "https://www.20min.ch/story/laura-maria-rypa-ueber-trennung-von-pietro-lombardi-haben-uns-als-paar-verloren-103639319",
+      "summary": "Laura Maria Rypa spricht über die Trennung von Pietro Lombardi. Nach der zweiten Geburt habe sich das Paar oft gestritten.",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ah, die lügen alle»: Politik streitet über den Hitze-Sommer",
+      "url": "https://www.20min.ch/video/polit-entertainment-ah-die-luegen-alle-politik-streitet-ueber-den-hitze-sommer-103638315",
+      "summary": "Ist die Hitze normal oder alarmierend? Im Bundeshaus ist man sich da nicht ganz einig. Während die einen vor der Krise warnen, sehen andere absolut keinen Grund zur Panik.",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Forensische Psychologin im Interview: Warum sind immer Männer Amokläufer, Frau Beyli?",
+      "url": "https://www.tagesanzeiger.ch/amoktat-in-der-schweiz-was-experten-zur-praevention-sagen-476096540240",
+      "summary": "Nach dem Aarauer Attentat stellt sich die Frage: Was treibt Täter an? Expertin May Beyli erklärt, was sich seit dem Anschlag in Zug vor 25 Jahren in der Amok-Prävention geändert hat. Und wieso der Myt",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Manchester City laut Medienberichten wegen 114 Finanzverstössen schuldig gesprochen",
+      "url": "https://www.nzz.ch/sport/manchester-city-laut-medienberichten-wegen-114-finanzverstoessen-schuldig-gesprochen-ld.10025606",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "KI stellte Nutzer-Bilder ungewollt online",
+      "url": "https://www.persoenlich.com/digital/ki-stellte-nutzer-bilder-ungewollt-online",
+      "summary": "Der ChatGPT-Entwickler hat 53 Mal hochgeladene Fotos auf fremden Plattformen platziert. Zudem waren Agenten des Unternehmens eigenständig auf Websites der US-Regierung unterwegs, und Dutzende weitere ",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Alter Datenskandal, neues Urteil",
+      "url": "https://www.persoenlich.com/digital/alter-datenskandal-neues-urteil",
+      "summary": "Im Fall Cambridge Analytica unterliegt der Facebook-Konzern in New Mexico. Pro Verstoss drohen bis zu 5000 US-Dollar Strafe.",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Weltweit Steigt die Staatsverschuldung was Bedeutet das für den Normalbürge",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/weltweit-steigt-die-staatsverschuldung-was-bedeutet-das-fuer-den-normalbuerge-2168157",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "My Fair Lady im Luzerner Theater Alles Andere als ein Harmloses Musical",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/my-fair-lady-im-luzerner-theater-alles-andere-als-ein-harmloses-musical-ld.4240168",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Miriam Baumann die Blocher Tochter Hinter dem Läckerli Huus",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/miriam-baumann-die-blocher-tochter-hinter-dem-laeckerli-huus-ld.4239384",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Läckerli Huus Miriam Baumann über den Baslerstab und die Neue Schoggi",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/laeckerli-huus-miriam-baumann-ueber-den-baslerstab-und-die-neue-schoggi-ld.4235023",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nico Hischier unterschreibt neuen 11-Millionen-Vertrag und sagt: «Geld-Vergleiche haben keinen Platz",
+      "url": "https://www.freiburger-nachrichten.ch/story/293068/nico-hischier-unterschreibt-neuen-11millionenvertrag-und-sagt-geldvergleiche-haben-keinen-platz",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«My Fair Lady» ist alles andere als ein harmloses Musical: So war die Premiere im Luzerner Theater",
+      "url": "https://www.bote.ch/nachrichten/kultur/my-fair-lady-im-luzerner-theater-alles-andere-als-ein-harmloses-musical-art-1723958",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Frachtfähre gerät vor Mykonos in Vollbrand",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/griechenland-faehre-brennt-vor-mykonos-lichterloh-keine-verletzten-art-1723957",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Papst oder Popstar? 80'000 junge Menschen feiern Leo XIV. in Paris",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/riesige-party-80000-menschen-feiern-papst-leo-xiv-in-paris-art-1723956",
+      "summary": "",
+      "published": "2026-09-26T09:02:33.806049+00:00"
     }
   ]
 }
