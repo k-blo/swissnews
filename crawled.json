@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T21:03:22.385481+00:00",
+  "generated": "2026-09-26T21:32:52.577552+00:00",
   "date": "2026-09-26",
-  "count": 609,
+  "count": 613,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4265,6 +4265,34 @@
       "url": "https://www.watson.ch/leben/people-news/387283010-tom-holland-als-fred-astaire-sabrina-carpenter-stoesst-dazu",
       "summary": "",
       "published": "2026-09-26T21:03:22.385481+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wahl Stadtpräsidium Grenchen – Sahli oder Vogt: Wer soll die Stadt Grenchen präsidieren?",
+      "url": "https://www.srf.ch/news/schweiz/wahl-stadtpraesidium-grenchen-sahli-oder-vogt-wer-soll-die-stadt-grenchen-praesidieren",
+      "summary": "In Grenchen findet erneut die Wahl fürs Stadtpräsidium statt. Die letzte Wahl wurde annulliert.",
+      "published": "2026-09-26T21:32:52.577552+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nations League: Spanien siegt, weil Kane einen Penalty verschiesst",
+      "url": "https://www.tagesanzeiger.ch/spanien-der-weltmeister-gewinnt-in-england-160911959833",
+      "summary": "England muss gegen den Weltmeister als Verlierer vom Platz. Die Spanier gewinnen im Wembleystadion 3:2.",
+      "published": "2026-09-26T21:32:52.577552+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nations League: Weltmeister Spanien besiegt England nach Rückstand",
+      "url": "https://www.nzz.ch/sport/nations-league-weltmeister-spanien-besiegt-england-nach-rueckstand-ld.10025650",
+      "summary": "",
+      "published": "2026-09-26T21:32:52.577552+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "National League im Überblick",
+      "url": "https://www.watson.ch/sport/eishockey/851952579-national-league-im-ueberblick",
+      "summary": "",
+      "published": "2026-09-26T21:32:52.577552+00:00"
     }
   ]
 }
