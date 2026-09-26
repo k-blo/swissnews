@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T03:02:59.936678+00:00",
+  "generated": "2026-09-26T03:33:23.094902+00:00",
   "date": "2026-09-26",
-  "count": 174,
+  "count": 186,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1220,6 +1220,90 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/25-jahre-nach-dem-zuger-attentat-christian-kelter-ueber-das-erinnern-art-1723946",
       "summary": "",
       "published": "2026-09-26T03:02:59.936678+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Meta droht wegen Cambridge-Analytica-Fall Milliardenstrafe",
+      "url": "https://www.20min.ch/story/niederlage-vor-gericht-meta-droht-wegen-cambridge-analytica-fall-milliardenstrafe-103639283",
+      "summary": "Der Cambridge-Analytica-Skandal holt Meta ein: Geschworene in New Mexico befanden den Konzern in zahlreichen Fällen für haftbar. Nun droht eine Milliardenstrafe.",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flug Zürich – Tampa: Airbus A350 von Edelweiss muss zur Ausweichlandung nach Halifax",
+      "url": "https://www.tagesanzeiger.ch/edelweiss-flug-ausweichlandung-in-halifax-wegen-zwischenfall-854100927614",
+      "summary": "Ein medizinischer Zwischenfall bei einem Passagier führte zu einem ungeplanten Stopp eines Edelweiss-Flugs in Kanada. Danach ging es weiter nach Tampa.",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schleiss und Tännler: Hielten sie ihre Wahlversprechen?",
+      "url": "https://www.zentralplus.ch/politik/schleiss-und-taennler-hielten-sie-ihre-wahlversprechen-2900162/",
+      "summary": "In Videos, Flyern und auf Plakaten versprechen die Kandidaten im Wahlkampf den Zugern, den Kanton zu verbessern. Doch setzten die SVP-Regierungsräte um, was sie angekündigt haben? Eine Analyse. Der Zu",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Warum Erwachsene wieder mit Pfeil und Bogen durch den Wald ziehen – und dabei mehr lernen, als nur zu treffen",
+      "url": "https://www.nzz.ch/gesellschaft/intuitives-bogenschiessen-was-es-ueber-fokus-und-fehler-lehrt-ld.10024261",
+      "summary": "",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kantonsräte bezichtigen den Rektor der Universität Zürich strafbaren Verhaltens – weil er umstrittenen Vortrag zu Palästina geduldet hat",
+      "url": "https://www.nzz.ch/zuerich/kantonsraete-bezichtigen-den-rektor-der-universitaet-zuerich-strafbaren-verhaltens-weil-er-umstrittenen-vortrag-zu-palaestina-geduldet-hat-ld.10025444",
+      "summary": "",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Helmi Sigg ist ein Original und im Herzen ein Thalwiler. Über das bäuerlich geprägte Dorf seiner Kindheit, das zum Pendlerparadies geworden ist, sagt er: «Es ist stiller, reicher, sauberer»",
+      "url": "https://www.nzz.ch/zuerich/thalwil-und-helmi-sigg-geschichten-ueber-identitaet-essen-und-erinnerungen-ld.10021500",
+      "summary": "",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Pflastersteine: Jetzt rechtfertigt sich die Stadt",
+      "url": "https://www.shn.ch/region/stadt/2026-09-26/pflastersteine-jetzt-rechtfertigt-sich-die-stadt",
+      "summary": "Das geplante sukzessive Verschwinden der rötlichen Pflastersteine in der Schaffhauser Altstadt sorgt vor allem für eins: für rötliche Köpfe. Baureferentin Katrin Bernath verteidigt das Pflästerungskon",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "37 Gigawattstunden Windenergie fallen weg – Kessler sieht trotzdem keinen Rückschlag",
+      "url": "https://www.shn.ch/region/kanton/2026-09-26/37-gigawattstunden-windenergie-fallen-weg-kessler-sieht-trotzdem-keinen",
+      "summary": "Der Windrad-Standort Hagenturm ist wegen militärischer Interessen vorerst aus dem Rennen. Damit verliert der Kanton ein grosses Stück seines geplanten Windenergiepotenzials. Mit gebündelten Kräften kö",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Nach 14 Jahren Wartezeit: Im Ellikerfeld wird nun doch kein Ersatzdamm gebaut",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-26/nach-14-jahren-wartezeit-im-ellikerfeld-wird-nun-doch-kein",
+      "summary": "Die Zürcher Baudirektion erachtet die Biodiversität als wichtiger als das landwirtschaftliche Interesse: Im südlichen Rheinabschnitt des Marthaler Weilers Ellikon wird auf Hochwasserschutzmassnahmen v",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Wohlen Zwei Betreiber Retten den Taxidienst am Bahnhof",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/wohlen-zwei-betreiber-retten-den-taxidienst-am-bahnhof-ld.4240139",
+      "summary": "",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Gemeinderat Schönenwerd Entscheidet Anders Beim Hallenbad",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/gemeinderat-schoenenwerd-entscheidet-anders-beim-hallenbad-ld.4240329",
+      "summary": "",
+      "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Swiss Cheese Awards gastieren in Freiburg mit 1177 Käsen",
+      "url": "https://www.freiburger-nachrichten.ch/story/292666/swiss-cheese-awards-gastieren-in-freiburg-mit-1177-k%C3%A4sen",
+      "summary": "",
+      "published": "2026-09-26T03:33:23.094902+00:00"
     }
   ]
 }
