@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T09:33:00.357358+00:00",
+  "generated": "2026-09-26T09:42:49.745805+00:00",
   "date": "2026-09-26",
-  "count": 339,
+  "count": 343,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2375,6 +2375,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/bergbahnen-beckenried-emmetten-planen-mehr-schneesicherheit-art-1723959",
       "summary": "",
       "published": "2026-09-26T09:33:00.357358+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Angriffe in der Region Krasnodar",
+      "url": "https://www.zentralplus.ch/news/angriffe-in-der-region-krasnodar-2900920/",
+      "summary": "Russland meldet ukrainischen Drohnenangriff in der Region Krasnodar. Laut den Behörden sind drei Menschen getötet und zwei weitere verletzt worden. Es kam zu Bränden bei Industrieanlagen und Störungen",
+      "published": "2026-09-26T09:42:49.745805+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nach mutmasslicher Gasexplosion in Athen: Zwei Tote geborgen",
+      "url": "https://www.nzz.ch/panorama/nach-mutmasslicher-gasexplosion-in-athen-zwei-tote-geborgen-ld.10025614",
+      "summary": "",
+      "published": "2026-09-26T09:42:49.745805+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Warum Adrian Fetscherin Seinen Herzensklub Ehc Arosa Verliess",
+      "url": "https://www.suedostschweiz.ch/regionalsport/warum-adrian-fetscherin-seinen-herzensklub-ehc-arosa-verliess-2146427",
+      "summary": "",
+      "published": "2026-09-26T09:42:49.745805+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Intifada-Bus»: Kontroverser Aufruf für deutsche Palästina-Demo",
+      "url": "https://www.watson.ch/international/deutschland/682299005-intifada-bus-kontroverser-aufruf-fuer-deutsche-palaestina-demo",
+      "summary": "",
+      "published": "2026-09-26T09:42:49.745805+00:00"
     }
   ]
 }
