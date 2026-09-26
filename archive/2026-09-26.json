@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T00:02:30.307577+00:00",
+  "generated": "2026-09-26T00:32:43.118505+00:00",
   "date": "2026-09-26",
-  "count": 27,
+  "count": 35,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -191,6 +191,62 @@
       "url": "https://www.zentralplus.ch/news/notstand-auf-hawaii-ausgerufen-2900886/",
       "summary": "Auf Hawaii bereiten sich die Menschen auf einen weiteren gefährlichen Hurrikan vor. Der Sturm «Nolo» zieht knapp südlich an den Inseln vorbei und dürfte sich laut Prognosen zu einem schweren Hurrikan ",
       "published": "2026-09-26T00:02:30.307577+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "ChatGPT lud Nutzerbilder auf Plattformen",
+      "url": "https://www.20min.ch/story/ki-ausser-kontrolle-chatgpt-lud-nutzerbilder-auf-plattformen-103639280",
+      "summary": "ChatGPT platzierte in 53 Fällen Nutzerbilder auf Online-Plattformen. OpenAI informierte «Dutzende» Website-Betreiber über weitere ungeplante KI-Aktivitäten.",
+      "published": "2026-09-26T00:32:43.118505+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "OpenAI-KI ausser Kontrolle: ChatGPT-Nutzerbilder landeten auf Online-Plattformen",
+      "url": "https://www.tagesanzeiger.ch/openai-ai-lud-53-nutzerbilder-auf-online-plattformen-108066911961",
+      "summary": "Erstmals sind auch Daten von ChatGPT-Nutzern von einem Fehlverhalten der OpenAI-KI betroffen: Die Software platzierte in 53 Fällen hochgeladene Bilder auf Online-Plattformen. Zudem informierte OpenAI ",
+      "published": "2026-09-26T00:32:43.118505+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "OpenAI: 53 Bilder hochgeladen",
+      "url": "https://www.zentralplus.ch/news/openai-53-bilder-hochgeladen-2900888/",
+      "summary": "Die Künstliche Intelligenz von OpenAI hat 53 Mal von Nutzern hochgeladene Bilder auf Online-Plattformen platziert. Die Links dazu seien nicht öffentlich gewesen, erklärte OpenAI.Ein Grossteil sei bere",
+      "published": "2026-09-26T00:32:43.118505+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Erfolglose Pilgerreise nach Brüssel",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/erfolglose-pilgerreise-nach-bruessel",
+      "summary": "",
+      "published": "2026-09-26T00:32:43.118505+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Redaktionen was die Meinungsvielfalt Wirklich Gefährdet",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/redaktionen-was-die-meinungsvielfalt-wirklich-gefaehrdet",
+      "summary": "",
+      "published": "2026-09-26T00:32:43.118505+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "50 Grad in der Schweiz Sind Theoretisch Möglich aber Extrem Unwahrscheinlich",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/50-grad-in-der-schweiz-sind-theoretisch-moeglich-aber-extrem-unwahrscheinlich",
+      "summary": "",
+      "published": "2026-09-26T00:32:43.118505+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Svp Glarner Fordert Generalamnestie für Zertifikats Fälscher und Masken Trickser",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/svp-glarner-fordert-generalamnestie-fuer-zertifikats-faelscher-und-masken-trickser",
+      "summary": "",
+      "published": "2026-09-26T00:32:43.118505+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Berlin Links Zürich Links New York Links Warum Eigentlich vom Unwesen der Akademiker",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/berlin-links-zuerich-links-new-york-links-warum-eigentlich-vom-unwesen-der-akademiker",
+      "summary": "",
+      "published": "2026-09-26T00:32:43.118505+00:00"
     }
   ]
 }
