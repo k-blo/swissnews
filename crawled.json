@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T11:33:09.943907+00:00",
+  "generated": "2026-09-26T12:03:02.110963+00:00",
   "date": "2026-09-26",
-  "count": 390,
+  "count": 394,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2732,6 +2732,34 @@
       "url": "https://www.bote.ch/nachrichten/kultur/taylor-swift-bricht-mit-neuer-single-einen-rekord-von-spotify-art-1723961",
       "summary": "",
       "published": "2026-09-26T11:33:09.943907+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach mutmasslichem Gasleck: Sechs Tote nach Hausexplosion in Athen",
+      "url": "https://www.tagesanzeiger.ch/hausexplosion-athen-sechs-tote-in-plaka-geborgen-437919752055",
+      "summary": "In der historischen Plaka stürzte am Freitagmorgen ein dreistöckiges Haus nach einer heftigen Explosion ein. Unter den Opfern sind vermutlich vier US-amerikanische Touristen und ein älteres Ehepaar.",
+      "published": "2026-09-26T12:03:02.110963+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Patient Zero»: Taylor Swift bricht Spotify-Rekord mit neuer Single",
+      "url": "https://www.tagesanzeiger.ch/taylor-swift-patient-zero-bricht-spotify-rekord-2026-860139885636",
+      "summary": "Taylor Swifts neue Single stellt den Tagesrekord auf Spotify für 2026 auf. In dem Song rechnet sie aus der Perspektive einer geheilten Ex-Partnerin mit einer toxischen Beziehung ab.",
+      "published": "2026-09-26T12:03:02.110963+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Überschwemmungen legen Millionenstadt Bangkok lahm",
+      "url": "https://www.watson.ch/international/thailand/143063175-ueberschwemmungen-legen-millionenstadt-bangkok-lahm",
+      "summary": "",
+      "published": "2026-09-26T12:03:02.110963+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zwei Banner für einen Sieg?",
+      "url": "https://www.freiburger-nachrichten.ch/story/292824/zwei-banner-f%C3%BCr-einen-sieg",
+      "summary": "",
+      "published": "2026-09-26T12:03:02.110963+00:00"
     }
   ]
 }
