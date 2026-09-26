@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T01:03:28.288211+00:00",
+  "generated": "2026-09-26T01:32:37.178684+00:00",
   "date": "2026-09-26",
-  "count": 36,
+  "count": 37,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -254,6 +254,13 @@
       "url": "https://www.zentralplus.ch/news/tiktok-zahlt-100-mio-an-alabama-2900890/",
       "summary": "Tiktok muss dem US-Bundesstaat Alabama mindestens 100 Millionen Dollar zahlen und mit technischen Sperren dafür sorgen, dass Jugendliche die App täglich nur noch zwei Stunden nutzen. Darauf haben sich",
       "published": "2026-09-26T01:03:28.288211+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Einteilung der Wahlkreise in Missouri",
+      "url": "https://www.zentralplus.ch/news/einteilung-der-wahlkreise-in-missouri-2900892/",
+      "summary": "Der Supreme Court, das Oberste Gericht der USA, hat US-Präsident Donald Trump eine Niederlage bereitet. Trumps Republikaner hatten die Wahlkreise im Bundesstaat Missouri im letzten Jahr neu gezogen. D",
+      "published": "2026-09-26T01:32:37.178684+00:00"
     }
   ]
 }
