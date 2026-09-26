@@ -1,36 +1,36 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Sat, 26 Sep 2026 21:18:09 GMT",
-    "etag": "\"26b1bc9ea9de7dd69c6e39935dab39a9\""
+    "last_modified": "Sat, 26 Sep 2026 22:24:05 GMT",
+    "etag": "\"2e2a56b43c9742968b5bcf227ed54c0b\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"183d8-okAnfOoSlNmKevqhw2qlfGclvGQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"fe93-QIoNPwcbNTbk1i2XIPZLo+62kDI\""
+    "etag": "W/\"fe93-R6SIEW92J9jox1rQ9h10R3dKyAw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"f00b-tY+VP2a/t/X4VdAh80TKySWqbEU\""
+    "etag": "W/\"f08a-cdaw5TaF4gJCaNxENU/M5I/ei4o\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Sat, 26 Sep 2026 18:55:17 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Sat, 26 Sep 2026 21:31:54 GMT"
+    "last_modified": "Sat, 26 Sep 2026 22:31:41 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Sat, 26 Sep 2026 21:11:06 GMT",
     "etag": "\"1790457066\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sat, 26 Sep 2026 21:57:29 GMT"
+    "last_modified": "Sat, 26 Sep 2026 22:27:29 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"ed5c-UH0HXmplOEB4miarVuerD2BB900\""
+    "etag": "W/\"edba-3u31DymWSSlxLesjxpOoZpgpIYw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
     "etag": "W/\"eb47-9QvJmiVOjuXN5e5Y13IThkqm/MY\""
@@ -51,8 +51,8 @@
     "etag": "\"1790455944\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sat, 26 Sep 2026 22:00:28 GMT",
-    "etag": "W/\"1790460028-gzip\""
+    "last_modified": "Sat, 26 Sep 2026 22:12:14 GMT",
+    "etag": "W/\"1790460734-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"129bc-KKI1o84TtiSS0ooGrqurxHydf/w\""
