@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T07:02:38.055406+00:00",
+  "generated": "2026-09-26T07:33:00.302082+00:00",
   "date": "2026-09-26",
-  "count": 270,
+  "count": 282,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1892,6 +1892,90 @@
       "url": "https://www.freiburger-nachrichten.ch/story/293057/wanderweg-singerenwald-gesperrt",
       "summary": "",
       "published": "2026-09-26T07:02:38.055406+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Milchpreis, Kosovo, Geldwäsche: Das ändert sich im Oktober in der Schweiz",
+      "url": "https://www.blick.ch/schweiz/milchpreis-kosovo-geldwaesche-das-aendert-sich-im-oktober-in-der-schweiz-id22278819.html",
+      "summary": "Im Oktober gibt es wieder einige Änderungen in der Schweiz. Neue Regeln gegen Geldwäscherei und ein Freihandelsabkommen mit Kosovo treten in Kraft. Das ändert sich alles im Oktober.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polizei bestätigt Einsatz: Scheune in Mörschwil SG brennt lichterloh",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/polizei-bestaetigt-einsatz-scheune-in-moerschwil-sg-brennt-lichterloh-id22280614.html",
+      "summary": "In Mörschwil SG ist es am Samstag zu einem Brand gekommen. Eine Scheune steht derzeit in Flammen – die Kapo bestätigt einen laufenden Einsatz.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Riesige Rauchwolke»: Stall brennt lichterloh",
+      "url": "https://www.20min.ch/story/moerschwil-sg-riesige-rauchwolke-stall-brennt-lichterloh-103639307",
+      "summary": "Am Samstagmorgen ist in Mörschwil SG ein Brand ausgebrochen. Mehrere News-Scouts berichteten von einer grossen Rauchsäule, die aus der Ferne sichtbar ist.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wer will «AR 67»? Meme-Nummernschild wird versteigert",
+      "url": "https://www.20min.ch/story/10-000-franken-startgebot-wer-will-ar-67-meme-nummernschild-wird-versteigert-103639297",
+      "summary": "In der Ostschweiz kommt ein ganz besonderes Kontrollschild unter den Hammer. Hinter der Zahl steckt ein Internetphänomen, dessen genauer Ursprung bis heute ein Rätsel ist.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Rätsel um mysteriöse Botschaft an Genfer Berg gelüftet",
+      "url": "https://www.20min.ch/story/werbegag-raetsel-um-mysterioese-botschaft-an-genfer-berg-gelueftet-103639287",
+      "summary": "Die Botschaft, die in der Nacht von Dienstag auf Mittwoch auf den Salève projiziert wurde, war ein Werbegag eines Kulturlokals zu dessen 10-Jahre-Jubiläum.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Reportage aus Indien: Rajendra Singh ist der einzige Lehrer für eine Schule: Er unterrichtet 56 Kinder",
+      "url": "https://www.tagesanzeiger.ch/indien-ist-ein-land-der-bildungsmisere-586672623451",
+      "summary": "Während Narendra Modi von einer Wirtschaftswunderwelt träumt, müssen sich Lehrkräfte gegen die Bildungsmisere Indiens stemmen. Besuch einer Schulstunde in einer Welt der Abgehängten.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Glamping auf Rädern: Wie gut ist der Campervan mit dem Stern?",
+      "url": "https://www.tagesanzeiger.ch/mercedes-benz-marco-polo-edel-campervan-ab-82000-franken-326680499789",
+      "summary": "Der Mercedes-Benz Marco Polo ist der Edle unter den kompakten Reisemobilen. Seine Vorteile spielt er aber vor allem als Alltagsfahrzeug aus.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Finanztipps vom Geldberater: So können sicherheitsbewusste Anlegerinnen und Anleger anlegen",
+      "url": "https://www.tagesanzeiger.ch/dividendenaktien-so-legen-sie-500000-franken-sicher-an-319990442442",
+      "summary": "Wer Geld nur auf Bankkonten parkiert, verliert durch die Inflation an Kaufkraft. Schweizer Dividendenaktien, günstige Indexfonds und Immobilienfonds bieten bessere Alternativen.",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Fäkalien und Frakturen",
+      "url": "https://www.suedostschweiz.ch/graubuenden/faekalien-und-frakturen-2174301",
+      "summary": "",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Beggetwil Scheunenbrand Sorgt für Grossaufgebot der Feuerwehr",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/beggetwil-scheunenbrand-sorgt-fuer-grossaufgebot-der-feuerwehr-ld.4240881",
+      "summary": "",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kinder in Alabama dürfen nur noch 2 Stunden pro Tag auf Tiktok sein",
+      "url": "https://www.watson.ch/international/kinder/680761608-kinder-in-alabama-duerfen-nur-noch-2-stunden-pro-tag-auf-tiktok-sein",
+      "summary": "",
+      "published": "2026-09-26T07:33:00.302082+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Strassen wegen Murtenlauf gesperrt",
+      "url": "https://www.freiburger-nachrichten.ch/story/292167/strassen-wegen-murtenlauf-gesperrt",
+      "summary": "",
+      "published": "2026-09-26T07:33:00.302082+00:00"
     }
   ]
 }
