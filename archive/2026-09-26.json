@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-26T03:33:23.094902+00:00",
+  "generated": "2026-09-26T04:02:51.451389+00:00",
   "date": "2026-09-26",
-  "count": 186,
+  "count": 212,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1304,6 +1304,188 @@
       "url": "https://www.freiburger-nachrichten.ch/story/292666/swiss-cheese-awards-gastieren-in-freiburg-mit-1177-k%C3%A4sen",
       "summary": "",
       "published": "2026-09-26T03:33:23.094902+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Umstrittener Schutzdamm gegen Hochwasser: Ein Damm könnte die «Mückenbelastung sogar verstärken», heisst es beim Kanton",
+      "url": "https://www.tagesanzeiger.ch/ellikon-am-rhein-kanton-verzichtet-auf-hochwasserschutzdamm-496307431419",
+      "summary": "Die Baudirektion will endgültig keinen Ersatzdamm im Ellikerfeld am Rhein. Ein solcher Damm schade zu sehr der Biodiversität. Und gegen Stechmückenplagen helfe er kaum – im Gegenteil.",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wortsuche Lösungshilfe: Wortsuche vom Samstag, 26. September 2026: Mit diesen Tipps knacken Sie das Rätsel",
+      "url": "https://www.tagesanzeiger.ch/wortsuche-tipps-zum-raetsel-vom-26-september-2026-411270474990",
+      "summary": "Stecken Sie beim heutigen Rätsel fest? Keine Sorge! Mit unseren drei Hinweisen kommen Sie der Lösung Schritt für Schritt näher. Die Auflösung gibt es in der Infobox.",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Online-Shopping: In der EU gegen Google gewonnen, nun sollen Schweizer Kunden via Idealo bestellen",
+      "url": "https://www.tagesanzeiger.ch/preisvergleichsplattform-idealo-startet-2027-in-der-schweiz-643329008397",
+      "summary": "Die EU zwang Google dazu, die eigene Shopping-Funktion zurückzustufen. Hinter dem Widerstand steht auch die deutsche Vergleichsplattform Idealo. Nun will sie in der Schweiz starten.",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Grossgeschäft eines SVP-Politikers: Bankerjob, Immobilien und eine Erbschaft: So wurde Thomas Fuchs zum Millioneninvestor",
+      "url": "https://www.bernerzeitung.ch/thomas-fuchs-svp-politiker-erbte-millionen-875549932198",
+      "summary": "In einem Walliser Ferienort kauft der Berner SVP-Grossrat eine Hotelanlage samt Parkhaus. Nun zeigen Recherchen, wie Thomas Fuchs im Immobiliengeschäft die Fäden zieht.",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Natürlicher Baustoff: Leben wir dereinst in Häusern aus Pilzen?",
+      "url": "https://www.bernerzeitung.ch/mycostrat-start-up-baut-daemmplatten-aus-pilzmyzel-440294705136",
+      "summary": "Das Start-up Mycostrat aus Emmenbrücke stellt Dämmplatten aus Pilzflechten her. Im Einsatz ist das Material erst zur Probe. Doch es gibt Anfragen aus vielen Bereichen.",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Online-Shopping: Konkurrenz für Google? Idealo will 2027 in der Schweiz starten",
+      "url": "https://www.derbund.ch/preisvergleichsplattform-idealo-startet-2027-in-der-schweiz-643329008397",
+      "summary": "Die EU zwang den US-Konzern dazu, die eigene Shopping-Funktion zurückzustufen. Hinter dem Widerstand steht auch die deutsche Vergleichs­plattform Idealo. Hierzulande dürfte sie es jedoch schwieriger h",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Akute Bedrohung oder nur Hysterie? In der Debatte um die Russland-Gefahr braucht es mehr Realismus",
+      "url": "https://www.nzz.ch/meinung/russland-und-europa-akute-gefahr-oder-nur-hysterie-ld.10025222",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "In Lateinamerika gewinnt Trump immer mehr Partner für seinen Kampf gegen das organisierte Verbrechen",
+      "url": "https://www.nzz.ch/international/in-lateinamerika-gewinnt-trump-immer-mehr-partner-fuer-seinen-kampf-gegen-das-organisierte-verbrechen-ld.10025504",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Trumps Ziel ist erreicht: Die USA sind jetzt die wichtigste Ölnation. Den Preis bezahlen die Amerikaner an der Tankstelle",
+      "url": "https://www.nzz.ch/meinung/iran-krieg-diesel-exportstopp-zeigt-schwaeche-des-oelgiganten-usa-ld.10025490",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Jedes Jahr töten Bären in Russland Dutzende Menschen. Wird das Nationalsymbol nun zum Politikum?",
+      "url": "https://www.nzz.ch/panorama/baeren-in-russland-gefahr-statt-nationalsymbol-ld.10025425",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Machen wir so weiter, blutet die Landwirtschaft aus», mahnt der Chef des grössten Ernteversicherers des Landes",
+      "url": "https://www.nzz.ch/schweiz/agrarversicherer-warnt-machen-wir-so-weiter-blutet-die-landwirtschaft-aus-ld.10025407",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Burkaverbot und eine Obergrenze für ausländische Kinder an Italiens Schulen – und am Ende einige Rückzieher",
+      "url": "https://www.nzz.ch/international/melonis-neue-regeln-fuer-italiens-schulen-burkaverbot-und-auslaenderkinder-quote-ld.10025323",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Verschärfung der Lex Koller: Schweizer Pensionskassen könnten Milliarden verlieren",
+      "url": "https://www.nzz.ch/wirtschaft/verschaerfung-der-lex-koller-warum-schweizer-pensionskassen-milliarden-verlieren-koennten-ld.10025296",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Streitpunkt bei den EU-Verträgen: Diese Ständeräte entscheiden, ob nur das Volk oder auch die Stände zustimmen müssen",
+      "url": "https://www.nzz.ch/schweiz/streitpunkt-bei-den-eu-vertraegen-diese-staenderaete-entscheiden-ob-nur-das-volk-oder-auch-die-staende-zustimmen-muessen-ld.10025293",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Ich habe Kinder, ich kann ihnen nicht sagen: ‹Alles ist hoffnungslos, wir werden sowieso alle sterben›»",
+      "url": "https://www.nzz.ch/folio/ich-habe-kinder-ich-kann-ihnen-nicht-sagen-alles-ist-hoffnungslos-wir-werden-sowieso-alle-sterben-ld.10025287",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Lex Blättler»: Für den Bundesanwalt soll ein neues Gesetz geschaffen werden, damit er bis siebzig weiterarbeiten kann",
+      "url": "https://www.nzz.ch/schweiz/lex-blaettler-fuer-den-bundesanwalt-soll-ein-neues-gesetz-geschaffen-werden-damit-er-bis-70-weiterarbeiten-kann-ld.10025233",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Streit um Überprüfung der Wählerlisten in Indien: Chef der Wahlkommission nach Enthüllungen unter Beschuss",
+      "url": "https://www.nzz.ch/international/streit-um-ueberpruefung-der-waehlerlisten-in-indien-chef-der-wahlkommission-nach-enthuellungen-unter-beschuss-ld.10025218",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Exklusive Daten zeigen: Die Klage über die Prämienlast ist übertrieben",
+      "url": "https://www.nzz.ch/wirtschaft/exklusive-daten-zeigen-die-klage-ueber-die-praemienlast-ist-uebertrieben-ld.10025159",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wohlstand, ohne zu arbeiten: Elon Musk will die Vision von Karl Marx verwirklichen",
+      "url": "https://www.nzz.ch/feuilleton/wohlstand-ohne-zu-arbeiten-elon-musk-will-die-vision-von-karl-marx-verwirklichen-ld.10025145",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mit der Jeans aufs Bett – ist das nun eklig oder harmlos?",
+      "url": "https://www.nzz.ch/wissenschaft/mit-der-alltagsjeans-auf-dem-bett-harmlos-oder-gesundheitliches-risiko-ld.10024884",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "In der Schweiz ist Sprit doppelt so teuer wie in den USA oder Japan – ein Grund sind die Steuern",
+      "url": "https://www.nzz.ch/wirtschaft/in-der-schweiz-ist-sprit-doppelt-so-teuer-wie-in-den-usa-oder-japan-ein-grund-sind-die-steuern-ld.10024881",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "350 Millionen für die Angehörigenpflege: Eine edle Idee wird zur Kostenfalle und sorgt im Parlament für Aktivismus",
+      "url": "https://www.nzz.ch/schweiz/350-millionen-fuer-die-angehoerigenpflege-eine-edle-idee-wird-zur-kostenfalle-und-sorgt-im-parlament-fuer-aktivismus-ld.10024847",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Wohler Grüne Wollen Klarheit zu Bäumen und Aussenräumen",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/wohler-gruene-wollen-klarheit-zu-baeumen-und-aussenraeumen-ld.4240207",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Gratulation zum 94 Geburtstag von Olga Stadler Gloor",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/gratulation-zum-94-geburtstag-von-olga-stadler-gloor-ld.4235221",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Mansplaining»: In SRF-Arena zu Kampfjets muss Salzmann zurückrudern",
+      "url": "https://www.watson.ch/schweiz/reviews/240829143-mansplaining-in-srf-arena-zu-kampfjets-muss-salzmann-zurueckrudern",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "100-Franken Landi-Gutschein",
+      "url": "https://www.freiburger-nachrichten.ch/story/292855/100franken-landigutschein",
+      "summary": "",
+      "published": "2026-09-26T04:02:51.451389+00:00"
     }
   ]
 }
