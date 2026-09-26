@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-25T23:40:16.967873+00:00",
+  "generated": "2026-09-26T00:02:30.307577+00:00",
   "date": "2026-09-26",
-  "count": 26,
+  "count": 27,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,13 @@
       "url": "https://www.20min.ch/story/medizinischer-notfall-edelweiss-flug-nach-florida-landet-in-kanada-103639279",
       "summary": "Wegen eines medizinischen Notfalls musste ein Edelweiss-Flug von Zürich nach Tampa in Halifax zwischenlanden. Inzwischen ist das Flugzeug wieder Richtung Florida unterwegs.",
       "published": "2026-09-25T23:32:19.530164+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Notstand auf Hawaii ausgerufen",
+      "url": "https://www.zentralplus.ch/news/notstand-auf-hawaii-ausgerufen-2900886/",
+      "summary": "Auf Hawaii bereiten sich die Menschen auf einen weiteren gefährlichen Hurrikan vor. Der Sturm «Nolo» zieht knapp südlich an den Inseln vorbei und dürfte sich laut Prognosen zu einem schweren Hurrikan ",
+      "published": "2026-09-26T00:02:30.307577+00:00"
     }
   ]
 }
