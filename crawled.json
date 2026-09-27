@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T01:03:14.492418+00:00",
+  "generated": "2026-09-27T01:32:47.390812+00:00",
   "date": "2026-09-27",
-  "count": 21,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -149,6 +149,34 @@
       "url": "https://www.watson.ch/sport/fussball/402481862-schweizer-fussballnationalmannschaft-gegen-mazedonien-die-nati-noten",
       "summary": "",
       "published": "2026-09-27T01:03:14.492418+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "5,7 Milliarden Dollar Strafe für Apple",
+      "url": "https://www.zentralplus.ch/news/57-milliarden-dollar-strafe-fuer-apple-2900981/",
+      "summary": "Apple soll nach einem Urteil von US-Geschworenen gut 5,7 Milliarden Dollar wegen der Verletzung von zwei Patenten zahlen. In dem Prozess warf das Unternehmen Taction Technology dem Konzern vor, seine ",
+      "published": "2026-09-27T01:32:47.390812+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Taylor Swift bricht Rekorde",
+      "url": "https://www.zentralplus.ch/news/taylor-swift-bricht-rekorde-2900979/",
+      "summary": "Die US-Sängerin Taylor Swift hat mit ihrer neuen Single einen Rekord auf der weltweit stark genutzten Streamingplattform Spotify gebrochen. «Am 25. September avancierte «Patient Zero» zum meistgestrea",
+      "published": "2026-09-27T01:32:47.390812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ni una Maricarmen mas: Zehntausende protestieren in Madrid",
+      "url": "https://www.watson.ch/international/immobilien/278535073-ni-una-maricarmen-mas-zehntausende-protestieren-in-madrid",
+      "summary": "",
+      "published": "2026-09-27T01:32:47.390812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Apple Iphone: 5,7 Milliarden Dollar Busse wegen Patentverletzung",
+      "url": "https://www.watson.ch/digital/international/746977107-apple-iphone-5-7-milliarden-dollar-busse-wegen-patentverletzung",
+      "summary": "",
+      "published": "2026-09-27T01:32:47.390812+00:00"
     }
   ]
 }
