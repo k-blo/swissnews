@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T01:32:47.390812+00:00",
+  "generated": "2026-09-27T02:02:41.686035+00:00",
   "date": "2026-09-27",
-  "count": 25,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -177,6 +177,27 @@
       "url": "https://www.watson.ch/digital/international/746977107-apple-iphone-5-7-milliarden-dollar-busse-wegen-patentverletzung",
       "summary": "",
       "published": "2026-09-27T01:32:47.390812+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krieg Russland Ukraine: Angriffe treffen Odessa",
+      "url": "https://www.watson.ch/international/russland/826586884-krieg-russland-ukraine-angriffe-treffen-odessa",
+      "summary": "",
+      "published": "2026-09-27T02:02:41.686035+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "OpenAI pausiert KI-Training nach neuem Zwischenfall",
+      "url": "https://www.watson.ch/digital/international/603431134-openai-pausiert-ki-training-nach-neuem-zwischenfall",
+      "summary": "",
+      "published": "2026-09-27T02:02:41.686035+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Strasse von Hormus: Iran warnt unautorisierte Schiffe vor Konsequenzen",
+      "url": "https://www.watson.ch/international/iran/770016699-strasse-von-hormus-iran-warnt-unautorisierte-schiffe-vor-konsequenzen",
+      "summary": "",
+      "published": "2026-09-27T02:02:41.686035+00:00"
     }
   ]
 }
