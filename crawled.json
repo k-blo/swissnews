@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T07:03:02.926049+00:00",
+  "generated": "2026-09-27T07:32:32.855871+00:00",
   "date": "2026-09-27",
-  "count": 148,
+  "count": 160,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1038,6 +1038,90 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-polizei-schnappt-einen-teenie-einbrecher-art-1723989",
       "summary": "",
       "published": "2026-09-27T07:03:02.926049+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Historisch tiefer Wasserstand – Schiffskapitän auf dem Zürichsee: «Ich bete jeden Tag für Regen»",
+      "url": "https://www.srf.ch/news/schweiz/historisch-tiefer-wasserstand-schiffskapitaen-auf-dem-zuerichsee-ich-bete-jeden-tag-fuer-regen",
+      "summary": "Wegen des tiefen Wasserstands fahren weniger Schiffe. Es werde Geschichte geschrieben, sagt der Schiffsführer der ZSG.",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Skandal um Sammelfirmen – Tun Sie genug gegen den «Unterschriften-Bschiss», Herr Rossi?",
+      "url": "https://www.srf.ch/news/schweiz/skandal-um-sammelfirmen-tun-sie-genug-gegen-den-unterschriften-bschiss-herr-rossi",
+      "summary": "Nach dem Schock über Unterschriftenfälschungen in den vergangenen Jahren lobt Bundeskanzler die erzielten Fortschritte.",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nations League: Irlands Nationalgoalie Bazunu boykottiert Spiele gegen Israel",
+      "url": "https://www.tagesanzeiger.ch/gavin-bazunu-irlands-goalie-boykottiert-spiele-gegen-israel-278839621785",
+      "summary": "Der 24-jährige Torhüter verweigert aus Protest gegen den Gaza-Konflikt die Teilnahme an den beiden Nations-League-Duellen. Seine Teamkollegen entschieden sich gegen einen Boykott.",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schweden: Polizei ruft Bevölkerung auf, am Telefon unhöflich zu sein",
+      "url": "https://www.tagesanzeiger.ch/schweden-polizei-raet-zu-unhoeflichkeit-gegen-telefonbetrug-424245036818",
+      "summary": "Betrüger erbeuteten in Schweden letztes Jahr gesamthaft 476 Millionen Franken. Nun wirbt die Polizei mit Prominenten dafür, verdächtige Anrufe brüsk abzuwürgen.",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Winterspiele 2038: Mit 85 auf Werbetour für Olympia in Basel",
+      "url": "https://www.bazonline.ch/olympia-2038-basler-kaempft-fuer-curling-in-der-st-jakobshalle-177615343343",
+      "summary": "Bruno Schallberger möchte, dass an den Olympischen Winterspielen 2038 Curling und Shorttrack am Rheinknie zu sehen sind.",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "So will Luzern Gewalt in der Erziehung vorbeugen",
+      "url": "https://www.zentralplus.ch/news/so-will-luzern-gewalt-in-der-erziehung-vorbeugen-2900985/",
+      "summary": "Im Familienalltag entstehen immer wieder Konflikte. Ein neuer Kurs soll Eltern Wege für einen gewaltfreien Umgang aufzeigen. Die Stadt Luzern bietet einen neuen Elternkurs zu gewaltfreier Erziehung an",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Winzige OLED-Pixel lassen sich wie Mikrochips herstellen",
+      "url": "https://www.netzwoche.ch/news/2026-09-27/winzige-oled-pixel-lassen-sich-wie-mikrochips-herstellen",
+      "summary": "Forschende der ETH Zürich haben einen Fotolack entwickelt, aus dem sie winzige farbige Leuchtpixel herstellen können – mögliche Bausteine für besonders kleine und scharfe Bildschirme.",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Up, up in the sky",
+      "url": "https://www.netzwoche.ch/meinungen/2026-09-27/up-up-in-the-sky",
+      "summary": "Rechenzentren sind das Herzstück unserer Industrie. Die Anzahl und die Leistungsfähigkeit wachsen rasant. Der nächste Ausbauschritt steht vor der Tür: die orbitalen Rechenzentren.",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kein Bier? Diskriminierung! Der britische Premierminister will das Alkoholverbot in den Stadien abschaffen",
+      "url": "https://www.nzz.ch/sport/kein-bier-diskriminierung-der-englische-premierminister-will-das-alkoholverbot-in-den-stadien-abschaffen-ld.10025350",
+      "summary": "",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Boeing 737 Max: Neues Sicherheitsproblem bei der Landenavigation",
+      "url": "https://www.watson.ch/international/boeing/586326666-boeing-737-max-neues-sicherheitsproblem-bei-der-landenavigation",
+      "summary": "",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zeki Amdouni die grosse Figur der Nati – doch die Nebengeräusche bleiben",
+      "url": "https://www.watson.ch/sport/fussball/477091995-zeki-amdouni-die-grosse-figur-der-nati-doch-die-nebengeraeusche-bleiben",
+      "summary": "",
+      "published": "2026-09-27T07:32:32.855871+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Römische Wölfin",
+      "url": "https://www.freiburger-nachrichten.ch/story/292649/die-r%C3%B6mische-w%C3%B6lfin",
+      "summary": "",
+      "published": "2026-09-27T07:32:32.855871+00:00"
     }
   ]
 }
