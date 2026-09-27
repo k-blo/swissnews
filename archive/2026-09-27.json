@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T03:02:49.483799+00:00",
+  "generated": "2026-09-27T03:33:08.521990+00:00",
   "date": "2026-09-27",
-  "count": 55,
+  "count": 56,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -387,6 +387,13 @@
       "url": "https://www.bote.ch/nachrichten/kultur/ki-in-der-kunst-kuenstliche-kreativitaet-gibts-im-aargauer-kunsthaus-zu-sehen-art-1723982",
       "summary": "",
       "published": "2026-09-27T03:02:49.483799+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ein erstes Mal im Thaynger Einwohnerrat: Plötzlich «mitten im Gefecht»",
+      "url": "https://www.shn.ch/region/reiat/2026-09-27/ein-erstes-mal-im-thaynger-einwohnerrat-ploetzlich-mitten-im-gefecht",
+      "summary": "Zwischen langen Wortgefechten und überraschend schnellen Entscheidungen: Ein Abend im Thaynger Einwohnerrat zeigt, wie Politik wirkt, wenn man sie erstmals als junger Mensch aus nächster Nähe erlebt.",
+      "published": "2026-09-27T03:33:08.521990+00:00"
     }
   ]
 }
