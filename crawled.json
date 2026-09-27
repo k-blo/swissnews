@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T22:32:50.292023+00:00",
+  "generated": "2026-09-27T23:02:37.585521+00:00",
   "date": "2026-09-28",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,13 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/der-fc-muotathal-ueberrollt-den-fc-baar-ii-art-1724073",
       "summary": "",
       "published": "2026-09-27T22:32:50.292023+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Maria Corìna Machado Venezuela: Demos für ihre Rückkehr",
+      "url": "https://www.watson.ch/international/usa/795623140-maria-corina-machado-venezuela-demos-fuer-ihre-rueckkehr",
+      "summary": "",
+      "published": "2026-09-27T23:02:37.585521+00:00"
     }
   ]
 }
