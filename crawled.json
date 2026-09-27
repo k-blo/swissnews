@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T23:02:37.585521+00:00",
+  "generated": "2026-09-27T23:32:34.222402+00:00",
   "date": "2026-09-28",
-  "count": 24,
+  "count": 26,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,20 @@
       "url": "https://www.watson.ch/international/usa/795623140-maria-corina-machado-venezuela-demos-fuer-ihre-rueckkehr",
       "summary": "",
       "published": "2026-09-27T23:02:37.585521+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "F: Marine Le Pen verzeichnet Erfolg",
+      "url": "https://www.zentralplus.ch/news/f-marine-le-pen-verzeichnet-erfolg-2901056/",
+      "summary": "Das rechtsnationale Rassemblement National RN von Marine Le Pen erlangt bei der Teilwahl des Senats erstmals Fraktionsstärke. Die Partei kommt neu auf 14 der 348 Sitze. Für die Fraktionsstärke sind 10",
+      "published": "2026-09-27T23:32:34.222402+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Irak: US-Truppen sind vollständig abgezogen",
+      "url": "https://www.watson.ch/international/armee/582261888-irak-us-truppen-sind-vollstaendig-abgezogen",
+      "summary": "",
+      "published": "2026-09-27T23:32:34.222402+00:00"
     }
   ]
 }
