@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T00:02:56.611357+00:00",
+  "generated": "2026-09-27T00:33:14.036098+00:00",
   "date": "2026-09-27",
-  "count": 13,
+  "count": 17,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -93,6 +93,34 @@
       "url": "https://www.bote.ch/nachrichten/sport/fussball-nati-amdouni-brilliert-nebengeraeusche-um-xhaka-und-embolo-bleiben-art-1723980",
       "summary": "",
       "published": "2026-09-27T00:02:56.611357+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "KI-Sicherheit: OpenAI stoppt KI-Training nach Sicherheitslücke",
+      "url": "https://www.tagesanzeiger.ch/openai-pausiert-ai-training-nach-hacking-zwischenfall-628599566209",
+      "summary": "Nach Hacking-Attacken durch eine KI schottete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell konnte dennoch Antworten von einem externen Chatbot erhalten.",
+      "published": "2026-09-27T00:33:14.036098+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Und Plötzlich Steht Krawall Grosi Andrea Stauffacher vor Mir",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/und-ploetzlich-steht-krawall-grosi-andrea-stauffacher-vor-mir",
+      "summary": "",
+      "published": "2026-09-27T00:33:14.036098+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Debatte über die Rahmenverträge und die Armeefinanzierung",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/debatte-ueber-die-rahmenvertraege-und-die-armeefinanzierung",
+      "summary": "",
+      "published": "2026-09-27T00:33:14.036098+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Illusion der Sicherheit Durch Neutralität",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/die-illusion-der-sicherheit-durch-neutralitaet",
+      "summary": "",
+      "published": "2026-09-27T00:33:14.036098+00:00"
     }
   ]
 }
