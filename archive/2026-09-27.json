@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T09:57:35.262693+00:00",
+  "generated": "2026-09-27T10:02:48.621128+00:00",
   "date": "2026-09-27",
-  "count": 256,
+  "count": 272,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1794,6 +1794,118 @@
       "url": "https://www.watson.ch/international/luftfahrt/315028676-festnahmen-nahe-us-genutzter-militaerbasis-in-grossbritannien",
       "summary": "",
       "published": "2026-09-27T09:57:35.262693+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmungen live – SRG-Trend: Zweimal Nein zu den beiden Initiativen",
+      "url": "https://www.srf.ch/news/schweiz/abstimmungen-live-srg-trend-zweimal-nein-zu-den-beiden-initiativen",
+      "summary": "Das Stimmvolk entscheidet über Neutralitäts- und Ernährungsinitiative. Auch in Kantonen und Kommunen wird abgestimmt.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung vom 27. September – Nein-Trend bei der Ernährungsinitiative",
+      "url": "https://www.srf.ch/news/schweiz/abstimmung-vom-27-september-nein-trend-bei-der-ernaehrungsinitiative",
+      "summary": "Heute stimmt die Schweiz über die Ernährungsinitiative ab. Sie fordert eine nachhaltigere Ernährung und Landwirtschaft.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung vom 27. September – Nein-Trend bei der Neutralitätsinitiative",
+      "url": "https://www.srf.ch/news/schweiz/abstimmung-vom-27-september-nein-trend-bei-der-neutralitaetsinitiative",
+      "summary": "Das Stimmvolk will die «immerwährende bewaffnete Neutralität» ersten Trends zufolge nicht in der Verfassung verankern.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung Kanton Graubünden – Es sieht nach einem Nein aus beim Stimmrechtsalter 16",
+      "url": "https://www.srf.ch/news/schweiz/abstimmung-kanton-graubuenden-es-sieht-nach-einem-nein-aus-beim-stimmrechtsalter-16",
+      "summary": "Graubünden stimmt ein weiteres Mal über das Stimmrechtsalter 16 ab. Erste Zwischenresultate lassen ein Nein vermuten.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Säumige Kundschaft in der Schweiz: Fünf Monate Zahlungsfrist für 59 Franken: Unternehmer lanciert Debatte um schlechte Zahlungsmoral",
+      "url": "https://www.tagesanzeiger.ch/zahlungsmoral-zuercher-lieferservice-schafft-rechnungsoption-ab-829109739122",
+      "summary": "Patrick Sutter von MrBrunch macht einen säumigen Kunden auf Linkedin öffentlich. Damit trifft er einen Nerv, wie die Reaktionen zeigen. Warum immer mehr Schweizer zu spät zahlen.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Historischer Umwelterfolg: Das Ozonloch schliesst sich – wie ein Abkommen jetzt auch das Klima rettet",
+      "url": "https://www.tagesanzeiger.ch/ozonloch-wie-ein-umweltabkommen-zum-klimavertrag-wurde-560435017477",
+      "summary": "Laut Nasa erholt sich die Ozonschicht bis 2070 auf den Stand von 1980. Durch den Ausstieg aus ozon- und klimaschädlichen Kühlgasen bremst das Montrealer Protokoll sogar die Erderwärmung.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zerfallende Alpen: Nicht nur die Gletscher, auch die Berge selbst schmelzen",
+      "url": "https://www.tagesanzeiger.ch/permafrost-rekord-2026-alpen-erwaermen-sich-dramatisch-841851390249",
+      "summary": "Messungen in den Schweizer Alpen zeigen rekordhohe Temperaturen im Permafrost. Dieser hält die Berge wie Kitt zusammen. Schmilzt er, bröckelt das Gebirge. Forschende sind besorgt.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "SRF verfilmt Bestseller «Blind»: «Öpper isch entfüehrt worde»: So ist die neue Krimiserie von SRF",
+      "url": "https://www.tagesanzeiger.ch/blind-so-ist-die-srf-adaption-von-christine-brands-krimi-883768038533",
+      "summary": "Christine Brands Roman wurde zum internationalen Bestseller. Nun ist die gleichnamige SRF-Serie gestartet – mit ein paar Schwächen.",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Abstimmungen im Liveticker: Erste Hochrechnung aus dem Kanton Zürich: Über 73 Prozent Nein zu Blochers Neutralitätsinitiative",
+      "url": "https://www.bernerzeitung.ch/abstimmung-im-liveticker-die-entscheidung-zur-neutralitaetsinitiative-224209769849",
+      "summary": "Die Umfragen sagen der Neutralitätsinitiative eine klare Niederlage voraus. Wie sich die Vorlage von Alt Bundesrat Christoph Blocher an der Urne schlägt – und wie die Ernährungsinitiative abschneidet ",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Ich kann mir schwer vorstellen, wie aussichtslos sich die Situation angefühlt haben muss» – der Eishockeystar Peter Forsberg hat mehrere Ex-Teamkollegen nach Suizid verloren",
+      "url": "https://www.nzz.ch/sport/ich-kann-mir-schwer-vorstellen-wie-aussichtslos-sich-die-situation-angefuehlt-haben-muss-eishockey-star-peter-forsberg-hat-mehrere-ex-teamkollegen-nach-suizid-verloren-ld.10024008",
+      "summary": "",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Schweiz als Vorreiterin: Wie sich ein Binnenland zur Surfnation mausert",
+      "url": "https://www.nzz.ch/sport/die-schweiz-als-vorreiterin-wie-sich-ein-binnenland-zur-surfnation-mausert-ld.10024526",
+      "summary": "",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Artikel",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/artikel-ld.4237769",
+      "summary": "",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Inflation und hohe Energiekosten: Italien verliert seine Bars",
+      "url": "https://www.watson.ch/wirtschaft/international/570854147-inflation-und-hohe-energiekosten-italien-verliert-seine-bars",
+      "summary": "",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Es ist extrem ärgerlich»: Reusser verpasst Medaille knapp bei Vollerings Triumphfahrt",
+      "url": "https://www.freiburger-nachrichten.ch/story/293213/es-ist-extrem-%C3%A4rgerlich-reusser-verpasst-medaille-knapp-bei-vollerings-triumphfahrt",
+      "summary": "",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die KI kann jetzt auch Kunst – zum Glück hat sie keinen Geschmack",
+      "url": "https://www.freiburger-nachrichten.ch/story/293212/die-ki-kann-jetzt-auch-kunst%C2%A0-zum-gl%C3%BCck-hat-sie-keinen-geschmack",
+      "summary": "",
+      "published": "2026-09-27T10:02:48.621128+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Ich habe gekämpft»: 87-Jährige wird aus ihrer Wohnung geworfen – jetzt gehen Zehntausende für sie auf die Strasse",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/spanien-raeumung-von-maricarmen-abascal-entfacht-mieterproteste-art-1723998",
+      "summary": "",
+      "published": "2026-09-27T10:02:48.621128+00:00"
     }
   ]
 }
