@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T00:33:14.036098+00:00",
+  "generated": "2026-09-27T01:03:14.492418+00:00",
   "date": "2026-09-27",
-  "count": 17,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -121,6 +121,34 @@
       "url": "https://www.nebelspalter.ch/themen/2026/09/die-illusion-der-sicherheit-durch-neutralitaet",
       "summary": "",
       "published": "2026-09-27T00:33:14.036098+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "OpenAI stoppt KI-Training nach neuem Zwischenfall",
+      "url": "https://www.20min.ch/story/ki-sicherheit-openai-stoppt-ki-training-nach-neuem-zwischenfall-103639827",
+      "summary": "Nach Hacking-Attacken durch eine KI schottete der ChatGPT-Entwickler OpenAI seine Testumgebung ab. Ein neues KI-Modell konnte dennoch Antworten von einem externen Chatbot erhalten.",
+      "published": "2026-09-27T01:03:14.492418+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "KI-Sicherheit: OpenAI stoppt KI-Training nach neuem Zwischenfall",
+      "url": "https://www.bernerzeitung.ch/openai-pausiert-ai-training-nach-hacking-zwischenfall-628599566209",
+      "summary": "Nach Hacking-Attacken durch eine KI schottete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell konnte dennoch Antworten von einem externen Chatbot erhalten.",
+      "published": "2026-09-27T01:03:14.492418+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA: Sturm an Ostküste – Zehntausende Haushalte in New York ohne Strom",
+      "url": "https://www.watson.ch/international/usa/470026736-usa-sturm-an-ostkueste-zehntausende-haushalte-in-new-york-ohne-strom",
+      "summary": "",
+      "published": "2026-09-27T01:03:14.492418+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizer Fussballnationalmannschaft gegen Mazedonien: Die Nati-Noten",
+      "url": "https://www.watson.ch/sport/fussball/402481862-schweizer-fussballnationalmannschaft-gegen-mazedonien-die-nati-noten",
+      "summary": "",
+      "published": "2026-09-27T01:03:14.492418+00:00"
     }
   ]
 }
