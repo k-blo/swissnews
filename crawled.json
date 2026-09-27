@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T04:02:33.119312+00:00",
+  "generated": "2026-09-27T04:33:14.754465+00:00",
   "date": "2026-09-27",
-  "count": 88,
+  "count": 91,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -618,6 +618,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/293074/die-neue-srfserie-blind-s%C3%BCffiges-schauriges-schnelles-bingefutter",
       "summary": "",
       "published": "2026-09-27T04:02:33.119312+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Tv Programm Heute Dieser Sci Fi Hit mit Will Smith Gewann einen Oscar",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/tv-programm-heute-dieser-sci-fi-hit-mit-will-smith-gewann-einen-oscar-2175081",
+      "summary": "",
+      "published": "2026-09-27T04:33:14.754465+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Abstimmung Heute Ab Wann es Resultate für die Neutralitäts und Ernährungsinitiative Gibt",
+      "url": "https://www.suedostschweiz.ch/panorama/abstimmung-heute-ab-wann-es-resultate-fuer-die-neutralitaets-und-ernaehrungsinitiative-gibt-2175113",
+      "summary": "",
+      "published": "2026-09-27T04:33:14.754465+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Tv Programm Heute 7 Oscar Nominierungen für Dieses Legendäre Mafia Finale",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/tv-programm-heute-7-oscar-nominierungen-fuer-dieses-legendaere-mafia-finale-2175088",
+      "summary": "",
+      "published": "2026-09-27T04:33:14.754465+00:00"
     }
   ]
 }
