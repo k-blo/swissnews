@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T12:22:03.880636+00:00",
+  "generated": "2026-09-27T12:30:37.761887+00:00",
   "date": "2026-09-27",
-  "count": 779,
+  "count": 889,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5455,6 +5455,776 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-stimmvolk-spricht-beitrag-fuer-sanierung-des-mythenforum-art-1724025",
       "summary": "",
       "published": "2026-09-27T12:22:03.880636+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung Winterthur – Deutliches Ja zur Sanierung Schützenwiese",
+      "url": "https://www.srf.ch/news/schweiz/abstimmung-winterthur-deutliches-ja-zur-sanierung-schuetzenwiese",
+      "summary": "Die Stadt Winterthur will das Stadion Schützenwiese modernisieren. Erste Stadtkreise sagen Ja zum Kredit.",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmungen Basel-Stadt – Basel lehnt «Anti-Chaoten-Initiative» klar ab",
+      "url": "https://www.srf.ch/news/schweiz/abstimmungen-basel-stadt-basel-lehnt-anti-chaoten-initiative-klar-ab",
+      "summary": "Die Stimmbevölkerung von Basel-Stadt will keine neuen Regeln im Umgang mit Sachbeschädigungen an Demonstrationen.",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Rothenburg sagt Ja zur Sanierung der Chärnshalle",
+      "url": "https://www.zentralplus.ch/news/rothenburg-sagt-ja-zur-sanierung-der-chaernshalle-2900950/",
+      "summary": "Die Gemeinde Rothenburg will für 8,68 Millionen Franken die Chärnshalle sanieren. Nun haben die Stimmberechtigten den entsprechenden Kredit bewilligt. Die Stimmberechtigten der Gemeinde Rothenburg hab",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Fleisch verdammen, geht nicht»",
+      "url": "https://www.zentralplus.ch/news/fleisch-verdammen-geht-nicht-2901020/",
+      "summary": "Die Agrarpolitik bleibe ein Thema, sagt FDP-Ständerätin Petra Gössi. Das Fleisch zu verdammen, gehe aber nicht. Für die Grünen bedeutet das klare Nein, dass die Bevölkerung keine landwirtschaftliche I",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Änderungen am Zürcher Lehrpersonengesetz scheitern an der Urne",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-27/aenderungen-am-zuercher-lehrpersonengesetz-scheitern-an-der",
+      "summary": "Die Stimmberechtigten im Kanton Zürich sagen Nein zu den Änderungen am Lehrpersonengesetz. Auch das Weinland lehnt klar ab.",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Büron zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-bueron-zu-neutralitaetsinitiative-ld.4241597",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Lungern zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-lungern-zu-neutralitaetsinitiative-ld.4241592",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Ennetmoos zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-ennetmoos-zu-neutralitaetsinitiative-ld.4241589",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Zell Lu zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-zell-lu-zu-neutralitaetsinitiative-ld.4241588",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Wolfenschiessen zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-wolfenschiessen-zu-neutralitaetsinitiative-ld.4241585",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Wauwil zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-wauwil-zu-neutralitaetsinitiative-ld.4241581",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Knutwil zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-knutwil-zu-neutralitaetsinitiative-ld.4241574",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Hildisrieden zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-hildisrieden-zu-neutralitaetsinitiative-ld.4241571",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Udligenswil zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-udligenswil-zu-neutralitaetsinitiative-ld.4241567",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Rothenthurm zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-rothenthurm-zu-neutralitaetsinitiative-ld.4241564",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kanti Reussbühl Luzerner Bevölkerung Bewilligt 814 Millionen Kredit",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/kanti-reussbuehl-luzerner-bevoelkerung-bewilligt-814-millionen-kredit-ld.4238282",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Pfaffnau zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-pfaffnau-zu-neutralitaetsinitiative-ld.4241552",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Unteriberg zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-unteriberg-zu-neutralitaetsinitiative-ld.4241545",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Geuensee zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-geuensee-zu-neutralitaetsinitiative-ld.4241544",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Hohenrain zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-hohenrain-zu-neutralitaetsinitiative-ld.4241537",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Rothenburg Sagt Ja zu Millionen Kredit für Chärnshalle",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/rothenburg-sagt-ja-zu-millionen-kredit-fuer-chaernshalle-ld.4237746",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Inwil zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-inwil-zu-neutralitaetsinitiative-ld.4241532",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Ettiswil zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-ettiswil-zu-neutralitaetsinitiative-ld.4241526",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Ballwil zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-ballwil-zu-neutralitaetsinitiative-ld.4241511",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ergebnisse in Menznau zu Neutralitätsinitiative",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/gemeinde/ergebnisse-in-menznau-zu-neutralitaetsinitiative-ld.4241495",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Henggart zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-henggart-zu-neutralitaetsinitiative-ld.4241594",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Stein Ag zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-stein-ag-zu-neutralitaetsinitiative-ld.4241593",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Kleinandelfingen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-kleinandelfingen-zu-neutralitaetsinitiative-ld.4241591",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Freienstein Teufen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-freienstein-teufen-zu-neutralitaetsinitiative-ld.4241590",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Brütten zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-bruetten-zu-neutralitaetsinitiative-ld.4241586",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Zeiningen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-zeiningen-zu-neutralitaetsinitiative-ld.4241583",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Oberlunkhofen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-oberlunkhofen-zu-neutralitaetsinitiative-ld.4241578",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Lufingen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-lufingen-zu-neutralitaetsinitiative-ld.4241566",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Schinznach zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-schinznach-zu-neutralitaetsinitiative-ld.4241563",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Stadel zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-stadel-zu-neutralitaetsinitiative-ld.4241559",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Rorbas zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-rorbas-zu-neutralitaetsinitiative-ld.4241558",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Höri zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-hoeri-zu-neutralitaetsinitiative-ld.4241557",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Uster zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-uster-zu-neutralitaetsinitiative-ld.4241551",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Bergdietikon zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-bergdietikon-zu-neutralitaetsinitiative-ld.4241550",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Oberkulm zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-oberkulm-zu-neutralitaetsinitiative-ld.4241549",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Otelfingen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-otelfingen-zu-neutralitaetsinitiative-ld.4241546",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Hägglingen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-haegglingen-zu-neutralitaetsinitiative-ld.4241542",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Fischenthal zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-fischenthal-zu-neutralitaetsinitiative-ld.4241540",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Böztal zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-boeztal-zu-neutralitaetsinitiative-ld.4241539",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Endingen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-endingen-zu-neutralitaetsinitiative-ld.4241535",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Böttstein zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-boettstein-zu-neutralitaetsinitiative-ld.4241531",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Laufenburg zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-laufenburg-zu-neutralitaetsinitiative-ld.4241530",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Kaisten zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-kaisten-zu-neutralitaetsinitiative-ld.4241529",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Othmarsingen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-othmarsingen-zu-neutralitaetsinitiative-ld.4241528",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Lengnau Ag zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-lengnau-ag-zu-neutralitaetsinitiative-ld.4241527",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Döttingen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-doettingen-zu-neutralitaetsinitiative-ld.4241525",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Niederwil Ag zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-niederwil-ag-zu-neutralitaetsinitiative-ld.4241524",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Schafisheim zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-schafisheim-zu-neutralitaetsinitiative-ld.4241523",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Boswil zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-boswil-zu-neutralitaetsinitiative-ld.4241522",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Oberwil Lieli zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-oberwil-lieli-zu-neutralitaetsinitiative-ld.4241520",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Birmenstorf Ag zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-birmenstorf-ag-zu-neutralitaetsinitiative-ld.4241519",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Rickenbach Zh zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-rickenbach-zh-zu-neutralitaetsinitiative-ld.4241517",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Ottenbach zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-ottenbach-zu-neutralitaetsinitiative-ld.4241516",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Murgenthal zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-murgenthal-zu-neutralitaetsinitiative-ld.4241514",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Dottikon zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-dottikon-zu-neutralitaetsinitiative-ld.4241515",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Sarmenstorf zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-sarmenstorf-zu-neutralitaetsinitiative-ld.4241512",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Birr zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-birr-zu-neutralitaetsinitiative-ld.4241510",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Unterkulm zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-unterkulm-zu-neutralitaetsinitiative-ld.4241505",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Klingnau zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-klingnau-zu-neutralitaetsinitiative-ld.4241503",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Waltenschwil zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/aargau/gemeinde/ergebnisse-in-waltenschwil-zu-neutralitaetsinitiative-ld.4241502",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Stammheim zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-stammheim-zu-neutralitaetsinitiative-ld.4241501",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Steinmaur zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-steinmaur-zu-neutralitaetsinitiative-ld.4241499",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ergebnisse in Niederweningen zu Neutralitätsinitiative",
+      "url": "https://www.aargauerzeitung.ch/schweiz/gemeinde/ergebnisse-in-niederweningen-zu-neutralitaetsinitiative-ld.4241498",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Bussnang zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-bussnang-zu-neutralitaetsinitiative-ld.4241584",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Wilen Tg zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-wilen-tg-zu-neutralitaetsinitiative-ld.4241579",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Eggersriet zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-eggersriet-zu-neutralitaetsinitiative-ld.4241573",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Urnäsch zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-urnaesch-zu-neutralitaetsinitiative-ld.4241570",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Zihlschlacht Sitterdorf zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-zihlschlacht-sitterdorf-zu-neutralitaetsinitiative-ld.4241569",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Wigoltingen zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-wigoltingen-zu-neutralitaetsinitiative-ld.4241561",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Rheineck zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-rheineck-zu-neutralitaetsinitiative-ld.4241554",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Wildhaus Alt St Johann zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-wildhaus-alt-st-johann-zu-neutralitaetsinitiative-ld.4241553",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Affeltrangen zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-affeltrangen-zu-neutralitaetsinitiative-ld.4241548",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Münsterlingen zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-muensterlingen-zu-neutralitaetsinitiative-ld.4241536",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Matzingen zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-matzingen-zu-neutralitaetsinitiative-ld.4241521",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Märstetten zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-maerstetten-zu-neutralitaetsinitiative-ld.4241513",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Müllheim zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-muellheim-zu-neutralitaetsinitiative-ld.4241509",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Benken Sg zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-benken-sg-zu-neutralitaetsinitiative-ld.4241506",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Gams zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-gams-zu-neutralitaetsinitiative-ld.4241508",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Horn zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-horn-zu-neutralitaetsinitiative-ld.4241507",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Ermatingen zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-ermatingen-zu-neutralitaetsinitiative-ld.4241504",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Bichelsee Balterswil zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-bichelsee-balterswil-zu-neutralitaetsinitiative-ld.4241500",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Diessenhofen zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-diessenhofen-zu-neutralitaetsinitiative-ld.4241497",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Quarten zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-quarten-zu-neutralitaetsinitiative-ld.4241496",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Felben Wellhausen zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-felben-wellhausen-zu-neutralitaetsinitiative-ld.4241494",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ergebnisse in Mosnang zu Neutralitätsinitiative",
+      "url": "https://www.tagblatt.ch/ostschweiz/gemeinde/ergebnisse-in-mosnang-zu-neutralitaetsinitiative-ld.4241493",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kesswil Wählt Stefanie Langner zur Neuen Gemeindepräsidentin",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/kesswil-waehlt-stefanie-langner-zur-neuen-gemeindepraesidentin-ld.4241408",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Ergebnisse in Itingen zu Neutralitätsinitiative",
+      "url": "https://www.bzbasel.ch/basel/gemeinde/ergebnisse-in-itingen-zu-neutralitaetsinitiative-ld.4241596",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Ergebnisse in Oberdorf Bl zu Neutralitätsinitiative",
+      "url": "https://www.bzbasel.ch/basel/gemeinde/ergebnisse-in-oberdorf-bl-zu-neutralitaetsinitiative-ld.4241580",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Ergebnisse in Hölstein zu Neutralitätsinitiative",
+      "url": "https://www.bzbasel.ch/basel/gemeinde/ergebnisse-in-hoelstein-zu-neutralitaetsinitiative-ld.4241572",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Ergebnisse in Zwingen zu Neutralitätsinitiative",
+      "url": "https://www.bzbasel.ch/basel/gemeinde/ergebnisse-in-zwingen-zu-neutralitaetsinitiative-ld.4241568",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Ergebnisse in Ormalingen zu Neutralitätsinitiative",
+      "url": "https://www.bzbasel.ch/basel/gemeinde/ergebnisse-in-ormalingen-zu-neutralitaetsinitiative-ld.4241565",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Ergebnisse in Pfeffingen zu Neutralitätsinitiative",
+      "url": "https://www.bzbasel.ch/basel/gemeinde/ergebnisse-in-pfeffingen-zu-neutralitaetsinitiative-ld.4241562",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Ergebnisse in Zunzgen zu Neutralitätsinitiative",
+      "url": "https://www.bzbasel.ch/basel/gemeinde/ergebnisse-in-zunzgen-zu-neutralitaetsinitiative-ld.4241538",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Riedholz zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-riedholz-zu-neutralitaetsinitiative-ld.4241595",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Recherswil zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-recherswil-zu-neutralitaetsinitiative-ld.4241587",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Neuendorf zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-neuendorf-zu-neutralitaetsinitiative-ld.4241582",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Büsserach zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-buesserach-zu-neutralitaetsinitiative-ld.4241560",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Gretzenbach zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-gretzenbach-zu-neutralitaetsinitiative-ld.4241556",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Deitingen zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-deitingen-zu-neutralitaetsinitiative-ld.4241547",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Wolfwil zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-wolfwil-zu-neutralitaetsinitiative-ld.4241543",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Mümliswil Ramiswil zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-muemliswil-ramiswil-zu-neutralitaetsinitiative-ld.4241541",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Ergebnisse in Däniken zu Neutralitätsinitiative",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/gemeinde/ergebnisse-in-daeniken-zu-neutralitaetsinitiative-ld.4241518",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Im Visier von Putins Attentätern» – deutscher Unternehmer erzählt",
+      "url": "https://www.watson.ch/international/deutschland/398932951-im-visier-von-putins-attentaetern-deutscher-unternehmer-erzaehlt",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzerner Bevölkerung sagt klar Ja zum Ausbau der Kanti Reussbühl",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kanti-reussbuehl-luzerner-bevoelkerung-bewilligt-814-millionen-kredit-art-1724029",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rothenburger genehmigen Millionen-Kredit für Chärnshalle klar",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/rothenburg-sagt-ja-zu-millionen-kredit-fuer-chaernshalle-art-1724028",
+      "summary": "",
+      "published": "2026-09-27T12:30:37.761887+00:00"
     }
   ]
 }
