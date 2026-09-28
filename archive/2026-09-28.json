@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T01:38:51.546022+00:00",
+  "generated": "2026-09-28T01:59:18.843157+00:00",
   "date": "2026-09-28",
-  "count": 38,
+  "count": 41,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -268,6 +268,27 @@
       "url": "https://www.tagesanzeiger.ch/hurrikan-polo-zwei-tote-vor-landfall-in-mexiko-700074982974",
       "summary": "Der Wirbelsturm hat die mexikanische Küste noch nicht erreicht. Nach starken Regenfällen werden aber bereits Todesopfer gemeldet. In Hawaii sorgt der vorbeiziehende «Nolo» für Starkregen.",
       "published": "2026-09-28T01:38:51.546022+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hurrikan Polo: Zwei Tote und drei Vermisste in Mexiko",
+      "url": "https://www.20min.ch/story/mexiko-usa-hurrikan-polo-kurz-vor-treffen-auf-kueste-erste-tote-vermisste-103640337",
+      "summary": "Der Wirbelsturm hat die mexikanische Küste noch nicht erreicht. Nach starken Regenfällen werden aber bereits Todesopfer gemeldet. In Hawaii sorgt der vorbeiziehende «Nolo» für Starkregen.",
+      "published": "2026-09-28T01:59:18.843157+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Madonna eröffnet MTV Video Music Awards",
+      "url": "https://www.watson.ch/international/usa/948077504-madonna-eroeffnet-mtv-video-music-awards",
+      "summary": "",
+      "published": "2026-09-28T01:59:18.843157+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hurrikan «Polo»: Zwei Tote und drei Vermisste in Mexiko",
+      "url": "https://www.watson.ch/international/wetter/364784340-hurrikan-polo-zwei-tote-und-drei-vermisste-in-mexiko",
+      "summary": "",
+      "published": "2026-09-28T01:59:18.843157+00:00"
     }
   ]
 }
