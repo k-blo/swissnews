@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T02:05:02.819289+00:00",
+  "generated": "2026-09-28T02:33:08.460302+00:00",
   "date": "2026-09-28",
-  "count": 41,
+  "count": 46,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -289,6 +289,41 @@
       "url": "https://www.watson.ch/international/wetter/364784340-hurrikan-polo-zwei-tote-und-drei-vermisste-in-mexiko",
       "summary": "",
       "published": "2026-09-28T01:59:18.843157+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Das war die Ballnacht in der Kammgarn",
+      "url": "https://www.shn.ch/region/stadt/2026-09-28/das-war-die-ballnacht-in-der-kammgarn",
+      "summary": "Ein Schaffhauser Traditionsanlass bekommt wieder neuen Zulauf. Beim Club-Abend kommt an den Spieltischen jede Menge Bewegung ins Kulturhaus. In lockerer Atmosphäre sind Geschicklichkeit und Konzentrat",
+      "published": "2026-09-28T02:33:08.460302+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Premieren an der Herblinger Chilbi: Torwand, Gumpischloss und «X-Factory»",
+      "url": "https://www.shn.ch/region/stadt/2026-09-28/premieren-an-der-herblinger-chilbi-torwand-gumpischloss-und-x-factory",
+      "summary": "Das OK, das hinter der Chilbi steht, hat sich Neues einfallen lassen: Aktivitäten, um die Besuchenden länger vor Ort zu halten.",
+      "published": "2026-09-28T02:33:08.460302+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Neue Heizzentrale versorgt Eglisau",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-28/neue-heizzentrale-versorgt-eglisau",
+      "summary": "Mit der neuen Heizzentrale erreicht der Wärmeverbund Eglisau einen Meilenstein. Mehr als 100 Liegenschaften sind bereits angeschlossen - nun soll das Netz über den Rhein wachsen.",
+      "published": "2026-09-28T02:33:08.460302+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Weniger Fleisch und mehr pflanzliche Kost: Warum das Thema nicht gegessen ist",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-09-28/weniger-fleisch-und-mehr-pflanzliche-kost-warum-das-thema-nicht",
+      "summary": "Trotz des wuchtigen Neins zur Ernährungsinitiative bleibt unser Essen im Fokus der Politik. Auch der Bundesrat will mehr pflanzliche Lebensmittel und weniger Tierfutter auf Schweizer Äckern – und nimm",
+      "published": "2026-09-28T02:33:08.460302+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Mehr Platz für Velofahrer und Fussgänger auf knapp 50 Metern – für 1,3 Millionen Franken",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-28/mehr-platz-fuer-velofahrer-und-fussgaenger-auf-knapp-50",
+      "summary": "Demnächst werden die umfassenden Arbeiten an der A4-Brücke zwischen Benken und Marthalen abgeschlossen. Danach hat insbesondere der Langsamverkehr mehr Platz auf der Brücke.",
+      "published": "2026-09-28T02:33:08.460302+00:00"
     }
   ]
 }
