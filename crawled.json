@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T21:03:24.466472+00:00",
+  "generated": "2026-09-28T21:32:39.372386+00:00",
   "date": "2026-09-28",
-  "count": 851,
+  "count": 852,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5959,6 +5959,13 @@
       "url": "https://www.watson.ch/international/papst/727809982-papst-fordert-breiten-dialog-ueber-ki",
       "summary": "",
       "published": "2026-09-28T21:03:24.466472+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Italien und Frankreich gewinnen in der Nations League",
+      "url": "https://www.nzz.ch/sport/italien-und-frankreich-gewinnen-in-der-nations-league-ld.10025875",
+      "summary": "",
+      "published": "2026-09-28T21:32:39.372386+00:00"
     }
   ]
 }
