@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T01:02:54.820215+00:00",
+  "generated": "2026-09-28T01:32:49.815611+00:00",
   "date": "2026-09-28",
-  "count": 36,
+  "count": 37,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -254,6 +254,13 @@
       "url": "https://www.zentralplus.ch/news/ukraine-meldet-drohnenangriffe-2-2901058/",
       "summary": "Russland hat am Sonntag erneut die ukrainische Hauptstadt Kiew angegriffen. Zudem wurden auch andere Regionen in der Ukraine angegriffen. Nach ukrainischen Angaben wurden bei den Angriffen fünf Mensch",
       "published": "2026-09-28T01:02:54.820215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schüsse an Geburi-Feier – 12 Teenager verletzt",
+      "url": "https://www.20min.ch/story/georgia-usa-macon-schuesse-an-geburtstagsfeier-mit-jugendlichen-zwoelf-verletzte-103640333",
+      "summary": "Ein einem Park in der amerikanischen Kleinstadt Macon fielen am Sonntagmorgen Schüsse. Zwei Gruppen mit Jugendlichen waren aneinander geraten.",
+      "published": "2026-09-28T01:32:49.815611+00:00"
     }
   ]
 }
