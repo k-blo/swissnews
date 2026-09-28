@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T23:32:34.222402+00:00",
+  "generated": "2026-09-28T00:02:43.110726+00:00",
   "date": "2026-09-28",
-  "count": 26,
+  "count": 29,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,27 @@
       "url": "https://www.watson.ch/international/armee/582261888-irak-us-truppen-sind-vollstaendig-abgezogen",
       "summary": "",
       "published": "2026-09-27T23:32:34.222402+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Iraker feiern Unabängigkeit: US-Truppen sind vollständig aus dem Irak abgezogen",
+      "url": "https://www.tagesanzeiger.ch/irak-abzug-truppen-aus-den-usa-ablauf-der-frist-830424072221",
+      "summary": "Die IS-Terrormiliz gilt im Irak als besiegt – nun zieht das US-Militär ab. Von dauerhafter Stabilität ist das Land aber weit entfernt. Es wird vor allem ein Schauplatz im Iran-Krieg bleiben.",
+      "published": "2026-09-28T00:02:43.110726+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nations League: Eklat bei Partie Israel gegen Irland",
+      "url": "https://www.watson.ch/sport/international/674278684-nations-league-eklat-bei-partie-israel-gegen-irland",
+      "summary": "",
+      "published": "2026-09-28T00:02:43.110726+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Verrückte Ausgeglichenheit und die Frage: Gibt es neue Elsgauer?",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/315603021-verrueckte-ausgeglichenheit-und-die-frage-gibt-es-neue-elsgauer",
+      "summary": "",
+      "published": "2026-09-28T00:02:43.110726+00:00"
     }
   ]
 }
