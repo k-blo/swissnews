@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T23:02:49.397537+00:00",
+  "generated": "2026-09-28T23:33:20.492301+00:00",
   "date": "2026-09-29",
-  "count": 30,
+  "count": 34,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/291868/grossratwahlen-686-kandidierende-neue-parteien-mehr-frauen",
       "summary": "",
       "published": "2026-09-28T23:02:49.397537+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Autofahrer zahlen nicht nur an der Tankstelle mehr",
+      "url": "https://www.20min.ch/story/wohnen-heizen-und-mobilitaet-tanken-teuerung-august-2026-vergleich-vorjahresmonat-103640850",
+      "summary": "Wohnen, insbesondere Heizen, wurde im Vergleich zum August 2025 deutlich teurer. Auch wer mit dem Auto unterwegs ist, muss ebenfalls tiefer in die Tasche greifen.",
+      "published": "2026-09-28T23:33:20.492301+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "OpenAI stoppt neues KI-Modell vorerst",
+      "url": "https://www.zentralplus.ch/news/openai-stoppt-neues-ki-modell-vorerst-2901290/",
+      "summary": "Das US-Unternehmen OpenAI stoppt vorerst die Veröffentlichung seines nächsten grossen KI-Modells. Grund sind erhebliche Sicherheitsbedenken. Wie das «Wall Street Journal» berichtet, sollte das Modell ",
+      "published": "2026-09-28T23:33:20.492301+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ChatGPT Astra 6.1: OpenAI stoppt Veröffentlichung",
+      "url": "https://www.watson.ch/wirtschaft/digital/405857140-chatgpt-astra-6-1-openai-stoppt-veroeffentlichung",
+      "summary": "",
+      "published": "2026-09-28T23:33:20.492301+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wohnen und Mobilität ziehen dreimal stärker an als die Inflation",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/356511947-wohnen-und-mobilitaet-ziehen-dreimal-staerker-an-als-die-inflation",
+      "summary": "",
+      "published": "2026-09-28T23:33:20.492301+00:00"
     }
   ]
 }
