@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T01:36:43.655930+00:00",
+  "generated": "2026-09-28T01:38:51.546022+00:00",
   "date": "2026-09-28",
-  "count": 37,
+  "count": 38,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -261,6 +261,13 @@
       "url": "https://www.20min.ch/story/georgia-usa-macon-schuesse-an-geburtstagsfeier-mit-jugendlichen-zwoelf-verletzte-103640333",
       "summary": "Ein einem Park in der amerikanischen Kleinstadt Macon fielen am Sonntagmorgen Schüsse. Zwei Gruppen mit Jugendlichen waren aneinander geraten.",
       "published": "2026-09-28T01:32:49.815611+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mit 205 km/h unterwegs: Hurrikan Polo: Zwei Tote und drei Vermisste in Mexiko",
+      "url": "https://www.tagesanzeiger.ch/hurrikan-polo-zwei-tote-vor-landfall-in-mexiko-700074982974",
+      "summary": "Der Wirbelsturm hat die mexikanische Küste noch nicht erreicht. Nach starken Regenfällen werden aber bereits Todesopfer gemeldet. In Hawaii sorgt der vorbeiziehende «Nolo» für Starkregen.",
+      "published": "2026-09-28T01:38:51.546022+00:00"
     }
   ]
 }
