@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T00:32:43.223248+00:00",
+  "generated": "2026-09-28T01:02:54.820215+00:00",
   "date": "2026-09-28",
-  "count": 34,
+  "count": 36,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -240,6 +240,20 @@
       "url": "https://www.watson.ch/international/israel/764119252-palestine-action-dutzende-aktivisten-in-liverpool-england-festgenommen",
       "summary": "",
       "published": "2026-09-28T00:32:43.223248+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mais-Brötli an Bord: Zwei Pandas landen nach 16-Stunden-Flug",
+      "url": "https://www.20min.ch/story/panda-diplomatie-ping-ping-fu-shuang-landen-in-atlanta-aus-china-fuer-zoo-103640328",
+      "summary": "Eine speziell ausgestatete Boeing 777 des Logistik-Unternehmens Fedex transportierte eine besondere Fracht – zwei Pandas namesn Ping Ping und Fu Shuang.",
+      "published": "2026-09-28T01:02:54.820215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ukraine meldet Drohnenangriffe",
+      "url": "https://www.zentralplus.ch/news/ukraine-meldet-drohnenangriffe-2-2901058/",
+      "summary": "Russland hat am Sonntag erneut die ukrainische Hauptstadt Kiew angegriffen. Zudem wurden auch andere Regionen in der Ukraine angegriffen. Nach ukrainischen Angaben wurden bei den Angriffen fünf Mensch",
+      "published": "2026-09-28T01:02:54.820215+00:00"
     }
   ]
 }
