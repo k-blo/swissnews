@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T22:33:29.590736+00:00",
+  "generated": "2026-09-28T23:02:49.397537+00:00",
   "date": "2026-09-29",
-  "count": 27,
+  "count": 30,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -191,6 +191,27 @@
       "url": "https://www.bote.ch/service/leserbriefe/bdas-bauhauptgewerbe-baut-was-bestellt-wirdb-art-1724250",
       "summary": "",
       "published": "2026-09-28T22:33:29.590736+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "178 Nachwuchsschwinger Begeistern im Äschi",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/178-nachwuchsschwinger-begeistern-im-aeschi-ld.4242436",
+      "summary": "",
+      "published": "2026-09-28T23:02:49.397537+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Pistolenschützen Beckenried Feiern 100 Jähriges Bestehen",
+      "url": "https://www.nidwaldnerzeitung.ch/leserbeitrag/nz/pistolenschuetzen-beckenried-feiern-100-jaehriges-bestehen-ld.4242868",
+      "summary": "",
+      "published": "2026-09-28T23:02:49.397537+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Grossratwahlen: 686 Kandidierende, neue Parteien, mehr Frauen",
+      "url": "https://www.freiburger-nachrichten.ch/story/291868/grossratwahlen-686-kandidierende-neue-parteien-mehr-frauen",
+      "summary": "",
+      "published": "2026-09-28T23:02:49.397537+00:00"
     }
   ]
 }
