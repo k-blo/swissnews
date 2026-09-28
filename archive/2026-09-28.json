@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T00:02:43.110726+00:00",
+  "generated": "2026-09-28T00:32:43.223248+00:00",
   "date": "2026-09-28",
-  "count": 29,
+  "count": 34,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -205,6 +205,41 @@
       "url": "https://www.watson.ch/sport/eismeister-zaugg/315603021-verrueckte-ausgeglichenheit-und-die-frage-gibt-es-neue-elsgauer",
       "summary": "",
       "published": "2026-09-28T00:02:43.110726+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wuchtiges Nein die Schweiz Hat die Neutralitätsnostalgie Abgewählt",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/wuchtiges-nein-die-schweiz-hat-die-neutralitaetsnostalgie-abgewaehlt",
+      "summary": "",
+      "published": "2026-09-28T00:32:43.223248+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Das Sind die Reaktionen nach dem Deutlichen Nein zur Neutralitäts Initiative",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/das-sind-die-reaktionen-nach-dem-deutlichen-nein-zur-neutralitaets-initiative",
+      "summary": "",
+      "published": "2026-09-28T00:32:43.223248+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Grundwerte der Westlichen Welt Sind in Gefahr",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/die-grundwerte-der-westlichen-welt-sind-in-gefahr",
+      "summary": "",
+      "published": "2026-09-28T00:32:43.223248+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Mit Fauda Tut Netflix Mehr für Israel als Jedes Andere Medium",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/mit-fauda-tut-netflix-mehr-fuer-israel-als-jedes-andere-medium",
+      "summary": "",
+      "published": "2026-09-28T00:32:43.223248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Palestine Action: Dutzende Aktivisten in Liverpool, England festgenommen",
+      "url": "https://www.watson.ch/international/israel/764119252-palestine-action-dutzende-aktivisten-in-liverpool-england-festgenommen",
+      "summary": "",
+      "published": "2026-09-28T00:32:43.223248+00:00"
     }
   ]
 }
