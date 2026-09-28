@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-28T13:30:23.791586+00:00",
+  "generated": "2026-09-28T13:34:02.104089+00:00",
   "date": "2026-09-28",
-  "count": 549,
+  "count": 551,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3845,6 +3845,20 @@
       "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/solothurn-gewerbler-ziehen-bilanz-zum-ersten-sonntagsverkauf-ld.4237657",
       "summary": "",
       "published": "2026-09-28T13:30:23.791586+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Berlin-Marathon: Tigst Assefa lief mit gerissener Achillessehne zum Streckenrekord",
+      "url": "https://www.tagesanzeiger.ch/tigst-assefa-operation-nach-berlin-marathon-756277212563",
+      "summary": "Die Äthiopierin gewann trotz schwerer Verletzung ab Kilometer 31 den Berlin-Marathon in 2:11:04 Stunden. Nach einer Operation in München fällt die 29-Jährige nun rund sechs Monate aus.",
+      "published": "2026-09-28T13:34:02.104089+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Italien deckelt Benzinpreise",
+      "url": "https://www.zentralplus.ch/news/italien-deckelt-benzinpreise-2901213/",
+      "summary": "In Italien reagieren Mineralölkonzerne auf die hohen Treibstoffpreise. Eni deckelt den Benzinpreis für zunächst 30 Tage auf maximal 1,99 Euro pro Liter. Auch IP hat eine Preisobergrenze angekündigt, o",
+      "published": "2026-09-28T13:34:02.104089+00:00"
     }
   ]
 }
