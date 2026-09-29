@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-29T01:02:54.525665+00:00",
+  "generated": "2026-09-29T01:32:31.082883+00:00",
   "date": "2026-09-29",
-  "count": 46,
+  "count": 48,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -324,6 +324,20 @@
       "url": "https://www.tagesanzeiger.ch/openai-streicht-gpt-6-1-astra-wegen-sicherheitsmaengeln-657740049581",
       "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
       "published": "2026-09-29T01:02:54.525665+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "KI handelte eigenmächtig, jetzt zieht OpenAI die Notbremse",
+      "url": "https://www.20min.ch/story/openai-ki-gpt-61-astra-veroeffentlichtung-gestoppt-sicherheitsbedenken-103640869",
+      "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
+      "published": "2026-09-29T01:32:31.082883+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wohnen und Autofahren wird teurer",
+      "url": "https://www.zentralplus.ch/news/wohnen-und-autofahren-wird-teurer-2901294/",
+      "summary": "Autofahren und Wohnen belasten das Portemonnaie der Schweizer Haushalte wieder spürbar mehr. Laut dem aktuellen «Womo-Index» von Comparis und der Konjunkturforschungsstelle der ETH Zürich kletterten d",
+      "published": "2026-09-29T01:32:31.082883+00:00"
     }
   ]
 }
