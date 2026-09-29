@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-29T22:32:45.910295+00:00",
+  "generated": "2026-09-29T23:02:53.105938+00:00",
   "date": "2026-09-30",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/bundesgericht-spricht-putzfrau-vom-vorwurf-der-brandstiftung-endgueltig-frei-art-1724376",
       "summary": "",
       "published": "2026-09-29T22:32:45.910295+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Game of Thrones kommt 2029 in die Kinos",
+      "url": "https://www.watson.ch/international/usa/936043916-game-of-thrones-kommt-2029-in-die-kinos",
+      "summary": "",
+      "published": "2026-09-29T23:02:53.105938+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fifa: Nasser Al-Khelaifi will Gianni Infantino nicht herausfordern",
+      "url": "https://www.watson.ch/sport/fifa/969469473-fifa-nasser-al-khelaifi-will-gianni-infantino-nicht-herausfordern",
+      "summary": "",
+      "published": "2026-09-29T23:02:53.105938+00:00"
     }
   ]
 }
