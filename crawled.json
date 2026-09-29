@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-29T00:32:48.116225+00:00",
+  "generated": "2026-09-29T01:02:54.525665+00:00",
   "date": "2026-09-29",
-  "count": 45,
+  "count": 46,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -317,6 +317,13 @@
       "url": "https://www.watson.ch/international/russland/606791178-krieg-russland-ukraine-heftige-angriffe-auf-kiew",
       "summary": "",
       "published": "2026-09-29T00:32:48.116225+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wegen Sicherheitsbedenken: KI handelte eigenmächtig, jetzt zieht OpenAI die Notbremse",
+      "url": "https://www.tagesanzeiger.ch/openai-streicht-gpt-6-1-astra-wegen-sicherheitsmaengeln-657740049581",
+      "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
+      "published": "2026-09-29T01:02:54.525665+00:00"
     }
   ]
 }
