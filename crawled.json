@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-29T07:03:13.481187+00:00",
+  "generated": "2026-09-29T07:33:05.810107+00:00",
   "date": "2026-09-29",
-  "count": 275,
+  "count": 293,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1927,6 +1927,132 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/proteste-in-madrid-87-jaehrige-kann-wieder-einziehen-art-1724377",
       "summary": "",
       "published": "2026-09-29T07:03:13.481187+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wir verkaufen unser Land» – «Vertrag ist zukunftsorientiert»",
+      "url": "https://www.20min.ch/story/eu-vertraege-wir-verkaufen-unser-land-vertrag-ist-zukunftsorientiert-103640930",
+      "summary": "Der Ständerat berät die neuen EU-Verträge. In der 20-Minuten-Community gehen die Meinungen auseinander. Viele sorgen sich um die Schweizer Souveränität, andere warnen vor den Folgen eines Neins.",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Rekord: Schweizer Raser wird mit 312 km/h geblitzt",
+      "url": "https://www.20min.ch/story/rekord-raser-auf-der-a40-schweizer-wird-mit-312-kmh-geblitzt-103640849",
+      "summary": "Ein Schweizer wurde auf der französischen A40 mit 312 km/h geblitzt. Laut Gendarmerie ist es die höchste dort je registrierte Geschwindigkeitsüberschreitung.",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Signale gegen höhere Prämien: Der Nationalrat deckelt die Löhne der Krankenkassenchefs – aber nur ein wenig",
+      "url": "https://www.tagesanzeiger.ch/lohndeckel-fuer-krankenkassenchefs-was-er-wirklich-bringt-596005756723",
+      "summary": "Am Tag des Prämienanstiegs demonstriert der Nationalrat Härte mit den Kassenmanagern. Jedenfalls vordergründig. Und morgen debattiert der Ständerat über ein Referendum gegen höhere Prämien. Was bringe",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Anthropic peilt IPO-Rekord von über zwei Billionen Dollar an",
+      "url": "https://www.finews.ch/news/finanzplatz/73751-anthropic-firmenwert-beim-boersengang-mehr-als-verdoppeln-nettoverlust-42-milliarden-dollar-warnungen-vor-sicherheitsrisiken",
+      "summary": "Noch im Mai wurde der ChatGPT-Rivale Anthropic bei einer Finanzierungsrunde mit 965 Milliarden Dollar bewertet. Nun könnte sich der Firmenwert beim Börsengang nochmals mehr als verdoppeln. Und dies tr",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Lindt & Sprüngli verkauft deutlich weniger Schokolade als erwartet – die Aktie bricht ein",
+      "url": "https://www.nzz.ch/wirtschaft/lindt-spruengli-verkauft-deutlich-weniger-schokolade-als-erwartet-die-aktie-bricht-ein-ld.10025888",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der perfekte Sündenbock: Wie Mario Corti die Swissair retten wollte – und mit dem sozialen Tod bezahlte",
+      "url": "https://www.nzz.ch/gesellschaft/mario-corti-20-jahre-grounding-der-swissair-ld.1648030",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "KI kommt in die Sammlung",
+      "url": "https://www.persoenlich.com/digital/ki-kommt-in-die-sammlung",
+      "summary": "Das Berner Museum nimmt eine vollständige Kopie des Open-Source-Modells Apertus auf und eröffnet in der Kernausstellung ein KI-Lab.",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Digitec Gründer Florian Teuteberg Soll Migros Online Profitbel Machen",
+      "url": "https://www.bilanz.ch/unternehmen/digitec-gruender-florian-teuteberg-soll-migros-online-profitbel-machen/74d6wlx",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bronzemedaille für die Schützengesellschaft Villmergen",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/bronzemedaille-fuer-die-schuetzengesellschaft-villmergen-ld.4242864",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Der Wolfwiler Kirchenchor Unterwegs im Südschwarzwald",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/der-wolfwiler-kirchenchor-unterwegs-im-suedschwarzwald-ld.4242865",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "WEF-Frau in der Schweiz wegen angeblichem Trump-Mordplan festgenommen",
+      "url": "https://www.watson.ch/schweiz/international/499940834-wef-frau-in-der-schweiz-wegen-angeblichem-trump-mordplan-festgenommen",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Er will FIFA-Präsident bleiben: Infantino verspricht der UEFA mehr Geld",
+      "url": "https://www.watson.ch/sport/fifa/840312086-er-will-fifa-praesident-bleiben-infantino-verspricht-der-uefa-mehr-geld",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nissan bringt einen Elektro-Kleinwagen und er kommt uns bekannt vor",
+      "url": "https://www.watson.ch/digital/auto/999699701-nissan-bringt-einen-elektro-kleinwagen-und-er-kommt-uns-bekannt-vor",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "NHL-Saison 2026/27: So viele Punkte skoren Josi, Meier und Co.",
+      "url": "https://www.watson.ch/sport/eishockey/238968799-nhl-saison-2026-27-so-viele-punkte-skoren-josi-meier-und-co",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Studie: Schweizer sehen wenig Nutzen von Künstlicher Intelligenz",
+      "url": "https://www.watson.ch/schweiz/digital/294522234-studie-schweizer-sehen-wenig-nutzen-von-kuenstlicher-intelligenz",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mehr als 8000 Ebola-Fälle im Kongo&nbsp;– bald 4000 Tote",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/ebola-ausbruch-im-kongo-waechst-weiter-an-art-1724381",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«In schwerer Weise»: Finma rüffelt Julius Bär als Wiederholungstäterin",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/finma-ruegt-julius-baer-wegen-benko-und-russen-art-1724379",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Jagd war für die Schwyzer Jäger wegen der Trockenheit schwierig",
+      "url": "https://www.bote.ch/nachrichten/schwyz/die-jagd-war-fuer-die-schwyzer-jaeger-wegen-der-trockenheit-schwierig-art-1724382",
+      "summary": "",
+      "published": "2026-09-29T07:33:05.810107+00:00"
     }
   ]
 }
