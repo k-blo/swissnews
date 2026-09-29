@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-29T23:02:53.105938+00:00",
+  "generated": "2026-09-29T23:33:00.700683+00:00",
   "date": "2026-09-30",
-  "count": 24,
+  "count": 27,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -170,6 +170,27 @@
       "url": "https://www.watson.ch/sport/fifa/969469473-fifa-nasser-al-khelaifi-will-gianni-infantino-nicht-herausfordern",
       "summary": "",
       "published": "2026-09-29T23:02:53.105938+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bieler Gratiszeitung wird eingestellt",
+      "url": "https://www.zentralplus.ch/news/bieler-gratiszeitung-wird-eingestellt-2901527/",
+      "summary": "Die zweisprachige Gratiszeitung «Biel Bienne» wird per Ende Jahr eingestellt. Dies kündigte Mitgründer Mario Cortesi in der aktuellen Ausgabe an. Was einst «nur mit Verwegenheit und Optimismus» lancie",
+      "published": "2026-09-29T23:33:00.700683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Töfffahrer kommt im Tessin von Strasse ab und verletzt sich schwer",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/736024187-toefffahrer-kommt-im-tessin-von-strasse-ab-und-verletzt-sich-schwer",
+      "summary": "",
+      "published": "2026-09-29T23:33:00.700683+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ETH Zürich im Ranking der besten Hochschulen 2026 auf Platz 12",
+      "url": "https://www.watson.ch/wissen/schweiz/440867499-eth-zuerich-im-ranking-der-besten-hochschulen-2026-auf-platz-12",
+      "summary": "",
+      "published": "2026-09-29T23:33:00.700683+00:00"
     }
   ]
 }
