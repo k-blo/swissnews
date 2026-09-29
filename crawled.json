@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-29T12:02:56.066172+00:00",
+  "generated": "2026-09-29T12:33:04.288771+00:00",
   "date": "2026-09-29",
-  "count": 539,
+  "count": 578,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3775,6 +3775,279 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/handy-betrug-in-europa-7-festnahmen-und-millionen-schaden-art-1724410",
       "summary": "",
       "published": "2026-09-29T12:02:56.066172+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Arena»-Moderator verlässt SRF: Sandro Brotz wechselt zu «Blick»",
+      "url": "https://www.20min.ch/story/mit-neuem-podcast-arena-moderator-sandro-brotz-wechselt-zu-blick-103641141",
+      "summary": "Sandro Brotz verlässt SRF und beginnt auf Anfang Februar 2027 bei «Blick». Dort soll er einen Podcast moderieren, der mehrmals wöchentlich veröffentlicht werden soll.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Heftige» Explosion in Wohnblock: Anzahl Verletzte unklar",
+      "url": "https://www.20min.ch/story/neuenburg-schwerwiegende-explosion-in-wohnblock-anzahl-verletzte-unklar-103641125",
+      "summary": "In einem Wohngebäude in Neuenburg ist es am Dienstag zu einer Explosion gekommen. Es gibt mehrere Verletzte.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Analyse zu Krankenkassenkosten: Die Schere zwischen Prämien und Löhnen geht weiter auf – besonders bei Geringverdienenden",
+      "url": "https://www.tagesanzeiger.ch/krankenkassenpraemien-warum-geringverdienende-am-staerksten-leiden-167622506354",
+      "summary": "Die Krankenkasse kostet mehr als dreimal so viel wie vor 30 Jahren, obwohl die Einkommen nicht Schritt halten. Warum das arme Haushalte viel stärker trifft.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wahl der Krankenkasse: Mit diesen simplen Schritten sparen Sie Hunderte Franken an Prämien",
+      "url": "https://www.tagesanzeiger.ch/krankenkasse-so-sparen-sie-hunderte-franken-praemien-147974055339",
+      "summary": "Wer die Kasse wechselt, die Franchise optimiert und ein günstigeres Versicherungsmodell wählt, zahlt deutlich weniger. Wir zeigen Ihnen, wie es geht.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Arena»-Moderator wechselt zu Blick: Sandro Brotz verlässt SRF",
+      "url": "https://www.tagesanzeiger.ch/sandro-brotz-verlaesst-srf-und-wechselt-zu-blick-310525999276",
+      "summary": "SRF-Moderator Sandro Brotz verlässt SRF auf Ende Januar 2027. Er wird bei «Blick» einen multimedialen Video-Podcast aufbauen.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Urkundenfälschung» und «Misshandlung»: Razzien und Festnahmen bei türkischen Fussball-Schiedsrichtern",
+      "url": "https://www.tagesanzeiger.ch/tuerkischer-fussball-schiedsrichterchef-festgenommen-532164265823",
+      "summary": "Nach Untersuchungen beim türkischen Schiedsrichterausschuss stehen führende Köpfe im Fokus. Die Vorwürfe sind happig.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neuer Trainer des FC Basel: Slavisa Jokanovic und die Frage, ob er es besser und länger kann",
+      "url": "https://www.tagesanzeiger.ch/fc-basel-jokanovic-ueber-ziele-russland-und-deutsch-208765919788",
+      "summary": "Der FCB präsentiert den Medien seinen nächsten Trainer. Ein erster Auftritt zwischen Zurückhaltung und Ansage.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Prämien 2027: So viel teurer wird die Krankenkasse",
+      "url": "https://www.zentralplus.ch/gesundheit-fitness/praemien-2027-so-viel-teurer-wird-die-krankenkasse-2901420/",
+      "summary": "Die Prämien im&#160;Kanton Luzern&#160;steigen um durchschnittlich 4,4 Prozent an. Damit liegt der Anstieg unter dem schweizerischen Schnitt. Auch in Zug steigen die Prämien wieder. Die Krankenkassenp",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Vier Autos in Baar stehen plötzlich in Flammen",
+      "url": "https://www.zentralplus.ch/news/vier-autos-in-baar-stehen-ploetzlich-in-flammen-2901432/",
+      "summary": "Vier Fahrzeuge sind am späten Montagabend in Baar vollständig ausgebrannt. Bei den Löscharbeiten wurde ein Feuerwehrmann leicht verletzt. Kurz vor 22.15 Uhr gingen am Montag bei der Zuger Polizei mehr",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Krankenkassenprämien steigen um 5%",
+      "url": "https://www.zentralplus.ch/news/krankenkassenpraemien-steigen-um-5-2901431/",
+      "summary": "Die Krankenkassenprämien steigen im kommenden Jahr im Schnitt um fünf Prozent. Das entspricht knapp 20 Franken pro Monat. Durchschnittlich bezahlt damit jede Person 412 Franken pro Monat für die Krank",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ö: Mehr Waffen trotz Verschärfung",
+      "url": "https://www.zentralplus.ch/news/oe-mehr-waffen-trotz-verschaerfung-2901428/",
+      "summary": "Trotz einer Verschärfung des Waffenrechts nach dem Amoklauf von Graz ist die Zahl der Waffen in Österreich weiter gestiegen. Im Zentralen Waffenregister waren am 1. September knapp 1,6 Millionen Waffe",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hier in Emmenbrücke gibts bald 80 neue Wohnungen",
+      "url": "https://www.zentralplus.ch/wohnen-bauen/wohnungen-hotel-gewerbe-neues-emmer-quartier-entsteht-2901400/",
+      "summary": "80 Wohnungen, ein Hotel mit 139 Zimmern sowie 3000 Quadratmeter für Büros und Gewerbe: Das soll das neue Emmenbaum-Areal direkt neben dem Bahnhof Emmenbrücke bieten. Am 1. Oktober wird die Baustelle e",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Schweizer KMUs bleiben in KI-Antworten oft unsichtbar",
+      "url": "https://www.netzwoche.ch/news/2026-09-29/schweizer-kmus-bleiben-in-ki-antworten-oft-unsichtbar",
+      "summary": "Kleine Betriebe haben es offenbar schwer, in den Antworten von KI-Modellen sichtbar zu werden. Eine Messung von Frascati zeigt, dass Filialketten dabei häufig im Vorteil sind. Eine Studie von Propus C",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Krankenkassenprämien fürs Jahr 2027 steigen um 5 Prozent. So sieht es in Ihrem Kanton aus",
+      "url": "https://www.nzz.ch/schweiz/die-krankenkassenpraemien-fuers-jahr-2027-steigen-um-5-prozent-so-sieht-es-in-ihrem-kanton-aus-ld.10025728",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die Krankenkassenprämien steigen erneut. Allein den Patienten die Schuld zu geben, greift zu kurz",
+      "url": "https://www.nzz.ch/meinung/die-krankenkassenpraemien-steigen-erneut-allein-den-patienten-die-schuld-zu-geben-greift-zu-kurz-ld.10024037",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Kinderrätsel für das Migros Magazin",
+      "url": "https://www.persoenlich.com/marketing/kinderratsel-fur-das-migros-magazin",
+      "summary": "Die «Mimigs Kinderrätsel» erscheinen in 52 Ausgaben pro Jahr auf Deutsch und Französisch.",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Sandro Brotz wechselt zu Blick",
+      "url": "https://www.persoenlich.com/medien/sandro-brotz-wechselt-zu-blick",
+      "summary": "Der 56-Jährige verlässt SRF Ende Januar 2027 nach 14 Jahren und startet im Februar bei Ringier. Dort baut er einen Video-Podcast auf, der mehrmals pro Woche erscheinen soll. Den Ausschlag gab laut SRF",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Hilari-Sage bekommt ein neues Gesicht",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-09-29/die-hilari-sage-bekommt-ein-neues-gesicht",
+      "summary": "Die Hilari-Sage wird zum Kinderbuch: Die Schaffhauser Autorin Andrea Külling erzählt mit «Burgfräulein Bertha sagt Nein» die Hilari-Geschichte einer starken Frau neu. Dabei verbindet sie regionale Tra",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Hotelbesitzer Können Aufatmen sie Müssen Vorerst Nicht Mehr Steuern Zahlen",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/hotelbesitzer-koennen-aufatmen-sie-muessen-vorerst-nicht-mehr-steuern-zahlen-2178787",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Büttikon Kanton Gibt Gemeinderat bei Elektra Recht",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/buettikon-kanton-gibt-gemeinderat-bei-elektra-recht-ld.4243054",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Volkstanzreise 2026 der Volkstanzgruppe Eggenwil Ins Appenzellerland",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/volkstanzreise-2026-der-volkstanzgruppe-eggenwil-ins-appenzellerland-ld.4243236",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Ermenswil Einbruch in Autogarage Täter Fliehen mit Audi",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/ermenswil-einbruch-in-autogarage-taeter-fliehen-mit-audi-ld.4243210",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Freischützen Balsthal Klus Holen Dritten Mannschaftstitel",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/freischuetzen-balsthal-klus-holen-dritten-mannschaftstitel-ld.4242317",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Ende für Biel Bienne Gratiszeitung Verschwindet 2026",
+      "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/ende-fuer-biel-bienne-gratiszeitung-verschwindet-2026-ld.4243089",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Mieten in Zürich Steigen Innert Zwei Jahren um 3 Prozent",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/mieten-in-zuerich-steigen-innert-zwei-jahren-um-3-prozent-ld.4243240",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Birmensdorf Gemeinde Kündigt Bademeister nach 18 Jahren",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/birmensdorf-gemeinde-kuendigt-bademeister-nach-18-jahren-ld.4242549",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Baar Vier Autos Brennen Feuerwehrmann Verletzt",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/baar-vier-autos-brennen-feuerwehrmann-verletzt-ld.4243245",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Bauen Bewegen Retten Einblicke Ins Zvbrdz Provisorium",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/bauen-bewegen-retten-einblicke-ins-zvbrdz-provisorium-ld.4243108",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sandro Brotz verlässt SRF und wechselt zum Blick",
+      "url": "https://www.watson.ch/schweiz/medien/571624202-sandro-brotz-verlaesst-srf-und-wechselt-zum-blick",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Krankenkasse Schweiz: Das gilt es bei einem Wechsel zu beachten",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/507842132-krankenkasse-schweiz-das-gilt-es-bei-einem-wechsel-zu-beachten",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum Philipp Kurashev für die NL-Sportchefs ein probelm ist",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/236731755-warum-philipp-kurashev-fuer-die-nl-sportchefs-ein-probelm-ist",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Prämienrechner: Vergleiche deine Krankenkassenprämien mit der Konkurrenz",
+      "url": "https://www.watson.ch/schweiz/krankenkasse/144273804-praemienrechner-vergleiche-deine-krankenkassenpraemien-mit-der-konkurrenz",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump schläft bei Besprechung, nachdem er über Sleepy Joe gespottet hat",
+      "url": "https://www.watson.ch/international/videos/727098698-trump-schlaeft-bei-besprechung-nachdem-er-ueber-sleepy-joe-gespottet-hat",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polizei stellt in Emmenbrücke LU 2,7 Kokain sicher",
+      "url": "https://www.watson.ch/international/polizeirapport/288928158-polizei-stellt-in-emmenbruecke-lu-2-7-kokain-sicher",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mehrere Fahrzeuge in Baar ZG in Brand – ein Feuerwehrmann verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/133223983-mehrere-fahrzeuge-in-baar-zg-in-brand-ein-feuerwehrmann-verletzt",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Jetzt live: Die Krankenkassenprämien steigen 2027 erneut stark – das sagt Bundesrätin Baume-Schneider",
+      "url": "https://www.freiburger-nachrichten.ch/story/293806/jetzt-live-die-krankenkassenpr%C3%A4mien-steigen-2027-erneut-stark-das-sagt-bundesr%C3%A4tin-baumeschneider",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Italiener von ägyptischen Agenten zu Tode gefoltert: Jetzt ist das Urteil da&nbsp;– mit Folgen für die politischen Beziehungen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/italien-verurteilt-aegyptische-geheimagenten-im-fall-regeni-art-1724420",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach knapp 15 Jahren beim SRF ist Schluss: Sandro Brotz wechselt zu Blick",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/brotz-verlaesst-srf-blick-plant-neuen-video-podcast-art-1724419",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vier Autos in Brand ++ ein Feuerwehrmann verletzt ++ hunderttausende Franken Sachschaden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/baar-vier-autos-brennen-feuerwehrmann-verletzt-art-1724418",
+      "summary": "",
+      "published": "2026-09-29T12:33:04.288771+00:00"
     }
   ]
 }
