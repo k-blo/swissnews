@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T21:03:06.222887+00:00",
+  "generated": "2026-09-30T21:32:58.293434+00:00",
   "date": "2026-09-30",
-  "count": 957,
+  "count": 960,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6701,6 +6701,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/staatsanwaltschaft-ermittelt-gegen-schwyzer-inkasso-firma-art-1724613",
       "summary": "",
       "published": "2026-09-30T21:03:06.222887+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Glarner Berggasthaus in Vollbrand",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/glarus/glarner-berggasthaus-in-vollbrand/d1w19vr",
+      "summary": "Feueralarm im glarnerischen Elm: Am Mittwochabend bricht im Berghotel Bischofalp auf 1650 Metern Höhe ein Brand aus. Die Ursache ist unklar. Ist es wegen Bauarbeiten?",
+      "published": "2026-09-30T21:32:58.293434+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Kreuzlingen Bezwingt Brühl Dank Effizienz im Derby",
+      "url": "https://www.tagblatt.ch/sport/ostschweiz/kreuzlingen-bezwingt-bruehl-dank-effizienz-im-derby-ld.4244138",
+      "summary": "",
+      "published": "2026-09-30T21:32:58.293434+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "EHC Seewen mit erster Saisonniederlage",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ehc-seewen-mit-erster-saisonniederlage-art-1724757",
+      "summary": "",
+      "published": "2026-09-30T21:32:58.293434+00:00"
     }
   ]
 }
