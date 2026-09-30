@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T01:32:48.484613+00:00",
+  "generated": "2026-09-30T02:03:06.401877+00:00",
   "date": "2026-09-30",
-  "count": 42,
+  "count": 44,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -296,6 +296,20 @@
       "url": "https://www.zentralplus.ch/news/boeing-bekommt-auftrag-fuer-us-marine-2901529/",
       "summary": "Das US-Verteidigungsministerium hat den Flugzeugbauer Boeing mit dem Bau des neuen Kampfjets für die US-Marine beauftragt. Das Geschäft hat ein Volumen von mehr als 20 Milliarden Dollar, wie das Penta",
       "published": "2026-09-30T01:32:48.484613+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump lässt Nordkoreas Atomwaffen zu: «Kim ist mein Freund»",
+      "url": "https://www.20min.ch/story/vor-journalisten-trump-laesst-nordkoreas-atomwaffen-zu-kim-ist-mein-freund-103641689",
+      "summary": "US-Präsident Donald Trump pocht immer wieder darauf, dass der Iran keine Atomwaffen haben darf. Bei einem anderen Land sieht Trump allerdings kein Problem – und nennt seine Gründe dafür.",
+      "published": "2026-09-30T02:03:06.401877+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Von Brunnen nach Ibach: Mehr Raum für gute Pflege</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/bvon-brunnen-nach-ibach-mehr-raum-fuer-gute-pflegeb-art-1724489",
+      "summary": "",
+      "published": "2026-09-30T02:03:06.401877+00:00"
     }
   ]
 }
