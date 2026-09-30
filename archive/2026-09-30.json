@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T01:03:52.286053+00:00",
+  "generated": "2026-09-30T01:32:48.484613+00:00",
   "date": "2026-09-30",
-  "count": 40,
+  "count": 42,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -282,6 +282,20 @@
       "url": "https://www.watson.ch/international/das-ist-nicht-normal-ticker/822761134-donald-trump-hat-verstaendnis-dafuer-dass-nordkorea-atomwaffen-haben-will",
       "summary": "",
       "published": "2026-09-30T01:03:52.286053+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tennessee plant erste Exekution einer Frau seit 200 Jahren",
+      "url": "https://www.20min.ch/story/historische-hinrichtung-tennessee-exekutiert-heute-erstmals-seit-200-jahren-eine-frau-103641688",
+      "summary": "Heute soll in Tennessee das erste Mal seit über 200 Jahren eine Frau exekutiert werden. Menschenrechtsorganisationen wollen dies bis zum Schluss verhindern. Ein Gnadengesuch wurde aber abgelehnt.",
+      "published": "2026-09-30T01:32:48.484613+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Boeing bekommt Auftrag für US-Marine",
+      "url": "https://www.zentralplus.ch/news/boeing-bekommt-auftrag-fuer-us-marine-2901529/",
+      "summary": "Das US-Verteidigungsministerium hat den Flugzeugbauer Boeing mit dem Bau des neuen Kampfjets für die US-Marine beauftragt. Das Geschäft hat ein Volumen von mehr als 20 Milliarden Dollar, wie das Penta",
+      "published": "2026-09-30T01:32:48.484613+00:00"
     }
   ]
 }
