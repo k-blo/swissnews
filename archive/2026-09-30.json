@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T00:32:48.088056+00:00",
+  "generated": "2026-09-30T01:03:52.286053+00:00",
   "date": "2026-09-30",
-  "count": 37,
+  "count": 40,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -261,6 +261,27 @@
       "url": "https://www.bote.ch/nachrichten/sport/rodriguez-elvedi-und-untersagte-party-die-nati-nach-dem-sieg-gegen-schottland-art-1724566",
       "summary": "",
       "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trotz immer neuen Sicherheitsvorfällen: Open AI prescht mit einem neuen persönlichen Assistenten voran",
+      "url": "https://www.nzz.ch/technologie/trotz-immer-neuen-sicherheitsvorfaellen-open-ai-prescht-mit-einem-neuen-persoenlichen-assistenten-voran-ld.10026064",
+      "summary": "",
+      "published": "2026-09-30T01:03:52.286053+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hcap Vs Hc Lugano",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/hcap-vs-hc-lugano-ld.4242273",
+      "summary": "",
+      "published": "2026-09-30T01:03:52.286053+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Donald Trump hat Verständnis dafür, dass Nordkorea Atomwaffen haben will",
+      "url": "https://www.watson.ch/international/das-ist-nicht-normal-ticker/822761134-donald-trump-hat-verstaendnis-dafuer-dass-nordkorea-atomwaffen-haben-will",
+      "summary": "",
+      "published": "2026-09-30T01:03:52.286053+00:00"
     }
   ]
 }
