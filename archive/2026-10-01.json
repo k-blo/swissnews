@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T22:02:58.282750+00:00",
+  "generated": "2026-09-30T22:33:02.740738+00:00",
   "date": "2026-10-01",
-  "count": 4,
+  "count": 5,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -30,6 +30,13 @@
       "url": "https://www.bote.ch/service/leserbriefe/troestlich-art-1724653",
       "summary": "",
       "published": "2026-09-30T22:02:58.282750+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Champions Cup im Unihockey: Der HC Rychenberg verpasst die Überraschung knapp",
+      "url": "https://www.tagesanzeiger.ch/hc-rychenberg-scheitert-knapp-an-tatran-im-champions-cup-737551174415",
+      "summary": "Wie im Vorjahr scheidet der HC Rychenberg im Viertelfinal des Champions Cups aus. Das Unentschieden im Rückspiel in Winterthur bringt ihn nicht weiter.",
+      "published": "2026-09-30T22:33:02.740738+00:00"
     }
   ]
 }
