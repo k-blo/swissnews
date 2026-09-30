@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T23:03:07.707082+00:00",
+  "generated": "2026-09-30T23:32:48.571598+00:00",
   "date": "2026-10-01",
-  "count": 5,
+  "count": 10,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,41 @@
       "url": "https://www.tagesanzeiger.ch/hc-rychenberg-scheitert-knapp-an-tatran-im-champions-cup-737551174415",
       "summary": "Wie im Vorjahr scheidet der HC Rychenberg im Viertelfinal des Champions Cups aus. Das Unentschieden im Rückspiel in Winterthur bringt ihn nicht weiter.",
       "published": "2026-09-30T22:33:02.740738+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Supreme Court erlaubt Hinrichtung von Christa Pike",
+      "url": "https://www.20min.ch/story/us-staat-tennessee-supreme-court-erlaubt-hinrichtung-von-christa-pike-103642240",
+      "summary": "Erstmals seit mehr als 200 Jahren sollte in Tennessee eine Frau hingerichtet werden – die Vollstreckung wird kurz vor knapp gerichtlich gestoppt. Nun hat der Supreme Court entschieden.",
+      "published": "2026-09-30T23:32:48.571598+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "BILDSTRECKE - Mythos Swissair - Bilder aus glorreichen Zeiten",
+      "url": "https://www.nzz.ch/fotografie/mythos-swissair-bilder-aus-glorreichen-zeiten-ld.10022866",
+      "summary": "",
+      "published": "2026-09-30T23:32:48.571598+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Netanjahu würdigt angegriffenen Piloten: «ein wahrer Held»",
+      "url": "https://www.watson.ch/777215777-netanjahu-wuerdigt-angegriffenen-piloten-ein-wahrer-held",
+      "summary": "",
+      "published": "2026-09-30T23:32:48.571598+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So verheerend schmolzen die Schweizer Gletscher 2026",
+      "url": "https://www.watson.ch/schweiz/extremwetter/697510915-so-verheerend-schmolzen-die-schweizer-gletscher-2026",
+      "summary": "",
+      "published": "2026-09-30T23:32:48.571598+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Interview mit Glazioloe Matthias Huss zur Gletscherschmelze 2026",
+      "url": "https://www.watson.ch/schweiz/interview/314382485-interview-mit-glazioloe-matthias-huss-zur-gletscherschmelze-2026",
+      "summary": "",
+      "published": "2026-09-30T23:32:48.571598+00:00"
     }
   ]
 }
