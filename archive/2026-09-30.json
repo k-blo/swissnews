@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T02:06:40.412252+00:00",
+  "generated": "2026-09-30T02:32:41.054632+00:00",
   "date": "2026-09-30",
-  "count": 44,
+  "count": 51,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -310,6 +310,55 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/bvon-brunnen-nach-ibach-mehr-raum-fuer-gute-pflegeb-art-1724489",
       "summary": "",
       "published": "2026-09-30T02:03:06.401877+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vor Journalisten in Washington: Trump lässt Nordkoreas Atomwaffen zu: «Kim ist mein Freund»",
+      "url": "https://www.tagesanzeiger.ch/trump-laesst-nordkoreas-atomwaffen-zu-kim-ist-mein-freund-341196818343",
+      "summary": "US-Präsident Donald Trump pocht immer wieder darauf, dass der Iran keine Atomwaffen haben darf. Bei einem anderen Land sieht Trump allerdings kein Problem – und nennt seine Gründe dafür.",
+      "published": "2026-09-30T02:32:41.054632+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Der Etwas Andere Seniorennachmittag in Schänis Theres und Therese Heben Ab",
+      "url": "https://www.suedostschweiz.ch/linth/der-etwas-andere-seniorennachmittag-in-schaenis-theres-und-therese-heben-ab-2165700",
+      "summary": "",
+      "published": "2026-09-30T02:32:41.054632+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Hasskommentare auf Social Media Khur Pride Kapo Wann zur Polizei Expertin",
+      "url": "https://www.suedostschweiz.ch/graubuenden/hasskommentare-auf-social-media-khur-pride-kapo-wann-zur-polizei-expertin-2176890",
+      "summary": "",
+      "published": "2026-09-30T02:32:41.054632+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Finanzloch bei der Braunwaldbahn die Svp Will Wissen wer Da Geschlafen Hat",
+      "url": "https://www.suedostschweiz.ch/glarus/finanzloch-bei-der-braunwaldbahn-die-svp-will-wissen-wer-da-geschlafen-hat-2173713",
+      "summary": "",
+      "published": "2026-09-30T02:32:41.054632+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Frauenfeld Prüft Aufhebung des Beachhouse Beschlusses",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/frauenfeld-prueft-aufhebung-des-beachhouse-beschlusses-ld.4239956",
+      "summary": "",
+      "published": "2026-09-30T02:32:41.054632+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Gemeinderat Korrigiert Kostenschätzung für Dreitannensaal nach Oben",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/gemeinderat-korrigiert-kostenschaetzung-fuer-dreitannensaal-nach-oben-ld.4243143",
+      "summary": "",
+      "published": "2026-09-30T02:32:41.054632+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "America.gov: Die KI der US-Regierung widerspricht Donald Trump oft",
+      "url": "https://www.watson.ch/digital/international/183162790-america-gov-die-ki-der-us-regierung-widerspricht-donald-trump-oft",
+      "summary": "",
+      "published": "2026-09-30T02:32:41.054632+00:00"
     }
   ]
 }
