@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T00:02:56.163997+00:00",
+  "generated": "2026-09-30T00:32:48.088056+00:00",
   "date": "2026-09-30",
-  "count": 29,
+  "count": 37,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -205,6 +205,62 @@
       "url": "https://www.watson.ch/international/afrika/780863342-marokko-koenig-mohammed-vi-setzt-fatima-ezzahra-el-mansouri-ein",
       "summary": "",
       "published": "2026-09-30T00:02:56.163997+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Treffen in Washington: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
+      "url": "https://www.tagesanzeiger.ch/trump-ki-firmen-sollen-sich-selbst-beaufsichtigen-426489326028",
+      "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen.",
+      "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Fragwürdigsten Aussagen zu den Rahmenverträgen",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/die-fragwuerdigsten-aussagen-zu-den-rahmenvertraegen",
+      "summary": "",
+      "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Helden des Ständerates",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/die-helden-des-staenderates",
+      "summary": "",
+      "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Blocher Verliert Big Time Ii ist er Vorbei Analyse eines Überzeugungstäters",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/blocher-verliert-big-time-ii-ist-er-vorbei-analyse-eines-ueberzeugungstaeters",
+      "summary": "",
+      "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "König Philipp I Präsentiert dem Volk Seine Gemächer die Deutsche Cdu ist am Ende",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/koenig-philipp-i-praesentiert-dem-volk-seine-gemaecher-die-deutsche-cdu-ist-am-ende",
+      "summary": "",
+      "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Neue Möglichkeiten für Kriminelle Clans in Berlin",
+      "url": "https://www.nebelspalter.ch/themen/2026/09/neue-moeglichkeiten-fuer-kriminelle-clans-in-berlin",
+      "summary": "",
+      "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KI: Donald Trump will Selbstregulierung von OpenAI, Grok und Anthropic",
+      "url": "https://www.watson.ch/digital/international/164205537-ki-donald-trump-will-selbstregulierung-von-openai-grok-und-anthropic",
+      "summary": "",
+      "published": "2026-09-30T00:32:48.088056+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Routiniers, ein besonderer Abend und keine Party: Die Schweizer Nati nach dem Sieg gegen Schottland",
+      "url": "https://www.bote.ch/nachrichten/sport/rodriguez-elvedi-und-untersagte-party-die-nati-nach-dem-sieg-gegen-schottland-art-1724566",
+      "summary": "",
+      "published": "2026-09-30T00:32:48.088056+00:00"
     }
   ]
 }
