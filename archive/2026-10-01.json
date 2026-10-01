@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T02:03:15.932292+00:00",
+  "generated": "2026-10-01T02:32:48.537715+00:00",
   "date": "2026-10-01",
-  "count": 25,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -177,6 +177,27 @@
       "url": "https://www.zentralplus.ch/news/burnham-hinweise-auf-iran-beteiligung-2901792/",
       "summary": "Nach einem Zwischenfall nahe der US-Luftwaffenbasis Fairford in Grossbritannien hat Premierminister Andy Burnham Hinweise auf eine mögliche Verbindung zum Iran bestätigt. Es deute vieles darauf hin, d",
       "published": "2026-10-01T02:03:15.932292+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Alle sind mit gleichem Herzblut dabei»: So beteiligt sich ein Wilchinger am Traditionsfest",
+      "url": "https://www.shn.ch/region/klettgau/2026-10-01/alle-sind-mit-gleichem-herzblut-dabei-so-beteiligt-sich-ein-wilchinger",
+      "summary": "An den Herbstsonntagen Wilchingen kommen Jung und Alt zusammen und werden eine Gemeinschaft. Genau dafür engagiert sich Chris Pythoud im Organisationskomitee.",
+      "published": "2026-10-01T02:32:48.537715+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Neue Bühne Wirtschaftsforum Südostschweiz Erstmals in der Neuen Eventhalle Chur",
+      "url": "https://www.suedostschweiz.ch/graubuenden/neue-buehne-wirtschaftsforum-suedostschweiz-erstmals-in-der-neuen-eventhalle-chur-2168244",
+      "summary": "",
+      "published": "2026-10-01T02:32:48.537715+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Flydubai FZ1073 Tel Aviv Israel: So erleichtert sind die Passagiere",
+      "url": "https://www.watson.ch/international/luftfahrt/189946156-flydubai-fz1073-tel-aviv-israel-so-erleichtert-sind-die-passagiere",
+      "summary": "",
+      "published": "2026-10-01T02:32:48.537715+00:00"
     }
   ]
 }
