@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T22:02:48.727854+00:00",
+  "generated": "2026-10-01T22:32:34.439237+00:00",
   "date": "2026-10-02",
-  "count": 6,
+  "count": 8,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -44,6 +44,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/293299/100erclub-des-fc-kerzers-var-wm-und-eine-spende-von-28000-franken",
       "summary": "",
       "published": "2026-10-01T22:02:48.727854+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Diesel: USA erhöhen Druck auf EU",
+      "url": "https://www.zentralplus.ch/news/diesel-usa-erhoehen-druck-auf-eu-2902019/",
+      "summary": "Die USA versuchen im Kampf gegen die hohen Dieselpreise laut Medienberichten, die EU dazu zu zwingen, ihre strategischen Dieselreserven auf den Markt zu bringen. Darauf angesprochen sagte US-Präsident",
+      "published": "2026-10-01T22:32:34.439237+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ein souveräner Sieg und eine bittere Lektion für Murtens Volleyballer",
+      "url": "https://www.freiburger-nachrichten.ch/story/294462/ein-souver%C3%A4ner-sieg-und-eine-bittere-lektion-f%C3%BCr-murtens-volleyballer",
+      "summary": "",
+      "published": "2026-10-01T22:32:34.439237+00:00"
     }
   ]
 }
