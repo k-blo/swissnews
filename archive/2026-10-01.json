@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T00:02:50.119120+00:00",
+  "generated": "2026-10-01T00:32:38.212171+00:00",
   "date": "2026-10-01",
-  "count": 15,
+  "count": 17,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -107,6 +107,20 @@
       "url": "https://www.watson.ch/international/armee/753737313-pete-hegseth-verschafft-elon-musk-neuen-job-im-pentagon",
       "summary": "",
       "published": "2026-10-01T00:02:50.119120+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Giorgia Meloni: Burkaverbot und Sprachquote an Schulen",
+      "url": "https://www.watson.ch/international/schule-bildung/674722560-giorgia-meloni-burkaverbot-und-sprachquote-an-schulen",
+      "summary": "",
+      "published": "2026-10-01T00:32:38.212171+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lionel Messi: Universität Buenos Aires macht ihn zum Ehrendoktor",
+      "url": "https://www.watson.ch/sport/lionel-messi/174593514-lionel-messi-universitaet-buenos-aires-macht-ihn-zum-ehrendoktor",
+      "summary": "",
+      "published": "2026-10-01T00:32:38.212171+00:00"
     }
   ]
 }
