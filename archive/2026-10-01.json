@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T19:32:33.716926+00:00",
+  "generated": "2026-10-01T20:02:31.373310+00:00",
   "date": "2026-10-01",
-  "count": 824,
+  "count": 826,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5770,6 +5770,20 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/fc-ibach-entlaesst-cheftrainer-boris-jevremovic-art-1724884",
       "summary": "",
       "published": "2026-10-01T19:32:33.716926+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Floorball Thurgau Besiegt Mlada Boleslav im Champions Cup",
+      "url": "https://www.tagblatt.ch/sport/thurgau/floorball-thurgau-besiegt-mlada-boleslav-im-champions-cup-ld.4244758",
+      "summary": "",
+      "published": "2026-10-01T20:02:31.373310+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Orgelfestival zieht treues und neues Publikum an",
+      "url": "https://www.freiburger-nachrichten.ch/story/294051/orgelfestival-zieht-treues-und-neues-publikum-an",
+      "summary": "",
+      "published": "2026-10-01T20:02:31.373310+00:00"
     }
   ]
 }
