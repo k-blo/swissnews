@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T21:14:41.692762+00:00",
+  "generated": "2026-10-01T21:32:43.674391+00:00",
   "date": "2026-10-01",
-  "count": 841,
+  "count": 843,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5889,6 +5889,20 @@
       "url": "https://www.watson.ch/international/reisen/957038876-shakira-lockt-fans-aus-ganz-europa-nach-madrid-das-steckt-dahinter",
       "summary": "",
       "published": "2026-10-01T21:14:41.692762+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nations League: Klopp fährt den ersten Sieg mit Deutschland ein, Portugal gewinnt auch ohne Ronaldo",
+      "url": "https://www.tagesanzeiger.ch/nations-league-klopp-gewinnt-erstmals-mit-deutschland-138813883849",
+      "summary": "Dank dem 2:0 gegen Serbien gelingt Deutschland unter Klopp der Befreiungsschlag. Und während Portugal souverän gegen Dänemark gewinnt, unterliegt Norwegen im Parallelspiel überraschend.",
+      "published": "2026-10-01T21:32:43.674391+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Women’s Champions League: Servette erfährt die nächste Klatsche in der Königsklasse",
+      "url": "https://www.bernerzeitung.ch/servette-faehrt-die-naechste-klatsche-ein-134187719789",
+      "summary": "Auch im zweiten Spiel bleiben die Genferinnen chancenlos. Auswärts in Dänemark setzt es eine 1:5-Niederlage – und den letzten Platz.",
+      "published": "2026-10-01T21:32:43.674391+00:00"
     }
   ]
 }
