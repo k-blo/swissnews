@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T01:02:55.549391+00:00",
+  "generated": "2026-10-01T01:30:53.569140+00:00",
   "date": "2026-10-01",
-  "count": 20,
+  "count": 23,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -142,6 +142,27 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/404861092-artisan-partners-us-investor-fordert-wegzug-von-ubs-aus-der-schweiz",
       "summary": "",
       "published": "2026-10-01T01:02:55.549391+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ersthelfer retten vier junge Menschen aus brennendem Auto",
+      "url": "https://www.20min.ch/story/rettung-in-wohlen-ag-ersthelfer-bergen-vier-junge-menschen-aus-brennendem-auto-103642243",
+      "summary": "Ein Fiat Punto prallt in Wohlen AG frontal gegen einen Baum und geht unmittelbar danach in Flammen auf. Mehrere Ersthelfer eilen zum brennenden Auto und schaffen es, alle vier Insassen zu retten. Dabe",
+      "published": "2026-10-01T01:30:53.569140+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Wiener Johann Strauss Konzert Gala im Kkl Luzern",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/wiener-johann-strauss-konzert-gala-im-kkl-luzern-ld.4208545",
+      "summary": "",
+      "published": "2026-10-01T01:30:53.569140+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Circus Monti in Solothurn",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/circus-monti-in-solothurn-ld.4218036",
+      "summary": "",
+      "published": "2026-10-01T01:30:53.569140+00:00"
     }
   ]
 }
