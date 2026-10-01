@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T00:32:38.212171+00:00",
+  "generated": "2026-10-01T01:02:55.549391+00:00",
   "date": "2026-10-01",
-  "count": 17,
+  "count": 20,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -121,6 +121,27 @@
       "url": "https://www.watson.ch/sport/lionel-messi/174593514-lionel-messi-universitaet-buenos-aires-macht-ihn-zum-ehrendoktor",
       "summary": "",
       "published": "2026-10-01T00:32:38.212171+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "ITA: Verschleierungsverbot in Schulen",
+      "url": "https://www.zentralplus.ch/news/ita-verschleierungsverbot-in-schulen-2901790/",
+      "summary": "Burka und Nikab sind in Italiens Schulen nun definitiv verboten, nachdem Staatschef Sergio Mattarella am Mittwochabend das entsprechende Dekret unterzeichnet hat. Weiter gilt ab dem Schuljahr 2027/202",
+      "published": "2026-10-01T01:02:55.549391+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4243683",
+      "summary": "",
+      "published": "2026-10-01T01:02:55.549391+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Artisan Partners: US-Investor fordert Wegzug von UBS aus der Schweiz",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/404861092-artisan-partners-us-investor-fordert-wegzug-von-ubs-aus-der-schweiz",
+      "summary": "",
+      "published": "2026-10-01T01:02:55.549391+00:00"
     }
   ]
 }
