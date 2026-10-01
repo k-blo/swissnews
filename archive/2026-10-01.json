@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T01:34:21.891973+00:00",
+  "generated": "2026-10-01T02:03:15.932292+00:00",
   "date": "2026-10-01",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/circus-monti-in-solothurn-ld.4218036",
       "summary": "",
       "published": "2026-10-01T01:30:53.569140+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wir werden sterben»: Insassen berichten von ihren Erlebnissen",
+      "url": "https://www.20min.ch/story/attacke-auf-flugzeug-wir-werden-sterben-insassen-berichten-von-ihren-erlebnissen-103642247",
+      "summary": "Nach der Notlandung der Flydubai-Maschine berichten Zeugen, was sie an Bord erlebt haben. Mehrere Insassen verschafften sich den Berichten zufolge Zugang zum Cockpit, nachdem ein Pilot auf dem Flug vo",
+      "published": "2026-10-01T02:03:15.932292+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Burnham: Hinweise auf Iran-Beteiligung",
+      "url": "https://www.zentralplus.ch/news/burnham-hinweise-auf-iran-beteiligung-2901792/",
+      "summary": "Nach einem Zwischenfall nahe der US-Luftwaffenbasis Fairford in Grossbritannien hat Premierminister Andy Burnham Hinweise auf eine mögliche Verbindung zum Iran bestätigt. Es deute vieles darauf hin, d",
+      "published": "2026-10-01T02:03:15.932292+00:00"
     }
   ]
 }
