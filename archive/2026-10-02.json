@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T23:32:52.996116+00:00",
+  "generated": "2026-10-02T00:02:39.459283+00:00",
   "date": "2026-10-02",
-  "count": 8,
+  "count": 9,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -58,6 +58,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/294462/ein-souver%C3%A4ner-sieg-und-eine-bittere-lektion-f%C3%BCr-murtens-volleyballer",
       "summary": "",
       "published": "2026-10-01T22:32:34.439237+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sechste Festnahme nach Fairford-Alaram",
+      "url": "https://www.zentralplus.ch/news/sechste-festnahme-nach-fairford-alaram-2902021/",
+      "summary": "Nach einem Zwischenfall nahe der US-Luftwaffenbasis Fairford in Grossbritannien haben Ermittler eine weitere Person festgenommen. Der britisch-iranische Staatsbürger stehe im Verdacht, einen terrorist",
+      "published": "2026-10-02T00:02:39.459283+00:00"
     }
   ]
 }
