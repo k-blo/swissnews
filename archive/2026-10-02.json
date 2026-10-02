@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T01:02:49.591806+00:00",
+  "generated": "2026-10-02T01:32:44.257517+00:00",
   "date": "2026-10-02",
-  "count": 12,
+  "count": 13,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -86,6 +86,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/widerstands-ikone-auf-dienstreise",
       "summary": "",
       "published": "2026-10-02T00:33:02.142666+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nike will 2,5 Milliarden sparen",
+      "url": "https://www.zentralplus.ch/news/nike-will-25-milliarden-sparen-2902023/",
+      "summary": "Der weltweit grösste Sportartikelhersteller und Adidas-Rivale Nike kündigt ein neues Sparprogramm an. Der US-Konzern will in den nächsten fünf Jahren 2,5 Milliarden Dollar einsparen, unter anderem mit",
+      "published": "2026-10-02T01:32:44.257517+00:00"
     }
   ]
 }
