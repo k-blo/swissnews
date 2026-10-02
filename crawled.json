@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T23:03:16.756880+00:00",
+  "generated": "2026-10-02T23:32:28.456872+00:00",
   "date": "2026-10-03",
-  "count": 20,
+  "count": 22,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -142,6 +142,20 @@
       "url": "https://www.20min.ch/story/arbon-erneut-eierattacke-auf-kebab-imbiss-polizei-ermittelt-103643376",
       "summary": "Das Arbon Food House wurde zum dritten Mal in Folge mit Eiern beworfen. Das Pächterpaar vermutet einen Konkurrenten hinter den Angriffen und hat Anzeige erstattet.",
       "published": "2026-10-02T23:03:16.756880+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bayer: 600 neue Stellen in den USA",
+      "url": "https://www.zentralplus.ch/news/bayer-600-neue-stellen-in-den-usa-2902241/",
+      "summary": "Der deutsche Pharma- und Agrarchemiekonzern Bayer will 2,2 Milliarden US-Dollar in einen Produktionsstandort in den USA investieren. 600 Arbeitsplätze sollen demnach in New Albany im US-Bundesstaat Oh",
+      "published": "2026-10-02T23:32:28.456872+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SRF Arena: So wird Martullo-Blocher in der EU-Debatte vorgeführt",
+      "url": "https://www.watson.ch/schweiz/reviews/780689195-srf-arena-so-wird-martullo-blocher-in-der-eu-debatte-vorgefuehrt",
+      "summary": "",
+      "published": "2026-10-02T23:32:28.456872+00:00"
     }
   ]
 }
