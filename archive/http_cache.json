@@ -1,39 +1,39 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Fri, 02 Oct 2026 19:46:03 GMT",
+    "last_modified": "Fri, 02 Oct 2026 20:15:55 GMT",
     "etag": "\"50855efcccafc9c27c04f5993de90b37\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"18921-lwlDPX1iWXXI6sXCjCKG4wjXX+A\""
+    "etag": "W/\"18921-sQBNVgvE7BBulqzVcHsbtejpIuU\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"107dd-eGL6lAa6/rGdKWUD515/wTZF9QM\""
+    "etag": "W/\"1081c-o3raTeMHZ+cFUqJ8wemAueCj7Qg\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"e90f-Q9UtIeGZEMKWHKdmwA7/LE+n4s0\""
+    "etag": "W/\"e98e-zOd5SJtdhm//1JAuCFpZbm+12VI\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Fri, 02 Oct 2026 19:45:17 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Fri, 02 Oct 2026 20:02:09 GMT"
+    "last_modified": "Fri, 02 Oct 2026 20:31:59 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
-    "last_modified": "Fri, 02 Oct 2026 18:50:09 GMT",
-    "etag": "\"1790967009\""
+    "last_modified": "Fri, 02 Oct 2026 20:11:11 GMT",
+    "etag": "\"1790971871\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Fri, 02 Oct 2026 20:01:25 GMT"
+    "last_modified": "Fri, 02 Oct 2026 20:31:33 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"f915-4+3uOvYZH+V5iP9JetrBTvxEI+M\""
+    "etag": "W/\"f963-j85Z6J4YOEWaJzh9FZsww7Ed5Hw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"f707-xQTs/giPY75clrOaFYzI+/S/C10\""
+    "etag": "W/\"f7cf-se3TYrR9JUInmRJbtrCqC2y9ry8\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Fri, 02 Oct 2026 18:32:05 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1790455944\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Fri, 02 Oct 2026 19:42:10 GMT",
-    "etag": "W/\"1790970130-gzip\""
+    "last_modified": "Fri, 02 Oct 2026 20:32:03 GMT",
+    "etag": "W/\"1790973123-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"16a78-iwB18WTvzirdF0PgVjHeDzFHlug\""
