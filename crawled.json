@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T03:02:31.938134+00:00",
+  "generated": "2026-10-02T03:32:32.027723+00:00",
   "date": "2026-10-02",
-  "count": 130,
+  "count": 142,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -912,6 +912,90 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/400-personen-mehr-in-acht-jahren-so-stark-waechst-die-verwaltung-art-1724827",
       "summary": "",
       "published": "2026-10-02T03:02:31.938134+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Missbrauchsvorwürfe an US-Eliteunisität: Gruppenvergewaltigung? New York ernennt Sonderermittlerin",
+      "url": "https://www.tagesanzeiger.ch/gruppenvergewaltigung-new-york-ernennt-sonderermittlerin-833045365795",
+      "summary": "Eine mutmassliche Gruppenvergewaltigung an einer US-Eliteuniversität sorgt für heftige Kritik an den örtlichen Behörden. Nun schaltet sich New Yorks Gouverneurin ein.",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Rentnerin Maricarmen darf zurück in ihre Wohnung – aber: «Die Wohn­situation in Spanien wird täglich prekärer»",
+      "url": "https://www.tagesanzeiger.ch/maricarmen-abascal-wird-zum-symbol-gegen-wohnungsnot-in-spanien-663205287053",
+      "summary": "Die Wohnung von Maricarmen Abascal wurde nach 70 Jahren zwangsgeräumt. Jetzt will das Parlament die Wohnungsnot entschärfen. Was es dazu braucht, erklärt unser Korrespondent im Podcast.",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTBEITRAG - Freihandel ist kein Luxus – er ist der Sauerstoff der Schweiz",
+      "url": "https://www.nzz.ch/meinung/freihandel-ist-kein-luxus-er-ist-der-sauerstoff-der-schweiz-ld.10025480",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Das Greenwashing-Verbot der EU kommt zu spät. Die Probleme liegen heute anderswo",
+      "url": "https://www.nzz.ch/meinung/das-greenwashing-verbot-der-eu-kommt-zu-spaet-die-probleme-liegen-heute-anderswo-ld.10025364",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mehr Schweizer Geschichte braucht das Land",
+      "url": "https://www.nzz.ch/schweiz/mehr-schweizer-geschichte-braucht-das-land-ld.10026363",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein weiteres Hochhaus in Zürich: Die ETH baut auf dem Hönggerberg einen 80 Meter hohen Turm",
+      "url": "https://www.nzz.ch/zuerich/ein-weiteres-hochhaus-in-zuerich-die-eth-baut-auf-dem-hoenggerberg-einen-80-meter-hohen-turm-ld.10026300",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "43 Milliarden für ein neues Kernkraftwerk? Früherer Chef der Atomaufsicht zerlegt Studie der Akademien der Wissenschaften",
+      "url": "https://www.nzz.ch/schweiz/43-milliarden-fuer-ein-neues-kernkraftwerk-frueherer-chef-der-atom-aufsicht-zerlegt-studie-der-akademien-der-wissenschaften-ld.10026241",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Wegen hoher Krankenkassenprämien: Die Stadt Zürich verteilt bis zu 1200 Franken pro Person. Wer hat Anspruch darauf?",
+      "url": "https://www.nzz.ch/zuerich/wegen-hoher-krankenkassenpraemien-die-stadt-zuerich-verteilt-bis-zu-1200-franken-pro-person-wer-hat-anspruch-darauf-ld.10026318",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Würgen bis zur Ohnmacht: Plötzlich kehrt eine gefährliche Mutprobe unter Jugendlichen zurück",
+      "url": "https://www.nzz.ch/zuerich/wuergen-bis-zur-ohnmacht-ploetzlich-kehrt-eine-gefaehrliche-mutprobe-unter-jugendlichen-zurueck-ld.10025941",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Warum Sich der Rotmilan in den Bäumen bei der Läderach Villa Freuen Kann",
+      "url": "https://www.suedostschweiz.ch/linth/warum-sich-der-rotmilan-in-den-baeumen-bei-der-laederach-villa-freuen-kann-2168130",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Regionalpolizei Zofingen Stefan Wettstein Geht in Pension",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/regionalpolizei-zofingen-stefan-wettstein-geht-in-pension-ld.4243290",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Die Swissair wäre heute noch erfolgreich, wenn ...» – ein Experte ordnet ein",
+      "url": "https://www.freiburger-nachrichten.ch/story/294309/die-swissair-w%C3%A4re-heute-noch-erfolgreich-wenn--ein-experte-ordnet-ein",
+      "summary": "",
+      "published": "2026-10-02T03:32:32.027723+00:00"
     }
   ]
 }
