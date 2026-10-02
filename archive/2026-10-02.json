@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T14:03:28.150319+00:00",
+  "generated": "2026-10-02T14:33:05.582438+00:00",
   "date": "2026-10-02",
-  "count": 610,
+  "count": 651,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4272,6 +4272,293 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/srf-musikwelle-produzierte-im-drehrestaurant-stanserhorn-live-radiosendung-art-1725039",
       "summary": "",
       "published": "2026-10-02T14:03:28.150319+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Rücktritt von Guy Parmelin – Politologe: «War solider Konkordanzpolitiker und Teamplayer»",
+      "url": "https://www.srf.ch/news/schweiz/ruecktritt-von-guy-parmelin-politologe-war-solider-konkordanzpolitiker-und-teamplayer",
+      "summary": "Guy Parmelin tritt nach fast elf Jahren im Bundesrat zurück. Politikwissenschaftler Georg Lutz zieht Bilanz.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Ex-Wirtin gewinnt gegen Arzt und Krankenkasse – und spart 700 Franken",
+      "url": "https://www.blick.ch/schweiz/kampf-gegen-arzt-und-krankenkasse-frau-spart-700-franken/20jjeyn",
+      "summary": "Cristiana Maspoli aus Chiasso wehrte sich erfolgreich gegen überhöhte Arztrechnungen. Was sie machte, können alle tun. Dass dabei Betreibungen drohen, nimmt der Bundesrat in Kauf.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schweizer Kultmarke vor dem Aus: Ex Libris startet grosse Werbe­kampagne – obwohl bald Schluss ist",
+      "url": "https://www.tagesanzeiger.ch/ex-libris-werbekampagne-trotz-schliessung-aller-filialen-236923229127",
+      "summary": "Der Buchhändler der Migros wirbt in der Deutschschweiz für das Weihnachtsgeschäft, während 230 Angestellte ihre Stelle verlieren. Kundinnen klagen derweil über massive Lieferverzögerungen.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trockenheit dauert an: Pegelstände sinken und sinken – trocknen unsere Seen in Zukunft völlig aus?",
+      "url": "https://www.tagesanzeiger.ch/zuerichsee-droht-austrocknung-durch-klimawandel-301332159409",
+      "summary": "Viele Gewässer im Mittelland führen derzeit so wenig Wasser wie noch nie seit Beginn der Messungen. Sie zehren aber noch von Gletscherwasser. Was passiert, wenn die Gletscher dereinst weg sind?",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bürohr – Wirtschaftsnews der Woche: «Gefüllt mit Links zu Pornografie»: Galaxus’ ungewollter Google-Rekord",
+      "url": "https://www.tagesanzeiger.ch/digitec-galaxus-google-preis-fuer-porno-spam-angriff-558083235075",
+      "summary": "Das «Bürohr» weiss, was abseits der grossen Schlagzeilen in der Wirtschaft läuft. Dieses Mal: ein Hackerangriff bei Galaxus und ein ungewöhnliches Jobinserat bei Coop.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kampfsport in Winterthur: Hier trainieren die 8-jährigen Zwillinge Lian und Leano für ihren Kickboxkampf",
+      "url": "https://www.tagesanzeiger.ch/winterthur-hier-trainieren-8-jaehrige-zwillinge-fuer-ihren-kickboxkampf-449146467355",
+      "summary": "Lian und Leano Kicaj bereiten sich darauf vor, am Sonntag in den Boxring zu steigen. Für Lian ist es das erste Mal.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stadt Bülach: Nachbar gibt Widerstand gegen Baubewilligung für Schulhaus auf",
+      "url": "https://www.tagesanzeiger.ch/schulhaus-lindenhof-buelach-darf-modulbau-nach-langem-rechtsstreit-realisieren-270958527958",
+      "summary": "Bis vor kurzem blockierte ein jahrelanger Rechtsstreit den Modulbau beim Schulhaus Lindenhof. Dieser ist vorerst nun beigelegt. Ob bald gebaut werden kann, muss sich erst noch zeigen.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nationalstrassen Horgen: Horgen wehrt sich gegen Verschiebung des Hirzeltunnels",
+      "url": "https://www.tagesanzeiger.ch/hirzeltunnel-horgen-fordert-neubeurteilung-durch-bundesrat-827478955082",
+      "summary": "Der Gemeinderat Horgen lehnt die Einordnung der N14 Hirzelverbindung in die Kategorie «nach 2055» ab. Er beruft sich auf den kantonalen Richtplan und fordert eine Neubeurteilung durch den Bundesrat.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Waldbrand Kanton Zürich: Gefahrenstufe 3 bleibt bis mindestens 5. Oktober bestehen",
+      "url": "https://www.tagesanzeiger.ch/waldbrand-kanton-zuerich-gefahrenstufe-3-bis-5-oktober-570991765867",
+      "summary": "Anhaltende Trockenheit und überdurchschnittliche Temperaturen halten die Waldbrandgefahr im Kanton Zürich hoch. Ab 6. Oktober prüft der Operationsbereich, ob ein Feuerverbot im Wald erlassen wird.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "YB-Spielerin Leonie Köster: Sie trifft fünffach und sagt: «Ich muss alles nachholen, was ich verpasst habe»",
+      "url": "https://www.bernerzeitung.ch/fuenf-tore-im-cup-leihgabe-leonie-koester-dreht-bei-yb-auf-664051394515",
+      "summary": "Die Leihgabe von Union Berlin hat sich prächtig in Bern integriert und spielt bereits eine grosse Rolle im Team. Mit Géraldine Reuteler hat sie dabei auch eine enge Verbindung in die Schweiz.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Sofortiger Polizeinotruf: Bewohner beobachtet auf Kamera, wie zwei Männer versuchen, in sein Haus einzubrechen",
+      "url": "https://www.bazonline.ch/frick-einbruchsversuch-kantonspolizei-aargau-informiert-384312249408",
+      "summary": "Wenig später konnte die Polizei die beiden mutmasslichen Täter, eine 39- und 40-jährige Person, vorläufig festnehmen. Es folgen weitere Ermittlungen.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Das ist die schönste Kuh von Kriens",
+      "url": "https://www.zentralplus.ch/news/das-ist-die-schoenste-kuh-von-kriens-2902169/",
+      "summary": "Kriens hat eine neue Schönheitskönigin auf vier Beinen. Kuh Lina überzeugte die Experten an der traditionellen Braunviehschau. Die Kuh Lina ist die neue «Miss Kriensertal». Darüber informiert die Stad",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Erste Forderungen an Parmelin-Nachfolge",
+      "url": "https://www.zentralplus.ch/news/erste-forderungen-an-parmelin-nachfolge-2902177/",
+      "summary": "Bei der Nachfolge von Bundesrat Guy Parmelin werden aus den Parteien erste Erwartungen laut. Grünen-Fraktionschefin Greta Gysin spricht sich für eine Frau aus der Romandie aus. Die jetzige Zusammenset",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Europäische Union kritisiert obligatorischen Strafregisterauszug für EU-Bürger",
+      "url": "https://www.nzz.ch/schweiz/europaeische-union-kritisiert-obligatorischen-strafregisterauszug-fuer-eu-buerger-ld.10026360",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "VC Kanti 2 und die VBC-Männer stehen vor dem Start in die 1. Liga-Saison",
+      "url": "https://www.shn.ch/sport/volleyball/2026-10-02/vc-kanti-2-und-die-vbc-maenner-stehen-vor-dem-start-in-die-1-liga",
+      "summary": "Die zweite Mannschaft des VC Kanti strebt in der 1. Liga die Top 5 an, die Männer des Aufsteigers VBC Schaffhausen den Ligaerhalt.",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wie es Diese Oberurnerin aus der Klinik zum Wm Titel Schaffte",
+      "url": "https://www.suedostschweiz.ch/glarus/wie-es-diese-oberurnerin-aus-der-klinik-zum-wm-titel-schaffte-2173210",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Super Puma über dem Vierwaldstättersee die Spektakuläre Flugshow",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/super-puma-ueber-dem-vierwaldstaettersee-die-spektakulaere-flugshow-ld.4244462",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Stadt Frauenfeld Will bei Einbürgerungen Nichts Ändern",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/stadt-frauenfeld-will-bei-einbuergerungen-nichts-aendern-ld.4235182",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Apn Praxis Frauenfeld Neue Anlaufstelle Ergänzt die Hausarztpraxis",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/apn-praxis-frauenfeld-neue-anlaufstelle-ergaenzt-die-hausarztpraxis-ld.4244903",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Holderbank So Gemeinderat Prüft Eröffnung einer Neuen Klasse",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/holderbank-so-gemeinderat-prueft-eroeffnung-einer-neuen-klasse-ld.4243932",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Firmen im Gäu Mann Verschiebt Vermögen vor dem Konkurs",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/firmen-im-gaeu-mann-verschiebt-vermoegen-vor-dem-konkurs-ld.4243261",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Schlieren Mann Stört Moscheeführung für Jugendliche",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/schlieren-mann-stoert-moscheefuehrung-fuer-jugendliche-ld.4244965",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Sugus Häuser Beherbergen Nun Auch Geflüchtete",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/sugus-haeuser-beherbergen-nun-auch-gefluechtete-ld.4244164",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Zeitung Begleitet den Wahlsonntag in Zug",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-zeitung-begleitet-den-wahlsonntag-in-zug-ld.4244445",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Einsamkeit im Alter Anlass im Zuger Burgbachsaal",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/einsamkeit-im-alter-anlass-im-zuger-burgbachsaal-ld.4244448",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Matthias Michel eine Woche im Bundeshaus in Bern",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/matthias-michel-eine-woche-im-bundeshaus-in-bern-ld.4244442",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Verurteilung nach Unfall auf der Seelisbergstrasse",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/verurteilung-nach-unfall-auf-der-seelisbergstrasse-ld.4242627",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "57 Tiefsee-Spezies in Argentinien entdeckt – darunter auch ein «Loki»",
+      "url": "https://www.watson.ch/wissen/forschung/683854018-57-tiefsee-spezies-in-argentinien-entdeckt-darunter-auch-ein-loki",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "VW-Tochter Skoda ruft mehr als eine Million Fahrzeuge zurück",
+      "url": "https://www.watson.ch/international/auto/402453971-vw-tochter-skoda-ruft-mehr-als-eine-million-fahrzeuge-zurueck",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Peter Zahner nicht im IIHF-Council – die Dummheit des Schweizer Verbands",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/253279106-peter-zahner-nicht-im-iihf-council-die-dummheit-des-schweizer-verbands",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Quiz: Welcher Spieler lief wie oft für die Schweizer Nati auf",
+      "url": "https://www.watson.ch/quiz/sport/119836331-quiz-welcher-spieler-lief-wie-oft-fuer-die-schweizer-nati-auf",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Putin behauptet, Donbass werde in weniger als anderthalb Jahren erobert",
+      "url": "https://www.watson.ch/international/russland/635191943-putin-behauptet-donbass-werde-in-weniger-als-anderthalb-jahren-erobert",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Lausanne wochenlang ohne Erik Brännström",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-lausanne-wochenlang-ohne-erik-braennstroem",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wasserstand des Lac de Joux fällt auf aussergewöhnliches Tief",
+      "url": "https://www.watson.ch/schweiz/klima/502716435-wasserstand-des-lac-de-joux-faellt-auf-aussergewoehnliches-tief",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "82 Schafe stürzen in Graubünden über Felshang in den Tod",
+      "url": "https://www.watson.ch/schweiz/graubuenden/103837043-82-schafe-stuerzen-in-graubuenden-ueber-felshang-in-den-tod",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das sagt der Freiburger SVP-Nationalrat Nicolas Kolly zu einer Parmelin-Nachfolge",
+      "url": "https://www.freiburger-nachrichten.ch/story/294689/das-sagt-der-freiburger-svpnationalrat-nicolas-kolly-zu-einer-parmelinnachfolge",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ebola-Ausbruch im Kongo: Mehr als 4000 Todesfälle gemeldet",
+      "url": "https://www.freiburger-nachrichten.ch/story/294674/ebolaausbruch-im-kongo-mehr-als-4000-todesf%C3%A4lle-gemeldet",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wahltag der Superlative: Die «Zuger Zeitung» ist am Puls des Geschehens – mit News, Grafiken, Hintergründen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-zeitung-begleitet-den-wahlsonntag-in-zug-art-1725044",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sicherheitslinie überfahren und Unfall verursacht: Das sind die Konsequenzen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/verurteilung-nach-unfall-auf-der-seelisbergstrasse-art-1725043",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Einsamkeit kann krank machen und das Sterberisiko erhöhen»&nbsp;– Veranstaltung zum Tag der älteren Generation",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/einsamkeit-im-alter-anlass-im-zuger-burgbachsaal-art-1725042",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der Super Puma zeigt seine spektakulären Kunststücke über dem Vierwaldstättersee: Das Video zur Flugshow",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/super-puma-ueber-dem-vierwaldstaettersee-die-spektakulaere-flugshow-art-1725041",
+      "summary": "",
+      "published": "2026-10-02T14:33:05.582438+00:00"
     }
   ]
 }
