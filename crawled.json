@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T22:02:38.439770+00:00",
+  "generated": "2026-10-02T22:32:31.272091+00:00",
   "date": "2026-10-03",
-  "count": 5,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -37,6 +37,104 @@
       "url": "https://www.freiburger-nachrichten.ch/story/294452/f%C3%BCnf-kandidierende-eine-stossrichtung",
       "summary": "",
       "published": "2026-10-02T22:02:38.439770+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schülerproteste in Frankreich",
+      "url": "https://www.zentralplus.ch/news/schuelerproteste-in-frankreich-2902239/",
+      "summary": "Mehr als 5000 Menschen sind seit Montag bei den Protesten französischer Schüler festgenommen worden. Dies teilt der französische Innenminister Laurent Nuñez am Freitag im französischen Fernsehsender T",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Warum ein grosszügiger Ausbau der Schwyzer Veloinfrastruktur auch für Autofahrer gut wäre",
+      "url": "https://www.bote.ch/nachrichten/schwyz/warum-ein-grosszuegiger-ausbau-der-schwyzer-veloinfrastruktur-auch-fuer-autofahrer-gut-waere-art-1724958",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vierter Sieg in Folge: Riedter Schützenveteranen bleiben unschlagbar",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/vierter-sieg-in-folge-riedter-schuetzenveteranen-bleiben-unschlagbar-art-1724976",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vier Marathons am Stück: Schwyzer läuft bei Ultrarennen aufs Podest",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/vier-marathons-am-stueck-schwyzer-laeuft-bei-ultrarennen-aufs-podest-art-1724969",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Viel Spiel, Sport und Kreatives für Brunner Kids während der Erlebniswoche",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/viel-spiel-sport-und-kreatives-fuer-brunner-kids-waehrend-der-erlebniswoche-art-1724967",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schluss im «Bacco» – aber noch lange nicht als Gastgeber",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schluss-im-bacco-aber-noch-lange-nicht-als-gastgeber-art-1724815",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Prämienwahnsinn eindämmen",
+      "url": "https://www.bote.ch/service/leserbriefe/praemienwahnsinn-eindaemmen-art-1724960",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Leuchtende Eindrücke in der Dunkelheit",
+      "url": "https://www.bote.ch/nachrichten/schwyz/leuchtende-eindruecke-in-der-dunkelheit-art-1724986",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Illgauer Multisportler überzeugen an Grossanlass im Allgäu",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/illgauer-multisportler-ueberzeugen-an-grossanlass-im-allgaeu-art-1724996",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Erster Ybriger Mais geerntet",
+      "url": "https://www.bote.ch/nachrichten/schwyz/erster-ybriger-mais-geerntet-art-1724988",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bruno Lifart wird neuer Verwaltungsratspräsident der Schuler Areal AG",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bruno-lifart-wird-neuer-verwaltungsratspraesident-der-schuler-areal-ag-art-1724964",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bestellte Gutachten",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bestellte-gutachten-art-1724959",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Paul Omlin entthront den Titelverteidiger und gewinnt das sechste Squash Schwyz Masters</b>",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/bpaul-omlin-entthront-den-titelverteidiger-und-gewinnt-das-sechste-squash-schwyz-mastersb-art-1724971",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "85 Strafminuten: Küssnachter SC schlägt sich selbst und verliert in Wil",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/85-strafminuten-kuessnachter-sc-schlaegt-sich-selbst-und-verliert-in-wil-art-1724965",
+      "summary": "",
+      "published": "2026-10-02T22:32:31.272091+00:00"
     }
   ]
 }
