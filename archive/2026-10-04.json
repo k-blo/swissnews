@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-03T22:32:57.270100+00:00",
+  "generated": "2026-10-03T22:46:25.331702+00:00",
   "date": "2026-10-04",
-  "count": 2,
+  "count": 3,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -16,6 +16,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/294455/die-schwarze-null-kostet-90-millionen-franken",
       "summary": "",
       "published": "2026-10-03T22:32:57.270100+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweizer Politiker wollen Musks Starlink-Pläne stoppen",
+      "url": "https://www.20min.ch/story/grossprojekt-in-leuk-vs-schweizer-politiker-wollen-musks-starlink-plaene-stoppen-103643880",
+      "summary": "Im Walliser Leuk will SpaceX 40 Antennen für Starlink errichten. Politiker aus mehreren Parteien wollen den Bau verhindern.",
+      "published": "2026-10-03T22:46:25.331702+00:00"
     }
   ]
 }
