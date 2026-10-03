@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-03T21:02:48.676913+00:00",
+  "generated": "2026-10-03T21:32:53.482255+00:00",
   "date": "2026-10-03",
-  "count": 575,
+  "count": 580,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4027,6 +4027,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/schweiz-schlaegt-slowenien-21-in-der-nations-league-art-1725183",
       "summary": "",
       "published": "2026-10-03T21:02:48.676913+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "USA-Russland-Gespräche: Wie ein russischer Öl-Deal Trumps Entourage bereichern könnte",
+      "url": "https://www.tagesanzeiger.ch/lukoil-deal-kushner-verhandelt-milliardengeschaeft-mit-kreml-106803289803",
+      "summary": "Die Verhandlungen der USA mit Russland haben neue Dimensionen erreicht: Im Zentrum steht der Verkauf des internationalen Geschäfts des russischen Energiekonzerns Lukoil. Der geplante Multi-Milliarden-",
+      "published": "2026-10-03T21:32:53.482255+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nations League: Spanien besiegt Tschechien 3:1 und bleibt seit 41 Spielen ungeschlagen",
+      "url": "https://www.tagesanzeiger.ch/nations-league-spanien-bleibt-nach-41-spielen-ungeschlagen-750497913513",
+      "summary": "Die Weltmeister feiern in Oviedo den dritten Sieg im dritten Gruppenspiel. Lamine Yamal trifft erneut früh, Rodri und Merino sorgen für die weiteren Tore.",
+      "published": "2026-10-03T21:32:53.482255+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "National League: EHC Kloten geht in Langnau schon nach acht Minuten unter",
+      "url": "https://www.tagesanzeiger.ch/national-league-scl-tigers-schlagen-kloten-6-2-913887681375",
+      "summary": "Schon nach dem ersten Drittel liegen die Zürcher 0:3 zurück – und erholen sich nie mehr davon. Die SCL Tigers schlagen Kloten deutlich mit 6:2.",
+      "published": "2026-10-03T21:32:53.482255+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "3:4-Niederlage nach Verlängerung: Vierte Niederlage in Serie – Lammers Hattrick sorgt für SCB-Frust",
+      "url": "https://www.bernerzeitung.ch/sc-bern-verliert-in-rapperswil-vierte-niederlage-in-folge-662520231013",
+      "summary": "Der SCB kann das Trauma nicht ablegen: In Rapperswil-Jona kassiert Bern die nächste bittere Niederlage. Ein Spieler der Lakers wird dabei zum Berner Albtraum.",
+      "published": "2026-10-03T21:32:53.482255+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Swiss League: Dario Kummer entscheidet das Spitzenspiel in der Verlängerung",
+      "url": "https://www.bazonline.ch/ehc-basel-kummer-trifft-in-verlaengerung-zum-1-0-gegen-visp-723836087932",
+      "summary": "Der EHC Basel setzt seine Siegesserie gegen Visp fort. Nach 60 torlosen Minuten trifft Kummer in der Verlängerung zum Sieg.",
+      "published": "2026-10-03T21:32:53.482255+00:00"
     }
   ]
 }
