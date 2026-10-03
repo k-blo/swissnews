@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-03T01:02:54.299370+00:00",
+  "generated": "2026-10-03T01:32:44.884203+00:00",
   "date": "2026-10-03",
-  "count": 30,
+  "count": 31,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -212,6 +212,13 @@
       "url": "https://www.20min.ch/story/shivon-zilis-liebes-aus-bei-elon-musk-103643378",
       "summary": "Technologie-Managerin Zilis schreibt auf X von einem Abschied ohne Vorwarnung. Sie werde ihn «schrecklich vermissen».",
       "published": "2026-10-03T01:02:54.299370+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Jahrestagsfeier in Botsuana: Botsuana tötet 23 Elefanten für eine Feier – und kontert die weltweite Kritik",
+      "url": "https://www.tagesanzeiger.ch/botsuana-23-elefanten-fuer-unabhaengigkeitsfeier-getoetet-723451319238",
+      "summary": "Tierschützer kritisieren den Entscheid der Regierung scharf. Doch Botsuana verteidigt ihre Kontrolle der mehr als 130’000 Elefanten.",
+      "published": "2026-10-03T01:32:44.884203+00:00"
     }
   ]
 }
