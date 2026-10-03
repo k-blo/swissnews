@@ -1,6 +1,21 @@
 {
-  "generated": "2026-10-03T22:02:41.664136+00:00",
+  "generated": "2026-10-03T22:32:57.270100+00:00",
   "date": "2026-10-04",
-  "count": 0,
-  "articles": []
+  "count": 2,
+  "articles": [
+    {
+      "source": "Basler Zeitung",
+      "title": "Handball: Der RTV Basel sucht noch nach der erhofften Konstanz",
+      "url": "https://www.bazonline.ch/rtv-basel-verliert-32-38-gegen-tabellenfuehrer-kriens-luzern-986260358260",
+      "summary": "Der RTV verliert gegen den ungeschlagenen Tabellenführer Kriens-Luzern 32:38. Nach acht Spielen stehen die Basler bei drei Siegen und fünf Niederlagen – und vorerst ausserhalb der angestrebten Top 6.",
+      "published": "2026-10-03T22:32:57.270100+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die schwarze Null kostet 90 Millionen Franken",
+      "url": "https://www.freiburger-nachrichten.ch/story/294455/die-schwarze-null-kostet-90-millionen-franken",
+      "summary": "",
+      "published": "2026-10-03T22:32:57.270100+00:00"
+    }
+  ]
 }
