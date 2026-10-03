@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-03T23:02:59.139244+00:00",
+  "generated": "2026-10-03T23:32:31.687050+00:00",
   "date": "2026-10-04",
-  "count": 3,
+  "count": 5,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -23,6 +23,20 @@
       "url": "https://www.20min.ch/story/grossprojekt-in-leuk-vs-schweizer-politiker-wollen-musks-starlink-plaene-stoppen-103643880",
       "summary": "Im Walliser Leuk will SpaceX 40 Antennen für Starlink errichten. Politiker aus mehreren Parteien wollen den Bau verhindern.",
       "published": "2026-10-03T22:46:25.331702+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gaza: Tote bei israelischem Luftangriff",
+      "url": "https://www.zentralplus.ch/news/gaza-tote-bei-israelischem-luftangriff-2902341/",
+      "summary": "Bei einem israelischen Luftangriff im Gazastreifen sind nach Angaben palästinensischer Rettungskräfte mindestens fünf Menschen getötet worden. Zudem wurden mehrere Menschen teils schwer verletzt. Der ",
+      "published": "2026-10-03T23:32:31.687050+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Niederlage im Spitzenkampf Ehc Frauenfeld Verliert in Huttwil 03",
+      "url": "https://www.tagblatt.ch/sport/thurgau/niederlage-im-spitzenkampf-ehc-frauenfeld-verliert-in-huttwil-03-ld.4245477",
+      "summary": "",
+      "published": "2026-10-03T23:32:31.687050+00:00"
     }
   ]
 }
