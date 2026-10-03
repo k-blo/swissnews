@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T23:32:28.456872+00:00",
+  "generated": "2026-10-03T00:02:32.258957+00:00",
   "date": "2026-10-03",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -156,6 +156,20 @@
       "url": "https://www.watson.ch/schweiz/reviews/780689195-srf-arena-so-wird-martullo-blocher-in-der-eu-debatte-vorgefuehrt",
       "summary": "",
       "published": "2026-10-02T23:32:28.456872+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trotz Flugverbot im Cockpit von Flydubai: Copilot galt zuvor als Sicherheitsrisiko – wegen radikaler ideologischer Ansichten",
+      "url": "https://www.tagesanzeiger.ch/flydubai-copilot-wurde-zuvor-als-sicherheitsrisiko-eingestuft-783587101023",
+      "summary": "Nach der Gewalttat in einem Cockpit einer Maschine der emiratischen Fluggesellschaft Flydubai ist noch vieles unklar. US-Medien berichten über brisante Infos zum mutmasslichen Angreifer.",
+      "published": "2026-10-03T00:02:32.258957+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kuba: USA stoppen Öl-Lieferung",
+      "url": "https://www.zentralplus.ch/news/kuba-usa-stoppen-oel-lieferung-2902243/",
+      "summary": "Die US-Küstenwache hat nach eigenen Angaben ein Schiff mit einer «illegalen» Treibstofflieferung für Kuba in der Karibik abgefangen. Seit Dezember gilt eine US-Ölblockade gegen den Karibikstaat. Liefe",
+      "published": "2026-10-03T00:02:32.258957+00:00"
     }
   ]
 }
