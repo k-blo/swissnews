@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T02:02:54.792464+00:00",
+  "generated": "2026-10-04T02:29:06.230171+00:00",
   "date": "2026-10-04",
-  "count": 18,
+  "count": 19,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -128,6 +128,13 @@
       "url": "https://www.20min.ch/story/dargebotene-hand-wenn-niemand-antwortet-hilft-neu-ein-ki-bot-103643886",
       "summary": "Die Chat-Beratung der Dargebotenen Hand ist üerlastet und kann nur rund ein Drittel der Anfragen beantworten. Nun soll KI unterstützen.",
       "published": "2026-10-04T02:02:54.792464+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Auch das Weinland und das Rafzerfeld sollen verstärkt auf Langsamverkehr setzen",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-10-04/auch-das-weinland-und-das-rafzerfeld-sollen-verstaerkt-auf",
+      "summary": "Das kantonale Amt für Mobilität hat ein Förderprogramm für Bike-and-Ride-Anlagen lanciert. Dies könnte auch für Gemeinden im Zürcher Norden ein Thema werden.",
+      "published": "2026-10-04T02:29:06.230171+00:00"
     }
   ]
 }
