@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T00:02:21.663080+00:00",
+  "generated": "2026-10-04T00:32:27.070735+00:00",
   "date": "2026-10-04",
-  "count": 8,
+  "count": 13,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -58,6 +58,41 @@
       "url": "https://www.bernerzeitung.ch/brand-in-illnau-effretikon-dachstock-in-vollbrand-546384902676",
       "summary": "In Illnau geriet am Samstagabend der Dachstock eines Mehrfamilienhauses in Flammen. Eine Person wurde leicht verletzt.",
       "published": "2026-10-04T00:02:21.663080+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Köppel erntet nach Putin-Auftritt heftige Kritik",
+      "url": "https://www.20min.ch/story/moskau-koeppel-erntet-nach-putin-auftritt-heftige-kritik-103643882",
+      "summary": "Roger Köppel weist Kritik an seinem Auftritt in Moskau zurück. Gerade im Krieg müsse man alle Seiten anhören.",
+      "published": "2026-10-04T00:32:27.070735+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Grosseinsatz in Illnau ZH: Dachstock eines Mehrfamilienhauses in Vollbrand – acht Personen evakuiert",
+      "url": "https://www.derbund.ch/brand-in-illnau-effretikon-dachstock-in-vollbrand-546384902676",
+      "summary": "In Illnau-Effretikon geriet am Samstagabend ein Haus in Flammen. Eine Person wurde leicht verletzt. Die Brandursache ist unklar.",
+      "published": "2026-10-04T00:32:27.070735+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Referendumsdebatte im Ständerat und wer sie Weshalb Gewann",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/die-referendumsdebatte-im-staenderat-und-wer-sie-weshalb-gewann",
+      "summary": "",
+      "published": "2026-10-04T00:32:27.070735+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Zürich Will Sich Gendermainstreamen Gemeint ist Mehr Geld für Gender Gugus",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/zuerich-will-sich-gendermainstreamen-gemeint-ist-mehr-geld-fuer-gender-gugus",
+      "summary": "",
+      "published": "2026-10-04T00:32:27.070735+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Nach Sandro Brotz wer Wird Neuer Dompteur in der Arena",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/nach-sandro-brotz-wer-wird-neuer-dompteur-in-der-arena",
+      "summary": "",
+      "published": "2026-10-04T00:32:27.070735+00:00"
     }
   ]
 }
