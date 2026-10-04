@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T08:32:56.238000+00:00",
+  "generated": "2026-10-04T09:03:10.224258+00:00",
   "date": "2026-10-04",
-  "count": 178,
+  "count": 192,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -1248,6 +1248,104 @@
       "url": "https://www.infosperber.ch/wirtschaft/landwirtschaft/traditionskaeserei-kuehlt-mit-frisch-gemolkener-milch/",
       "summary": "",
       "published": "2026-10-04T08:32:56.238000+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Regierungswahlen Kanton Zug – Schaffen alle sieben Bisherigen die Wiederwahl?",
+      "url": "https://www.srf.ch/news/schweiz/regierungswahlen-kanton-zug-schaffen-alle-sieben-bisherigen-die-wiederwahl",
+      "summary": "Die Zuger Kantonsregierung ist bürgerlich dominiert. Alternative – die Grünen, SP und Grünliberale greifen an.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Parlamentswahlen Kanton Zug – FDP und SVP wollen die Mitte in vom Thron stossen",
+      "url": "https://www.srf.ch/news/schweiz/parlamentswahlen-kanton-zug-fdp-und-svp-wollen-die-mitte-in-vom-thron-stossen",
+      "summary": "FDP und SVP wollen stärkste Kraft werden im Zuger Kantonsrat. Derzeit ist es die Mitte – aber nur ganz knapp.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "20 Verletzte – Schweizer Familie entkommt Camping-Inferno knapp",
+      "url": "https://www.20min.ch/story/gardasee-20-verletzte-schweizer-familie-entkommt-camping-inferno-knapp-103643973",
+      "summary": "An Italiens grösstem See bricht morgens ein Feuer aus. Betroffen sind zahlreiche Urlauber. Mehrere müssen ins Spital gebracht werden. Inzwischen sind die Flammen unter Kontrolle.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Amateur-Team», «Jogging-Runde»: FCB-Coach nach 3:7 fassungslos",
+      "url": "https://www.20min.ch/story/testspiel-amateur-team-jogging-runde-fcb-coach-nach-37-fassungslos-103643890",
+      "summary": "Der FC Basel geht im Test gegen Winterthur mit 3:7 unter. Trainer Slavisa Jokanovic kritisiert den Auftritt scharf und fordert mehr Einsatz und Mentalität.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweizer Firmen erpresst: Polizei schnappt Hacker-Anführer (16)",
+      "url": "https://www.20min.ch/story/loesegeld-fuer-daten-schweizer-firmen-erpresst-polizei-schnappt-hacker-anfuehrer-16-103643959",
+      "summary": "Bei einer international koordinierten Polizeiaktion gegen die Ransomware-Gruppe wurde auch der jugendliche Anführer verhaftet. Auch mehrere Schweizer Firmen fielen «KillSec» zum Opfer.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Endlich gute Fotos wie mit Samsung? – Das iPhone 18 Pro im Test",
+      "url": "https://www.20min.ch/story/neue-flagship-modelle-endlich-gute-fotos-wie-mit-samsung-das-iphone-18-pro-im-test-103642823",
+      "summary": "Apple setzt bei seinen neuen iPhone-Flaggschiffen vor allem auf neue und verbesserte Kamera-Funktionen. Was sie bringen, liest du hier.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Lesernoten zum Nationalteam: Für den Siegtorschützen gibt es die Bestnote – zwei Starter fallen durch",
+      "url": "https://www.tagesanzeiger.ch/nations-league-dan-ndoye-mit-note-4-9-bester-schweizer-264838425172",
+      "summary": "Mit dem entscheidenden Treffer zum 2:1 sichert Dan Ndoye der Schweiz den dritten Sieg im dritten Nations-League-Spiel. Unsere Leserinnen und Leser würdigen seine starke Leistung.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Feuerinferno: Mehrere Verletzte bei Brand auf Campingplatz am Gardasee",
+      "url": "https://www.tagesanzeiger.ch/brand-am-gardasee-mehr-als-20-verletzte-auf-campingplatz-144485641368",
+      "summary": "Auf einem Fünf-Sterne-Campingplatz in Peschiera del Garda bricht in der Nacht ein Feuer aus. Mehr als 20 Menschen werden verletzt und müssen ins Spital gebracht werden.",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Sinkende Zahl Asylanträge in der EU",
+      "url": "https://www.zentralplus.ch/news/sinkende-zahl-asylantraege-in-der-eu-2902364/",
+      "summary": "Die Zahl der Asylgesuche ist in der Europäischen Union deutlich zurückgegangen. In den ersten neun Monaten dieses Jahres wurden in der EU, Norwegen und der Schweiz rund 450&#8217;000 Asylanträge geste",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Was Ich Noch zu Sagen Hätte Dieter Völlmin",
+      "url": "https://www.bzbasel.ch/basel/baselland/was-ich-noch-zu-sagen-haette-dieter-voellmin-ld.4239840",
+      "summary": "",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Boxen Gabi Balboa Timar Holt Wiba Gürtel und ist Doppel Weltmeisterin",
+      "url": "https://www.bzbasel.ch/sport/basel/boxen-gabi-balboa-timar-holt-wiba-guertel-und-ist-doppel-weltmeisterin-ld.4244969",
+      "summary": "",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Brand bei Baregg Feuerwehr in Baden Stundenlang im Einsatz",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/brand-bei-baregg-feuerwehr-in-baden-stundenlang-im-einsatz-ld.4245492",
+      "summary": "",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frau liefert sich Verfolgungsjagd mit Polizei in Burgdorf",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/366133423-frau-liefert-sich-verfolgungsjagd-mit-polizei-in-burgdorf",
+      "summary": "",
+      "published": "2026-10-04T09:03:10.224258+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Statt Urlaubsparadies, mehr als 22'000 Blitze in der Ägäis",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/statt-urlaubsparadies-mehr-als-22000-blitze-in-der-aegaeis-art-1725199",
+      "summary": "",
+      "published": "2026-10-04T09:03:10.224258+00:00"
     }
   ]
 }
