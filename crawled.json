@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T07:03:09.344049+00:00",
+  "generated": "2026-10-04T07:32:52.428095+00:00",
   "date": "2026-10-04",
-  "count": 135,
+  "count": 146,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -947,6 +947,83 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/sonntagspresse-amoklauf-sexualdelikte-und-ki-art-1725194",
       "summary": "",
       "published": "2026-10-04T07:03:09.344049+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bildkolumne Schnappschuss: Brooklyn Beckham und Nicola Peltz: Zu zweit gegen den Rest des Clans",
+      "url": "https://www.tagesanzeiger.ch/brooklyn-beckham-provoziert-mama-victoria-mit-besuch-in-paris-707817056067",
+      "summary": "Sie reden nicht mehr mit der Familie, tauchen aber wie Untote überall dort auf, wo sich diese befindet. Das haben sich die Peltz-Beckhams von Harry und Meghan abgeguckt.",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Drei- und Vierjährige: Kleine Kinder legen pro Tag 18’000 Schritte zurück",
+      "url": "https://www.tagesanzeiger.ch/sunrise-studie-kleinkinder-gehen-18000-schritte-pro-tag-560288889903",
+      "summary": "In Dutzenden Ländern haben Forschende ausgewertet, wie viele Schritte kleine Kinder am Tag laufen – und der Bewegungsdrang von Drei- und Vierjährigen ist enorm.",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hybrider Krieg: Jetzt sollen AKWs und Banken aufrüsten",
+      "url": "https://www.zentralplus.ch/news/hybrider-krieg-jetzt-sollen-akws-und-banken-aufruesten-2902349/",
+      "summary": "Hacker, Terroristen und Drohnen könnten zentrale Infrastrukturen der Schweiz ins Visier nehmen. Eine Zuger Nationalrätin fordert deshalb verbindliche Schutzmassnahmen für Betreiber. Die Schweiz soll k",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wo die ETH an Chips und Halbleitern der Zukunft tüftelt",
+      "url": "https://www.netzwoche.ch/news/2026-10-04/wo-die-eth-an-chips-und-halbleitern-der-zukunft-tueftelt",
+      "summary": "Ob Biotechnologie, Ingenieurwesen oder moderne Physik: Viele wissenschaftliche Durchbrüche beginnen im Reinraum. In Basel und Zürich stehen ETH-Forschenden hoch spezialisierte Infrastrukturen zur Verf",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "So will Dogsy den Hundealltag in einer Plattform bündeln",
+      "url": "https://www.netzwoche.ch/news/2026-10-04/so-will-dogsy-den-hundealltag-in-einer-plattform-buendeln",
+      "summary": "Eine Hundesalon-Gründerin und ein IT-Unternehmer aus der Ostschweiz bauen gemeinsam eine Plattform für den Hundealltag. Dogsy verbindet Betreuung, Gesundheitsdaten und Warnmeldungen für Hundebesitzer.",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Leandro Peraro Trifft Erstligist Unihockey Limmattal Gewinnt Gegen Epalinges",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/leandro-peraro-trifft-erstligist-unihockey-limmattal-gewinnt-gegen-epalinges-ld.4245297",
+      "summary": "",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zug 94 Verpasst Punkte im Ersten Spiel nach Piserchia Trennung",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zug-94-verpasst-punkte-im-ersten-spiel-nach-piserchia-trennung-ld.4245435",
+      "summary": "",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der Schweizer Konsens bringt die Finanzierung der 13. AHV Rente voran",
+      "url": "https://www.watson.ch/schweiz/blogs/811415209-der-schweizer-konsens-bringt-die-finanzierung-der-13-ahv-rente-voran",
+      "summary": "",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "NDB warnt vor chinesischen Tech-Konzernen – Lenovo im Fokus",
+      "url": "https://www.watson.ch/schweiz/digital/181115991-ndb-warnt-vor-chinesischen-tech-konzernen-lenovo-im-fokus",
+      "summary": "",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Yakin über Manzambi: «Die Schiedsrichter sollten ihn schützen»",
+      "url": "https://www.watson.ch/sport/fussball/443068125-yakin-ueber-manzambi-die-schiedsrichter-sollten-ihn-schuetzen",
+      "summary": "",
+      "published": "2026-10-04T07:32:52.428095+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zug 94 überzeugt – und steht am Ende doch wieder ohne Punkte da",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zug-94-verpasst-punkte-im-ersten-spiel-nach-piserchia-trennung-art-1725196",
+      "summary": "",
+      "published": "2026-10-04T07:32:52.428095+00:00"
     }
   ]
 }
