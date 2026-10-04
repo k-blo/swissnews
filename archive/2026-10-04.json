@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T04:02:36.844882+00:00",
+  "generated": "2026-10-04T04:32:53.538717+00:00",
   "date": "2026-10-04",
-  "count": 87,
+  "count": 89,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -611,6 +611,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/294889/sexfantasien-wovon-frauen-heimlich-tr%C3%A4umen%C2%A0-gillian-anderson-weiss-es",
       "summary": "",
       "published": "2026-10-04T04:02:36.844882+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Merz zu Solidaritätsbesuch in der Ukraine",
+      "url": "https://www.watson.ch/international/deutschland/710468766-merz-zu-solidaritaetsbesuch-in-der-ukraine",
+      "summary": "",
+      "published": "2026-10-04T04:32:53.538717+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Frechheit: Warum sind Mocktails so teuer?",
+      "url": "https://www.freiburger-nachrichten.ch/story/294912/frechheit-warum-sind-mocktails-so-teuer",
+      "summary": "",
+      "published": "2026-10-04T04:32:53.538717+00:00"
     }
   ]
 }
