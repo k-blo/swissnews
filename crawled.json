@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T00:32:27.070735+00:00",
+  "generated": "2026-10-04T01:03:24.944384+00:00",
   "date": "2026-10-04",
-  "count": 13,
+  "count": 15,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -93,6 +93,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/nach-sandro-brotz-wer-wird-neuer-dompteur-in-der-arena",
       "summary": "",
       "published": "2026-10-04T00:32:27.070735+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Millionenverlust bei Swiss Steel - Stellenabbau angekündigt",
+      "url": "https://www.20min.ch/story/krise-bei-stahlkonzern-millionenverlust-bei-swiss-steel-stellenabbau-angekuendigt-103643884",
+      "summary": "Swiss Steel schrieb 2025 einen Verlust von 311 Millionen Euro. Nun plant der Stahlkonzern eine weitere Bilanzsanierung und wird in Deutschland Stellen abbauen.",
+      "published": "2026-10-04T01:03:24.944384+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "D: Stellenabbau bei Swiss Steel",
+      "url": "https://www.zentralplus.ch/news/d-stellenabbau-bei-swiss-steel-2902343/",
+      "summary": "Der Stahlkonzern Swiss Steel hat angesichts hoher Verluste eine weitere Sanierung angekündigt. Diese betrifft die Standorte in Deutschland. Konkrete Zahlen zum geplanten Abbau nannte Konzernchef Frank",
+      "published": "2026-10-04T01:03:24.944384+00:00"
     }
   ]
 }
