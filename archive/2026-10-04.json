@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T20:33:23.706352+00:00",
+  "generated": "2026-10-04T21:02:39.990489+00:00",
   "date": "2026-10-04",
-  "count": 586,
+  "count": 598,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -4104,6 +4104,90 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/kirchen-kulturpreis-2026-fuer-drei-luzerner-kirchen-art-1725302",
       "summary": "",
       "published": "2026-10-04T20:33:23.706352+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wahlen in Bosnien-Herzegowina: Nationalisten behaupten ihre Macht – Wahlbeteiligung fällt auf Rekordtief",
+      "url": "https://www.tagesanzeiger.ch/bosnien-herzegowina-nationalisten-dominieren-wahlen-663996318042",
+      "summary": "Bei den Wahlen in Bosnien-Herzegowina gingen nur rund 42 Prozent der Stimmberechtigten an die Urne. Nationalistische Parteien bleiben in dem tief gespaltenen Land politisch bestimmend.",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nations League: Deutschland scheitert erneut am griechischen Bollwerk",
+      "url": "https://www.tagesanzeiger.ch/nations-league-deutschland-kommt-in-thessaloniki-nicht-ueber-0-0-hinaus-735322265511",
+      "summary": "Das Rückspiel in Thessaloniki ähnelt dem 0:1 in Augsburg. Deutschland rennt unermüdlich an, die Griechen verteidigen im tiefen Block das 0:0 bis zum Schluss.",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nations League: Deutschland spielt in Griechenland nur unentschieden",
+      "url": "https://www.nzz.ch/sport/nations-league-deutschland-spielt-in-griechenland-nur-unentschieden-ld.10026719",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "EHC Schaffhausen: Niederlage nach Aufholjagd in Flims",
+      "url": "https://www.shn.ch/sport/regio-sport/2026-10-04/ehc-schaffhausen-niederlage-nach-aufholjagd-in-flims",
+      "summary": "Nach dem Sieg zum Saisonauftakt gegen Arosa verlor der EHC Schaffhausen in Flims.",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Sarnen Plant Neue Koordinationsstelle für Gesundheit und Soziales",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/sarnen-plant-neue-koordinationsstelle-fuer-gesundheit-und-soziales-ld.4244785",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Academia Engelberg Tagung zu Netzwerken am 22 Oktober",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/academia-engelberg-tagung-zu-netzwerken-am-22-oktober-ld.4245108",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Urner Regierungsrat Empfängt Armeechef Benedikt Roos",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/urner-regierungsrat-empfaengt-armeechef-benedikt-roos-ld.4244679",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nationalisten bleiben nach Bosnien-Wahlen stark – kaum Veränderungen",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/159761552-nationalisten-bleiben-nach-bosnien-wahlen-stark-kaum-veraenderungen",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Deutlicher Heimsieg für den FC Ueberstorf",
+      "url": "https://www.freiburger-nachrichten.ch/story/295066/deutlicher-heimsieg-f%C3%BCr-den-fc-ueberstorf",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Koordinationsstelle Gesundheit und Soziales soll Senioren unterstützen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/sarnen-plant-neue-koordinationsstelle-fuer-gesundheit-und-soziales-art-1725340",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Antrittsbesuch des Chefs der Armee im Kanton Uri",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/urner-regierungsrat-empfaengt-armeechef-benedikt-roos-art-1725335",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Engelberger Dialoge» beschäftigen sich mit Netzwerken",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/academia-engelberg-tagung-zu-netzwerken-am-22-oktober-art-1725334",
+      "summary": "",
+      "published": "2026-10-04T21:02:39.990489+00:00"
     }
   ]
 }
