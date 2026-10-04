@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T14:32:34.041557+00:00",
+  "generated": "2026-10-04T15:03:15.208544+00:00",
   "date": "2026-10-04",
-  "count": 377,
+  "count": 403,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -2641,6 +2641,188 @@
       "url": "https://www.bote.ch/nachrichten/sport/boxen-gabi-balboa-timar-holt-wiba-guertel-und-ist-doppel-weltmeisterin-art-1725214",
       "summary": "",
       "published": "2026-10-04T14:32:34.041557+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Parlamentswahlen Kanton Zug – SVP wird neu stärkste Kraft im Zuger Kantonsrat",
+      "url": "https://www.srf.ch/news/schweiz/parlamentswahlen-kanton-zug-svp-wird-neu-staerkste-kraft-im-zuger-kantonsrat",
+      "summary": "Die SVP hat die Mitte überholt und hat neu 20 Sitze im 80-köpfigen Parlament. Linksgrün und GLP halten ihre Mandate.",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Darum steigen die Prämien so stark",
+      "url": "https://www.blick.ch/schweiz/teure-medikamente-als-wesentlicher-faktor-fuer-praemienschub/kskkr78",
+      "summary": "Die stets teureren Medikamente verstärken den Kostenschub bei den Krankenkassenprämien. Wegen Zugeständnissen der Pharmaindustrie in den USA drohen weitere Preiserhöhungen.",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mann bedroht Polizisten – Taser-Einsatz stoppt ihn",
+      "url": "https://www.20min.ch/story/rueeggisberg-be-mann-bedroht-polizisten-taser-einsatz-stoppt-ihn-103644258",
+      "summary": "Die Kantonspolizei Bern rückt am Sonntagmorgen nach Oberbütschel aus. Ein renitenter Mann wird mit einem Destabilisierungsgerät angehalten.",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flugausfälle und Verspätungen: Ukrainische Drohnen bringen russischen Flugverkehr durcheinander",
+      "url": "https://www.tagesanzeiger.ch/russland-ukraine-drohnen-bringen-flugverkehr-durcheinander-329648756486",
+      "summary": "Die Ukrainer machen russischen Flughäfen und Passagieren zunehmend zu schaffen – auch weil ihre Drohnen immer weiter fliegen können.",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Das I-Wort: «Bitte, sog’ ned Indianer»",
+      "url": "https://www.tagesanzeiger.ch/darf-man-noch-indianer-sagen-180052711077",
+      "summary": "Gibt es Begriffe, die an sich «böse» sind? Oder hängt der moralische Wert vom Kontext ab? Der Publizist Mathias Brodkorb analysiert in seinem neuen Buch das Dickicht unseres Kulturkampfs um die Sprach",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Reportage aus Berlin: Links, linker, Neukölln: Zeit, mal hinter die Vorwürfe und Klischees zu schauen",
+      "url": "https://www.tagesanzeiger.ch/berlin-links-linker-neukoelln-219923671760",
+      "summary": "Seit ihrem Wahlsieg in Berlin hört man über die Linke nur das Schlechteste: Sie seien Antisemiten und Extremisten, vor allem in Neukölln. Gespräche zeigen, warum die Linke gewählt wurde.",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verkehr in Horgen: Horgen kämpft weiter für die Priorisierung des Hirzeltunnels",
+      "url": "https://www.tagesanzeiger.ch/hirzeltunnel-horgen-fordert-aufnahme-ins-bundesprogramm-893628711250",
+      "summary": "Der Bundesrat will den Hirzeltunnel frühestens nach 2055 bauen. Die Gemeinde Horgen fordert in einer Stellungnahme, das Projekt bis 2045 umzusetzen.",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Schweizer Superstars im Interview: «Ich will einfach mit meinem Bruder Gitarre spielen, bis wir alt sind»",
+      "url": "https://www.bernerzeitung.ch/hermanos-gutierrez-anden-reise-inspirierte-das-neue-album-670354820971",
+      "summary": "Zwei Gitarren, kein Gesang und viel Latin-Melancholie: Hermanos Gutiérrez haben die USA erobert, begeistern Stars wie Brad Pitt. Wie geht das Brüderpaar aus Zofingen mit diesem enormen Erfolg um?",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Äthiopische Truppen erobern Mekele: Der Kampf um die Region Tigray eskaliert",
+      "url": "https://www.nzz.ch/international/aethiopische-truppen-erobern-mekele-der-kampf-um-die-region-tigray-eskaliert-ld.10026686",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Bundesrat Parmelin eröffnet neues Studio",
+      "url": "https://www.persoenlich.com/medien/bundesrat-parmelin-eroffnet-neues-studio",
+      "summary": "Das Bieler Lokalfernsehen hat am Samstag mit Prominenz aus der Politik die neuen Räumlichkeiten eingeweiht. Der Betrieb wird unter dem Namen TB2 weitergeführt.",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Die Trockenheit am Untersee in Bildern",
+      "url": "https://www.luzernerzeitung.ch/bildergalerien/die-trockenheit-am-untersee-in-bildern-ld.4245585",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Pilz Quiz wie Gut Kennen sie Sich Wirklich aus",
+      "url": "https://www.aargauerzeitung.ch/kultur/aargau/pilz-quiz-wie-gut-kennen-sie-sich-wirklich-aus-ld.4218981",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Umfrage nach Amoklauf in Aarau 80 Prozent für Psychotests vor dem Waffenkauf",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/umfrage-nach-amoklauf-in-aarau-80-prozent-fuer-psychotests-vor-dem-waffenkauf-ld.4245510",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargauer Wein 2026 Markus Fuchs Erwartet Vielversprechenden Jahrgang",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/aargauer-wein-2026-markus-fuchs-erwartet-vielversprechenden-jahrgang-ld.4242773",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Trockenheit und Schädling Setzen den Thurgauer Rüben zu",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/trockenheit-und-schaedling-setzen-den-thurgauer-rueben-zu-ld.4243982",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Nach Gold bei Worldskills Balterswil Feiert Sandro Amrhein",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/nach-gold-bei-worldskills-balterswil-feiert-sandro-amrhein-ld.4245310",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Neuer Trachtenladen in Berg Soll die Tradition Erhalten",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/neuer-trachtenladen-in-berg-soll-die-tradition-erhalten-ld.4245315",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Wahlen 2026 die Gewählten im Kantonsrat",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-wahlen-2026-die-gewaehlten-im-kantonsrat-ld.4245656",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Wahlen Kantonsrat Zug 2026 Resultate Aller Kandidaten",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/wahlen-kantonsrat-zug-2026-resultate-aller-kandidaten-ld.4226320",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Wahlen 2026 Kantonsrat Überblick in Grafiken",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-wahlen-2026-kantonsrat-ueberblick-in-grafiken-ld.4229703",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Wahlen 2026 die Gewählten im Gemeinderat Oberägeri",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-wahlen-2026-die-gewaehlten-im-gemeinderat-oberaegeri-ld.4245640",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Aliens kommen?! Selbstverbessernde KI und unsere womöglich letzte Chance",
+      "url": "https://www.watson.ch/wissen/digital/999767753-aliens-kommen-selbstverbessernde-ki-und-unsere-womoeglich-letzte-chance",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Barcelona und Katalonien nach Unwettern unter Wasser – mindestens 3 Tote",
+      "url": "https://www.watson.ch/international/spanien/368031541-barcelona-und-katalonien-nach-unwettern-unter-wasser-mindestens-3-tote",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Novak Djokovic schlägt Zverev in Peking",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-novak-djokovic-schlaegt-zverev-in-peking",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kantonsrat: Diese Kandidierenden sind gewählt, diese nicht (mehr)",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/wahlen-kantonsrat-zug-2026-resultate-aller-kandidaten-art-1725222",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kantonsrat: Überblick in Grafiken – Parteistärke, Sitzverteilung, Wahlbeteiligung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-wahlen-2026-kantonsrat-ueberblick-in-grafiken-art-1725221",
+      "summary": "",
+      "published": "2026-10-04T15:03:15.208544+00:00"
     }
   ]
 }
