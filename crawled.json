@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T01:32:29.088527+00:00",
+  "generated": "2026-10-04T02:02:54.792464+00:00",
   "date": "2026-10-04",
-  "count": 17,
+  "count": 18,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -121,6 +121,13 @@
       "url": "https://www.nzz.ch/sport/fussball/die-schweizer-fussballer-muessen-gegen-slowenien-mehr-leiden-als-zuletzt-und-ein-aufsteiger-dieses-herbsts-tut-sich-schwer-ld.10026677",
       "summary": "",
       "published": "2026-10-04T01:32:29.088527+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wenn niemand antwortet, hilft neu ein KI-Bot",
+      "url": "https://www.20min.ch/story/dargebotene-hand-wenn-niemand-antwortet-hilft-neu-ein-ki-bot-103643886",
+      "summary": "Die Chat-Beratung der Dargebotenen Hand ist üerlastet und kann nur rund ein Drittel der Anfragen beantworten. Nun soll KI unterstützen.",
+      "published": "2026-10-04T02:02:54.792464+00:00"
     }
   ]
 }
