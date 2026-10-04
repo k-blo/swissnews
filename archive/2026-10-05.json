@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T23:02:39.149445+00:00",
+  "generated": "2026-10-04T23:32:34.347218+00:00",
   "date": "2026-10-05",
-  "count": 17,
+  "count": 19,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -121,6 +121,20 @@
       "url": "https://www.20min.ch/story/italien-forscher-entdecken-zweiten-gardasee-bei-venedig-103644390",
       "summary": "Das riesige, unterirdische Wasserreservoir sorgt wegen der anhaltenden Trockenheit für Euphorie. Doch Fachleute warnen davor, das «blaue Gold» vorschnell abzupumpen.",
       "published": "2026-10-04T23:02:39.149445+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "GB: USA ziehen Bomber von Stützpunkt ab",
+      "url": "https://www.zentralplus.ch/news/gb-usa-ziehen-bomber-von-stuetzpunkt-ab-2902577/",
+      "summary": "Die USA haben alle ihre Langstreckenbomber vom Luftwaffenstützpunkt Fairford in Grossbritannien abgezogen. Die Bomber waren dort seit März stationiert und sollten den USA mehr Flexibilität im Krieg ge",
+      "published": "2026-10-04T23:32:34.347218+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Babler gibt Vizekanzlerschaft ab",
+      "url": "https://www.zentralplus.ch/news/babler-gibt-vizekanzlerschaft-ab-2902575/",
+      "summary": "Österreichs Vizekanzler Andreas Babler tritt in den kommenden Monaten als Vizekanzler und auch als Parteipräsident der Sozialdemokraten zurück. Der 53-Jährige steht parteiintern wegen schlechter Umfra",
+      "published": "2026-10-04T23:32:34.347218+00:00"
     }
   ]
 }
