@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T16:02:58.213997+00:00",
+  "generated": "2026-10-04T16:32:39.791727+00:00",
   "date": "2026-10-04",
-  "count": 457,
+  "count": 469,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -3201,6 +3201,90 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-wahlen-2026-so-hat-die-gemeinde-baar-gewaehlt-art-1725231",
       "summary": "",
       "published": "2026-10-04T16:02:58.213997+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Steigende Gesundheitskosten – Die Community schlägt Lösungen vor – Experten antworten",
+      "url": "https://www.srf.ch/news/dialog/steigende-gesundheitskosten-die-community-schlaegt-loesungen-vor-experten-antworten",
+      "summary": "Unsere User haben Vorschläge gemacht, was gegen die stetig steigenden Prämien zu tun wäre. Drei Expertinnen antworten.",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "In Frankreich bleiben Schulen zu",
+      "url": "https://www.zentralplus.ch/news/in-frankreich-bleiben-schulen-zu-2902494/",
+      "summary": "In Frankreich bleiben am Montag zahlreiche Schulen geschlossen. Grund dafür sind die gewaltsamen Proteste der vergangenen Tage, wie Bildungsminister Édouard Geffray in einem Radiointerview sagte. An 4",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Kantersieg gegen Stäfa: Kadetten erledigen ihre Pflichtaufgabe souverän",
+      "url": "https://www.shn.ch/sport/handball/2026-10-04/kantersieg-gegen-staefa-kadetten-erledigen-ihre-pflichtaufgabe-souveraen",
+      "summary": "Zwischen zwei Europacup-Abenden lassen die Kadetten Schaffhausen gegen das punktlose Schlusslicht Handball Stäfa nichts anbrennen. Beim 45:34-Heimsieg in der BBC-Arena verteilen sie die Verantwortung ",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Baden Erster Street Art Jam in der Alten Schmiede",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/baden-erster-street-art-jam-in-der-alten-schmiede-ld.4244922",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Glashütten Zwei Junge Motorradfahrer Schwer Verletzt",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/glashuetten-zwei-junge-motorradfahrer-schwer-verletzt-ld.4245646",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Wahlen 2026 Alle Gemeinderäte im Bild",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-wahlen-2026-alle-gemeinderaete-im-bild-ld.4245602",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Wahlen 2026 So Hat die Gemeinde Risch Gewählt",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-wahlen-2026-so-hat-die-gemeinde-risch-gewaehlt-ld.4239626",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Software-Farce in Formel 1 sorgt bei Hamilton und Verstappen für Ärger",
+      "url": "https://www.watson.ch/sport/formel-1/290639362-software-farce-in-formel-1-sorgt-bei-hamilton-und-verstappen-fuer-aerger",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Rituals lanciert Spa-Kollektion für den Hund – doch das sorgt für Kritik",
+      "url": "https://www.watson.ch/leben/konsum/521193886-rituals-lanciert-spa-kollektion-fuer-den-hund-doch-das-sorgt-fuer-kritik",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Alle Gemeinderäte im Bild",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-wahlen-2026-alle-gemeinderaete-im-bild-art-1725240",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Enttäuschung bei der Rischer SVP&nbsp;– die wählerstärkste Partei fliegt aus dem Gemeinderat",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-wahlen-2026-so-hat-die-gemeinde-risch-gewaehlt-art-1725239",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nachwuchs des Küssnachter SC sorgt für viel Action in der Rigihalle",
+      "url": "https://www.bote.ch/nachrichten/schwyz/nachwuchs-des-kuessnachter-sc-sorgt-fuer-viel-action-in-der-rigihalle-art-1725238",
+      "summary": "",
+      "published": "2026-10-04T16:32:39.791727+00:00"
     }
   ]
 }
