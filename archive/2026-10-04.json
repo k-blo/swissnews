@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-04T01:03:24.944384+00:00",
+  "generated": "2026-10-04T01:32:29.088527+00:00",
   "date": "2026-10-04",
-  "count": 15,
+  "count": 17,
   "articles": [
     {
       "source": "Basler Zeitung",
@@ -107,6 +107,20 @@
       "url": "https://www.zentralplus.ch/news/d-stellenabbau-bei-swiss-steel-2902343/",
       "summary": "Der Stahlkonzern Swiss Steel hat angesichts hoher Verluste eine weitere Sanierung angekündigt. Diese betrifft die Standorte in Deutschland. Konkrete Zahlen zum geplanten Abbau nannte Konzernchef Frank",
       "published": "2026-10-04T01:03:24.944384+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "ZH: Person verletzt sich bei Brand",
+      "url": "https://www.zentralplus.ch/news/zh-person-verletzt-sich-bei-brand-2902345/",
+      "summary": "Am Samstagabend ist bei einem Brand eines Mehrfamilienhauses in Illnau-Effretikon/ZH eine Person leicht verletzt worden. Acht Personen mussten zudem evakuiert werden, teilt die Kantonspolizei Zürich m",
+      "published": "2026-10-04T01:32:29.088527+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Schweizer Fussballer müssen gegen Slowenien mehr leiden als zuletzt, und ein Aufsteiger dieses Herbsts tut sich schwer",
+      "url": "https://www.nzz.ch/sport/fussball/die-schweizer-fussballer-muessen-gegen-slowenien-mehr-leiden-als-zuletzt-und-ein-aufsteiger-dieses-herbsts-tut-sich-schwer-ld.10026677",
+      "summary": "",
+      "published": "2026-10-04T01:32:29.088527+00:00"
     }
   ]
 }
