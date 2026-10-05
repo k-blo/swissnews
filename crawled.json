@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T04:32:23.285223+00:00",
+  "generated": "2026-10-05T05:02:24.406522+00:00",
   "date": "2026-10-05",
-  "count": 162,
+  "count": 168,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1136,6 +1136,48 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/kriens-parkbad-verzeichnet-sommerrekord-mit-100000-eintritten-art-1725353",
       "summary": "",
       "published": "2026-10-05T04:32:23.285223+00:00"
+    },
+    {
+      "source": "Republik",
+      "title": "Skalierbare Überwachung",
+      "url": "https://www.republik.ch/2026/10/05/skalierbare-ueberwachung",
+      "summary": "",
+      "published": "2026-10-05T05:02:24.406522+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Jugendliche Imitieren Würgespiele Schwyz Reagiert",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/jugendliche-imitieren-wuergespiele-schwyz-reagiert-ld.4245754",
+      "summary": "",
+      "published": "2026-10-05T05:02:24.406522+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Ibach Mann Flieht auf Elektroroller vor der Polizei",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/ibach-mann-flieht-auf-elektroroller-vor-der-polizei-ld.4245752",
+      "summary": "",
+      "published": "2026-10-05T05:02:24.406522+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Rheintal der Biber Wird zum Problem",
+      "url": "https://www.tagblatt.ch/ostschweiz/rheintal/rheintal-der-biber-wird-zum-problem-ld.4245753",
+      "summary": "",
+      "published": "2026-10-05T05:02:24.406522+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Skirennfahrerin Stefanie Grob Will nach dem Durchbruch Weiter nach Oben",
+      "url": "https://www.tagblatt.ch/sport/ostschweiz/skirennfahrerin-stefanie-grob-will-nach-dem-durchbruch-weiter-nach-oben-ld.4245751",
+      "summary": "",
+      "published": "2026-10-05T05:02:24.406522+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cristiano-Ronaldo-Drama: Jorge Jesus lässt Tür für eine Rückkehr offen",
+      "url": "https://www.watson.ch/sport/cristiano-ronaldo/620282367-cristiano-ronaldo-drama-jorge-jesus-laesst-tuer-fuer-eine-rueckkehr-offen",
+      "summary": "",
+      "published": "2026-10-05T05:02:24.406522+00:00"
     }
   ]
 }
