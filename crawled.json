@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T20:32:32.248071+00:00",
+  "generated": "2026-10-05T20:36:09.019934+00:00",
   "date": "2026-10-05",
-  "count": 863,
+  "count": 864,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6043,6 +6043,13 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/wohnungsnot-spanische-gewerkschaften-kuendigen-generalstreik-an-art-1725478",
       "summary": "",
       "published": "2026-10-05T20:32:32.248071+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Enthüllungen der Medien: Co-Pilot der Flydubai-Maschine wollte offenbar Tel Aviver Flughafen treffen",
+      "url": "https://www.tagesanzeiger.ch/flydubai-copilot-ziel-war-flughafen-ben-gurion-448137919738",
+      "summary": "Was war das Ziel des mutmasslichen Angreifers beim Flydubai-Flug nach Israel? Die Ermittlungen dazu laufen noch, doch nun sickern Informationen an die Öffentlichkeit.",
+      "published": "2026-10-05T20:36:09.019934+00:00"
     }
   ]
 }
