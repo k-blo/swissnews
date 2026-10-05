@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T00:32:33.559153+00:00",
+  "generated": "2026-10-05T01:02:47.685295+00:00",
   "date": "2026-10-05",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,13 @@
       "url": "https://www.watson.ch/international/brasilien/898730302-wahl-in-brasilien-bolsonaro-sohn-liegt-vorlaeufig-vorn",
       "summary": "",
       "published": "2026-10-05T00:32:33.559153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Präsidentenwahl in Brasilien: Bolsonaro und Lula verpassen absolute Mehrheit – nun kommts zur Stichwahl",
+      "url": "https://www.tagesanzeiger.ch/praesidentenwahl-in-brasilien-es-kommt-zur-stichwahl-zwischen-lula-und-bolsonaro-243838255650",
+      "summary": "Weder Flávio Bolsonaro noch Luiz Inácio Lula da Silva erreichten 50 Prozent der Stimmen. Die Stichwahl findet am 25. Oktober statt.",
+      "published": "2026-10-05T01:02:47.685295+00:00"
     }
   ]
 }
