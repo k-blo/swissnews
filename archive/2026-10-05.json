@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T08:30:32.312051+00:00",
+  "generated": "2026-10-05T08:33:53.092688+00:00",
   "date": "2026-10-05",
-  "count": 289,
+  "count": 290,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2025,6 +2025,13 @@
       "url": "https://www.infosperber.ch/gesellschaft/kultur/blinder-fleck-im-kunsthaus-zuerich/",
       "summary": "",
       "published": "2026-10-05T08:30:32.312051+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Epstein-Skandal: Ex-Prinz Andrew geht gegen Polizei vor",
+      "url": "https://www.watson.ch/international/grossbritannien/114341080-epstein-skandal-ex-prinz-andrew-geht-gegen-polizei-vor",
+      "summary": "",
+      "published": "2026-10-05T08:33:53.092688+00:00"
     }
   ]
 }
