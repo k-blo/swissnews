@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T18:39:11.298989+00:00",
+  "generated": "2026-10-05T18:42:18.316510+00:00",
   "date": "2026-10-05",
-  "count": 832,
+  "count": 836,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5826,6 +5826,34 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/im-microsoft-streit-erzielt-josef-ender-erzielt-teilerfolg-art-1725436",
       "summary": "",
       "published": "2026-10-05T18:39:11.298989+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Walliser Polizei warnt vor Überschwappen von Schülerprotesten",
+      "url": "https://www.20min.ch/story/bewegung-aus-frankreich-walliser-polizei-warnt-vor-ueberschwappen-von-schuelerprotesten-103644792",
+      "summary": "Die Walliser Polizei hat am Wochenende auf Social Media Schülerinnen und Schüler davor gewarnt, nicht zu Schulblockaden aufzurufen. Kritiker sagen, die Polizei erfinde eine Bedrohung, wo keine ist.",
+      "published": "2026-10-05T18:42:18.316510+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Streit mit Nachbarn: Stahl-Erbe legt 25-Millionen-Chalets auf Eis",
+      "url": "https://www.20min.ch/story/luxuschalet-in-gstaad-stahl-erbe-aristrain-legt-25-mio-projekt-auf-eis-103644476",
+      "summary": "Die Familie Aristrain legt Pläne für Luxuschalets auf zwei Grundstücken im Gstaader Oberbort wegen Gegenwehr auf Eis. Auch in anderen Fragen sieht sich José María Aristrain mit Herausforderungen konfr",
+      "published": "2026-10-05T18:42:18.316510+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "US-Medien: Trumps frühere Pressesprecherin Karoline Leavitt wechselt zu Fox News",
+      "url": "https://www.tagesanzeiger.ch/karoline-leavitt-wechselt-als-kommentatorin-zu-fox-news-463417093327",
+      "summary": "Die 29-Jährige wird ab November als Kommentatorin auf Trumps Lieblingssender auftreten. Leavitt war im August als jüngste Pressesprecherin des Weissen Hauses zurückgetreten.",
+      "published": "2026-10-05T18:42:18.316510+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Im Video Angehörige von Cold Case Bad Ragaz Atmen auf",
+      "url": "https://www.tagblatt.ch/ostschweiz/rheintal/im-video-angehoerige-von-cold-case-bad-ragaz-atmen-auf-ld.4246355",
+      "summary": "",
+      "published": "2026-10-05T18:42:18.316510+00:00"
     }
   ]
 }
