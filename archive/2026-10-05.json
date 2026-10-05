@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T01:32:41.188465+00:00",
+  "generated": "2026-10-05T02:02:52.989934+00:00",
   "date": "2026-10-05",
-  "count": 26,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,20 @@
       "url": "https://www.watson.ch/sport/eismeister-zaugg/490026802-in-langnau-steckt-am-meisten-fc-thun",
       "summary": "",
       "published": "2026-10-05T01:32:41.188465+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Polizei räumt Migrantenlager in Ceuta",
+      "url": "https://www.zentralplus.ch/news/polizei-raeumt-migrantenlager-in-ceuta-2902579/",
+      "summary": "Die Polizei hat in der spanischen Exklave Ceuta damit begonnen, ein grosse Migrantenlager mit rund 3000 Menschen an einem Strand zu räumen – kurz vor dem Besuch des spanischen Königspaars in Ceuta. Di",
+      "published": "2026-10-05T02:02:52.989934+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Augenzeuge von Flydubai-Drama: «Im Cockpit war niemand»",
+      "url": "https://www.watson.ch/international/israel/687860501-augenzeuge-von-flydubai-drama-im-cockpit-war-niemand",
+      "summary": "",
+      "published": "2026-10-05T02:02:52.989934+00:00"
     }
   ]
 }
