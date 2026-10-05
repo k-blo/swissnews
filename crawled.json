@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T13:17:57.499863+00:00",
+  "generated": "2026-10-05T13:32:42.269892+00:00",
   "date": "2026-10-05",
-  "count": 561,
+  "count": 575,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3929,6 +3929,104 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/felssturz-im-schaechental-landrat-fordert-auskunft-art-1725413",
       "summary": "",
       "published": "2026-10-05T13:17:57.499863+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bootsunglück im Kongo: Mindestens 30 Menschen bei Kollision zweier Boote getötet",
+      "url": "https://www.tagesanzeiger.ch/bootsunglueck-auf-dem-kongo-mindestens-30-tote-558381428506",
+      "summary": "Nahe der Ortschaft Ngombe-Lukolela sind am Sonntagabend zwei motorisierte Holzboote zusammengestossen. Dutzende weitere Passagiere werden noch vermisst.",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Tausende Schweizer Rechner sind ungeschützt",
+      "url": "https://www.persoenlich.com/digital/tausende-schweizer-rechner-sind-ungeschutzt",
+      "summary": "Bei jedem vierten Windows-Fernzugang gelangen Angreifer ohne Hürde bis zum Anmeldebildschirm, wie eine Firma aus Österreich ermittelt hat. Im Vergleich mit dem Nachbarland schneidet das Land schlechte",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Architekturbüro erhält variables Logo",
+      "url": "https://www.persoenlich.com/prcorporate-communication/architekturburo-erhalt-variables-logo",
+      "summary": "Die Agentur hat die Positionierung von Egloff Wörwag Architects aus St. Gallen überarbeitet und die Markenidentität sowie die Website entwickelt. Anlass ist der Einstieg von Andrin Wörwag als Mitinhab",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "SBB schliesst Reisezentrum in Stein am Rhein",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-10-05/sbb-schliesst-reisezentrum-in-stein-am-rhein",
+      "summary": "Die SBB schliesst per 1. Januar 2027 das Reisezentrum in Stein am Rhein. Der Grund dafür ist eine gesunkene Nachfrage. Es sind noch vier weitere Standorte betroffen –  allerdings nicht in der Region S",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Samstagsgespräch Eu Vertragspaket und Bankenregulierung",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/samstagsgespraech-eu-vertragspaket-und-bankenregulierung-ld.4246087",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Nicht Umwelt Sondern Mitwelt",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/nicht-umwelt-sondern-mitwelt-ld.4246055",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Engelberg Feiert 125 Jahre Älplergesellschaft",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/engelberg-feiert-125-jahre-aelplergesellschaft-ld.4239476",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Neuwahl in Spanien: Sánchez setzt alles auf eine Karte",
+      "url": "https://www.watson.ch/international/analyse/852997022-neuwahl-in-spanien-sanchez-setzt-alles-auf-eine-karte",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Töfffahrer prallt in Maienfeld GR in Signaltafel und verletzt sich",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/683790145-toefffahrer-prallt-in-maienfeld-gr-in-signaltafel-und-verletzt-sich",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die FDP Sense gibt keine explizite Wahlempfehlung für das Oberamt heraus.",
+      "url": "https://www.freiburger-nachrichten.ch/story/295138/die-fdp-sense-gibt-keine-explizite-wahlempfehlung-f%C3%BCr-das-oberamt-heraus",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zwei Oberamtskandidaten stechen heraus",
+      "url": "https://www.freiburger-nachrichten.ch/story/295088/zwei-oberamtskandidaten-stechen-heraus",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Aergera hat in einer torreichen Partie das Nachsehen",
+      "url": "https://www.freiburger-nachrichten.ch/story/295213/aergera-hat-in-einer-torreichen-partie-das-nachsehen",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was hält eine Tradition 125 Jahre am Leben? Engelberg zeigt es",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/engelberg-feiert-125-jahre-aelplergesellschaft-art-1725415",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Zkb Verschont Stadt Zürich vor Harter Rating Prüfung",
+      "url": "https://insideparadeplatz.ch/2026/10/05/zkb-verschont-stadt-zuerich-vor-harter-rating-pruefung/",
+      "summary": "",
+      "published": "2026-10-05T13:32:42.269892+00:00"
     }
   ]
 }
