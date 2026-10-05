@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T21:28:04.224706+00:00",
+  "generated": "2026-10-05T21:33:18.144490+00:00",
   "date": "2026-10-05",
-  "count": 868,
+  "count": 869,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6078,6 +6078,13 @@
       "url": "https://www.watson.ch/international/usa/786344966-doch-wegen-bedrohung-was-trump-ueber-den-bomberabzug-sagt",
       "summary": "",
       "published": "2026-10-05T21:28:04.224706+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Wie Männer am Grill zu Meistern Werden",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/wie-maenner-am-grill-zu-meistern-werden-ld.4244186",
+      "summary": "",
+      "published": "2026-10-05T21:33:18.144490+00:00"
     }
   ]
 }
