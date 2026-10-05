@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T00:03:07.273269+00:00",
+  "generated": "2026-10-05T00:32:33.559153+00:00",
   "date": "2026-10-05",
-  "count": 19,
+  "count": 23,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -135,6 +135,34 @@
       "url": "https://www.zentralplus.ch/news/babler-gibt-vizekanzlerschaft-ab-2902575/",
       "summary": "Österreichs Vizekanzler Andreas Babler tritt in den kommenden Monaten als Vizekanzler und auch als Parteipräsident der Sozialdemokraten zurück. Der 53-Jährige steht parteiintern wegen schlechter Umfra",
       "published": "2026-10-04T23:32:34.347218+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Lula und Bolsonaro verfehlen absolute Mehrheit",
+      "url": "https://www.20min.ch/story/stichwahl-in-brasilien-lula-und-bolsonaro-verfehlen-absolute-mehrheit-103644392",
+      "summary": "Weder Luiz Inácio Lula da Silva noch Flávio Bolsonaro erreichen mindestens 50 Prozent der Stimmen. Die Stichwahl findet am 25. Oktober statt.",
+      "published": "2026-10-05T00:32:33.559153+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Eidgenössische Abstimmungen Abstürze",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/eidgenoessische-abstimmungen-abstuerze",
+      "summary": "",
+      "published": "2026-10-05T00:32:33.559153+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Worauf es bei den Rahmenverträgen Ankommt",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/worauf-es-bei-den-rahmenvertraegen-ankommt",
+      "summary": "",
+      "published": "2026-10-05T00:32:33.559153+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wahl in Brasilien – Bolsonaro-Sohn liegt vorläufig vorn",
+      "url": "https://www.watson.ch/international/brasilien/898730302-wahl-in-brasilien-bolsonaro-sohn-liegt-vorlaeufig-vorn",
+      "summary": "",
+      "published": "2026-10-05T00:32:33.559153+00:00"
     }
   ]
 }
