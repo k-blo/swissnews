@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T15:02:42.732047+00:00",
+  "generated": "2026-10-05T15:33:03.917649+00:00",
   "date": "2026-10-05",
-  "count": 680,
+  "count": 708,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4762,6 +4762,202 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/alpnach-organist-ismaele-gatti-tritt-ein-letztes-mal-auf-art-1725437",
       "summary": "",
       "published": "2026-10-05T15:02:42.732047+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polnischer Wanderer stürzt auf 3400 Metern in die Tiefe – tot",
+      "url": "https://www.blick.ch/schweiz/westschweiz/wallis/wanderer-stuerzt-auf-3400-metern-in-die-tiefe-tot/yj47m86",
+      "summary": "Am Sonntag ist ein Wanderer beim Abstieg vom Mont Pleureur auf dem Gemeindegebiet von Val de Bagnes in die Tiefe gestürzt. Er kam dabei ums Leben.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Deko-Bär und Steinway-Flügel: Luxushotel vertickt sein Inventar",
+      "url": "https://www.20min.ch/story/the-alpina-gstaad-luxushotel-verkauft-1-000-einrichtungsstuecke-vor-umbau-103644443",
+      "summary": "Vor dem Umbau verkauft das Fünfsternehotel The Alpina Gstaad seine Einrichtung. Wer über das nötige Kleingeld verfügt, kann sich ein Stück Luxus sichern.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Heissester Fussballer der Welt» zofft sich auf Wiesn mit Fan",
+      "url": "https://www.20min.ch/story/maduka-okoye-zofft-sich-auf-dem-oktoberfest-beinahe-mit-einem-fan-103644678",
+      "summary": "Der deutsch-nigerianische Goalie Maduka Okoye sorgte auf dem Oktoberfest für Aufsehen, als er sich mit einem Fan zoffte. Der Streit eskalierte beinahe. Kurios: Der Goalie ging während der WM im Netz v",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "42-Jähriger stürzt am Mont Pleureur in den Tod",
+      "url": "https://www.20min.ch/story/fionnay-vs-42-jaehriger-stuerzt-am-mont-pleureur-in-den-tod-103644739",
+      "summary": "Am Sonntagmittag ist ein polnischer Wanderer bei Val de abgestürzt. Die Rettungskräfte konnten bei ihrer Ankunft nur noch den Tod des Mannes feststellen.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ziemlicher Funkensprung» – Bahnverkehr in Interlaken gestört",
+      "url": "https://www.20min.ch/story/fahrleitungsstoerung-ziemlicher-funkensprung-bahnverkehr-in-interlaken-gestoert-103644740",
+      "summary": "Eine Fahrleitungsstörung unterbricht den Bahnverkehr zwischen Interlaken West und Interlaken Ost. Ersatzbusse sind im Einsatz.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unglück im Wallis: Wanderer stürzt am Mont Pleureur auf 3400 Metern ab",
+      "url": "https://www.tagesanzeiger.ch/mont-pleureur-wanderer-stuerzt-im-wallis-toedlich-ab-106702802733",
+      "summary": "Ein 42-jähriger Pole verunglückte beim Abstieg oberhalb des Staudamms von Mauvoisin tödlich.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wetter in der Schweiz: Nach sonnigen Tagen bringt eine Kaltfront den ersten Schnee in die Berge",
+      "url": "https://www.tagesanzeiger.ch/kaltfront-schneefallgrenze-sinkt-auf-1200-meter-144193541684",
+      "summary": "Viel Sonnenschein und Föhn prägen die erste Wochenhälfte. Dann sorgt ein Tiefdruckgebiet für Regen, kühle Temperaturen – und eine tiefe Schneefall­grenze.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Fahrleitungsstörung: Keine Züge zwischen Interlaken Ost und West",
+      "url": "https://www.bernerzeitung.ch/interlaken-fahrleitungsstoerung-unterbricht-zugverkehr-336250865402",
+      "summary": "Am Montagnachmittag kam es in Interlaken zu einer Fahrleitungsstörung, wodurch bis am frühen Abend keine Züge verkehren können. Reisende benützen die Ersatzbusse.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "In eigener Sache: Tamedia reorganisiert Redaktionen und baut Stellen ab",
+      "url": "https://www.bernerzeitung.ch/tamedia-baut-34-stellen-ab-redaktionen-in-fuenf-staedten-betroffen-445832462615",
+      "summary": "Unser Medienverlag passt sich den sich rasch verändernden Bedingungen an und streicht im Zuge dessen voraussichtlich 34 Vollzeitstellen.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Nach dem 3:7 in Winterthur: Jokanovics Auftakt beim FCB hat Historisches",
+      "url": "https://www.bazonline.ch/fc-basel-3-7-in-winterthur-ist-historische-testspiel-pleite-412548922267",
+      "summary": "Der FC Basel erlitt zwar schon deutlichere Testspiel-Niederlagen als jene gegen den FCW am Samstag. Doch mehr Gegentore gab es fast nie.",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "FRA: Schüler verliert Hand",
+      "url": "https://www.zentralplus.ch/news/fra-schueler-verliert-hand-2902752/",
+      "summary": "Die Proteste von Schülerinnen und Schülern in Frankreich gehen auch in der neuen Woche weiter. Im nordfranzösischen Lens ist dabei einem 15-jährigen Schüler durch eine Polizeigranate eine Hand abgeris",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Ich bin Giorgia Meloni»: Italiens Regierungschefin lässt ihre Stimme als Klangmarke eintragen",
+      "url": "https://www.nzz.ch/international/melonis-stimme-als-marke-registriert-massnahme-gegen-deepfakes-ld.10026811",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Eine Filialleiterin soll in einem Laden systematisch die Kassen geplündert haben. Sie spricht von einer Verschwörung",
+      "url": "https://www.nzz.ch/zuerich/zuerich-filialleiterin-soll-jahrelang-kassen-gepluendert-haben-ld.10026690",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Rasen Sorgt vor dem Länderspiel für Diskussionen",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/luzerner-rasen-sorgt-vor-dem-laenderspiel-fuer-diskussionen-ld.4246070",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Gault Millau Zwei Neue Top Restaurants auf Bürgenstock und Titlis",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/gault-millau-zwei-neue-top-restaurants-auf-buergenstock-und-titlis-ld.4226854",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Gault Millau 2027 Beste Restaurants der Zentralschweiz",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/gault-millau-2027-beste-restaurants-der-zentralschweiz-ld.4243585",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gault Millau 2027 mit Zwei Neuen Aargauer Restaurants",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/gault-millau-2027-mit-zwei-neuen-aargauer-restaurants-ld.4245875",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hans Egloff tot: Ex-SVP-Nationalrat verstirbt unerwartet mit 66 Jahren",
+      "url": "https://www.watson.ch/schweiz/svp/496310255-hans-egloff-tot-ex-svp-nationalrat-verstirbt-unerwartet-mit-66-jahren",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Joshua Fahrni tritt zurück – warum geht einer einfach?",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/776650534-joshua-fahrni-tritt-zurueck-warum-geht-einer-einfach",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sachsen-Anhalt: AfD nominiert Tillschneider als Landtags-Vizepräsidenten",
+      "url": "https://www.watson.ch/international/deutschland/603984706-sachsen-anhalt-afd-nominiert-tillschneider-als-landtags-vizepraesidenten",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA ziehen B-1-Bomber aus Fairford ab: Nun beginnen die Spekulationen",
+      "url": "https://www.watson.ch/international/iran/748557972-usa-ziehen-b-1-bomber-aus-fairford-ab-nun-beginnen-die-spekulationen",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zwei Tote bei schwerem Schulbus-Unfall in Florida",
+      "url": "https://www.watson.ch/international/usa/528141015-zwei-tote-bei-schwerem-schulbus-unfall-in-florida",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Murten zeigt Potenzial, aber verliert den Faden",
+      "url": "https://www.freiburger-nachrichten.ch/story/295296/murten-zeigt-potenzial-aber-verliert-den-faden",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Fleisch kommt bei ihm keines auf den Tisch – das ist der Koch des Jahres",
+      "url": "https://www.freiburger-nachrichten.ch/story/295226/fleisch-kommt-bei-ihm-keines-auf-den-tisch-das-ist-der-koch-des-jahres",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trump schwärmte von ihr – jetzt hat seine Ex-Sprecherin einen neuen Job",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/usa-ex-trump-sprecherin-leavitt-heuert-bei-fox-news-an-art-1725446",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ehemaliger SVP-Nationalrat Hans Egloff unerwartet verstorben",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/hemaliger-svp-nationalrat-hans-egloff-unerwartet-verstorben-art-1725445",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wegen Neonazi-Post: Nationalräte schützen SP-Chef Wermuth vor Strafverfahren",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/joung-gustav-gegen-cedric-wermuth-keine-strafverfolgung-wegen-neonazi-beitrag-art-1725444",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Für Murat Yakin sind die Plätzverhältnisse in Luzern keine Überraschung»",
+      "url": "https://www.bote.ch/nachrichten/sport/luzerner-rasen-sorgt-vor-dem-laenderspiel-fuer-diskussionen-art-1725442",
+      "summary": "",
+      "published": "2026-10-05T15:33:03.917649+00:00"
     }
   ]
 }
