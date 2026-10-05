@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-05T09:32:28.635823+00:00",
+  "generated": "2026-10-05T09:40:31.873398+00:00",
   "date": "2026-10-05",
-  "count": 356,
+  "count": 363,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2494,6 +2494,55 @@
       "url": "https://www.bote.ch/nachrichten/sport/murat-yakins-sonderlob-fuer-manzambi-einer-wie-shaqiri-art-1725379",
       "summary": "",
       "published": "2026-10-05T09:32:28.635823+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nobelpreis für Medizin: Optogenetik-Forscher aus den USA und Deutschland ausgezeichnet",
+      "url": "https://www.tagesanzeiger.ch/nobelpreis-2026-preis-fuer-physiologie-oder-medizin-vergeben-776735097312",
+      "summary": "Das Karolinska-Institut gibt am Montag die Gewinner des Nobelpreises für Physiologie oder Medizin bekannt.",
+      "published": "2026-10-05T09:40:31.873398+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Axians lanciert IoT-Plattform für die Industrie",
+      "url": "https://www.netzwoche.ch/news/2026-10-05/axians-lanciert-iot-plattform-fuer-die-industrie",
+      "summary": "Mit der AX IoT Suite erweitert Axians sein Portfolio für industrielle Digitalisierung. Die IoT-Plattform soll Maschinen- und Betriebsdaten sowie Serviceprozesse verbinden und so mehr Transparenz sowie",
+      "published": "2026-10-05T09:40:31.873398+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Somalia: Neue Kämpfe zwischen Regierung und Regionalfürsten – al-Shabab profitiert und lernt den Drohnenkampf von den Huthi",
+      "url": "https://www.nzz.ch/international/somalia-neue-kaempfe-zwischen-regierung-und-regionalfuersten-al-shabab-profitiert-und-lernt-den-drohnenkampf-von-den-huthi-ld.10026373",
+      "summary": "",
+      "published": "2026-10-05T09:40:31.873398+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Er Kehrt nach Schmerikon Zurück Diesmal als Wirt der Pizzeria",
+      "url": "https://www.suedostschweiz.ch/linth/er-kehrt-nach-schmerikon-zurueck-diesmal-als-wirt-der-pizzeria-2179505",
+      "summary": "",
+      "published": "2026-10-05T09:40:31.873398+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So gut geht es den Schweizer Bergbahnen – eine Region schwingt obenaus",
+      "url": "https://www.watson.ch/schweiz/natur/941153058-so-gut-geht-es-den-schweizer-bergbahnen-eine-region-schwingt-obenaus",
+      "summary": "",
+      "published": "2026-10-05T09:40:31.873398+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Weggeworfene Zigarette führt zu Trafostation-Brand in Wangen (SZ)",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/838642784-weggeworfene-zigarette-fuehrt-zu-trafostation-brand-in-wangen-sz",
+      "summary": "",
+      "published": "2026-10-05T09:40:31.873398+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neuwahl in Spanien «gegen ultrarechte Welle»: Sánchez setzt alles auf eine Karte",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/sanchez-ruft-neuwahl-gegen-ultrarechte-welle-aus-art-1725380",
+      "summary": "",
+      "published": "2026-10-05T09:40:31.873398+00:00"
     }
   ]
 }
