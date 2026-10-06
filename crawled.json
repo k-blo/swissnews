@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-06T03:02:18.292227+00:00",
+  "generated": "2026-10-06T03:17:07.868303+00:00",
   "date": "2026-10-06",
-  "count": 121,
+  "count": 126,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -849,6 +849,41 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/immobilien-kauf-wie-viel-geld-es-wirklich-braucht-art-1725526",
       "summary": "",
       "published": "2026-10-06T03:02:18.292227+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: «Längerfristig wird das zum Problem für die Versorgungs­sicherheit»: Was tun gegen den Ärztemangel?",
+      "url": "https://www.tagesanzeiger.ch/aerztemangel-warum-die-schweiz-zu-wenig-mediziner-ausbildet-262296504294",
+      "summary": "In der Schweiz fehlen schon heute Ärztinnen und Ärzte. Gleichzeitig gehen in den nächsten Jahren Tausende in Pension. Warum bildet die Schweiz noch immer zu wenig medizinischen Nachwuchs aus?",
+      "published": "2026-10-06T03:17:07.868303+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Schriftsteller und Politiker: Bestsellerautor Jeffrey Archer mit 86 Jahren gestorben",
+      "url": "https://www.derbund.ch/jeffrey-archer-bestsellerautor-mit-86-jahren-gestorben-750786097277",
+      "summary": "Mit seinen Büchern erreichte Jeffrey Archer ein breites Publikum. Nun ist der britische Autor gestorben.",
+      "published": "2026-10-06T03:17:07.868303+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zuger Psychotherapeut sagt, wo es wirklich hakt",
+      "url": "https://www.zentralplus.ch/gesundheit-fitness/zuger-psychotherapeut-warnt-niemand-rechnet-weiter-2901698/",
+      "summary": "In Zug fehlen freie Therapieplätze und psychiatrische Fachpersonen. Psychotherapeut Bernhard Wasem warnt vor einer Versorgung, die immer stärker an ihre Grenzen kommt. Bernhard Wasem ist pensioniert. ",
+      "published": "2026-10-06T03:17:07.868303+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Rickli-Dilemma: Falls die Regierungsrätin in den Bundesrat will, wird das für ihre Partei zum Risiko – und für sie selbst auch",
+      "url": "https://www.nzz.ch/zuerich/das-rickli-dilemma-falls-die-regierungsraetin-in-den-bundesrat-will-wird-es-stressig-fuer-die-zuercher-svp-ld.10026749",
+      "summary": "",
+      "published": "2026-10-06T03:17:07.868303+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Alt aber Schön Alt Leben in der Weissen Villa",
+      "url": "https://www.suedostschweiz.ch/glarus/alt-aber-schoen-alt-leben-in-der-weissen-villa-2162933",
+      "summary": "",
+      "published": "2026-10-06T03:17:07.868303+00:00"
     }
   ]
 }
