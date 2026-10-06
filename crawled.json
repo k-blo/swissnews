@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-06T12:11:35.372766+00:00",
+  "generated": "2026-10-06T12:16:34.700461+00:00",
   "date": "2026-10-06",
-  "count": 521,
+  "count": 524,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3649,6 +3649,27 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/585588556-zuercher-obergericht-eroeffnet-vincenz-urteil-erst-im-januar-2027",
       "summary": "",
       "published": "2026-10-06T12:11:35.372766+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Hohe Spritpreise in Europa: Franzosen tanken Frittieröl, weil Diesel zu teuer ist",
+      "url": "https://www.tagesanzeiger.ch/frittieroel-statt-diesel-franzosen-weichen-hohen-preisen-aus-132660622833",
+      "summary": "Gebrauchtes Speiseöl kostet nur 80 Cent pro Liter und funktioniert in älteren Motoren. Doch die Nutzung ist rechtlich problematisch.",
+      "published": "2026-10-06T12:16:34.700461+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Eventuelle Spuckattacke: Die Uefa untersucht mögliche Vorwürfe nach der Partie Irland gegen Israel",
+      "url": "https://www.bernerzeitung.ch/nations-league-uefa-ermittelt-nach-irland-israel-spiel-343663853628",
+      "summary": "Irland spielt gegen Israel in der Nations League auf neutralem Boden. Bei der Partie soll es einen unschönen Vorfall gegeben haben, der nun unter die Lupe genommen wird.",
+      "published": "2026-10-06T12:16:34.700461+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "So reagieren die prominentesten Abgewählten in Zug",
+      "url": "https://www.zentralplus.ch/politik/das-sagen-die-verlierer-in-zug-zur-abwahl-2902810/",
+      "summary": "Nicht für alle war der Zuger Wahltag erfolgreich. Während Neugewählte triumphieren, lecken sich abgewählte Gemeinde- und Kantonsparlamentarier die Wunden. Wir haben sie befragt. Gewinnen ist einfach. ",
+      "published": "2026-10-06T12:16:34.700461+00:00"
     }
   ]
 }
