@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-06T03:32:17.035192+00:00",
+  "generated": "2026-10-06T03:38:30.187823+00:00",
   "date": "2026-10-06",
-  "count": 144,
+  "count": 145,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1010,6 +1010,13 @@
       "url": "https://www.watson.ch/schweiz/bundesrat/908557894-parmelins-engste-vertraute-sie-koennte-die-erste-svp-bundesraetin-werden",
       "summary": "",
       "published": "2026-10-06T03:32:17.035192+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump genehmigt Erschiessung von Attentäter – erstmals seit 1961",
+      "url": "https://www.watson.ch/international/usa/886603155-trump-genehmigt-erschiessung-von-attentaeter-erstmals-seit-1961",
+      "summary": "",
+      "published": "2026-10-06T03:38:30.187823+00:00"
     }
   ]
 }
