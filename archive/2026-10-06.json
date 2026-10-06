@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-06T00:11:33.287939+00:00",
+  "generated": "2026-10-06T00:32:20.505158+00:00",
   "date": "2026-10-06",
-  "count": 16,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -114,6 +114,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/eine-frau-uebernimmt-die-spitze-bei-der-jungen-svp-art-1725419",
       "summary": "",
       "published": "2026-10-05T22:32:43.799478+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Bundesratsbarometer Celine Amaudruz ist die Favoritin Wenn sie Will",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/bundesratsbarometer-celine-amaudruz-ist-die-favoritin-wenn-sie-will",
+      "summary": "",
+      "published": "2026-10-06T00:32:20.505158+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Palästina Flaggen in Frankreich Sanija Ameti und Widerstand Gegen Naza",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/palaestina-flaggen-in-frankreich-sanija-ameti-und-widerstand-gegen-naza",
+      "summary": "",
+      "published": "2026-10-06T00:32:20.505158+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Dysfunktionales System oder Schutz vor Totalem Asylchaos",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/dysfunktionales-system-oder-schutz-vor-totalem-asylchaos",
+      "summary": "",
+      "published": "2026-10-06T00:32:20.505158+00:00"
     }
   ]
 }
