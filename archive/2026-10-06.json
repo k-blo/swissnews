@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-06T04:58:12.273427+00:00",
+  "generated": "2026-10-06T05:02:35.080594+00:00",
   "date": "2026-10-06",
-  "count": 192,
+  "count": 193,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1346,6 +1346,13 @@
       "url": "https://www.watson.ch/international/usa/515332542-fairford-verdaechtige-verrieten-sich-offenbar-mit-eigenem-notruf",
       "summary": "",
       "published": "2026-10-06T04:58:12.273427+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein letzter Besuch in Delhi: Parmelin zieht vor seinem Abtritt in Indien Bilanz seiner Handelspolitik",
+      "url": "https://www.nzz.ch/schweiz/ein-letzter-besuch-in-delhi-parmelin-zieht-vor-seinem-abtritt-in-indien-bilanz-seiner-handelspolitik-ld.10026883",
+      "summary": "",
+      "published": "2026-10-06T05:02:35.080594+00:00"
     }
   ]
 }
