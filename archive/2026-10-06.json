@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-06T10:02:14.940823+00:00",
+  "generated": "2026-10-06T10:10:10.164436+00:00",
   "date": "2026-10-06",
-  "count": 432,
+  "count": 436,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3026,6 +3026,34 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/stadt-luzern-kommission-lehnt-budget-2027-in-jetziger-form-ab-art-1725567",
       "summary": "",
       "published": "2026-10-06T10:02:14.940823+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Steigende Krankenkassenprämien – «Solidarität und Eigenverantwortung sind keine Gegensätze»",
+      "url": "https://www.srf.ch/news/schweiz/steigende-krankenkassenpraemien-solidaritaet-und-eigenverantwortung-sind-keine-gegensaetze",
+      "summary": "Für den Ethiker Jean-Daniel Strub enthält das heutige System der Krankenkassen-Franchisen zu viele Fehlanreize.",
+      "published": "2026-10-06T10:10:10.164436+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der belgisch-amerikanische Neutrinoforscher Francis Halzen erhält den Physiknobelpreis",
+      "url": "https://www.nzz.ch/wissenschaft/der-belgisch-amerikanische-neutrinoforscher-francis-halzen-erhaelt-den-physiknobelpreis-ld.10026915",
+      "summary": "",
+      "published": "2026-10-06T10:10:10.164436+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Lukas Bürkler aus Appenzell im Finale des Wtt Young Leader Award",
+      "url": "https://www.tagblatt.ch/paidcontent/promotion/lukas-buerkler-aus-appenzell-im-finale-des-wtt-young-leader-award-ld.4246587",
+      "summary": "",
+      "published": "2026-10-06T10:10:10.164436+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Wtt Young Leader Award Vier Thurgauer im Finale",
+      "url": "https://www.tagblatt.ch/paidcontent/promotion/wtt-young-leader-award-vier-thurgauer-im-finale-ld.4246582",
+      "summary": "",
+      "published": "2026-10-06T10:10:10.164436+00:00"
     }
   ]
 }
