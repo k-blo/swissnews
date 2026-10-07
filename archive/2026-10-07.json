@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-07T04:32:47.755188+00:00",
+  "generated": "2026-10-07T05:02:53.213371+00:00",
   "date": "2026-10-07",
-  "count": 187,
+  "count": 199,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -1311,6 +1311,90 @@
       "url": "https://www.freiburger-nachrichten.ch/story/295569/das-entsetzlichste-was-ich-je-gesehen-habe",
       "summary": "",
       "published": "2026-10-07T04:32:47.755188+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Vier Vorlagen: Wie stimmst du am 29. November ab?",
+      "url": "https://www.20min.ch/story/umfrage-vier-vorlagen-wie-stimmst-du-am-29-november-ab-103644912",
+      "summary": "Bald stehen wieder Abstimmungen an. Wie stimmst du ab? Nimm an unserer Umfrage teil.",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Argentiniens Abschiedsgala: Messi hat sein letztes Länderspiel bestritten – und traf zum 126. Mal",
+      "url": "https://www.bernerzeitung.ch/messi-verabschiedet-sich-tor-beim-3-0-gegen-benin-694372936859",
+      "summary": "85’000 Fans feiern den Superstar im ausverkauften Monumental-Stadion von Buenos Aires. Beim 3:0 gegen Benin steuert Messi ein Tor und zwei Vorlagen bei.",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Verdoppelung der Polizeihaftdauer",
+      "url": "https://www.zentralplus.ch/news/verdoppelung-der-polizeihaftdauer-2903027/",
+      "summary": "Ein Jahr nach den Ausschreitungen bei einer Pro-Palästina-Demonstration in Bern hat das Parlament beschlossen, dass die Polizei verdächtige Personen künftig länger in Gewahrsam behalten darf. Heute ha",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Aktionstag in ganz Frankreich: Mittelschüler erhalten Unterstützung durch Massendemos",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-10-07/aktionstag-in-ganz-frankreich-mittelschueler-erhalten",
+      "summary": "Zehntausende von Studenten, Gewerkschaftern und Eltern sind in Frankreich an der Seite der Mittelschüler auf die Strasse gegangen. Erneut kam es zu Krawallen.",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Partners Group Fredy Gantner Kämpft nach Kurssturz",
+      "url": "https://www.bilanz.ch/unternehmen/partners-group-fredy-gantner-kaempft-nach-kurssturz/ez30frj",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Devils, Josi und Suter verlieren: Schweizer NHL-Profis gehen leer aus",
+      "url": "https://www.watson.ch/sport/eishockey/541940273-devils-josi-und-suter-verlieren-schweizer-nhl-profis-gehen-leer-aus",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Erste Militärhinrichtung seit über 60 Jahren im Dezember geplant",
+      "url": "https://www.watson.ch/international/usa/275477120-erste-militaerhinrichtung-seit-ueber-60-jahren-im-dezember-geplant",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Picdump 208 – es mögen Memes sein!",
+      "url": "https://www.watson.ch/spass/picdump/238472624-picdump-208-es-moegen-memes-sein",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Obstbäume blühen im Oktober – schwächt sie das fürs nächste Jahr?",
+      "url": "https://www.freiburger-nachrichten.ch/story/295575/obstb%C3%A4ume-bl%C3%BChen-im-oktober-schw%C3%A4cht-sie-das-f%C3%BCrs-n%C3%A4chste-jahr",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Es tat gut, den richtigen Riecher zu haben»",
+      "url": "https://www.bote.ch/nachrichten/sport/stimmen-zum-30-der-schweizer-nati-in-luzern-art-1725723",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Christa Pike ist nach gescheiterter Hinrichtung wieder bei Bewusstsein",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/christa-pike-nach-missglueckter-hinrichtung-wieder-ansprechbar-art-1725722",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hitchcock-Star tot: Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben",
+      "url": "https://www.bote.ch/nachrichten/kultur/oscar-preistraegerin-eva-marie-saint-mit-102-jahren-gestorben-art-1725721",
+      "summary": "",
+      "published": "2026-10-07T05:02:53.213371+00:00"
     }
   ]
 }
