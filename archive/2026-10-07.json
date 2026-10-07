@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-07T07:40:50.500421+00:00",
+  "generated": "2026-10-07T08:02:42.994779+00:00",
   "date": "2026-10-07",
-  "count": 273,
+  "count": 290,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -1913,6 +1913,125 @@
       "url": "https://www.netzwoche.ch/news/2026-10-07/bei-jedem-vierten-schweizer-windows-fernzugang-fehlt-eine-schutzstufe",
       "summary": "In der Schweiz sind 5730 Windows-Fernzugänge direkt aus dem Internet erreichbar. Bei mehr als 1400 davon erscheint der Anmeldebildschirm bereits vor der Authentifizierung. Zwischen den einzelnen Netze",
       "published": "2026-10-07T07:40:50.500421+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Fahrzeug brennt vor Tunnel in Schindellegi SZ",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/brand-vor-tunnel-in-schindellegi-verkehr-ueberlastet/c8kk3g0",
+      "summary": "Lieferwagenbrand vor einem Tunnel in Schindellegi SZ: Seit 8.30 Uhr ist die betroffene Strasse überlastet. Die Feuerwehr löscht, der Verkehr läuft durchs Dorf. Zu Verletzten gibt es noch keine Angaben",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Remo rettete über 200 Menschen – nun lebt er in der Schweiz",
+      "url": "https://www.20min.ch/story/massaker-vom-7-oktober-remo-rettete-ueber-200-menschen-nun-lebt-er-in-der-schweiz-103645607",
+      "summary": "Remo Salman El-Hozayel überlebte den Hamas-Angriff auf das Nova-Festival. Kürzlich verliess der Polizist Israel mit seiner Familie und zog in die Schweiz.",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Notstand in US-Bundesstaat New York wegen Masernfällen",
+      "url": "https://www.20min.ch/story/immer-mehr-faelle-notstand-in-us-bundesstaat-new-york-wegen-masernfaellen-103645649",
+      "summary": "In den USA gibt es in diesem Jahr so viele Masernerkrankungen wie seit Jahrzehnten nicht mehr. Der Bundesstaat New York im Nordosten des Landes zieht jetzt die Notbremse.",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gescheiterte Hinrichtung: Christa Pike ist aufgewacht – wie geht es nun weiter?",
+      "url": "https://www.tagesanzeiger.ch/christa-pike-anwaelte-fordern-umwandlung-der-todesstrafe-372779329422",
+      "summary": "Sieben Nadeln, zwei Dosen Gift, geplatzte Venen – und Christa Pikes Herz schlug weiter. Jetzt ist die verurteilte Mörderin wieder bei Bewusstsein, und es stellen sich viele Fragen.",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Claude-Alain Schmidhalter: Swiss-Ski-Vizepräsident wird temporär seiner Ämter enthoben – und tritt kurz danach zurück",
+      "url": "https://www.derbund.ch/swiss-ski-schmidhalter-nach-betrugsanklage-suspendiert-347691647413",
+      "summary": "Claude-Alain Schmidhalter ist wegen Betrugs angeklagt. Nun reagiert Swiss-Ski – und auch der Beschuldigte zieht seine Konsequenzen.",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Rekordjahr für Schweizer Campingplätze",
+      "url": "https://www.zentralplus.ch/news/rekordjahr-fuer-schweizer-campingplaetze-2903053/",
+      "summary": "Die Schweizer Campingplätze erleben dank des guten Wetters ein Rekordjahr. Die Buchungszahlen lagen Ende September höher als im bisherigen Rekordjahr 2021. Der Touring Club Schweiz TCS verzeichnete in",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "OK-Präsident Schmidhalter entlassen",
+      "url": "https://www.zentralplus.ch/news/ok-praesident-schmidhalter-entlassen-2903051/",
+      "summary": "Gut vier Monate vor der Ski-WM in Crans-Montana ist OK-Präsident Claude-Alain Schmidhalter vorläufig seines Amtes enthoben worden. Das teilte Swiss-Ski mit. Die Massnahme betrifft auch Schmidhalters A",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der OK-Präsident der Ski-WM in Crans-Montana muss vorerst zurücktreten",
+      "url": "https://www.nzz.ch/sport/der-ok-praesident-der-ski-wm-in-crans-montana-muss-vorerst-zuruecktreten-ld.10027079",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Säule 3a Erlaubt Ab 2027 Höhere Einzahlungen Diese Beträge Gelten",
+      "url": "https://www.suedostschweiz.ch/panorama/saeule-3a-erlaubt-ab-2027-hoehere-einzahlungen-diese-betraege-gelten-2188316",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Umbau der Villa Hüssy Denkmalschutz Setzt Enge Grenzen",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/umbau-der-villa-huessy-denkmalschutz-setzt-enge-grenzen-ld.4244232",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Porsche steckt in der Krise: Diese neue Strategie soll es nun richten",
+      "url": "https://www.watson.ch/wirtschaft/auto/713978817-porsche-steckt-in-der-krise-diese-neue-strategie-soll-es-nun-richten",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Shakira und Gerard Piqué streiten vor Gericht – darum geht es",
+      "url": "https://www.watson.ch/international/usa/962714309-shakira-und-gerard-pique-streiten-vor-gericht-darum-geht-es",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Heute ist Chemie dran: Die Nobelpreisvergabe live im Stream",
+      "url": "https://www.watson.ch/international/forschung/133622586-heute-ist-chemie-dran-die-nobelpreisvergabe-live-im-stream",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Swiss-Ski-Vize Schmidhalter wegen Betrugsvorwurf von Ämtern enthoben",
+      "url": "https://www.freiburger-nachrichten.ch/story/295632/swissskivize-schmidhalter-wegen-betrugsvorwurf-von-%C3%A4mtern-enthoben",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Das Entsetzlichste, was ich je in meinem Leben gesehen habe»",
+      "url": "https://www.freiburger-nachrichten.ch/story/295569/das-entsetzlichste-was-ich-je-in-meinem-leben-gesehen-habe",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Was Frauen Beim Social Egg Freezing Verschwiegen Wird",
+      "url": "https://www.infosperber.ch/gesundheit/was-frauen-beim-social-egg-freezing-verschwiegen-wird/",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Die Wahlen in Brasilien",
+      "url": "https://www.infosperber.ch/politik/die-wahlen-in-brasilien/",
+      "summary": "",
+      "published": "2026-10-07T08:02:42.994779+00:00"
     }
   ]
 }
