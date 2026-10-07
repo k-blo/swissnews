@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-07T07:33:04.249504+00:00",
+  "generated": "2026-10-07T07:40:50.500421+00:00",
   "date": "2026-10-07",
-  "count": 271,
+  "count": 273,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -1899,6 +1899,20 @@
       "url": "https://www.infosperber.ch/politik/zwei-kriege-und-el-nino-millionen-menschen-von-hunger-bedroht/",
       "summary": "",
       "published": "2026-10-07T07:33:04.249504+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Claude-Alain Schmidhalter: Swiss-Ski-Vizepräsident wird nach Anklage wegen Betrugs seiner Ämter vorläufig enthoben",
+      "url": "https://www.bernerzeitung.ch/swiss-ski-schmidhalter-nach-betrugsanklage-suspendiert-347691647413",
+      "summary": "Claude-Alain Schmidhalter soll einen früheren Geschäftspartner geschädigt haben. Nun reagiert Swiss-Ski auf die Vorwürfe.",
+      "published": "2026-10-07T07:40:50.500421+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Bei jedem vierten Schweizer Windows-Fernzugang fehlt eine Schutzstufe",
+      "url": "https://www.netzwoche.ch/news/2026-10-07/bei-jedem-vierten-schweizer-windows-fernzugang-fehlt-eine-schutzstufe",
+      "summary": "In der Schweiz sind 5730 Windows-Fernzugänge direkt aus dem Internet erreichbar. Bei mehr als 1400 davon erscheint der Anmeldebildschirm bereits vor der Authentifizierung. Zwischen den einzelnen Netze",
+      "published": "2026-10-07T07:40:50.500421+00:00"
     }
   ]
 }
