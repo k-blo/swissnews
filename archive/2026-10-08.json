@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-07T23:02:48.544962+00:00",
+  "generated": "2026-10-07T23:32:54.112744+00:00",
   "date": "2026-10-08",
-  "count": 5,
+  "count": 7,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/1754-kinder-pro-schwyzer-aerztin-fachpersonal-zu-finden-ist-sehr-schwierig-art-1725760",
       "summary": "",
       "published": "2026-10-07T22:33:35.773105+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich war nicht glücklich»: No-Angels-Sängerin blickt zurück",
+      "url": "https://www.20min.ch/story/nadja-benaissa-ich-war-nicht-gluecklich-no-angels-saengerin-blickt-zurueck-103646160",
+      "summary": "Mit den No Angels wurde Nadja Benaissa berühmt. Bei «Promi Big Brother» erzählt sie nun von den Schattenseiten dieser Zeit.",
+      "published": "2026-10-07T23:32:54.112744+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "ESP: Seniorin Maricarmen Abascal tot",
+      "url": "https://www.zentralplus.ch/news/esp-seniorin-maricarmen-abascal-tot-2903225/",
+      "summary": "Die Empörung über die Zwangsräumung der 87-jährigen Maricarmen Abascal vor zwei Wochen hat in Spanien Massenproteste gegen Wohnungsnot ausgelöst. Jetzt ist die Seniorin, die zum Gesicht der Wohnungskr",
+      "published": "2026-10-07T23:32:54.112744+00:00"
     }
   ]
 }
