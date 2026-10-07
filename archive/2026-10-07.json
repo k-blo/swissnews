@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-07T01:02:30.016351+00:00",
+  "generated": "2026-10-07T01:32:47.727151+00:00",
   "date": "2026-10-07",
-  "count": 29,
+  "count": 34,
   "articles": [
     {
       "source": "Aargauer Zeitung",
@@ -205,6 +205,41 @@
       "url": "https://www.watson.ch/international/usa/281904989-anwaelte-pike-nach-gescheiterter-hinrichtung-bei-bewusstsein",
       "summary": "",
       "published": "2026-10-07T01:02:30.016351+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Oscar für Filmdebüt: Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben",
+      "url": "https://www.tagesanzeiger.ch/schauspielerin-eva-marie-saint-mit-102-jahren-gestorben-305281184911",
+      "summary": "Gleich mit ihrer ersten Filmrolle holte Eva Marie Saint an der Seite von Marlon Brando einen Oscar. Das war im Jahr 1955. Nun ist die Schauspielerin mit 102 Jahren gestorben.",
+      "published": "2026-10-07T01:32:47.727151+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Lungenpest-Verdacht in Sibirien: WHO bietet Hilfe an und fordert Informationen von Russland",
+      "url": "https://www.nzz.ch/panorama/lungenpest-verdacht-in-sibirien-who-bietet-russland-hilfe-an-ld.10027062",
+      "summary": "",
+      "published": "2026-10-07T01:32:47.727151+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Verdacht auf Lungenpest: Trump will mit Putin telefonieren",
+      "url": "https://www.watson.ch/international/usa/550960963-verdacht-auf-lungenpest-trump-will-mit-putin-telefonieren",
+      "summary": "",
+      "published": "2026-10-07T01:32:47.727151+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Pilz-WM Italien: 12. Weltmeisterschaft im Pilzesammeln in Cerreto Laghi",
+      "url": "https://www.watson.ch/videos/italien/998190712-pilz-wm-italien-12-weltmeisterschaft-im-pilzesammeln-in-cerreto-laghi",
+      "summary": "",
+      "published": "2026-10-07T01:32:47.727151+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neuer Nati-Captain? Akanji über Xhaka: «Ich mache nichts hinter seinem Rücken»",
+      "url": "https://www.bote.ch/nachrichten/sport/manuel-akanji-spricht-ueber-granit-xhaka-und-captain-frage-art-1725702",
+      "summary": "",
+      "published": "2026-10-07T01:32:47.727151+00:00"
     }
   ]
 }
