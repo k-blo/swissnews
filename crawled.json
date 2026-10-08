@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T03:02:38.789005+00:00",
+  "generated": "2026-10-08T03:32:15.322400+00:00",
   "date": "2026-10-08",
-  "count": 117,
+  "count": 131,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -821,6 +821,104 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/gurgen-art-1725780",
       "summary": "",
       "published": "2026-10-08T03:02:38.789005+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trotz Pikes Fehlversuch: Texas vollstreckt Todesstrafe",
+      "url": "https://www.20min.ch/story/usa-trotz-pikes-fehlversuch-texas-vollstreckt-todesstrafe-103646167",
+      "summary": "In Texas ist am Mittwoch der 46-jährigen Jamaal Howard hingerichtet worden. Es war die erste Vollstreckung der Todesstrafe in den USA seit der gescheiterten Hinrichtung von Christa Pike.",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Windkraft im Kanton Zürich: Fast die Hälfte des Windstroms käme aus dem Weinland – selbst die linke Kantonsrätin ist skeptisch",
+      "url": "https://www.tagesanzeiger.ch/windkraft-im-weinland-alle-vier-kantonsraete-skeptisch-931615183223",
+      "summary": "Das Weinland hat nur vier Sitze im Kantonsparlament. Zugleich könnten dort die meisten Windräder gebaut werden. Die grosse Anzahl sieht sogar die SP-Vertreterin kritisch.",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neue Kampfjet-Abwehr: Armee baut Gubel für Millionen um",
+      "url": "https://www.zentralplus.ch/wohnen-bauen/neue-kampfjet-abwehr-armee-baut-gubel-fuer-millionen-um-2903066/",
+      "summary": "Die Schweiz stellt ihr Luftabwehrsystem um – dabei spielt der Gubel eine wichtige Rolle. Auf der historischen Militärstellung sollen Soldaten mit dem neuen System üben. Dafür sind laut Armasuisse alle",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "40’000 Franken für Tweet und Mail: Luzerner Anwalt wehrt sich",
+      "url": "https://www.zentralplus.ch/justiz/40000-franken-fuer-tweet-und-mail-luzerner-anwalt-wehrt-sich-2903057/",
+      "summary": "Kurz einen Tweet abgefeuert und ein paar Parlamentarier ins CC genommen – macht dann 40&#8217;000 Franken Strafe. Doch gegen den Schuldspruch der Luzerner Staatsanwaltschaft wehrt sich der Luzerner An",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Lex UBS»: Jetzt meldet sich die Zürcher Regierungspräsidentin zu Wort – Carmen Walker Späh lobbyiert in Bern für weniger strenge Kapitalvorschriften",
+      "url": "https://www.nzz.ch/zuerich/lex-ubs-jetzt-meldet-sich-die-zuercher-regierungspraesidentin-zu-wort-carmen-walker-spaeh-lobbyiert-in-bern-fuer-weniger-strenge-kapitalvorschriften-ld.10027140",
+      "summary": "",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Adieu Kamel: Der Zoo trennt sich von Publikumslieblingen",
+      "url": "https://www.nzz.ch/zuerich/adieu-kamel-der-zoo-trennt-sich-von-publikumslieblingen-ld.10027081",
+      "summary": "",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ MACHTSPIEL» - Wie reden wir ehrlich über Migration, Anette Dowideit?",
+      "url": "https://www.nzz.ch/podcast/wie-reden-wir-ehrlich-ueber-migration-anette-dowideit-ld.10026934",
+      "summary": "",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Arbeiten im Gehirn der VBZ: Wenn es bei Tram oder Bus stockt, sorgen sie für freie Fahrt",
+      "url": "https://www.nzz.ch/zuerich/arbeiten-im-gehirn-der-vbz-sie-leben-mit-der-stoerung-ld.10026065",
+      "summary": "",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bancomaten-Angriff weckt Kreativität: So geht es jetzt in Thayngen weiter",
+      "url": "https://www.shn.ch/region/reiat/2026-10-08/bancomaten-angriff-weckt-kreativitaet-so-geht-es-jetzt-in-thayngen-weiter",
+      "summary": "Das Team der Clientis-Bank in Thayngen hat die Sprengung eines Geldautomaten für ein Werbevideo zu sicheren Anlagestrategien genutzt. Doch trotz Humor sitzt der Schock noch tief. Einer der mutmasslich",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Seit zwei Jahren Kulturlabor: So hat sich der kreative Treffpunkt entwickelt",
+      "url": "https://www.shn.ch/leben-genuss/2026-10-08/seit-zwei-jahren-kulturlabor-so-hat-sich-der-kreative-treffpunkt-entwickelt",
+      "summary": "Das Kulturlabor Schaffhausen ist ein Ort, an dem Menschen sich trauen sollen, auszuprobieren und zu kreieren, um mit Kultur in Berührung zu kommen. Die beiden Geschäftsführer Beat Wipf und Rubén Fruct",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Nicht nur an der Olma gibt es schöne Kühe, sondern auch in der Region",
+      "url": "https://www.shn.ch/region/kanton/2026-10-08/nicht-nur-an-der-olma-gibt-es-schoene-kuehe-sondern-auch-in-der-region",
+      "summary": "Am Donnerstag beginnt die Olma. Um die Vielfalt der Schweizer Kühe zu bewundern, muss man aber nicht zwingend zur Landwirtschaftsmesse reisen. Auch in der Region lassen sich einige schöne Exemplare be",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Sämi Hefti Erzählt wie er den Hotelbrand Überwindet",
+      "url": "https://www.suedostschweiz.ch/glarus/saemi-hefti-erzaehlt-wie-er-den-hotelbrand-ueberwindet-2187462",
+      "summary": "",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jacksons «Thriller»-Jacke wird versteigert – Rekordpreis?",
+      "url": "https://www.watson.ch/leben/populaerkultur/660144036-jacksons-thriller-jacke-wird-versteigert-rekordpreis",
+      "summary": "",
+      "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der schwierige Weg zum Weltcup-Auftakt: Marco Odermatt fährt dem Schnee hinterher",
+      "url": "https://www.bote.ch/nachrichten/sport/marco-odermatt-trainiert-vor-dem-weltcup-auftakt-in-soelden-art-1725879",
+      "summary": "",
+      "published": "2026-10-08T03:32:15.322400+00:00"
     }
   ]
 }
