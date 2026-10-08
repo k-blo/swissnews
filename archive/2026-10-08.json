@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T03:35:26.672124+00:00",
+  "generated": "2026-10-08T03:55:52.096769+00:00",
   "date": "2026-10-08",
-  "count": 149,
+  "count": 153,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1045,6 +1045,34 @@
       "url": "https://www.watson.ch/international/deutschland/463000455-7-oktober-greta-thunberg-bei-palaestina-demo-in-berlin",
       "summary": "",
       "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Vielleicht sollte man Berlin als abschreckendes Beispiel opfern",
+      "url": "https://www.nzz.ch/meinung/vielleicht-sollte-man-berlin-als-abschreckendes-beispiel-opfern-ld.10026950",
+      "summary": "",
+      "published": "2026-10-08T03:55:52.096769+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Weinbauer Parmelin verärgert Weinbauern",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-10-08/weinbauer-parmelin-veraergert-weinbauern",
+      "summary": "Kurz vor seiner Rücktrittsankündigung bringt Wirtschaftsminister Guy Parmelin seine Berufskollegen gegen sich auf.",
+      "published": "2026-10-08T03:55:52.096769+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Das haben viele noch nie gesehen: Obstbäume blühen im Oktober",
+      "url": "https://www.shn.ch/leben-leute/2026-10-08/das-haben-viele-noch-nie-gesehen-obstbaeume-bluehen-im-oktober",
+      "summary": "Bäume treiben kurz vor dem Winter noch mal aus: Ist das eine Folge des Hitzesommers? Jedenfalls könnte es Auswirkungen auf die nächste Ernte haben. Auch im Garten eines Nationalrates.",
+      "published": "2026-10-08T03:55:52.096769+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ersetzen Tiktok und Co. das klassische Reisebüro? Neue Studie",
+      "url": "https://www.watson.ch/schweiz/reisen/230294956-ersetzen-tiktok-und-co-das-klassische-reisebuero-neue-studie",
+      "summary": "",
+      "published": "2026-10-08T03:55:52.096769+00:00"
     }
   ]
 }
