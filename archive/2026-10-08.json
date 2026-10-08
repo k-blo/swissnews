@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T07:09:03.060324+00:00",
+  "generated": "2026-10-08T07:12:28.161697+00:00",
   "date": "2026-10-08",
-  "count": 255,
+  "count": 257,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1787,6 +1787,20 @@
       "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/niedergoesgen-feuer-in-altpapierlager-rasch-unter-kontrolle-ld.4247517",
       "summary": "",
       "published": "2026-10-08T07:09:03.060324+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Künstlerischer Nachlass – Wann kommt Kunst am Bau weg?",
+      "url": "https://www.srf.ch/news/schweiz/kuenstlerischer-nachlass-wann-kommt-kunst-am-bau-weg",
+      "summary": "Die Zeit hat der Schlangenbrücke von Künstler Bruno Weber zugesetzt. Nun wird sie saniert. Andere Werke verschwanden.",
+      "published": "2026-10-08T07:12:28.161697+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kantonsrats-Kommission beantragt Ablehnung der Zugersee-Initiative",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-kommission-beantragt-ablehnung-der-zugersee-initiative-art-1725890",
+      "summary": "",
+      "published": "2026-10-08T07:12:28.161697+00:00"
     }
   ]
 }
