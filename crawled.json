@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T06:32:43.197635+00:00",
+  "generated": "2026-10-08T06:41:48.489386+00:00",
   "date": "2026-10-08",
-  "count": 227,
+  "count": 234,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1591,6 +1591,55 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/cyberangriff-auf-softwarelieferant-von-publica-datenabfluss-bestaetigt-art-1725884",
       "summary": "",
       "published": "2026-10-08T06:32:43.197635+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Nachspielzeit: Geschichten aus der Sportwelt: Wendy Holdener gedenkt ihres verstorbenen Bruders",
+      "url": "https://www.bazonline.ch/sport-news-verstappen-verspottet-hadjar-nach-poleposition-985889118524",
+      "summary": "Zu viele Polepositions, eine Bank aus Rennski, ein fieses Kabel und Kinder statt Nazi-Hooligans im Stadion: Das sind die kuriosen und schönen Storys der Woche aus dem Sport.",
+      "published": "2026-10-08T06:41:48.489386+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Strafbefehl gegen Andreas Glarner verzögert sich",
+      "url": "https://www.persoenlich.com/digital/strafbefehl-gegen-andreas-glarner-verzogert-sich",
+      "summary": "Die Aargauer Staatsanwaltschaft hat dem SVP-Nationalrat eine Verurteilung wegen Identitätsmissbrauchs in Aussicht gestellt. Eine hängige Beschwerde am Obergericht blockiert das Verfahren jedoch.",
+      "published": "2026-10-08T06:41:48.489386+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Marco Blaser verstorben",
+      "url": "https://www.persoenlich.com/medien/marco-blaser-verstorben",
+      "summary": "Der frühere Direktor des Tessiner Radios und Fernsehens wurde 91 Jahre alt. Er arbeitete 45 Jahre für den Sender.",
+      "published": "2026-10-08T06:41:48.489386+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Welcher Wein Passt zu Welchem Wildgericht",
+      "url": "https://www.bilanz.ch/enjoy/wein/welcher-wein-passt-zu-welchem-wildgericht/n1t6vzn",
+      "summary": "",
+      "published": "2026-10-08T06:41:48.489386+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Andreas Glarner droht Strafbefehl nach KI-Video über Sibel Arslan",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/252671602-andreas-glarner-droht-strafbefehl-nach-ki-video-ueber-sibel-arslan",
+      "summary": "",
+      "published": "2026-10-08T06:41:48.489386+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Andri Silberschmidt der Super Lobbyist",
+      "url": "https://insideparadeplatz.ch/2026/10/08/andri-silberschmidt-der-super-lobbyist/",
+      "summary": "",
+      "published": "2026-10-08T06:41:48.489386+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Grösster Cyber Angriff Pk des Bundes Ausgeraubt",
+      "url": "https://insideparadeplatz.ch/2026/10/08/groesster-cyber-angriff-pk-des-bundes-ausgeraubt/",
+      "summary": "",
+      "published": "2026-10-08T06:41:48.489386+00:00"
     }
   ]
 }
