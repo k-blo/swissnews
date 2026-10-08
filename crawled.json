@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T01:32:38.741206+00:00",
+  "generated": "2026-10-08T01:48:16.196288+00:00",
   "date": "2026-10-08",
-  "count": 15,
+  "count": 17,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -107,6 +107,20 @@
       "url": "https://www.watson.ch/sport/eismeister-zaugg/128434734-das-hockey-wahldebakel-beschert-marc-luethi-viel-unnoetige-arbeit",
       "summary": "",
       "published": "2026-10-08T01:32:38.741206+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zollstreit mit den USA: «Dann wären sie nicht mehr Elite» – Trump stichelt gegen die Schweiz",
+      "url": "https://www.tagesanzeiger.ch/zollstreit-trump-droht-mit-importstopp-fuer-schweizer-uhren-155034996703",
+      "summary": "Der US-Präsident droht damit, keine Schweizer Uhren mehr zu importieren. So könnten die USA für eine ausgeglichene Handelsbilanz sorgen, behauptet er.",
+      "published": "2026-10-08T01:48:16.196288+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Israel vor Wahl: Der 7. Oktober wird für Netanjahu zum politischen Prüfstein",
+      "url": "https://www.tagesanzeiger.ch/israel-wahl-netanjahu-kaempft-um-amt-nach-hamas-angriff-433320614278",
+      "summary": "Der 7. Oktober 2023 prägt den Wahlkampf wie kein anderes Thema. Ministerpräsident Benjamin Netanjahu muss sich dem Vorwurf des Versagens stellen – sein Herausforderer Gadi Eisenkot fordert einen polit",
+      "published": "2026-10-08T01:48:16.196288+00:00"
     }
   ]
 }
