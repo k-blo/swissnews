@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T23:02:22.558929+00:00",
+  "generated": "2026-10-08T23:19:58.478263+00:00",
   "date": "2026-10-09",
-  "count": 20,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -142,6 +142,13 @@
       "url": "https://www.zentralplus.ch/news/ita-brandopfer-von-crans-wer-zahlt-2903492/",
       "summary": "Wer die Spitalrechnungen für die italienischen Opfer der Brandkatastrophe von Crans-Montana bezahlt, ist weiterhin unklar. Trotz eines internationalen Abkommens will Italien nicht zahlen. Die Rechnung",
       "published": "2026-10-08T23:02:22.558929+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Crans-Montana – 1.5 Millionen Franken Spitalkosten für italienische Brandopfer",
+      "url": "https://www.srf.ch/news/schweiz/crans-montana-1-5-millionen-franken-spitalkosten-fuer-italienische-brandopfer",
+      "summary": "Die Spitalrechnungen für die italienischen Brandopfer von Crans-Montana belaufen sich laut RTS auf rund 1.5 Millionen.",
+      "published": "2026-10-08T23:19:58.478263+00:00"
     }
   ]
 }
