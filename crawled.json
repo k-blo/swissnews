@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T00:02:43.873245+00:00",
+  "generated": "2026-10-08T00:32:23.796464+00:00",
   "date": "2026-10-08",
-  "count": 7,
+  "count": 12,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -51,6 +51,41 @@
       "url": "https://www.zentralplus.ch/news/esp-seniorin-maricarmen-abascal-tot-2903225/",
       "summary": "Die Empörung über die Zwangsräumung der 87-jährigen Maricarmen Abascal vor zwei Wochen hat in Spanien Massenproteste gegen Wohnungsnot ausgelöst. Jetzt ist die Seniorin, die zum Gesicht der Wohnungskr",
       "published": "2026-10-07T23:32:54.112744+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wohnungskrise in Spanien: Gewerkschaften rufen zu landesweitem Generalstreik auf",
+      "url": "https://www.tagesanzeiger.ch/generalstreik-in-spanien-termin-am-11-november-festgelegt-974316112251",
+      "summary": "Mietpreise, Wohnungsnot und Zwangsräumungen sorgen für massive Proteste. Die Gewerkschaften rufen deshalb am 11. November zum landesweiten Generalstreik auf – nur 18 Tage vor der Neuwahl.",
+      "published": "2026-10-08T00:32:23.796464+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Demokraten klagen gegen Trump-Regierung",
+      "url": "https://www.zentralplus.ch/news/demokraten-klagen-gegen-trump-regierung-2903227/",
+      "summary": "Die Demokraten haben Klage gegen US-Präsident Donald Trump und seine Regierung eingereicht. Sie werfen ihm vor, Wahlwerbung mit Steuergeldern zu finanzieren. Es geht um Werbespots, die nur wenige Woch",
+      "published": "2026-10-08T00:32:23.796464+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Europa Sollte von Israel Lernen Statt es zu Hassen",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/europa-sollte-von-israel-lernen-statt-es-zu-hassen",
+      "summary": "",
+      "published": "2026-10-08T00:32:23.796464+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wegen Ahv Bschiss der Bund Will Steuern Erhöhen Obwohl er 90 Milliarden Hat",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/wegen-ahv-bschiss-der-bund-will-steuern-erhoehen-obwohl-er-90-milliarden-hat",
+      "summary": "",
+      "published": "2026-10-08T00:32:23.796464+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Celine Amaudruz und Pascal Schmid Sind Ihre Favoriten für den Bundesrat",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/celine-amaudruz-und-pascal-schmid-sind-ihre-favoriten-fuer-den-bundesrat",
+      "summary": "",
+      "published": "2026-10-08T00:32:23.796464+00:00"
     }
   ]
 }
