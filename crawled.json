@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T10:02:43.089919+00:00",
+  "generated": "2026-10-08T10:32:39.249646+00:00",
   "date": "2026-10-08",
-  "count": 412,
+  "count": 441,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2886,6 +2886,209 @@
       "url": "https://www.freiburger-nachrichten.ch/story/295838/pensionskasse-des-bundes-best%C3%A4tigt-cyberangriff-sind-bundesr%C3%A4te-betroffen",
       "summary": "",
       "published": "2026-10-08T10:02:43.089919+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Ostschweizer Volksfest – Die Olma 2026 ist eröffnet",
+      "url": "https://www.srf.ch/news/schweiz/ostschweizer-volksfest-die-olma-2026-ist-eroeffnet",
+      "summary": "Elf Tage feiert die Ostschweiz sich selbst und den Gastkanton Schwyz. Bundespräsident Parmelin kam direkt aus Indien.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Er ist mein kleiner Kämpfer»",
+      "url": "https://www.blick.ch/schweiz/westschweiz/wallis/in-glis-vs-kaempft-matteo-4-gegen-seinen-dritten-hirntumor/s2z0syp",
+      "summary": "Matteo (4) aus Glis VS kämpft gegen Hirntumore. Nach seiner dritten schweren Hirnoperation in zwei Jahren folgt nun eine siebenwöchige Bestrahlung in Basel. Finanziell ist die Familie am Limit.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Sechs Verletzte bei Autounfall in Liesberg BL",
+      "url": "https://www.blick.ch/schweiz/basel-landschaft/unfall-in-liesberg-bl-sechs-personen-im-spital/wbb3dk1",
+      "summary": "Bei einer Frontalkollision auf der Baselstrasse in Liesberg BL sind am Mittwochnachmittag sechs Personen verletzt worden. Laut Polizei geriet ein 81-jähriger Autofahrer aus ungeklärten Gründen auf die",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Camping-Inferno: «Wir waren auf uns allein gestellt»",
+      "url": "https://www.20min.ch/story/brand-drama-gardasee-wir-camper-waren-auf-uns-allein-gestellt-103645128",
+      "summary": "Bei dem Grossbrand auf dem Campingplatz «Bella Italia» wurden 20 Gäste verletzt. Nina (46) und weitere Camper kritisieren das Krisenmanagement – die Betreiber widersprechen.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Trump kann sich Luxusanzug leisten, trägt aber «günstigen Import»",
+      "url": "https://www.20min.ch/story/trump-traegt-guenstigen-anzug-warum-das-etikett-im-jackett-fuer-aufsehen-sorgt-103646226",
+      "summary": "Donald Trump kann sich jeden Anzug leisten. Doch statt der Luxusmarke Brioni trägt der US-Präsident offenbar auch Anzüge für wenige Hundert US-Dollar – die grösstenteils in Asien produziert werden.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mindestens 30 Tote bei russischem Raketenangriff auf Bus",
+      "url": "https://www.20min.ch/story/kramatorsk-mindestens-30-tote-bei-russischem-raketenangriff-auf-bus-103646352",
+      "summary": "Die ukrainische Frontstadt Kramatorsk im Gebiet Donezk gehört zu den Eroberungszielen Russlands. Nach einem neuen schweren Angriff mit vielen Toten rufen die Behörden die Menschen zur Flucht auf.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«80 Prozent der Profifussballer duschen mit Boxershorts»",
+      "url": "https://www.20min.ch/story/weltmeister-packt-aus-80-prozent-der-profifussballer-duschen-mit-boxershorts-103646245",
+      "summary": "Deutschlands Weltmeister Christoph Kramer plaudert in zwei Podcasts über veränderte Duschgewohnheiten von jungen Profifussballern.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Frontalkollision fordert 6 Verletzte – Helikopter im Einsatz",
+      "url": "https://www.20min.ch/story/liesberg-bl-frontalkollision-fordert-6-verletzte-helikopter-im-einsatz-103646343",
+      "summary": "Bei einer Frontalkollision in Liesberg sind am Mittwochnachmittag sechs Personen verletzt worden. Sie mussten in verschiedene Spitäler gebracht werden. Ein Rettungshelikopter war im Einsatz.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Herausforderung für Parmelin: Mit einem Säuli anfreunden",
+      "url": "https://www.20min.ch/story/olma-2026-st-gallen-liveticker-103646154",
+      "summary": "Die Olma läuft vom 8. bis 18. Oktober in St. Gallen. Gastkanton ist dieses Jahr der Kanton Schwyz. Im Ticker erfährst du alles zur Eröffnung und zum ersten Messetag.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Im Nachgang betrachtet: SRF-Journalist Schmitz gesteht im Fall Fischer Fehler zu",
+      "url": "https://www.tagesanzeiger.ch/srf-journalist-pascal-schmitz-10-vor-10-auftritt-war-fehler-304302242151",
+      "summary": "Pascal Schmitz brachte die Urkunden­fälschung von Patrick Fischer an die Öffentlichkeit. Das Gespräch bei «10 vor 10» bezeichnet er als Fehler.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Tigermückenbekämpfung: Student untersuchte 180 Dolen – die Ergebnisse haben es in sich",
+      "url": "https://www.bazonline.ch/tigermuecken-basel-masterarbeit-optimiert-bekaempfung-in-dolen-893342328449",
+      "summary": "Ein Basler Student findet heraus, dass die Bekämpfung von Tigermücken bestenfalls alle vier Wochen erfolge.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Unfall auf der Baselstrasse: 81-Jähriger kollidiert mit Auto – darin sitzen fünf Personen",
+      "url": "https://www.bazonline.ch/liesberg-sechs-verletzte-nach-unfall-auf-baselstrasse-609991206051",
+      "summary": "Bei einem Unfall auf der Baselstrasse bei Liesberg wurden sechs Personen verletzt. Die Ursache ist noch unklar.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Russischer Angriff auf Linienbus",
+      "url": "https://www.zentralplus.ch/news/russischer-angriff-auf-linienbus-2903317/",
+      "summary": "Bei einem russischen Angriff auf die ost-ukrainische Stadt Kramatorsk sind laut ukrainischen Angaben 30 Menschen getötet und mehrere verletzt worden. Laut den lokalen Behörden wurde bei dem Angriff ei",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Weniger Blockaden bei Schulprotesten",
+      "url": "https://www.zentralplus.ch/news/weniger-blockaden-bei-schulprotesten-2903310/",
+      "summary": "Die Schulproteste in Frankreich gehen weiter, allerdings waren am Donnerstag weniger Schulen blockiert. Laut dem Bildungsministerium geht die Zahl der blockierten Schulen zurück. Am Donnerstagmorgen s",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI soll Roboter mit Alltagsvideos auf neue Aufgaben vorbereiten",
+      "url": "https://www.netzwoche.ch/news/2026-10-08/ki-soll-roboter-mit-alltagsvideos-auf-neue-aufgaben-vorbereiten",
+      "summary": "Roboter für neue Aufgaben zu trainieren, kostet Zeit und Geld. Ein neues KI-Modell soll diesen Aufwand verringern. Fürs Vortraining nutzt es Alltagsvideos, um anschliessend Roboter beim Greifen und Be",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie Werbung von KI-Unternehmen eigentlich aussehen müsste",
+      "url": "https://www.netzwoche.ch/netzwitzig/2026-10-08/wie-werbung-von-ki-unternehmen-eigentlich-aussehen-muesste",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Schweizer Unternehmen schwächeln bei digitaler Souveränität",
+      "url": "https://www.netzwoche.ch/news/2026-10-08/schweizer-unternehmen-schwaecheln-bei-digitaler-souveraenitaet",
+      "summary": "Nicht einmal jedes dritte Schweizer Unternehmen hat eine Strategie für digitale Souveränität. Dabei erachten 3 von 4 Unternehmen das Thema als wichtig, wie eine Studie von TI&M und der Hochschule Luze",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Datenabfluss bei Pensionskasse des Bundes",
+      "url": "https://www.inside-it.ch/datenabfluss-bei-pensionskasse-des-bundes-20261008",
+      "summary": "Der Lieferant PK Softech der Pensionskasse Publica meldet einen Cyberangriff. Der Bund bestätigt, dass Daten gestohlen wurden.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Banken müssen Lebendigkeit bei Online-Anmeldung prüfen",
+      "url": "https://www.inside-it.ch/banken-muessen-lebendigkeit-bei-online-anmeldung-pruefen-20261008",
+      "summary": "Bei Online-Anmeldungen schreibt die Eidgenössische Finanzmarktaufsicht den Banken neu eine Lebendigkeitsprüfung vor. Damit soll der Betrugsschutz gestärkt werden.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Timo Müller soll KI-Sichtbarkeit aufbauen",
+      "url": "https://www.persoenlich.com/digital/timo-muller-soll-ki-sichtbarkeit-aufbauen",
+      "summary": "Die Zürcher Digitalagentur hat einen neuen Bereich für Suchmaschinen und Chatbots geschaffen. Geleitet wird er vom bisherigen Head of Digital Operations von Mediaschneider.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Aromat-Chips werden zum Serienstoff",
+      "url": "https://www.persoenlich.com/kategorie-werbung/aromat-chips-werden-zum-serienstoff",
+      "summary": "Zweifel hat auf Instagram und TikTok die ersten zwei Folgen von «Operation Comeback» veröffentlicht. Sie drehen sich um die Frage, ob die Aromat-Chips wieder in den Handel kommt.",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Was Badis, Eisdielen und andere Sommerbetriebe der Region im Winter machen",
+      "url": "https://www.shn.ch/region/kanton/2026-10-08/was-badis-eisdielen-und-andere-sommerbetriebe-der-region-im-winter-machen",
+      "summary": "Leere Becken, verstummte Glacemaschinen, geschlossene Sommercafés: Der Sommer ist vorbei, und damit auch die Saison für Badis und Aussenbetriebe. Was machen deren Mitarbeitende im Winter? Eine Umfrage",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Aida Kreuzfahrt was Steckt Hinter der Plötzlichen Änderung auf der Aidaprima",
+      "url": "https://www.suedostschweiz.ch/panorama/aida-kreuzfahrt-was-steckt-hinter-der-ploetzlichen-aenderung-auf-der-aidaprima-2190123",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kriens Budget 2027 mit Steuersenkung und Defizit",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/kriens-budget-2027-mit-steuersenkung-und-defizit-ld.4247533",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Olma Eröffnung in Stgallen Guy Parmelin und das Säuli",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/olma-eroeffnung-in-stgallen-guy-parmelin-und-das-saeuli-ld.4244035",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "13 Ahv Rente als Verteilungsfrage wer Zahlt wer Profitiert",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/13-ahv-rente-als-verteilungsfrage-wer-zahlt-wer-profitiert-ld.4247666",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Spanien weint um Maricarmen – warum ihr Tod die Proteste jetzt so richtig anheizt",
+      "url": "https://www.freiburger-nachrichten.ch/story/295928/spanien-weint-um-maricarmen-warum-ihr-tod-die-proteste-jetzt-so-richtig-anheizt",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zwei Verletzte bei Frontalkollision in Epagny",
+      "url": "https://www.freiburger-nachrichten.ch/story/295923/zwei-verletzte-bei-frontalkollision-in-epagny",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kriens rutscht in die roten Zahlen – trotzdem sollen die Steuern sinken",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kriens-budget-2027-mit-steuersenkung-und-defizit-art-1725912",
+      "summary": "",
+      "published": "2026-10-08T10:32:39.249646+00:00"
     }
   ]
 }
