@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T13:36:19.954766+00:00",
+  "generated": "2026-10-08T13:43:51.502613+00:00",
   "date": "2026-10-08",
-  "count": 581,
+  "count": 588,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4069,6 +4069,55 @@
       "url": "https://www.watson.ch/leben/reisen/499265230-europa-park-stellt-wild-swing-xl-und-zwei-weitere-neuheiten-fuer-2027-vor",
       "summary": "",
       "published": "2026-10-08T13:36:19.954766+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Chatbots bitten um Erlösung: Entwickler baut eine «Folter­kammer» für KI-Sprach­modelle",
+      "url": "https://www.tagesanzeiger.ch/ai-torture-chamber-entwickler-laesst-sprachmodelle-leiden-339633371526",
+      "summary": "Ein Experiment zwingt KI-Modelle zum Schreiben von drastischen Texten über Leid. Auf X fordern Nutzer die Löschung des Projekts, andere spotten über die Empörung.",
+      "published": "2026-10-08T13:43:51.502613+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Xhaka: Bedingte Geldstrafe",
+      "url": "https://www.zentralplus.ch/news/xhaka-bedingte-geldstrafe-2903423/",
+      "summary": "Der Fussballer und Captain der Schweizer Nationalmannschaft Granit Xhaka wurde verurteilt, weil er ein gefälschtes Covid-Zertifikat gekauft hatte. Das hat er selbst auf Instagram bekannt gegeben. Die ",
+      "published": "2026-10-08T13:43:51.502613+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Melonis Spiel mit dem Feuer: Krimi um das neue Wahlrecht in Italien",
+      "url": "https://www.nzz.ch/international/umstrittene-wahlrechtsreform-in-italien-melonis-riskanter-poker-ld.10027184",
+      "summary": "",
+      "published": "2026-10-08T13:43:51.502613+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Vater Verliert vor Bundesgericht um Kinderabzug",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzerner-vater-verliert-vor-bundesgericht-um-kinderabzug-ld.4247736",
+      "summary": "",
+      "published": "2026-10-08T13:43:51.502613+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Kerze in Backform Mann in Unterentfelden Verurteilt",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/kerze-in-backform-mann-in-unterentfelden-verurteilt-ld.4247622",
+      "summary": "",
+      "published": "2026-10-08T13:43:51.502613+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Lenzburg Immer Wieder Rückstaus Kanton Rüstet die Kreuzung Bleiche auf",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/lenzburg-immer-wieder-rueckstaus-kanton-ruestet-die-kreuzung-bleiche-auf-ld.4247519",
+      "summary": "",
+      "published": "2026-10-08T13:43:51.502613+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Streit um Kinderabzug: Luzerner Vater verliert vor Bundesgericht",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-vater-verliert-vor-bundesgericht-um-kinderabzug-art-1725937",
+      "summary": "",
+      "published": "2026-10-08T13:43:51.502613+00:00"
     }
   ]
 }
