@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T14:54:41.680659+00:00",
+  "generated": "2026-10-08T14:58:36.551075+00:00",
   "date": "2026-10-08",
-  "count": 677,
+  "count": 682,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4741,6 +4741,41 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-obergericht-verbietet-flugblattaktion-gegen-glencore-art-1725949",
       "summary": "",
       "published": "2026-10-08T14:54:41.680659+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nahe der Schweizer Grenze: «Er hat direkt geschossen»: Deutsche Polizei erschiesst bewaffneten Mann",
+      "url": "https://www.tagesanzeiger.ch/tuttlingen-polizei-erschiesst-bewaffneten-mann-am-rathaus-108494530905",
+      "summary": "In Tuttlingen nahe der Schweizer Grenze schiesst ein Mann mit einer Pistole auf Polizisten im Innenhof des Rathauses. Die Beamten erwidern das Feuer, der 27-Jährige stirbt vor Ort.",
+      "published": "2026-10-08T14:58:36.551075+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Tote Frau von Engwang Verdächtiger in Untersuchungshaft in der Schweiz",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/tote-frau-von-engwang-verdaechtiger-in-untersuchungshaft-in-der-schweiz-ld.4247937",
+      "summary": "",
+      "published": "2026-10-08T14:58:36.551075+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Murgang: Unterbruch auf Grimsel-Passstrasse",
+      "url": "https://www.watson.ch/schweiz/strasse/105200821-murgang-unterbruch-auf-grimsel-passstrasse",
+      "summary": "",
+      "published": "2026-10-08T14:58:36.551075+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Brunnen und Ibach wollen nach Kantersiegen einen draufsetzen – Goldau und Küssnacht streben Rehabilitation an",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/brunnen-und-ibach-wollen-nach-kantersiegen-einen-draufsetzen-goldau-und-kuessnacht-streben-rehabilitation-an-art-1725924",
+      "summary": "",
+      "published": "2026-10-08T14:58:36.551075+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Autodieb kehrte trotz Landesverweis zurück und klaute erneut",
+      "url": "https://www.bote.ch/nachrichten/schwyz/autodieb-kehrte-trotz-landesverweis-zurueck-und-klaute-erneut-art-1725913",
+      "summary": "",
+      "published": "2026-10-08T14:58:36.551075+00:00"
     }
   ]
 }
