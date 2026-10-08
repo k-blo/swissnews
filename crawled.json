@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T03:32:15.322400+00:00",
+  "generated": "2026-10-08T03:35:26.672124+00:00",
   "date": "2026-10-08",
-  "count": 131,
+  "count": 149,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -919,6 +919,132 @@
       "url": "https://www.bote.ch/nachrichten/sport/marco-odermatt-trainiert-vor-dem-weltcup-auftakt-in-soelden-art-1725879",
       "summary": "",
       "published": "2026-10-08T03:32:15.322400+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tod durch Giftspritze: Nach Pikes gescheiterter Hinrichtung: Texas vollstreckt Todesstrafe",
+      "url": "https://www.tagesanzeiger.ch/texas-hinrichtet-jamaal-howard-mit-pentobarbital-539154338443",
+      "summary": "In Texas ist am Mittwoch der 46-jährigen Jamaal Howard hingerichtet worden. Es war die erste Vollstreckung der Todesstrafe in den USA seit der gescheiterten Hinrichtung von Christa Pike.",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Ist diesem Staat noch zu trauen?",
+      "url": "https://www.nzz.ch/meinung/ist-diesem-staat-noch-zu-trauen-ld.10024247",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - SPD und CDU suchen vier Sündenböcke: Die Obsession mit der Brandmauer lähmt die deutsche Politik",
+      "url": "https://www.nzz.ch/meinung/spd-und-cdu-suchen-vier-suendenboecke-die-obsession-mit-der-brandmauer-laehmt-die-deutsche-politik-ld.10027183",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Zerschlagt das Patriarchat»: Nach Vergewaltigungsvorwürfen herrscht Aufruhr an der Cornell-Universität",
+      "url": "https://www.nzz.ch/international/zerschlagt-das-patriarchat-nach-vergewaltigungsvorwuerfen-herrscht-aufruhr-an-der-cornell-universitaet-ld.10027175",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Beat Jans wäre im Wirtschaftsdepartement der falsche Mann am falschen Ort",
+      "url": "https://www.nzz.ch/meinung/beat-jans-waere-im-wirtschaftsdepartement-der-falsche-mann-am-falschen-ort-ld.10027127",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Prophet braucht heute einen Lautsprecher: «Moses und Aron» in Basel",
+      "url": "https://www.nzz.ch/feuilleton/der-prophet-braucht-heute-einen-lautsprecher-moses-und-aron-in-basel-ld.10027103",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Drohnen versenken Handelsschiffe vor Bulgarien und Rumänien: Hinter den Attacken wird Moskau vermutet",
+      "url": "https://www.nzz.ch/international/drohnen-versenken-handelsschiffe-vor-bulgarien-und-rumaenien-hinter-den-attacken-wird-moskau-vermutet-ld.10027098",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Donald Trump nutzte Steuergelder für Eigenwerbung. Jetzt krebst er zurück, aber die Kontroverse läuft weiter",
+      "url": "https://www.nzz.ch/wirtschaft/donald-trump-nutzte-steuergelder-fuer-eigenwerbung-jetzt-krebst-er-zurueck-aber-die-kontroverse-laeuft-weiter-ld.10027097",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Der Krieg in Tigray ist kein weiterer obskurer Konflikt in Afrika – er droht die Region am Roten Meer gänzlich in Flammen zu setzen",
+      "url": "https://www.nzz.ch/meinung/krieg-in-tigray-am-roten-meer-droht-ein-flaechenbrand-ld.10027026",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die chaotische Entmachtung des SPÖ-Chefs stürzt Österreichs Regierung in die Krise",
+      "url": "https://www.nzz.ch/international/die-chaotische-entmachtung-des-spoe-chefs-stuerzt-oesterreichs-regierung-in-die-krise-ld.10027008",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nach drei Jahren Krieg haben die Menschen in Gaza ihre Hoffnung verloren – sie trauen weder Israel noch der Hamas",
+      "url": "https://www.nzz.ch/international/gaza-nach-drei-jahren-krieg-haben-die-menschen-die-hoffnung-verloren-ld.10026775",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Überall leere Kassen: China hat die Jagd auf die Reichen des Landes freigegeben",
+      "url": "https://www.nzz.ch/wirtschaft/ueberall-leere-kassen-china-hat-die-jagd-auf-die-reichen-des-landes-freigegeben-ld.10026740",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die berühmte britische Motorradmarke Norton kehrt zurück – mit alten Modellnamen und neuer Technik",
+      "url": "https://www.nzz.ch/mobilitaet/eine-beruehmte-motorradmarke-kehrt-zurueck-und-setzt-alles-auf-eine-karte-ld.10026566",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ AKZENT» - Vom Ruhm zum Trauma: Britische Kriegsveteranen fühlen sich vergessen",
+      "url": "https://www.nzz.ch/podcast/vom-ruhm-zum-trauma-britische-kriegsveteranen-fuehlen-sich-vergessen-ld.10026546",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Brandkatastrophe von Crans-Montana: Doris Leuthard trifft italienische Familien in Mailand",
+      "url": "https://www.nzz.ch/schweiz/brandkatastrophe-von-crans-montana-doris-leuthard-trifft-italienische-familien-in-mailand-ld.10026341",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Erst ein Kernreaktor, dann die Atombombe? Zwei Uranwürfel und eine Wasserprobe zeigen, woran das Uranprojekt Nazideutschlands scheiterte",
+      "url": "https://www.nzz.ch/wissenschaft/erst-ein-kernreaktor-dann-die-atombombe-zwei-uranwuerfel-und-eine-wasserprobe-zeigen-woran-das-uranprojekt-nazideutschlands-scheiterte-ld.10026332",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Dank unserer Abschreckung befinden wir uns nach wie vor im Frieden», sagt der Nato-General",
+      "url": "https://www.nzz.ch/pro/nato-general-abschreckung-sichert-europas-frieden-ld.10026312",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "7. Oktober: Greta Thunberg bei Palästina-Demo in Berlin",
+      "url": "https://www.watson.ch/international/deutschland/463000455-7-oktober-greta-thunberg-bei-palaestina-demo-in-berlin",
+      "summary": "",
+      "published": "2026-10-08T03:35:26.672124+00:00"
     }
   ]
 }
