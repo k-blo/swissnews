@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T01:07:30.738654+00:00",
+  "generated": "2026-10-08T01:32:38.741206+00:00",
   "date": "2026-10-08",
-  "count": 14,
+  "count": 15,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,13 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4247083",
       "summary": "",
       "published": "2026-10-08T01:02:44.086991+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Das Hockey-Wahldebakel beschert Marc Lüthi viel unnötige Arbeit",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/128434734-das-hockey-wahldebakel-beschert-marc-luethi-viel-unnoetige-arbeit",
+      "summary": "",
+      "published": "2026-10-08T01:32:38.741206+00:00"
     }
   ]
 }
