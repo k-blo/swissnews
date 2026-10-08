@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T07:02:42.452136+00:00",
+  "generated": "2026-10-08T07:09:03.060324+00:00",
   "date": "2026-10-08",
-  "count": 252,
+  "count": 255,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1766,6 +1766,27 @@
       "url": "https://www.bote.ch/nachrichten/kultur/dieter-ammann-erhaelt-den-opus-klassik-art-1725888",
       "summary": "",
       "published": "2026-10-08T07:02:42.452136+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "USA-Podcast «Alles klar, Amerika?»: Deportationen, abgelehnte Asylgesuche, entzogene Visa: Wie radikal ist Trumps Migrationspolitik?",
+      "url": "https://www.tagesanzeiger.ch/trumps-migrationspolitik-was-3-3-millionen-deportierte-bedeuten-663391124397",
+      "summary": "Die USA haben über 20’000 Migranten in Drittstaaten abgeschoben. Auch in Länder, die sie selbst als gefährlich erachten. Unsere Korrespondentin sagt, was das für die Menschen bedeutet.",
+      "published": "2026-10-08T07:09:03.060324+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Ortsschilder-Kampagne geht in die dritte Runde",
+      "url": "https://www.persoenlich.com/kategorie-werbung/ortsschilder-kampagne-geht-in-die-dritte-runde",
+      "summary": "Für die Migros hat die Agentur eine neue Welle mit Ortsnamen wie «Scherz», «Lohn» oder «Les Moulins» umgesetzt. Mehrere Motive gehen auf Ideen aus der Bevölkerung und von Firmen zurück.",
+      "published": "2026-10-08T07:09:03.060324+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Niedergösgen Feuer in Altpapierlager Rasch Unter Kontrolle",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/niedergoesgen-feuer-in-altpapierlager-rasch-unter-kontrolle-ld.4247517",
+      "summary": "",
+      "published": "2026-10-08T07:09:03.060324+00:00"
     }
   ]
 }
