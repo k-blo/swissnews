@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T17:08:53.949362+00:00",
+  "generated": "2026-10-08T17:13:51.551491+00:00",
   "date": "2026-10-08",
-  "count": 782,
+  "count": 784,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -5476,6 +5476,20 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/trockenheit-am-bodensee-wie-viel-muesste-es-regnen-damit-er-sich-wieder-fuellt-ld.4247701",
       "summary": "",
       "published": "2026-10-08T17:08:53.949362+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Stimmen aus der Community – Waffenexporte lockern? Die «dialog»-Community ist knapp dafür",
+      "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-waffenexporte-lockern-die-dialog-community-ist-knapp-dafuer",
+      "summary": "Der Bundesrat will Waffenexporte lockern. In der «dialog»-Community findet dies eine knappe Zustimmung.",
+      "published": "2026-10-08T17:13:51.551491+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "500 Zeichen und vier Varianten: Michelangelos Handschrift wird zur digitalen Office-Schriftart",
+      "url": "https://www.tagesanzeiger.ch/michelangelo-handschrift-wird-digitale-schriftart-524831451712",
+      "summary": "Ein Designstudio hat die Handschrift des Renaissance-Künstlers analysiert und daraus eine moderne, gut lesbare Schrift geschaffen. Sie soll ab Ende Jahr unter anderem in Word nutzbar sein.",
+      "published": "2026-10-08T17:13:51.551491+00:00"
     }
   ]
 }
