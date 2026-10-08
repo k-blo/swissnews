@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T04:02:35.843327+00:00",
+  "generated": "2026-10-08T04:32:19.510272+00:00",
   "date": "2026-10-08",
-  "count": 162,
+  "count": 181,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1136,6 +1136,139 @@
       "url": "https://www.watson.ch/international/usa/521377430-von-new-york-bis-berlin-der-mann-hinter-dem-neuen-linkspopulismus",
       "summary": "",
       "published": "2026-10-08T04:02:35.843327+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Aktuelle Strafurteilsstatistik – 2025 wurden fast 8000 Personen wegen Diebstahls verurteilt",
+      "url": "https://www.srf.ch/news/schweiz/aktuelle-strafurteilsstatistik-2025-wurden-fast-8000-personen-wegen-diebstahls-verurteilt",
+      "summary": "Für den Kriminologen Dirk Baier ist dies eine hohe, aber keine überraschende Zahl aus der Strafurteilsstatistik.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "WWF-Biodiversitätsbericht 2026 – Das Artensterben geht weiter – es gibt aber Hoffnung",
+      "url": "https://www.srf.ch/news/schweiz/wwf-biodiversitaetsbericht-2026-das-artensterben-geht-weiter-es-gibt-aber-hoffnung",
+      "summary": "Laut WWF-Biodiversitätsbericht hat die Schweiz Aufholbedarf. Thomas Vellacott, Chef von WWF Schweiz, im Gespräch.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "VBS macht erste Schätzung – Für die Aufrüstung benötigt das VBS bis zu 700 neue Stellen",
+      "url": "https://www.srf.ch/news/schweiz/vbs-macht-erste-schaetzung-fuer-die-aufruestung-benoetigt-das-vbs-bis-zu-700-neue-stellen",
+      "summary": "Verteidigungsminister Pfister will möglichst viele Stellen intern kompensieren. Doch dagegen regt sich Widerstand.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Die grosse Parteien-Bilanz – Teil 1: Wer im Bundeshaus heimlich die Fäden zieht – und wer die herbste Niederlage einstecken musste",
+      "url": "https://www.tagesanzeiger.ch/partei-bilanz-svp-fdp-mitte-und-sp-im-check-vor-wahlen-2027-934035265928",
+      "summary": "Noch ein Jahr bis zu den nationalen Wahlen. Zeit für den grossen Formcheck der Schweizer Parteien.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Antworten zur Börsenhausse: Die Börsen eilen von Rekord zu Rekord, trotz gefährlich steigender Zinsen. Was Sie jetzt wissen müssen",
+      "url": "https://www.tagesanzeiger.ch/boersenrekord-warum-steigende-zinsen-den-aktienboom-nicht-stoppen-130884669245",
+      "summary": "Die Renditen von US-Staatsanleihen klettern auf den höchsten Stand seit 2002, trotzdem bricht die US-Börse Rekorde. Zugleich schwächelt der Franken. Was steckt dahinter? Und wie geht es weiter?",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fehlende Finanzierung: Zürcher Start-up ist heute mehr als eine Milliarde wert, aber: «Schweizer Investoren waren noch nicht überzeugt»",
+      "url": "https://www.tagesanzeiger.ch/risikokapital-warum-zuerichs-start-ups-auf-us-geld-angewiesen-sind-442804998296",
+      "summary": "ETH- und Uni-Zürich-Absolventen gründen viele Firmen – doch um zu wachsen, sind sie auf Geld aus den USA angewiesen. Die Kantonsregierung will das nun ändern.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nachspielzeit: Geschichten aus der Sportwelt: Max Verstappen verspottet seinen Team­kollegen für dessen fehlende Erfolge",
+      "url": "https://www.tagesanzeiger.ch/sport-news-verstappen-verspottet-hadjar-nach-poleposition-985889118524",
+      "summary": "Zu viele Polepositions, eine Bank aus Rennski, ein fieses Kabel und Kinder statt Nazi-Hooligans im Stadion: Das sind die kuriosen und schönen Storys der Woche aus dem Sport.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Philipp Loser über Danger Dan: Darf man Musik von jemandem hören, der zu Gewalt aufruft?",
+      "url": "https://www.tagesanzeiger.ch/danger-dan-darf-man-musik-hoeren-die-zu-gewalt-aufruft-254068717959",
+      "summary": "Kunst war immer schon aktivistisch. Kann das uns, dem Publikum, egal sein: ja – nein – oder nur dann, wenn die Songs so wunderschön sind wie bei Danger Dan?",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Cornell University: «Gerechtigkeit für Jane Doe»: Studierende protestieren gegen Umgang mit Vergewaltigungsfall",
+      "url": "https://www.tagesanzeiger.ch/cornell-university-protest-gegen-umgang-mit-vergewaltigungsfall-729565563579",
+      "summary": "Mit einem siebenstündigen Sitzstreik fordern Studierende Konsequenzen für sieben Beschuldigte. Die Uni reagiere zu langsam auf Meldungen sexueller Gewalt, kritisieren die Organisatoren.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Linke im Dilemma: Wie die Berner Gaza-Demo den Diskurs über den Nahost-Konflikt verändert hat",
+      "url": "https://www.derbund.ch/bern-sp-und-gruene-meiden-linksautonome-gaza-demo-546805372091",
+      "summary": "Wenn Autonome am Sonntag durch die Bundesstadt ziehen, bleiben SP und Grüne auf Distanz. Die Ausschreitungen vom Vorjahr haben den einst breit vorgetragenen Protest viel Kredit gekostet.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Reaktionen aus der Leserschaft: «Absurde Vorschriften»: Auf diese Hürden stossen Haus­besitzende beim Umstieg auf Wärme­pumpen",
+      "url": "https://www.derbund.ch/waermepumpe-bern-baubewilligung-faellt-ab-2027-850218855079",
+      "summary": "Der Kanton Bern heizt immer noch zur Hälfte mit Öl und Gas. Warum läuft der Ersatz nicht schneller? Leser und Leserinnen kritisieren Hindernisse – eines davon wird bald abgeschafft.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Zukunft des Euro-Airports: Wer springt in Basel in die Bresche, wenn Easyjet Strecken streicht?",
+      "url": "https://www.bazonline.ch/euro-airport-basel-kann-wizz-air-easyjet-ersetzen-290711890558",
+      "summary": "Der neue US-Investor hinter Easyjet könnte unrentable Routen am Euro-Airport kappen. In den Fokus rückt deshalb Wizz Air, die Nummer zwei am Flughafen. Wie tickt die ungarische Billigairline?",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Binningen Schloss: Stundenlanges «Bumbum-dudum»: Anwohner ärgern sich über Dayraves im Schlosspark",
+      "url": "https://www.bazonline.ch/schlosspark-binningen-anwohner-klagen-ueber-laerm-bei-raves-244039241892",
+      "summary": "Die Gemeinde will die Anlässe auswerten und mögliche Anpassungen im Hinblick auf die Lärmimmissionen prüfen – betont aber auch die Beliebtheit der Events.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Knallig-orange statt blau-gelb-weiss: Wie gefällt Ihnen das neue Design der Polizeifahrzeuge",
+      "url": "https://www.bazonline.ch/basler-polizeiautos-was-halten-sie-vom-neuen-design-982538177121",
+      "summary": "Die Polizeiautos haben seit August eine neue Folierung. Die Reaktionen sind vielfach hämisch. Oder was halten Sie davon?",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Hacker erbeuten persönliche Daten aller (!) Einwohner: Dänemark erlebt den digitalen Supergau",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-10-08/hacker-erbeuten-persoenliche-daten-aller-einwohner-daenemark",
+      "summary": "Nach einem beispiellosen Datenleck, das die ganze Bevölkerung betrifft, zeigen sich im Vorzeigeland die Risiken einer schnellen Digitalisierung.",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Tv Tipp Heute Dieser Fantasy Klassiker Führt Zurück nach Mittelerde",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/tv-tipp-heute-dieser-fantasy-klassiker-fuehrt-zurueck-nach-mittelerde-2183866",
+      "summary": "",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Muss er Sein Schiff Umplatzieren wie der Zürichsee Pegel Diesen Kapitän auf Trab Hält",
+      "url": "https://www.suedostschweiz.ch/linth/muss-er-sein-schiff-umplatzieren-wie-der-zuerichsee-pegel-diesen-kapitaen-auf-trab-haelt-2180052",
+      "summary": "",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hc Kriens Luzern Feiert Ersten Sieg in der Champions Leagü die Bilder",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/hc-kriens-luzern-feiert-ersten-sieg-in-der-champions-league-die-bilder-ld.4247482",
+      "summary": "",
+      "published": "2026-10-08T04:32:19.510272+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Werbung durch Steuergelder? Demokraten klagen gegen Trump",
+      "url": "https://www.watson.ch/international/usa/230372553-werbung-durch-steuergelder-demokraten-klagen-gegen-trump",
+      "summary": "",
+      "published": "2026-10-08T04:32:19.510272+00:00"
     }
   ]
 }
