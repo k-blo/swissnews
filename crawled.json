@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-09T07:32:25.365896+00:00",
+  "generated": "2026-10-09T08:02:31.040093+00:00",
   "date": "2026-10-09",
-  "count": 280,
+  "count": 301,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1962,6 +1962,153 @@
       "url": "https://www.freiburger-nachrichten.ch/story/296116/hier-k%C3%B6nnte-jeder-sechste-baum-sterben-andere-regionen-kommen-glimpflich-davon",
       "summary": "",
       "published": "2026-10-09T07:32:25.365896+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nachfolge von Guy Parmelin – «Gmögig» vor kompetent: Wer schafft es eher in den Bundesrat?",
+      "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-gmoegig-vor-kompetent-wer-schafft-es-eher-in-den-bundesrat",
+      "summary": "Hinter den Kulissen laufen die Vorbereitungen für Guy Parmelins Nachfolge auf Hochtouren. Was braucht ein Bundesrat?",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Chirurg soll OP-Berichte von Crans-Montana-Opfern gefälscht haben",
+      "url": "https://www.20min.ch/story/unispital-lausanne-chirurg-soll-op-berichte-von-crans-montana-opfern-gefaelscht-haben-103646777",
+      "summary": "Das Universitätsspital Lausanne hat einen Kaderarzt suspendiert und der Staatsanwaltschaft gemeldet. Er soll sich als Erstoperateur eingetragen haben, obwohl er bei den Eingriffen nicht anwesend war.",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Künstliche Intelligenz: Seit dieser Rolle nutzt Andrew Garfield kein Chat-GPT mehr",
+      "url": "https://www.tagesanzeiger.ch/andrew-garfield-rolle-als-sam-altman-machte-ihn-chat-gpt-skeptisch-352801309445",
+      "summary": "Der Schauspieler hat für den Film «Artificial» den OpenAI-Chef Sam Altman verkörpert. Seither habe er «ein bisschen Angst bekommen» vor der Technologie.",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Mobiles Kino: Roadmovie tourt im Oktober durch drei Berner Gemeinden",
+      "url": "https://www.bernerzeitung.ch/roadmovie-kinobus-drei-stopps-im-kanton-bern-im-oktober-626762782460",
+      "summary": "Der Kinobus macht Halt in Meikirch, Müntschemier und Grosshöchstetten und zeigt aktuelle Schweizer Filme. Filmschaffende sind persönlich vor Ort.",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tote nach Waffenkontrolle in Bayern",
+      "url": "https://www.zentralplus.ch/news/tote-nach-waffenkontrolle-in-bayern-2903533/",
+      "summary": "In Bayern sind nach Medienberichten bei einer Waffenkontrolle zwei Behördenmitarbeitende nach Schüssen gestorben. Die Polizei nahm den mutmasslichen Schützen fest. Er hatte sich in seinem Haus verscha",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Polizei ermittelt nach Kabelbrand",
+      "url": "https://www.zentralplus.ch/news/polizei-ermittelt-nach-kabelbrand-2903527/",
+      "summary": "Die Ursache für den Brand in einem Kabelkanal, der zu grösseren Störungen im Bahnverkehr in der Westschweiz führte, ist unklar. Ersten Erkenntnissen zufolge schliesst die Polizei einen technischen Def",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Logitech kündigt neue Videokonferenzprodukte an",
+      "url": "https://www.netzwoche.ch/news/2026-10-09/logitech-kuendigt-neue-videokonferenzprodukte-an",
+      "summary": "Logitech stellt neue Produkte für Videokonferenzen vor. Die Videobar Rally Bar 2 bekommt einen leistungsfähigeren Prozessor sowie neue Kamera- und Audiotechnik. Das Rally System 2 Pro richtet sich an ",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Malware liest Kontrollserver-Adresse aus einem Gedicht",
+      "url": "https://www.netzwoche.ch/news/2026-10-09/malware-liest-kontrollserver-adresse-aus-einem-gedicht",
+      "summary": "Die Malware \"PoeLLM\" hat seit April 2026 über 3400 Server infiziert, darunter zahlreiche Systeme mit KI-Tools wie \"LiteLLM\" und \"Ollama\". Dabei setzen die Angreifer auf Poesie: Sie verstecken die Adre",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Maximales Risiko, null Franken Rendite",
+      "url": "https://www.persoenlich.com/kategorie-werbung/maximales-risiko-null-franken-rendite",
+      "summary": "Die Schaffhauser Regionalbank wirbt nach dem Anschlag mit schwarzem Humor für ihre Anlageberatung. Die Idee kam aus dem eigenen Haus.",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Ki Kann Man Abschalten Mistral Ceo bei Ki Furchtlos",
+      "url": "https://www.bilanz.ch/bilanz-briefing/ki-kann-man-abschalten-mistral-ceo-bei-ki-furchtlos/rgtedsb",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Pfadi Winterthur Holt David Knezevic vom Hsc Suhr Aarau",
+      "url": "https://www.aargauerzeitung.ch/sport/aargau/pfadi-winterthur-holt-david-knezevic-vom-hsc-suhr-aarau-ld.4248050",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Sädelstrasse bei Zufikon nach Unfall Gesperrt",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/saedelstrasse-bei-zufikon-nach-unfall-gesperrt-ld.4248096",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Fahrzeugbrand in Risch Endet mit Totalschaden",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/fahrzeugbrand-in-risch-endet-mit-totalschaden-ld.4248097",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Collien Fernandes' Tochter erwirkt Unterlassung gegen Mutter",
+      "url": "https://www.watson.ch/leben/people-news/791795918-collien-fernandes-tochter-erwirkt-unterlassung-gegen-mutter",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nadine Riesen hofft in der Nati und bei West Ham auf Fortschritte",
+      "url": "https://www.watson.ch/sport/fussball/103750077-nadine-riesen-hofft-in-der-nati-und-bei-west-ham-auf-fortschritte",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Céline Dion stürzt bei Konzert auf der Bühne in Paris",
+      "url": "https://www.watson.ch/international/people-news/307791739-celine-dion-stuerzt-bei-konzert-auf-der-buehne-in-paris",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Auf Schlittenhunden durch Lappland: Das kälteste Abenteuer meines Lebens",
+      "url": "https://www.watson.ch/leben/reisen/140182840-auf-schlittenhunden-durch-lappland-das-kaelteste-abenteuer-meines-lebens",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kritik an «Verkehr '45»: 57 Milliarden für den Ausbau der Mobilität",
+      "url": "https://www.watson.ch/schweiz/auto/911776365-kritik-an-verkehr-45-57-milliarden-fuer-den-ausbau-der-mobilitaet",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wer wird den Seebezirk in Zukunft mitgestalten?",
+      "url": "https://www.freiburger-nachrichten.ch/story/296124/wer-wird-den-seebezirk-in-zukunft-mitgestalten",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "137 Meter mit einem Atemzug: Apnoetaucher bricht eigenen Weltrekord",
+      "url": "https://www.bote.ch/nachrichten/sport/137-meter-mit-einem-atemzug-apnoetaucher-bricht-weltrekord-art-1726065",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Autobrand in Holzhäusern endet mit Totalschaden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/fahrzeugbrand-in-risch-endet-mit-totalschaden-art-1726061",
+      "summary": "",
+      "published": "2026-10-09T08:02:31.040093+00:00"
     }
   ]
 }
