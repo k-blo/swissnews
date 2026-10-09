@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-09T05:32:19.739123+00:00",
+  "generated": "2026-10-09T05:41:12.578158+00:00",
   "date": "2026-10-09",
-  "count": 240,
+  "count": 242,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1682,6 +1682,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/296114/hegseth-best%C3%A4tigt-hinrichtung-in-den-usa-soll-per-livestream-gezeigt-werden",
       "summary": "",
       "published": "2026-10-09T05:32:19.739123+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Esel, Flamingos und Co.: Die lustigsten Tierbilder der Woche",
+      "url": "https://www.watson.ch/spass/cute-news/233996713-esel-flamingos-und-co-die-lustigsten-tierbilder-der-woche",
+      "summary": "",
+      "published": "2026-10-09T05:41:12.578158+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Noble Nzz Macht Ex Redaktorin zur Schnecke",
+      "url": "https://insideparadeplatz.ch/2026/10/09/noble-nzz-macht-ex-redaktorin-zur-schnecke/",
+      "summary": "",
+      "published": "2026-10-09T05:41:12.578158+00:00"
     }
   ]
 }
