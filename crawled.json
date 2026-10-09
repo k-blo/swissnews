@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-09T14:02:25.682352+00:00",
+  "generated": "2026-10-09T14:32:49.435735+00:00",
   "date": "2026-10-09",
-  "count": 608,
+  "count": 643,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4258,6 +4258,251 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/navi-pillay-friedensnobelpreis-geht-an-juristin-die-in-genf-arbeitete-art-1726071",
       "summary": "",
       "published": "2026-10-09T14:02:25.682352+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Online-Marktplatz gehackt – «Keine Erpressung» – Ricardo meldet Datenleck bei 890'000 Konten",
+      "url": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-keine-erpressung-ricardo-meldet-datenleck-bei-890-000-konten",
+      "summary": "Betroffen sind Namen, Postadressen und Telefonnummern. E-Mail-Adressen und Passwörter blieben hingegen geschützt.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Model Giane Alves bringt Baby zum Arzt – und bricht tot zusammen",
+      "url": "https://www.20min.ch/story/model-giane-alves-brasilianerin-stirbt-mit-32-bei-arztbesuch-ihres-babys-103646946",
+      "summary": "Das brasilianische Model Giane Alves ist überraschend gestorben. Ihr langjähriger Agent schildert die tragischen Umstände. Sie hinterlässt einen Ehemann und zwei kleine Kinder.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Krankgeschrieben, Marathon gelaufen – jetzt kassiert er ab",
+      "url": "https://www.20min.ch/story/fall-in-den-niederlanden-krankgeschrieben-marathon-gelaufen-jetzt-kassiert-er-ab-103646945",
+      "summary": "Ein Reisebüro entlässt einen Mitarbeiter, weil er trotz Krankschreibung an einem Marathon teilnimmt. Doch der Richter entscheidet anders und spricht ihm über 60’000 Euro zu.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schweizer Zugbauer: Stadler erhält Auftrag aus Saudiarabien über 300 Millionen Franken",
+      "url": "https://www.tagesanzeiger.ch/stadler-rail-auftrag-aus-saudi-arabien-ueber-300-mio-franken-979402748515",
+      "summary": "Die saudi-arabische Eisenbahn löst eine Option aus dem 600-Millionen-Vertrag ein und verdoppelt die Flotte auf 20 Züge. Produziert werden sie grösstenteils in der Schweiz.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Künstliche Intelligenz im Gesundheitswesen: «Doktor KI» im Stadtspital: Zürcher Stadtrat kontert Bedenken von SP und Grünen",
+      "url": "https://www.tagesanzeiger.ch/stadtspital-zuerich-stadtrat-verteidigt-ki-gegen-kritik-der-linken-879890488871",
+      "summary": "Im Stadtspital Zürich kommen vermehrt KI-Systeme zum Einsatz – und wecken Besorgnis. Die Ratslinke warnt vor Datenlecks und Diskriminierung, der Stadtrat nennt die Technik unverzichtbar.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Tourismus im Oberland: «70 von 94 Betten unseres Hauses waren von Gästen aus China belegt»: Das bringt die «Goldene Woche»",
+      "url": "https://www.bernerzeitung.ch/goldene-woche-chinesische-gaeste-fuellen-hotels-in-grindelwald-730673461216",
+      "summary": "Die Ferienwoche, die Pekings Regierung erfand, ist spürbar bis nach Grindel­wald. Doch was bringt die «Golden Week» wirklich? Ein Hotelier und die Reise­branche ziehen Bilanz.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Studium in Budapest: Er scheiterte dreimal am Numerus clausus – über einen Umweg will er in der Schweiz Arzt werden",
+      "url": "https://www.bernerzeitung.ch/numerus-clausus-schweizer-studiert-medizin-in-budapest-279921572786",
+      "summary": "Schweizer Unis hatten keinen Platz für Johanson Mahanathan. Nach seinem Abschluss in Ungarn kehrt er zurück: als dringend benötigte Fachkraft.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ein Tag im Leben einer Baumpflegerin: «So auf vierzig Metern Höhe zu arbeiten, ist megaschön»",
+      "url": "https://www.bernerzeitung.ch/ein-tag-im-leben-einer-baumpflegerin-898817459029",
+      "summary": "Mit Kletterseil und Kettensäge arbeitet Désirée Hänggi (41) hoch oben in Basels Bäumen – und wird trotzdem nicht immer ernst genommen.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "WM-Playoff: Israel – Schweiz: Mit dem Pausenpfiff treffen die Schweizerinnen, der Jubel darüber ist aber nicht sehr ausgelassen",
+      "url": "https://www.derbund.ch/wm-playoff-israel-gegen-die-schweiz-live-104595935520",
+      "summary": "Das Team von Trainer Rafel Navarro trifft im Hinspiel der ersten WM-Playoffrunde auf Israel. Die Partie jetzt live.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "FCB-Trainer Slavisa Jokanovic: «Schritt für Schritt wird dieses Team mehr zu meinem werden als jenem von Shaqiri»",
+      "url": "https://www.bazonline.ch/fc-basel-jokanovic-vor-pflichtspiel-premiere-in-vaduz-128615960902",
+      "summary": "Vor dem Vaduz-Spiel spricht der FCB-Coach über Erkenntnisse aus der Winterthur-Pleite – und lässt offen, wer die Nummer eins im Basler Tor sein wird.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Datenklau bei Ricardo trifft 890’000 Nutzer",
+      "url": "https://www.zentralplus.ch/news/datenklau-bei-ricardo-trifft-890000-nutzer-2903742/",
+      "summary": "Unbekannte haben bei Ricardo persönliche Daten von rund 890&#8217;000 Nutzerkonten gestohlen. Der Online-Marktplatz hat die Sicherheitslücke geschlossen, warnt seine Kundschaft nun aber vor möglichen ",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Stadt Winterthur stutzt einen Baum gegen den Willen des Besitzers und stellt ihm dafür 10 000 Franken in Rechnung",
+      "url": "https://www.nzz.ch/zuerich/die-stadt-winterthur-stutzt-einen-baum-gegen-den-willen-des-besitzers-und-stellt-ihm-dafuer-10-000-franken-in-rechnung-ld.10026752",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "EU befragt OpenAI und Anthropic",
+      "url": "https://www.persoenlich.com/digital/eu-befragt-openai-und-anthropic",
+      "summary": "Branchenwarnungen vor KI-Gefahren könnten Marketing sein, sagt Digitalkommissarin Henna Virkkunen. Ihre Antwort: Wer sein System für gefährlich halte, solle es nicht auf den Markt bringen.",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Glarnerin Lebte am Existenzminimum",
+      "url": "https://www.suedostschweiz.ch/glarus/glarnerin-lebte-am-existenzminimum-2161141",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wie ein Film Hcd Stürmer Schreiber zum Eishockey Brachte",
+      "url": "https://www.suedostschweiz.ch/regionalsport/wie-ein-film-hcd-stuermer-schreiber-zum-eishockey-brachte-2191145",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kriens Ersetzt die Böögge Rätschete mit Stärne5i",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/kriens-ersetzt-die-boeoegge-raetschete-mit-staerne5i-ld.4244141",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fc Luzern vor Auswärtsspiel Gegen Leader Lugano",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fc-luzern-vor-auswaertsspiel-gegen-leader-lugano-ld.4247879",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Barista Nick Spanoudakis Eröffnet Cafe am Bahnhof Schwyz",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/barista-nick-spanoudakis-eroeffnet-cafe-am-bahnhof-schwyz-ld.4248611",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern für Sauna an der Sunset Bar Brauchts ein Baugesuch",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-fuer-sauna-an-der-sunset-bar-brauchts-ein-baugesuch-ld.4248103",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Zeitung Leser Fordern Mehr Nähe Vielfalt und Austausch",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzerner-zeitung-leser-fordern-mehr-naehe-vielfalt-und-austausch-ld.4248246",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fc Stgallen Empfängt Lausanne Sport mit Lukas Görtler Zurück",
+      "url": "https://www.tagblatt.ch/sport/ostschweiz/fc-stgallen-empfaengt-lausanne-sport-mit-lukas-goertler-zurueck-ld.4248454",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "So Geht der Thurgau Gegen Missbrauch in der Spitex vor",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/so-geht-der-thurgau-gegen-missbrauch-in-der-spitex-vor-ld.4225936",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Frauenfeld Rüstet Jugendhaus 20gi nach Küchenbrand auf",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/frauenfeld-ruestet-jugendhaus-20gi-nach-kuechenbrand-auf-ld.4248000",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Bärgröseli Alpnachstad Neues Jodellied Hat Premiere",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/baergroeseli-alpnachstad-neues-jodellied-hat-premiere-ld.4246668",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Der Fc Landrat Uri ist To Small To Fail",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/der-fc-landrat-uri-ist-to-small-to-fail-ld.4247682",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stromausfall im Jogne-Tal – Behörden warnen",
+      "url": "https://www.watson.ch/schweiz/energie/973222513-stromausfall-im-jogne-tal-behoerden-warnen",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bahnstrecke zwischen Yverdon und Lausanne wegen Sabotage unterbrochen",
+      "url": "https://www.watson.ch/schweiz/sbb/371480222-bahnstrecke-zwischen-yverdon-und-lausanne-wegen-sabotage-unterbrochen",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Sabotageakt»: Feuer legt SBB-Strecke lahm",
+      "url": "https://www.freiburger-nachrichten.ch/story/296280/sabotageakt-feuer-legt-sbbstrecke-lahm",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Stromausfall traf mehrere Freiburger Gemeinden",
+      "url": "https://www.freiburger-nachrichten.ch/story/296253/stromausfall-traf-mehrere-freiburger-gemeinden",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sie stellte Kriegsverbrecher vor Gericht: Nobelpreis für UN-Kommissarin, die in Genf arbeitete",
+      "url": "https://www.freiburger-nachrichten.ch/story/296166/sie-stellte-kriegsverbrecher-vor-gericht-nobelpreis-f%C3%BCr-unkommissarin-die-in-genf-arbeitete",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Es kommt ein rechtes Brett auf uns zu»: So will der FCL Leader Lugano fordern",
+      "url": "https://www.bote.ch/nachrichten/sport/fc-luzern-vor-auswaertsspiel-gegen-leader-lugano-art-1726127",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "SRF entlässt Dokfilmerin – beugt sich der Sender politischem Druck?",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/nach-kritik-von-buergerlichen-srf-entlaesst-bekannte-dokfilmerin-art-1726128",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nach dem Wegfall der Böögge-Rätschete: Kriens erhält Ersatz – und was für einen!",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kriens-ersetzt-die-boeoegge-raetschete-mit-staerne5i-art-1726126",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Saunen an der Sunset-Bar haben Verspätung – es braucht ein Baugesuch",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-fuer-sauna-an-der-sunset-bar-brauchts-ein-baugesuch-art-1726124",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neues Jodellied: Premiere bei den Bärgröseli",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/baergroeseli-alpnachstad-neues-jodellied-hat-premiere-art-1726122",
+      "summary": "",
+      "published": "2026-10-09T14:32:49.435735+00:00"
     }
   ]
 }
