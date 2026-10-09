@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T23:32:50.085366+00:00",
+  "generated": "2026-10-09T00:02:28.652858+00:00",
   "date": "2026-10-09",
-  "count": 21,
+  "count": 22,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -149,6 +149,13 @@
       "url": "https://www.srf.ch/news/schweiz/crans-montana-1-5-millionen-franken-spitalkosten-fuer-italienische-brandopfer",
       "summary": "Die Spitalrechnungen für die italienischen Brandopfer von Crans-Montana belaufen sich laut RTS auf rund 1.5 Millionen.",
       "published": "2026-10-08T23:19:58.478263+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wrestling: Ringrichter stirbt nach illegalem «Martinete»-Griff",
+      "url": "https://www.20min.ch/story/mexiko-wrestling-ringrichter-stirbt-nach-illegalem-martinete-griff-bei-lucha-libre-kampf-103646691",
+      "summary": "Der Griff ist eigentlich verboten, trotzdem setzt ihn ein Wrestling-Kämpfer gegen einen Ringrichter ein. Dieser kommt noch vor Ort ums Leben.",
+      "published": "2026-10-09T00:02:28.652858+00:00"
     }
   ]
 }
