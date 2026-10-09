@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-09T00:32:25.201143+00:00",
+  "generated": "2026-10-09T01:02:19.120128+00:00",
   "date": "2026-10-09",
-  "count": 27,
+  "count": 32,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -191,6 +191,41 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/molinas-genozid-fruehstueck-das-es-nie-gab",
       "summary": "",
       "published": "2026-10-09T00:32:25.201143+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Prinz Harry litt nach Megxit unter Depressionen",
+      "url": "https://www.20min.ch/story/royals-prinz-harry-depression-nach-megxit-mit-meghan-markle-103646700",
+      "summary": "Prinz Harry gewährt seltene Einblicke in sein Innenleben. Nachdem er das Königshaus mit seiner Familie zunächst Richtung Kanada verlassen hatte, habe er einen «Adrenalin-Crash» gehabt.",
+      "published": "2026-10-09T01:02:19.120128+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kauf von US-Frequenzen für Mobilfunk",
+      "url": "https://www.zentralplus.ch/news/kauf-von-us-frequenzen-fuer-mobilfunk-2903496/",
+      "summary": "Elon Musks Weltraumfirma SpaceX will ihr Satelliteninternet in den USA künftig auch über Mobilfunkfrequenzen weiterverbreiten. SpaceX hat ein Paket entsprechender Frequenzen einem Investmentunternehme",
+      "published": "2026-10-09T01:02:19.120128+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "US-Militärhinrichtung per Livestream",
+      "url": "https://www.zentralplus.ch/news/us-militaerhinrichtung-per-livestream-2903494/",
+      "summary": "Erstmals seit 1945 soll in den USA eine Person durch ein Erschiessungskommando des US-Militärs hingerichtet werden. Der ehemalige Militärpsychiater hat vor 17 Jahren auf einem Militärstützpunkt im Bun",
+      "published": "2026-10-09T01:02:19.120128+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sitzplatztickets Hc Kriens Luzern",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/sitzplatztickets-hc-kriens-luzern-ld.4246420",
+      "summary": "",
+      "published": "2026-10-09T01:02:19.120128+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hcap Vs Hc Lugano",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/hcap-vs-hc-lugano-ld.4247153",
+      "summary": "",
+      "published": "2026-10-09T01:02:19.120128+00:00"
     }
   ]
 }
