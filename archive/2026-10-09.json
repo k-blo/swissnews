@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-09T01:02:19.120128+00:00",
+  "generated": "2026-10-09T01:32:41.993274+00:00",
   "date": "2026-10-09",
-  "count": 32,
+  "count": 35,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -226,6 +226,27 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/hcap-vs-hc-lugano-ld.4247153",
       "summary": "",
       "published": "2026-10-09T01:02:19.120128+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Brandkatastrophe Crans-Montana – 1.5 Millionen Franken Spitalkosten für italienische Brandopfer",
+      "url": "https://www.srf.ch/news/schweiz/brandkatastrophe-crans-montana-1-5-millionen-franken-spitalkosten-fuer-italienische-brandopfer",
+      "summary": "Die Spitalrechnungen für die italienischen Brandopfer von Crans-Montana belaufen sich laut RTS auf rund 1.5 Millionen.",
+      "published": "2026-10-09T01:32:41.993274+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mehrere Bundesstaaten betroffen: Hurrikan Isaias verstärkt sich: Evakuierungen an US-Küste",
+      "url": "https://www.tagesanzeiger.ch/usa-hurrikan-isaias-evakuierungen-an-golfkueste-211815296169",
+      "summary": "Auf seinem Weg zur US-Golfküste hat sich Hurrikan Isaias deutlich verstärkt. Meteorologen warnen vor schweren Folgen, die Behörden ordnen Evakuierungen an.",
+      "published": "2026-10-09T01:32:41.993274+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tote bei Gefängnisaufstand in Mexiko",
+      "url": "https://www.zentralplus.ch/news/tote-bei-gefaengnisaufstand-in-mexiko-2903498/",
+      "summary": "Mindestens zehn Personen sind bei einem Aufstand in einem mexikanischen Gefängnis ums Leben gekommen. Es sei während der Besuchszeit am Donnerstag zu einer Schlägerei gekommen, teilten die Behörden de",
+      "published": "2026-10-09T01:32:41.993274+00:00"
     }
   ]
 }
