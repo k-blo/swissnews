@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-09T09:02:17.146504+00:00",
+  "generated": "2026-10-09T09:32:40.160028+00:00",
   "date": "2026-10-09",
-  "count": 357,
+  "count": 387,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2501,6 +2501,216 @@
       "url": "https://www.infosperber.ch/gesundheit/die-zahl-der-ueber-65-jaehrigen-waechst/",
       "summary": "",
       "published": "2026-10-09T09:02:17.146504+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sie schrieb Software für Mondlandung: Margaret Hamilton ist tot",
+      "url": "https://www.20min.ch/story/raumfahrt-pionierin-sie-schrieb-software-fuer-mondlandung-margaret-hamilton-ist-tot-103646826",
+      "summary": "Im Alter von 90 Jahren ist Margaret Hamilton gestorben. Sie war verantwortlich für die Computerprogramme der Apollo-11-Version.",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Machst du den gleichen Krawattenfehler wie Donald Trump?",
+      "url": "https://www.20min.ch/story/krawatten-knigge-das-sagt-das-accessoire-ueber-dich-aus-103645233",
+      "summary": "Bei der Krawatte können wenige Zentimeter den ganzen Look kippen. Eine Stylistin erklärt, was heute funktioniert und warum das Accessoire mehr über Stilgefühl verrät, als viele denken.",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Katastrophenzustand ausgerufen: Schlammlawine verwüstet Vorort",
+      "url": "https://www.20min.ch/video/santiago-de-chile-katastrophenzustand-ausgerufen-schlammlawine-verwuestet-vorort-103646837",
+      "summary": "Nach schweren Regenfällen hat eine Schlammlawine den wohlhabenden Vorort Las Condes im Nordosten von Santiago de Chile getroffen. Die Schlammmassen rissen Autos und Busse mit und drangen in Universitä",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schweizer Wohnungsmarkt: Mieterinnen und Mieter zahlen die Renten der Pensionierten – ist das fair?",
+      "url": "https://www.tagesanzeiger.ch/pensionskassen-hohe-mieten-fuer-bessere-renten-689786672603",
+      "summary": "Pensionskassen kaufen immer mehr Häuser. Und wehren sich gegen Ein­schränk­ungen auf dem Immobilien­markt. Darüber, ob das Sinn macht, gehen die Meinungen weit auseinander.",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Grosses Comeback: Jeden Abend ein Wunder – wie sich Céline Dion Paris nimmt",
+      "url": "https://www.tagesanzeiger.ch/celine-dion-ein-besuch-bei-ihrem-comeback-in-paris-700238011464",
+      "summary": "Was wurde nicht spekuliert: Singt sie selber? Steht sie das durch? Kurz vor Ende ihrer langen Konzertreihe zeigt sich: oh ja!",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Podcast «Politbüro»: Hitzige EU-Debatte: «Das wird eine ähnlich emotionale Abstimmung wie 1992» – «Aber die Fronten sind hier komplizierter»",
+      "url": "https://www.tagesanzeiger.ch/eu-vertraege-warum-fdp-und-mitte-ploetzlich-so-kritisch-sind-312964720856",
+      "summary": "Der Streit um die EU-Verträge im Ständerat hallt nach: Warum äussern sich Mitte- und FDP-Politiker plötzlich so kritisch? Und was bedeutet das für den weiteren Verlauf der Debatte?",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vergabe in Oslo: Der Friedensnobelpreis geht an Navanethem «Navi» Pillay",
+      "url": "https://www.bernerzeitung.ch/friedensnobelpreis-2026-wer-erhaelt-die-auszeichnung-182801862397",
+      "summary": "Die südafrikanische Juristin bekleidete verschiedene Ämter an den höchsten internationalen Gerichten. Die Jury will mit ihrer Ernennung die Bedeutung dieser Institutionen unterstreichen, die zunehmend",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Millionen für den Zugersee sorgen für Gegenwind",
+      "url": "https://www.zentralplus.ch/news/millionen-fuer-den-zugersee-sorgen-fuer-gegenwind-2903535/",
+      "summary": "Der Zugersee braucht mehr Sauerstoff in der Tiefe. Doch eine Schwyzer Kommission lehnt die geplante Millionenmassnahme ab. Die Kommission für Raumplanung, Umwelt, Energie und Verkehr (Ruveko) des Kant",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Friedensnobelpreis für Navi Pillay",
+      "url": "https://www.zentralplus.ch/news/friedensnobelpreis-fuer-navi-pillay-2903573/",
+      "summary": "Der Friedensnobelpreis geht in diesem Jahr an die südafrikanische Juristin Navanethem «Navi» Pillay. Das teilte das norwegische Nobel-Komitee in Oslo am Freitag mit. Pillay wird für ihren Kampf für Fr",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Asos bestätigt Datenleck nach gefälschter Push-Nachricht",
+      "url": "https://www.netzwoche.ch/news/2026-10-09/asos-bestaetigt-datenleck-nach-gefaelschter-push-nachricht",
+      "summary": "Über die App des britischen Modehändlers Asos haben Unbekannte eine Nachricht mit dem Titel \"ASOS HACKED\" verschickt. Das Unternehmen bestätigt einen unbefugten Zugriff auf Kommunikationsplattformen v",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wieso nicht auch alltägliche Probleme maximal optimieren",
+      "url": "https://www.netzwoche.ch/netzwitzig/2026-10-09/wieso-nicht-auch-alltaegliche-probleme-maximal-optimieren",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Sie setzte sich für Gerechtigkeit in Rwanda ein: Die südafrikanische Richterin «Navi» Pillay gewinnt den Friedensnobelpreis",
+      "url": "https://www.nzz.ch/international/die-suedafrikanische-richterin-navi-pillay-gewinnt-den-friedensnobelpreis-ld.10028883",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "The Voice Of Germany Fällt Heute aus das ist der Grund",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/the-voice-of-germany-faellt-heute-aus-das-ist-der-grund-2191228",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "A14 bei Buchrain 21 Jähriger bei Selbstunfall Leicht Verletzt",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/a14-bei-buchrain-21-jaehriger-bei-selbstunfall-leicht-verletzt-ld.4248205",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Externe Überprüfung für die Bauverwaltung Wohlen Angeregt",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/externe-ueberpruefung-fuer-die-bauverwaltung-wohlen-angeregt-ld.4248115",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Drei Jahre Lang Baustelle Kanton Solothurn Macht in Nunningen die Strasse Neu",
+      "url": "https://www.bzbasel.ch/basel/baselland/drei-jahre-lang-baustelle-kanton-solothurn-macht-in-nunningen-die-strasse-neu-ld.4247665",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Basel E Trottis und E Scooter Sorgen für Unmut",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/basel-e-trottis-und-e-scooter-sorgen-fuer-unmut-ld.4247325",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Marc Storace Feiert 75 Geburtstag im Z7 in Pratteln",
+      "url": "https://www.bzbasel.ch/kultur/basel/marc-storace-feiert-75-geburtstag-im-z7-in-pratteln-ld.4246899",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Niedergösgen Warum es bei der Model Ag Brannte",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/niedergoesgen-warum-es-bei-der-model-ag-brannte-ld.4248127",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Stadt Dietikon Richtet Alters und Gesundheitszentrum Neu aus",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/stadt-dietikon-richtet-alters-und-gesundheitszentrum-neu-aus-ld.4247678",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Rathausbrücke Trockenheit Behindert Baustelle",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/rathausbruecke-trockenheit-behindert-baustelle-ld.4246854",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stadler Rail erhält Auftrag für 10 Intercity-Züge in Saudi-Arabien",
+      "url": "https://www.watson.ch/wirtschaft/oev/380536454-stadler-rail-erhaelt-auftrag-fuer-10-intercity-zuege-in-saudi-arabien",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der Friedensnobelpreis geht an Navanethem Pillay",
+      "url": "https://www.watson.ch/international/norwegen/423605895-der-friedensnobelpreis-geht-an-navanethem-pillay",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tödliche Schüsse bei Waffenkontrolle – Verdächtiger gefasst",
+      "url": "https://www.watson.ch/international/polizeirapport/831276988-toedliche-schuesse-bei-waffenkontrolle-verdaechtiger-gefasst",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Turner Marco Pfyl beendet Karriere",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-turner-marco-pfyl-beendet-karriere",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stadt Winterthur will das Laub künftig liegen lassen",
+      "url": "https://www.watson.ch/schweiz/zuerich/652383286-stadt-winterthur-will-das-laub-kuenftig-liegen-lassen",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gemüse oder Frucht? Alles über Avocados – wie man sie zubereiten kann und warum sie besonders gesund sind",
+      "url": "https://www.bote.ch/nachrichten/ratgeber/avocado-gemuese-oder-frucht-die-besten-rezepte-art-1726074",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Exklusiv: Roger Federer bleibt Stan Wawrinkas Abschied fern",
+      "url": "https://www.bote.ch/nachrichten/sport/swiss-indoors-roger-federer-verpasst-wawrinkas-abschied-in-basel-art-1726075",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auto prallt auf der A14 in Leitplanke – 70'000 Franken Sachschaden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/a14-bei-buchrain-21-jaehriger-bei-selbstunfall-leicht-verletzt-art-1726073",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Navanethem Pillay: Friedensnobelpreis geht an südafrikanische Juristin",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/navanethem-pillay-friedensnobelpreis-geht-an-suedafrikanische-juristin-art-1726071",
+      "summary": "",
+      "published": "2026-10-09T09:32:40.160028+00:00"
     }
   ]
 }
