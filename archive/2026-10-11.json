@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T23:02:16.847367+00:00",
+  "generated": "2026-10-10T23:32:39.333766+00:00",
   "date": "2026-10-11",
-  "count": 7,
+  "count": 8,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -51,6 +51,13 @@
       "url": "https://www.zentralplus.ch/news/toedlicher-vorfall-im-tigergehege-2903951/",
       "summary": "Ein Mann ist in einem Zoo in England von einem Tiger angegriffen und getötet worden. Er hatte ein Tigergehege im Yorkshire Wildlife Park betreten. Trotz Bemühungen der Rettungskräfte starb er noch vor",
       "published": "2026-10-10T23:02:16.847367+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neun Tote nach Schüssen in Pennsylvania",
+      "url": "https://www.zentralplus.ch/news/neun-tote-nach-schuessen-in-pennsylvania-2903955/",
+      "summary": "Bei einer Gewalttat im US-Bundesstaat Pennsylvania sind acht Menschen getötet worden. Und auch der mutmassliche Täter ist tot. Unter den Opfern sind zwei Kinder und eine hochschwangere Frau. Sieben de",
+      "published": "2026-10-10T23:32:39.333766+00:00"
     }
   ]
 }
