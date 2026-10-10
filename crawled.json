@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T10:53:46.467766+00:00",
+  "generated": "2026-10-10T11:02:17.545052+00:00",
   "date": "2026-10-10",
-  "count": 362,
+  "count": 364,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2536,6 +2536,20 @@
       "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-verstappen-gewinnt-sprint-in-singapur",
       "summary": "",
       "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Das grosse Abc: Unser Sprachquiz: Meistern Sie diese 11 Sprachfragen!",
+      "url": "https://www.tagesanzeiger.ch/sprachquiz-napoleon-st-helena-und-holzhacken-594457179901",
+      "summary": "Was bedeutet es, wenn jemand Holz auf sich hacken lässt? Unser Sprachquiz fordert Sie mit elf schwierigen Fragen heraus.",
+      "published": "2026-10-10T11:02:17.545052+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Invasive Arten im Aargau Kanton Plant Milliardenprogramm",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/invasive-arten-im-aargau-kanton-plant-milliardenprogramm-ld.4246785",
+      "summary": "",
+      "published": "2026-10-10T11:02:17.545052+00:00"
     }
   ]
 }
