@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T16:49:59.796521+00:00",
+  "generated": "2026-10-10T16:53:26.936174+00:00",
   "date": "2026-10-10",
-  "count": 498,
+  "count": 501,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3488,6 +3488,27 @@
       "url": "https://www.watson.ch/sport/liveticker/551008890-national-league-zsc-gegen-fribourg-und-alle-weiteren-partien-im-ticker",
       "summary": "",
       "published": "2026-10-10T16:49:59.796521+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Huthi-Angriff auf Flughafen: fünf Schwerverletzte",
+      "url": "https://www.20min.ch/story/riad-saudiarabien-huthi-angriff-auf-flughafen-fuenf-schwerverletzte-103647555",
+      "summary": "Nach Angriffen auf den Flughafen in Riad gibt es mindestens fünf Schwerverletzte. Die Huthi-Miliz droht mit weiteren Attacken auf saudische Ziele.",
+      "published": "2026-10-10T16:53:26.936174+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bewilligte Kundgebung: Pro-Palästina-Demo zog am Samstag durch Zürich",
+      "url": "https://www.tagesanzeiger.ch/zuerich-pro-palaestina-demo-zog-durch-die-stadt-986083626205",
+      "summary": "Am Nachmittag marschierten Hunderte Demonstrierende durch die Innenstadt. Die Kundgebung verlief friedlich. Auch in anderen Schweizer Städten finden Proteste statt.",
+      "published": "2026-10-10T16:53:26.936174+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Angriff auf Flughafen von Riad",
+      "url": "https://www.zentralplus.ch/news/angriff-auf-flughafen-von-riad-2903939/",
+      "summary": "Bei einem weiteren Raketenangriff auf den Flughafen der saudi-arabischen Hauptstadt Riad sind Dutzende Menschen verletzt worden. Das berichten mehrere Nachrichtenagenturen mit Verweis auf Augenzeugen.",
+      "published": "2026-10-10T16:53:26.936174+00:00"
     }
   ]
 }
