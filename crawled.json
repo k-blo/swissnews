@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T21:02:21.078812+00:00",
+  "generated": "2026-10-10T21:32:30.270687+00:00",
   "date": "2026-10-10",
-  "count": 567,
+  "count": 569,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3971,6 +3971,20 @@
       "url": "https://www.watson.ch/international/gesellschaft-politik/176409785-tschechiens-opposition-mit-achtungserfolg-bei-senatswahl",
       "summary": "",
       "published": "2026-10-10T21:02:21.078812+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Nordlichter leuchten über der Schweiz",
+      "url": "https://www.blick.ch/schweiz/nordlichter-leuchten-ueber-der-schweiz/t4xn6sd",
+      "summary": "In der Nacht auf Sonntag waren über dem Jura schwache, aber eindeutige Polarlichter zu sehen. Auch auf Webcams von Meteo Schweiz ist das seltene Naturschauspiel deutlich erkennbar.",
+      "published": "2026-10-10T21:32:30.270687+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "2:1-Sieg in Ambri: Annulliertes Tor, ein überragender Torhüter und der Sieg 7 Sekunden vor Schluss",
+      "url": "https://www.bernerzeitung.ch/sc-bern-gewinnt-von-burg-glaenzt-mit-33-paraden-in-ambri-120703930488",
+      "summary": "Ambri jubelt bereits über den Siegtreffer. Doch dann greifen die Schiedsrichter ein – und 7,6 Sekunden vor Schluss schlägt der SCB doch noch zu.",
+      "published": "2026-10-10T21:32:30.270687+00:00"
     }
   ]
 }
