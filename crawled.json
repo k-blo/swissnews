@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T22:02:37.314204+00:00",
+  "generated": "2026-10-10T22:33:00.704825+00:00",
   "date": "2026-10-11",
-  "count": 2,
+  "count": 4,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/295885/neue-r%C3%A4ume-f%C3%BCr-eine-wachsende-schule",
       "summary": "",
       "published": "2026-10-10T22:02:37.314204+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "12 Tote bei Raketenangriff auf Riad",
+      "url": "https://www.zentralplus.ch/news/12-tote-bei-raketenangriff-auf-riad-2903949/",
+      "summary": "Bei einem Raketenangriff auf den internationalen Flughafen der saudi-arabischen Hauptstadt Riad sind mindestens zwölf Menschen getötet und über 300 verletzt worden. Das teilte die Zivilluftfahrtbehörd",
+      "published": "2026-10-10T22:33:00.704825+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Richards Slapstick-Eigentor und Seilers geheimnisvolles Lächeln",
+      "url": "https://www.freiburger-nachrichten.ch/story/296474/richards-slapstickeigentor-und-seilers-geheimnisvolles-l%C3%A4cheln",
+      "summary": "",
+      "published": "2026-10-10T22:33:00.704825+00:00"
     }
   ]
 }
