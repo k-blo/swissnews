@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T16:55:18.009790+00:00",
+  "generated": "2026-10-10T17:02:28.228035+00:00",
   "date": "2026-10-10",
-  "count": 501,
+  "count": 503,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3509,6 +3509,20 @@
       "url": "https://www.zentralplus.ch/news/angriff-auf-flughafen-von-riad-2903939/",
       "summary": "Bei einem weiteren Raketenangriff auf den Flughafen der saudi-arabischen Hauptstadt Riad sind Dutzende Menschen verletzt worden. Das berichten mehrere Nachrichtenagenturen mit Verweis auf Augenzeugen.",
       "published": "2026-10-10T16:53:26.936174+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview mit Carmen Reinhart: Droht eine Finanzkrise? «Es gibt zwei Gefahren, eine unmittelbar bedrohliche und eine schleichende»",
+      "url": "https://www.tagesanzeiger.ch/carmen-reinhart-der-ki-boom-ist-eine-blase-792085772668",
+      "summary": "Der KI-Boom ist gewaltig, die Staatsschulden schiessen in die Höhe: Wie lange geht das noch gut? Antworten von der renommierten Harvard-Ökonomin.",
+      "published": "2026-10-10T17:02:28.228035+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Stolpern die ZSC Lions über den Meister?",
+      "url": "https://www.freiburger-nachrichten.ch/story/296395/stolpern-die-zsc-lions-%C3%BCber-den-meister",
+      "summary": "",
+      "published": "2026-10-10T17:02:28.228035+00:00"
     }
   ]
 }
