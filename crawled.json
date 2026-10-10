@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T16:47:58.704040+00:00",
+  "generated": "2026-10-10T16:49:59.796521+00:00",
   "date": "2026-10-10",
-  "count": 497,
+  "count": 498,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3481,6 +3481,13 @@
       "url": "https://www.watson.ch/international/luftfahrt/837186568-angriff-auf-saudi-flughafen-mindestens-5-schwerverletzte",
       "summary": "",
       "published": "2026-10-10T16:47:58.704040+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "National League: ZSC gegen Fribourg und alle weiteren Partien im Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/551008890-national-league-zsc-gegen-fribourg-und-alle-weiteren-partien-im-ticker",
+      "summary": "",
+      "published": "2026-10-10T16:49:59.796521+00:00"
     }
   ]
 }
