@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T10:32:17.761514+00:00",
+  "generated": "2026-10-10T10:53:46.467766+00:00",
   "date": "2026-10-10",
-  "count": 349,
+  "count": 362,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2445,6 +2445,97 @@
       "url": "https://insideparadeplatz.ch/2026/10/10/nicht-dasselbe-wenn-drei-bei-virus-das-gleiche-tun/",
       "summary": "",
       "published": "2026-10-10T10:32:17.761514+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Die etwas anderen News – Parmel-IN, Parmel-OUT",
+      "url": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-parmel-in-parmel-out",
+      "summary": "Es wurde viel geschrieben zu Parmelins Rücktritt. Eine satirische Würdigung des Satirepreisträgers hat noch gefehlt.",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nemo totgebissen, doch Schäferhund läuft weiter ohne Maulkorb rum",
+      "url": "https://www.20min.ch/story/halterin-entsetzt-nemo-totgebissen-doch-schaeferhund-laeuft-weiter-ohne-maulkorb-rum-103646809",
+      "summary": "Ein Deutscher Schäferhund biss am Uetliberg den Mini-Labradoodle Nemo (2) tot. Vier Monate später sieht seine Halterin den Hund wieder. Vom Veterinäramt habe sie bisher keine Auskunft über die Schutzm",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wohlstandsverwahrlosung»: Rheinmetall-CEO kritisiert die Schweiz",
+      "url": "https://www.20min.ch/story/oliver-duerr-wohlstandsverwahrlosung-rheinmetall-ceo-kritisiert-die-schweiz-103647405",
+      "summary": "Rheinmetall-Chef Oliver Dürr tritt zurück und kritisiert die  Schweizer Sicherheitspolitik. Besonders bei der Drohnenabwehr sieht er grosse Versäumnisse.",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Beschämend und peinlich»: Trump kritisiert Norwegen",
+      "url": "https://www.20min.ch/video/friedensnobelpreis-beschaemend-und-peinlich-trump-kritisiert-norwegen-103647408",
+      "summary": "Donald Trump kritisiert erneut, dass er den Friedensnobelpreis nicht erhalten hat. Bei einer Wahlkampfveranstaltung in Syracuse im US-Bundesstaat New York sagte er über die Preisträgerin Navi Pillay: ",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Diesel-Deal mit Putin: Trump genehmigt umstrittene Sonderregel",
+      "url": "https://www.20min.ch/story/usa-diesel-deal-mit-putin-trump-genehmigt-umstrittene-sonderregel-103647395",
+      "summary": "Russland soll den USA und dem Weltmarkt «umgehend» Diesel zur Verfügung stellen. Doch was bringt Donald Trumps Diesel-Deal? Fragen und Antworten.",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Formel 1 in Singapur: Verstappen gewinnt chaotisches Sprintrennen – neun Autos scheiden aus",
+      "url": "https://www.tagesanzeiger.ch/formel-1-verstappen-gewinnt-sprint-chaos-in-singapur-737104869849",
+      "summary": "Heftige Regenschauer, ein Crash von George Russell und zahlreiche Ausfälle prägen den letzten Sprint der Saison. Max Verstappen setzt sich vor Lewis Hamilton und Charles Leclerc durch.",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Titel geht erstmals nach Europa: Der Schweizer Valerio Moser ist Weltmeister im Poetry-Slam",
+      "url": "https://www.tagesanzeiger.ch/poetry-slam-valerio-moser-ist-weltmeister-476982947603",
+      "summary": "Der 37-Jährige aus Langenthal BE setzt sich im Finale in Durban gegen Konkurrenz aus neun Ländern durch. Moser ist auch amtierender Europameister und vierfacher Schweizermeister.",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Proteste in Indien: Polizei nimmt Tausende Demonstrierende der «Kakerlaken-Bewegung» fest",
+      "url": "https://www.bernerzeitung.ch/neu-delhi-tausende-festnahmen-bei-protest-gegen-wahlkommission-835640751975",
+      "summary": "In Neu-Delhi protestierten Jugendlichen gegen die mutmassliche Löschung von Namen aus Wählerverzeichnissen. Die Behörden sperrten das Internet und schlossen U-Bahnstationen.",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Titel geht erstmals nach Europa: Langenthaler Valerio Moser ist Weltmeister im Poetry-Slam",
+      "url": "https://www.bernerzeitung.ch/poetry-slam-valerio-moser-ist-weltmeister-476982947603",
+      "summary": "Der 37-Jährige setzt sich im Finale in Durban gegen Konkurrenz aus neun Ländern durch. Moser ist auch amtierender Europameister und vierfacher Schweizermeister.",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Zahlreiche Festnahmen bei Protesten in Delhi",
+      "url": "https://www.nzz.ch/international/zahlreiche-festnahmen-bei-protesten-in-delhi-ld.10030121",
+      "summary": "",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Koch des Jahres Dominik Hartmann Vegetarische Küche im Magdalena",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/koch-des-jahres-dominik-hartmann-vegetarische-kueche-im-magdalena-ld.4248732",
+      "summary": "",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Nico Suremann Fliegt 570 Kilometer Qür Durch Brasilien",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/nico-suremann-fliegt-570-kilometer-quer-durch-brasilien-ld.4248738",
+      "summary": "",
+      "published": "2026-10-10T10:53:46.467766+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Verstappen gewinnt Sprint in Singapur",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-verstappen-gewinnt-sprint-in-singapur",
+      "summary": "",
+      "published": "2026-10-10T10:53:46.467766+00:00"
     }
   ]
 }
