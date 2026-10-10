@@ -4,16 +4,16 @@
     "etag": "\"8a58f96cd9ffdf60b9065cab16c58dd1\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"187c1-X0VrUVnLOnOeiUOv6R5Keg9lDr0\""
+    "etag": "W/\"187dc-d8C63RQgaUsP4wjyjLA4U/7i0QM\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"eb53-LfxoZEg+S8X6145bJbjRaRaEOck\""
+    "etag": "W/\"eb65-93msNGdcIY613uBs7dZ7XRrOP78\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
     "etag": "W/\"d5cf-+T7HycEuo2wf9S++6TaUzsZcPQc\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Sat, 10 Oct 2026 00:35:14 GMT"
+    "last_modified": "Sat, 10 Oct 2026 01:45:14 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
     "last_modified": "Fri, 09 Oct 2026 23:31:44 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1791590413\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sat, 10 Oct 2026 01:30:40 GMT"
+    "last_modified": "Sat, 10 Oct 2026 02:00:41 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"d59f-zepSymofipCYHwTO6UBZ/gWPC74\""
+    "etag": "W/\"d5b1-o6hUtTn43yc3bRJ1yCbCFPR9t6I\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"fb04-VCzPgdy9fQZ+Aqm7SZQ3UdHjOek\""
+    "etag": "W/\"fb16-qSU3/e/kUj0XaELQe+s3TnBOJ9Q\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Fri, 09 Oct 2026 22:56:33 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1791260065\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sat, 10 Oct 2026 01:12:14 GMT",
-    "etag": "W/\"1791594734-gzip\""
+    "last_modified": "Sat, 10 Oct 2026 02:00:28 GMT",
+    "etag": "W/\"1791597628-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"1637a-OeLQgHMP2EyciBfJCP5j5A42FCs\""
