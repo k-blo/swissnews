@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T22:33:00.704825+00:00",
+  "generated": "2026-10-10T23:02:16.847367+00:00",
   "date": "2026-10-11",
-  "count": 4,
+  "count": 7,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -30,6 +30,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/296474/richards-slapstickeigentor-und-seilers-geheimnisvolles-l%C3%A4cheln",
       "summary": "",
       "published": "2026-10-10T22:33:00.704825+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Volleyball: Sm'Aesch Pfeffingen startet mit einem Arbeitssieg in die Saison",
+      "url": "https://www.bazonline.ch/smaesch-pfeffingen-sieg-zum-auftakt-trotz-verletzungen-957013339861",
+      "summary": "Die verletzungsgeschwächten Baselbieterinnen ringen Aufsteiger Aarau in fünf Sätzen nieder.",
+      "published": "2026-10-10T23:02:16.847367+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Christa Pike zurück im Gefängnis",
+      "url": "https://www.zentralplus.ch/news/christa-pike-zurueck-im-gefaengnis-2903953/",
+      "summary": "Die US-Amerikanerin Christa Pike hat rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen. Sie sei in das Gefängnis in Tennessee zurückgekehrt, in dem sie seit über 30",
+      "published": "2026-10-10T23:02:16.847367+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Tödlicher Vorfall im Tigergehege",
+      "url": "https://www.zentralplus.ch/news/toedlicher-vorfall-im-tigergehege-2903951/",
+      "summary": "Ein Mann ist in einem Zoo in England von einem Tiger angegriffen und getötet worden. Er hatte ein Tigergehege im Yorkshire Wildlife Park betreten. Trotz Bemühungen der Rettungskräfte starb er noch vor",
+      "published": "2026-10-10T23:02:16.847367+00:00"
     }
   ]
 }
