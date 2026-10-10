@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T20:09:06.699168+00:00",
+  "generated": "2026-10-10T20:32:39.778185+00:00",
   "date": "2026-10-10",
-  "count": 548,
+  "count": 559,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3838,6 +3838,83 @@
       "url": "https://www.bote.ch/nachrichten/sport/fc-luzern-erhaelt-schlechte-noten-beim-04-in-lugano-art-1726260",
       "summary": "",
       "published": "2026-10-10T20:02:47.401972+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Polarlichter leuchten am Schweizer Nachthimmel",
+      "url": "https://www.20min.ch/story/wetter-polarlichter-leuchten-am-schweizer-nachthimmel-103647727",
+      "summary": "Am Samstagabend sind an einigen Orten in der Schweiz schwache aber deutliche Polarlichter zu sehen. Was ihre Farbe verrät.",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Beatrice Egli im Hallenstadion: Die gute Laune als Superkraft",
+      "url": "https://www.tagesanzeiger.ch/beatrice-egli-erste-schweizer-solokuenstlerin-im-hallenstadion-831329450183",
+      "summary": "Als erste Schweizer Solokünstlerin füllt Beatrice Egli das Hallenstadion – mit schnellem Popschlager, persönlichen Geschichten und unerschütterlichem Optimismus.",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "5:4 gegen Fribourg: Die ZSC Lions eilen mit unerschütterlichem Selbstvertrauen zum Rekord",
+      "url": "https://www.tagesanzeiger.ch/zsc-lions-zehn-siege-in-zehn-spielen-nach-fribourg-match-rekord-241813889004",
+      "summary": "Die Zürcher finden gegen effiziente Freiburger auf jeden Rückschlag eine fast sofortige Antwort. Sie gewinnen gegen den Meister auch ihr zehntes Saisonspiel.",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sparmassnahmen: SRF entlässt Dokfilmerin Karin Bauer – nach 32 Jahren beim Sender",
+      "url": "https://www.tagesanzeiger.ch/srf-kuendigt-dokumentarfilmerin-karin-bauer-nach-32-jahren-898870665752",
+      "summary": "Im Januar strahlte der Sender die Doku «Wo-Wo-Wohnungsnot» aus. Gegen den Film der 57-Jährigen gingen neun Beschwerden ein. SRF bestreitet einen Zusammenhang zur Kündigung.",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Pillay kritisiert USA wegen ICC",
+      "url": "https://www.zentralplus.ch/news/pillay-kritisiert-usa-wegen-icc-2903947/",
+      "summary": "Die frisch gekürte Trägerin des Friedensnobelpreises hat die US-Sanktionen gegen den Internationalen Strafgerichtshof (ICC) kritisiert. Es sei inakzeptabel, dass ein Land Sanktionen gegen Richterinnen",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Ein SP-Wirtschaftsminister wäre für die Gewerkschaften nicht nur förderlich»: Jetzt zweifeln auch Linke an Bundesrat Jans",
+      "url": "https://www.nzz.ch/schweiz/ein-sp-wirtschaftsminister-waere-fuer-die-gewerkschaften-nicht-nur-foerderlich-linke-zweifeln-an-beat-jans-ld.10027378",
+      "summary": "",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hc Kriens Luzern Siegt Knapp Gegen St Otmar St Gallen",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/hc-kriens-luzern-siegt-knapp-gegen-st-otmar-st-gallen-ld.4248759",
+      "summary": "",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "National League: ZSC gewinnt in der Verlängerung gegen Fribourg",
+      "url": "https://www.watson.ch/sport/liveticker/551008890-national-league-zsc-gewinnt-in-der-verlaengerung-gegen-fribourg",
+      "summary": "",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KK-Prämien: Deshalb ist das Telefonmodell oft teurer als der Hausarzt",
+      "url": "https://www.watson.ch/schweiz/krankenkasse/104289499-kk-praemien-deshalb-ist-das-telefonmodell-oft-teurer-als-der-hausarzt",
+      "summary": "",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Auch der Meister kommt nicht gegen die Lions an",
+      "url": "https://www.freiburger-nachrichten.ch/story/296395/auch-der-meister-kommt-nicht-gegen-die-lions-an",
+      "summary": "",
+      "published": "2026-10-10T20:32:39.778185+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Krienser werden gestresst – und feiern am Ende trotzdem",
+      "url": "https://www.bote.ch/nachrichten/sport/hc-kriens-luzern-siegt-knapp-gegen-st-otmar-st-gallen-art-1726262",
+      "summary": "",
+      "published": "2026-10-10T20:32:39.778185+00:00"
     }
   ]
 }
