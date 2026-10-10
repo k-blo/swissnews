@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T15:02:31.282691+00:00",
+  "generated": "2026-10-10T15:32:53.920283+00:00",
   "date": "2026-10-10",
-  "count": 450,
+  "count": 464,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -3152,6 +3152,104 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/so-grandios-praesentierte-sich-schwyz-am-grossen-olma-umzug-art-1726256",
       "summary": "",
       "published": "2026-10-10T15:02:31.282691+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Könntest du für Sophie stimmen?»: Achtung vor diesem Whatsapp",
+      "url": "https://www.20min.ch/story/betrugsmasche-koenntest-du-fuer-sophie-stimmen-achtung-vor-diesem-whatsapp-103647448",
+      "summary": "Per Whatsapp wird derzeit dazu aufgefordert, für die Tochter einer Freundin abzustimmen. Die Cybercrime-Police warnt vor fatalen Folgen, wenn man auf den angefügten Link klickt.",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Dank «intensiver Vorbereitung»: Zermatt öffnet erste Skilifte",
+      "url": "https://www.20min.ch/story/mitte-oktober-dank-intensiver-vorbereitung-zermatt-oeffnet-erste-skilifte-103647438",
+      "summary": "Bereits nächste Woche sollen in Zermatt die ersten Skilifte im Einsatz stehen. Möglich machen sollen dies intensive Vorbereitungs- und Unterhaltsarbeiten der Bergbahnen.",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview zu Trumps Diesel-Deal: «Vorstellbar, dass die Ukrainer russische Raffinerien jetzt noch mehr ins Visier nehmen»",
+      "url": "https://www.tagesanzeiger.ch/trump-lockert-sanktionen-experte-kritisiert-putin-deal-742125236683",
+      "summary": "Donald Trump kauft bei Wladimir Putin Sprit. Was bedeutet das für den ukrainischen Abwehrkampf? Russland-Experte Ulrich Schmid gibt Antworten.",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Qualifying zum GP Singapur: Verstappen holt sich die 50. Pole Position seiner Karriere",
+      "url": "https://www.tagesanzeiger.ch/formel-1-singapur-verstappen-holt-50-pole-position-752388592359",
+      "summary": "Der Red-Bull-Pilot sichert sich im Qualifying zum Nachtrennen den besten Startplatz vor den Ferrari-Fahrern Leclerc und Hamilton. Nico Hülkenberg verpasst als Elfter den letzten Durchgang.",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Winterthur: Socken-Diebstahl endet in Verfolgungsjagd",
+      "url": "https://www.tagesanzeiger.ch/winterthur-zwei-algerier-nach-socken-diebstahl-festgenommen-777811583982",
+      "summary": "Zwei Männer flüchten nach einem Ladendiebstahl in der Marktgasse und wurden festgenommen.",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Luzerner Köche müssen bald richtig improvisieren",
+      "url": "https://www.zentralplus.ch/gastronomie/luzerner-koeche-muessen-bald-richtig-improvisieren-2903132/",
+      "summary": "Erst wenige Stunden vor dem Start erfahren die Kochteams am Kitchen Battle Luzern, was sie ihren Gästen auftischen können. Dominic Pérez sorgt hinter den Kulissen dafür, dass die Herausforderung beson",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Erneute Messerattacke in Schule in Polen – drei Verletzte",
+      "url": "https://www.nzz.ch/panorama/erneute-messerattacke-in-schule-in-polen-drei-verletzte-ld.10030235",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fc Lugano Fc Luzern die Partie im Liveticker",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fc-lugano-fc-luzern-die-partie-im-liveticker-ld.4248232",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Verstappen sichert sich auch die Pole",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-verstappen-sichert-sich-auch-die-pole",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jungstar Seixas gewinnt erstmals die Lombardei-Rundfahrt",
+      "url": "https://www.watson.ch/sport/velo/947260418-jungstar-seixas-gewinnt-erstmals-die-lombardei-rundfahrt",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bayern kassiert das schnellste Bundesliga-Tor der Geschichte",
+      "url": "https://www.watson.ch/sport/bayern-muenchen/534440812-bayern-kassiert-das-schnellste-bundesliga-tor-der-geschichte",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mad Pride in Bern wirbt für Akzeptanz von psychisch Erkrankten",
+      "url": "https://www.watson.ch/schweiz/gesundheit/823418198-mad-pride-in-bern-wirbt-fuer-akzeptanz-von-psychisch-erkrankten",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Super League: Zürich gegen Thun und Lugano gegen Luzern live im Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/693214681-super-league-zuerich-gegen-thun-und-lugano-gegen-luzern-live-im-ticker",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ab 18 Uhr live: Gewinnt der FCL bei seinem ersten Auftritt im neuen Stadion in Lugano?",
+      "url": "https://www.bote.ch/nachrichten/sport/fc-lugano-fc-luzern-die-partie-im-liveticker-art-1726257",
+      "summary": "",
+      "published": "2026-10-10T15:32:53.920283+00:00"
     }
   ]
 }
