@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T12:32:36.552392+00:00",
+  "generated": "2026-10-10T13:02:38.901675+00:00",
   "date": "2026-10-10",
-  "count": 393,
+  "count": 407,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2753,6 +2753,104 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/ragebait-ist-das-deutsche-jugendwort-des-jahres-doch-was-bedeutet-der-begriff-ueberhaupt-art-1726250",
       "summary": "",
       "published": "2026-10-10T12:32:36.552392+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Routine beenden» – Zürcher FDP-Nationalrat Portmann tritt 2027 nicht mehr an",
+      "url": "https://www.srf.ch/news/schweiz/routine-beenden-zuercher-fdp-nationalrat-portmann-tritt-2027-nicht-mehr-an",
+      "summary": "Für ein allfällige Ständeratskandidatur stehe er aber zur Verfügung, wie der 63-Jährige auf Social Media impliziert.",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Esther Friedli verzichtet – Der Rückzug eröffnet neue Möglichkeiten",
+      "url": "https://www.srf.ch/news/schweiz/esther-friedli-verzichtet-der-rueckzug-eroeffnet-neue-moeglichkeiten",
+      "summary": "Auch wenn das Profil passen würde: Esther Friedli will Ständerätin für St. Gallen bleiben.",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "FCZ empfängt Meister Thun: Wer gewinnt?",
+      "url": "https://www.20min.ch/story/fcz-thu-fcz-empfaengt-meister-thun-wer-gewinnt-103647430",
+      "summary": "Am Samstagabend spielt der FC Zürich zuhause gegen den FC Thun. Wir ticken die Partie live ab 18:00.",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Riesenschildkröte Jonathan ist das älteste Landtier der Welt. Forscher haben nun die Ursache seiner Langlebigkeit entdeckt.",
+      "url": "https://www.nzz.ch/wissenschaft/riesenschildkroete-jonathan-194-jahre-alt-dank-besonderer-gene-ld.10030069",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Molki Stans Gewinnt Swiss Cheese Award mit Frischkäse",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/molki-stans-gewinnt-swiss-cheese-award-mit-frischkaese-ld.4248722",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Viehschau Obwalden in Sarnen mit 956 Tieren",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/viehschau-obwalden-in-sarnen-mit-956-tieren-ld.4235457",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Ms Sports Bike Camp in Sarnen Ausgebucht",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/ms-sports-bike-camp-in-sarnen-ausgebucht-ld.4246243",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Edelweiss-Flug nach Split muss wegen technischen Problems umkehren",
+      "url": "https://www.watson.ch/international/luftfahrt/984054204-edelweiss-flug-nach-split-muss-wegen-technischen-problems-umkehren",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Diebe klauen Socken in Winterthur: Polizei nimmt 2 Männer fest",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/257455565-diebe-klauen-socken-in-winterthur-polizei-nimmt-2-maenner-fest",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "GA für 4195 Franken: Deal von Alliance Swisspass und Preisüberwacher",
+      "url": "https://www.watson.ch/schweiz/oev/157028263-ga-fuer-4195-franken-deal-von-alliance-swisspass-und-preisueberwacher",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Molki Stans gewinnt Swiss Cheese Award",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/molki-stans-gewinnt-swiss-cheese-award-mit-frischkaese-art-1726254",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwischen verbesserter Technik und neuen Freundschaften",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ms-sports-bike-camp-in-sarnen-ausgebucht-art-1726253",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hohes Niveau, Emotionen und Begeisterung an der Viehschau in Sarnen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/viehschau-obwalden-in-sarnen-mit-956-tieren-art-1726252",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ukraine-Ticker: Alle News vom 1. August bis zum 9. Oktober 2026",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/ukraine-ticker-alle-news-vom-1-august-bis-zum-9-oktober-2026-art-1726251",
+      "summary": "",
+      "published": "2026-10-10T13:02:38.901675+00:00"
     }
   ]
 }
