@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T04:02:29.413787+00:00",
+  "generated": "2026-10-11T04:05:48.179774+00:00",
   "date": "2026-10-11",
-  "count": 94,
+  "count": 95,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -660,6 +660,13 @@
       "url": "https://www.watson.ch/schweiz/gesellschaft-politik/933034026-diese-svp-maenner-wittern-ihre-chancen-die-sonntagsnews",
       "summary": "",
       "published": "2026-10-11T04:02:29.413787+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Alle haben Angst»: Schüler darf Kamera-Brille weiter tragen",
+      "url": "https://www.20min.ch/story/oesterreich-alle-haben-angst-schueler-darf-kamera-brille-weiter-tragen-103647745",
+      "summary": "Ein Schüler in Wien weigert sich, seine Kamera-Brille abzusetzen. Trotz Verbot und Schulverweis darf er sie weiter tragen. Nun prüft Österreich strengere Regeln.",
+      "published": "2026-10-11T04:05:48.179774+00:00"
     }
   ]
 }
