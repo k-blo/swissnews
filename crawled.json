@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T19:02:35.240349+00:00",
+  "generated": "2026-10-11T19:24:05.674188+00:00",
   "date": "2026-10-11",
-  "count": 529,
+  "count": 535,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3705,6 +3705,48 @@
       "url": "https://www.watson.ch/sport/bundesliga/573316307-premier-league-liverpool-verliert-deutlich-gegen-manchester-city",
       "summary": "",
       "published": "2026-10-11T19:02:35.240349+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Frankreichs Sozialdemokraten schicken Glucksmann ins Rennen",
+      "url": "https://www.20min.ch/story/praesidentschaftswahlen-frankreichs-sozialdemokraten-schicken-glucksmann-ins-rennen-103648280",
+      "summary": "Bei der Vorwahl der Parti Place Publique und Parti socialiste erhielt Raphaël Glucksmann 66 Prozent der Stimmen. Derzeit amtet er als EU-Abgeordneter.",
+      "published": "2026-10-11T19:24:05.674188+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Frankreich vor der Wahl: Ein Triumph, aber keine Euphorie – der besondere Sieg des Raphaël Glucksmann",
+      "url": "https://www.tagesanzeiger.ch/glucksmann-gewinnt-vorwahl-drei-gruende-fuer-skepsis-783675281451",
+      "summary": "Der Sozialdemokrat ist bei den Primärwahlen seines Lagers zum Präsidentschaftskandidaten für 2027 bestimmt worden. Vier Gründe, warum seine Chancen dünn erscheinen.",
+      "published": "2026-10-11T19:24:05.674188+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Skilifte in Braunwald stehen still",
+      "url": "https://www.zentralplus.ch/news/skilifte-in-braunwald-stehen-still-2904068/",
+      "summary": "Die vier Skilifte in Braunwald im Kanton Glarus stehen im kommenden Winter definitiv still. Der Hauptaktionär der Sportbahnen hat die Frist für ein Übernahmeangebot einer Rettungs-Vereinigung verstrei",
+      "published": "2026-10-11T19:24:05.674188+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "In diesen Bücher-Podcasts sagen dir Dua Lipa und Co., was du lesen sollst",
+      "url": "https://www.watson.ch/leben/populaerkultur/484546201-in-diesen-buecher-podcasts-sagen-dir-dua-lipa-und-co-was-du-lesen-sollst",
+      "summary": "",
+      "published": "2026-10-11T19:24:05.674188+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Diesel-Deal: Trump erteilt Putin die «Lizenz zu töten»",
+      "url": "https://www.watson.ch/international/analyse/869643041-diesel-deal-trump-erteilt-putin-die-lizenz-zu-toeten",
+      "summary": "",
+      "published": "2026-10-11T19:24:05.674188+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Iran nimmt mehr als 40 Passagierflugzeuge aus dem Betrieb",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/iran-zieht-41-passagierflugzeuge-aus-dem-betrieb-art-1726357",
+      "summary": "",
+      "published": "2026-10-11T19:24:05.674188+00:00"
     }
   ]
 }
