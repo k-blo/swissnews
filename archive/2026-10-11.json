@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T01:17:25.854926+00:00",
+  "generated": "2026-10-11T01:32:39.006075+00:00",
   "date": "2026-10-11",
-  "count": 17,
+  "count": 18,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -121,6 +121,13 @@
       "url": "https://www.zentralplus.ch/news/tanker-in-strasse-von-hormus-getroffen-2903961/",
       "summary": "In den Gewässern rund um den Iran haben sich zwei Zwischenfälle ereignet. In der Strasse von Hormus wurde ein auslaufender Tanker von einem unbekannten Geschoss getroffen. An Bord brach ein Feuer aus.",
       "published": "2026-10-11T01:17:25.854926+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Familiendrama in Pennsylvania fordert neun Todesopfer",
+      "url": "https://www.20min.ch/story/motiv-der-tat-noch-unklar-familiendrama-in-pennsylvania-fordert-neun-todesopfer-103647742",
+      "summary": "Nach einem Schusswaffenvorfall in Pennsylvania bleiben die Hintergründe unklar – doch es gibt erste Vermutungen. Unter den Opfern sind auch zwei Kinder und eine schwangere Frau.",
+      "published": "2026-10-11T01:32:39.006075+00:00"
     }
   ]
 }
