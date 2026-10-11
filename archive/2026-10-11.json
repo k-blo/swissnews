@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T02:02:16.442472+00:00",
+  "generated": "2026-10-11T02:32:19.271649+00:00",
   "date": "2026-10-11",
-  "count": 20,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -142,6 +142,13 @@
       "url": "https://www.watson.ch/international/indien/687613599-indiens-kakerlaken-bewegung-gruender-und-hunderte-festgenommen",
       "summary": "",
       "published": "2026-10-11T02:02:16.442472+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Russland-Ukraine: Trump fordert nach Deal mit Putin einen neuen Staatschef für die Ukraine",
+      "url": "https://www.tagesanzeiger.ch/trump-fordert-neuen-ukraine-chef-nach-deal-mit-putin-777980975365",
+      "summary": "Der US-Präsident wendet sich von der Ukraine ab. Er macht den ukrainischen Präsidenten Wolodymyr Selenskyj für die hohen Treibstoffpreise verantwortlich.",
+      "published": "2026-10-11T02:32:19.271649+00:00"
     }
   ]
 }
