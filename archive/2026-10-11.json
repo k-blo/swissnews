@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T08:02:48.449460+00:00",
+  "generated": "2026-10-11T08:32:46.439584+00:00",
   "date": "2026-10-11",
-  "count": 161,
+  "count": 181,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1129,6 +1129,146 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/ricardo-datenleck-betrueger-nutzen-whatsapp-nachrichten-art-1726275",
       "summary": "",
       "published": "2026-10-11T08:02:48.449460+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Bundesratswahl – Giezendanner und Imark schliessen Kandidatur nicht aus",
+      "url": "https://www.srf.ch/news/schweiz/bundesratswahl-giezendanner-und-imark-schliessen-kandidatur-nicht-aus",
+      "summary": "Nach der Absage von Ständerätin Esther Friedli ist das Rennen um Parmelins Nachfolge offener.",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Millionen für externe Berater – Sendungen bluten",
+      "url": "https://www.blick.ch/schweiz/frust-bei-srf-millionen-fuer-externe-berater-sendungen-bluten/pe8wsc8",
+      "summary": "Die SRF-Belegschaft ist frustriert. Profilierte Journalistinnen müssen gehen. Sogar die «Samstagsrundschau» muss sparen.",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Vermummte Chaoten feuern Böller auf Wohnhaus und Polizei",
+      "url": "https://www.blick.ch/schweiz/zuerich/randale-in-zuerich-chaoten-zuenden-auto-an/h6wh8g2",
+      "summary": "In der Nacht auf Sonntag kam es im Zürcher Kreis 4 zu üblen Szenen. Vermummte Chaoten zündeten ein Polizeifahrzeug an und feuerten Böller gegen ein Wohnhaus und Einsatzkräfte.",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Vermummte schiessen mit Feuerwerk auf die Polizei",
+      "url": "https://www.blick.ch/schweiz/randale-am-hardplatz-in-zuerich/kd9hx41",
+      "summary": "Leservideos zeigen, wie es nach dem Fussballmatch zwischen dem FC Zürich und dem FC Thun am Samstagabend zu Ausschreitungen kommt. Auf den Videos ist zu sehen, wie Vermummte ein Auto anzünden und mit ",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wie viel Geld brauchst du Ende Monat, um gut schlafen zu können?",
+      "url": "https://www.20min.ch/story/aufruf-wie-viel-geld-brauchst-du-ende-monat-um-gut-schlafen-zu-koennen-103647787",
+      "summary": "Ein Paar mit zwei Kindern verdient 11’200 Franken netto, hat Fixkosten von gut 7000 Franken und ärgert sich über das Ausbluten des Mittelstands. Die Reaktionen darauf fallen deutlich aus. Wie viel bra",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zürcherin Tara erhält am 22. Geburtstag MS-Diagnose",
+      "url": "https://www.20min.ch/story/autoimmunerkrankung-zuercherin-tara-erhaelt-am-22-geburtstag-ms-diagnose-103638299",
+      "summary": "Taubheitsgefühle, Sehverlust und eine lange Suche nach Antworten: Vor drei Jahren erfuhr Tara, dass sie Multiple Sklerose hat. Heute will sie anderen Betroffenen Mut machen.",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ärzte-Odyssee: Taras langer Kampf für Gewissheit",
+      "url": "https://www.20min.ch/story/ms-schwer-erkennbar-aerzte-odyssee-taras-langer-kampf-fuer-gewissheit-103645093",
+      "summary": "Tara wurde trotz zunehmender Beschwerden mehrfach vom Spital nach Hause geschickt. Fachleute erklären, warum solche diagnostischen Odysseen entstehen können.",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Edelweiss-Flug nach Split: Defektes Wetterradar zwingt Airbus zur Rückkehr nach Zürich",
+      "url": "https://www.tagesanzeiger.ch/edelweiss-defektes-wetterradar-zwingt-flug-nach-zuerich-zurueck-898105246571",
+      "summary": "Ein Edelweiss-Flug von Zürich nach Split musste am Samstag nach einer halben Stunde abbrechen. Die Cockpitcrew kehrte wegen eines defekten Wetterradars und schlechter Wetterlage um.",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gegenspieler an den Haaren gezogen: Vinicius Junior kommt, trifft, fliegt und sagt Sorry",
+      "url": "https://www.tagesanzeiger.ch/rote-karte-vinicius-junior-entschuldigt-sich-bei-fans-817964559046",
+      "summary": "Vinicius Junior sorgt beim 1:0-Sieg von Real Madrid gegen Villarreal für Diskussionen: Nach einem Platzverweis wegen einer unsportlichen Aktion entschuldigt sich der Real-Stürmer öffentlich.",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Luzerner fordert Gesetz, wie du Autotür aufmachen sollst",
+      "url": "https://www.zentralplus.ch/news/luzerner-fordert-gesetz-wie-du-autotuer-aufmachen-sollst-2903974/",
+      "summary": "Beim Aussteigen die Tür einem Velofahrer ins Gesicht knallen: Solche sogenannten «Dooring»-Unfälle kommen immer wieder vor. Der Luzerner Nationalrat Hasan Candan will darum den «Holländergriff» vorsch",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Huthis warnen erneut vor Flughäfen",
+      "url": "https://www.zentralplus.ch/news/huthis-warnen-erneut-vor-flughaefen-2903975/",
+      "summary": "Die pro-iranischen Huthi-Rebellen aus dem Jemen warnen erneut davor, Flughäfen in Saudi-Arabien zu nutzen. Dies am Tag nach einem tödlichen Raketeneinschlag am Flughafen von Riad. Fluggesellschaften, ",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das AAA-Rating der Stadt Zürich ist in Gefahr: Standard & Poor’s senkt den Ausblick auf «negativ»",
+      "url": "https://www.nzz.ch/zuerich/das-aaa-rating-der-stadt-zuerich-ist-in-gefahr-standardpoor-s-senkt-den-ausblick-auf-negativ-ld.10030679",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Die Demontage eines Wichtigen Berufs",
+      "url": "https://www.suedostschweiz.ch/graubuenden/die-demontage-eines-wichtigen-berufs-2191180",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "A4 Zwischen Rotkreuz und Küssnacht nach Unfall Gesperrt",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/a4-zwischen-rotkreuz-und-kuessnacht-nach-unfall-gesperrt-ld.4248781",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Lauf Gegen Suizid 50 Menschen Ziehen von Baden nach Windisch",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/lauf-gegen-suizid-50-menschen-ziehen-von-baden-nach-windisch-ld.4248084",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fc Wohlen Holt Gegen Langenthal ein 22",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/fc-wohlen-holt-gegen-langenthal-ein-22-ld.4248296",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum Dom Sweden auch ohne Musiklabel Erfolg hat",
+      "url": "https://www.watson.ch/schweiz/selfmade/949506159-warum-dom-sweden-auch-ohne-musiklabel-erfolg-hat",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polarlichter am Schweizer Nachthimmel: Das sind die Bilder",
+      "url": "https://www.watson.ch/schweiz/raumfahrt/805064151-polarlichter-am-schweizer-nachthimmel-das-sind-die-bilder",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Saisonauftakt nach Mass für Volley Düdingen",
+      "url": "https://www.freiburger-nachrichten.ch/story/296486/saisonauftakt-nach-mass-f%C3%BCr-volley-d%C3%BCdingen",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Ueberstorfs Abwehrriegel parierte alle Angriffe erfolgreich",
+      "url": "https://www.freiburger-nachrichten.ch/story/296497/ueberstorfs-abwehrriegel-parierte-alle-angriffe-erfolgreich",
+      "summary": "",
+      "published": "2026-10-11T08:32:46.439584+00:00"
     }
   ]
 }
