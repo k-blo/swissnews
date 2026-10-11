@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T20:32:37.640211+00:00",
+  "generated": "2026-10-11T21:02:21.509594+00:00",
   "date": "2026-10-11",
-  "count": 548,
+  "count": 550,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3838,6 +3838,20 @@
       "url": "https://www.watson.ch/wissen/schweiz/625922155-us-bomber-in-der-schweiz-das-schicksal-internierter-besatzungen-im-2-wk",
       "summary": "",
       "published": "2026-10-11T20:32:37.640211+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Rückenstärkung für Selenski",
+      "url": "https://www.zentralplus.ch/news/rueckenstaerkung-fuer-selenski-2904072/",
+      "summary": "Nachdem US-Präsident Donald Trump den Rücktritt des ukrainischen Präsidenten Wolodimir Selenski gefordert hatte und einer Vereinbarung der USA mit Russland für Diesel-Lieferungen, stärken verschiedene",
+      "published": "2026-10-11T21:02:21.509594+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Raphaël Glucksmann gewinnt die Vorwahl der französischen Sozialdemokraten",
+      "url": "https://www.nzz.ch/international/raphael-glucksmann-gewinnt-die-vorwahl-der-franzoesischen-sozialdemokraten-ld.10031115",
+      "summary": "",
+      "published": "2026-10-11T21:02:21.509594+00:00"
     }
   ]
 }
