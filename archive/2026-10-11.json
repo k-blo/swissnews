@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T04:05:48.179774+00:00",
+  "generated": "2026-10-11T04:32:34.285559+00:00",
   "date": "2026-10-11",
-  "count": 95,
+  "count": 98,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -667,6 +667,27 @@
       "url": "https://www.20min.ch/story/oesterreich-alle-haben-angst-schueler-darf-kamera-brille-weiter-tragen-103647745",
       "summary": "Ein Schüler in Wien weigert sich, seine Kamera-Brille abzusetzen. Trotz Verbot und Schulverweis darf er sie weiter tragen. Nun prüft Österreich strengere Regeln.",
       "published": "2026-10-11T04:05:48.179774+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mit dem Jaguar E Type Baujahr 1967 von 0 auf 100 Stundenkilometer",
+      "url": "https://www.suedostschweiz.ch/linth/mit-dem-jaguar-e-type-baujahr-1967-von-0-auf-100-stundenkilometer-2090073",
+      "summary": "",
+      "published": "2026-10-11T04:32:34.285559+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Uzwil Verpasst Anschluss an Leader Seefeld",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/uzwil-verpasst-anschluss-an-leader-seefeld-ld.4248767",
+      "summary": "",
+      "published": "2026-10-11T04:32:34.285559+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir riskieren gerade, dass wir den Zugang zu innovativen Medikamenten ganz verlieren»",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/us-druck-koennte-neue-krebstherapien-in-der-schweiz-verzoegern-art-1726267",
+      "summary": "",
+      "published": "2026-10-11T04:32:34.285559+00:00"
     }
   ]
 }
