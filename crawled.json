@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T23:32:39.333766+00:00",
+  "generated": "2026-10-11T00:02:42.716801+00:00",
   "date": "2026-10-11",
-  "count": 8,
+  "count": 9,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -58,6 +58,13 @@
       "url": "https://www.zentralplus.ch/news/neun-tote-nach-schuessen-in-pennsylvania-2903955/",
       "summary": "Bei einer Gewalttat im US-Bundesstaat Pennsylvania sind acht Menschen getötet worden. Und auch der mutmassliche Täter ist tot. Unter den Opfern sind zwei Kinder und eine hochschwangere Frau. Sieben de",
       "published": "2026-10-10T23:32:39.333766+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Peach Weber über Abschiedsshow: «Das Programm steht bei null»",
+      "url": "https://www.20min.ch/story/abschied-im-hallenstadion-peach-weber-ueber-abschiedsshow-das-programm-steht-bei-null-103647740",
+      "summary": "Drei Shows sind ausverkauft, doch für einen vierten Auftritt fehlt Peach Weber (74) das Vertrauen in «seine eigene Ruine».",
+      "published": "2026-10-11T00:02:42.716801+00:00"
     }
   ]
 }
