@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T04:32:34.285559+00:00",
+  "generated": "2026-10-11T05:02:34.669288+00:00",
   "date": "2026-10-11",
-  "count": 98,
+  "count": 102,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -688,6 +688,34 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/us-druck-koennte-neue-krebstherapien-in-der-schweiz-verzoegern-art-1726267",
       "summary": "",
       "published": "2026-10-11T04:32:34.285559+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bald Stau vor deiner Haustür? Bund prüft 120 Autobahn-Ampeln",
+      "url": "https://www.20min.ch/story/astra-bald-stau-vor-deiner-haustuer-bund-prueft-120-autobahn-ampeln-103647746",
+      "summary": "Der Bund prüft über 120 neue Ampeln an Autobahnzufahrten, um Staus zu reduzieren. Dafür nimmt er Rückstaus auf Nebenstrassen in Kauf. Kantone und Städte üben Kritik.",
+      "published": "2026-10-11T05:02:34.669288+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schifffahrt und Naturschutz im Rhein: Über 20’000 Kubikmeter Quagga-Muscheln – und jedes Jahr wachsen bis 4500 nach",
+      "url": "https://www.tagesanzeiger.ch/quagga-muscheln-im-rhein-23000-kubikmeter-als-hindernis-fuer-die-schifffahrt-313987494357",
+      "summary": "Erstmals sind die Muschelmassen geschätzt worden, welche die Schifffahrt auf dem Rhein behindern. Das Ausbaggern könnte zur Sisyphusarbeit werden. Zudem protestieren die Fischer dagegen.",
+      "published": "2026-10-11T05:02:34.669288+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Alfred Polgar bekommt in Zürich gute Gesellschaft",
+      "url": "https://www.nzz.ch/feuilleton/alfred-polgar-bekommt-in-zuerich-gute-gesellschaft-ld.10026946",
+      "summary": "",
+      "published": "2026-10-11T05:02:34.669288+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Wir riskieren den Zugang zu innovativen Medikamenten zu verlieren»",
+      "url": "https://www.watson.ch/schweiz/gesundheit/297521049-wir-riskieren-den-zugang-zu-innovativen-medikamenten-zu-verlieren",
+      "summary": "",
+      "published": "2026-10-11T05:02:34.669288+00:00"
     }
   ]
 }
