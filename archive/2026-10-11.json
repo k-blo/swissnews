@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T00:02:42.716801+00:00",
+  "generated": "2026-10-11T00:32:23.703338+00:00",
   "date": "2026-10-11",
-  "count": 9,
+  "count": 15,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -65,6 +65,48 @@
       "url": "https://www.20min.ch/story/abschied-im-hallenstadion-peach-weber-ueber-abschiedsshow-das-programm-steht-bei-null-103647740",
       "summary": "Drei Shows sind ausverkauft, doch für einen vierten Auftritt fehlt Peach Weber (74) das Vertrauen in «seine eigene Ruine».",
       "published": "2026-10-11T00:02:42.716801+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gestohlene Renoir-Gemälde gefunden",
+      "url": "https://www.zentralplus.ch/news/gestohlene-renoir-gemaelde-gefunden-2903959/",
+      "summary": "Die Anfang September aus einem Renoir-Museum in Südfrankreich gestohlenen Gemälde sind wieder aufgetaucht. Die Polizei habe die beiden Werke am Donnerstag sichergestellt, berichteten französische Medi",
+      "published": "2026-10-11T00:32:23.703338+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schwere Schäden durch Hurrikan Isaias",
+      "url": "https://www.zentralplus.ch/news/schwere-schaeden-durch-hurrikan-isaias-2903957/",
+      "summary": "Beim Durchzug des ersten atlantischen Hurrikans der Saison sind im Südosten der USA mindestens vier Menschen ums Leben gekommen. In Florida und Alabama stürzten unter anderem Bäume um. Rund 700&#8217;",
+      "published": "2026-10-11T00:32:23.703338+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Alkoholfrei Fettarm Zuckerfrei und Fleischlos der Neue Puritanismus",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/alkoholfrei-fettarm-zuckerfrei-und-fleischlos-der-neue-puritanismus",
+      "summary": "",
+      "published": "2026-10-11T00:32:23.703338+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Kosten der Rahmenverträge und der Wiederaufrüstung der Armee",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/die-kosten-der-rahmenvertraege-und-der-wiederaufruestung-der-armee",
+      "summary": "",
+      "published": "2026-10-11T00:32:23.703338+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Klimaprozess",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/der-klimaprozess",
+      "summary": "",
+      "published": "2026-10-11T00:32:23.703338+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Saudi-Arabien: Zwölf Tote bei Angriff auf Flughafen in Riad",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/863068681-saudi-arabien-zwoelf-tote-bei-angriff-auf-flughafen-in-riad",
+      "summary": "",
+      "published": "2026-10-11T00:32:23.703338+00:00"
     }
   ]
 }
