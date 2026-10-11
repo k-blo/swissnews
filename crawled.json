@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T19:24:05.674188+00:00",
+  "generated": "2026-10-11T19:32:55.258790+00:00",
   "date": "2026-10-11",
-  "count": 535,
+  "count": 536,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3747,6 +3747,13 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/iran-zieht-41-passagierflugzeuge-aus-dem-betrieb-art-1726357",
       "summary": "",
       "published": "2026-10-11T19:24:05.674188+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "TV-Kritik «Tatort»: Nach Borowskis Abgang wird der Kieler «Tatort» härter und weiblicher",
+      "url": "https://www.tagesanzeiger.ch/tatort-kiel-mila-sahin-uebernimmt-nach-der-borowski-aera-193791200932",
+      "summary": "Hauptkommissarin Mila Sahin ermittelt künftig mit einer Polizeipsychologin. Der erste Teil der Doppelfolge «Unter Freunden» bricht mit allem, was Borowski ausmachte.",
+      "published": "2026-10-11T19:32:55.258790+00:00"
     }
   ]
 }
