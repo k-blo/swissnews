@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-12T05:02:28.651690+00:00",
+  "generated": "2026-10-12T05:32:29.442300+00:00",
   "date": "2026-10-12",
-  "count": 185,
+  "count": 200,
   "articles": [
     {
       "source": "Persönlich",
@@ -1297,6 +1297,111 @@
       "url": "https://rathuus.ch/zuerich-als-krimi-mord-macht-und-ein-unsympathischer-politiker/",
       "summary": "",
       "published": "2026-10-12T05:02:28.651690+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Junge Bergsteiger überleben eiskalte Nacht auf über 3000 Metern",
+      "url": "https://www.20min.ch/story/oesterreich-junge-bergsteiger-ueberleben-eiskalte-nacht-auf-ueber-3000-metern-103648272",
+      "summary": "Dramatische Rettungsaktion in den Stubaier Alpen: Zwei 18-jährige deutsche Bergsteiger mussten bei Temperaturen von bis zu minus sieben Grad rund 16 Stunden im Freien ausharren.",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Warnung vor Moskau: Burnham: Russland hatte bei Brexit-Votum klar Finger im Spiel",
+      "url": "https://www.bernerzeitung.ch/brexit-referendum-burnham-bestaetigt-russische-einmischung-998502779431",
+      "summary": "Der britische Premier Andy Burnham nimmt kein Blatt vor den Mund, wenn es um russische Einmischung in die Politik westlicher Staaten geht. Besonders für zwei Länder hat er eine klare Botschaft.",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Das BaZ Wochen-Memo: Das müssen Sie für die neue Woche wissen",
+      "url": "https://www.bazonline.ch/basel-herbstmesse-grippeimpfung-und-schulstart-im-ueberblick-749571605947",
+      "summary": "Hier finden Sie jeden Montag praktische Alltagstipps. Diesmal: Spartipps für die Herbstmesse, Influenza-Impfstart und Schulstart in den beiden Basel.",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI macht Rechenzentren hybrid: Luft- und Flüssigkeitskühlung im Zusammenspiel",
+      "url": "https://www.netzwoche.ch/news/2026-10-12/ki-macht-rechenzentren-hybrid-luft-und-fluessigkeitskuehlung-im-zusammenspiel",
+      "summary": "KI erhöht die Leistungsdichte und Wärmelasten in Rechenzentren. Für hochverdichtete KI-Systeme stösst Luftkühlung ­zunehmend an Grenzen. Die Lösung liegt jedoch nicht im vollständigen Wechsel zur Flüs",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Responsible AI fragt nicht nach dem ­Modell, sondern nach dem Wie",
+      "url": "https://www.netzwoche.ch/news/2026-10-12/responsible-ai-fragt-nicht-nach-dem-modell-sondern-nach-dem-wie",
+      "summary": "Responsible AI wird oft zuerst mit Ethik und Regulierung verbunden. Doch im Unternehmensalltag geht es ebenso um die wirtschaftliche Verantwortung, die zugängliche Nutzung, damit Mitarbeitende den Umg",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI reproduziert das Wahrscheinliche – der Mensch muss weiterdenken",
+      "url": "https://www.netzwoche.ch/news/2026-10-12/ki-reproduziert-das-wahrscheinliche-der-mensch-muss-weiterdenken",
+      "summary": "KI analysiert Daten, strukturiert Informationen und erzeugt in kurzer Zeit viel Output. Doch plausible Antworten sind nicht ­automatisch gute Lösungen. Entscheidend bleibt die Fähigkeit des Menschen, ",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Zeix macht KI alltagstauglich",
+      "url": "https://www.netzwoche.ch/news/2026-10-12/zeix-macht-ki-alltagstauglich",
+      "summary": "Wie arbeiten Ihre Mitarbeitenden mit KI? Nach Ihren Regeln oder mit einer Schatten-KI auf dem privaten Handy? ­Laden sie unbekümmert Daten hoch oder zögern sie, KI überhaupt einzusetzen? Zeix unterstü",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Was die Gäste am Swiss Payment Forum erwartet",
+      "url": "https://www.netzwoche.ch/news/2026-10-12/was-die-gaeste-am-swiss-payment-forum-erwartet",
+      "summary": "Auch dieses Jahr bringt das Swiss Payment Forum die Schweizer Payment-Branche in Zürich zusammen. Im Interview spricht die Programmverantwortliche Nicole von Mulert über paneuropäische Bezahllösungen ",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wenn KI nicht nur ­intelligent, sondern auch verantwortlich sein muss",
+      "url": "https://www.netzwoche.ch/news/2026-10-12/wenn-ki-nicht-nur-intelligent-sondern-auch-verantwortlich-sein-muss",
+      "summary": "Künstliche Intelligenz hält Einzug in den Arbeitsalltag. Sie analysiert Daten, automatisiert Prozesse und unterstützt Entscheidungen. Mit den Möglichkeiten steigt die Verantwortung. Gute Ergebnisse al",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Schatten-KI erzeugt erhebliche Risiken",
+      "url": "https://www.netzwoche.ch/news/2026-10-12/schatten-ki-erzeugt-erhebliche-risiken",
+      "summary": "Eine Umfrage unter 1600 Führungskräften zeigt: Viele Unternehmen haben Mühe, die unbefugte Nutzung von künstlicher ­Intelligenz zu kontrollieren. Diese sogenannte Schatten-KI konfrontiert Unternehmen ",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mitten im Wahlkampf Auch Maga Land Protestiert Gegen Trumps Ki Boom",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/mitten-im-wahlkampf-auch-maga-land-protestiert-gegen-trumps-ki-boom-2192119",
+      "summary": "",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Westeuropa erlebt im September weiter Rekord-Wetter",
+      "url": "https://www.watson.ch/international/klima/336166292-westeuropa-erlebt-im-september-weiter-rekord-wetter",
+      "summary": "",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frankreichs Schulproteste starten in neue Woche – Druck soll steigen",
+      "url": "https://www.watson.ch/international/frankreich/986374084-frankreichs-schulproteste-starten-in-neue-woche-druck-soll-steigen",
+      "summary": "",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sexismus auf Basler Dartsbühne: Mensur Suljovic sorgt für Entrüstung",
+      "url": "https://www.watson.ch/sport/darts/930326748-sexismus-auf-basler-dartsbuehne-mensur-suljovic-sorgt-fuer-entruestung",
+      "summary": "",
+      "published": "2026-10-12T05:32:29.442300+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wie der deutsche «Defluencer» Leon Xskincare vom Beauty-Hype profitiert",
+      "url": "https://www.watson.ch/digital/konsum/972357271-wie-der-deutsche-defluencer-leon-xskincare-vom-beauty-hype-profitiert",
+      "summary": "",
+      "published": "2026-10-12T05:32:29.442300+00:00"
     }
   ]
 }
