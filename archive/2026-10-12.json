@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-12T06:32:18.360624+00:00",
+  "generated": "2026-10-12T06:51:14.406383+00:00",
   "date": "2026-10-12",
-  "count": 228,
+  "count": 243,
   "articles": [
     {
       "source": "Persönlich",
@@ -1598,6 +1598,111 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/hurrikan-simon-naehert-sich-mexikos-pazifikkueste-art-1726417",
       "summary": "",
       "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Betrieb am Bahnhof Bern wegen technischer Störung eingeschränkt",
+      "url": "https://www.blick.ch/schweiz/bern/bahnhof-bern-durch-technische-stoerung-eingeschraenkt/bfp62y0",
+      "summary": "Mitten im Pendlerverkehr kommt es am Montagmorgen zu einer Ausfällen und Verspätungen im Bahnverkehr am Bahnhof Bern. Der Grund ist eine technische Störung.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Grossbrand zerstört Pariser Traditionsmarkt",
+      "url": "https://www.20min.ch/story/frankreich-grossbrand-zerstoert-pariser-traditionsmarkt-103648345",
+      "summary": "In der Nacht auf Montag ist es im Stadtzentrum von Paris zu einem Grossbrand gekommen. Dabei wurde der bei Touristen und Einheimischen äusserst beliebte Marché des Enfants Rouges komplett zerstört.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach nächstem Debakel: Beim FCB wird knallhart abgerechnet",
+      "url": "https://www.20min.ch/story/mentalitaetsproblem-nicht-wettbewerbsfaehig-beim-fcb-wird-nach-debakel-abgerechnet-103648330",
+      "summary": "Nach der 0:3-Pleite gegen den FC Vaduz fordert FCB-Trainer Slavisa Jokanovic mehr Aggressivität und Intensität. Auch Xherdan Shaqiri und Becir Omeragic sprechen von Mentalitätsproblemen.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bub (1) büxt aus Kita aus und läuft zu Mama ins Büro",
+      "url": "https://www.20min.ch/video/einjaehriger-laeuft-unbeaufsichtigt-von-kita-zur-mamas-arbeitsstelle-103648226",
+      "summary": "In Brasilien verliess ein 18 Monate alter Bub unbemerkt seine Kita in Braço do Norte. Er lief allein durch die Strassen bis zum nahe gelegenen Büro seiner Mutter. Dort entdeckte ihn eine Sekretärin un",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Todesfall in der Familie: SPD-Chefin tritt zurück",
+      "url": "https://www.20min.ch/story/deutschland-todesfall-in-der-familie-spd-chefin-tritt-zurueck-103648360",
+      "summary": "Die deutsche Arbeitsministerin und SPD-Co-Chefin Bärbel Bas gibt ihre Ämter ab. Grund ist ein Tod in der Familie.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Mit dem Display nach unten ist man präsenter»",
+      "url": "https://www.20min.ch/story/green-flag-oder-red-flag-wie-schweizer-jugendliche-die-handyposition-bewerten-103648364",
+      "summary": "Für Inori (22) ist ein umgedrehtes Handy eine «Green Flag». Andere finden, das Smartphone gehört beim Gespräch gar nicht erst auf den Tisch.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tragödie in englischem Tierpark: Mann springt in Tigergehege und wird getötet – Zoo schläfert Tier nicht ein",
+      "url": "https://www.tagesanzeiger.ch/yorkshire-wildlife-park-in-england-tiger-toetet-mann-in-zoo-696965803041",
+      "summary": "Augenzeugen schildern, wie der Mann im Yorkshire Wildlife Park über die Absperrung kletterte und sich dem Sibirischen Tiger näherte. Die Raubkatze packte ihn am Hals, er starb noch vor Ort.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ski-Saison 2026/27: Wann fahren Odermatt, von Allmen, Rast und Suter wieder?",
+      "url": "https://www.tagesanzeiger.ch/ski-weltcup-2026-27-dann-fahren-odermatt-von-allmen-und-rast-587328040672",
+      "summary": "Die Weltcupsaison 2026/27 dauert von Ende Oktober bis Ende März. Das Highlight ist die Ski-Weltmeisterschaft im Februar in Crans-Montana.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Mitten im Morgenverkehr: Verspätete Züge und Ausfälle: Stellwerkstörung im Bahnhof Bern behoben",
+      "url": "https://www.derbund.ch/sbb-stoerung-am-bahnhof-bern-sorgt-fuer-chaos-866906208426",
+      "summary": "Am Montagmorgen nach den Herbstferien in der Stadt Bern herrschte am Bahnhof Chaos. Wegen einer Stellwerkstörung kam es zu Verspätungen.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Neuhausen: Autofahrer kollidiert mit Fussgängerschutzinsel und muss ins Spital",
+      "url": "https://www.shn.ch/region/kanton/2026-10-12/neuhausen-autofahrer-kollidiert-mit-fussgaengerschutzinsel-und-muss-ins",
+      "summary": "Informieren Sie sich mit unserem Blaulicht-Ticker laufend über die neusten Vorfälle in und um die Region Schaffhausen.",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Svp Gränichen zu Besuch im Militärmuseum Wildegg",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/svp-graenichen-zu-besuch-im-militaermuseum-wildegg-ld.4248702",
+      "summary": "",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Grenchner Tagblatt",
+      "title": "Gelungener Auftakt Fürs Portraitzeichnen in der Zähnteschür",
+      "url": "https://www.grenchnertagblatt.ch/leserbeitrag/gt/gelungener-auftakt-fuers-portraitzeichnen-in-der-zaehnteschuer-ld.4248704",
+      "summary": "",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Beauty King Abdel Latif Klage auf Tauchstation",
+      "url": "https://insideparadeplatz.ch/2026/10/12/beauty-king-abdel-latif-klage-auf-tauchstation/",
+      "summary": "",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Zkb Teamleiter Schlägt um Sich Entlassung Ohne Grund",
+      "url": "https://insideparadeplatz.ch/2026/10/12/zkb-teamleiter-schlaegt-um-sich-entlassung-ohne-grund/",
+      "summary": "",
+      "published": "2026-10-12T06:51:14.406383+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Pensionskassen Cyber Attack Hunderttausende Betroffen",
+      "url": "https://insideparadeplatz.ch/2026/10/12/pensionskassen-cyber-attack-hunderttausende-betroffen/",
+      "summary": "",
+      "published": "2026-10-12T06:51:14.406383+00:00"
     }
   ]
 }
