@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-12T06:02:33.871515+00:00",
+  "generated": "2026-10-12T06:32:18.360624+00:00",
   "date": "2026-10-12",
-  "count": 217,
+  "count": 228,
   "articles": [
     {
       "source": "Persönlich",
@@ -1521,6 +1521,83 @@
       "url": "https://insideparadeplatz.ch/2026/10/12/trump-und-putin-sind-grosse-freunde/",
       "summary": "",
       "published": "2026-10-12T06:02:33.871515+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Fragwürdige Praxis – Livit verlangt 100 Franken für Bewilligung von Untermiete",
+      "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/fragwuerdige-praxis-livit-verlangt-100-franken-fuer-bewilligung-von-untermiete",
+      "summary": "Wer bei Livit untervermieten will, soll extra zahlen. Der Mieterverband kritisiert die Gebühr und rät, sich zu wehren.",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Videos zeigen Explosionen: Huthi-Angriff auf neuen Flughafen",
+      "url": "https://www.20min.ch/story/saudi-arabien-videos-zeigen-explosionen-huthi-angriff-auf-neuen-flughafen-103648350",
+      "summary": "Die Huthi-Rebellen haben den Flughafen Damman in Saudiarabien angegriffen. Die Gesamtzahl der Todesopfer beider Angriffswellen beträgt 13.",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wegen technischer Störung: Verspätete Züge und Ausfälle am Bahnhof Bern",
+      "url": "https://www.bernerzeitung.ch/sbb-stoerung-am-bahnhof-bern-sorgt-fuer-chaos-866906208426",
+      "summary": "Derzeit verspäten sich zahlreiche Züge, die den Bahnhof Bern anfahren oder diesen verlassen. Die Störung dauert bis mindestens 8.30 Uhr.",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "«Ältester Praktikant» hört nach neun Jahren auf",
+      "url": "https://www.persoenlich.com/kategorie-werbung/altester-praktikant-hort-nach-neun-jahren-auf",
+      "summary": "Livio Arfini, der 2017 mit 68 Jahren bei der Luzerner Werbeagentur anfing, geht Ende Oktober als 78-Jähriger zum zweiten Mal in Pension.",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die SG Thayngen/Neunkirch gewinnt verdient den Spitzenkampf gegen den SC Veltheim",
+      "url": "https://www.shn.ch/sport/regio-sport/2026-10-12/die-sg-thayngenneunkirch-gewinnt-verdient-den-spitzenkampf-gegen-den",
+      "summary": "Thayngen/Neunkirch bleibt zu Hause eine Macht. Gegen Veltheim setzt man sich nach Rückstand mit 3:1 durch.",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der EHC Schaffhausen holt drei Punkte in Weinfelden",
+      "url": "https://www.shn.ch/sport/wintersport/2026-10-12/der-ehc-schaffhausen-holt-drei-punkte-in-weinfelden",
+      "summary": "Der EHC Schaffhausen ist weiter gut unterwegs. Gegen die Crocodile Flyers gewinnen die Munotstädter mit 5:3.",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bärbel Bas tritt als SPD-Chefin und Arbeitsministerin zurück",
+      "url": "https://www.watson.ch/international/deutschland/617190885-baerbel-bas-tritt-als-spd-chefin-und-arbeitsministerin-zurueck",
+      "summary": "",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Haftbefehl sagt zwei Konzerte aus gesundheitlichen Gründen ab",
+      "url": "https://www.watson.ch/international/musik/331611846-haftbefehl-sagt-zwei-konzerte-aus-gesundheitlichen-gruenden-ab",
+      "summary": "",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sie möchte den Staatsrat der Bevölkerung annähern",
+      "url": "https://www.freiburger-nachrichten.ch/story/286966/sie-m%C3%B6chte-den-staatsrat-der-bev%C3%B6lkerung-ann%C3%A4hern",
+      "summary": "",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bärbel Bas tritt als SPD-Vorsitzende und Arbeitsministerin zurück",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/baerbel-bas-tritt-als-spd-chefin-und-ministerin-zurueck-art-1726418",
+      "summary": "",
+      "published": "2026-10-12T06:32:18.360624+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hurrikan Simon bedroht Mexikos Pazifikküste",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/hurrikan-simon-naehert-sich-mexikos-pazifikkueste-art-1726417",
+      "summary": "",
+      "published": "2026-10-12T06:32:18.360624+00:00"
     }
   ]
 }
