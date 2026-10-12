@@ -1,19 +1,19 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Mon, 12 Oct 2026 20:31:05 GMT",
-    "etag": "\"f9aa38a20de6259fe58c56de364dc8d1\""
+    "last_modified": "Mon, 12 Oct 2026 21:15:58 GMT",
+    "etag": "\"e1383a7e53eddd402e2db570a6559362\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"18514-hBZ1jcOe3nB4jSLTkiVy2fEZbWI\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"d3e6-3rxSRozYeloIqvXN97lqyMQsTNA\""
+    "etag": "W/\"d07a-iBvY/UfacUpL+oddtkZiq83YoIM\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"c9f7-B43LUiz9HIY+IM4UyT6AZn0ZJh8\""
+    "etag": "W/\"ca0b-98zE8dhNSeudHxkwi809H+rbwrA\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Mon, 12 Oct 2026 21:00:14 GMT"
+    "last_modified": "Mon, 12 Oct 2026 21:20:13 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
     "last_modified": "Sun, 11 Oct 2026 09:01:48 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1791835871\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Mon, 12 Oct 2026 20:57:07 GMT"
+    "last_modified": "Mon, 12 Oct 2026 21:27:10 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"d0a3-6X/bqQSPvpSM29ljKSWKA05edYc\""
+    "etag": "W/\"d0b7-XJUwRgGvp66bvFr/kjbR+Mrkupk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"ddfb-GvtKLkOWQjw0VhjIZsVbaQEVEWY\""
+    "etag": "W/\"de0f-LmoPrLyN8xBf1I29dP4I9xDcrsk\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Mon, 12 Oct 2026 19:17:59 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1791260065\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Mon, 12 Oct 2026 21:00:16 GMT",
-    "etag": "W/\"1791838816-gzip\""
+    "last_modified": "Mon, 12 Oct 2026 21:32:01 GMT",
+    "etag": "W/\"1791840721-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"16f65-r0uqXUxBZKDZGCbJLkwXzrIiE8c\""
