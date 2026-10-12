@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-12T22:32:35.963349+00:00",
+  "generated": "2026-10-12T23:02:24.298231+00:00",
   "date": "2026-10-13",
-  "count": 12,
+  "count": 14,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -86,6 +86,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/1742-unterschriften-fuer-hoehere-physiotherapietarife-art-1726491",
       "summary": "",
       "published": "2026-10-12T22:06:55.292993+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Nach gescheiterter Pike-Hinrichtung: Aufnahmen offenbaren Notruf-Chaos",
+      "url": "https://www.bazonline.ch/christa-pike-hinrichtung-gescheitert-neue-details-chaos-bei-notruf-980408576204",
+      "summary": "Ein Mitschnitt von Notrufen am Tag der Hinrichtung von Christa Pike macht deutlich, dass wertvolle Zeit verstrich, ehe medizinische Hilfe kam.",
+      "published": "2026-10-12T23:02:24.298231+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "MEX: Tote und Vermisste nach Unwettern",
+      "url": "https://www.zentralplus.ch/news/mex-tote-und-vermisste-nach-unwettern-2904258/",
+      "summary": "Heftige Unwetter haben in Mexiko mindestens zwei Todesopfer gefordert. Weitere Menschen werden vermisst, wie die Behörden melden. Bei den Todesopfern handelt es sich um einen 71-jährigen Mann und ein ",
+      "published": "2026-10-12T23:02:24.298231+00:00"
     }
   ]
 }
