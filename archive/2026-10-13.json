@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-12T23:02:24.298231+00:00",
+  "generated": "2026-10-12T23:33:08.726450+00:00",
   "date": "2026-10-13",
-  "count": 14,
+  "count": 16,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -100,6 +100,20 @@
       "url": "https://www.zentralplus.ch/news/mex-tote-und-vermisste-nach-unwettern-2904258/",
       "summary": "Heftige Unwetter haben in Mexiko mindestens zwei Todesopfer gefordert. Weitere Menschen werden vermisst, wie die Behörden melden. Bei den Todesopfern handelt es sich um einen 71-jährigen Mann und ein ",
       "published": "2026-10-12T23:02:24.298231+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Aufnahmen offenbaren Notruf-Chaos",
+      "url": "https://www.20min.ch/story/christa-pike-neue-details-zur-gescheiterten-hinrichtung-notruf-chaos-103648732",
+      "summary": "Ein Mitschnitt von Notrufen am Tag der Hinrichtung von Christa Pike macht deutlich, dass über eine halbe Stunde verstrich, bis medizinische Hilfe alarmiert wurde.",
+      "published": "2026-10-12T23:33:08.726450+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Einwohnerrat Wohlen Setzt Steuerfuss auf 122 Prozent",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/einwohnerrat-wohlen-setzt-steuerfuss-auf-122-prozent-ld.4248806",
+      "summary": "",
+      "published": "2026-10-12T23:33:08.726450+00:00"
     }
   ]
 }
