@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T01:03:02.096749+00:00",
+  "generated": "2026-10-13T01:29:00.602654+00:00",
   "date": "2026-10-13",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -163,6 +163,13 @@
       "url": "https://www.zentralplus.ch/news/durchsuchung-bei-ilhan-omar-2904260/",
       "summary": "Drei Wochen vor den Kongresswahlen, bei denen Ilhan Omar erneut antritt, haben US-Bundesbeamte das Zuhause der bekannten demokratischen Abgeordneten durchsucht. Es sei ein gerichtlicher Durchsuchungsb",
       "published": "2026-10-13T01:03:02.096749+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sohn (7) erklimmt El Capitan – Eltern wurden Behörden gemeldet",
+      "url": "https://www.20min.ch/story/el-capitan-joey-evermore-eltern-vater-ueber-kritik-erziehungsmethoden-103648742",
+      "summary": "Im Mai schrieb Joey Evermore Geschichte: Er ist der jüngste Mensch, der den El Capitan im Yosemite-Nationalpark erklommen hat. Dessen Vater sieht sich schweren Vorwürfen konfrontiert.",
+      "published": "2026-10-13T01:29:00.602654+00:00"
     }
   ]
 }
