@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T21:03:03.305033+00:00",
+  "generated": "2026-10-13T21:32:56.165598+00:00",
   "date": "2026-10-13",
-  "count": 844,
+  "count": 847,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -5910,6 +5910,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/vom-kanton-schwyz-an-die-weltspitze-doris-koller-ist-marathon-weltmeisterin-art-1726630",
       "summary": "",
       "published": "2026-10-13T21:03:03.305033+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schwere Diagnose: Papst Leo hat Lungenkrebs",
+      "url": "https://www.tagesanzeiger.ch/papst-leo-xiv-lungenadenokarzinom-entfernt-665497265727",
+      "summary": "Bei der Operation sei dem Papst ein Teil des rechten Lungenflügels entfernt worden, sagt sein Arzt. Der Eingriff verlief gut, aber der Befund ist besorgniserregend.",
+      "published": "2026-10-13T21:32:56.165598+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Champions League: Viking überrascht die Bayern, Sommer siegt bei Inter",
+      "url": "https://www.watson.ch/sport/bayern-muenchen/693586766-champions-league-viking-ueberrascht-die-bayern-sommer-siegt-bei-inter",
+      "summary": "",
+      "published": "2026-10-13T21:32:56.165598+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "OpenAI: Geheimes Aufnahmegerät in Büro entdeckt",
+      "url": "https://www.watson.ch/digital/usa/980557783-openai-geheimes-aufnahmegeraet-in-buero-entdeckt",
+      "summary": "",
+      "published": "2026-10-13T21:32:56.165598+00:00"
     }
   ]
 }
