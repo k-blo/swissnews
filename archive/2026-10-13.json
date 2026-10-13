@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T00:32:50.949906+00:00",
+  "generated": "2026-10-13T01:03:02.096749+00:00",
   "date": "2026-10-13",
-  "count": 21,
+  "count": 23,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -149,6 +149,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/dirk-baier-kriminellen-versteher",
       "summary": "",
       "published": "2026-10-13T00:32:50.949906+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "POL: Festnahmen nach Starlink-Vorfall",
+      "url": "https://www.zentralplus.ch/news/pol-festnahmen-nach-starlink-vorfall-2904262/",
+      "summary": "Zwei Personen sind in Polen nun festgenommen worden, nachdem es bei einer Anlage des Satellitenanbieters Starlink im September gebrannt hatte. Das teilte der polnische Regierungschef Donald Tusk mit. ",
+      "published": "2026-10-13T01:03:02.096749+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Durchsuchung bei Ilhan Omar",
+      "url": "https://www.zentralplus.ch/news/durchsuchung-bei-ilhan-omar-2904260/",
+      "summary": "Drei Wochen vor den Kongresswahlen, bei denen Ilhan Omar erneut antritt, haben US-Bundesbeamte das Zuhause der bekannten demokratischen Abgeordneten durchsucht. Es sei ein gerichtlicher Durchsuchungsb",
+      "published": "2026-10-13T01:03:02.096749+00:00"
     }
   ]
 }
