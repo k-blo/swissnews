@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T21:32:56.165598+00:00",
+  "generated": "2026-10-13T21:56:44.736096+00:00",
   "date": "2026-10-13",
-  "count": 847,
+  "count": 852,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -5931,6 +5931,41 @@
       "url": "https://www.watson.ch/digital/usa/980557783-openai-geheimes-aufnahmegeraet-in-buero-entdeckt",
       "summary": "",
       "published": "2026-10-13T21:32:56.165598+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Diagnose liegt vor: Papst Leo hat Lungenkrebs",
+      "url": "https://www.bernerzeitung.ch/papst-leo-xiv-lungenadenokarzinom-entfernt-665497265727",
+      "summary": "Bei der Operation sei dem Papst ein Teil des rechten Lungenflügels entfernt worden, sagt sein Arzt. Der Eingriff verlief gut, aber der Befund ist besorgniserregend.",
+      "published": "2026-10-13T21:56:44.736096+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Trotz Aufholjagd: Der EHC Basel unterliegt den GCK Lions im Penaltyschiessen",
+      "url": "https://www.bazonline.ch/eishockey-der-ehc-basel-verliert-im-penaltyschiessen-468971861838",
+      "summary": "Die Basler retten sich gegen den Tabellenachten erst in die Verlängerung, müssen sich im Penaltyschiessen aber dennoch geschlagen geben.",
+      "published": "2026-10-13T21:56:44.736096+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Selenski beklagt fehlende Warnungen",
+      "url": "https://www.zentralplus.ch/news/selenski-beklagt-fehlende-warnungen-2904448/",
+      "summary": "Die Verbündeten der Ukraine hätten Kiew nicht vor den jüngsten russischen Angriffen mit ballistischen Raketen gewarnt wie sonst üblich. Das sagt der ukrainische Präsident Wolodimir Selenski, ohne einz",
+      "published": "2026-10-13T21:56:44.736096+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Dem Norweger Mini-Club Viking Stavanger gelingt gegen Bayern ein Coup, Sommer jubelt mit Brügge bei Inter",
+      "url": "https://www.nzz.ch/sport/dem-norweger-mini-club-viking-stavanger-gelingt-gegen-bayern-ein-coup-sommer-jubelt-mit-bruegge-bei-inter-ld.10033093",
+      "summary": "",
+      "published": "2026-10-13T21:56:44.736096+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Stierli und Beney glänzen, Wälti und Schertenleib bleiben blass",
+      "url": "https://www.bote.ch/nachrichten/sport/beney-und-stierli-fuehren-die-nati-zum-20-gegen-israel-art-1726743",
+      "summary": "",
+      "published": "2026-10-13T21:56:44.736096+00:00"
     }
   ]
 }
