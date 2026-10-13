@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T11:04:18.352477+00:00",
+  "generated": "2026-10-13T11:33:30.287721+00:00",
   "date": "2026-10-13",
-  "count": 437,
+  "count": 456,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3061,6 +3061,139 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/flughafen-nuernberg-wegen-polizeieinsatz-gesperrt-art-1726623",
       "summary": "",
       "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polizei schickt betrunkenen Marokkaner in die Schweiz zurück",
+      "url": "https://www.blick.ch/schweiz/basel/polizei-schickt-betrunkenen-marokkaner-in-die-schweiz-zurueck/z6s3nq3",
+      "summary": "Ein stark alkoholisierter 21-Jähriger hat sich im Tram bei der Einreise nach Deutschland in Weil am Rhein der Kontrolle widersetzt. Er wurde in die Schweiz zurückgewiesen.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Junglenker (19) überschlägt sich bei Selbstunfall in Schaffhausen",
+      "url": "https://www.blick.ch/schweiz/schaffhausen/schaffhausen-junglenker-19-ueberschlaegt-sich-bei-selbstunfall/c0r1rz4",
+      "summary": "Am Dienstagmorgen hat sich auf der A4 bei der Ausfahrt Schaffhausen-Nord ein Selbstunfall ereignet. Dabei überschlug sich ein Auto und kam auf der Seite liegend zum Stillstand. Der Junglenker verletzt",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bewaffnete Israelis bei Nati-Spiel in Sion? Behörden schweigen",
+      "url": "https://www.20min.ch/story/schweiz-israel-bewaffnete-israelis-bei-nati-spiel-in-sion-behoerden-schweigen-103648840",
+      "summary": "Das WM-Playoff-Rückspiel der Frauen-Nati gegen Israel ist politisch aufgeladen. In Sion sind nur Schweizer und israelische Flaggen erlaubt. Die Behörden schweigen zur Sicherheitslage.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Keine Gefahr» nach Luftnotfall – Polizei gibt Entwarnung",
+      "url": "https://www.20min.ch/story/deutschland-flughafen-nuernberg-gesperrt-mutmassliche-luftnotlage-103648933",
+      "summary": "Möglicher Notfall am Nürnberger Flughafen, die Polizei riegelt diesen ab. Das betroffene Flugzeug landet sicher. Die Polizei gibt mittlerweile Entwarnung, es bestehe keine Gefahr.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kanton Zürich: Mann raubt Frau in Dübendorf gewaltsam ihr Auto – Anklage fordert vier Jahre Haft",
+      "url": "https://www.tagesanzeiger.ch/autoraub-in-duebendorf-21-jaehriger-vor-gericht-777032685234",
+      "summary": "Ein 21-Jähriger soll mit zwei Komplizen eine Frau in einer Sammelgarage überfallen und ihren Mercedes gestohlen haben. Die Staatsanwaltschaft fordert zudem sieben Jahre Landesverweisung.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall in Schaffhausen: 19-Jähriger überschlägt sich auf der A4 – Totalschaden am Auto",
+      "url": "https://www.tagesanzeiger.ch/unfall-in-schaffhausen-auto-ueberschlaegt-sich-auf-a4-242068574146",
+      "summary": "Ein junger Lenker verlor bei der Ausfahrt Schaffhausen-Nord die Kontrolle über sein Fahrzeug und kollidierte mit der Leitplanke. Er konnte sich selbst befreien.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wettbewerb in Kalifornien: Riesenkürbis «Rocky» verpasst den Weltrekord – bringt seinem Züchter aber über 20’000 Dollar",
+      "url": "https://www.tagesanzeiger.ch/riesenkuerbis-rocky-verpasst-weltrekord-aber-gewinnt-preis-909804435649",
+      "summary": "Mit einem 1083 Kilogramm schweren Kürbis hat ein US-Amerikaner einen Wettbewerb in Kalifornien gewonnen. Für einen neuen Weltrekord reichte es allerdings nicht.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Nürnberg: Eurofighter begleiten Korfu-Flieger – Polizei sperrt zeitweise den Airport",
+      "url": "https://www.tagesanzeiger.ch/flughafen-nuernberg-sperrung-nach-polizeieinsatz-428143994556",
+      "summary": "Am Dienstag riegelte die Polizei den Nürnberger Flughafen wegen einer mutmasslichen Luftnotlage ab. Gegen 13 gaben die Behörden Entwarnung.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zürcher Bahnverkehr: SZU macht Signale überflüssig und stellt auf digitale Zugsicherung um",
+      "url": "https://www.tagesanzeiger.ch/szu-digitalisiert-30-mehr-verbindungen-bis-2035-391202950710",
+      "summary": "Die Sihltal Zürich Uetliberg Bahn erneuert ihre Bahntechnologie und führt das System ETCS Level 2 ein. Bis 2035 sollen so 30 Prozent mehr Verbindungen bewältigt werden.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Schatten-IT wird zum Risikofaktor für Schweizer Unternehmen",
+      "url": "https://www.inside-it.ch/schatten-it-wird-zum-risikofaktor-fuer-schweizer-unternehmen-20261013",
+      "summary": "Bei vier von fünf öffentlich bekannten Ransomware-Opfern fanden sich geschäftliche E-Mail-Adressen in Datenlecks.",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd: Droht anderen Ländern der Euro-Zone eine Ansteckung?",
+      "url": "https://www.nzz.ch/wirtschaft/frankreich-wird-zum-wirtschaftlichen-und-politischen-krisenherd-droht-anderen-laendern-der-euro-zone-eine-ansteckung-ld.10032455",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Alexander Zverev Wird die Nummer Eins Erfolge und Rückschläge des Deutschen",
+      "url": "https://www.suedostschweiz.ch/sportradar/alexander-zverev-wird-die-nummer-eins-erfolge-und-rueckschlaege-des-deutschen-2195258",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Wettsteinhütte bei Rickenbach Muss Abgerissen Werden",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/wettsteinhuette-bei-rickenbach-muss-abgerissen-werden-ld.4246699",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Vergessen sie die Umfahrung Verkehrsplaner Dämpft Hoffnungen in Kölliken",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/vergessen-sie-die-umfahrung-verkehrsplaner-daempft-hoffnungen-in-koelliken-ld.4249704",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump-Zölle: Handelsdefizit der USA steigt im August 2026 wieder",
+      "url": "https://www.watson.ch/wirtschaft/international/606043404-trump-zoelle-handelsdefizit-der-usa-steigt-im-august-2026-wieder",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hagel-Unwetter vom August verursachte 1,7 Milliarden Franken Schaden",
+      "url": "https://www.watson.ch/schweiz/geld/262173676-hagel-unwetter-vom-august-verursachte-1-7-milliarden-franken-schaden",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Dieb stiehlt in Dübendorf Auto von Frau: Anklage",
+      "url": "https://www.watson.ch/schweiz/auto/702012361-dieb-stiehlt-in-duebendorf-auto-von-frau-anklage",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Turbulenzen um Liebesaffäre: Das Bundesgericht sägt seinen Präsidenten ab",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/das-bundesgericht-saegt-seinen-praesidenten-francois-chaix-ab-art-1726626",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Unfall in US-Freizeitpark: Mann stürzt aus Achterbahn und stirbt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/unfall-in-us-freizeitpark-mann-stuerzt-aus-achterbahn-und-stirbt-art-1726625",
+      "summary": "",
+      "published": "2026-10-13T11:33:30.287721+00:00"
     }
   ]
 }
