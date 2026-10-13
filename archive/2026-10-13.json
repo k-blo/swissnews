@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T01:35:41.740252+00:00",
+  "generated": "2026-10-13T02:02:28.284412+00:00",
   "date": "2026-10-13",
-  "count": 25,
+  "count": 29,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -177,6 +177,34 @@
       "url": "https://www.watson.ch/international/usa/799129734-rj-mitte-aus-der-serie-breaking-bad-ist-34-jaehrig-verstorben",
       "summary": "",
       "published": "2026-10-13T01:35:41.740252+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump: Putin wolle eher Einigung",
+      "url": "https://www.zentralplus.ch/news/trump-putin-wolle-eher-einigung-2904264/",
+      "summary": "Trumps Diesel-Abkommen, das Russland den Dieseltransport in die USA trotz Sanktionen erlaubt, sorgt auch aus Trumps Reihen für Kritik. Nun aber verteidigt Trump das Abkommen weiterhin und betont, dass",
+      "published": "2026-10-13T02:02:28.284412+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Durchsuchung bei US-Abgeordneter und Trump-Kritikerin Omar",
+      "url": "https://www.watson.ch/international/usa/975774002-durchsuchung-bei-us-abgeordneter-und-trump-kritikerin-omar",
+      "summary": "",
+      "published": "2026-10-13T02:02:28.284412+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zwei junge Schweizer geraten in Thailand in Drogenfalle",
+      "url": "https://www.watson.ch/schweiz/drogen/704383857-zwei-junge-schweizer-geraten-in-thailand-in-drogenfalle",
+      "summary": "",
+      "published": "2026-10-13T02:02:28.284412+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach Krawallen in Zürich: Polizei untersucht gezielte Angriffe",
+      "url": "https://www.watson.ch/schweiz/zuerich/381702106-nach-krawallen-in-zuerich-polizei-untersucht-gezielte-angriffe",
+      "summary": "",
+      "published": "2026-10-13T02:02:28.284412+00:00"
     }
   ]
 }
