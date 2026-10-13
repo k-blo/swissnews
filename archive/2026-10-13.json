@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T07:32:53.506874+00:00",
+  "generated": "2026-10-13T08:03:21.212837+00:00",
   "date": "2026-10-13",
-  "count": 241,
+  "count": 267,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1689,6 +1689,188 @@
       "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/zuger-nachwuchs-glaenzt-am-selektionsturnier-in-genf-ld.4249536",
       "summary": "",
       "published": "2026-10-13T07:32:53.506874+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Medizinischer Notfall: Swiss-Flieger landet in Hamburg",
+      "url": "https://www.20min.ch/story/stockholmzuerich-medizinischer-notfall-swiss-flieger-landet-in-hamburg-103648809",
+      "summary": "Nach einem medizinischen Notfall an Bord eines A320 der Swiss musste die Maschine ausserplanmässig in Hamburg landen. Nach dem Auftanken setzt die Maschine ihren Flug nach Zürich fort.",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "US-Senatswahl in Maine: Republikaner geben 26’000 Dollar für Wahlkampfwerbung aus – im falschen Portland",
+      "url": "https://www.tagesanzeiger.ch/midterms-usa-republikaner-schalten-im-falschen-portland-werbung-211515227049",
+      "summary": "Eine Organisation hat Werbung gegen einen Demokraten aus Maine geschaltet– versehentlich in Oregon anstatt in Maine. Über eine Million Menschen haben den Spot gesehen.",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mutterkonzern gibt Geschäftsmodell vor: Notizapp Evernote erhöht den Preis des Jahresabos deutlich",
+      "url": "https://www.tagesanzeiger.ch/evernote-abo-steigt-auf-163-franken-pro-jahr-805679430900",
+      "summary": "Das Evernote-Jahresabo kostet ab Dezember 163 statt 109 Franken. Der Eigentümer Bending Spoons treibt die Preise hoch – und verliert bei Evernote fast die Hälfte der Nutzerschaft.",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Strecke Stuttgart–Zürich: SBB und Deutsche Bahn streichen Halte, um Züge pünktlicher zu machen",
+      "url": "https://www.tagesanzeiger.ch/sbb-weniger-halte-zwischen-schaffhausen-und-stuttgart-534648048971",
+      "summary": "Verspätungen und Ausfälle auf der Linie Stuttgart–Zürich trafen besonders Pendler ab Schaffhausen. Ab Dezember greifen SBB und DB mit einem neuen Fahrkonzept erneut ein.",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kanton Zürich: Schweissgestank und Schmerzenslaute sollen Wildschweine vertreiben",
+      "url": "https://www.tagesanzeiger.ch/wildschweine-in-zuerich-kanton-testet-schweissduft-zur-vergraemung-420392940466",
+      "summary": "Die Tiere graben sich immer zahlreicher durch die Zürcher Felder. Nun will der Kanton dem Schwarzwild mit einem neuen Konzept zu Leibe rücken.",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Software-Klone: Kleines Team baut Photoshop, Word und Excel mit KI nach – und stellt alles gratis ins Netz",
+      "url": "https://www.tagesanzeiger.ch/photocraft-open-source-rivale-greift-adobe-photoshop-an-237003570903",
+      "summary": "Ein Start-up hat Open-Source-Alternativen zu Programmen von Adobe und Microsoft entwickelt. Die Software entsteht in Rekordzeit mithilfe künstlicher Intelligenz, Kritiker warnen vor Sicherheits­lücken",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Russland: Milliardenumsatz mit der EU",
+      "url": "https://www.zentralplus.ch/news/russland-milliardenumsatz-mit-der-eu-2904300/",
+      "summary": "Europäische Staaten kaufen trotz Sanktionen weiterhin Energie aus Russland. Nach Angaben des russischen Vizepremiers Alexander Nowak bezogen EU-Länder seit 2022 Öl und Gas im Wert von rund 321 Milliar",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Frachtschiffe vor Bulgarien angegriffen",
+      "url": "https://www.zentralplus.ch/news/frachtschiffe-vor-bulgarien-angegriffen-2904294/",
+      "summary": "Im Schwarzen Meer vor der Küste Bulgariens sind erneut zwei Frachtschiffe von Drohnen attackiert worden. Das teilte der bulgarische Regierungschef Rumen Radew mit. Zunächst wurde ein unter maltesische",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "MCP-Testartikel Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-10-13/mcp-testartikel-netzwoche",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wintersasison Recruiting im Hotel wie Schwierig ist es Gutes Personal zu Fi",
+      "url": "https://www.suedostschweiz.ch/graubuenden/wintersasison-recruiting-im-hotel-wie-schwierig-ist-es-gutes-personal-zu-fi-2180240",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Sabotage an Nord Stream was Serhij K vor Gericht Erwartet 2",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/sabotage-an-nord-stream-was-serhij-k-vor-gericht-erwartet-2-2193465",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "A2 bei Sursee Zwei Auffahrunfälle Sorgen für Stau",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/a2-bei-sursee-zwei-auffahrunfaelle-sorgen-fuer-stau-ld.4249682",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fricktaler Eisenbahnclub Fec Zeigt Seine Modelleisenbahn in Frick",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/fricktaler-eisenbahnclub-fec-zeigt-seine-modelleisenbahn-in-frick-ld.4248388",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Migros Filiale im Zentrum Rössli mit Neuem Ladenkonzept",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/migros-filiale-im-zentrum-roessli-mit-neuem-ladenkonzept-ld.4249624",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Lieferwagen Verunfallt bei Dornach und Rutscht Böschung Hinunter",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/lieferwagen-verunfallt-bei-dornach-und-rutscht-boeschung-hinunter-ld.4249738",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Erzählcafe Zofingen Ruth Mansukani Brand War der Überraschungsgast",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/erzaehlcafe-zofingen-ruth-mansukani-brand-war-der-ueberraschungsgast-ld.4249648",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Dating: Kluge Frauen haben gute Chancen, ungebildete Männer kaum",
+      "url": "https://www.watson.ch/schweiz/leben/324635597-dating-kluge-frauen-haben-gute-chancen-ungebildete-maenner-kaum",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Gegen den FIFA-Präsidenten Infantino gibt es neue Vorwürfe",
+      "url": "https://www.watson.ch/sport/fifa/497862394-gegen-den-fifa-praesidenten-infantino-gibt-es-neue-vorwuerfe",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Verspätung zwischen Zürich und Stuttgart: SBB planen weniger Stopps",
+      "url": "https://www.watson.ch/schweiz/oev/320705334-verspaetung-zwischen-zuerich-und-stuttgart-sbb-planen-weniger-stopps",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Christa Pike: Behörden stuften Notruf aus Gefängnis als Fehlalarm ein",
+      "url": "https://www.watson.ch/international/usa/691988669-christa-pike-behoerden-stuften-notruf-aus-gefaengnis-als-fehlalarm-ein",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zürich: Wildschweine sollen mit Menschenschweiss vertrieben werden",
+      "url": "https://www.watson.ch/schweiz/zuerich/754143515-zuerich-wildschweine-sollen-mit-menschenschweiss-vertrieben-werden",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Roboter belästigt 16-Jährige in Köln – Polizei stellt Gerät sicher",
+      "url": "https://www.watson.ch/digital/international/339247704-roboter-belaestigt-16-jaehrige-in-koeln-polizei-stellt-geraet-sicher",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Aromahersteller Givaudan steigert Umsatz",
+      "url": "https://www.watson.ch/wirtschaft/wirtschafts-news/921193850-aromahersteller-givaudan-steigert-umsatz",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zwei Unfälle im Eichtunnel sorgen für erheblichen Stau im Morgenverkehr",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/a2-bei-sursee-zwei-auffahrunfaelle-sorgen-fuer-stau-art-1726602",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Brandanschlag in Polen: Zwei Verdächtige in Deutschland gefasst",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/starlink-brand-in-polen-fahndungserfolg-fuer-deutsche-polizei-art-1726601",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Breaking Bad»-Star RJ Mitte stirbt mit 34 Jahren",
+      "url": "https://www.bote.ch/nachrichten/kultur/breaking-bad-star-rj-mitte-stirbt-mit-34-jahren-art-1726600",
+      "summary": "",
+      "published": "2026-10-13T08:03:21.212837+00:00"
     }
   ]
 }
