@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T10:33:05.553942+00:00",
+  "generated": "2026-10-13T11:04:18.352477+00:00",
   "date": "2026-10-13",
-  "count": 424,
+  "count": 437,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -2970,6 +2970,97 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/millionenbetrug-um-3d-drucker-prozess-gegen-zentralschweizer-art-1726621",
       "summary": "",
       "published": "2026-10-13T10:33:05.553942+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Unruhe am Bundesgericht – Bundesgerichtspräsident Chaix nicht mehr nominiert",
+      "url": "https://www.srf.ch/news/schweiz/unruhe-am-bundesgericht-bundesgerichtspraesident-chaix-nicht-mehr-nominiert",
+      "summary": "Paukenschlag am höchsten Gericht – Hintergrund ist die kritisierte Aufarbeitung der Liebesbeziehung zweier Mitglieder.",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Massenproteste in Griechenland? Das steckt dahinter",
+      "url": "https://www.20min.ch/story/faktencheck-massenproteste-in-griechenland-das-steckt-dahinter-103648565",
+      "summary": "Ganz Griechenland stehe still, heisst es auf Social Media. Videos werden als Beweis geteilt. Die Aufnahmen sind zwar echt, die Behauptung aber falsch.",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Polizei in Köln ermittelt: Junge Männer begrapschen 16-Jährige mit Roboter und streamen den Vorfall auf Social Media",
+      "url": "https://www.tagesanzeiger.ch/roboter-begrapscht-16-jaehrige-ermittlungen-in-koeln-386829483040",
+      "summary": "Der ferngesteuerte Roboter soll eine Jugendliche in der Öffentlichkeit am Gesäss berührt und Stossbewegungen ausgeführt haben. Die Behörden ermitteln wegen Beleidigung auf sexueller Grundlage.",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tiefenlager an der Grenze: Das sagen die deutschen Behörden zum Atommülllager in Stadel",
+      "url": "https://www.tagesanzeiger.ch/atommuell-tiefenlager-stadel-so-reagieren-deutsche-behoerden-900569277878",
+      "summary": "Die Schweiz plant ein Tiefenlager in Stadel – nahe der deutschen Grenze bei Hohentengen. Berlin lobt die Transparenz der Schweizer Behörden. Die Grenzgemeinden fordern Mitsprache und Geld.",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Der Wolf im Schafspelz und die verschwundenen Millionen",
+      "url": "https://www.zentralplus.ch/justiz/der-wolf-im-schafspelz-und-die-verschwundenen-millionen-2904211/",
+      "summary": "Es beginnt mit einer schwarzen S-Klasse, die vor einem Luzerner Treuhandbüro vorfährt. Es endet mit 4,5 Millionen Franken, die verschwunden sind, und zwei Männern vor Gericht. Dazwischen liegt eine Ge",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Berufsbildungszentrum beschafft Prüfungs- und Lernplattform",
+      "url": "https://www.inside-it.ch/berufsbildungszentrum-beschafft-pruefungs-und-lernplattform-20261013",
+      "summary": "Für 5,6 Millionen Franken liefert die deutsche Firma Arrabiata Solutions eine neue Plattform. Diese stellt das Zentrum Kantonen und Organisationen zur Verfügung.",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Pflästerer zum grauen Granit: «Keine grossen Experimente eingehen»",
+      "url": "https://www.shn.ch/region/stadt/2026-10-13/pflaesterer-zum-grauen-granit-keine-grossen-experimente-eingehen",
+      "summary": "Die Stadt ersetzt schrittweise den roten Bsetzistein der Altstadt durch einen grauen Granitstein. Die SN haben den Präsidenten des Verbandes Schweizerischer Pflästerermeister nach seiner Meinung dazu ",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Flughafen Nürnberg gesperrt – «mutmassliche Luftnotlage»",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-10-13/flughafen-nuernberg-gesperrt-mutmassliche-luftnotlage",
+      "summary": "Möglicher Notfall am Nürnberger Flughafen, die Polizei riegelt diesen ab. Noch sind viele Fragen offen.",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "SBB und DB planen zusätzliche Fahrzeitreserven für stabilere Verbindungen zwischen Zürich und Stuttgart",
+      "url": "https://www.shn.ch/region/kanton/2026-10-13/sbb-und-db-planen-zusaetzliche-fahrzeitreserven-fuer-stabilere",
+      "summary": "Im Dezember kommt es auf der Strecke Zürich-Stuttgart zu einer Fahrplanänderung. Für Passagiere ab Schaffhausen nach Stuttgart verlängert sich die Reisezeit.",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Drei Mal Nein und Schwere Verletzungen Jetzt ist Coral Boy der von Maienfeld",
+      "url": "https://www.suedostschweiz.ch/regionalsport/drei-mal-nein-und-schwere-verletzungen-jetzt-ist-coral-boy-der-von-maienfeld-2179127",
+      "summary": "",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Apple Home Event am 13 10 Uhrzeit und Livestream",
+      "url": "https://www.suedostschweiz.ch/panorama/apple-home-event-am-13-10-uhrzeit-und-livestream-2195212",
+      "summary": "",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Mit meiner ruhigen Art vermitteln»",
+      "url": "https://www.freiburger-nachrichten.ch/story/296616/mit-meiner-ruhigen-art-vermitteln",
+      "summary": "",
+      "published": "2026-10-13T11:04:18.352477+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Flughafen Nürnberg gesperrt&nbsp;– «mutmassliche Luftnotlage»",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/flughafen-nuernberg-wegen-polizeieinsatz-gesperrt-art-1726623",
+      "summary": "",
+      "published": "2026-10-13T11:04:18.352477+00:00"
     }
   ]
 }
