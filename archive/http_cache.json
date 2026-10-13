@@ -1,16 +1,16 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Tue, 13 Oct 2026 16:16:06 GMT",
-    "etag": "\"cc6c39daf36fcb8a78bc4fc01a8ded97\""
+    "last_modified": "Tue, 13 Oct 2026 16:31:24 GMT",
+    "etag": "\"1b46bac69d3306a65888c9c1ab84e2d9\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
     "etag": "W/\"181ef-Tp4W6ZLpH/A2BkWf5NUd93/40f8\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"ccf4-YJaBv87nqxqv0ULFb/QmMylI6qQ\""
+    "etag": "W/\"ccb9-oXUMeAWr7ZI22etmz9ER/3ZhQJc\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"c9bf-PFzzrfhS8NGOs3hx+HCbyZNECI4\""
+    "etag": "W/\"c9bf-qBRTQ7zQarIACoXcEDuvDNyJhEA\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Tue, 13 Oct 2026 16:30:14 GMT"
@@ -30,10 +30,10 @@
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"cffb-P0kOQ593dovHEP4SKttRfx0LBRI\""
+    "etag": "W/\"cfc0-ME45bH5nRUrQoboVYNvAOZ2if7A\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"d0bf-DcXw6WXSnU3b93wMTEa/ohS5oGQ\""
+    "etag": "W/\"d0bc-P5vZWfAEeNw6ivkib2TKVXEH2Lk\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Tue, 13 Oct 2026 09:14:33 GMT",
