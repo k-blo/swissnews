@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T22:32:46.485438+00:00",
+  "generated": "2026-10-13T23:02:33.396667+00:00",
   "date": "2026-10-14",
-  "count": 20,
+  "count": 23,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -142,6 +142,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/2-meter-gross-und-schuhgroesse-50-ich-bestelle-meine-schuhe-immer-im-internet-art-1726624",
       "summary": "",
       "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Freche Elefanten und fleissige Käfer: Die besten Tierfotos 2026",
+      "url": "https://www.20min.ch/story/wildlife-photographer-freche-elefanten-und-fleissige-kaefer-die-besten-tierfotos-2026-103648998",
+      "summary": "Wie jedes Jahr hat das Natural History Museum in London die Gewinnerinnen und Gewinner des «Wildlife Photographer of the Year»-Wettbewerbs gekürt – und wie immer sind die Fotos grossartig.",
+      "published": "2026-10-13T23:02:33.396667+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mars-Rover schafft Streckenrekord im All",
+      "url": "https://www.20min.ch/story/nasa-perseverance-mars-rover-mit-streckenrekord-103649291",
+      "summary": "Seit 2021 rollt der Nasa-Rover «Perseverance» über den Mars – und hat jetzt insgesamt eine längere Strecke zurückgelegt als je ein anderes Fahrzeug im All vor ihm.",
+      "published": "2026-10-13T23:02:33.396667+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rekord um 60 Meter gebrochen: Mars-Rover «Perseverance» schafft Streckenrekord im All",
+      "url": "https://www.tagesanzeiger.ch/mars-rover-perseverance-neuer-streckenrekord-mit-45-22-km-790204823857",
+      "summary": "Seit 2021 rollt der Nasa-Rover «Perseverance» über den Mars – und hat jetzt insgesamt eine längere Strecke zurückgelegt als je ein anderes Fahrzeug im All vor ihm.",
+      "published": "2026-10-13T23:02:33.396667+00:00"
     }
   ]
 }
