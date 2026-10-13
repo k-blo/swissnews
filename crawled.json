@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T22:02:46.963968+00:00",
+  "generated": "2026-10-13T22:32:46.485438+00:00",
   "date": "2026-10-14",
-  "count": 5,
+  "count": 20,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,111 @@
       "url": "https://www.freiburger-nachrichten.ch/story/296998/cupauftakt-gelingt-fc-kerzers-zieht-in-den-18final-ein",
       "summary": "",
       "published": "2026-10-13T22:02:46.963968+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Papst Leo XIV. leidet an Lungenkrebs – Operation erfolgreich verlaufen",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-10-14/papst-leo-xiv-leidet-an-lungenkrebs-operation-erfolgreich",
+      "summary": "Die Operation bestätigt den Krebsverdacht bei dem 71-Jährigen.",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Night of Sounds»: zehn Jahre ohne Applaus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/night-of-sounds-zehn-jahre-ohne-applaus-art-1726617",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wichtiges Cupspiel für Schwyzerinnen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/wichtiges-cupspiel-fuer-schwyzerinnen-art-1726633",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wenn sie schlief, legte sich der Vater zu seiner Tochter",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wenn-sie-schlief-legte-sich-der-vater-zu-seiner-tochter-art-1726658",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wahlen 2027: SVP, FDP und Mitte streben Machterhaltung an – Ender und die SP blasen zum Angriff",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wahlen-2027-svp-fdp-und-mitte-streben-machterhaltung-an-ender-und-die-sp-blasen-zum-angriff-art-1726661",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Turnverband weiht seine neue Verbandsfahne feierlich ein",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/turnverband-weiht-seine-neue-verbandsfahne-feierlich-ein-art-1726627",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Milder Herbst mit viel Sonne – doch eine Kaltfront kündigt sich an",
+      "url": "https://www.bote.ch/nachrichten/schwyz/milder-herbst-mit-viel-sonne-doch-eine-kaltfront-kuendigt-sich-an-art-1726639",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Marco Pfyl beendet seine Spitzensportkarriere",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/marco-pfyl-beendet-seine-spitzensportkarriere-art-1726603",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kühnes letzter Schachzug bringt gewollt Spannungen in die Milliarden-Nachfolge",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kuehnes-letzter-schachzug-bringt-gewollt-spannungen-in-die-milliarden-nachfolge-art-1726650",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kulturschock-Ensemble: «Wir bringen bewusst die Oper in die Bar»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kulturschock-ensemble-wir-bringen-bewusst-die-oper-in-die-bar-art-1726646",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Karl Jenkins’ «Stabat Mater» erklingt in der Pfarrkirche",
+      "url": "https://www.bote.ch/nachrichten/schwyz/karl-jenkins-stabat-mater-erklingt-in-der-pfarrkirche-art-1726642",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "KI kann alles. Muss sie es deshalb?",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ki-kann-alles-muss-sie-es-deshalb-art-1726616",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ganz ohne Baugesuch: Tellco stellt in drei Wohnblöcken Leerkündigungen aus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ganz-ohne-baugesuch-tellco-stellt-in-drei-wohnbloecken-leerkuendigungen-aus-art-1726636",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Chestene Chilbi – Kastanien, Tessiner Lebensgefühl und ein Dorf voller Genuss",
+      "url": "https://www.bote.ch/nachrichten/schwyz/chestene-chilbi-kastanien-tessiner-lebensgefuehl-und-ein-dorf-voller-genuss-art-1726648",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "2 Meter gross und Schuhgrösse 50: «Ich bestelle meine Schuhe immer im Internet»",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/2-meter-gross-und-schuhgroesse-50-ich-bestelle-meine-schuhe-immer-im-internet-art-1726624",
+      "summary": "",
+      "published": "2026-10-13T22:32:46.485438+00:00"
     }
   ]
 }
