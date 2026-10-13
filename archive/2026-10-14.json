@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T23:02:33.396667+00:00",
+  "generated": "2026-10-13T23:32:15.151660+00:00",
   "date": "2026-10-14",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,13 @@
       "url": "https://www.tagesanzeiger.ch/mars-rover-perseverance-neuer-streckenrekord-mit-45-22-km-790204823857",
       "summary": "Seit 2021 rollt der Nasa-Rover «Perseverance» über den Mars – und hat jetzt insgesamt eine längere Strecke zurückgelegt als je ein anderes Fahrzeug im All vor ihm.",
       "published": "2026-10-13T23:02:33.396667+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Papst Leo bricht mit Geheimniskrämerei",
+      "url": "https://www.zentralplus.ch/news/papst-leo-bricht-mit-geheimniskraemerei-2904450/",
+      "summary": "Der Papst hat Krebs, ist aber nicht todkrank, wie Italien-Korrespondent Curdin Vincenz sagt. Die Heilungschancen gelten nach einer erfolgreichen Operation wie hier im Frühstadium als gut bis sehr gut.",
+      "published": "2026-10-13T23:32:15.151660+00:00"
     }
   ]
 }
