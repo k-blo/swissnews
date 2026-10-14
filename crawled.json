@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T06:32:18.720289+00:00",
+  "generated": "2026-10-14T07:02:31.871560+00:00",
   "date": "2026-10-14",
-  "count": 230,
+  "count": 263,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1612,6 +1612,237 @@
       "url": "https://insideparadeplatz.ch/2026/10/14/hat-zuercher-baugenossenschaft-20-mio-mit-swaps-verpulvert/",
       "summary": "",
       "published": "2026-10-14T06:32:18.720289+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bomben-Zyklon trifft Island mit voller Wucht",
+      "url": "https://www.20min.ch/story/sturmtief-bomben-zyklon-trifft-island-mit-voller-wucht-103649319",
+      "summary": "Ein aussergewöhnlich starkes Sturmtief zieht über Island. Es drohen Orkanböen und bis zu 50 Zentimeter Neuschnee – die Behörden raten von Reisen ab.",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweizer (73) kehrt wegen Handy um – und verschwindet spurlos",
+      "url": "https://www.20min.ch/story/in-den-ferien-schweizer-73-kehrt-wegen-handy-um-und-verschwindet-spurlos-103649357",
+      "summary": "Seit zehn Tagen wird ein Schweizer (73) in Südspanien vermisst. Zuletzt gesehen wurde er, als er wegen seines vergessenen Handys umkehrte.",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Während Hymne: Etwas störte Israelis beim Nati-Spiel besonders",
+      "url": "https://www.20min.ch/story/bei-nati-sieg-waehrend-hymne-etwas-stoerte-israelis-beim-nati-spiel-besonders-103649266",
+      "summary": "Beim Schweizer Sieg gegen Israel zeigten Protestierende verbotene Palästina-Flaggen und zündeten Pyros. Nach dem Spiel wurde bekannt, warum die Security zunächst nicht eingriff.",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Frust beim deutschen Rekordmeister: Bayern-Star wird für «überblöden» Platzverweis gerügt",
+      "url": "https://www.tagesanzeiger.ch/bayern-muenchen-3-3-in-stavanger-nach-olise-platzverweis-128253054857",
+      "summary": "Bayern München kassiert wie schon in der Bundesliga ein frühes Gegentor. Auch sonst sind sie an der Säbener Strasse nicht komnplett zufrieden.",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Linkedin als digitales Kondolenzbuch: «Ich kann kaum begreifen, dass er nicht mehr da ist» – 269 Personen gefällt das",
+      "url": "https://www.bernerzeitung.ch/linkedin-wenn-der-algorithmus-den-tod-zur-karriere-macht-433567456699",
+      "summary": "Nachrufe und Abschiedsbriefe werden auf der Plattform immer populärer, denn der Algorithmus belohnt Emotionen mit Reichweite. Doch Pfarrer Christian Walti warnt vor «billigem Ersatz» echter Begegnunge",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "A1 Kirchberg–Schönbühl: Bund will neue Fahr­spuren auf dem Pannen­streifen – kurz nach dem Volks-Nein",
+      "url": "https://www.derbund.ch/astra-prueft-pannenstreifen-als-fahrspur-auf-a1-kirchbergschoenbuehl-245016543409",
+      "summary": "Zwei Fahrspuren mehr in Spitzenzeiten seien kein «regulärer Ausbau» der Autobahn, sagt das Bundesamt für Strassen. Rot-Grün spricht von einem «Ausbau durch die Hintertür».",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Erneut russische Angriffe auf Kiew",
+      "url": "https://www.zentralplus.ch/news/erneut-russische-angriffe-auf-kiew-2904466/",
+      "summary": "Auch in der Nacht auf Mittwoch hat Russland die ukrainische Hauptstadt Kiew massiv angegriffen. Stadtpräsident Witali Klitschko schreibt in den sozialen Medien, mehrere Menschen seien getötet und Dutz",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wo Responsible AI heute noch zu kurz greift",
+      "url": "https://www.netzwoche.ch/interviews/2026-10-14/wo-responsible-ai-heute-noch-zu-kurz-greift",
+      "summary": "Responsible AI verlangt mehr als den verantwortungsvollen Umgang mit Technologie. Was es in der Praxis wirklich braucht und welche Rolle der Mensch dabei spielt, erklärt Cornelia Diethelm, Gründerin d",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Eine verantwortungsvolle KI-Nutzung braucht mehr als nur Vertrauen",
+      "url": "https://www.netzwoche.ch/news/2026-10-14/eine-verantwortungsvolle-ki-nutzung-braucht-mehr-als-nur-vertrauen",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "The Joy of Prompting",
+      "url": "https://www.netzwoche.ch/meinungen/2026-10-14/the-joy-of-prompting",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI führt Wanderer aufs Glatteis",
+      "url": "https://www.netzwoche.ch/netzwitzig/2026-10-14/ki-fuehrt-wanderer-aufs-glatteis",
+      "summary": "CE- und IT-Welt fördern immer wieder Erstaunliches und Kurioses zutage, das zum Schmunzeln anregt. Die seltsamsten ­Kurznews immer in der Rubrik «Curiosities». Gute Unterhaltung!",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Eduard Modalek, Managing Director, Red Hat",
+      "url": "https://www.netzwoche.ch/interviews/2026-10-14/eduard-modalek-managing-director-red-hat",
+      "summary": "Eduard (Edi) Modalek, seit Oktober 2026 Managing Director, ist bereits seit 2016 für den Open-Source-Spezialisten Red Hat tätig, zuletzt als Corporate Sales & Cloud Sales Leader EMEA. Er ist verheirat",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Was eine wirksame KI-Kontrolle wirklich erfordert",
+      "url": "https://www.netzwoche.ch/interviews/2026-10-14/was-eine-wirksame-ki-kontrolle-wirklich-erfordert",
+      "summary": "KI soll nicht nur leistungsfähig sein, sondern auch fair, nachvollziehbar und kontrollierbar. Doch was das konkret bedeutet, lässt sich nicht allein aus technischer Sicht beantworten. ZHAW-Professor C",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Vom Pilotprojekt zum KI-Produktiv­betrieb: Die Hürden der Skalierung",
+      "url": "https://www.netzwoche.ch/news/2026-10-14/vom-pilotprojekt-zum-ki-produktiv-betrieb-die-huerden-der-skalierung",
+      "summary": "Künstliche Intelligenz hat in vielen Schweizer Unternehmen die Phase des reinen Ausprobierens überwunden. Proof-of-­Concepts und generative Pilotprojekte gehören heute zum Alltag. Doch der entscheiden",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Hat die Schweiz das Zeug dazu, im KI-Zeitalter mitzuhalten?",
+      "url": "https://www.netzwoche.ch/news/2026-10-14/hat-die-schweiz-das-zeug-dazu-im-ki-zeitalter-mitzuhalten",
+      "summary": "Ob die Schweiz im KI-Zeitalter wettbewerbsfähig bleibt, entscheidet sich nicht nur bei Modellen und Chips. Rechenleistung, Energie, sichere Netze, Fachkräfte und Vertrauen werden zu strategischen Vora",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Angel Investing in der Schweiz und in Afrika",
+      "url": "https://www.netzwoche.ch/meinungen/2026-10-14/angel-investing-in-der-schweiz-und-in-afrika",
+      "summary": "Eine Gruppe von Schweizer Angel-Investorinnen und -Investoren, die sich beim Angel-Investment-Netzwerk Sictic kennen­gelernt haben, ­investiert nicht nur in der Schweiz, sondern auch in Afrika. Inzwis",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Vertrauenswürdige KI-Projekte – in 4 Schritten von der Theorie zur Praxis",
+      "url": "https://www.netzwoche.ch/news/2026-10-14/vertrauenswuerdige-ki-projekte-in-4-schritten-von-der-theorie-zur-praxis",
+      "summary": "Responsible AI ermöglicht Innovation und schafft Vertrauen, indem sie Nutzerinnen und Nutzer ins Zentrum stellt. Die Herausforderung liegt selten darin, ethische Prinzipien zu formulieren. Schwieriger",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI-Sicherheit und Governance brauchen Beweise statt Glauben",
+      "url": "https://www.netzwoche.ch/news/2026-10-14/ki-sicherheit-und-governance-brauchen-beweise-statt-glauben",
+      "summary": "Fast jedes Unternehmen hat inzwischen Richtlinien für KI-Sicherheit und Governance. Nur wenige können belegen, dass sich ihre KI-Systeme daran halten. Um diese Lücke zu schliessen, braucht es keine KI",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wenn die KI durchdreht: CIO in the Lead",
+      "url": "https://www.netzwoche.ch/meinungen/2026-10-14/wenn-die-ki-durchdreht-cio-in-the-lead",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI-Governance in der Praxis – Verantwortung und Innovation vereinen",
+      "url": "https://www.netzwoche.ch/news/2026-10-14/ki-governance-in-der-praxis-verantwortung-und-innovation-vereinen",
+      "summary": "Künstliche Intelligenz entfaltet ihr Potenzial erst dann, wenn sie über einzelne Pilotprojekte hinaus skaliert wird. Doch wie ­gelingt es, Innovation zu fördern und gleichzeitig Sicherheit, Compliance",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Reifegrad statt Stückwerk: Sergenta IT Security (Schweiz)",
+      "url": "https://www.netzwoche.ch/news/2026-10-14/reifegrad-statt-stueckwerk-sergenta-it-security-schweiz",
+      "summary": "Sergenta IT Security (Schweiz), die auf IT-Sicherheit spezialisierte Division der Sergenta Group AG, ist Partner für Schweizer KMUs mit 100 bis 800 digitalen Arbeitsplätzen. Im Zentrum steht die Konze",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Harry Meier übernimmt Kommunikation",
+      "url": "https://www.persoenlich.com/prcorporate-communication/harry-meier-ubernimmt-kommunikation",
+      "summary": "Der 53-Jährige folgt auf Frank Keidel, der die Vereinigung der Schweizer Automobil-Importeure verlässt.",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Informationsflut setzt PR unter Druck",
+      "url": "https://www.persoenlich.com/prcorporate-communication/informationsflut-setzt-pr-unter-druck",
+      "summary": "Laut Umfrage von News Aktuell und P.E.R. Agency sehen 56 Prozent der Kommunikationsfachleute darin die grösste Einschränkung ihrer Einflussmöglichkeiten.",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bundesratsanwärterin der SVP irritiert: Sie kämpft für zwei gegensätzliche Steuermodelle",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-10-14/bundesratsanwaerterin-der-svp-irritiert-sie-kaempft-fuer-zwei",
+      "summary": "Céline Amaudruz sitzt im Verein für die vom Volk angenommene Individualbesteuerung. Doch auf Bundesebene will sie Ehepaare weiter gemeinsam besteuern – und löst damit Verwirrung aus.",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Ubs Soll Yachthafen in Rapallo Verkaufen",
+      "url": "https://www.bilanz.ch/unternehmen/ubs-soll-yachthafen-in-rapallo-verkaufen/x7k97me",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Tellco Kündigt Drei Wohnblöcke in Richterswil",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/tellco-kuendigt-drei-wohnbloecke-in-richterswil-ld.4250273",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kühne Stiftung Wird Milliardenschwer Nachfolge ist Geregelt",
+      "url": "https://www.luzernerzeitung.ch/wirtschaft/zentralschweiz/kuehne-stiftung-wird-milliardenschwer-nachfolge-ist-geregelt-ld.4250268",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Irina Studhalter Will in den Ständerat",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzern-irina-studhalter-will-in-den-staenderat-ld.4250252",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Bezirksgericht Münchwilen Urteilt Ohne Strafe in Waffenfall",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/bezirksgericht-muenchwilen-urteilt-ohne-strafe-in-waffenfall-ld.4244205",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Herbstbummel von Vitaswiss Dietikon",
+      "url": "https://www.limmattalerzeitung.ch/leserbeitrag/li/herbstbummel-von-vitaswiss-dietikon-ld.4250230",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Stadt will für fünf Millionen Franken sanieren",
+      "url": "https://www.freiburger-nachrichten.ch/story/296872/die-stadt-will-f%C3%BCr-f%C3%BCnf-millionen-franken-sanieren",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Peterli sei Dank!",
+      "url": "https://www.freiburger-nachrichten.ch/story/296758/peterli-sei-dank",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Irina Studhalter will für die Grünen in den Ständerat",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-irina-studhalter-will-in-den-staenderat-art-1726765",
+      "summary": "",
+      "published": "2026-10-14T07:02:31.871560+00:00"
     }
   ]
 }
