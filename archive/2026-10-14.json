@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13T23:32:15.151660+00:00",
+  "generated": "2026-10-14T00:02:03.178088+00:00",
   "date": "2026-10-14",
-  "count": 24,
+  "count": 27,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,27 @@
       "url": "https://www.zentralplus.ch/news/papst-leo-bricht-mit-geheimniskraemerei-2904450/",
       "summary": "Der Papst hat Krebs, ist aber nicht todkrank, wie Italien-Korrespondent Curdin Vincenz sagt. Die Heilungschancen gelten nach einer erfolgreichen Operation wie hier im Frühstadium als gut bis sehr gut.",
       "published": "2026-10-13T23:32:15.151660+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kampf gegen Hunger kommt weltweit kaum voran",
+      "url": "https://www.20min.ch/story/welthungertag-welthunger-index-kampf-gegen-hungersnot-stand-aktuell-103649298",
+      "summary": "In 32 Ländern hat sich die Hungersituation seit 2018 verschlechtert. Besonders Afrika südlich der Sahara ist betroffen. Zugleich fehlt immer mehr Geld für humanitäre Hilfe.",
+      "published": "2026-10-14T00:02:03.178088+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "In Afrika verschlechtert sich die Lage: Kampf gegen Hunger kommt weltweit kaum voran",
+      "url": "https://www.tagesanzeiger.ch/welthunger-index-lage-in-32-laendern-verschlechtert-456850889454",
+      "summary": "In 32 Ländern hat sich die Hungersituation seit 2018 verschlechtert. Besonders Afrika südlich der Sahara ist betroffen. Zugleich fehlt immer mehr Geld für humanitäre Hilfe.",
+      "published": "2026-10-14T00:02:03.178088+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Huthi und Saudi-Arabien greifen an",
+      "url": "https://www.zentralplus.ch/news/huthi-und-saudi-arabien-greifen-an-2904452/",
+      "summary": "Die vom Iran unterstützte Huthi-Miliz greift weiterhin Ziele in Saudi-Arabien an. Vier Personen seien in der Hauptstadt Riad durch Trümmerteile einer abgeschossenen Rakete verletzt worden, meldeten di",
+      "published": "2026-10-14T00:02:03.178088+00:00"
     }
   ]
 }
