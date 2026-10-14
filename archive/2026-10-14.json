@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T02:02:35.386372+00:00",
+  "generated": "2026-10-14T02:32:14.834223+00:00",
   "date": "2026-10-14",
-  "count": 40,
+  "count": 46,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -282,6 +282,48 @@
       "url": "https://www.bote.ch/nachrichten/kultur/yang-shuang-zi-taiwanesische-autorin-gegen-chinas-machtanspruch-art-1726744",
       "summary": "",
       "published": "2026-10-14T02:02:35.386372+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wanze in OpenAI-Konferenzraum",
+      "url": "https://www.zentralplus.ch/news/wanze-in-openai-konferenzraum-2904456/",
+      "summary": "Ein Mitarbeiter des ChatGPT-Entwicklers OpenAI soll ein Abhörgerät in einem Konferenzraum platziert haben, um sensible Gespräche über die KI von OpenAI abzuhören. Nach seiner Festnahme ermittelt nun d",
+      "published": "2026-10-14T02:32:14.834223+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Milliardenstrafe gegen Bank of America",
+      "url": "https://www.zentralplus.ch/news/milliardenstrafe-gegen-bank-of-america-2904454/",
+      "summary": "Die Bank of America muss eine Strafe in Höhe von 1,2 Milliarden Dollar bezahlen. Die zweitgrösste Bank der USA hat laut dem US-Finanzministerium gegen Geldwäschegesetze verstossen. Sie habe etwa verdä",
+      "published": "2026-10-14T02:32:14.834223+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Wie informieren sich junge Menschen im digitalen Zeitalter? Lorine Blunschi reichen kurze Videos - Vater Alex hört das nicht gern",
+      "url": "https://www.shn.ch/multimedia/podcast/2026-10-14/wie-informieren-sich-junge-menschen-im-digitalen-zeitalter-lorine",
+      "summary": "«Junge Menschen haben sehr schnell sehr starke Meinungen, oft haben sie aber keine vertiefte Ahnung vom Thema!» Papa Alex startet die neueste Folge von «Ächt jetzt?!» mit einer provokativen These und ",
+      "published": "2026-10-14T02:32:14.834223+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Einsprachen Tsunami Flutet Rhb Grossprojekt im Prättigau",
+      "url": "https://www.suedostschweiz.ch/graubuenden/einsprachen-tsunami-flutet-rhb-grossprojekt-im-praettigau-2194300",
+      "summary": "",
+      "published": "2026-10-14T02:32:14.834223+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Raketen treffen Kiew – Ukrainer beklagen fehlende Vorwarnung",
+      "url": "https://www.watson.ch/international/usa/145464368-raketen-treffen-kiew-ukrainer-beklagen-fehlende-vorwarnung",
+      "summary": "",
+      "published": "2026-10-14T02:32:14.834223+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum Saudi-Arabiens Milliardenabwehr die Huthis nicht stoppen kann",
+      "url": "https://www.watson.ch/international/iran/791663351-warum-saudi-arabiens-milliardenabwehr-die-huthis-nicht-stoppen-kann",
+      "summary": "",
+      "published": "2026-10-14T02:32:14.834223+00:00"
     }
   ]
 }
