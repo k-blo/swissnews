@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T01:32:21.683542+00:00",
+  "generated": "2026-10-14T01:39:51.148878+00:00",
   "date": "2026-10-14",
-  "count": 34,
+  "count": 35,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -240,6 +240,13 @@
       "url": "https://www.20min.ch/story/usa-openai-spionage-fall-wanze-in-toilettenpapier-festnahme-103649309",
       "summary": "In einem wichtigen Konferenzraum des ChatGPT-Entwicklers OpenAI wird ein Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter.",
       "published": "2026-10-14T01:32:21.683542+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Spionage-Fall: Mitarbeiter versteckt Wanze in Konferenzraum von OpenAI",
+      "url": "https://www.tagesanzeiger.ch/wanze-bei-openai-mitarbeiter-in-san-francisco-festgenommen-597180590250",
+      "summary": "In einem wichtigen Meetingraum des ChatGPT-Entwicklers OpenAI wird ein in Toilettenpapier eingewickeltes Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter.",
+      "published": "2026-10-14T01:39:51.148878+00:00"
     }
   ]
 }
