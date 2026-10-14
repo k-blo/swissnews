@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T03:32:11.183915+00:00",
+  "generated": "2026-10-14T04:02:09.990410+00:00",
   "date": "2026-10-14",
-  "count": 144,
+  "count": 184,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1010,6 +1010,286 @@
       "url": "https://www.freiburger-nachrichten.ch/story/297033/beney-jubelt-beim-natisieg-gegen-israel",
       "summary": "",
       "published": "2026-10-14T03:32:11.183915+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tamedia-Abstimmungsumfrage: Klare Mehrheit will keine höhere Mehrwertsteuer für die 13. AHV",
+      "url": "https://www.tagesanzeiger.ch/ahv-mehrwertsteuer-60-prozent-nein-umfrage-471329275421",
+      "summary": "Selbst bei den über 65-Jährigen fällt der Vorschlag durch. Ebenso skeptisch sieht die Bevölkerung die Kriegsmateriallockerung. Das sind die Resultate der ersten Befragung im Detail.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kritik an Spitalsoftware: Ein US-Konzern stach das Zürcher KMU aus. Nun kostet die Software fürs Unispital 100 Millionen mehr",
+      "url": "https://www.tagesanzeiger.ch/unispital-zuerich-it-system-kostet-ploetzlich-100-mio-mehr-299931380733",
+      "summary": "Das Universitätsspital Zürich will ein amerikanisches IT-System einführen, trotz Warnungen bezüglich Datenschutz. Nun wird klar: Es wird alles viel teurer.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Midterms in den USA: Trump leistet Wahlkampfhilfe, die eher schadet als nützt",
+      "url": "https://www.tagesanzeiger.ch/donald-trump-wahlkampfhilfe-die-eher-schadet-als-nuetzt-205011871549",
+      "summary": "Wenige Wochen vor den Zwischenwahlen wirbt der US-Präsident für sich und für republikanische Kandidierende, denen eine Niederlage droht. Das ist gewagt, weil er noch nie so unbeliebt war wie jetzt.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Studie zum Wohnungsmarkt: «Mögliche Trendwende»: Die Zeit rasant steigender Mieten scheint vorerst vorbei",
+      "url": "https://www.tagesanzeiger.ch/mietpreise-zuerich-zkb-erwartet-2027-nur-1-5-anstieg-693446270337",
+      "summary": "Das Mietpreiswachstum in Zürich flaut ab. Die ZKB führt das auf mehr Wohnungsbau und weniger Zuwanderung zurück. Was bedeutet das für Wohnungssuchende?",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Linkedin als digitales Kondolenzbuch: «Ich kann kaum begreifen, dass er nicht mehr da ist» – 261 Personen gefällt das",
+      "url": "https://www.tagesanzeiger.ch/linkedin-wenn-der-algorithmus-den-tod-zur-karriere-macht-433567456699",
+      "summary": "Nachrufe und Abschiedsbriefe werden auf der Plattform immer populärer, denn der Algorithmus belohnt Emotionen mit Reichweite. Doch Pfarrer Christian Walti warnt vor «billigem Ersatz» echter Begegnunge",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gericht kritisiert Kündigung: Gemeinde wirft Mitarbeiter per sofort aus dem Büro – jetzt muss sie viel Geld zahlen",
+      "url": "https://www.tagesanzeiger.ch/zuercher-gemeinde-zahlt-ueber-150000-franken-fuer-fehlkuendigung-405829245129",
+      "summary": "Weil eine Gemeinde bei der Kündigung eines langjährigen Mitarbeiters schwere Fehler gemacht hat, entstehen den Steuerzahlenden Kosten von über 160’000 Franken.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wohnen in der Stadt: Dröhnende Laster, rauschende Kolonnen: Das sind Winterthurs lärmigste Wohnlagen",
+      "url": "https://www.tagesanzeiger.ch/winterthur-80-adressen-mit-illegalem-autobahnlaerm-542662052563",
+      "summary": "Bei über 80 Wohnadressen wird der gesetzliche Alarmwert überschritten. Wie grau und laut es sich neben der Autobahn wohnt, erzählt eine Betroffene.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Höchster Wohnturm der Schweiz: Heinz Julen: «Zermatt ist wie Manhattan – wir müssen in die Höhe bauen»",
+      "url": "https://www.tagesanzeiger.ch/lina-peak-heinz-julens-antwort-auf-wohnungsnot-in-zermatt-607766944700",
+      "summary": "Mit dem 260 Meter hohen «Lina Peak» plant der Architekt 560 neue Wohnungen. Im Interview erklärt er, wie sein Projekt Einheimischen und Saisonkräften zugutekommt.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zürcher SVP-Aushängeschild: Wagt Natalie Rickli die Bundesrats-Kandidatur? Kritiker äussern Vorbehalte",
+      "url": "https://www.tagesanzeiger.ch/natalie-rickli-als-bundesraetin-was-ihre-konkurrenz-dazu-sagt-840117620120",
+      "summary": "Mit 19 zur SVP, 12 Jahre im Nationalrat, heute Zürcher Gesundheits­direktorin: Rickli bringt Erfahrung für die Regierung mit. Doch Politikerinnen anderer Parteien sprechen von Dünnhäutigkeit.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gastrokritik L’Artisan, Konolfingen: Das Schloss Hünigen ist jetzt auch ein Bio-Bistro",
+      "url": "https://www.bernerzeitung.ch/schloss-huenigen-restaurant-lartisan-im-test-971914848389",
+      "summary": "Das Restaurant im Schloss Hünigen gibt sich bodenständiger als auch schon. Das heisst nicht, dass es jetzt bodenständig wäre.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Generationenprojekt in Thun: Avag plant Ersatz­neubau für die Kehricht­verbrennungs­anlage",
+      "url": "https://www.bernerzeitung.ch/kva-thun-avag-plant-ersatzneubau-bis-2040-161895719386",
+      "summary": "Nach nur gut 20 Jahren im Dauer­betrieb plant die Avag einen Ersatz­neubau für die Kehricht­verbrennungs­anlage in Thun.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "A1 Kirchberg–Schönbühl: Bund prüft neue Fahr­spuren auf dem Pannen­streifen – kurz nach dem Volks-Nein",
+      "url": "https://www.bernerzeitung.ch/astra-prueft-pannenstreifen-als-fahrspur-auf-a1-kirchbergschoenbuehl-245016543409",
+      "summary": "Zwei Fahrspuren mehr in Spitzenzeiten seien kein «regulärer Ausbau» der Autobahn, sagt das Bundesamt für Strassen. Rot-Grün spricht von einem «Ausbau durch die Hintertür».",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ehemaliges Tiefenauspital in Bern: Besetzer sammeln 30’000 Franken für Brand­schutz – doch reicht das?",
+      "url": "https://www.bernerzeitung.ch/tiefenauspital-bern-besetzer-sammelten-30000-franken-743666847218",
+      "summary": "Wollen die Besetzer bleiben, müssen sie viel Geld in die Gebäude­sicherheit inves­tieren. Die Stadt hat ihnen dafür eine Frist gesetzt. Nun meldet das Kollektiv einen ersten Erfolg.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Geisteswissenschaften stecken in der Krise, na und?",
+      "url": "https://www.nzz.ch/meinung/geisteswissenschaften-stecken-in-der-krise-na-und-ld.10032454",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Razzia bei Ilhan Omar: Schikaniert Trump eine seiner schärfsten Kritikerinnen?",
+      "url": "https://www.nzz.ch/international/razzia-bei-demokratin-ilhan-omar-was-steckt-dahinter-ld.10032817",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "ERKLÄRT - Mit Kind, Hund und Trottinett im Schweizer öV: Was kostet extra?",
+      "url": "https://www.nzz.ch/mobilitaet/mit-kind-hund-und-trottinett-im-schweizer-oev-was-kostet-extra-ld.10032805",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK - Die weinerlichen Sozialdemokraten",
+      "url": "https://www.nzz.ch/der-andere-blick/die-weinerlichen-sozialdemokraten-ld.10032777",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Eine Mischung aus Mafia und ewigem Kriegerstaat – warum die Huthi so schwer zu schlagen sind",
+      "url": "https://www.nzz.ch/international/eine-mischung-aus-mafia-und-ewigem-kriegerstaat-warum-die-huthi-so-schwer-zu-schlagen-sind-ld.10032706",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Militärische Schlagkraft und Diplomatie: Damit kann Saudiarabien die Huthi-Rebellen zügeln",
+      "url": "https://www.nzz.ch/meinung/militaerische-schlagkraft-und-diplomatie-damit-kann-saudiarabien-die-huthi-rebellen-zuegeln-ld.10032661",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Verein bezahlt die Bussen für notorische Schwarzfahrer – damit diese nicht ins Gefängnis müssen",
+      "url": "https://www.nzz.ch/schweiz/ein-verein-bezahlt-die-bussen-fuer-notorische-schwarzfahrer-damit-diese-nicht-ins-gefaengnis-muessen-ld.10032621",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Währungsfonds warnt vor einer «gespaltenen Weltwirtschaft»: Nur ein Teil der Länder könne vom KI-Boom profitieren",
+      "url": "https://www.nzz.ch/wirtschaft/der-waehrungsfonds-warnt-vor-einer-gespaltenen-weltwirtschaft-nur-ein-teil-der-laender-koenne-vom-ki-boom-profitieren-ld.10032577",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Manchester City will den Finanzskandal mit sportlicher Dominanz übertönen – Guardiola stärkt dem Klub den Rücken",
+      "url": "https://www.nzz.ch/sport/fussball/manchester-city-und-finanzskandal-guardiola-staerkt-klub-den-ruecken-ld.10032522",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Lieber sterbe ich, als Leute aus dem Westen vorbeizulassen»: Die Wintererstbesteigung des K2 geriet zum Wettstreit der Nationen",
+      "url": "https://www.nzz.ch/sport/alpinismus/wenn-auslaender-hinter-uns-sind-schneide-ich-die-seile-ab-die-wintererstbesteigung-des-k2-geriet-zum-toedlichen-wettstreit-der-nationen-ld.10032436",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Affäre um Manchester City erreicht Premierminister Burnham",
+      "url": "https://www.nzz.ch/international/die-affaere-um-den-fc-manchester-city-erreicht-premierminister-burnham-ld.10032435",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Amerikaner zücken weiter ihre Kreditkarten – und bescheren den Banken damit hohe Gewinne und Rekordboni",
+      "url": "https://www.nzz.ch/wirtschaft/die-amerikaner-zuecken-weiter-ihre-kreditkarten-und-bescheren-den-banken-damit-hohe-gewinne-und-rekord-boni-ld.10032021",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die AHV-Allianz mobilisiert: wie die SP mit der Mitte-Partei die 13. Rente finanzieren will und den nächsten Sozialausbau plant",
+      "url": "https://www.nzz.ch/schweiz/die-ahv-allianz-mobilisiert-wie-die-sp-gemeinsam-mit-der-mitte-partei-die-13-rente-finanzieren-will-und-bereits-den-naechsten-sozialausbau-plant-ld.10031517",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Russland will nicht nur die Ukraine – während die Eroberung von Kiew gescheitert ist, schreitet die Übernahme von Minsk voran",
+      "url": "https://www.nzz.ch/feuilleton/russland-will-nicht-nur-die-ukraine-waehrend-die-eroberung-von-kiew-gescheitert-ist-schreitet-die-uebernahme-von-minsk-voran-ld.10031432",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ GEOPOLITIK» - US-Midterms (1): Wie Trumps disruptive Aussenpolitik die Wahlen beeinflusst",
+      "url": "https://www.nzz.ch/podcast/us-midterms-1-wie-trumps-disruptive-aussenpolitik-die-wahlen-beeinflusst-ld.10029118",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Wir sind nicht die Vergewaltigungsschule»: Der Schock sitzt tief an der Cornell University",
+      "url": "https://www.nzz.ch/international/cornell-university-sexueller-uebergriff-erschuettert-elite-campus-ld.10028614",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Hacker heizen Kühlregale auf 50 Grad auf – droht das auch der Schweiz?",
+      "url": "https://www.shn.ch/leben-leute/2026-10-14/hacker-heizen-kuehlregale-auf-50-grad-auf-droht-das-auch-der-schweiz",
+      "summary": "Hunderte Kühlanlagen in Frankreich wurden aus der Ferne manipuliert. Ein Cyber-Sicherheitsexperte erklärt, wie das gelang – und welche Gefahr für die Schweiz besteht.",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Nächste Sendetermine Stehen Fest",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/naechste-sendetermine-stehen-fest-2191529",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Rechnereien vor Letztem Gruppenspiel So Schafft der Hcd den Einzug in die K O Phase",
+      "url": "https://www.suedostschweiz.ch/regionalsport/rechnereien-vor-letztem-gruppenspiel-so-schafft-der-hcd-den-einzug-in-die-k-o-phase-2195005",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Meggen Plant Neues Hallenbad Siegerprojekt Wassermusik",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/meggen-plant-neues-hallenbad-siegerprojekt-wassermusik-ld.4249847",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump zweifelt an Livestream von Erschiessung",
+      "url": "https://www.watson.ch/international/usa/439409720-trump-zweifelt-an-livestream-von-erschiessung",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kompany: «Überblöd» – Olise fliegt vom Platz und fehlt gegen Arsenal",
+      "url": "https://www.watson.ch/sport/bayern-muenchen/946430123-kompany-ueberbloed-olise-fliegt-vom-platz-und-fehlt-gegen-arsenal",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mehrwertsteuer und Feuerwerksverbot: Die erste Abstimmungs-Umfrage",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/987681295-mehrwertsteuer-und-feuerwerksverbot-die-erste-abstimmungs-umfrage",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Picdump 209 – der Meme-Mittwoch wartet auf dich!",
+      "url": "https://www.watson.ch/spass/picdump/772397815-picdump-209-der-meme-mittwoch-wartet-auf-dich",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mars-Rover «Perseverance» schafft Streckenrekord im All",
+      "url": "https://www.watson.ch/international/raumfahrt/309605648-mars-rover-perseverance-schafft-streckenrekord-im-all",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hungerkrisen: Afrika fällt weiter zurück",
+      "url": "https://www.watson.ch/international/afrika/394266829-hungerkrisen-afrika-faellt-weiter-zurueck",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "In Meggen spielt bald die «Wassermusik»: So soll das neue Hallenbad aussehen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/meggen-plant-neues-hallenbad-siegerprojekt-wassermusik-art-1726761",
+      "summary": "",
+      "published": "2026-10-14T04:02:09.990410+00:00"
     }
   ]
 }
