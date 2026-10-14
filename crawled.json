@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T01:39:51.148878+00:00",
+  "generated": "2026-10-14T02:02:35.386372+00:00",
   "date": "2026-10-14",
-  "count": 35,
+  "count": 40,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -247,6 +247,41 @@
       "url": "https://www.tagesanzeiger.ch/wanze-bei-openai-mitarbeiter-in-san-francisco-festgenommen-597180590250",
       "summary": "In einem wichtigen Meetingraum des ChatGPT-Entwicklers OpenAI wird ein in Toilettenpapier eingewickeltes Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter.",
       "published": "2026-10-14T01:39:51.148878+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fc Aarau Gegen Fc Zürich wer Zahlt den Cup Einsatz",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/fc-aarau-gegen-fc-zuerich-wer-zahlt-den-cup-einsatz-ld.4249701",
+      "summary": "",
+      "published": "2026-10-14T02:02:35.386372+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ihr Spezialist für Augenvorsorge – mehr als nur ein Sehtest",
+      "url": "https://www.bote.ch/nachrichten/sponsored/ihr-spezialist-fuer-augenvorsorge-mehr-als-nur-ein-sehtest-art-1726447",
+      "summary": "",
+      "published": "2026-10-14T02:02:35.386372+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Homöopathische Hausapotheke – sicher im Umgang mit Akutmitteln",
+      "url": "https://www.bote.ch/nachrichten/sponsored/homoeopathische-hausapotheke-sicher-im-umgang-mit-akutmitteln-art-1725930",
+      "summary": "",
+      "published": "2026-10-14T02:02:35.386372+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>YangQi TCM bringt Traditionelle Chinesische Medizin nach Goldau</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/byangqi-tcm-bringt-traditionelle-chinesische-medizin-nach-goldaub-art-1726118",
+      "summary": "",
+      "published": "2026-10-14T02:02:35.386372+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Taiwan gehört den Taiwanern»: Yang Shuang-zi kämpft gegen Chinas Machtanspruch",
+      "url": "https://www.bote.ch/nachrichten/kultur/yang-shuang-zi-taiwanesische-autorin-gegen-chinas-machtanspruch-art-1726744",
+      "summary": "",
+      "published": "2026-10-14T02:02:35.386372+00:00"
     }
   ]
 }
