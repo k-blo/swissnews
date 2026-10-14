@@ -4,16 +4,16 @@
     "etag": "\"b1133447f12d97d94118bbd61171b99a\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17c3d-dJl/nbYBuHQ0b6nMBiS9wEwaByA\""
+    "etag": "W/\"17bf6-VYgEqkyu8W1cS61gtLSNrB9Oe+A\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"dfa6-xXeibvvN+kuZkdQFSN1BaRqbB3I\""
+    "etag": "W/\"df26-RTz1NZ+UJLUPPPahG6K2ccm9xwQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"ca19-tnKd0hZdTWJXLhD9rbXGvqrJhKQ\""
+    "etag": "W/\"ca39-SpU4GDxJToCFfAaJHFEK7lEhquA\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Wed, 14 Oct 2026 21:10:17 GMT"
+    "last_modified": "Wed, 14 Oct 2026 23:10:13 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
     "last_modified": "Wed, 14 Oct 2026 20:01:08 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1792015871\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 14 Oct 2026 23:00:29 GMT"
+    "last_modified": "Wed, 14 Oct 2026 23:30:37 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"dde7-kgvO6PeXvnBr74bk27QMfHBbcww\""
+    "etag": "W/\"dd53-aR6KoYj1xD00/MVWW6QYsxvXtmY\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"df0e-l6pTrZA/IRRfPlrA9w7laPufErA\""
+    "etag": "W/\"de6c-SG01QRtc9Kt1mIynegk0fxdvso0\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Wed, 14 Oct 2026 21:29:33 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1791260065\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 14 Oct 2026 23:00:37 GMT",
-    "etag": "W/\"1792018837-gzip\""
+    "last_modified": "Wed, 14 Oct 2026 23:30:20 GMT",
+    "etag": "W/\"1792020620-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"155f4-PPJ1xK172n9G8s0JcvT0M6OnfIM\""

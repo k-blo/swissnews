@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14T23:02:02.092245+00:00",
+  "generated": "2026-10-14T23:32:24.471291+00:00",
   "date": "2026-10-15",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -156,6 +156,20 @@
       "url": "https://www.tagesanzeiger.ch/nordkorea-testet-u-boot-marschflugkoerper-129286813966",
       "summary": "Machthaber Kim Jong Un treibt den Ausbau der militärischen Ausgaben voran. Das Land hat nach eigenen Angaben Marschflugkörper getestet, die von U-Booten aus abgefeuert werden können.",
       "published": "2026-10-14T23:02:02.092245+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hilary Swank erwartet ihr drittes Kind",
+      "url": "https://www.20min.ch/story/mit-52-jahren-hilary-swank-erwartet-ihr-drittes-kind-103650006",
+      "summary": "Etwa dreieinhalb Jahre nach der Geburt ihrer Zwillinge verkündet Hilary Swank per Instagram-Video, dass sie wieder schwanger ist.",
+      "published": "2026-10-14T23:32:24.471291+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "TUR: Überschwemmungen in Istanbul",
+      "url": "https://www.zentralplus.ch/news/tur-ueberschwemmungen-in-istanbul-2904672/",
+      "summary": "Starke Regenfälle in Istanbul haben vielerorts in der türkischen Millionenmetropole zu Überschwemmungen geführt. Wie die staatliche Nachrichtenagentur Anadolu meldete, füllten sich in vielen Stadtteil",
+      "published": "2026-10-14T23:32:24.471291+00:00"
     }
   ]
 }
