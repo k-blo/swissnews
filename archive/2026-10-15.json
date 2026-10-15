@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T21:02:17.749970+00:00",
+  "generated": "2026-10-15T21:32:07.882026+00:00",
   "date": "2026-10-15",
-  "count": 958,
+  "count": 960,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6708,6 +6708,20 @@
       "url": "https://www.watson.ch/international/polizeirapport/829472132-frankreich-kleinbus-rammt-zug-am-kanaltunnel-19-verletzte",
       "summary": "",
       "published": "2026-10-15T21:02:17.749970+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Conference League: Thun verliert in Enschede wegen strittigem Rot",
+      "url": "https://www.watson.ch/sport/fc-thun/203259074-conference-league-thun-verliert-in-enschede-wegen-strittigem-rot",
+      "summary": "",
+      "published": "2026-10-15T21:32:07.882026+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Europa League: Xhaka und Jashari mit Vorlagen ++ Thun verliert nach Platzverweis ++ Lugano schlägt Roter Stern",
+      "url": "https://www.freiburger-nachrichten.ch/story/295362/europa-league-xhaka-und-jashari-mit-vorlagen-thun-verliert-nach-platzverweis-lugano-schl%C3%A4gt-roter-stern",
+      "summary": "",
+      "published": "2026-10-15T21:32:07.882026+00:00"
     }
   ]
 }
