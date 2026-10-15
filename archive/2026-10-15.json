@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T09:32:36.382574+00:00",
+  "generated": "2026-10-15T09:58:19.933357+00:00",
   "date": "2026-10-15",
-  "count": 388,
+  "count": 436,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2718,6 +2718,342 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/stans-wird-zentrum-der-militaer-wm-im-orientierungslauf-art-1726973",
       "summary": "",
       "published": "2026-10-15T09:32:36.382574+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Zwei Verletzte nach schwerem Selbstunfall in Wallisellen ZH",
+      "url": "https://www.blick.ch/schweiz/zuerich/wallisellen-zh-zwei-verletzte-nach-selbstunfall/9gzjq4t",
+      "summary": "Bei einem Selbstunfall sind am frühen Donnerstagmorgen beim Autobahndreieck Zürich-Ost (Gemeindegebiet Wallisellen) zwei Fahrzeuginsassen verletzt worden. Der Unfall führte zu massiven Verkehrsbehinde",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kinder spielen «zu laut»: Verwaltung sperrt Spielplatz um 18 Uhr",
+      "url": "https://www.20min.ch/story/sissacher-eltern-haessig-kinder-spielen-zu-laut-verwaltung-sperrt-spielplatz-um-18-uhr-103648953",
+      "summary": "Auf einem Spielplatz in der Gemeinde Sissach BL haben die Kinder begrenzte Spielzeiten. Die Verwaltung des Platzes will so Lärm verhindern. Eltern und Anwohner reagieren mit Unverständnis.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Das Auto kam erst 100 Meter später auf dem Dach zum Stillstand",
+      "url": "https://www.20min.ch/story/unfall-a1-das-auto-kam-erst-100-meter-spaeter-auf-dem-dach-zum-stillstand-103650213",
+      "summary": "Ein Selbstunfall auf der A1 bei Wallisellen hat in der Nacht auf Donnerstag zwei Verletzte und Verkehrsbehinderungen verursacht. Die Polizei ermittelt wegen des Verdachts auf ein Raserdelikt.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Innovative Biobauern: Sie trotzen der Hofladenkrise und setzen auf den direkten Weg",
+      "url": "https://www.tagesanzeiger.ch/biohof-fluofeld-direktverkauf-trotz-branchenkrise-511173887520",
+      "summary": "Michael und Anita Reichmuth verschicken ihre Hofprodukte schweizweit an die Kundschaft – dank einem starken Vertriebspartner.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "28 Franken pro Ticket: «Grenzt an Strassenraub»: Ärger über hohe Gebühren bei Ticketcorner-Resale",
+      "url": "https://www.tagesanzeiger.ch/ticketcorner-resale-56-franken-gebuehren-fuer-zwei-konzerttickets-530478706086",
+      "summary": "Weil er am vorverlegten Erykah-Badu-Konzert an der Baloise Session verhindert ist, hat ein Basler seine beiden Tickets im offiziellen Resale von Ticketcorner angeboten.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wetter in der Schweiz: Höhentief bringt den Regen – im Süden besteht Unwettergefahr",
+      "url": "https://www.bernerzeitung.ch/wetter-schweiz-am-wochenende-kommt-der-regen-734813586771",
+      "summary": "Der Schweiz steht ein nasses und eher kühles Wochenende bevor. Vor allem auf der Alpensüdseite könnte sehr viel Regen in kurzer Zeit fallen.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Lotteriefonds-Beitrag für Oberdiessbach: Kanton zahlt 948'000 Franken für Kultur­raum in 220-jährigem Geiss­bühler­haus",
+      "url": "https://www.bernerzeitung.ch/geissbuehlerhaus-oberdiessbach-erhaelt-lotteriefondsbeitrag-959317820730",
+      "summary": "Der Berner Regierung­srat unterstützt den Umbau des Geiss­bühler­hauses in Ober­diess­bach mit Geld aus dem Lotterie­fonds. Im Dach­geschoss gibt es einen Saal für bis zu 220 Personen.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Europas ETF-Boom knackt den nächsten Rekord",
+      "url": "https://www.finews.ch/news/finanzplatz/74002-etf-europa-rekord-zufluesse-2026-schweiz-pictet-six",
+      "summary": "Europäische ETFs haben nach neun Monaten bereits mehr neues Geld angezogen als im gesamten Vorjahr. Globale Aktienstrategien dominieren die Nachfrage. Auch am Schweizer Finanzplatz wächst das Angebot.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Wenn der Algorithmus zum Fondsmanager wird: KI erobert den ETF-Markt",
+      "url": "https://www.finews.ch/news/finanzplatz/73995-ki-etf-algorithmen-asset-management-aktive-fonds-pictet-schweiz",
+      "summary": "Künstliche Intelligenz erobert den ETF-Markt. Auch Schweizer Anbieter setzen auf lernfähige Algorithmen zur Aktienauswahl. Doch wie viel KI steckt tatsächlich in den Produkten und können sie tradition",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Die Zinsen auf Säule 3a-Sparguthaben sinken weiter",
+      "url": "https://www.finews.ch/news/finanzplatz/73997-zinsen-saeule-3a-moneyland-rendite-vorsorge",
+      "summary": "Die Zinssätze für Säule-3a-Konten sinken weiter. Der Durchschnittswert lag laut einer Auswertung von Moneyland zuletzt nur noch bei 0,21 Prozent.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "US-Legal-Tech-Anbieter Lineal übernimmt Schweizer Forentec",
+      "url": "https://www.netzwoche.ch/news/2026-10-15/us-legal-tech-anbieter-lineal-uebernimmt-schweizer-forentec",
+      "summary": "Lineal, ein US-Anbieter von Legal-Tech-Lösungen und -Dienstleistungen, übernimmt das Schweizer Unternehmen Forentec. Dadurch baut Lineal seine Präsenz in der Schweiz aus.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Von der schönen Nachbarschaft zum KI-Rechenzentrum - so schnell kann's gehen",
+      "url": "https://www.netzwoche.ch/netzwitzig/2026-10-15/von-der-schoenen-nachbarschaft-zum-ki-rechenzentrum-so-schnell-kanns-gehen",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Livesystems besetzt CTO-Position neu",
+      "url": "https://www.netzwoche.ch/news/2026-10-15/livesystems-besetzt-cto-position-neu",
+      "summary": "Livesystems ernennt einen neuen Chief Technology Officer, Tim Marach. Er ist seit 2025 bei Livesystems und übernimmt im November die Funktion, die zuletzt Daniel Lang innehatte.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Update: Bundesrat will mehr Jugendschutz in geplanter Plattformregulierung",
+      "url": "https://www.netzwoche.ch/news/2023-04-06/bundesrat-will-google-facebook-und-co-regulieren",
+      "summary": "Der Bundesrat will Onlineplattformen wie Google, Facebook und Tiktok zu mehr Fairness und Transparenz verpflichten und die Nutzerrechte stärken. Nach der Vernehmlassung erweitert der Bundesrat die vor",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Nicht jede Postfinance-Warnung kommt tatsächlich von Postfinance",
+      "url": "https://www.netzwoche.ch/news/2026-10-15/nicht-jede-postfinance-warnung-kommt-tatsaechlich-von-postfinance",
+      "summary": "Derzeit kursieren E-Mails, die auf angebliche verdächtige Zugriffsversuche auf Postfinance-Konten hinweisen. Diese stammen jedoch nicht vom Finanzinstitut selbst, sondern von Cyberbetrügern.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "China steckt möglicherweise hinter Cyberattacke auf Beyond Gravity",
+      "url": "https://www.inside-it.ch/china-steckt-moeglicherweise-hinter-cyberattacke-auf-beyond-gravity-20261015",
+      "summary": "Hinweise deuten zudem auf einen Abfluss von Daten hin. Die genaue Herkunft des Angriffs und das Ausmass des Vorfalls sind bislang nicht offiziell bestätigt.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Wieder mehr offene IT-Stellen",
+      "url": "https://www.inside-it.ch/wieder-mehr-offene-it-stellen-20261015",
+      "summary": "Laut dem \"Swiss Job Market Index\" legen IT-Berufe auf dem Stellenmarkt erneut leicht zu. Andere Berufe leiden unter dem verstärkten KI-Einsatz.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Lange spielten die Schweizer Volleyballerinnen international kaum eine Rolle. Nun fahren sie erstmals an eine WM",
+      "url": "https://www.nzz.ch/sport/weitere-sportarten/volleyball-wie-sich-die-schweizerinnen-fuer-die-wm-qualifizierten-ld.10031518",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "PostFinance rückt Zahlterminals ins Bild",
+      "url": "https://www.persoenlich.com/kategorie-werbung/postfinance-ruckt-zahlterminals-ins-bild",
+      "summary": "Das Finanzinstitut lanciert eine Kampagne für Geschäftskunden. Im Zentrum stehen drei Testimonialfilme, mitentwickelt und produziert von der Zürcher Produktionsfirma.",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Klein, fein und ausgezeichnet mit einem internationalen Architekturpreis",
+      "url": "https://www.shn.ch/region/klettgau/2026-10-15/klein-fein-und-ausgezeichnet-mit-einem-internationalen-architekturpreis",
+      "summary": "Die Kellerei vom Gysel 175 Weingut in Wilchingen wird nicht nur für Weine ausgezeichnet. Für einmal bekommt das Kellereigebäude, geplant von Nick Bareiss, eine der höchsten internationalen Auszeichnun",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Biennale im Unterengadin wie die Gruppa Da Teater Scuol einen Riesenevent Stemmt",
+      "url": "https://www.suedostschweiz.ch/kultur/biennale-im-unterengadin-wie-die-gruppa-da-teater-scuol-einen-riesenevent-stemmt-2183837",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Skisaison Gestartet Diese Pisten Sind Bereits Offen in Kürze Folgt Graubünden",
+      "url": "https://www.suedostschweiz.ch/panorama/skisaison-gestartet-diese-pisten-sind-bereits-offen-in-kuerze-folgt-graubuenden-2197285",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Riedwaldbüchwald Genügend Wind für Bürgerwindpark",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/riedwaldbuechwald-genuegend-wind-fuer-buergerwindpark-ld.4250979",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Grüezi oder Nicht eine Feldforschung zum Grussverhalten",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/grueezi-oder-nicht-eine-feldforschung-zum-grussverhalten-ld.4250052",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sc Cham Empfängt Fc Sion im Cup Sechzehntelfinal",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/sc-cham-empfaengt-fc-sion-im-cup-sechzehntelfinal-ld.4246764",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Repair Cafe Luzern im Neubad Reportage Zeigt was Repariert Wird",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/repair-cafe-luzern-im-neubad-reportage-zeigt-was-repariert-wird-ld.4244210",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rheinfelden Erhält Neue Tagessonderschule",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/rheinfelden-erhaelt-neue-tagessonderschule-ld.4250867",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Bundesgericht Stärkt Heimatschutz im Streit um Arboner Riva Hochhäuser",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/bundesgericht-staerkt-heimatschutz-im-streit-um-arboner-riva-hochhaeuser-ld.4250742",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Sc Herisau Verliert zu Hause Gegen Ehc Wallisellen",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/sc-herisau-verliert-zu-hause-gegen-ehc-wallisellen-ld.4250971",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Einkaufsfrust im Länderpark Marie Louise Hunkeler Erzählt",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/einkaufsfrust-im-laenderpark-marie-louise-hunkeler-erzaehlt-ld.4237116",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Gemeindehausprovisorium in Sarnen Wird Schulraum",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/gemeindehausprovisorium-in-sarnen-wird-schulraum-ld.4239566",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zürcher Staatsanwaltschaft klagt Wirtschaftsjournalist Hässig an",
+      "url": "https://www.watson.ch/schweiz/banken/795037622-zuercher-staatsanwaltschaft-klagt-wirtschaftsjournalist-haessig-an",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sargans leidet unter Eulenraupenbefall",
+      "url": "https://www.watson.ch/schweiz/tier/990470075-sargans-leidet-unter-eulenraupenbefall",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Pilot fliegt Kunstwerke wie «Der Schrei» oder «Mona Lisa»",
+      "url": "https://www.watson.ch/leben/luftfahrt/813326504-pilot-fliegt-kunstwerke-wie-der-schrei-oder-mona-lisa",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland nimmt schwedischen Bürger fest – Terrorverdacht",
+      "url": "https://www.watson.ch/international/russland/289698355-russland-nimmt-schwedischen-buerger-fest-terrorverdacht",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "71-Jähriger stirbt nach Selbstunfall mit Velo in Eschenbach SG",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/539408378-71-jaehriger-stirbt-nach-selbstunfall-mit-velo-in-eschenbach-sg",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nestlé weist Vorwürfe wegen Schwermetallen in Babynahrung zurück",
+      "url": "https://www.watson.ch/wirtschaft/gesundheit/800617412-nestle-weist-vorwuerfe-wegen-schwermetallen-in-babynahrung-zurueck",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Felssturzgefahr am Säntis bestätigt – Wanderwege bleiben offen",
+      "url": "https://www.watson.ch/schweiz/appenzell/369950334-felssturzgefahr-am-saentis-bestaetigt-wanderwege-bleiben-offen",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Paris Hilton verkauft neu ADHS-Shirts",
+      "url": "https://www.watson.ch/leben/people-news/998804123-paris-hilton-verkauft-neu-adhs-shirts",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Selenskyj kündigt Angriffe auf Russlands Ölraffinerien an",
+      "url": "https://www.watson.ch/international/oel/134170153-selenskyj-kuendigt-angriffe-auf-russlands-oelraffinerien-an",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Champions League: Das ist am Mittwochabend passiert",
+      "url": "https://www.watson.ch/sport/borussia-dortmund/211951187-champions-league-das-ist-am-mittwochabend-passiert",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Es hat genügend Wind: Messungen in Wikon sind nun abgeschlossen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/riedwaldbuechwald-genuegend-wind-fuer-buergerwindpark-art-1726981",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Auf der Suche nach der Grüezi-Grenze: Eine (nicht ganz) wissenschaftliche Feldforschung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/grueezi-oder-nicht-eine-feldforschung-zum-grussverhalten-art-1726980",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir werden uns vor Sion nicht verstecken»: Jorge Facal glaubt an Chams Cup-Chance",
+      "url": "https://www.bote.ch/nachrichten/sport/sc-cham-empfaengt-fc-sion-im-cup-sechzehntelfinal-art-1726979",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kaffeemühlen, Staubsauger, Rucksäcke: Hier wird alles Mögliche repariert",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/repair-cafe-luzern-im-neubad-reportage-zeigt-was-repariert-wird-art-1726978",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Rochade geht weiter: Nächsten Sommer soll das Gemeindehaus- zum Schulhausprovisorium werden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/gemeindehausprovisorium-in-sarnen-wird-schulraum-art-1726977",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Niederschwelliger Zugang zum Tanzen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/niederschwelliger-zugang-zum-tanzen-art-1726976",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Engelberg wehrt sich gegen mögliche Windräder",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/engelberg-wehrt-sich-gegen-moegliche-windraeder-art-1726975",
+      "summary": "",
+      "published": "2026-10-15T09:58:19.933357+00:00"
     }
   ]
 }
