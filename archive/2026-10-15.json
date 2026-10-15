@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T10:32:21.821828+00:00",
+  "generated": "2026-10-15T11:02:14.431759+00:00",
   "date": "2026-10-15",
-  "count": 468,
+  "count": 482,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3278,6 +3278,104 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/digitaler-brief-der-post-erste-bilanz-nach-einem-halben-jahr-art-1726986",
       "summary": "",
       "published": "2026-10-15T10:32:21.821828+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Genferin will in Bundesrat – «Verteidige Werte der SVP»: Amaudruz kandidiert – und kontert",
+      "url": "https://www.srf.ch/news/schweiz/genferin-will-in-bundesrat-verteidige-werte-der-svp-amaudruz-kandidiert-und-kontert",
+      "summary": "Die Genfer SVP-Nationalrätin will Bundesrätin werden. Auf dem Weg dahin muss sie auch ihre eigene Partei überzeugen.",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tod eines Autors: Man nannte ihn den Schweizer Boccaccio: Gerold Späth ist tot",
+      "url": "https://www.tagesanzeiger.ch/gerold-spaeth-schweizer-autor-mit-86-jahren-gestorben-685866380677",
+      "summary": "Der Sohn einer Rapperswiler Orgelbauerdynastie schrieb Bücher voller Sprachlust, derber Komik und abgründiger Melancholie. Nun ist er kurz vor seinem 87. Geburtstag gestorben.",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Aufregung im Vereinigten Königreich: Harry und Meghan zeigen sich erstmals seit Rückkehr nach Grossbritannien",
+      "url": "https://www.tagesanzeiger.ch/harry-und-meghan-erster-gemeinsamer-auftritt-in-nottingham-173162412310",
+      "summary": "Seit Ende August lebt das Paar mit Archie und Lilibet wieder in Grossbritannien. Nun treten Prinz Harry und Herzogin Meghan erstmals gemeinsam auf – und nehmen sich Zeit für Umarmungen und Fotos.",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Frankfurt: Lufthansa: Keine Flugstreichungen wegen Kerosinmangels",
+      "url": "https://www.tagesanzeiger.ch/lufthansa-kein-kerosinmangel-in-frankfurt-erwartet-890696701843",
+      "summary": "Eine Kerosin-Pipeline wird gewartet, die Speicher am Flughafen reichen für rund zehn Tage. Trotzdem sollen Crews bei Flügen nach Frankfurt mehr Treibstoff mitnehmen.",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dietikon, 19. November: Stadt lanciert Dialogformat mit lokalen Unternehmen",
+      "url": "https://www.tagesanzeiger.ch/dietikon-neue-dialogplattform-fuer-lokale-wirtschaft-979799421125",
+      "summary": "Dietikon schafft eine neue Austauschplattform zwischen Wirtschaft, Politik und Verwaltung. Die erste Veranstaltung dreht sich um Fachkräftegewinnung – die Anmeldefrist läuft.",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Klimabilanz 2025: Stadt Bern erreicht ihr Zwischen­ziel beim Klima­schutz",
+      "url": "https://www.bernerzeitung.ch/klimaschutz-bern-stadt-erreicht-co2-ziel-2025-794452280823",
+      "summary": "Erlaubt waren gemäss Klima­regle­ment maximal 3,14 Tonnen CO₂ pro Kopf. Beim Heizen sanken die Emissionen seit 2019 um 29 Prozent, im Verkehr verfehlte die Stadt ihre Vorgabe hingegen.",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Unschlecht»-Autor Gerold Späth ist tot",
+      "url": "https://www.zentralplus.ch/news/unschlecht-autor-gerold-spaeth-ist-tot-2904830/",
+      "summary": "Der Schweizer Schriftsteller Gerold Späth ist tot. Wie sein Verlag gestützt auf die Familie schreibt, starb er am Mittwoch, zwei Tage vor seinem 87. Geburtstag. «Mit Gerold Späth verlieren wir einen g",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Anklage gegen Wirtschaftsjournalist",
+      "url": "https://www.zentralplus.ch/news/anklage-gegen-wirtschaftsjournalist-2904827/",
+      "summary": "Gegen den Wirtschaftsjournalisten Lukas Hässig ist Anklage erhoben worden, wegen Verletzung des Bankgeheimnisses. Das gab Hässig selbst auf seinem Portal «Inside Paradeplatz» bekannt. Der Wirtschaftsj",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Migros erneuert Gesamtarbeitsvertrag",
+      "url": "https://www.zentralplus.ch/news/migros-erneuert-gesamtarbeitsvertrag-2904825/",
+      "summary": "Die Migros verbessert die Arbeitsbedingungen für ihre Mitarbeitenden. Die Detailhändlerin und die Sozialpartner haben sich auf einen neuen Gesamtarbeitsvertrag verständigt, dieser gilt bis 2031. Unter",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Zwei Cloud-Anbieter schliessen sich zusammen",
+      "url": "https://www.inside-it.ch/zwei-cloud-anbieter-schliessen-sich-zusammen-20261015",
+      "summary": "Be-Cloud und Qualityhosting fusionieren. Ziel der Fusion sei der Aufbau einer paneuropäischen Plattform.",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Henriette Engbersen leitet ab 2027 die SWI-Redaktionen",
+      "url": "https://www.persoenlich.com/medien/henriette-engbersen-leitet-ab-2027-die-swi-redaktionen",
+      "summary": "Die heutige Public-Value-Verantwortliche der SRG ist ab Januar 2027 für den Journalismus des internationalen Angebots zuständig. Mit Isabelle Schrills und Ladina Luppi da Silva rücken zwei interne Kad",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ein Gebäude wie ein Sackmesser: Kellerei in Wilchingen wird mit internationalem Architekturpreis ausgezeichnet",
+      "url": "https://www.shn.ch/region/klettgau/2026-10-15/ein-gebaeude-wie-ein-sackmesser-kellerei-in-wilchingen-wird-mit",
+      "summary": "Die Kellerei vom Gysel 175 Weingut in Wilchingen wird nicht nur für Weine ausgezeichnet. Für einmal bekommt das Kellereigebäude, geplant von Nick Bareiss, eine der höchsten internationalen Auszeichnun",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Rapperswiler Schriftsteller Gerold Späth ist Tot das ist zur Todesursache Bekannt",
+      "url": "https://www.suedostschweiz.ch/panorama/rapperswiler-schriftsteller-gerold-spaeth-ist-tot-das-ist-zur-todesursache-bekannt-2198139",
+      "summary": "",
+      "published": "2026-10-15T11:02:14.431759+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Präsident Yvan Haymoz zu Gast",
+      "url": "https://www.freiburger-nachrichten.ch/story/297240/pr%C3%A4sident-yvan-haymoz-zu-gast",
+      "summary": "",
+      "published": "2026-10-15T11:02:14.431759+00:00"
     }
   ]
 }
