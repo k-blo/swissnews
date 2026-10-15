@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T01:32:01.922634+00:00",
+  "generated": "2026-10-15T02:02:34.669513+00:00",
   "date": "2026-10-15",
-  "count": 37,
+  "count": 39,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -261,6 +261,20 @@
       "url": "https://www.watson.ch/international/usa/538678721-trump-wuerde-informanten-fuer-geheimnisverrat-erschiessen-lassen",
       "summary": "",
       "published": "2026-10-15T01:32:01.922634+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Papst Leo meldet sich nach Krebs-OP erstmals zu Wort",
+      "url": "https://www.watson.ch/international/papst/994245069-papst-leo-meldet-sich-nach-krebs-op-erstmals-zu-wort",
+      "summary": "",
+      "published": "2026-10-15T02:02:34.669513+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Starlink-Drosselung stört ukrainische Drohnen – Musk verweist auf Trump",
+      "url": "https://www.watson.ch/international/usa/111310483-starlink-drosselung-stoert-ukrainische-drohnen-musk-verweist-auf-trump",
+      "summary": "",
+      "published": "2026-10-15T02:02:34.669513+00:00"
     }
   ]
 }
