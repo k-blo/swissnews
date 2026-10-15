@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T01:02:27.894188+00:00",
+  "generated": "2026-10-15T01:32:01.922634+00:00",
   "date": "2026-10-15",
-  "count": 35,
+  "count": 37,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -247,6 +247,20 @@
       "url": "https://www.watson.ch/international/oel/320589885-treibstoffkrise-auf-bali-sorgt-fuer-lange-schlangen",
       "summary": "",
       "published": "2026-10-15T01:02:27.894188+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Costa Rica eröffnet Megagefängnis",
+      "url": "https://www.zentralplus.ch/news/costa-rica-eroeffnet-megagefaengnis-2904680/",
+      "summary": "In Costa Rica hat Präsidentin Laura Fernandez ein neues Hochsicherheitsgefängnis eröffnet. Dieses ist dem Megagefängnis in El Salvador nachempfunden und soll helfen, die Bandenkriminalität in Costa Ri",
+      "published": "2026-10-15T01:32:01.922634+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump würde Informanten für Geheimnisverrat erschiessen lassen",
+      "url": "https://www.watson.ch/international/usa/538678721-trump-wuerde-informanten-fuer-geheimnisverrat-erschiessen-lassen",
+      "summary": "",
+      "published": "2026-10-15T01:32:01.922634+00:00"
     }
   ]
 }
