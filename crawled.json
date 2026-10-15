@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T04:02:58.512071+00:00",
+  "generated": "2026-10-15T04:31:45.131307+00:00",
   "date": "2026-10-15",
-  "count": 189,
+  "count": 200,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1325,6 +1325,83 @@
       "url": "https://www.watson.ch/digital/kuenstliche-intelligenz/115467403-forscher-knacken-nacktbild-sperren-von-openai-und-google",
       "summary": "",
       "published": "2026-10-15T04:02:58.512071+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Philipp Loser zur «Männerpartei»: Le Pen, Meloni, Weidel – und bald eine SVP-Bundesrätin?",
+      "url": "https://www.tagesanzeiger.ch/svp-bundesrat-wuerde-eine-frau-der-partei-nuetzen-316479441702",
+      "summary": "In ganz Europa setzen rechte Parteien Frauen an die Spitze. Probiert das jetzt auch die SVP, oder kann sie das nicht?",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Konflikte und Klimawandel: Erstmals seit 20 Jahren steigt die Zahl der Hungernden wieder",
+      "url": "https://www.tagesanzeiger.ch/welthunger-index-zahl-der-hungernden-steigt-erstmals-wieder-939969173352",
+      "summary": "Im Kampf gegen die Unterernährung hatte die Welt hohe Ziele. Jetzt legt die Welthungerhilfe alarmierende Zahlen vor: Es drohe ein Teufelskreis aus Hunger und Konflikten.",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Forscher über intelligente Algorithmen: KI-Experimente: «Das ist super, aber wenn du es einschaltest, explodiert die Anlage sofort»",
+      "url": "https://www.bernerzeitung.ch/mario-krenn-wie-ki-neue-physik-experimente-erfindet-508052795702",
+      "summary": "Mario Krenn nutzt KI, um Experimente zu entwerfen, die jenseits menschlicher Vorstellungskraft liegen. Der Forscher erklärt, wie ein Algorithmus über Nacht löste, woran er zwei Monate gescheitert war.",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Basler Herbstmesse: Über 1000 Bewerbungen für 460 Plätze – wieso wächst die Herbstmesse nicht?",
+      "url": "https://www.bazonline.ch/herbstmesse-basel-kein-wachstum-trotz-vielen-besuchern-978068986694",
+      "summary": "Praktisch jeder zweite Schausteller geht leer aus, an den Wochenenden ist kaum ein Durchkommen. Messechef Manuel Staub erklärt, warum Basel trotzdem keine weiteren Plätze bespielt.",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Verkehrsdrehscheibe Basel 2045: Alle sind für die Durchmesserlinie – nur die SBB schweigen",
+      "url": "https://www.bazonline.ch/verkehr-45-sbb-klammern-basler-durchmesserlinie-aus-632269095943",
+      "summary": "Der Bundesrat hat Meinungen zu seinen Ausbauplänen eingeholt. In Basel geht es vor allem um die Bahninfrastruktur und den Rheintunnel.",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Zeitumstellung 2026 Uhren Werden Dieses Jahr Früher Umgestellt",
+      "url": "https://www.suedostschweiz.ch/panorama/zeitumstellung-2026-uhren-werden-dieses-jahr-frueher-umgestellt-2193840",
+      "summary": "",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mond Heute Aktuelle Mondphase in der Schweiz 15 10 2026",
+      "url": "https://www.suedostschweiz.ch/panorama/mond-heute-aktuelle-mondphase-in-der-schweiz-15-10-2026-2196838",
+      "summary": "",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Tvo zur Sache Wil in der Schuldenfalle",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/tvo-zur-sache-wil-in-der-schuldenfalle-ld.4250817",
+      "summary": "",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Vinicius wird für vier Spiele gesperrt",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-vinicius-wird-fuer-vier-spiele-gesperrt",
+      "summary": "",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Teenager wegen geplanten Anschlags auf Hindu-Tempel in USA verhaftet",
+      "url": "https://www.watson.ch/international/usa/177128765-teenager-wegen-geplanten-anschlags-auf-hindu-tempel-in-usa-verhaftet",
+      "summary": "",
+      "published": "2026-10-15T04:31:45.131307+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "PSG gewinnt Kracher, Real Madrid mit Last-Minute-Wende",
+      "url": "https://www.bote.ch/nachrichten/sport/psg-schlaegt-manchester-city-in-der-champions-league-art-1726952",
+      "summary": "",
+      "published": "2026-10-15T04:31:45.131307+00:00"
     }
   ]
 }
