@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T00:32:26.203120+00:00",
+  "generated": "2026-10-15T01:02:27.894188+00:00",
   "date": "2026-10-15",
-  "count": 30,
+  "count": 35,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -212,6 +212,41 @@
       "url": "https://www.badenertagblatt.ch/aargau/baden/wettingen-budgetdebatte-loest-nach-knappem-entscheid-frust-aus-ld.4250644",
       "summary": "",
       "published": "2026-10-15T00:32:26.203120+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Grönland widerspricht Trump",
+      "url": "https://www.zentralplus.ch/news/groenland-widerspricht-trump-2904678/",
+      "summary": "Nachdem US-Präsident Trump massive Erkundungen von Öl- und Gasvorkommen auf Grönland angekündigt hat, widerspricht nun die grönländische Regierung. Es gebe zwar Aktivitäten von US-Unternehmen, sagte e",
+      "published": "2026-10-15T01:02:27.894188+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hcap Vs Hc Lugano",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/hcap-vs-hc-lugano-ld.4250498",
+      "summary": "",
+      "published": "2026-10-15T01:02:27.894188+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4250487",
+      "summary": "",
+      "published": "2026-10-15T01:02:27.894188+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gratulation zum 75 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gratulation-zum-75-geburtstag-ld.4250250",
+      "summary": "",
+      "published": "2026-10-15T01:02:27.894188+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Treibstoffkrise auf Bali sorgt für lange Schlangen",
+      "url": "https://www.watson.ch/international/oel/320589885-treibstoffkrise-auf-bali-sorgt-fuer-lange-schlangen",
+      "summary": "",
+      "published": "2026-10-15T01:02:27.894188+00:00"
     }
   ]
 }
