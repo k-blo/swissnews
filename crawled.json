@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T00:02:29.259311+00:00",
+  "generated": "2026-10-15T00:32:26.203120+00:00",
   "date": "2026-10-15",
-  "count": 24,
+  "count": 30,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,48 @@
       "url": "https://www.zentralplus.ch/news/tur-ueberschwemmungen-in-istanbul-2904672/",
       "summary": "Starke Regenfälle in Istanbul haben vielerorts in der türkischen Millionenmetropole zu Überschwemmungen geführt. Wie die staatliche Nachrichtenagentur Anadolu meldete, füllten sich in vielen Stadtteil",
       "published": "2026-10-14T23:32:24.471291+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Feuer auf Tanker im Schwarzen Meer",
+      "url": "https://www.zentralplus.ch/news/feuer-auf-tanker-im-schwarzen-meer-2904676/",
+      "summary": "Im Schwarzen Meer, vor der rumänischen Küste, ist auf einem Chemie- und Öltanker Feuer ausgebrochen. Es sei unklar, ob das Schiff von einer Drohne getroffen wurde, sagte der rumänische Verteidigungsmi",
+      "published": "2026-10-15T00:32:26.203120+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "CH: Betrugsdelikte nehmen zu",
+      "url": "https://www.zentralplus.ch/news/ch-betrugsdelikte-nehmen-zu-2904674/",
+      "summary": "Betrugsdelikte in der Schweiz nehmen zu. Das zeigt eine neue repräsentative Umfrage der Zürcher Hochschule für Angewandte Wissenschaften ZHAW und der Universität St. Gallen. Fast 16 Prozent der Befrag",
+      "published": "2026-10-15T00:32:26.203120+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Solange Wir Diese Sicherheitsvorsteherin Haben Man Man Nichts Tun",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/solange-wir-diese-sicherheitsvorsteherin-haben-man-man-nichts-tun",
+      "summary": "",
+      "published": "2026-10-15T00:32:26.203120+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Liste der Schändlichsten Friedensnobelpreise",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/die-liste-der-schaendlichsten-friedensnobelpreise",
+      "summary": "",
+      "published": "2026-10-15T00:32:26.203120+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Eu Programme für Forschung und Austausch Werden Viel Teurer",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/eu-programme-fuer-forschung-und-austausch-werden-viel-teurer",
+      "summary": "",
+      "published": "2026-10-15T00:32:26.203120+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Wettingen Budgetdebatte Löst nach Knappem Entscheid Frust aus",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/wettingen-budgetdebatte-loest-nach-knappem-entscheid-frust-aus-ld.4250644",
+      "summary": "",
+      "published": "2026-10-15T00:32:26.203120+00:00"
     }
   ]
 }
