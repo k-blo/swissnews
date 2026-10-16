@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T01:32:00.433626+00:00",
+  "generated": "2026-10-16T02:02:38.506012+00:00",
   "date": "2026-10-16",
-  "count": 38,
+  "count": 39,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -268,6 +268,13 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/hcap-vs-hc-lugano-ld.4251123",
       "summary": "",
       "published": "2026-10-16T01:02:15.841334+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Glosse Mosttröpfli die Zürcher Sind Hässig über den Thurgauer Landkauf",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/glosse-mosttroepfli-die-zuercher-sind-haessig-ueber-den-thurgauer-landkauf-ld.4250573",
+      "summary": "",
+      "published": "2026-10-16T02:02:38.506012+00:00"
     }
   ]
 }
