@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T00:02:26.399703+00:00",
+  "generated": "2026-10-16T00:32:06.331984+00:00",
   "date": "2026-10-16",
-  "count": 30,
+  "count": 35,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -212,6 +212,41 @@
       "url": "https://www.tagesanzeiger.ch/gewalttat-in-oregon-drei-kinder-an-grundschule-erschossen-688252616575",
       "summary": "An einer Grundschule im Westen der USA kommt es zu einer blutigen Gewalttat. Es soll mindestens fünf Tote geben. Auch der Täter wird erschossen.",
       "published": "2026-10-16T00:02:26.399703+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Gewalt und Waffen in den USA: Laut Medien fünf Tote bei Gewalttat an Grundschule in Oregon",
+      "url": "https://www.nzz.ch/international/gewalt-und-waffen-in-den-usa-laut-medien-fuenf-tote-bei-gewalttat-an-grundschule-in-oregon-ld.1699190",
+      "summary": "",
+      "published": "2026-10-16T00:32:06.331984+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Ohne Lieferungen Keine Partner Bürgerliche Lancieren Ja Kampagne zum Kriegsmaterialgesetz",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/ohne-lieferungen-keine-partner-buergerliche-lancieren-ja-kampagne-zum-kriegsmaterialgesetz",
+      "summary": "",
+      "published": "2026-10-16T00:32:06.331984+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Hilflosigkeit von Zürichs Sicherheitsvorsteherin Jk Rowling und Greta bei den Galliern",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/die-hilflosigkeit-von-zuerichs-sicherheitsvorsteherin-jk-rowling-und-greta-bei-den-galliern",
+      "summary": "",
+      "published": "2026-10-16T00:32:06.331984+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Celine Amaudruz Will die Erste Svp Bundesrätin Werden",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/celine-amaudruz-will-die-erste-svp-bundesraetin-werden",
+      "summary": "",
+      "published": "2026-10-16T00:32:06.331984+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Eine Grafik Zeigt wie Unmöglich das Deutsche Klimaziel zu Erreichen ist",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/eine-grafik-zeigt-wie-unmoeglich-das-deutsche-klimaziel-zu-erreichen-ist",
+      "summary": "",
+      "published": "2026-10-16T00:32:06.331984+00:00"
     }
   ]
 }
