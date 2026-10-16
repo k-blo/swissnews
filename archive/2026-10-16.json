@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T23:32:35.747652+00:00",
+  "generated": "2026-10-16T00:02:26.399703+00:00",
   "date": "2026-10-16",
-  "count": 29,
+  "count": 30,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -205,6 +205,13 @@
       "url": "https://www.20min.ch/story/oregon-usa-schuesse-an-grundschule-drei-kinder-unter-den-todesopfern-103650542",
       "summary": "US-Sender berichten von vier Todesopfern nach einem Schusswaffenangriff an einer Grundschule in Bend. Der Angreifer wurde erschossen.",
       "published": "2026-10-15T23:32:35.747652+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schiesserei an Grundschule in Oregon: Angreifer erschiesst an US-Schule vier Personen – darunter drei Kinder",
+      "url": "https://www.tagesanzeiger.ch/gewalttat-in-oregon-drei-kinder-an-grundschule-erschossen-688252616575",
+      "summary": "An einer Grundschule im Westen der USA kommt es zu einer blutigen Gewalttat. Es soll mindestens fünf Tote geben. Auch der Täter wird erschossen.",
+      "published": "2026-10-16T00:02:26.399703+00:00"
     }
   ]
 }
