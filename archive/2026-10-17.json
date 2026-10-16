@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T22:38:11.436611+00:00",
+  "generated": "2026-10-16T23:02:15.469614+00:00",
   "date": "2026-10-17",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -156,6 +156,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/31-abstuerze-seit-2012-das-macht-die-mythen-so-gefaehrlich-art-1727214",
       "summary": "",
       "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Arena» zu den Wahlen 2027 – FDP, Mitte und GLP im Schwitzkasten der Pole",
+      "url": "https://www.srf.ch/news/schweiz/arena-zu-den-wahlen-2027-fdp-mitte-und-glp-im-schwitzkasten-der-pole",
+      "summary": "Ein Jahr vor den eidgenössischen Wahlen stehen die Zeichen auf Polarisierung. Die Parteispitzen beziehen Stellung.",
+      "published": "2026-10-16T23:02:15.469614+00:00"
     }
   ]
 }
