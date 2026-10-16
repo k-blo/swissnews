@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T23:02:15.469614+00:00",
+  "generated": "2026-10-16T23:32:19.440907+00:00",
   "date": "2026-10-17",
-  "count": 23,
+  "count": 26,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,27 @@
       "url": "https://www.srf.ch/news/schweiz/arena-zu-den-wahlen-2027-fdp-mitte-und-glp-im-schwitzkasten-der-pole",
       "summary": "Ein Jahr vor den eidgenössischen Wahlen stehen die Zeichen auf Polarisierung. Die Parteispitzen beziehen Stellung.",
       "published": "2026-10-16T23:02:15.469614+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Es stecke «viel mehr dahinter, als bisher berichtet wurde»",
+      "url": "https://www.20min.ch/story/selmba-blair-sprecher-ueber-vorfall-in-flugzeug-103651144",
+      "summary": "Fünf Tage nach ihrer Festnahme meldet sich das Team von Selma Blair zu Wort. In einer ausführlichen Stellungnahme bittet ein Sprecher darum, nicht vorschnell zu urteilen.",
+      "published": "2026-10-16T23:32:19.440907+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nordkorea: KI-Torpedos getestet",
+      "url": "https://www.zentralplus.ch/news/nordkorea-ki-torpedos-getestet-2905265/",
+      "summary": "Nordkorea hat nach eigenen Angaben einen neuartigen Präzisionstorpedo mit künstlicher Intelligenz getestet. Wie die staatliche Nachrichtenagentur meldet, fand der Unterwassertest bereits am Donnerstag",
+      "published": "2026-10-16T23:32:19.440907+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Westjordanland: Angriffe während Ernte",
+      "url": "https://www.zentralplus.ch/news/westjordanland-angriffe-waehrend-ernte-2905263/",
+      "summary": "Israelische Siedler haben während der Olivenernte palästinensische Dörfer angegriffen. Laut Berichten der Nachrichtenagenturen Reuters und AP wurden mehrere Personen verletzt. Eine Journalistin der «W",
+      "published": "2026-10-16T23:32:19.440907+00:00"
     }
   ]
 }
