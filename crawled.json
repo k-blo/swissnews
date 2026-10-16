@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T22:02:16.963935+00:00",
+  "generated": "2026-10-16T22:32:36.345925+00:00",
   "date": "2026-10-17",
-  "count": 2,
+  "count": 22,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,146 @@
       "url": "https://www.freiburger-nachrichten.ch/story/297505/betr%C3%BCger-erbeuten-im-kanton-freiburg-fast-800000-franken",
       "summary": "",
       "published": "2026-10-16T22:02:16.963935+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mond Heute Aktuelle Mondphase in der Schweiz 17 10 2026",
+      "url": "https://www.suedostschweiz.ch/panorama/mond-heute-aktuelle-mondphase-in-der-schweiz-17-10-2026-2199284",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wichtige Doppelrunde für die Innerschwyzer",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/wichtige-doppelrunde-fuer-die-innerschwyzer-art-1727207",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Soll man einen Stall für einen Kunstrasen abreissen?",
+      "url": "https://www.bote.ch/nachrichten/schwyz/soll-man-einen-stall-fuer-einen-kunstrasen-abreissen-art-1727236",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer schreibt Mundartfassung von Kinderbuchklassiker «Nils Holgersson»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-schreibt-mundartfassung-von-kinderbuchklassiker-nils-holgersson-art-1727238",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schluss mit dem egoistischen Erlebnistourismus in unseren Bergen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schluss-mit-dem-egoistischen-erlebnistourismus-in-unseren-bergen-art-1727225",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mithelfen beim Auszählen: Bezirk sucht Verstärkung für Wahl- und Abstimmungsbüro",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mithelfen-beim-auszaehlen-bezirk-sucht-verstaerkung-fuer-wahl-und-abstimmungsbuero-art-1727228",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Landammann Patierno: «Gute Gelegenheit, das eine oder andere Klischee über Schwyz aufzubrechen»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/landammann-patierno-gute-gelegenheit-das-eine-oder-andere-klischee-ueber-schwyz-aufzubrechen-art-1727226",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kanton Schwyz beteiligt sich an Taskforce gegen «bestellte Diebstähle» aus Frankreich",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kanton-schwyz-beteiligt-sich-an-taskforce-gegen-bestellte-diebstaehle-aus-frankreich-art-1727206",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "KSC feiert historischen 7:0-Kantersieg",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ksc-feiert-historischen-70-kantersieg-art-1727216",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Initiativwahnsinn",
+      "url": "https://www.bote.ch/nachrichten/schwyz/initiativwahnsinn-art-1727178",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ich bin ein St. Galler",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ich-bin-ein-st-galler-art-1727205",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Heimsieg dank starker Teamleistung",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/heimsieg-dank-starker-teamleistung-art-1727212",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Grüne sagen zweimal Ja und zweimal Nein",
+      "url": "https://www.bote.ch/nachrichten/schwyz/gruene-sagen-zweimal-ja-und-zweimal-nein-art-1727203",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fit für die Zukunft mit Strategien für den Schwyzer Wald",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fit-fuer-die-zukunft-mit-strategien-fuer-den-schwyzer-wald-art-1727242",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Einbau einer Hilfsbrücke für den Bau der H8",
+      "url": "https://www.bote.ch/nachrichten/schwyz/einbau-einer-hilfsbruecke-fuer-den-bau-der-h8-art-1727204",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Druck auf kleine Kirchgemeinden wächst",
+      "url": "https://www.bote.ch/nachrichten/schwyz/druck-auf-kleine-kirchgemeinden-waechst-art-1727337",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die dritte Verladestation für Seeschüttung ist in Sisikon in Betrieb gegangen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/die-dritte-verladestation-fuer-seeschuettung-ist-in-sisikon-in-betrieb-gegangen-art-1727250",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der Bezirk Schwyz setzt auf Konstanz und rechnet mit Minus",
+      "url": "https://www.bote.ch/nachrichten/schwyz/der-bezirk-schwyz-setzt-auf-konstanz-und-rechnet-mit-minus-art-1727245",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Agro baut neue Leitungen beim Energiezentrum",
+      "url": "https://www.bote.ch/nachrichten/schwyz/agro-baut-neue-leitungen-beim-energiezentrum-art-1727183",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "31&nbsp;Abstürze seit 2012: Das macht die Mythen so gefährlich",
+      "url": "https://www.bote.ch/nachrichten/schwyz/31-abstuerze-seit-2012-das-macht-die-mythen-so-gefaehrlich-art-1727214",
+      "summary": "",
+      "published": "2026-10-16T22:32:36.345925+00:00"
     }
   ]
 }
