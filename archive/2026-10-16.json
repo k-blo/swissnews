@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T00:32:06.331984+00:00",
+  "generated": "2026-10-16T01:02:15.841334+00:00",
   "date": "2026-10-16",
-  "count": 35,
+  "count": 38,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -247,6 +247,27 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/eine-grafik-zeigt-wie-unmoeglich-das-deutsche-klimaziel-zu-erreichen-ist",
       "summary": "",
       "published": "2026-10-16T00:32:06.331984+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Deutschland erhöht die Tabaksteuer",
+      "url": "https://www.zentralplus.ch/news/deutschland-erhoeht-die-tabaksteuer-2904956/",
+      "summary": "Rauchen wird in Deutschland in den kommenden Jahren deutlich teurer. Der Bundestag hat am Donnerstagabend eine Erhöhung der Tabaksteuer beschlossen. Eine Packung mit 20 Zigaretten soll 2027 im Schnitt",
+      "published": "2026-10-16T01:02:15.841334+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stromausfälle nach Angriff auf Kiew",
+      "url": "https://www.zentralplus.ch/news/stromausfaelle-nach-angriff-auf-kiew-2904957/",
+      "summary": "Nach einem russischen Angriff ist in Teilen der ukrainischen Hauptstadt Kiew und in weiteren Gebieten in der Nähe der Hauptstadt der Strom ausgefallen. Betroffen sei eine Anlage der kritischen Energie",
+      "published": "2026-10-16T01:02:15.841334+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hcap Vs Hc Lugano",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/hcap-vs-hc-lugano-ld.4251123",
+      "summary": "",
+      "published": "2026-10-16T01:02:15.841334+00:00"
     }
   ]
 }
