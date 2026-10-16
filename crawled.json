@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T13:25:32.181591+00:00",
+  "generated": "2026-10-16T13:32:24.975263+00:00",
   "date": "2026-10-16",
-  "count": 597,
+  "count": 601,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4181,6 +4181,34 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/italien-schueler-protestieren-gegen-schulzustand-und-neues-gesetz-art-1727231",
       "summary": "",
       "published": "2026-10-16T13:25:32.181591+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Ransomware-Angriff trifft Sublieferanten der Armee",
+      "url": "https://www.inside-it.ch/ransomware-angriff-trifft-sublieferanten-der-armee-20261016",
+      "summary": "Cyberkriminelle veröffentlichen Daten eines Schweizer Logistikspezialisten, darunter ein Ordner \"Armasuisse\". Laut Armee enthält dieser aber keine kritischen Daten.",
+      "published": "2026-10-16T13:32:24.975263+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mcdonalds Schweiz Bringt Kultburger Zurück Doch das Comeback ist Befristet",
+      "url": "https://www.suedostschweiz.ch/panorama/mcdonalds-schweiz-bringt-kultburger-zurueck-doch-das-comeback-ist-befristet-2199481",
+      "summary": "",
+      "published": "2026-10-16T13:32:24.975263+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Gerlafingen Polizei Sucht Hinweise nach Vorfällen im Wald",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/gerlafingen-polizei-sucht-hinweise-nach-vorfaellen-im-wald-ld.4251776",
+      "summary": "",
+      "published": "2026-10-16T13:32:24.975263+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Darum investiert Elon Musk Hunderte Millionen in die Midterms 2026",
+      "url": "https://www.watson.ch/international/usa/238040373-darum-investiert-elon-musk-hunderte-millionen-in-die-midterms-2026",
+      "summary": "",
+      "published": "2026-10-16T13:32:24.975263+00:00"
     }
   ]
 }
