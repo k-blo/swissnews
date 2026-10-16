@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T09:02:27.019982+00:00",
+  "generated": "2026-10-16T09:08:38.882177+00:00",
   "date": "2026-10-16",
-  "count": 351,
+  "count": 382,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2459,6 +2459,223 @@
       "url": "https://www.bote.ch/nachrichten/kultur/braucht-der-aargau-eine-kultursteuer-martina-bircher-zeigt-interesse-art-1727189",
       "summary": "",
       "published": "2026-10-16T09:02:27.019982+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Neue Würenlos-Tankstelle»: Oeschinensee wird jetzt verspottet",
+      "url": "https://www.20min.ch/story/fotos-als-red-flag-neue-wuerenlos-tankstelle-oeschinensee-wird-jetzt-verspottet-103648410",
+      "summary": "Der Oeschinensee ist eines der beliebtesten Fotosujets der Schweiz. Doch auf Tiktok wird der Bergsee zunehmend verspottet. Ein Tourismusforscher erklärt, weshalb der Hype plötzlich ins Gegenteil umsch",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Vor 4 Jahren gefunden: Polizei identifiziert Toten aus Fass",
+      "url": "https://www.20min.ch/story/cold-case-bei-las-vegas-vor-4-jahren-gefunden-polizei-identifiziert-toten-aus-fass-103650617",
+      "summary": "Tiefe Wasserstände im Lake Mead hatten 2022 fünf Leichen freigegeben. Eine davon lag in einem verrosteten Fass. Nun hat die Polizei in Nevada die Überreste identifiziert.",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Schweizer Cup: Vom FCL-Titel zum OB-Traum: Simon Grethers nächstes Cup-Kapitel",
+      "url": "https://www.bazonline.ch/schweizer-cup-bsc-old-boys-trifft-auf-yverdon-sport-538507318031",
+      "summary": "Der 34-Jährige gewann 2021 mit Luzern den Schweizer Cup. Am Samstag will der OB-Captain mit dem interregionalen Zweitligisten gegen Yverdon für die Überraschung sorgen.",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "EU-Spitze stellt sich hinter Selenski",
+      "url": "https://www.zentralplus.ch/news/eu-spitze-stellt-sich-hinter-selenski-2905065/",
+      "summary": "Die Spitze der EU hat der Ukraine weiter ihre Solidarität zugesichert. Dies, nachdem US-Präsident Trump den ukrainischen Präsidenten Selenski kritisiert hatte, für Angriffe auf die russische Energie-I",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bahnhof Luzern als Hürde? Doch Stadt will nicht umbauen",
+      "url": "https://www.zentralplus.ch/verkehr-mobilitaet/bahnhof-luzern-als-huerde-doch-stadt-will-nicht-umbauen-2904806/",
+      "summary": "Der Zugang zum Bahnhof Luzern ist für Menschen mit Behinderung nicht überall hindernisfrei. Der Stadtrat anerkennt gewisse Mängel, hält grössere Bauarbeiten jedoch für unverhältnismässig. Das Behinder",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stadt verteidigt Bewilligung für Mass-voll-Demo",
+      "url": "https://www.zentralplus.ch/news/stadt-verteidigt-bewilligung-fuer-mass-voll-demo-2905018/",
+      "summary": "Die Stadt Luzern will Demonstrationen rechtsextremer Gruppen nur dann nicht bewilligen, wenn konkrete Hinweise auf rechtswidrige Aktivitäten oder Gefahren für die öffentliche Sicherheit vorliegen. Die",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Check Point warnt vor Sicherheitslücken in Open-Source-LLM-Gateway",
+      "url": "https://www.netzwoche.ch/news/2026-10-16/check-point-warnt-vor-sicherheitsluecken-in-open-source-llm-gateway",
+      "summary": "Check Point hat schwerwiegende Sicherheitslücken in LiteLLM, einem der weltweit am häufigsten genutzten LLM-Gateways, entdeckt. Eine der Lücken erlaubte selbst Usern mit eingeschränkten Rechten die Au",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Offerz wird Opfer eines Hackerangriffs",
+      "url": "https://www.netzwoche.ch/news/2026-10-16/offerz-wird-opfer-eines-hackerangriffs",
+      "summary": "Unbekannte haben sich Zugang zu einer Testumgebung des Schweizer Onlinehändlers Offerz verschafft. Dort hatten sie Zugriff auf eine Kopie mit Bestelldaten von rund 115'000 Kundinnen und Kunden. Ob die",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Igel engagiert langjährigen Zero-Trust-Experten des US-Verteidigungsministeriums",
+      "url": "https://www.netzwoche.ch/news/2026-10-16/igel-engagiert-langjaehrigen-zero-trust-experten-des-us-verteidigungsministeriums",
+      "summary": "Mit Randy Resnick ernennt Igel einen Field CTO für Behörden und kritische Infrastrukturen. Vor seinem Wechsel zum deutschen Softwareunternehmen war Resnick während rund 40 Jahren für das US-Verteidigu",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Amazon lanciert eigenes Digital-Signage-Display",
+      "url": "https://www.netzwoche.ch/news/2026-10-16/amazon-lanciert-eigenes-digital-signage-display",
+      "summary": "Amazon erweitert sein Digital-Signage-Angebot um einen eigenen 55-Zoll-Bildschirm. Das Display basiert auf FireOS, benötigt keinen externen Mediaplayer und lässt sich mit den Content-Management-System",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Update: Post zieht Bilanz nach sechs Monaten digitaler Briefe",
+      "url": "https://www.netzwoche.ch/news/2025-04-17/digitaler-brief-wird-teil-des-grundauftrags-der-post",
+      "summary": "Seit sechs Monaten bietet die Post digitale Briefe an. Seit dem 1. April 2026 gehören sie zur postalischen Grundversorgung. Seither hat die Post sieben Millionen elektronische Sendungen verschickt, da",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "MELDUNGEN POLIZEI - Raiffeisen-Affäre: Zürcher Staatsanwaltschaft erhebt Anklage gegen den Wirtschaftsjournalisten Lukas Hässig",
+      "url": "https://www.nzz.ch/zuerich/raiffeisen-affaere-staatsanwaltschaft-zuerich-erhebt-anklage-gegen-lukas-haessig-ld.10026004",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Deutsche DOOH-Tochter verkauft",
+      "url": "https://www.persoenlich.com/marketing/deutsche-dooh-tochter-verkauft",
+      "summary": "Weiterer Abbau bei Goldbach: Die Bauer Media Group übernimmt das Münchner DOOH-Unternehmen Eisbach Media. Der Kaufpreis bleibt unter Verschluss. Der Verkauf fügt sich in eine Reihe von Sparplänen bei ",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Angriff auf Security im Burger King Luzern vor Kantonsgericht",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/angriff-auf-security-im-burger-king-luzern-vor-kantonsgericht-ld.4247737",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarau Fdp Verlangt Faire Finanzierung des Neuen Schulraums",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-fdp-verlangt-faire-finanzierung-des-neuen-schulraums-ld.4250746",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Curling Limmattaler Juniorinnen mit Skip Zö Schwaller Räumen in Tallinn Ab",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/curling-limmattaler-juniorinnen-mit-skip-zoe-schwaller-raeumen-in-tallinn-ab-ld.4251444",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ZSC-Goalie Hrubec wird einigen Torhütern in der NL Betrug vor",
+      "url": "https://www.watson.ch/sport/eishockey/203801732-zsc-goalie-hrubec-wird-einigen-torhuetern-in-der-nl-betrug-vor",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Warum der HC Davos in dieser Saison (noch) nicht vom Fleck kommt",
+      "url": "https://www.watson.ch/sport/analyse/968506797-warum-der-hc-davos-in-dieser-saison-noch-nicht-vom-fleck-kommt",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Skimode durch die Jahrzehnte: So stark hat sie sich verändert",
+      "url": "https://www.watson.ch/leben/winter/298712773-skimode-durch-die-jahrzehnte-so-stark-hat-sie-sich-veraendert",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Igel, Vögel und andere Wildtiere: Tierärzte müssen Kosten selber tragen",
+      "url": "https://www.watson.ch/schweiz/tier/863101106-igel-voegel-und-andere-wildtiere-tieraerzte-muessen-kosten-selber-tragen",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "St. Galler Polizei stellt Drohnen zur Tempomessung vor",
+      "url": "https://www.watson.ch/schweiz/auto/359455191-st-galler-polizei-stellt-drohnen-zur-tempomessung-vor",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eine Schleiereulen-Familie begeistert in New York Millionen",
+      "url": "https://www.watson.ch/leben/usa/489357731-eine-schleiereulen-familie-begeistert-in-new-york-millionen",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Das Wetter kippt am Wochenende in der Schweiz: Es drohen 100 Liter Regen",
+      "url": "https://www.watson.ch/schweiz/klima/723700371-das-wetter-kippt-am-wochenende-in-der-schweiz-es-drohen-100-liter-regen",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Johan Manzambi im Champions-League-Team der Woche",
+      "url": "https://www.watson.ch/sport/champions-league/895402756-johan-manzambi-im-champions-league-team-der-woche",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizer Börse SIX beschliesst Dekotierung von Leclanché",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/573386104-schweizer-boerse-six-beschliesst-dekotierung-von-leclanche",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Skibetrieb in Braunwald eingestellt: Nun droht der Gang vor Gericht",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/540773046-skibetrieb-in-braunwald-eingestellt-nun-droht-der-gang-vor-gericht",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Migros ruft vier Bowls mit Poulet zurück – diese Produkte sind betroffen",
+      "url": "https://www.watson.ch/schweiz/gesundheit/588422483-migros-ruft-vier-bowls-mit-poulet-zurueck-diese-produkte-sind-betroffen",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump enthüllt Gespräche mit Moskau und Peking über atomare Abrüstung",
+      "url": "https://www.watson.ch/international/usa/700657880-trump-enthuellt-gespraeche-mit-moskau-und-peking-ueber-atomare-abruestung",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tabaksteuer in Deutschland steigt: Packung Zigaretten kostet bald 12 Euro",
+      "url": "https://www.watson.ch/leben/konsum/702406618-tabaksteuer-in-deutschland-steigt-packung-zigaretten-kostet-bald-12-euro",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zwischenfall an Nato-Grenze: Maskierte Männer auf lettischem Boden",
+      "url": "https://www.watson.ch/international/eu/298551406-zwischenfall-an-nato-grenze-maskierte-maenner-auf-lettischem-boden",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mann beharrt nach Angriff auf Luzerner Imbiss-Security: «Es war Notwehr»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/angriff-auf-security-im-burger-king-luzern-vor-kantonsgericht-art-1727195",
+      "summary": "",
+      "published": "2026-10-16T09:08:38.882177+00:00"
     }
   ]
 }
