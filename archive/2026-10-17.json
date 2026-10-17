@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17T14:31:31.362957+00:00",
+  "generated": "2026-10-17T14:43:03.335638+00:00",
   "date": "2026-10-17",
-  "count": 447,
+  "count": 451,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3131,6 +3131,34 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/papst-leo-verlaesst-klinik-vier-tage-nach-krebs-op-art-1727386",
       "summary": "",
       "published": "2026-10-17T14:31:31.362957+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Parteitag in Thun – SP lanciert Initiative zum Schutz vor Gewalt an Frauen",
+      "url": "https://www.srf.ch/news/schweiz/parteitag-in-thun-sp-lanciert-initiative-zum-schutz-vor-gewalt-an-frauen",
+      "summary": "Die SP Schweiz hat an ihrem Parteitag einstimmig eine Initiative zum Schutz vor Gewalt an Frauen lanciert.",
+      "published": "2026-10-17T14:43:03.335638+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Lernfahrer erfasst Teenager (13) – und fährt einfach weiter",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/dintikon-ag-lernfahrer-erfasst-kind-und-faehrt-einfach-weiter/y29lmhm",
+      "summary": "Ein Auto mit blauem «L» hat am Freitagmorgen in Dintikon AG einen 13-jährigen Velofahrer angefahren und ist weitergefahren. Der Junge wurde leicht verletzt, die Polizei sucht Zeugen.",
+      "published": "2026-10-17T14:43:03.335638+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Gute Nachrichten aus Rom: Papst verlässt Spital nach Lungenkrebs-OP und kehrt in den Vatikan zurück",
+      "url": "https://www.bazonline.ch/papst-leo-xiv-verlaesst-gemelli-klinik-nach-lungenkrebs-op-131273189029",
+      "summary": "Unter dem Applaus des Personals verliess der 71-Jährige die Gemelli-Klinik in Rom, früher als geplant. Ärzte hatten einen Lappen seiner rechten Lunge mit einem bösartigen Tumor entfernt.",
+      "published": "2026-10-17T14:43:03.335638+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zu langsam im Training: Marcel Hirscher verpasst Saisonauftakt in Sölden",
+      "url": "https://www.watson.ch/sport/ski/721125644-zu-langsam-im-training-marcel-hirscher-verpasst-saisonauftakt-in-soelden",
+      "summary": "",
+      "published": "2026-10-17T14:43:03.335638+00:00"
     }
   ]
 }
