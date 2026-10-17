@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17T05:02:33.771987+00:00",
+  "generated": "2026-10-17T05:32:25.650733+00:00",
   "date": "2026-10-17",
-  "count": 217,
+  "count": 229,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1521,6 +1521,90 @@
       "url": "https://www.freiburger-nachrichten.ch/story/297393/transauto-und-kevag-wechseln-zu-erneuerbarem-diesel",
       "summary": "",
       "published": "2026-10-17T05:02:33.771987+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Netzwerk Kinderrechte Scwheiz – Fast jedes fünfte Kind ist in der Schweiz armutsgefährdet",
+      "url": "https://www.srf.ch/news/schweiz/netzwerk-kinderrechte-scwheiz-fast-jedes-fuenfte-kind-ist-in-der-schweiz-armutsgefaehrdet",
+      "summary": "In einer Mitteilung forder das Netzwerk Kinderrechte Schweiz eine nationale Strategie, um Familien zu unterstützen.",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Neuer Spitzenreiter: Das sind die beliebtesten Bundesräte",
+      "url": "https://www.20min.ch/story/srg-wahlbarometer-wer-ist-beliebt-wer-faellt-durch-der-bundesrat-im-ranking-103651155",
+      "summary": "Die SVP ist laut neuem SRG-Wahlbarometer auf Rekordkurs. Auch die Bundesräte wurden bewertet. Wer gilt als besonders mächtig und wer kommt am besten an?",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Surf-Touristen ermordet: 3 Männer müssen je 158 Jahre in Haft",
+      "url": "https://www.20min.ch/story/mexiko-surf-touristen-ermordet-3-maenner-muessen-je-158-jahre-in-haft-103651153",
+      "summary": "Drei Männer sind des Mordes an drei Surf-Touristen aus den USA und Australien im April 2024 schuldig gesprochen worden.",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview mit Politologe: «Wir müssen in der Schweiz viel mehr KI-Rechenzentren bauen»",
+      "url": "https://www.tagesanzeiger.ch/kuenstliche-intelligenz-schweiz-braucht-mehr-rechenleistung-621759638657",
+      "summary": "Danny Bürkli berät Regierungen im Umgang mit künstlicher Intelligenz. Er warnt, dass andere Länder sich besser auf die kommenden Umwälzungen vorbereiten. Und er fordert: Die Schweiz müsse sich den Zug",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Street Photography in Lausanne: Olivier Vogelsang findet seine stärksten Bilder dort, wo scheinbar nichts passiert",
+      "url": "https://www.tagesanzeiger.ch/street-photography-vogelsangs-bilder-der-place-saint-francois-623942845654",
+      "summary": "Der Schweizer Fotograf hat über Jahre das Treiben auf der Lausanner Place Saint-François beobachtet. Ihm gelangen grossartige Bilder dessen, was oft unbeachtet bleibt.",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vom Spiesser zum coolen Dude?: Mark Forster: «Vielleicht bin ich der Typ, der Hurra schreit, wenn es Kuchen gibt»",
+      "url": "https://www.tagesanzeiger.ch/interview-mit-mark-forster-761065324839",
+      "summary": "Am Freitag ist der deutsche Sänger und Songwriter erstmals an der Baloise Session in Basel aufgetreten. Mit der BaZ hat der 43-Jährige über Memes, seine «Kartoffeligkeit» und Coolness gesprochen.",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Fragen und Antworten: Die weltweiten Staatsschulden explodieren – wie gefährlich ist das für die Schweiz?",
+      "url": "https://www.bernerzeitung.ch/staatsverschuldung-was-das-fuer-die-schweiz-bedeutet-505583914658",
+      "summary": "Fast 100 Prozent der Wirtschaftsleistung: So hoch wie heute waren die weltweiten Staatschulden seit dem Ende des Zweiten Weltkriegs nicht mehr. Alles zu den Folgen.",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Erschütterung in Basel: Ein Erdbeben wie 1356 würde heute 3000 Menschenleben kosten – und ist jederzeit möglich",
+      "url": "https://www.bazonline.ch/erdbeben-basel-7-fakten-zum-beben-von-1356-923460032519",
+      "summary": "Im Mittelalter bebte die Erde in der Region. Ein Unheil aus der Vergangenheit, das Auskunft über das düstere Potenzial unter Basels Erde gibt.",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Herbst auf der Speisekarte: Auf der Jagd nach den besten Wildspezialitäten – 5 Restauranttipps",
+      "url": "https://www.bazonline.ch/wildspezialitaeten-5-tolle-restaurants-in-der-region-basel-290763568518",
+      "summary": "Ob Rehrücken, Wildschweinwurst oder Hirschentrecote – wir zeigen, wo in der Region Basel gutes Wild aufgetischt wird.",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "114’000 Kinder leben in CH in Armut",
+      "url": "https://www.zentralplus.ch/news/114000-kinder-leben-in-ch-in-armut-2905281/",
+      "summary": "In der Schweiz sind laut Netzwerk Kinderrechte 114&#8217;000 Kinder von Armut betroffen, weitere 315&#8217;000 armutsgefährdet. Besonders häufig trifft es Kinder aus Einelternhaushalten und kinderreic",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Aktueller Rückruf in der Schweiz Salate Bowls und Fertiggerichte Betroffen",
+      "url": "https://www.suedostschweiz.ch/panorama/aktueller-rueckruf-in-der-schweiz-salate-bowls-und-fertiggerichte-betroffen-2199643",
+      "summary": "",
+      "published": "2026-10-17T05:32:25.650733+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trump bekommt keinen eigenen Ozean – weil sich Google querstellt?",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/trump-will-ozean-umbennen-doch-google-bremst-ihn-aus-art-1727374",
+      "summary": "",
+      "published": "2026-10-17T05:32:25.650733+00:00"
     }
   ]
 }
