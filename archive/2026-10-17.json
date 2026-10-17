@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17T19:01:56.526617+00:00",
+  "generated": "2026-10-17T19:32:13.435277+00:00",
   "date": "2026-10-17",
-  "count": 560,
+  "count": 563,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3922,6 +3922,27 @@
       "url": "https://www.bote.ch/nachrichten/sport/schweizer-cup-gc-mit-kantersieg-sion-mit-muehe-art-1727394",
       "summary": "",
       "published": "2026-10-17T19:01:56.526617+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tragödie in Indien: 17 Tote bei Massenpanik an Hindu-Fest",
+      "url": "https://www.tagesanzeiger.ch/indien-17-tote-nach-massenpanik-bei-durga-puja-583386411670",
+      "summary": "Vor einem Festpavillon in Kolkata drängte sich eine grosse Menschenmenge zum Schutz vor einem Regenschauer unter das Dach. Nach einer «irreführenden Durchsage» brach Panik aus.",
+      "published": "2026-10-17T19:32:13.435277+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hc Kriens Luzern Gewinnt 3224 Gegen Suhr Aarau",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/hc-kriens-luzern-gewinnt-3224-gegen-suhr-aarau-ld.4252146",
+      "summary": "",
+      "published": "2026-10-17T19:32:13.435277+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Krienser Pflichtsieg und ein besonderes Goalieduell",
+      "url": "https://www.bote.ch/nachrichten/sport/hc-kriens-luzern-gewinnt-3224-gegen-suhr-aarau-art-1727398",
+      "summary": "",
+      "published": "2026-10-17T19:32:13.435277+00:00"
     }
   ]
 }
