@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17T03:32:12.260461+00:00",
+  "generated": "2026-10-17T04:02:18.990841+00:00",
   "date": "2026-10-17",
-  "count": 184,
+  "count": 201,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1290,6 +1290,125 @@
       "url": "https://www.aargauerzeitung.ch/aargau/freiamt/taegerig-bezieht-immer-mehr-wasser-aus-mellingen-ld.4251312",
       "summary": "",
       "published": "2026-10-17T03:32:12.260461+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dritte Brut in der Schweiz: Waldrapp-Paar zieht wieder Junge auf – diesmal sind es vier",
+      "url": "https://www.tagesanzeiger.ch/waldrappe-vier-jungvoegel-in-vaulruz-fluegge-geworden-631067563022",
+      "summary": "Die ersten Waldrappe in der Schweiz brüteten 2023 in Rümlang. Dieses Jahr hat ein Paar im Kanton Freiburg vier Küken aufgezogen. Die Familie ist wohlauf – doch die erste grosse Hürde steht bevor.",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Das Bashing der Superreichen führt in die Irre: Europa hat nicht zu viele, sondern zu wenige Milliardäre – und erst noch die falschen",
+      "url": "https://www.nzz.ch/meinung/das-bashing-der-superreichen-fuehrt-in-die-irre-europa-hat-nicht-zu-viele-sondern-zu-wenige-milliardaere-und-erst-noch-die-falschen-ld.10028571",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Nato-Siegesplan, der eine Niederlage überspielt",
+      "url": "https://www.nzz.ch/pro/der-nato-siegesplan-der-eine-niederlage-ueberspielt-ld.10033585",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Teurere Festhypotheken: Für Immobilienkäufer geht die Zeit des billigen Geldes zu Ende",
+      "url": "https://www.nzz.ch/finanzen/teurere-festhypotheken-fuer-immobilienkaeufer-geht-die-zeit-des-billigen-geldes-zu-ende-ld.10032874",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Merz und Macron denken bei Autos planwirtschaftlich – zum Schaden der Steuerzahler und der Schweiz",
+      "url": "https://www.nzz.ch/meinung/merz-und-macron-denken-bei-autos-planwirtschaftlich-zum-schaden-der-steuerzahler-und-der-schweiz-ld.10035788",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nach der Eiszeit unter Orban nähern sich Ungarn und die Ukraine vorsichtig an",
+      "url": "https://www.nzz.ch/international/magyar-trifft-selenski-nach-orban-naehern-sich-ungarn-und-die-ukraine-an-ld.10035677",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Schaltsekunde verschwindet, die Schaltstunde kommt – aber erst in einigen tausend Jahren",
+      "url": "https://www.nzz.ch/wissenschaft/die-schaltsekunde-verschwindet-die-schaltstunde-kommt-aber-erst-in-einigen-tausend-jahren-ld.10035669",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "El Salvadors Präsident Bukele erwägt die Freilassung Tausender Drogenkrimineller. Ist es das Ende seiner «mano dura»?",
+      "url": "https://www.nzz.ch/international/el-salvadors-praesident-bukele-erwaegt-die-freilassung-tausender-drogenkrimineller-ist-es-das-ende-seiner-mano-dura-ld.10035434",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Geheimdienstexperte zur Spionage durch China und Russland: «Wenn ich ausländischen Kollegen erzähle, wie klein der NDB ist, können sie es kaum glauben»",
+      "url": "https://www.nzz.ch/schweiz/geheimdienst-experte-zur-spionage-durch-china-und-russland-wenn-ich-auslaendischen-kollegen-erzaehle-wie-klein-der-ndb-ist-koennen-sie-es-kaum-glauben-ld.10035178",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Krokodile im Gefängnisgraben, Rekorde im Siedlungsbau: Wie Israels extreme Rechte um Stimmen kämpft",
+      "url": "https://www.nzz.ch/international/krokodile-im-gefaengnisgraben-rekorde-im-siedlungsbau-wie-israels-extreme-rechte-um-stimmen-kaempft-ld.10035153",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Warum dieses rechnende Pferd hundert Jahre nach seinem Tod in der künstlichen Intelligenz Karriere macht",
+      "url": "https://www.nzz.ch/gesellschaft/warum-dieses-rechnende-pferd-hundert-jahre-nach-seinem-todin-der-kuenstlichen-intelligenz-karriere-macht-ld.10034895",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Character AI ist bankrott: Millionen Nutzer fürchten den «Tod» ihrer KI-Liebhaber",
+      "url": "https://www.nzz.ch/technologie/character-ai-ist-bankrott-millionen-ki-liebhaber-drohen-zu-implodieren-ld.10034752",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Preiskampf am chinesischen Automobilmarkt: Mit welchen Tricks die Regierung die Hersteller zwingen will, die Produktion zu drosseln",
+      "url": "https://www.nzz.ch/wirtschaft/preiskampf-am-chinesischen-automobilmarkt-mit-welchen-tricks-die-regierung-die-hersteller-zwingen-will-die-produktion-zu-drosseln-ld.10034538",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Alexander Zverev wird die Nummer eins – und Boris Becker ist wieder sein grösster Fan",
+      "url": "https://www.nzz.ch/sport/tennis/alexander-zverev-wird-nummer-eins-so-praegte-boris-becker-seine-karriere-ld.10033609",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK MIT DATEN - Deutschland rechnet die Ukraine-Hilfe schön. Mehr als ein Drittel fliesst in Sozialleistungen für Flüchtlinge",
+      "url": "https://www.nzz.ch/der-andere-blick/deutschland-rechnet-die-ukraine-hilfe-schoen-mehr-als-ein-drittel-fliesst-in-sozialleistungen-fuer-fluechtlinge-ld.10032761",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Fehlen die Schilddrüsenhormone, wird das Leben zur Last. Abwarten ist dabei genau die falsche Strategie",
+      "url": "https://www.nzz.ch/wissenschaft/fehlen-die-schilddruesenhormone-wird-das-leben-zur-last-abwarten-ist-dabei-genau-die-falsche-strategie-ld.10032494",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Schluss mit Kurbeln: Steer-by-Wire macht einen Mercedes zum Kurvenkünstler in den Strassen von San Francisco",
+      "url": "https://www.nzz.ch/mobilitaet/schluss-mit-kurbeln-steer-by-wire-macht-einen-mercedes-zum-kurvenkuenstler-in-den-strassen-von-san-francisco-ld.10031671",
+      "summary": "",
+      "published": "2026-10-17T04:02:18.990841+00:00"
     }
   ]
 }
