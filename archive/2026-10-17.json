@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17T15:01:47.270209+00:00",
+  "generated": "2026-10-17T15:25:46.041744+00:00",
   "date": "2026-10-17",
-  "count": 459,
+  "count": 470,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3215,6 +3215,83 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/zigarrenhersteller-villiger-stellt-produktion-in-deutschland-nach-115-jahren-ein-art-1727388",
       "summary": "",
       "published": "2026-10-17T15:01:47.270209+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wahlen Kanton Freiburg – Deutschfreiburg könnte seine Regierungsvertretung verlieren",
+      "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-deutschfreiburg-koennte-seine-regierungsvertretung-verlieren",
+      "summary": "Nach den Wahlen im November könnten nur noch Französischsprachige in der Kantonsregierung sitzen. Wäre das ein Problem?",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "SVP-Delegiertenversammlung – SVP-Delegierte lehnen Erhöhung der Mehrwertsteuer für AHV ab",
+      "url": "https://www.srf.ch/news/schweiz/svp-delegiertenversammlung-svp-delegierte-lehnen-erhoehung-der-mehrwertsteuer-fuer-ahv-ab",
+      "summary": "Die Partei startet den Wahlkampf zu den eidgenössischen Wahlen 2027 und fasste ihre Abstimmungsparolen.",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Druck gegen Amaudruz’ Kandidatur: «Das haben die Zürcher nicht vergessen»: Der SVP droht eine Zerreissprobe",
+      "url": "https://www.bernerzeitung.ch/svp-bundesrat-zuercher-bremsen-amaudruz-kandidatur-307192584448",
+      "summary": "An der SVP-Delegiertenversammlung in Bulle wird klar: Die Romandie steht geschlossen hinter Céline Amaudruz, der Zürcher Flügel hingegen möchte einen eigenen Kandidaten aufstellen. Kommt das gut?",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wieso Emmen Millionen in seine Laternen steckt",
+      "url": "https://www.zentralplus.ch/news/warum-emmen-millionen-in-seine-laternen-steckt-2905413/",
+      "summary": "Emmen will seine Strassenbeleuchtung für Millionen von Franken erneuern. Das soll nicht nur die Stromrechnung deutlich senken. Die Gemeinde Emmen will 2,43 Millionen Franken in die Erneuerung ihrer St",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Warum ein Zuger täglich um 5.30 Uhr Kung Fu trainiert",
+      "url": "https://www.zentralplus.ch/gesundheit-fitness/warum-dieser-zuger-jeden-morgen-kung-fu-trainiert-2903767/",
+      "summary": "Für Marco Schmid ist Kung Fu mehr als eine Sportart. Die Kampfkunst begleitet ihn seit 30 Jahren, half ihm durch sehr schwierige Zeiten und machte ihn zu dem Menschen, der er heute ist. Die Luft in de",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Iran-Krieg steht vor neuer Eskalation: Benzinpreise in der Schweiz ziehen an",
+      "url": "https://www.nzz.ch/wirtschaft/iran-krieg-steht-vor-neuer-eskalation-benzinpreise-in-der-schweiz-ziehen-an-ld.10036649",
+      "summary": "",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Rennen und Raven an der Linth Sagt der Dj",
+      "url": "https://www.suedostschweiz.ch/glarus/rennen-und-raven-an-der-linth-sagt-der-dj-2200005",
+      "summary": "",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bahnpark Brugg Schilder und Raritäten der Sbb Werden Versteigert",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/bahnpark-brugg-schilder-und-raritaeten-der-sbb-werden-versteigert-ld.4251993",
+      "summary": "",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bericht: Siedler attackieren EU-Diplomaten im Westjordanland",
+      "url": "https://www.watson.ch/international/israel/463078684-bericht-siedler-attackieren-eu-diplomaten-im-westjordanland",
+      "summary": "",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Chelsea-Goalie Martinez nach Zusammenprall im Spital",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-chelsea-goalie-martinez-nach-zusammenprall-im-spital",
+      "summary": "",
+      "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Selenskyj: Starlink für Ukraine weiter gedrosselt",
+      "url": "https://www.watson.ch/international/russland/786942348-selenskyj-starlink-fuer-ukraine-weiter-gedrosselt",
+      "summary": "",
+      "published": "2026-10-17T15:25:46.041744+00:00"
     }
   ]
 }
