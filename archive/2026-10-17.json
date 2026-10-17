@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16T23:32:19.440907+00:00",
+  "generated": "2026-10-17T00:02:19.841803+00:00",
   "date": "2026-10-17",
-  "count": 26,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,20 @@
       "url": "https://www.zentralplus.ch/news/westjordanland-angriffe-waehrend-ernte-2905263/",
       "summary": "Israelische Siedler haben während der Olivenernte palästinensische Dörfer angegriffen. Laut Berichten der Nachrichtenagenturen Reuters und AP wurden mehrere Personen verletzt. Eine Journalistin der «W",
       "published": "2026-10-16T23:32:19.440907+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Seniorenheim: 72-Jähriger greift Bewohner mit Messer an",
+      "url": "https://www.20min.ch/story/deutschland-seniorenheim-messer-angriff-eine-tote-zwei-schwer-verletzte-103651145",
+      "summary": "Eine Tote und zwei Schwerverletzte: Das ist die Bilanz eines Messerangriffs in einem Seniorenheim in Olfen, im deutschen Bundesland Nordrhein-Westfalen.",
+      "published": "2026-10-17T00:02:19.841803+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA: Buschbrände nahe Los Angeles",
+      "url": "https://www.zentralplus.ch/news/usa-buschbraende-nahe-los-angeles-2905267/",
+      "summary": "Heftige Buschbrände bedrohen bewohnte Gebiete im US-Bundesstaat Kalifornien. In mehreren Bezirken haben die Behörden Evakuierungen angeordnet. Nach Medienberichten stehen in der Ortschaft San Juan Cap",
+      "published": "2026-10-17T00:02:19.841803+00:00"
     }
   ]
 }
