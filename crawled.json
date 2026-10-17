@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17T15:25:46.041744+00:00",
+  "generated": "2026-10-17T15:31:45.492473+00:00",
   "date": "2026-10-17",
-  "count": 470,
+  "count": 476,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3292,6 +3292,48 @@
       "url": "https://www.watson.ch/international/russland/786942348-selenskyj-starlink-fuer-ukraine-weiter-gedrosselt",
       "summary": "",
       "published": "2026-10-17T15:25:46.041744+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Geduldsprobe in Interlaken: Acht Wochen ohne Zug: Interlaken schickt Reisende in Bussen weiter",
+      "url": "https://www.bernerzeitung.ch/bls-sperrt-bahnstrecke-interlaken-fuer-acht-wochen-720575330384",
+      "summary": "Pendler und Gäste verlieren ab dem 19. Oktober ihre direkte Zugverbindung zwischen West und Ost. Die BLS kündigt längere Reisezeiten an und verweist auf den Onlinefahrplan.",
+      "published": "2026-10-17T15:31:45.492473+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fc Winterthur Fc Luzern der Cup Sechzehntelfinal im Ticker",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fc-winterthur-fc-luzern-der-cup-sechzehntelfinal-im-ticker-ld.4249089",
+      "summary": "",
+      "published": "2026-10-17T15:31:45.492473+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Verhandlungsgeschick, Diplomatie und ein dickes Fell: Fünf Kandidierende mit vollen Rucksäcken",
+      "url": "https://www.freiburger-nachrichten.ch/story/297101/verhandlungsgeschick-diplomatie-und-ein-dickes-fell-f%C3%BCnf-kandidierende-mit-vollen-rucks%C3%A4cken",
+      "summary": "",
+      "published": "2026-10-17T15:31:45.492473+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Kann die SP das Oberamt halten?",
+      "url": "https://www.freiburger-nachrichten.ch/story/295475/kann-die-sp-das-oberamt-halten",
+      "summary": "",
+      "published": "2026-10-17T15:31:45.492473+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Im Seebezirk zeichnet sich eine Frauenwahl ab",
+      "url": "https://www.freiburger-nachrichten.ch/story/296681/im-seebezirk-zeichnet-sich-eine-frauenwahl-ab",
+      "summary": "",
+      "published": "2026-10-17T15:31:45.492473+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der FC Luzern ist zu Gast beim FC Winterthur – jetzt live",
+      "url": "https://www.bote.ch/nachrichten/sport/fc-winterthur-fc-luzern-der-cup-sechzehntelfinal-im-ticker-art-1727390",
+      "summary": "",
+      "published": "2026-10-17T15:31:45.492473+00:00"
     }
   ]
 }
