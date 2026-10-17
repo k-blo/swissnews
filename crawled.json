@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17T17:02:02.718953+00:00",
+  "generated": "2026-10-17T17:32:07.601520+00:00",
   "date": "2026-10-17",
-  "count": 514,
+  "count": 524,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3600,6 +3600,76 @@
       "url": "https://www.freiburger-nachrichten.ch/story/297883/gottron-ist-zur%C3%BCck-auf-dem-gletscher",
       "summary": "",
       "published": "2026-10-17T17:02:02.718953+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schutzwald unter Druck – Zaun für Schutzwald: Ein schweizweit einzigartiges Projekt",
+      "url": "https://www.srf.ch/news/schweiz/schutzwald-unter-druck-zaun-fuer-schutzwald-ein-schweizweit-einzigartiges-projekt",
+      "summary": "Ein fast drei Kilometer langer Zaun soll den geschädigten Schutzwald bei Surrein in der Surselva wieder fit machen.",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Brauchst du Halloween-Inspo? Geh doch als Bad Bunnys Gras!",
+      "url": "https://www.20min.ch/story/halloween-2026-diese-11-kostueme-sind-in-diesem-jahr-im-trend-103648515",
+      "summary": "Ob Filmfigur, Sportstar oder viraler Internethit: Diese elf Halloweenkostüme greifen die grössten Popkulturmomente des Jahres auf. Viele davon lassen sich ganz einfach nachstylen.",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mauro Lustrinelli in Berlin: Er redet «Makkaroni-Deutsch» und trinkt Bier mit dem Bayern-Trainer",
+      "url": "https://www.tagesanzeiger.ch/lustrinelli-bei-union-berlin-zwischen-bier-mit-kompany-und-eisern-325483087664",
+      "summary": "Der Schweizer Trainer wurde schon angezählt. Aber beim 0:0 gegen Dortmund sieht er erneut Fortschritte. Wie es ihm bei Union geht. Und warum er selbst das 0:7 in München in guter Erinnerung hat – ein ",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kulturkampf in Washington: Trump demoliert die eigene Hauptstadt",
+      "url": "https://www.tagesanzeiger.ch/trump-demoliert-washington-448591125866",
+      "summary": "Der Rosengarten des Weissen Hauses ist zugepflastert, dessen Ostflügel muss einem Ballsaal weichen. Zudem ist ein gigantischer Triumphbogen geplant. Und dem Kennedy Center droht der Abriss.",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Sacrifice» im Kino: Krise, Content – und viel Bumm-Bumm",
+      "url": "https://www.tagesanzeiger.ch/sacrifice-lassen-sie-mich-durch-ich-bin-reich-974191176514",
+      "summary": "Der Welt geht es schlecht, zu Hilfe eilen ein Milliardär und ein Hollywoodstar. Aber dann taucht bei der Spendengala eine bewaffnete Sekte auf. Regisseur Romain Gavras hat sichtlich Spass daran.",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ein erbitterter Kampf: Mit neuen violetten Trikots: Die YB-Frauen gewinnen spät gegen GC",
+      "url": "https://www.tagesanzeiger.ch/womens-super-league-yb-frauen-gewinnen-3-2-gegen-gc-712869076825",
+      "summary": "Das Duell YB gegen GC in der Women’s Super League wurde erst in der 90. Minute entschieden. Die Bernerinnen feiern einen 3:2-Sieg.",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "KI baut Software: Ein Mann hat KI-Klone von Word, Excel und Powerpoint entwickelt. Wir haben sie getestet",
+      "url": "https://www.bernerzeitung.ch/ki-gratis-klone-zu-word-excel-photoshop-im-test-539752202416",
+      "summary": "Ein Amerikaner veröffentlicht innert Wochen kostenlose Alternativen zu Office-Anwendungen und zu Kreativ-Apps wie Photoshop. Können sich User also künftig teure Abos sparen?",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Aufwärtstendenz oder Nur Kurze Freude der Hcd Muss Gegen den Meisterschaftsfavoriten Ran",
+      "url": "https://www.suedostschweiz.ch/regionalsport/aufwaertstendenz-oder-nur-kurze-freude-der-hcd-muss-gegen-den-meisterschaftsfavoriten-ran-2200017",
+      "summary": "",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Hc Ajoie Ev Zug die Partie im Ticker",
+      "url": "https://www.zugerzeitung.ch/sport/evz/hc-ajoie-ev-zug-die-partie-im-ticker-ld.4248517",
+      "summary": "",
+      "published": "2026-10-17T17:32:07.601520+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Achtes Auswärtsspiel in Serie: Der EV Zug ist zu Gast bei Ajoie – jetzt live",
+      "url": "https://www.bote.ch/nachrichten/sport/hc-ajoie-ev-zug-die-partie-im-ticker-art-1727392",
+      "summary": "",
+      "published": "2026-10-17T17:32:07.601520+00:00"
     }
   ]
 }
