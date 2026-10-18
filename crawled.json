@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T01:02:12.063775+00:00",
+  "generated": "2026-10-18T01:31:55.820602+00:00",
   "date": "2026-10-18",
-  "count": 10,
+  "count": 12,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -72,6 +72,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/eiltempo-bei-den-rahmenvertraegen-landesverweise-fuer-kriminelle-auslaender",
       "summary": "",
       "published": "2026-10-18T00:31:54.200886+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Coiffeur soll 2600 Franken für Song in Instagram-Post zahlen",
+      "url": "https://www.20min.ch/story/kanton-waadt-coiffeur-salon-busse-fuer-song-in-instagram-post-103651473",
+      "summary": "Ein Coiffeur-Salon erhielt ein Schreiben einer Anwaltskanzlei, nachdem er einen auf Instagram verfügbaren Song verwendet hatte. Nach einem Einspruch erhöhte sich die Busse noch weiter.",
+      "published": "2026-10-18T01:31:55.820602+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Rubio verteidigt Sanktions-Aussetzung",
+      "url": "https://www.zentralplus.ch/news/rubio-verteidigt-sanktions-aussetzung-2905435/",
+      "summary": "US-Aussenminister Marco Rubio verteidigt vor Journalisten die Aussetzung der Russland-Sanktionen. Das Problem sei, dass diese Sanktionen nicht nur Russland träfen. Sie sähen auch Zölle auf Länder wie ",
+      "published": "2026-10-18T01:31:55.820602+00:00"
     }
   ]
 }
