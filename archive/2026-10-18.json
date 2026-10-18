@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T11:32:29.947466+00:00",
+  "generated": "2026-10-18T11:41:34.859996+00:00",
   "date": "2026-10-18",
-  "count": 268,
+  "count": 276,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1878,6 +1878,62 @@
       "url": "https://insideparadeplatz.ch/2026/10/18/lambo-florida-huette-cash-sbb-kader-laessts-krachen/",
       "summary": "",
       "published": "2026-10-18T11:32:29.947466+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Datenleck beim Bund: Gestohlene Pensionskassen-Daten könnten Bundesangestellte im Ausland gefährden",
+      "url": "https://www.tagesanzeiger.ch/publica-hack-ndb-agenten-droht-enttarnung-im-ausland-107499984965",
+      "summary": "Nach dem Cyberangriff auf den IT-Dienstleister PK Softech stuft der Bund den Vorfall als «gravierend» ein. Ein Abgleich der gestohlenen Daten mit Einreiselisten könnte NDB-Mitarbeitende enttarnen.",
+      "published": "2026-10-18T11:41:34.859996+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Eine halbe Million Menschen pilgern aufs Inseli",
+      "url": "https://www.zentralplus.ch/news/eine-halbe-million-menschen-pilgern-aufs-inseli-2905481/",
+      "summary": "Die Lozärner Määs lockte Hunderttausende Menschen aufs Inseli. Trotz wechselhaftem Wetter zum Schluss ziehen die Verantwortlichen eine positive Bilanz. Die Lozärner Määs geht am Sonntagabend nach 16 T",
+      "published": "2026-10-18T11:41:34.859996+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Warum Beim Fcrj nach dem Cup aus Gegen St Gallen der Frust Überwiegt",
+      "url": "https://www.suedostschweiz.ch/linth/warum-beim-fcrj-nach-dem-cup-aus-gegen-st-gallen-der-frust-ueberwiegt-2183919",
+      "summary": "",
+      "published": "2026-10-18T11:41:34.859996+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Zwischentöne Ungarn Bringt einen Hauch von Obwald nach Engelberg",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/zwischentoene-ungarn-bringt-einen-hauch-von-obwald-nach-engelberg-ld.4251675",
+      "summary": "",
+      "published": "2026-10-18T11:41:34.859996+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Erster Titelgewinn der Saison Volley Amriswil Holt Sich den Supercup",
+      "url": "https://www.tagblatt.ch/sport/thurgau/erster-titelgewinn-der-saison-volley-amriswil-holt-sich-den-supercup-ld.4252203",
+      "summary": "",
+      "published": "2026-10-18T11:41:34.859996+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Breisacher Stiftung Zeichnet 160 Berufsleute in Alpnach aus",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/breisacher-stiftung-zeichnet-160-berufsleute-in-alpnach-aus-ld.4247987",
+      "summary": "",
+      "published": "2026-10-18T11:41:34.859996+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "160’000 Franken für gute Leistungen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/breisacher-stiftung-zeichnet-160-berufsleute-in-alpnach-aus-art-1727421",
+      "summary": "",
+      "published": "2026-10-18T11:41:34.859996+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Zwischentöne» Engelberg: Klassikfestival mit einem Hauch von «Obwald»",
+      "url": "https://www.bote.ch/nachrichten/kultur/zwischentoene-ungarn-bringt-einen-hauch-von-obwald-nach-engelberg-art-1727420",
+      "summary": "",
+      "published": "2026-10-18T11:41:34.859996+00:00"
     }
   ]
 }
