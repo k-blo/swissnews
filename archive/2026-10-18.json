@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T20:02:10.770879+00:00",
+  "generated": "2026-10-18T20:32:56.982884+00:00",
   "date": "2026-10-18",
-  "count": 537,
+  "count": 542,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3761,6 +3761,41 @@
       "url": "https://www.watson.ch/international/reisen/791858297-hoechste-sturmwarnung-fuer-mallorca",
       "summary": "",
       "published": "2026-10-18T20:02:10.770879+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Austrian-Airlines-Flug wegen Bombendrohung umgeleitet",
+      "url": "https://www.20min.ch/story/tel-aviv-wien-austrian-airlines-flug-wegen-bombendrohung-umgeleitet-103651837",
+      "summary": "Ein Airbus von Austrian Airlines wurde auf dem Weg von Tel Aviv nach Wien nach Sofia umgeleitet. Zuvor hatte ein Anrufer vor einem verdächtigen Gegenstand gewarnt.",
+      "published": "2026-10-18T20:32:56.982884+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sexuelle Belästigung in KMUs: «Alles harmlos, alles easy», verteidigte sich der Mitarbeiter. Aber das HR liess nicht locker",
+      "url": "https://www.tagesanzeiger.ch/sexuelle-belaestigung-kmu-erhalten-neue-unterstuetzung-802359042473",
+      "summary": "Fast die Hälfte aller Frauen ist am Arbeitsplatz mit sexuellen Belästigungen konfrontiert. Gerade KMUs sind dabei oft überfordert. Die Personalverantwortliche Anke Sandor holte sich deswegen externe H",
+      "published": "2026-10-18T20:32:56.982884+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Macron stellt Gespräche in Aussicht",
+      "url": "https://www.zentralplus.ch/news/macron-stellt-gespraeche-in-aussicht-2905544/",
+      "summary": "Nach den Massenprotesten in Frankreich hat Präsident Emmanuel Macron Gespräche mit den Demonstrierenden und verschiedenen Interessengruppen angekündigt. Schülerinnen, Studierende, Lehrkräfte, Gewerksc",
+      "published": "2026-10-18T20:32:56.982884+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Naturdrogerie in Uri sie Berät Frauen mit Beschwerden in den Wechseljahren",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/naturdrogerie-in-uri-sie-beraet-frauen-mit-beschwerden-in-den-wechseljahren-ld.4145149",
+      "summary": "",
+      "published": "2026-10-18T20:32:56.982884+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mit Pflanzenheilkunde und Homöopathie sanft begleiten – eine Drogistin erklärt, wie",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/naturdrogerie-in-uri-sie-beraet-frauen-mit-beschwerden-in-den-wechseljahren-art-1727504",
+      "summary": "",
+      "published": "2026-10-18T20:32:56.982884+00:00"
     }
   ]
 }
