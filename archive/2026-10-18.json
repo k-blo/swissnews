@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T01:31:55.820602+00:00",
+  "generated": "2026-10-18T02:01:59.579957+00:00",
   "date": "2026-10-18",
-  "count": 12,
+  "count": 15,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -86,6 +86,27 @@
       "url": "https://www.zentralplus.ch/news/rubio-verteidigt-sanktions-aussetzung-2905435/",
       "summary": "US-Aussenminister Marco Rubio verteidigt vor Journalisten die Aussetzung der Russland-Sanktionen. Das Problem sei, dass diese Sanktionen nicht nur Russland träfen. Sie sähen auch Zölle auf Länder wie ",
       "published": "2026-10-18T01:31:55.820602+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Saudi-Arabien: Huthi-Raketen abgefangen",
+      "url": "https://www.zentralplus.ch/news/saudi-arabien-huthi-raketen-abgefangen-2905437/",
+      "summary": "Saudi-Arabien hat nach eigenen Angaben mehrere Angriffe der jemenitischen Huthi-Miliz abgewehrt. Laut dem von Riad angeführten Militärbündnis fing die Flugabwehr im Südwesten des Landes zwei ballistis",
+      "published": "2026-10-18T02:01:59.579957+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Oh heilige Einfalt – wie Hockeyfans Werbung für Red Bull machen…",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/621843363-oh-heilige-einfalt-wie-hockeyfans-werbung-fuer-red-bull-machen",
+      "summary": "",
+      "published": "2026-10-18T02:01:59.579957+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ihre Spitex. Ihre Wahl.",
+      "url": "https://www.bote.ch/nachrichten/sponsored/ihre-spitex-ihre-wahl-art-1726675",
+      "summary": "",
+      "published": "2026-10-18T02:01:59.579957+00:00"
     }
   ]
 }
