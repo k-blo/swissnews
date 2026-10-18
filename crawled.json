@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T12:32:57.566090+00:00",
+  "generated": "2026-10-18T13:02:40.063875+00:00",
   "date": "2026-10-18",
-  "count": 303,
+  "count": 332,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2123,6 +2123,209 @@
       "url": "https://www.infosperber.ch/wirtschaft/konzerne/nehmt-elon-musk-das-geld-weg-ein-kommentar/",
       "summary": "",
       "published": "2026-10-18T12:32:57.566090+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Aargauer Regierungswahl – Klarer Sieg der Favoritin: Maja Riniker ist Regierungsrätin",
+      "url": "https://www.srf.ch/news/schweiz/aargauer-regierungswahl-klarer-sieg-der-favoritin-maja-riniker-ist-regierungsraetin",
+      "summary": "Nationalrätin Riniker setzte sich klar gegen die Konkurrenz durch. Damit sind erstmals zwei Frauen in der Regierung.",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Luxusjacht mit 50-Meter-Pool vor Kim Jong-uns Villa entdeckt",
+      "url": "https://www.20min.ch/story/nordkorea-luxusjacht-mit-50-meter-pool-vor-kim-jong-uns-villa-entdeckt-103651598",
+      "summary": "Satellitenbilder zeigen riesige Schiffe in der Nähe von Kim Jong-uns Sommervilla. Eines davon ist mit einem Swimmingpool ausgestattet.",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Das Dorfleben geht kaputt»: SVP-Politiker wettert gegen Deutsche",
+      "url": "https://www.20min.ch/story/prosieben-reportage-das-dorfleben-geht-kaputt-svp-politiker-wettert-gegen-deutsche-103651619",
+      "summary": "In einer ProSieben-Reportage teilt SVP-Politiker Domenik Ledergerber gegen deutsche Einwanderer aus. Er kritisiert deren Einfluss auf das Dorfleben und den Arbeitsmarkt.",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Darf ich den Rufknopf drücken, wenn ich nur ein Wasser will?",
+      "url": "https://www.20min.ch/story/rufknopf-im-flugzeug-darfst-du-ihn-fuer-ein-getraenk-druecken-103648538",
+      "summary": "Durst, eine Frage oder plötzliches Unwohlsein: Der Rufknopf im Flugzeug ist nicht nur für Notfälle gedacht. Swiss und Edelweiss erklären, wann du ihn benutzen darfst – und wann es Geduld braucht.",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Proteste und Gewalt in Frankreich: Trittbrettfahrer des Chaos – wie Chaoten und Plünderer Paris verwüsten",
+      "url": "https://www.tagesanzeiger.ch/frankreich-wer-sind-die-chaoten-vom-17-oktober-773122290380",
+      "summary": "Sie infiltrieren Demonstrationen: Wer sind die «casseurs» vom 17. Oktober? Und warum wurde die Polizei so überrumpelt?",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Brain Drain an der ETH: 190’000 Franken Einstiegslohn: US-Konzerne holen sich Schweizer KI-Talente",
+      "url": "https://www.tagesanzeiger.ch/eth-zuerich-ai-talente-wandern-zu-us-konzernen-ab-432639294647",
+      "summary": "US-Techkonzerne finanzieren Forschungsprojekte an der ETH mit Millionen und binden Toptalente früh an sich. Der Leiter des ETH AI Centers sieht die digitale Souveränität der Schweiz in Gefahr.",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Proteste in Italien: Über 50 Festnahmen: Vermummte Jugendliche greifen in Mailand die Polizei an",
+      "url": "https://www.tagesanzeiger.ch/ausschreitungen-in-mailand-50-jugendliche-festgenommen-961917292385",
+      "summary": "Bei Protesten gegen hohe Lebenshaltungskosten eskalierte in Mailand die Gewalt. Mindestens 24 Menschen wurden verletzt, die Hälfte der über 50 Festgenommenen ist minderjährig.",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die Berliner Linkspartei siegt über die mutlose politische Mitte: Dieses Sondierungspapier ist eine Zäsur für Deutschland",
+      "url": "https://www.nzz.ch/meinung/zaesur-fuer-deutschland-berlins-linkspartei-siegt-ueber-die-politische-mitte-ld.10036783",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fischbach Göslikon Weiht Auenrenaturierung Grien ein",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/fischbach-goeslikon-weiht-auenrenaturierung-grien-ein-ld.4251319",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Liveticker Fc Aarau Empfängt im Cup den Fc Zürich",
+      "url": "https://www.aargauerzeitung.ch/sport/fc-aarau/liveticker-fc-aarau-empfaengt-im-cup-den-fc-zuerich-ld.4251626",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Männerturnverein Obergösgen Metzgete mit Vielen Stammgästen",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/maennerturnverein-obergoesgen-metzgete-mit-vielen-stammgaesten-ld.4251489",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Dietikon Junger Mann Baut Unfall auf der Überlandstrasse",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/dietikon-junger-mann-baut-unfall-auf-der-ueberlandstrasse-ld.4252266",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Trachtengruppe Ennetbürgen Feiert 60 Jahr Jubiläum",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/trachtengruppe-ennetbuergen-feiert-60-jahr-jubilaeum-ld.4232418",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Fredy Reichmuth Erhält Goldenen Violinschlüssel in Altdorf",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/fredy-reichmuth-erhaelt-goldenen-violinschluessel-in-altdorf-ld.4249028",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FC Aarau vs. FC Zürich – hier gib es den Cup-Kracher im Liveticker",
+      "url": "https://www.watson.ch/sport/liveticker/100053067-fc-aarau-vs-fc-zuerich-hier-gib-es-den-cup-kracher-im-liveticker",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sturmtief Adam: 1 Tote bei Unwetter in Spanien",
+      "url": "https://www.watson.ch/international/spanien/805423594-sturmtief-adam-1-tote-bei-unwetter-in-spanien",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mindestens 7 Tote nach Explosion auf kanadischem Militärstützpunkt",
+      "url": "https://www.watson.ch/international/videos/965441340-mindestens-7-tote-nach-explosion-auf-kanadischem-militaerstuetzpunkt",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Verletzlichkeit als Stärke oder Schwäche? Trump und Papst Leo XIV",
+      "url": "https://www.watson.ch/wissen/analyse/364224923-verletzlichkeit-als-staerke-oder-schwaeche-trump-und-papst-leo-xiv",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«So viel Dummheit und Hass»: Frankreich am Rand von Chaos und Revolte",
+      "url": "https://www.watson.ch/international/frankreich/502959074-so-viel-dummheit-und-hass-frankreich-am-rand-von-chaos-und-revolte",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "David Beckham – wer fordert Gianni Infantino als FIFA‑Präsident heraus?",
+      "url": "https://www.watson.ch/sport/fifa/954212923-david-beckham-wer-fordert-gianni-infantino-als-fifa-praesident-heraus",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Illegale Kundgebung in Bern: Polizei setzt Gummischrot ein",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/402124882-illegale-kundgebung-in-bern-polizei-setzt-gummischrot-ein",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Yannik Zamboni spricht über Probleme mit Fair Fashion in der Schweiz",
+      "url": "https://www.watson.ch/schweiz/leben/969143868-yannik-zamboni-spricht-ueber-probleme-mit-fair-fashion-in-der-schweiz",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA: Rubio verteidigt Aussetzung neuer Sanktionen gegen Russland",
+      "url": "https://www.watson.ch/international/usa/348667531-usa-rubio-verteidigt-aussetzung-neuer-sanktionen-gegen-russland",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die gesündeste Art der Zubereitung von Eiern zum Frühstück",
+      "url": "https://www.watson.ch/leben/food/657164471-die-gesuendeste-art-der-zubereitung-von-eiern-zum-fruehstueck",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Drohne in litauischen Luftraum eingedrungen und abgestürzt",
+      "url": "https://www.watson.ch/international/drohnen/134590476-drohne-in-litauischen-luftraum-eingedrungen-und-abgestuerzt",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Unfall in Zürich: Fahrer verliert Kontrolle über 500-PS-Mercedes",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/115797173-unfall-in-zuerich-fahrer-verliert-kontrolle-ueber-500-ps-mercedes",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Eroberungen rechtfertigen – am Beispiel Amerikas",
+      "url": "https://www.freiburger-nachrichten.ch/story/293686/eroberungen-rechtfertigen-am-beispiel-amerikas",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trachtengruppe Ennetbürgen mit grossem Jubiläumsanlass",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/trachtengruppe-ennetbuergen-feiert-60-jahr-jubilaeum-art-1727427",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fordert David Beckham Gianni Infantino bei Wahl zum Fifa-Präsidenten heraus?",
+      "url": "https://www.bote.ch/nachrichten/sport/david-beckham-als-herausforderer-von-fifa-praesident-infantino-art-1727426",
+      "summary": "",
+      "published": "2026-10-18T13:02:40.063875+00:00"
     }
   ]
 }
