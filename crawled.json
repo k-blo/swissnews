@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T07:02:18.134004+00:00",
+  "generated": "2026-10-18T07:32:39.287949+00:00",
   "date": "2026-10-18",
-  "count": 128,
+  "count": 137,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -898,6 +898,69 @@
       "url": "https://www.tagblatt.ch/sport/ostschweiz/sc-bruehl-steht-nach-zehn-jahren-wieder-im-cup-achtelfinal-ld.4252158",
       "summary": "",
       "published": "2026-10-18T07:02:18.134004+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wohnungsbrand fordert ein Todesopfer – 22 Personen evakuiert",
+      "url": "https://www.20min.ch/story/lugano-ti-wohnungsbrand-fordert-ein-todesopfer-22-personen-evakuiert-103651525",
+      "summary": "Am Sonntagmorgen um 3 Uhr brach in einer Wohnung in Lugano ein Feuer aus. Die Polizei entdeckte später eine Leiche in der Wohnung.",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bildkolumne Schnappschuss: Der Trainer, der sich vor den Brüsten der Reporterin fürchtete",
+      "url": "https://www.tagesanzeiger.ch/tschechischer-fussball-trainer-geht-wegen-interview-viral-428803016796",
+      "summary": "Der tschechische Fussball-Coach David Oulehla wurde zum internationalen Hit, weil er sich nicht mit dem Décolleté der Interviewerin unterhalten wollte.",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Auto durchbricht Zaun an Flughafen in D",
+      "url": "https://www.zentralplus.ch/news/auto-durchbricht-zaun-an-flughafen-in-d-2905449/",
+      "summary": "Am Flughafen Leipzig hat offenbar ein Auto den Sicherheitszaun durchbrochen – in der Nähe von Antonow-Transportflugzeugen. Die Polizei war in der Nacht auf Sonntag mit einem Grossaufgebot im Einsatz. ",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Sprachmodelle klingen schlüssig - ziehen aber andere Schlüsse als Menschen",
+      "url": "https://www.netzwoche.ch/news/2026-10-18/sprachmodelle-klingen-schluessig-ziehen-aber-andere-schluesse-als-menschen",
+      "summary": "Large Language Models kommen in der Politik und Verwaltung immer häufiger zum Einsatz, etwa um Entscheidungen vorzubereiten. Forschende der Universität Zürich haben untersucht, ob solche Sprachmodelle",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Vom Pilotprojekt zum KI-Produktiv­betrieb: Die Hürden der Skalierung",
+      "url": "https://www.netzwoche.ch/news/2026-10-18/vom-pilotprojekt-zum-ki-produktiv-betrieb-die-huerden-der-skalierung",
+      "summary": "Künstliche Intelligenz hat in vielen Schweizer Unternehmen die Phase des reinen Ausprobierens überwunden. Proof-of-­Concepts und generative Pilotprojekte gehören heute zum Alltag. Doch der entscheiden",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bundesamt für Strassen sperrt Fäsenstaub-, Cholfirst- und Galgenbucktunnel für nächtliche Reinigungsarbeiten",
+      "url": "https://www.shn.ch/region/kanton/2026-10-18/bundesamt-fuer-strassen-sperrt-faesenstaub-cholfirst-und-galgenbucktunnel",
+      "summary": "Der Cholfirst-, Fäsenstaub-, sowie Galgenbucktunnel werden vom 19. bis zum 23. Oktober jeweils nachts von 20 Uhr bis am Folgetag um 5 Uhr gesperrt. Der Grund dafür sind Reinigungsarbeiten. Autofahreri",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Das Sagt Hcd Trainer Holden zum Hcd Tiefflug",
+      "url": "https://www.suedostschweiz.ch/regionalsport/das-sagt-hcd-trainer-holden-zum-hcd-tiefflug-2200382",
+      "summary": "",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Chevrolet von 1968 aus Einem Schrotthaufen Wird Dieses Bijou",
+      "url": "https://www.suedostschweiz.ch/linth/chevrolet-von-1968-aus-einem-schrotthaufen-wird-dieses-bijou-2090079",
+      "summary": "",
+      "published": "2026-10-18T07:32:39.287949+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Nlb Handball Siggenthal Unterliegt Möhlin im Derby und Sieht 3 Mal Rot",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/nlb-handball-siggenthal-unterliegt-moehlin-im-derby-und-sieht-3-mal-rot-ld.4251928",
+      "summary": "",
+      "published": "2026-10-18T07:32:39.287949+00:00"
     }
   ]
 }
