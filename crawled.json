@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T04:31:49.159848+00:00",
+  "generated": "2026-10-18T04:42:08.288101+00:00",
   "date": "2026-10-18",
-  "count": 89,
+  "count": 90,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -625,6 +625,13 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/erdbeben-der-staerke-40-in-der-schweiz-epizentrum-nahe-linthal-gl-art-1727408",
       "summary": "",
       "published": "2026-10-18T04:31:49.159848+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Feuer auf einem kanadischen Militärstützpunkt fordert mehrere Tote",
+      "url": "https://www.nzz.ch/international/ein-feuer-auf-einem-kanadischen-militaerstuetzpunkt-fordert-mehrere-tote-ld.10037233",
+      "summary": "",
+      "published": "2026-10-18T04:42:08.288101+00:00"
     }
   ]
 }
