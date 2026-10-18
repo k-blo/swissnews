@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T22:33:10.558004+00:00",
+  "generated": "2026-10-18T23:02:11.511080+00:00",
   "date": "2026-10-19",
-  "count": 25,
+  "count": 26,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -177,6 +177,13 @@
       "url": "https://www.bote.ch/nachrichten/vereine/aquaterra-mitglieder-tauschen-sich-aus-art-1727451",
       "summary": "",
       "published": "2026-10-18T22:26:09.193656+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump: Selenski will Kriegsende nicht",
+      "url": "https://www.zentralplus.ch/news/trump-selenski-will-kriegsende-nicht-2905546/",
+      "summary": "US-Präsident Donald Trump warf auf seiner Plattform dem ukrainischen Präsidenten mangelnden Friedenswillen vor. Wegen der Finanzhilfen aus Europa habe Selenski gar kein Interesse daran, den Krieg zu b",
+      "published": "2026-10-18T23:02:11.511080+00:00"
     }
   ]
 }
