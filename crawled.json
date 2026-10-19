@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-19T22:02:28.886363+00:00",
+  "generated": "2026-10-19T22:32:40.473284+00:00",
   "date": "2026-10-20",
-  "count": 8,
+  "count": 10,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -58,6 +58,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-regierung-prueft-mehr-austausch-zwischen-polizei-und-schulen-art-1727724",
       "summary": "",
       "published": "2026-10-19T22:02:28.886363+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rekurs zu Rüterwis: Streit um 2,8 Millionen für Zolliker Betreuungshaus geht vors Verwaltungsgericht",
+      "url": "https://www.tagesanzeiger.ch/rueterwis-zollikon-streit-geht-ans-verwaltungsgericht-776319887062",
+      "summary": "Der Bezirksrat gibt dem Zolliker Gemeinderat in der Causa Rüterwis Recht. Doch der Rekurrent Stephan Geiger zieht den Entscheid nun weiter.",
+      "published": "2026-10-19T22:32:40.473284+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Abwechslung, hohes Niveau und der «Bierländler»&nbsp;fanden Gefallen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/abwechslung-hohes-niveau-und-der-bierlaendler-fanden-gefallen-art-1727607",
+      "summary": "",
+      "published": "2026-10-19T22:32:40.473284+00:00"
     }
   ]
 }
