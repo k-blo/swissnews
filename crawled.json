@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-19T01:02:28.533713+00:00",
+  "generated": "2026-10-19T01:32:33.107569+00:00",
   "date": "2026-10-19",
-  "count": 31,
+  "count": 33,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -219,6 +219,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/organisierte-verantwortungslosigkeit-in-der-bundesverwaltung",
       "summary": "",
       "published": "2026-10-19T00:32:34.540609+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ungeplanter Zwischenstopp: Austrian-Airlines-Flugzeug muss nach Drohung in Sofia landen",
+      "url": "https://www.tagesanzeiger.ch/austrian-airlines-flugzeug-muss-nach-drohung-in-sofia-landen-267486880887",
+      "summary": "Auf dem Flug von Tel Aviv nach Wien ändert eine Maschine der Austrian Airlines plötzlich ihre Route. Der Grund ist schwerwiegend.",
+      "published": "2026-10-19T01:32:33.107569+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "160 Festnahmen nach Krawallen in Mailand – viele sind minderjährig",
+      "url": "https://www.watson.ch/international/italien/561410553-160-festnahmen-nach-krawallen-in-mailand-viele-sind-minderjaehrig",
+      "summary": "",
+      "published": "2026-10-19T01:32:33.107569+00:00"
     }
   ]
 }
