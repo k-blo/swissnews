@@ -4,13 +4,13 @@
     "etag": "\"740d2d71afdfae42e9ec913da1663168\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17c0d-ZhOqrrnmwO0qgcn1BE0+PIQpAb8\""
+    "etag": "W/\"17bfc-TtI7QpJ0mTXPKZHOb8ZvkNTsHlo\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"d914-X2l0qXRionrZ3RcaHwCytf/F8JM\""
+    "etag": "W/\"d939-AkCulzx6pUi6lNpSioc22K5xXlw\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"d393-96mrp6hbOH2XMWNGr0QgwOYsY7M\""
+    "etag": "W/\"d393-QaEyn7MjfcXkElRKOGmsaqxFZF0\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Mon, 19 Oct 2026 00:20:12 GMT"
@@ -19,21 +19,21 @@
     "last_modified": "Mon, 19 Oct 2026 02:01:29 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
-    "last_modified": "Mon, 19 Oct 2026 00:00:30 GMT",
-    "etag": "\"1792368030\""
+    "last_modified": "Mon, 19 Oct 2026 02:11:11 GMT",
+    "etag": "\"1792375871\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Mon, 19 Oct 2026 01:57:48 GMT"
+    "last_modified": "Mon, 19 Oct 2026 02:27:49 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"d914-sRt79ZUaJN0PNE+YnfVu26nk6eg\""
+    "etag": "W/\"d939-XEmopCyPhWPB/Mg5aHUfvwrQHZU\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"d7f3-+HZdI9vNT1ftAAeXO8RRbP+Ogrw\""
+    "etag": "W/\"d833-7ShXDr8LlmxFKArHpbyScZJLJ6U\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Sun, 18 Oct 2026 23:55:33 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1791260065\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Mon, 19 Oct 2026 02:00:45 GMT",
-    "etag": "W/\"1792375245-gzip\""
+    "last_modified": "Mon, 19 Oct 2026 02:30:24 GMT",
+    "etag": "W/\"1792377024-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"1beb1-MgszJVhpSVT88idDnTBR77De5MU\""
