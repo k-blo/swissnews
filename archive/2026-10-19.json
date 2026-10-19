@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-19T20:14:55.546431+00:00",
+  "generated": "2026-10-19T20:32:43.799625+00:00",
   "date": "2026-10-19",
-  "count": 894,
+  "count": 896,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6260,6 +6260,20 @@
       "url": "https://www.watson.ch/schweiz/polizeirapport/165526544-drei-armeeangehoerige-bei-bootsunfall-im-raum-gersau-sz-verletzt",
       "summary": "",
       "published": "2026-10-19T20:14:55.546431+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Berlin: Ja zu Koalitionsgesprächen",
+      "url": "https://www.zentralplus.ch/news/berlin-ja-zu-koalitionsgespraechen-2905812/",
+      "summary": "Im deutschen Bundesland Berlin haben die Delegierten der Grünen und der SPD grundsätzlich einer gemeinsamen Regierung mit der Partei «Die Linke» zugestimmt. Dies jeweils deutlich, mit einzelnen Gegens",
+      "published": "2026-10-19T20:32:43.799625+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ukraine: Tote nach russischem Drohnenangriff im Gebiet Charkiw",
+      "url": "https://www.watson.ch/international/russland/651569447-ukraine-tote-nach-russischem-drohnenangriff-im-gebiet-charkiw",
+      "summary": "",
+      "published": "2026-10-19T20:32:43.799625+00:00"
     }
   ]
 }
