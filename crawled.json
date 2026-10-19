@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-19T23:02:40.840334+00:00",
+  "generated": "2026-10-19T23:32:40.877484+00:00",
   "date": "2026-10-20",
-  "count": 10,
+  "count": 11,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -72,6 +72,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/abwechslung-hohes-niveau-und-der-bierlaendler-fanden-gefallen-art-1727607",
       "summary": "",
       "published": "2026-10-19T22:32:40.473284+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ukraine rettet verletzten Soldaten erstmals mit einer Drohne",
+      "url": "https://www.20min.ch/story/premiere-im-krieg-ukraine-rettet-verletzten-soldaten-erstmals-mit-einer-drohne-103652333",
+      "summary": "Eine ukrainische Drohne hat einen verwundeten Soldaten über 62 Kilometer transportiert. Die Bergung dauerte mehr als eine Stunde und wäre auf herkömmlichem Weg für das Rettungsteam zu gefährlich gewes",
+      "published": "2026-10-19T23:32:40.877484+00:00"
     }
   ]
 }
