@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T09:57:15.372962+00:00",
+  "generated": "2026-10-20T10:02:29.304128+00:00",
   "date": "2026-10-20",
-  "count": 415,
+  "count": 431,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2907,6 +2907,118 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/bundesratswahl-mindestens-zehn-svp-kandidaten-im-rennen-art-1727763",
       "summary": "",
       "published": "2026-10-20T09:57:15.372962+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hackergruppe saugt Daten von Bundesräten und Elitesoldaten ab",
+      "url": "https://www.20min.ch/story/cyberangriff-hackergruppe-saugt-daten-von-bundesraeten-und-elitesoldaten-ab-103652500",
+      "summary": "Beim Cyberangriff auf einen externen Softwarelieferanten vieler Schweizer Pensionskassen wurden wohl auch Daten von alt Bundesräten, Geheimagenten und Elitesoldaten entwendet.",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ombudsmann-Kolumne: Welchen Journalismus brauchts heute?",
+      "url": "https://www.tagesanzeiger.ch/medienkrise-das-problem-ist-der-journalismus-selbst-201829596737",
+      "summary": "Ein Experte fordert, Journalismus müsse Dienstleistungen für die Gesellschaft erbringen statt eigenmächtig entscheiden, was wichtig ist.",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Regierung schickt Soldaten nach Mailand",
+      "url": "https://www.zentralplus.ch/news/regierung-schickt-soldaten-nach-mailand-2905922/",
+      "summary": "Nach den schweren Krawallen in Mailand will die italienische Regierung 500 weitere Soldaten nach Mailand schicken. Die Entscheidung fiel bei einer Krisensitzung unter dem Vorsitz von Ministerpräsident",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Preisdruck belastet den globalen Smartphone-Markt",
+      "url": "https://www.netzwoche.ch/news/2026-10-20/preisdruck-belastet-den-globalen-smartphone-markt",
+      "summary": "Der Smartphone-Markt schrumpft. Laut Omdia gingen die Verkäufe im dritten Quartal 2026 gegenüber dem Vorjahreszeitraum um 20 Prozent zurück. Kostendruck bei Arbeitsspeicher und Datenspeicherung hat da",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Bund schreibt Cloud-Aufträge für bis zu 7 Milliarden Franken aus",
+      "url": "https://www.netzwoche.ch/news/2026-10-20/bund-schreibt-cloud-auftraege-fuer-bis-zu-7-milliarden-franken-aus",
+      "summary": "Der Bund startet die Beschaffung für die Swiss Government Cloud. Er schreibt fünf Aufträge im Umfang von bis zu 7 Milliarden Franken aus. Die Ausschreibung umfasst drei Stufen: internationale Cloud-Di",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fc Luzern Schreibt Erneut Gewinn Spielraum Bleibt Klein",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/fc-luzern-schreibt-erneut-gewinn-spielraum-bleibt-klein-ld.4250470",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Neue Mühlaubrücke Wohl 2030 Befahrbar Günstigstes Angebot Gewählt",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/neue-muehlaubruecke-wohl-2030-befahrbar-guenstigstes-angebot-gewaehlt-ld.4253217",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Roman Leder aus Abtwil Wird Triathlon Vizeweltmeister",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/roman-leder-aus-abtwil-wird-triathlon-vizeweltmeister-ld.4251452",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Literaturhaus Thurgau Richtet Sich Neu aus",
+      "url": "https://www.tagblatt.ch/kultur/ostschweiz/literaturhaus-thurgau-richtet-sich-neu-aus-ld.4252596",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Gmünden Öffnet die Gefängnismauern für die Bevölkerung",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/gmuenden-oeffnet-die-gefaengnismauern-fuer-die-bevoelkerung-ld.4251127",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wie kann sich der Seebezirk nachhaltig entwickeln?",
+      "url": "https://www.freiburger-nachrichten.ch/story/297216/wie-kann-sich-der-seebezirk-nachhaltig-entwickeln",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Was sterbende Menschen wirklich bereuen",
+      "url": "https://www.freiburger-nachrichten.ch/story/298436/was-sterbende-menschen-wirklich-bereuen",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "50 Franken pro Witz: Stefan Büsser schreibt die wenigsten Pointen selber",
+      "url": "https://www.freiburger-nachrichten.ch/story/298435/50-franken-pro-witz-stefan-b%C3%BCsser-schreibt-die-wenigsten-pointen-selber",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das Doppel-Feld steht fest ++ Die letzten Wildcards sind vergeben ++ Zwei prominente Absagen",
+      "url": "https://www.freiburger-nachrichten.ch/story/298447/das-doppelfeld-steht-fest-die-letzten-wildcards-sind-vergeben-zwei-prominente-absagen",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der FC Luzern schreibt Gewinn – doch der Spielraum bleibt klein",
+      "url": "https://www.bote.ch/nachrichten/sport/fc-luzern-schreibt-erneut-gewinn-spielraum-bleibt-klein-art-1727765",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Automatische Reaktorschnellabschaltung im AKW Gösgen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/automatische-reaktorschnellabschaltung-im-kernkraftwerk-goesgen-art-1727755",
+      "summary": "",
+      "published": "2026-10-20T10:02:29.304128+00:00"
     }
   ]
 }
