@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T20:08:24.957005+00:00",
+  "generated": "2026-10-20T20:32:32.843265+00:00",
   "date": "2026-10-20",
-  "count": 885,
+  "count": 888,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6197,6 +6197,27 @@
       "url": "https://www.tagesanzeiger.ch/ehc-kloten-schlaegt-lausanne-4-3-und-ist-nicht-mehr-tabellenletzter-859154034832",
       "summary": "Der EHC Kloten kehrt auf die Siegerstrasse zurück. Die Zürcher bezwingen zu Hause Lausanne 4:3.",
       "published": "2026-10-20T20:08:24.957005+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Niederlage im 13. Spiel: Zu spät erwacht: Die ZSC Lions verlieren erstmals in dieser Saison",
+      "url": "https://www.tagesanzeiger.ch/zsc-lions-erste-niederlage-nach-zwoelf-siegen-gegen-hcd-351195684153",
+      "summary": "Am Samstag hatten die Zürcher den HCD noch 5:1 deklassiert, zu Hause kassieren sie beim 2:3 ihre erste Niederlage nach zwölf Spielen. Nach einem Fehlstart rannten sie vergeblich hinterher.",
+      "published": "2026-10-20T20:32:32.843265+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "VW ruft Elektroautos zurück",
+      "url": "https://www.zentralplus.ch/news/vw-ruft-elektroautos-zurueck-2906110/",
+      "summary": "Wegen fehlerhafter Batterien ruft der Autobauer VW weltweit fast 72’700 E-Autos in die Werkstätten. Betroffen sind demnach grösstenteils die VW-Modelle ID.3, ID.4, ID.7 und ID. Buzz sowie der Cupra Bo",
+      "published": "2026-10-20T20:32:32.843265+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gottéron kämpft bis zum Schluss, doch Ambri jubelt erneut",
+      "url": "https://www.freiburger-nachrichten.ch/story/298180/gottron-k%C3%A4mpft-bis-zum-schluss-doch-ambri-jubelt-erneut",
+      "summary": "",
+      "published": "2026-10-20T20:32:32.843265+00:00"
     }
   ]
 }
