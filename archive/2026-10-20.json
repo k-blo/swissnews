@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T00:02:41.724819+00:00",
+  "generated": "2026-10-20T00:32:40.314332+00:00",
   "date": "2026-10-20",
-  "count": 12,
+  "count": 18,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -86,6 +86,48 @@
       "url": "https://www.zentralplus.ch/news/selenski-wirft-usa-verzoegerung-vor-2905814/",
       "summary": "Der ukrainische Präsident Wolodimir Selenski wirft den USA vor, Waffenlieferungen absichtlich zu verzögern. Europäische Staaten hätten Patriot-Abwehrraketen bereits bezahlt und wollten sie der Ukraine",
       "published": "2026-10-20T00:02:41.724819+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Armeeunfall im Kanton Schwyz: Drei Soldaten bei Bootsunfall auf Vierwaldstättersee verletzt",
+      "url": "https://www.tagesanzeiger.ch/drei-soldaten-bei-bootsunfall-auf-vierwaldstaettersee-verletzt-472915725589",
+      "summary": "Bei einer Militärübung auf dem Vierwaldstättersee sind im Raum Gersau drei Armeeangehörige mit einem Ausbildungsboot verunfallt. Alle drei wurden verletzt und mussten ins Spital gebracht werden.",
+      "published": "2026-10-20T00:32:40.314332+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Frankreich Brennt und Macron Sucht den Feuerlöscher in Kuwait",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/frankreich-brennt-und-macron-sucht-den-feuerloescher-in-kuwait",
+      "summary": "",
+      "published": "2026-10-20T00:32:40.314332+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Mattea Meyers Svp Dilemma Verschonte Moscheen in Frankreich und Homosexüllen Hotspot Ceuta",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/mattea-meyers-svp-dilemma-verschonte-moscheen-in-frankreich-und-homosexuellen-hotspot-ceuta",
+      "summary": "",
+      "published": "2026-10-20T00:32:40.314332+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Steuerwettbewerb die Schweiz Bleibt Weltspitze wie Lange Noch",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/steuerwettbewerb-die-schweiz-bleibt-weltspitze-wie-lange-noch",
+      "summary": "",
+      "published": "2026-10-20T00:32:40.314332+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wenn Klimaschutz Gierig Macht",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/wenn-klimaschutz-gierig-macht",
+      "summary": "",
+      "published": "2026-10-20T00:32:40.314332+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Mord Schlägereien und Gewalt Gegen Beamte Sind Ausländerprobleme",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/mord-schlaegereien-und-gewalt-gegen-beamte-sind-auslaenderprobleme",
+      "summary": "",
+      "published": "2026-10-20T00:32:40.314332+00:00"
     }
   ]
 }
