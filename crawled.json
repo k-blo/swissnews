@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T20:32:32.843265+00:00",
+  "generated": "2026-10-20T21:03:22.348058+00:00",
   "date": "2026-10-20",
-  "count": 888,
+  "count": 890,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6218,6 +6218,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/298180/gottron-k%C3%A4mpft-bis-zum-schluss-doch-ambri-jubelt-erneut",
       "summary": "",
       "published": "2026-10-20T20:32:32.843265+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Champions League: PSG gewinnt wildes Gipfeltreffen gegen Barcelona, Kobel rettet Dortmund den Sieg",
+      "url": "https://www.tagesanzeiger.ch/champions-league-psg-schlaegt-barcelona-4-2-274963584071",
+      "summary": "Paris Saint-Germain bezwingt die Katalanen 4:2. Der BVB kommt dank Goalie Gregor Kobel und Stürmer Serhou Guirassy zu einem knappen Erfolg beim aserbaidschanischen Aussenseiter Sabah.",
+      "published": "2026-10-20T21:03:22.348058+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Volley Amriswil Gelingt Nla Auftakt Auswärtssieg Gegen Chenois",
+      "url": "https://www.tagblatt.ch/sport/thurgau/volley-amriswil-gelingt-nla-auftakt-auswaertssieg-gegen-chenois-ld.4253710",
+      "summary": "",
+      "published": "2026-10-20T21:03:22.348058+00:00"
     }
   ]
 }
