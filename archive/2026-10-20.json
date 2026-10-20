@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-19T23:32:40.877484+00:00",
+  "generated": "2026-10-20T00:02:41.724819+00:00",
   "date": "2026-10-20",
-  "count": 11,
+  "count": 12,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -79,6 +79,13 @@
       "url": "https://www.20min.ch/story/premiere-im-krieg-ukraine-rettet-verletzten-soldaten-erstmals-mit-einer-drohne-103652333",
       "summary": "Eine ukrainische Drohne hat einen verwundeten Soldaten über 62 Kilometer transportiert. Die Bergung dauerte mehr als eine Stunde und wäre auf herkömmlichem Weg für das Rettungsteam zu gefährlich gewes",
       "published": "2026-10-19T23:32:40.877484+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Selenski wirft USA Verzögerung vor",
+      "url": "https://www.zentralplus.ch/news/selenski-wirft-usa-verzoegerung-vor-2905814/",
+      "summary": "Der ukrainische Präsident Wolodimir Selenski wirft den USA vor, Waffenlieferungen absichtlich zu verzögern. Europäische Staaten hätten Patriot-Abwehrraketen bereits bezahlt und wollten sie der Ukraine",
+      "published": "2026-10-20T00:02:41.724819+00:00"
     }
   ]
 }
