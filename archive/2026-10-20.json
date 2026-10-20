@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T04:02:22.512653+00:00",
+  "generated": "2026-10-20T04:32:59.335586+00:00",
   "date": "2026-10-20",
-  "count": 180,
+  "count": 184,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1262,6 +1262,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/298247/die-zugstrecke-nach-bulle-bleibt-ein-umweg",
       "summary": "",
       "published": "2026-10-20T04:02:22.512653+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Politkolumne: Mythen zum Schweizer Wahlverhalten – und was die Forschung dazu sagt",
+      "url": "https://www.tagesanzeiger.ch/nationalratswahlen-2027-sechs-mythen-zum-wahlverhalten-939557932842",
+      "summary": "Spitzenplätze auf Listen, immer mehr Wahllisten, wachsende Polarisierung: Neue Studien widerlegen verbreitete Annahmen. Für die Parlamentswahlen 2027 gelten andere Regeln als gedacht.",
+      "published": "2026-10-20T04:32:59.335586+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Fast 400 Wohnungen für Muttenz: Beim Joggeli entsteht ein Mini­quartier, das bloss keine Schlafstadt sein will",
+      "url": "https://www.bazonline.ch/muttenz-drei-wohntuerme-im-schaenzli-wachsen-in-die-hoehe-553618318539",
+      "summary": "Das verloren anmutende Gebiet rund ums Stadion St. Jakob erhält eine eigene Identität. Ab Herbst 2027 werden die ersten Bewohner in die Überbauung «Am Schänzli» in Muttenz einziehen.",
+      "published": "2026-10-20T04:32:59.335586+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Streit um Windkraft: 60 neue Windräder im Baselbiet: Und Gemeinden sollen ihr Vetorecht abgeben",
+      "url": "https://www.bazonline.ch/windraeder-baselland-60-anlagen-geplant-vetorecht-soll-fallen-985210079150",
+      "summary": "Bei der Windkraft will die Regierung das Mitspracherecht einschränken. Befürworter schöpfen neue Hoffnung, Gegner äussern scharfe Kritik.",
+      "published": "2026-10-20T04:32:59.335586+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Neue Rassismusvorwürfe Gegen Farages Reform Uk",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/neue-rassismusvorwuerfe-gegen-farages-reform-uk-2201064",
+      "summary": "",
+      "published": "2026-10-20T04:32:59.335586+00:00"
     }
   ]
 }
