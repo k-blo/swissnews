@@ -1,16 +1,16 @@
 {
   "https://www.blick.ch/news/rss.xml": {
-    "last_modified": "Tue, 20 Oct 2026 17:30:58 GMT",
-    "etag": "\"7754e6a3712fbd14348a94051bbc3730\""
+    "last_modified": "Tue, 20 Oct 2026 17:45:51 GMT",
+    "etag": "\"a241482b88e45ff3cffee1f454badb4f\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"182c3-1vY58Jl/kJUgk7GsqVkDC9C/eiA\""
+    "etag": "W/\"182cd-10MZYiDbyIo79/vyYTRh8TsVTB8\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"d6ab-YP3XwnykB3l0yHs2FUgo/LN+7po\""
+    "etag": "W/\"da22-A/QfCwvwAYdnwymHemvk4jeHTKk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"ceee-SrkIqcTHObmRM0tMzAd8gfHG8Bk\""
+    "etag": "W/\"d1f1-6ZbdVx80vFUf0XdicgREvOsLmTs\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Tue, 20 Oct 2026 17:30:14 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1792516270\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Tue, 20 Oct 2026 17:28:52 GMT"
+    "last_modified": "Tue, 20 Oct 2026 17:58:54 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"cce4-xjup9qHknDu5fEhs2lg0hNSgeug\""
+    "etag": "W/\"cc22-68O8xX/5Y17CWyaQZ5eoPUHAGuQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"d736-pkImPuiaLk/c5/Z5boxYhaZuIQk\""
+    "etag": "W/\"d79f-KoA3tSZh3wKjV1lOHxTwgk4HPds\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Tue, 20 Oct 2026 17:06:55 GMT",
@@ -44,22 +44,22 @@
     "etag": "\"1792516015\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
-    "etag": "W/\"2c300-nzM8pxNqAlWQBe5xBY9ra3D19t8\""
+    "etag": "W/\"2c2af-W8U8TvvFlZT7vnVw2GoPTi605JA\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=14": {
     "last_modified": "Tue, 06 Oct 2026 04:14:25 GMT",
     "etag": "\"1791260065\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Tue, 20 Oct 2026 17:30:18 GMT",
-    "etag": "W/\"1792517418-gzip\""
+    "last_modified": "Tue, 20 Oct 2026 18:00:38 GMT",
+    "etag": "W/\"1792519238-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"1895b-nW+Wo2phNzVkJ/Oha64m9rE+xF0\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Tue, 20 Oct 2026 17:31:01 GMT",
-    "etag": "\"1792517461\""
+    "last_modified": "Tue, 20 Oct 2026 18:01:00 GMT",
+    "etag": "\"1792519260\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Fri, 31 Jul 2026 14:09:59 GMT",
