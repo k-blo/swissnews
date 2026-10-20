@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T09:03:10.405029+00:00",
+  "generated": "2026-10-20T09:32:18.659744+00:00",
   "date": "2026-10-20",
-  "count": 344,
+  "count": 391,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -2410,6 +2410,335 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/41-franken-steuern-erlassen-aber-ueber-1000-franken-busse-art-1727758",
       "summary": "",
       "published": "2026-10-20T09:03:10.405029+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Appenzell Innerrhoden – Schüsse aus fahrendem Auto bei Eggerstanden abgefeuert",
+      "url": "https://www.srf.ch/news/schweiz/appenzell-innerrhoden-schuesse-aus-fahrendem-auto-bei-eggerstanden-abgefeuert",
+      "summary": "Bei der Schussabgabe in Eggerstanden AI wurde niemand verletzt. Eine Gewalttat steht nicht im Fokus.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polarwirbel verformt sich – was bedeutet das für unseren Winter?",
+      "url": "https://www.blick.ch/schweiz/wetterphaenomen-polarwirbel-was-steckt-dahinter/9qbk78c",
+      "summary": "Der Polarwirbel ist aktuell wieder in aller Munde. Fakt ist: Das Windsystem in der Arktis wird derzeit von einer Hochdruckblockade verformt. Bedeutet das für uns einen eisigen Winter? Blick beantworte",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Zu viel Gemüse: Mann landet im Notfall und stirbt fast",
+      "url": "https://www.20min.ch/story/randen-methaemoglobinaemie-notfall-wechselwirkung-medikamente-gemuese-103652412",
+      "summary": "Randen gelten als gesund. Einem Mann aus den USA hätten sie beinahe den Tod gebracht. Er hatte schlichtweg zu viel davon gegessen. Das vertrug sich nicht mit einem Medikament.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach fast 20 Jahren: Der Cold Case Kerstin Lee Langley ist gelöst",
+      "url": "https://www.20min.ch/story/regensburg-d-nach-fast-20-jahren-der-cold-case-kerstin-lee-langley-ist-geloest-103652452",
+      "summary": "Im Fall einer seit Juli 2007 in Regensburg verschwundenen 39-Jährigen ist es zu einem entscheidenden Ermittlungserfolg gekommen. Eine 56-Jährige hat ein umfassendes Geständnis abgelegt.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "KI-Revolution: «Viele Studierende sind in Panik», sagt der ETH-Mathe-Professor",
+      "url": "https://www.tagesanzeiger.ch/ki-und-mathe-eth-professor-figalli-zum-anfang-vom-ende-307791438707",
+      "summary": "Es sei «der Anfang vom Ende», wenn wir das Denken vorschnell an KI delegieren, sagt Alessio Figalli. Er erklärt, warum Schülerinnen und Schüler immer noch Mathe büffeln sollten.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zenbox im Test: Mit diesem Puck vertrödelt man weniger Zeit am Handy",
+      "url": "https://www.tagesanzeiger.ch/zenbox-dieser-puck-sperrt-social-media-apps-am-handy-749199456833",
+      "summary": "Tricks gegen zu viel Zeit am Smartphone gibt es reichlich. Ein neues Gadget nimmt einem erfolgreich den Spass an Instagram und Co.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Einsatz an der Front: Ukraine meldet erstmals Rettung eines Soldaten mit Flugdrohne",
+      "url": "https://www.tagesanzeiger.ch/ukraine-drohne-rettet-erstmals-soldaten-von-der-front-735212192645",
+      "summary": "Weil Minen und russische Drohnen eine Bergung am Boden verhinderten, setzte die ukrainische Armee eine Flugdrohne ein. Ein Video zeigt die Rettungsaktion.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vogelplage in Uznach: «Sie fressen die Goldfische im Teich weg»: Ein Dorf kämpft gegen Störche",
+      "url": "https://www.tagesanzeiger.ch/stoerche-in-uznach-140-voegel-sorgen-fuer-unmut-740487770586",
+      "summary": "Der St. Galler Ort ist bekannt als Heimat der geschützten Vögel. Doch es hat zu viele von ihnen. Uznach verdreckt, der Unmut wächst – aber nun hat Storchenaktivist Bruno Bachmann einen Plan.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gastronomie in Winterthur: «Nuu’s Restaurant Eschenberg»: Neuer Pächter übernimmt Ausfluglokal",
+      "url": "https://www.tagesanzeiger.ch/eschenberg-winterthur-neuer-paechter-rettet-wirtin-mueller-560896307872",
+      "summary": "Besitzer Giovanni Cerfeda hatte das Restaurant Eschenberg in letzter Minute vor dem Konkurs gerettet. Nun hat er einen neuen Pächter gefunden. Die Gastgeberin bleibt jedoch dieselbe.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Treffen mit Mister Swiss Indoors: «Alles ist schwierig, bevor es einfach wird»",
+      "url": "https://www.tagesanzeiger.ch/swiss-indoors-roger-brennwald-mit-80-jahren-noch-voll-dabei-879925685225",
+      "summary": "Seit 1970 organisiert Roger Brennwald in Basel den grössten Sportevent der Schweiz, bei dem bereits Björn Borg und Roger Federer brillierten. 23 Leitsätze dienen ihm dabei als Führungs­kompass für das",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Projekt in Ausserholligen: Energie Wasser Bern reicht Baugesuch für Energiespeicher ein",
+      "url": "https://www.bernerzeitung.ch/energiespeicher-bern-ewb-reicht-baugesuch-ein-326005112841",
+      "summary": "Die beiden ehemaligen Öltanks im Gebiet Weyermannshaus sollen künftig Wärme aus der Energiezentrale Forsthaus zwischenspeichern. Der Baustart ist für Mitte 2027 vorgesehen.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kari Jalonen hat genug: Der zweifache SCB-Meistertrainer beendet seine Karriere",
+      "url": "https://www.bernerzeitung.ch/kari-jalonen-ex-scb-trainer-beendet-karriere-sofort-252934351237",
+      "summary": "Kari Jalonen besitzt bei Tappara Tampere eigentlich einen Zweijahresvertrag. Doch nun zieht der 66-Jährige den Schlussstrich.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stadt Luzern prüft neue Wege gegen Belästigung",
+      "url": "https://www.zentralplus.ch/news/stadt-luzern-prueft-neue-wege-gegen-belaestigung-2905855/",
+      "summary": "Sexuelle Belästigung bleibt am Arbeitsplatz oft ungemeldet. Die Stadt Luzern will den Schutz ihrer Mitarbeiter verbessern. Die Stadt Luzern will ihre Mitarbeiterinnen besser vor sexueller Belästigung ",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ausschreibung für Cloud-Infrastruktur",
+      "url": "https://www.zentralplus.ch/news/ausschreibung-fuer-cloud-infrastruktur-2905911/",
+      "summary": "Die Bundesverwaltung braucht ein neues System, um ihre Daten zu verarbeiten und zu speichern. Das bisherige stosse an seine Grenzen und werde den heutigen Anforderungen der Digitalisierung nicht mehr ",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Schweizer Vermögende wollen KI, aber keinen Roboter als Anlageberater",
+      "url": "https://www.finews.ch/news/finanzplatz/74064-kuenstliche-intelligenz-vermoegende-schweizer-anleger-persoenliche-beratung-neue-avaloq-studie-digitalisierung",
+      "summary": "Künstliche Intelligenz stösst bei vermögenden Schweizer Anlegern auf Interesse. Die persönliche Beratung soll sie allerdings nicht ersetzen. Gleichzeitig zeigt eine neue Avaloq-Studie, dass zahlreiche",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Finma genehmigt ersten Schweizer Bitcoin-ETF",
+      "url": "https://www.finews.ch/news/finanzplatz/74067-erster-schweizer-bitcoin-etf-finma-genehmigung-blackrock-marktleader",
+      "summary": "Die Finma hat erstmals einen börsengehandelten Fonds bewilligt, der direkt in Bitcoin investiert und auch Privatanlegern offensteht. Gleichzeitig warnt die Aufsicht vor den Risiken.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Digitales Gold: Studie sieht Marktpotenzial von 700 Milliarden Dollar",
+      "url": "https://www.finews.ch/news/finanzplatz/74063-studie-world-gold-council-unerschlossene-nachfragepotenzial-fuer-digitales-gold-700-milliarden-us-dollar-vertrauen-regulierung-und-eine-gemeinsame-infrastruktur",
+      "summary": "Eine neue Studie des World Gold Council beziffert das bislang unerschlossene Nachfragepotenzial für digitales Gold auf bis zu 700 Milliarden Dollar. Entscheidend für das künftige Wachstum seien Vertra",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Europas ETF-Markt auf Rekordkurs – Rohstoffe legen kräftig zu",
+      "url": "https://www.finews.ch/news/banken/74061-europaeischer-etf-markt-boom-mittelzufluesse-im-september-rekordquartal-rohstoff-etfs",
+      "summary": "Der Boom bei börsengehandelten Indexfonds hält an. Obwohl die Mittelzuflüsse im September etwas nachliessen, verzeichnete der europäische ETF-Markt ein weiteres Rekordquartal. Besonders auffällig ist ",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Langjähriger CEO der Incore Bank tritt nach Differenzen ab",
+      "url": "https://www.finews.ch/news/banken/74066-incore-ceo-ruecktritt-mark-dambacher",
+      "summary": "Bei der Incore Bank verlässt der langjährige CEO Mark Dambacher seinen Posten. Als Grund werden «unterschiedliche Auffassungen» genannt. Der Verwaltungsrat hat die Leitungsfunktion interimistisch dem ",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Asus bringt ProArt P16 mit Nvidia RTX Spark in die Schweiz",
+      "url": "https://www.netzwoche.ch/news/2026-10-20/asus-bringt-proart-p16-mit-nvidia-rtx-spark-in-die-schweiz",
+      "summary": "Asus bringt den ProArt P16 mit Nvidias RTX-Spark-Chip in die Schweiz. Der Laptop soll auch grössere KI-Modelle direkt auf dem Gerät ausführen können. Dafür stehen bis zu 128 Gigabyte Arbeitsspeicher z",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Drohnen der St. Galler Kantonspolizei in der Kritik",
+      "url": "https://www.inside-it.ch/drohnen-der-st-galler-kantonspolizei-in-der-kritik-20261020",
+      "summary": "Die Kantonspolizei St. Gallen nutzt neu Drohnen für Verkehrskontrollen. Nach Ansicht von drei Kantonsräten fehlen die rechtlichen Grundlagen für den Drohneneinsatz.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Das war kein Unfall» – Angriff auf eine Parlamentarierin erschüttert Australien",
+      "url": "https://www.nzz.ch/international/das-war-kein-unfall-angriff-auf-eine-parlamentarierin-erschuettert-australien-ld.10039104",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Diese 36 Filme stehen auf der Shortlist",
+      "url": "https://www.persoenlich.com/kategorie-werbung/diese-36-filme-stehen-auf-der-shortlist",
+      "summary": "Die 140-köpfige Jury des Schweizer Auftrags- und Werbefilmpreis hat die möglichen Gewinnerfilme nominiert. Die Preise werden am 5. November im Zürcher Schiffbau verliehen.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Geschäftsleitung hält am Stellenabbau fest",
+      "url": "https://www.persoenlich.com/medien/geschaftsleitung-halt-am-stellenabbau-fest",
+      "summary": "Kurz vor dem Protest der Redaktionen hat sich die Tamedia-Spitze an die Belegschaft gewandt. Sie weist die Kritik zurück und macht keine Zugeständnisse.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Jetzt wirds kühl und nass: Der Herbst hält Einzug in Schaffhausen",
+      "url": "https://www.shn.ch/region/kanton/2026-10-20/jetzt-wirds-kuehl-und-nass-der-herbst-haelt-einzug-in-schaffhausen",
+      "summary": "Mancherorts wird es diese Woche in der Schweiz schneien. So weit sind wir in Schaffhausen noch nicht, aber auch hier ist der Sommer definitiv vorbei. Diese Woche wird es frisch und feucht.",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Revolut Störung Banking und Support Funktionieren Nicht So Reagiert die Bank",
+      "url": "https://www.suedostschweiz.ch/panorama/revolut-stoerung-banking-und-support-funktionieren-nicht-so-reagiert-die-bank-2202572",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Frischkäse Rückruf bei Aldi Süd und Edeka Arla Meldet Möglichen Insektenbefall",
+      "url": "https://www.suedostschweiz.ch/panorama/frischkaese-rueckruf-bei-aldi-sued-und-edeka-arla-meldet-moeglichen-insektenbefall-2202528",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Trump Wegen Russlandkurs in der Kritik",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/trump-wegen-russlandkurs-in-der-kritik-2202389",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Tcs Konferenz zu Chancen und Risiken Autonomer Autos",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-tcs-konferenz-zu-chancen-und-risiken-autonomer-autos-ld.4251003",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "So Fadegrad Sammelte Unterschriften in Solothurn",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/so-fadegrad-sammelte-unterschriften-in-solothurn-ld.4253126",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Freundschaftsschiessen mit Suppe und Spatz",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/freundschaftsschiessen-mit-suppe-und-spatz-ld.4252988",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Bergdietikon Jugendliche nach Einbruch in Garage Festgenommen",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/bergdietikon-jugendliche-nach-einbruch-in-garage-festgenommen-ld.4253228",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Wildbienen auf dem Biohof von Brigitte Flühler in Giswil",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/wildbienen-auf-dem-biohof-von-brigitte-fluehler-in-giswil-ld.4250767",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chat-Futter: DEL-Goalie kassiert nach 4 Sekunden ein sehr faules Tor",
+      "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-del-goalie-kassiert-nach-4-sekunden-ein-sehr-faules-tor",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SP will weniger Süssigkeiten an Kassen – das sagen Coop und Migros",
+      "url": "https://www.watson.ch/schweiz/migros/266451330-sp-will-weniger-suessigkeiten-an-kassen-das-sagen-coop-und-migros",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Studie: Tierbestände im Golf von Mexiko drastisch gesunken",
+      "url": "https://www.watson.ch/international/umwelt/748049460-studie-tierbestaende-im-golf-von-mexiko-drastisch-gesunken",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "ABB holt im dritten Quartal massiv mehr Aufträge",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/982233684-abb-holt-im-dritten-quartal-massiv-mehr-auftraege",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "14 Tote bei Einsturz einer Goldmine in Kolumbien",
+      "url": "https://www.watson.ch/international/unfall/191847342-14-tote-bei-einsturz-einer-goldmine-in-kolumbien",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zürcher Polizei sucht Videos nach Ausschreitungen am Hardplatz",
+      "url": "https://www.watson.ch/schweiz/zuerich/542829036-zuercher-polizei-sucht-videos-nach-ausschreitungen-am-hardplatz",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kandidat blamiert sich bei «Wer wird Millionär?» bei fieser Sportfrage",
+      "url": "https://www.watson.ch/quiz/tv/942182994-kandidat-blamiert-sich-bei-wer-wird-millionaer-bei-fieser-sportfrage",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundesrat steht bei zweitem Luftabwehrsystem vor heiklem Entscheid",
+      "url": "https://www.watson.ch/schweiz/armee/160430503-bundesrat-steht-bei-zweitem-luftabwehrsystem-vor-heiklem-entscheid",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ex-Gemeindepräsident im Fall Crans-Montana erneut befragt",
+      "url": "https://www.watson.ch/schweiz/crans-montana/195344791-ex-gemeindepraesident-im-fall-crans-montana-erneut-befragt",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mehr Flüge in Europa: Das ist der Sommerflugplan 2027 der Swiss",
+      "url": "https://www.watson.ch/schweiz/luftfahrt/107290174-mehr-fluege-in-europa-das-ist-der-sommerflugplan-2027-der-swiss",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SP-Nationalrat fordert Fähigkeitsausweis für Kutschenfahrer",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/598506359-sp-nationalrat-fordert-faehigkeitsausweis-fuer-kutschenfahrer",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Klare Mehrheit in Alberta gegen Unabhängigkeit von Kanada",
+      "url": "https://www.freiburger-nachrichten.ch/story/298433/klare-mehrheit-in-alberta-gegen-unabh%C3%A4ngigkeit-von-kanada",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Dann hört man nur noch Bzzzzz»: So lebt es sich auf einem Biohof",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/wildbienen-auf-dem-biohof-von-brigitte-fluehler-in-giswil-art-1727761",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Werden wir künftig überhaupt noch selber Auto fahren dürfen?» Wenn die KI das Steuer übernimmt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-tcs-konferenz-zu-chancen-und-risiken-autonomer-autos-art-1727759",
+      "summary": "",
+      "published": "2026-10-20T09:32:18.659744+00:00"
     }
   ]
 }
