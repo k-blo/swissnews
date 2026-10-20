@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T20:02:31.213663+00:00",
+  "generated": "2026-10-20T20:08:24.957005+00:00",
   "date": "2026-10-20",
-  "count": 884,
+  "count": 885,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -6190,6 +6190,13 @@
       "url": "https://www.watson.ch/international/deutschland/594219509-afd-mails-geleaked-nazi-parolen-und-interne-mails-im-netz-aufgetaucht",
       "summary": "",
       "published": "2026-10-20T20:02:31.213663+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "National League: Kloten zeigt Moral und gewinnt nach 0:2-Rückstand",
+      "url": "https://www.tagesanzeiger.ch/ehc-kloten-schlaegt-lausanne-4-3-und-ist-nicht-mehr-tabellenletzter-859154034832",
+      "summary": "Der EHC Kloten kehrt auf die Siegerstrasse zurück. Die Zürcher bezwingen zu Hause Lausanne 4:3.",
+      "published": "2026-10-20T20:08:24.957005+00:00"
     }
   ]
 }
