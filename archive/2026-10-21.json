@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T07:02:39.835336+00:00",
+  "generated": "2026-10-21T07:32:44.441336+00:00",
   "date": "2026-10-21",
-  "count": 238,
+  "count": 267,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -1668,6 +1668,209 @@
       "url": "https://www.bote.ch/nachrichten/sport/davos-stoppt-zsc-lions-erste-niederlage-im-13-spiel-art-1727913",
       "summary": "",
       "published": "2026-10-21T07:02:39.835336+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Bund erhöht Wetter-Gefahrenstufe für Südostschweiz",
+      "url": "https://www.blick.ch/schweiz/wetterwarnung-bis-zu-120-millimeter-regen-im-tessin/1pzbh9r",
+      "summary": "Der Bund warnt am Mittwoch vor kräftigem Regen im Südosten der Schweiz: Im Westen des Tessins werden bis zu 120 Millimeter erwartet. In betroffenen Regionen gilt Gefahrenstufe 2 von 5, Gewässer können",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "NZZ ernennt neuen Chefredaktor",
+      "url": "https://www.20min.ch/story/gujer-nachfolge-nzz-ernennt-neuen-chefredaktor-103653138",
+      "summary": "Der Finanzjournalist Mark Dittli folgt auf Eric Gujer. Er tritt die Stelle am 1. Februar 2027 an.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach SUV-Angriff – jetzt verliert Helen Haines auch zweites Bein",
+      "url": "https://www.20min.ch/story/politikerin-in-australien-nach-suv-angriff-jetzt-verliert-helen-haines-auch-zweites-bein-103653124",
+      "summary": "Die australische Politikerin Helen Haines wurde von einem Auto erfasst. Am Mittwoch mussten Ärzte auch ihr zweites Bein amputieren. Ihr Ehemann berichtet über ihren Zustand.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verkauf über Webseite: Betrüger ergaunert mit gefälschten Briefmarken einen Millionenbetrag",
+      "url": "https://www.tagesanzeiger.ch/betrug-mann-ergaunert-mit-briefmarken-millionenbetrag-491131457502",
+      "summary": "Ein 33-Jähriger richtete bei der US-Post einen Schaden von über 126 Millionen Dollar an. Die Behörde nahm ihn in Pakistan fest.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Auswärtsspiel in Aserbaidschan: Die Dortmund-Stars um Kobel gehen nach dem Spiel nicht duschen",
+      "url": "https://www.tagesanzeiger.ch/legionellen-angst-bvb-stars-duschen-nicht-in-baku-439124868360",
+      "summary": "Nachdem Dortmund in der Champions League 2:1 bei FK Sabah gewonnen hatte, verzichteten die Spieler auf eine Dusche. Diese nahmen die Stars dann im Hotel.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Geldberater zur Vorsorgeplanung: Mit 58 raus – und dann? Die AHV kann die Frühpensionierung verteuern!",
+      "url": "https://www.tagesanzeiger.ch/fruehpensionierung-was-die-ahv-rente-ab-58-kostet-596159327001",
+      "summary": "Die Pensionskasse mag geregelt sein, doch bei der AHV lauern offene Rechnungen. Wer zu früh geht, zahlt als Nichterwerbstätiger weiter.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Proteste in Griechenland: Zeltlager in Athen – Grossaufgebot der Polizei soll Ausschreitungen verhindern",
+      "url": "https://www.tagesanzeiger.ch/athen-streiks-und-proteste-gegen-hohe-bildungskosten-429036880271",
+      "summary": "Gewerkschaften, Schüler und Studenten rufen in der Hauptstadt und ganz Griechenland zu Streiks und Demonstrationen auf. Sie protestieren gegen hohe Lebenshaltungs- und Bildungskosten.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nichte von US-Gesundheitsminister: Kyle Kennedy mit 42 Jahren verstorben",
+      "url": "https://www.tagesanzeiger.ch/kyle-kennedy-enkelin-von-rfk-stirbt-mit-42-jahren-697079853716",
+      "summary": "Die Enkelin von Robert F. «Bobby» Kennedy litt nach einer schweren Rückenmarksverletzung lange unter gesundheitlichen Problemen. Es ist ein weiterer früher Tod in der berühmten Familie.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Badi Uetendorf: Schwimmbadgenossenschaft sucht Pächter für Bistro",
+      "url": "https://www.bernerzeitung.ch/badi-uetendorf-schwimmbadgenossenschaft-sucht-bistro-paechter-421916030691",
+      "summary": "Die Schwimmbadgenossenschaft Uetendorf vergibt das Badi-Bistro für die kommende Saison neu. Bewerbungen sind bis zum 20. November 2026 einzureichen.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Störung bei Google Cloud beeinträchtigt zahlreiche Dienste in der Schweiz und Europa",
+      "url": "https://www.netzwoche.ch/news/2026-10-21/stoerung-bei-google-cloud-beeintraechtigt-zahlreiche-dienste-in-der-schweiz-und",
+      "summary": "Ein Stromausfall in einem Londoner Rechenzentrum von Google Cloud hat zahlreiche Onlinedienste in Europa beeinträchtigt. Betroffen war unter anderem die Neobank Revolut, die in der Schweiz 1,3 Million",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "AUS DER REDAKTION - Mark Dittli wird neuer Chefredaktor der NZZ",
+      "url": "https://www.nzz.ch/schweiz/mark-dittli-wird-neuer-chefredaktor-der-nzz-ld.10040042",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Mark Dittli wird neuer Chefredaktor",
+      "url": "https://www.persoenlich.com/medien/mark-dittli-wird-neuer-chefredaktor",
+      "summary": "Der heutige Geschäftsführer und Redaktor von «The Market» folgt per 1. Februar auf Eric Gujer. Dieser übernimmt die neu geschaffene Rolle des Herausgebers Deutschland.",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Bundesrats-kandidatin aus Genf",
+      "url": "https://www.shn.ch/forum-meinung/leserbriefe/2026-10-21/die-bundesrats-kandidatin-aus-genf",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die gute alte Zeit",
+      "url": "https://www.shn.ch/forum-meinung/leserbriefe/2026-10-21/die-gute-alte-zeit",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Einsicht und Weitsicht",
+      "url": "https://www.shn.ch/forum-meinung/leserbriefe/2026-10-21/einsicht-und-weitsicht",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Junge Menschen brauchen Chancen statt Absagen!",
+      "url": "https://www.shn.ch/forum-meinung/leserbriefe/2026-10-21/junge-menschen-brauchen-chancen-statt-absagen",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Neuhausens üble Visitenkarte",
+      "url": "https://www.shn.ch/forum-meinung/leserbriefe/2026-10-21/neuhausens-ueble-visitenkarte",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kontrollen bei Schulwegen 480 Autos zu Schnell Unterwegs",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/kontrollen-bei-schulwegen-480-autos-zu-schnell-unterwegs-ld.4253747",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Pfas im Bewegungspark auf dem Papieri Areal in Cham",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/pfas-im-bewegungspark-auf-dem-papieri-areal-in-cham-ld.4253753",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Festnahmen bei Antimafia-Aktion in Italien, Spanien und der Schweiz",
+      "url": "https://www.watson.ch/schweiz/international/300031740-festnahmen-bei-antimafia-aktion-in-italien-spanien-und-der-schweiz",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zuschauerzahlen im Schweizer Frauenfussball seit der Heim-EM viel höher",
+      "url": "https://www.watson.ch/sport/fussball/627769310-zuschauerzahlen-im-schweizer-frauenfussball-seit-der-heim-em-viel-hoeher",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Staatsratskandidatin  Kirthana Wickramasingam",
+      "url": "https://www.freiburger-nachrichten.ch/story/298738/staatsratskandidatin-kirthana-wickramasingam",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bahnhof Oerlikon: Mann wirft Molotowcocktail auf Perron",
+      "url": "https://www.freiburger-nachrichten.ch/story/298731/bahnhof-oerlikon-mann-wirft-molotowcocktail-auf-perron",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Regenbogenverein sucht Deutschsprachige – 30 Jahre Sarigai",
+      "url": "https://www.freiburger-nachrichten.ch/story/298423/regenbogenverein-sucht-deutschsprachige-30-jahre-sarigai",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Entlassungen bei Tamedia: «Viele haben schlaflose Nächte»",
+      "url": "https://www.freiburger-nachrichten.ch/story/298732/entlassungen-bei-tamedia-viele-haben-schlaflose-n%C3%A4chte",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Meta verspricht Gleichbehandlung von Lula und Bolsonaro vor Stichwahl",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/brasilien-meta-behandelt-lula-und-bolsonaro-gleich-art-1727920",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Prinzessin Kate verzaubert bei glamourösem Staatsbankett",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/prinzessin-kate-verzaubert-bei-glamouroesem-staatsbankett-art-1727919",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kontrollen bei Schulwegen: 480 Autos zu schnell unterwegs",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kontrollen-bei-schulwegen-480-autos-zu-schnell-unterwegs-art-1727918",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Noch mehr PFAS auf dem Papieri-Areal nachgewiesen: Bewegungspark für Kinder öffnet nicht mehr",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/pfas-im-bewegungspark-auf-dem-papieri-areal-in-cham-art-1727917",
+      "summary": "",
+      "published": "2026-10-21T07:32:44.441336+00:00"
     }
   ]
 }
