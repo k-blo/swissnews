@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20T23:32:12.299144+00:00",
+  "generated": "2026-10-21T00:02:33.593462+00:00",
   "date": "2026-10-21",
-  "count": 20,
+  "count": 22,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -142,6 +142,20 @@
       "url": "https://www.tagesanzeiger.ch/kernkraftwerk-goesgen-wieder-am-netz-188246838588",
       "summary": "Nach einer automatischen Reaktorschnellabschaltung am Dienstagmorgen hat das Kernkraftwerk Gösgen die Stromproduktion am Abend wieder aufgenommen.",
       "published": "2026-10-20T23:02:49.941378+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Gute Idee»: Tesla und SpaceX prüfen Zusammenschluss",
+      "url": "https://www.20min.ch/story/elon-musk-bestaetigt-gute-idee-tesla-und-spacex-pruefen-zusammenschluss-103653026",
+      "summary": "Über eine mögliche Fusion des Autobauers Tesla und der Weltraumfirma SpaceX wird schon lange spekuliert. Jetzt verkündet Elon Musk, der beide Unternehmen führt, einen ersten Schritt in diese Richtung.",
+      "published": "2026-10-21T00:02:33.593462+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Erneute Ausgangssperren in Frankreich",
+      "url": "https://www.zentralplus.ch/news/erneute-ausgangssperren-in-frankreich-2906118/",
+      "summary": "In mehreren französischen Städten gilt auch in der Nacht auf Mittwoch wieder eine Ausgangssperre. Zum Beispiel in Teilen der Hauptstadt Paris von 23 Uhr bis 6 Uhr morgens. Die Behörden reagierten dami",
+      "published": "2026-10-21T00:02:33.593462+00:00"
     }
   ]
 }
