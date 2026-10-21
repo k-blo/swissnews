@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T01:02:14.950772+00:00",
+  "generated": "2026-10-21T01:32:31.962305+00:00",
   "date": "2026-10-21",
-  "count": 29,
+  "count": 30,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -205,6 +205,13 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/artikel-ld.4236406",
       "summary": "",
       "published": "2026-10-21T01:02:14.950772+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
+      "url": "https://www.watson.ch/wirtschaft/international/753821336-musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss",
+      "summary": "",
+      "published": "2026-10-21T01:32:31.962305+00:00"
     }
   ]
 }
