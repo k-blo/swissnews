@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T13:08:48.955605+00:00",
+  "generated": "2026-10-21T13:32:48.423728+00:00",
   "date": "2026-10-21",
-  "count": 557,
+  "count": 578,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -3901,6 +3901,153 @@
       "url": "https://www.watson.ch/international/klima/471548087-who-mehr-fruehgeburten-bei-hitze-behoerden-sollen-vorsorgen",
       "summary": "",
       "published": "2026-10-21T13:08:48.955605+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Akute Notlage wegen Fehler in PHP: Kritische Sicherheitslücke gefährdet den sicheren Betrieb von Webseiten weltweit",
+      "url": "https://www.tagesanzeiger.ch/php-sicherheitsluecke-webseiten-weltweit-in-gefahr-566955700705",
+      "summary": "Ein Fehler in der weitverbreiteten Skriptsprache PHP erlaubt Hackern die komplette Übernahme von Webseiten. Weil Details dazu vorzeitig öffentlich wurden, sollen Unternehmen und Gemeinde nun ihre Port",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ukraine im Dauerbeschuss: Cherson kämpft ums Überleben: «Es geht um Terror gegen Zivilisten, sonst nichts»",
+      "url": "https://www.tagesanzeiger.ch/cherson-2000-drohnenangriffe-pro-woche-bedrohen-stadt-658602334235",
+      "summary": "Die Stadt zählt jede Woche 2000 russische Drohnenangriffe: auch auf Frauen, Alte, Kinder. Nun droht ein Winter ohne Heizung. Militärverwalter Schanko sagt, wie die Menschen das aushalten.",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Thuner Wassershows auf Erfolgskurs: Ansturm auf den Wasserzauber – Adrian Gfeller ist das Gesicht der Rekordshow",
+      "url": "https://www.bernerzeitung.ch/wasserzauber-in-thun-publikumsrekord-dank-bluemlisalp-kapitaen-723800053130",
+      "summary": "Schon jetzt ist klar: Der Thuner Wasserzauber endet am Sonntag mit einem Zuschauerrekord. Auch dank «Blüemlere»-Kapitän Adrian Gfeller. Wer ist der Mann am Dampfschiffsteuer?",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vorfall im Berner Oberland: Nächster Sabotageakt gegen Basejumper: Unbekannte spannen Nylonfaden an Absprungort",
+      "url": "https://www.bernerzeitung.ch/lauterbrunnen-wieder-nylonfaden-bei-basejumpern-entdeckt-259093856856",
+      "summary": "Zum fünften Mal innert Wochen geraten Flugsportler ins Visier: An einer beliebten Absprunkante im Berner Oberland lag eine Falle auf Knöchelhöhe. Verletzt wurde niemand, die Polizei ermittelt.",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Auf Drogen in Balsthal unterwegs: Sie wollte überholen, verlor die Kontrolle – und kollidierte mit entgegenkommendem Auto",
+      "url": "https://www.bernerzeitung.ch/balsthal-solothurn-frau-auf-drogen-nach-ueberholmanoever-verletzt-145539939268",
+      "summary": "Am Mittwochmorgen ist es zu dem Unfall gekommen. Dabei wurde die mutmassliche Unfallverursacherin mittelschwer verletzt. Die Polizei nahm ihr den Führerschein ab.",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Auf Drogen in Balsthal SO unterwegs: Sie wollte überholen, verlor die Kontrolle – und kollidierte mit entgegenkommendem Auto",
+      "url": "https://www.bazonline.ch/balsthal-solothurn-frau-auf-drogen-nach-ueberholmanoever-verletzt-145539939268",
+      "summary": "Am Mittwochmorgen ist es zu dem Unfall gekommen. Dabei wurde die mutmassliche Unfallverursacherin mittelschwer verletzt. Die Polizei nahm ihr den Führerschein ab.",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "EU ermittelt gegen Booking.com",
+      "url": "https://www.zentralplus.ch/news/eu-ermittelt-gegen-booking-com-2906255/",
+      "summary": "Die EU-Kommission hat Ermittlungen gegen die Buchungsplattform Booking.com aufgenommen, um zu klären, ob das Unternehmen genug gegen Betrugsversuche unternimmt. Laut der Kommission wurden allein in de",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Kritische PHP-Lücken gefährden Webserver weltweit",
+      "url": "https://www.inside-it.ch/kritische-php-luecken-gefaehrden-webserver-weltweit-20261021",
+      "summary": "Zwei kritische Schwachstellen in PHP könnten Angreifern ermöglichen, Webserver aus der Ferne zu übernehmen. Die angekündigten Sicherheitsupdates sollen umgehend eingespielt werden.",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Grossbritannien will im Kampf gegen die Huthi helfen – und entsendet Kampfjets nach Saudiarabien",
+      "url": "https://www.nzz.ch/international/grossbritannien-hilft-saudiarabien-kampfjets-gegen-huthi-bedrohung-ld.10040119",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Alice Schwarzer beendet «Emma» – die Themen indes haben sich nicht erledigt",
+      "url": "https://www.nzz.ch/feuilleton/alice-schwarzer-beendet-emma-die-themen-indes-haben-sich-nicht-erledigt-ld.10040364",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Drohnen im Tank und ein Esel voller Sprengstoff: An der syrisch-libanesischen Grenze tobt ein versteckter Kampf um Irans Nachschublinie",
+      "url": "https://www.nzz.ch/international/drohnen-im-tank-und-ein-esel-voller-sprengstoff-an-der-syrisch-libanesischen-grenze-tobt-ein-versteckter-kampf-um-irans-nachschublinie-ld.10026715",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Premiere lockt rund 160 Fachleute nach Bern",
+      "url": "https://www.persoenlich.com/prcorporate-communication/premiere-lockt-rund-160-fachleute-nach-bern",
+      "summary": "Die neue Konferenz zu Organisationsmodellen in der Unternehmenskommunikation war Wochen im Voraus ausverkauft. Im Oktober 2027 folgt die Fortsetzung in Zürich.",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Abtreibungen bleiben in Liechtenstein strafbar",
+      "url": "https://www.shn.ch/diverses/dies-und-das/2026-10-21/abtreibungen-bleiben-in-liechtenstein-strafbar",
+      "summary": "Ein Gesetz zur Legalisierung von Schwangerschaftsabbrüchen in Liechtenstein scheitert am Fürstenhaus. Erbprinz Alois macht von seinem Vetorecht Gebrauch.",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Berner Bau Mäzen Bruno Marazzi Hinterlässt Frustrierte Gläubiger",
+      "url": "https://www.bilanz.ch/unternehmen/berner-bau-maezen-bruno-marazzi-hinterlaesst-frustrierte-glaeubiger/nennsc1",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Produktion Eingestellt Villiger Karrt Maschinen in die Schweiz",
+      "url": "https://www.bilanz.ch/unternehmen/produktion-eingestellt-villiger-karrt-maschinen-in-die-schweiz/tsfbfp9",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Polizei Fasst Bündner Autodieb auf Frischer Tat",
+      "url": "https://www.suedostschweiz.ch/graubuenden/polizei-fasst-buendner-autodieb-auf-frischer-tat-2204274",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Palliativ Luzern Startet Woche zum Leben mit dem Tod",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-palliativ-luzern-startet-woche-zum-leben-mit-dem-tod-ld.4250058",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarau Wasserqualität Bleibt Hoch und Stabil",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-wasserqualitaet-bleibt-hoch-und-stabil-ld.4254006",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Brittnau Erwartet 2027 ein Minus im Gemeindehaushalt",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/brittnau-erwartet-2027-ein-minus-im-gemeindehaushalt-ld.4253908",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Petition für die Samaritergasse abgelehnt – Verein fordert Dialog",
+      "url": "https://www.freiburger-nachrichten.ch/story/298801/petition-f%C3%BCr-die-samaritergasse-abgelehnt-verein-fordert-dialog",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Palliativmedizin sollte schon&nbsp;bei der Diagnose ansetzen» – warum wir mehr übers Sterben reden müssen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-palliativ-luzern-startet-woche-zum-leben-mit-dem-tod-art-1727975",
+      "summary": "",
+      "published": "2026-10-21T13:32:48.423728+00:00"
     }
   ]
 }
