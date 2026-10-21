@@ -1,6 +1,105 @@
 {
-  "generated": "2026-10-21T22:02:33.923542+00:00",
+  "generated": "2026-10-21T22:32:40.176600+00:00",
   "date": "2026-10-22",
-  "count": 0,
-  "articles": []
+  "count": 14,
+  "articles": [
+    {
+      "source": "20 Minuten",
+      "title": "Meta investiert 135 Milliarden in KI",
+      "url": "https://www.20min.ch/story/ki-ausbau-meta-investiert-135-milliarden-in-ki-103653731",
+      "summary": "Mark Zuckerberg lässt den Meta-Konzern riesige Summen in die KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern.",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "KI-Wettrüsten nach Rekordgewinn: Meta will mindestens 135 Milliarden Dollar in KI investieren",
+      "url": "https://www.tagesanzeiger.ch/meta-investiert-135-milliarden-dollar-in-ki-865636529635",
+      "summary": "Mark Zuckerberg hat die Ausgabenprognose für die KI-Infrakstruktur des Meta-Konzerns erneut erhöht. Das Geld dafür soll das boomende Werbegeschäft liefern.",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zusammen neue Saiten aufgezogen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/zusammen-neue-saiten-aufgezogen-art-1727968",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Von einer anderen Seite betrachtet",
+      "url": "https://www.bote.ch/service/leserbriefe/von-einer-anderen-seite-betrachtet-art-1727974",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Superdividende?",
+      "url": "https://www.bote.ch/service/leserbriefe/superdividende-art-1727972",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer leben weniger lang als die meisten ihrer Nachbarn",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-leben-weniger-lang-als-die-meisten-ihrer-nachbarn-art-1727936",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rengg",
+      "url": "https://www.bote.ch/nachrichten/schwyz/rengg-art-1727961",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neuer Charity-Anlauf mit Herz für den Nachwuchs",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/neuer-charity-anlauf-mit-herz-fuer-den-nachwuchs-art-1727976",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mehr Hochschule, bessere Lehrer?",
+      "url": "https://www.bote.ch/service/leserbriefe/mehr-hochschule-bessere-lehrer-art-1727973",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ja zum Kriegsmaterialgesetz",
+      "url": "https://www.bote.ch/service/leserbriefe/ja-zum-kriegsmaterialgesetz-art-1727971",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Im Mythen Center wird um den Sieg gespielt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/im-mythen-center-wird-um-den-sieg-gespielt-art-1728011",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Hundehalterin wollte nach Einschläferung in Schwyzer Tierklinik Schadenersatz",
+      "url": "https://www.bote.ch/nachrichten/schwyz/hundehalterin-wollte-nach-einschlaeferung-in-schwyzer-tierklinik-schadenersatz-art-1727965",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein besonderes Gemeinschaftskonzert mit gefühlvollen Klängen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ein-besonderes-gemeinschaftskonzert-mit-gefuehlvollen-klaengen-art-1727979",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dies sind die Highlights vom Wochenende",
+      "url": "https://www.bote.ch/nachrichten/schwyz/dies-sind-die-highlights-vom-wochenende-art-1728012",
+      "summary": "",
+      "published": "2026-10-21T22:32:40.176600+00:00"
+    }
+  ]
 }
