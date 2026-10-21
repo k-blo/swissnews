@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T23:02:47.861294+00:00",
+  "generated": "2026-10-21T23:32:50.275712+00:00",
   "date": "2026-10-22",
-  "count": 17,
+  "count": 21,
   "articles": [
     {
       "source": "20 Minuten",
@@ -121,6 +121,34 @@
       "url": "https://www.infosperber.ch/politik/keine-loesung-ohne-druck-auf-israel/",
       "summary": "",
       "published": "2026-10-21T23:02:47.861294+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Strom, Telefon und Verkehr beeinträchtigt: Teile Südfrankreichs stehen nach Unwettern unter Wasser – drei Tote",
+      "url": "https://www.tagesanzeiger.ch/unwetter-in-suedfrankreich-drei-tote-in-marseille-region-816032676442",
+      "summary": "Überflutete Strassen und Stromausfälle: Besonders Arles und Saint-Martin-de-Crau treffen die heftigen Regenfälle schwer.",
+      "published": "2026-10-21T23:32:50.275712+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach den Ausschreitungen in Frankreich: Le Pen legt in neuer Umfrage für Präsidentschaft zu",
+      "url": "https://www.tagesanzeiger.ch/le-pen-umfragewerte-legen-nach-ausschreitungen-in-frankreich-zu-348335628412",
+      "summary": "In der ersten Umfrage zur Präsidentschaft nach den Unruhen legt die Rechtsnationale Le Pen zu. Doch noch ist unklar, wer für die anderen Parteien antritt – ein Verfahren könnte Le Pen noch ausbremsen.",
+      "published": "2026-10-21T23:32:50.275712+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Russland beschiesst Kiew erneut",
+      "url": "https://www.zentralplus.ch/news/russland-beschiesst-kiew-erneut-2906356/",
+      "summary": "Russland hat die ukrainische Hauptstadt Kiew erneut mit ballistischen Raketen angegriffen. Laut Stadtpräsident Vitali Klitschko wurden am späten Mittwochabend mindestens sechs Menschen verletzt. Wohng",
+      "published": "2026-10-21T23:32:50.275712+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Selenski würde Frontlinien akzeptieren",
+      "url": "https://www.zentralplus.ch/news/selenski-wuerde-frontlinien-akzeptieren-2906354/",
+      "summary": "Der ukrainische Präsident Wolodimir Selenski wäre bereit, im Ukraine-Krieg die aktuellen Frontlinien zu akzeptieren. Das sagte er dem US-Sender Fox News. Er denke, dies sei ein realistischer Weg, den ",
+      "published": "2026-10-21T23:32:50.275712+00:00"
     }
   ]
 }
