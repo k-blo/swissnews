@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T17:02:38.269473+00:00",
+  "generated": "2026-10-21T17:32:38.439109+00:00",
   "date": "2026-10-21",
-  "count": 862,
+  "count": 876,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -6036,6 +6036,104 @@
       "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/parmelin-nachfolge-auch-mike-egger-verzichtet-auf-kandidatur-ld.4254281",
       "summary": "",
       "published": "2026-10-21T17:02:38.269473+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "116 Kinder starben: Aberfan verfolgte die Queen ihr Leben lang",
+      "url": "https://www.20min.ch/story/aberfan-koenig-charles-und-prinz-william-gedenken-der-116-toten-kinder-103653414",
+      "summary": "Vor 60 Jahren begrub eine Schlammlawine in Aberfan eine Schule unter sich. 116 Kinder starben. Nun gedenken König Charles und Prinz William der Opfer.",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Brite verspottet Schweizer Polizei in Video – Verfahren eröffnet",
+      "url": "https://www.20min.ch/story/sustenpass-brite-verspottet-schweizer-polizei-in-video-verfahren-eroeffnet-103653498",
+      "summary": "Ein britischer Youtuber wird auf dem Sustenpass von der Polizei ermahnt. Anschliessend stellt er seine Supercar-Tour ins Netz. Die Aufnahmen haben nun ein Verfahren ausgelöst.",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Akute Notlage wegen Fehler in PHP: Kritische Sicherheitslücke macht Webseiten weltweit angreifbar",
+      "url": "https://www.bernerzeitung.ch/php-sicherheitsluecke-webseiten-weltweit-in-gefahr-566955700705",
+      "summary": "Ein Fehler in der weitverbreiteten Skriptsprache PHP erlaubt Hackern die komplette Übernahme von Webseiten. Weil Details dazu vorzeitig öffentlich wurden, sollen Unternehmen und Gemeinde nun ihre Port",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Angreifer könnten Server übernehmen",
+      "url": "https://www.zentralplus.ch/news/angreifer-koennten-server-uebernehmen-2906328/",
+      "summary": "In der Programmiersprache PHP ist eine Sicherheitslücke entdeckt worden. Bei PHP handle es sich um eine Programmiersprache, die auf sehr vielen Webservern laufe, sagt SRF-Digitalredaktor Jürg Tschirre",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Unterägeri rechnet mit Überschuss und senkt Steuern",
+      "url": "https://www.zentralplus.ch/news/unteraegeri-rechnet-mit-ueberschuss-und-senkt-steuern-2906321/",
+      "summary": "Unterägeri will die Bevölkerung steuerlich entlasten. Gleichzeitig sollen Millionen in verschiedene Projekte fliessen. Die Gemeinde Unterägeri rechnet für 2027 mit einem Überschuss von 500&#8217;000 F",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Kritische PHP-Sicherheitslücken machen Websites angreifbar",
+      "url": "https://www.netzwoche.ch/news/2026-10-21/kritische-php-sicherheitsluecken-machen-websites-angreifbar",
+      "summary": "In der Programmiersprache PHP sind zwei gravierende Schwachstellen entdeckt worden. Über diese können Cyberkriminelle Webserver ohne Anmeldung übernehmen. Die PHP-Entwickler haben Updates veröffentlic",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Zangger zum Lakers Absturz",
+      "url": "https://www.suedostschweiz.ch/linth/zangger-zum-lakers-absturz-2203664",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Nach den Mafia Fällen im Misox So Konseqünt Greift Graubünden Jetzt Durch",
+      "url": "https://www.suedostschweiz.ch/graubuenden/nach-den-mafia-faellen-im-misox-so-konsequent-greift-graubuenden-jetzt-durch-2195292",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Bündner Regierung Sieht Keine Notwendigkeit für Olympia Abstimmung 2",
+      "url": "https://www.suedostschweiz.ch/graubuenden/buendner-regierung-sieht-keine-notwendigkeit-fuer-olympia-abstimmung-2-2204796",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Mitte Aargau Karin Koch Wick Gibt das Co Präsidium Ab",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/mitte-aargau-karin-koch-wick-gibt-das-co-praesidium-ab-ld.4253848",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Lukas Bolzli Erreicht Paris Statt Barcelona nach 1100 Kilometern",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/lukas-bolzli-erreicht-paris-statt-barcelona-nach-1100-kilometern-ld.4254279",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "U Abo Baselbieter Jugendliche Pochen auf Gleichberechtigung",
+      "url": "https://www.bzbasel.ch/basel/baselland/u-abo-baselbieter-jugendliche-pochen-auf-gleichberechtigung-ld.4253580",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Preisschock: Warum die Preise für RAM und SSDs explodiert sind",
+      "url": "https://www.watson.ch/digital/gadgets/122111652-preisschock-warum-die-preise-fuer-ram-und-ssds-explodiert-sind",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wie die Wut in Europa auf den liberalen Staat den Rechtspopulisten hilft",
+      "url": "https://www.watson.ch/international/analyse/766224319-wie-die-wut-in-europa-auf-den-liberalen-staat-den-rechtspopulisten-hilft",
+      "summary": "",
+      "published": "2026-10-21T17:32:38.439109+00:00"
     }
   ]
 }
