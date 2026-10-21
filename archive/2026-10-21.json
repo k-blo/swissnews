@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T09:02:19.540792+00:00",
+  "generated": "2026-10-21T09:32:30.647823+00:00",
   "date": "2026-10-21",
-  "count": 345,
+  "count": 374,
   "articles": [
     {
       "source": "Südostschweiz",
@@ -2417,6 +2417,209 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-polizei-stellt-messer-und-gefaehrliche-gegenstaende-sicher-art-1727929",
       "summary": "",
       "published": "2026-10-21T09:02:19.540792+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Führungswechsel bei der NZZ – Mark Dittli wird neuer Chefredaktor der NZZ",
+      "url": "https://www.srf.ch/news/schweiz/fuehrungswechsel-bei-der-nzz-mark-dittli-wird-neuer-chefredaktor-der-nzz",
+      "summary": "Mark Dittli übernimmt per 1. Februar 2027 die Chefredaktion der NZZ. Eric Gujer wird neuer Herausgeber Deutschland.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nachfolge von Guy Parmelin – Rémy Wyssmann will SVP-Bundesrat werden",
+      "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-remy-wyssmann-will-svp-bundesrat-werden",
+      "summary": "Konkurrenz für Céline Amaudruz (SVP): Der Solothurner Nationalrat will auch für den Bundesratssitz kandidieren.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polizeieinsatz wegen toter Frau in der Stadt St. Gallen",
+      "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/st-gallen-frau-stirbt-bei-pestalozzitreppe/5cz06y7",
+      "summary": "Am Mittwochmorgen wird den Beamten der Stadtpolizei St. Gallen eine bewusstlose Person gemeldet. Vor Ort findet die Polizei eine leblose Frau. Trotz Reanimationsmassnahmen verstarb sie noch vor Ort.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bald geht die Saison los: Skigebiete schrauben an den Preisen",
+      "url": "https://www.20min.ch/story/23-prozent-mehr-bald-geht-die-saison-los-skigebiete-schrauben-an-den-preisen-103653208",
+      "summary": "Zum Saisonstart ziehen die Schweizer Skigebiete die Preise wieder an. Trotz Rekordumsätzen begründet der Verband den Aufschlag mit höheren Kosten.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich habe drei laute Knalle gehört, dann sah ich das Auto»",
+      "url": "https://www.20min.ch/story/subingen-so-ich-habe-drei-laute-knalle-gehoert-dann-sah-ich-das-auto-103653142",
+      "summary": "Auf einem Parkplatz in Subingen SO ist am Dienstagabend ein Renault Trafic komplett ausgebrannt. Verletzt wurde niemand, die Ursache des Feuers ist noch unklar.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Itaki in Feusisberg: Hier treffen Ravioli auf Korean Fried Chicken",
+      "url": "https://www.tagesanzeiger.ch/itaki-feusisberg-wo-ravioli-auf-korean-fried-chicken-treffen-131796892432",
+      "summary": "Hoch über dem Zürichsee vermählt Claudio Radocchia die italienische Küche mit asiatischen Einflüssen. Hauchdünner Pastateig und ein kreativer Entensalat kommen dabei heraus.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bewegungsangebot: Turnhallen in Schlieren öffnen sonntags für Kinder",
+      "url": "https://www.tagesanzeiger.ch/schlieren-turnhallen-oeffnen-sonntags-kostenlos-fuer-kinder-710457687941",
+      "summary": "Ab dem 25. Oktober 2026 starten MiniMove und OpenSunday in zwei Schlierener Turnhallen. Die Stadt und die Stiftung IdéeSport bieten das Programm kostenlos und ohne Anmeldung an.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Papieri-Areal Cham: Bewegungspark wird wegen PFAS-Belastung geschlossen",
+      "url": "https://www.tagesanzeiger.ch/cham-bewegungspark-auf-papieri-areal-wegen-pfas-geschlossen-778447666078",
+      "summary": "Der Gemeinderat Cham hat die Wiedereröffnung des Bewegungsparks nach den Herbstferien untersagt.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Affoltern am Albis: Stadtrat hält trotz Petition am Standort für Schulhaus Wolhusen fest",
+      "url": "https://www.tagesanzeiger.ch/schulhaus-wolhusen-stadtrat-affoltern-haelt-an-standort-fest-391800692386",
+      "summary": "Eine Petition gegen den geplanten Neubau ändert nichts am Entscheid des Affoltemer Stadtrats. Der vorgeschlagene Alternativstandort ist zonenrechtlich nicht zulässig.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Solothurner Nationalrat kandidiert: Die SVP hat einen zweiten Bundesratskandidaten: Wer ist der Impfstoffkritiker Rémy Wyssmann?",
+      "url": "https://www.bernerzeitung.ch/svp-nationalrat-wyssmann-kandidiert-fuer-parmelin-nachfolge-895248185479",
+      "summary": "In den letzten Tagen hagelte es Absagen, jetzt meldet sich ein zweiter Interessent für die Nachfolge von Guy Parmelin. Der Solothurner Nationalrat ist erst seit zwei Jahren im Nationalrat und gilt als",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "FC Basel: Aaron Malouda fällt einige Wochen aus",
+      "url": "https://www.bazonline.ch/fc-basel-aaron-malouda-fehlt-wegen-muskelverletzung-354519022744",
+      "summary": "Der FCB-Flügelspieler zog sich im Training eine Muskelverletzung im Oberschenkel zu.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wer diese Waldsperren ignoriert, riskiert sein Leben",
+      "url": "https://www.zentralplus.ch/news/wer-diese-waldsperren-ignoriert-riskiert-sein-leben-2906186/",
+      "summary": "Absperrungen bei Waldarbeiten werden im Baarer Wald immer wieder missachtet. Die Korporation Baar-Dorf warnt: Auch wenn gerade niemand arbeitet, können in den gesperrten Gebieten Bäume oder Äste zu Bo",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Remy Wyssmann will Bundesrat werden",
+      "url": "https://www.zentralplus.ch/news/remy-wyssmann-will-bundesrat-werden-2906202/",
+      "summary": "Der Solothurner SVP-Nationalrat Remy Wyssmann will Bundesrat werden und für die Nachfolge des abtretenden SVP-Bundesrats Guy Parmelin kandidieren. Das gab Wyssmann an einer Medienkonferenz bekannt. De",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "ChatGPT liest und steuert jetzt Chrome-Tabs",
+      "url": "https://www.netzwoche.ch/news/2026-10-21/chatgpt-liest-und-steuert-jetzt-chrome-tabs",
+      "summary": "OpenAI erweitert die Möglichkeiten von ChatGPT in Google Chrome. Der Assistent kann mehrere geöffnete Tabs auswerten und im Work-Modus mit Websites interagieren, um Aufgaben auszuführen. Eine Erweiter",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "OVHcloud steigert Umsatz in Europa",
+      "url": "https://www.inside-it.ch/ovhcloud-steigert-umsatz-in-europa-20261021",
+      "summary": "Der französische Cloud-Anbieter meldet ein positives Jahresergebnis. Das Unternehmen wächst auch ausserhalb seiner Heimat.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "VIDEO - Mehr als 150 Tote bei einem Drohnenangriff im Sudan",
+      "url": "https://www.nzz.ch/shorts/mehr-als-150-tote-bei-einem-drohnenangriff-im-sudan-ld.10040187",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Ringier-Titel wird zwei Mal gerügt",
+      "url": "https://www.persoenlich.com/medien/ringier-titel-wird-zwei-mal-gerugt",
+      "summary": "Der Presserat rügt die einseitige Berichterstattung über einen Nachbarschaftsstreit sowie einen irreführenden Titel zu syrischen Schülern.",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Schweizer Monat",
+      "title": "Die Zwischenwahlen in den USA gehen uns alle an – leider",
+      "url": "https://www.schweizermonat.ch/die-zwischenwahlen-in-den-usa-gehen-uns-alle-an-leider/",
+      "summary": "Die Macht der USA macht amerikanische Fehler in der Regierungsführung zum Problem der ganzen Welt. Die Kongresswahlen bieten eine Chance, Donald Trump einzudämmen – doch ein schlankerer Staat würde da",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Ski Weltcup in Sölden Alle Infos zum Saisonauftakt und zur Tv Übertragung",
+      "url": "https://www.suedostschweiz.ch/sportradar/ski-weltcup-in-soelden-alle-infos-zum-saisonauftakt-und-zur-tv-uebertragung-2203790",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Pferdekutschen im Central Park vor dem aus",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/pferdekutschen-im-central-park-vor-dem-aus-2203703",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wie Landquart Co2 Dauerhaft Einfängt",
+      "url": "https://www.suedostschweiz.ch/graubuenden/wie-landquart-co2-dauerhaft-einfaengt-2169891",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sursee Autofahrer nach Unfall mit E Bike Gesucht",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/sursee-autofahrer-nach-unfall-mit-e-bike-gesucht-ld.4253829",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Slow Up Hochrhein Geschäftsstellenleiter Kündigt",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/slow-up-hochrhein-geschaeftsstellenleiter-kuendigt-ld.4253765",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Stgallen Junge Frau bei Pestalozzi Treppe Tot Aufgefunden",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/stgallen-junge-frau-bei-pestalozzi-treppe-tot-aufgefunden-ld.4253855",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mann verunfallt in Niederuzwil SG während Flucht vor der Polizei",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/993473063-mann-verunfallt-in-niederuzwil-sg-waehrend-flucht-vor-der-polizei",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Verdammt noch mal nicht der richtige Zeitpunkt»: Matthew McConaugheys Polit-Aufruf spaltet Fans",
+      "url": "https://www.bote.ch/nachrichten/kultur/matthew-mcconaughey-sorgt-mit-polit-aufruf-fuer-kritik-art-1727938",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "SVP-Nationalrat Rémy Wyssmann will in den Bundesrat",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/svp-nationalrat-remy-wyssmann-will-in-den-bundesrat-art-1727937",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "E-Bike-Fahrer in Sursee angefahren: Polizei sucht Autofahrer",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/sursee-autofahrer-nach-unfall-mit-e-bike-gesucht-art-1727935",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vier Wölfe sind tot –&nbsp;auch einen Luchs hats erwischt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/vier-woelfe-sind-tot-auch-einen-luchs-hats-erwischt-art-1727933",
+      "summary": "",
+      "published": "2026-10-21T09:32:30.647823+00:00"
     }
   ]
 }
