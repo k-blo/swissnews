@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T08:32:41.860461+00:00",
+  "generated": "2026-10-22T09:02:22.284193+00:00",
   "date": "2026-10-22",
-  "count": 345,
+  "count": 392,
   "articles": [
     {
       "source": "20 Minuten",
@@ -2417,6 +2417,335 @@
       "url": "https://www.bote.ch/nachrichten/kultur/rudolf-stuessi-in-der-galerie-mueller-schraege-bilder-von-luzern-art-1728120",
       "summary": "",
       "published": "2026-10-22T08:32:41.860461+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Verfahrensfehler – Europäischer Gerichtshof rügt Schweiz wegen Brian Keller",
+      "url": "https://www.srf.ch/news/schweiz/verfahrensfehler-europaeischer-gerichtshof-ruegt-schweiz-wegen-brian-keller",
+      "summary": "Die Schweiz soll den Ex-Häftling mit 5000 Franken entschädigen, entscheidet der Europäische Gerichtshof.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Strassburg rügt Schweiz wegen Umgang mit Brian Keller",
+      "url": "https://www.20min.ch/story/5000-franken-eu-gericht-ruegt-schweizer-justiz-wegen-umgang-mit-brian-103653866",
+      "summary": "Der berühmteste Ex-Häftling der Schweiz hatte 2021 Beschwerde gegen seine Haftbedingungen eingelegt. Jetzt hat der Gerichtshof in Strassburg ein Urteil gefällt.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Seltener Besuch: Grosser Seeadler am Zürichseeufer gesichtet",
+      "url": "https://www.20min.ch/story/rapperswil-jona-sg-seltener-besuch-grosser-seeadler-am-zuerichseeufer-gesichtet-103653824",
+      "summary": "Der aus einem französischen Wiederansiedlungsprojekt stammende Greifvogel hatte den Sommer zuvor in Dänemark verbracht, wie Messdaten zeigen.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Erdbeben der Stärke 3,8 erschüttert die Schweiz",
+      "url": "https://www.20min.ch/story/waadt-erdbeben-der-staerke-38-erschuettert-die-schweiz-103653877",
+      "summary": "Am Donnerstag wurde um etwa 11 Uhr ein Erdbeben registriert. Es ereignete sich in etwa fünf Kilometern Tiefe.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mädchen (11) in Bus angepöbelt – Rose und Layati greifen ein",
+      "url": "https://www.20min.ch/story/berner-bus-frau-beschimpft-fahrgaeste-rassistisch-und-schreit-maedchen-an-103653230",
+      "summary": "Eine Frau hat am Sonntag in einem Berner Bus mehrere Fahrgäste rassistisch beschimpft und ein elfjähriges Mädchen angeschrien. Layati und ihre Freundin Rose griffen ein, um sie zu schützen.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Abwasch und Abfall: Das dürfen Airbnb-Hosts nicht mehr verlangen",
+      "url": "https://www.20min.ch/story/putzliste-bei-airbnb-das-muessen-gaeste-kuenftig-nicht-mehr-erledigen-103653852",
+      "summary": "Bett abziehen und den Abfall zum Container bringen: In manchen Ferienwohnungen gehört das zum Checkout. Airbnb setzt jetzt Grenzen. Das freut viele Gäste, bringt aber Hosts gegen die Plattform auf.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Europäischer Gerichtshof für Menschenrechte: Die Schweiz muss Brian Keller 5000 Euro Entschädigung zahlen",
+      "url": "https://www.tagesanzeiger.ch/egmr-urteil-brian-keller-erhaelt-5000-euro-von-der-schweiz-493643620740",
+      "summary": "Brian Keller hatte gegen seine Haftbedingungen im Gefängnis Pöschwies geklagt. Das höchste Gericht in Strassburg spricht ihm nun eine Entschädigung zu – weil er in einem Fall nicht angehört wurde.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall auf Autobahn A1: Neulenker verliert bei Neuenhof Kontrolle über Sportwagen und prallt in Dämpfer",
+      "url": "https://www.tagesanzeiger.ch/unfall-bei-neuenhof-neulenker-kracht-mit-bmw-m3-in-daempfer-732971784446",
+      "summary": "Ein 18-Jähriger verliert in einem 500-PS-BMW auf nasser Fahrbahn die Kontrolle. Die Polizei nimmt ihm den Führerausweis auf Probe ab.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Einkaufen bis 22.30 Uhr: Dutzende Migros-Filialen werden künftig früher öffnen und später schliessen",
+      "url": "https://www.tagesanzeiger.ch/migros-zuerich-45-filialen-mit-laengeren-oeffnungszeiten-660849414598",
+      "summary": "Im Kampf gegen die Konkurrenz greift die Migros zu einer neuen Methode: Die Öffnungszeiten vieler Filialen sollen verlängert werden.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall bei Bremgarten: Toyota überschlägt sich auf der Sädelstrasse in Zufikon – Lenker bleibt unverletzt",
+      "url": "https://www.tagesanzeiger.ch/unfall-in-zufikon-toyota-ueberschlaegt-sich-auf-saedelstrasse-917136734859",
+      "summary": "Ein 30-jähriger Autofahrer verliert oberhalb von Zufikon in einer Linkskurve die Kontrolle. Das Auto erleidet Totalschaden, die Ursache ist noch unklar.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dorfleben: Armbrustschützen Rümlang: Zweimal Gold und Weltrekorde – Baumgartner überzeugt",
+      "url": "https://www.tagesanzeiger.ch/joelle-baumgartner-2-weltrekorde-bei-armbrust-weltcup-muenchen-727847966000",
+      "summary": "Die vom 15. bis 17. Oktober in München ausgetragenen Armbrust Weltcup-Finalwettkämpfe auf die 10m- und die 30m-Distanz hätten für die Rümlanger Armbrustschützin kaum erfolgreicher ausfallen können.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Europäischer Gerichtshof rügt Schweiz",
+      "url": "https://www.zentralplus.ch/news/europaeischer-gerichtshof-ruegt-schweiz-2906419/",
+      "summary": "Der Europäische Gerichtshof für Menschenrechte hat ein Urteil im Fall Brian Keller gefällt. Die Schweiz soll den ehemaligen Häftling wegen Verfahrensfehlern mit 5000 Franken entschädigen. Auf Beschwer",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "So viel mehr Lohn gibt es für Zuger Staatspersonal",
+      "url": "https://www.zentralplus.ch/news/so-viel-mehr-lohn-gibt-es-fuer-zuger-staatspersonal-2906403/",
+      "summary": "Das Zuger Staatspersonal soll im kommenden Jahr 0,95 Prozent mehr verdienen. Definitiv ist der Teuerungsausgleich aber erst, wenn der Kantonsrat das Budget 2027 genehmigt. Das Zuger Staatspersonal sol",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Generative KI kann die Pensionierungswelle nicht abfedern",
+      "url": "https://www.netzwoche.ch/news/2026-10-22/generative-ki-kann-die-pensionierungswelle-nicht-abfedern",
+      "summary": "In den kommenden zehn Jahren erreichen in der Schweiz rund 900’000 Beschäftigte das Rentenalter. Generative KI kann den demografisch bedingten Ersatzbedarf laut Deloitte nicht auffangen. In ICT-Berufe",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Zürcher Start-up bringt Robotern das Fingerspitzengefühl bei",
+      "url": "https://www.netzwoche.ch/news/2026-10-22/zuercher-start-up-bringt-robotern-das-fingerspitzengefuehl-bei",
+      "summary": "Das Zürcher Robotik-Start-up Enact Intelligence sichert sich in einer Finanzierungsrunde 30 Millionen US-Dollar. Mit dem Geld will das Unternehmen Roboter entwickeln, die ihre Umgebung nicht nur sehen",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Postfinance muss für Stimmabdrücke Zustimmung einholen",
+      "url": "https://www.netzwoche.ch/news/2026-10-22/postfinance-muss-fuer-stimmabdruecke-zustimmung-einholen",
+      "summary": "Seit 2018 nutzt die Postfinance Stimmabdrücke, um Kundinnen und Kunden bei Anrufen zu authentifizieren. Bis Anfang 2026 mussten sie selbst widersprechen, wenn sie das nicht wollten. Nun hält das Bunde",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Mit voller Aufmerksamkeit im Hier und Jetzt sein",
+      "url": "https://www.nzz.ch/wissenschaft/bewusstes-erleben-so-finden-sie-sinn-im-alltag-ld.10036012",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Kampagne inszeniert Handschrift von 1903",
+      "url": "https://www.persoenlich.com/kategorie-werbung/kampagne-inszeniert-handschrift-von-1903",
+      "summary": "Das Zürcher Modelabel wirbt mit neuen Bildern für eine Mütze und eine Trinkflasche. Den Bezug zur Herkunft stellt eine alte Handschrift her.",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Gzsz Iris Mareike Steen ist Schwanger was das für Lilly Seefeld Bedeutet",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/gzsz-iris-mareike-steen-ist-schwanger-was-das-fuer-lilly-seefeld-bedeutet-2205383",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Antikenmuseum Basel Zeigt Migration in der Antike",
+      "url": "https://www.bzbasel.ch/kultur/basel/antikenmuseum-basel-zeigt-migration-in-der-antike-ld.4251461",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Basler Sammlerbörse Findet nach 50 Jahren Nicht Mehr Statt",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/basler-sammlerboerse-findet-nach-50-jahren-nicht-mehr-statt-ld.4253770",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Fc Hägendorf im Halbfinal Favorit Setzt Sich Gegen Zuchwil Durch",
+      "url": "https://www.solothurnerzeitung.ch/sport/solothurn/fc-haegendorf-im-halbfinal-favorit-setzt-sich-gegen-zuchwil-durch-ld.4254266",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Neulenker Verunfallt auf der A1 bei Neuenhof",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/neulenker-verunfallt-auf-der-a1-bei-neuenhof-ld.4254446",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Neue Cordula 2026 und Acht Ehrungen an der Badener Feier",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/neue-cordula-2026-und-acht-ehrungen-an-der-badener-feier-ld.4223878",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Svp Stadt Zürich Distanziert Sich von Christoph Marty",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/svp-stadt-zuerich-distanziert-sich-von-christoph-marty-ld.4254450",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Sans Papiers in Zürich Gemeinderat Bewilligt 260000 Franken",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/sans-papiers-in-zuerich-gemeinderat-bewilligt-260000-franken-ld.4254441",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Sachseln Luzia Wallimann Führt ein Töpfer Atelier",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/sachseln-luzia-wallimann-fuehrt-ein-toepfer-atelier-ld.4253033",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Christian Klaus Debütroman Spielt am Gotthard",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/christian-klaus-debuetroman-spielt-am-gotthard-ld.4253881",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brady Tkachuk kehrt nach Ottawa zurück – und wird unfreundlich empfangen",
+      "url": "https://www.watson.ch/sport/eishockey/944763293-brady-tkachuk-kehrt-nach-ottawa-zurueck-und-wird-unfreundlich-empfangen",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wie Buckelwal Timmy: Hai Bukangi steckt in Südkorea in Kanal fest",
+      "url": "https://www.watson.ch/leben/tier/497220579-wie-buckelwal-timmy-hai-bukangi-steckt-in-suedkorea-in-kanal-fest",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Christa Pike spricht nach zwei Giftspritzen wieder in ganzen Sätzen",
+      "url": "https://www.watson.ch/international/usa/430836484-christa-pike-spricht-nach-zwei-giftspritzen-wieder-in-ganzen-saetzen",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So einfach ist es in den Schweizer Bundesrat gewählt zu werden",
+      "url": "https://www.watson.ch/schweiz/satire/956537574-so-einfach-ist-es-in-den-schweizer-bundesrat-gewaehlt-zu-werden",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Diese Gesetzesänderungen treten am 1. November in der Schweiz in Kraft",
+      "url": "https://www.watson.ch/schweiz/luftfahrt/883457968-diese-gesetzesaenderungen-treten-am-1-november-in-der-schweiz-in-kraft",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Vom Empfang bis zum CFO: Das sind die Schweizer Löhne 2027",
+      "url": "https://www.watson.ch/schweiz/arbeitswelt/471460330-vom-empfang-bis-zum-cfo-das-sind-die-schweizer-loehne-2027",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Der Engelmacher»: Echter Horror aus dem Emmental",
+      "url": "https://www.freiburger-nachrichten.ch/story/294355/der-engelmacher-echter-horror-aus-dem-emmental",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Streit um UBS droht diplomatische Krise zwischen USA und Schweiz auszulösen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/ubs-wie-ihr-die-finma-in-den-usa-einen-strich-durch-die-rechnung-macht-art-1728132",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir werden natürlich&nbsp;dümmer»: Richard David Precht sieht schwarz",
+      "url": "https://www.bote.ch/nachrichten/kultur/richard-david-precht-schreibt-in-auserzaehlt-wie-ki-uns-duemmer-macht-art-1728125",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Showdown in Brasilien: Lula holt auf&nbsp;– und greift dafür zu zweifelhaften Methoden",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/brasilien-vor-stichwahl-lula-und-bolsonaro-im-duell-art-1728130",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Laut SP-Fraktionschefin ist die höhere Mehrwertsteuer verkraftbar: «Tiefe Einkommen zahlen 2–3 Franken mehr»",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/samira-marti-verteidigt-mehrwertsteuer-fuer-ahv-finanzierung-art-1728127",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gotthard als Schauplatz eines neuen Romans",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/christian-klaus-debuetroman-spielt-am-gotthard-art-1728126",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Für Luzia Wallimann ging ein Traum in Erfüllung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/sachseln-luzia-wallimann-fuehrt-ein-toepfer-atelier-art-1728129",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Das Blut kommt mit der Drohne: Dopingjäger gehen neue Wege",
+      "url": "https://www.bote.ch/nachrichten/sport/erstmals-drohnen-fuer-dopingproben-transport-getestet-art-1728131",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ausgerechnet die SVP: Warum 40 Prozent der Balkan-Schweizer die Rechtspartei wählen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/svp-beliebt-bei-balkan-schweizerinnen-und-schweizern-art-1728128",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Europäischer Gerichtshof rügt Schweiz wegen Brian Keller – so viel soll er bekommen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/europaeischer-gerichtshof-ruegt-schweiz-wegen-brian-keller-art-1728124",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Der Vibe Shift Hat Jetzt ein Magazin",
+      "url": "https://www.infosperber.ch/medien/der-vibe-shift-hat-jetzt-ein-magazin/",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Die Windigen Behauptungen der Schweizer Wind Lobby",
+      "url": "https://www.infosperber.ch/umwelt/die-windigen-behauptungen-der-schweizer-wind-lobby/",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Wir Haben Schon Genug Milliardäre",
+      "url": "https://www.infosperber.ch/wirtschaft/wir-haben-schon-genug-milliardaere/",
+      "summary": "",
+      "published": "2026-10-22T09:02:22.284193+00:00"
     }
   ]
 }
