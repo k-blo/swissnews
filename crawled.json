@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T12:33:07.472061+00:00",
+  "generated": "2026-10-22T13:03:03.890105+00:00",
   "date": "2026-10-22",
-  "count": 585,
+  "count": 608,
   "articles": [
     {
       "source": "20 Minuten",
@@ -4097,6 +4097,167 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-stadtrat-muss-budget-2027-um-5-millionen-kuerzen-art-1728152",
       "summary": "",
       "published": "2026-10-22T12:33:07.472061+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmungen – Bundesrat gegen Feuerwerksinitiative",
+      "url": "https://www.srf.ch/news/abstimmungen-bundesrat-gegen-feuerwerksinitiative",
+      "summary": "Bundesrat Albert Rösti lehnt die Feuerwerksinitiative ab: Der Umgang mit Knallkörpern sei heute bereits gut geregelt.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Bismillah, c'est les ténèbres» – das steckt hinter dem Slogan",
+      "url": "https://www.20min.ch/story/bismillah-c-est-les-tenebres-das-steckt-hinter-dem-slogan-in-frankreich-103653951",
+      "summary": "Hunderttausende demonstrieren in Frankreich für bessere Lernbedingungen. Ein rätselhafter Slogan sorgt für Aufsehen – und eine Spur führt zur Polizei.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Warum wählen Balkan-Schweizer SVP? Parteichef und Experte uneins",
+      "url": "https://www.20min.ch/story/40-prozent-anteil-warum-waehlen-balkan-schweizer-svp-parteichef-und-experte-uneins-103653966",
+      "summary": "Von keiner anderen Bevölkerungsgruppe erhält die Partei anteilsmässig so viel Unterstützung wie von Personen mit Wurzeln im Balkan. Während SVP-Chef Dettling den Grund in der Arbeit seiner Partei sieh",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Sicherheitslücke PHP2Shell: Hacker versuchen weltweit millionenfach, die PHP-Lücke auszunutzen",
+      "url": "https://www.tagesanzeiger.ch/php-sicherheitsluecke-millionen-hackerangriffe-weltweit-368827139623",
+      "summary": "Zehn Stunden vor der Ankündigung waren es einige Tausend Versuche, zwei Stunden danach Hunderttausende. Viele vorsorglich vom Netz genommene Webseiten sind inzwischen wieder online.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Klimaschutz in Winterthur: Stadt verteilt 110’000 Franken Fördergelder an drei Projekte",
+      "url": "https://www.tagesanzeiger.ch/klimafonds-winterthur-110000-franken-fuer-hyperloop-150829361046",
+      "summary": "Der Klimafonds des Stadtwerks Winterthur fördert ein Agroforstsystem, Velologistik und eine Hyperloop-Testanlage.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "KI-Verdacht: Verlag trennt sich von Bestseller-Autor",
+      "url": "https://www.tagesanzeiger.ch/ai-streit-kanadischer-verlag-trennt-sich-von-romancier-583428433880",
+      "summary": "Thélyson Oréliens Buch über Flucht und Migration steht in Frankreich und Kanada weit oben in den Charts. Er sagt, KI nur für Recherchen genutzt zu haben, doch sein kanadischer Verlag stoppt den Nachdr",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Steinenvorstadt Basel: Nach dem Ende der Burger-King-Ära – jetzt ist die Nachfolge klar",
+      "url": "https://www.bazonline.ch/schnitzery-ersetzt-burger-king-in-der-basler-steinenvorstadt-135041381675",
+      "summary": "Die prominente, leer stehende Ladenfläche an der Steinenvorstadt wurde neu vermietet.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Schweizer KMU technisch geschützt vor Cyberangriffen",
+      "url": "https://www.inside-it.ch/schweizer-kmu-technisch-geschuetzt-vor-cyberangriffen-20261022",
+      "summary": "Viele Schweizer KMU haben einen technischen Schutz vor Cyberbedrohungen installiert. Sie wissen aber auch, dass durch KI neue Gefahren drohen und wollen aufrüsten.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "PHP-Angriffe: Schweiz blieb bis anhin verschont",
+      "url": "https://www.inside-it.ch/php-angriffe-schweiz-blieb-bis-anhin-verschont-20261022",
+      "summary": "Die kritischen PHP-Lücken werden millionenfach angegriffen, teils schon vor der Veröffentlichung der Patches. In der Schweiz sind bislang keine Angriffe bekannt.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Basel-Stadt will KI nicht besteuern",
+      "url": "https://www.inside-it.ch/basel-stadt-will-ki-nicht-besteuern-20261022",
+      "summary": "Ein Vorstoss verlangte die Prüfung einer Abgabe auf durch KI und Robotik erzielte Wertschöpfung. Der Grosse Rat ist dagegen.",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Stephane Künzi Setzt in Windisch Motion Gegen Quartierverkehr Durch",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/stephane-kuenzi-setzt-in-windisch-motion-gegen-quartierverkehr-durch-ld.4254327",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Windisch Einwohnerrat Setzt bei Gemeindehaus Sanierung auf Mini",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/windisch-einwohnerrat-setzt-bei-gemeindehaus-sanierung-auf-mini-ld.4252404",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gabenchopf Villigen Weiterer Schritt in Richtung Steinbrucherweiterung Erfolgt",
+      "url": "https://www.aargauerzeitung.ch/aargau/brugg/gabenchopf-villigen-weiterer-schritt-in-richtung-steinbrucherweiterung-erfolgt-ld.4254369",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Magden Zwei Unfälle Verzögerten die Reparatur am Bachgeländer",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/magden-zwei-unfaelle-verzoegerten-die-reparatur-am-bachgelaender-ld.4254385",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Baden Endingen Gegen Möhlin Derby mit Brisantem Trainerdüll",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/baden-endingen-gegen-moehlin-derby-mit-brisantem-trainerduell-ld.4253487",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Widnau Rätselhaftes Fischsterben in der Ländernach",
+      "url": "https://www.tagblatt.ch/ostschweiz/rheintal/widnau-raetselhaftes-fischsterben-in-der-laendernach-ld.4254735",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Heso Bombendroher Bleibt mit Beschwerde vor Bundesgericht Erfolglos",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/heso-bombendroher-bleibt-mit-beschwerde-vor-bundesgericht-erfolglos-ld.4254718",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Grossbrand in Baden Dättwil Ursache Laut Polizei Geklärt",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/grossbrand-in-baden-daettwil-ursache-laut-polizei-geklaert-ld.4254621",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Hausarzt Finden Warum ein Umzug die Arztwahl Erschwert",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/hausarzt-finden-warum-ein-umzug-die-arztwahl-erschwert-ld.4253912",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Seepromenade Villa für 205 Millionen Franken Steht zum Verkauf",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-seepromenade-villa-fuer-205-millionen-franken-steht-zum-verkauf-ld.4254044",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Donald Trump darf den Atlantik wegen Google nicht umbenennen",
+      "url": "https://www.watson.ch/international/usa/826694079-donald-trump-darf-den-atlantik-wegen-google-nicht-umbenennen",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Familienferien in Venedig: Der ganz normale Wahnsinn in 8 Punkten",
+      "url": "https://www.watson.ch/blogs/nachtschicht/600817079-familienferien-in-venedig-der-ganz-normale-wahnsinn-in-8-punkten",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "20,5 Millionen für eine Villa an der Zuger Seepromenade – erste Interessenten waren schon da",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-seepromenade-villa-fuer-205-millionen-franken-steht-zum-verkauf-art-1728153",
+      "summary": "",
+      "published": "2026-10-22T13:03:03.890105+00:00"
     }
   ]
 }
