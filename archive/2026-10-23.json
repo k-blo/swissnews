@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T22:32:33.190397+00:00",
+  "generated": "2026-10-22T23:02:44.130069+00:00",
   "date": "2026-10-23",
-  "count": 4,
+  "count": 7,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -30,6 +30,27 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/wir-freuen-uns-auf-das-derby-gegen-den-leader-art-1728146",
       "summary": "",
       "published": "2026-10-22T22:32:33.190397+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Aus für Pferdekutschen in New York – bald auch in Wien und Co.?",
+      "url": "https://www.20min.ch/story/central-park-aus-fuer-pferdekutschen-in-new-york-bald-auch-in-wien-und-co-103654314",
+      "summary": "Während New York die Pferdekutschen bis 2028 abschaffen will, wird auch in europäischen Touristenorten über Verbote und Alternativen diskutiert.",
+      "published": "2026-10-22T23:02:44.130069+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Herzliche Glückwünsche zum 95 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/herzliche-glueckwuensche-zum-95-geburtstag-ld.4254336",
+      "summary": "",
+      "published": "2026-10-22T23:02:44.130069+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "90 Geburtstag von Jakob Köbi Soland",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/90-geburtstag-von-jakob-koebi-soland-ld.4253931",
+      "summary": "",
+      "published": "2026-10-22T23:02:44.130069+00:00"
     }
   ]
 }
