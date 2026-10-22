@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T01:02:43.637638+00:00",
+  "generated": "2026-10-22T01:32:27.880689+00:00",
   "date": "2026-10-22",
-  "count": 28,
+  "count": 30,
   "articles": [
     {
       "source": "20 Minuten",
@@ -198,6 +198,20 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4253870",
       "summary": "",
       "published": "2026-10-22T01:02:43.637638+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nachfolge von Guy Parmelin – Franz Grüter verzichtet auf Bundesratskandidatur",
+      "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-franz-grueter-verzichtet-auf-bundesratskandidatur",
+      "summary": "Der Luzerner SVP-Nationalrat will nicht Nachfolger von Guy Parmelin werden. Ausschlaggebend seien familiäre Gründe.",
+      "published": "2026-10-22T01:32:27.880689+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Grüter verzichtet auf BR-Kandidatur",
+      "url": "https://www.zentralplus.ch/news/grueter-verzichtet-auf-br-kandidatur-2906360/",
+      "summary": "Aus der SVP gibt es eine weitere Absage für eine Bundesratskandidatur. Der Luzerner SVP-Nationalrat Franz Grüter will nicht Nachfolger des von Guy Parmelin werden. Das erklärt er in einem Interview mi",
+      "published": "2026-10-22T01:32:27.880689+00:00"
     }
   ]
 }
