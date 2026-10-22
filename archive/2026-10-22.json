@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T05:32:45.327193+00:00",
+  "generated": "2026-10-22T06:02:34.139517+00:00",
   "date": "2026-10-22",
-  "count": 219,
+  "count": 229,
   "articles": [
     {
       "source": "20 Minuten",
@@ -1535,6 +1535,76 @@
       "url": "https://insideparadeplatz.ch/2026/10/22/nein-zum-eu-vertrag-es-ist-zu-frueh/",
       "summary": "",
       "published": "2026-10-22T05:32:45.327193+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Undercover im Wettlokal – Millionenumsätze: Das grosse Geschäft mit illegalen Sportwetten",
+      "url": "https://www.srf.ch/sendungen/dok/undercover-im-wettlokal-millionenumsaetze-das-grosse-geschaeft-mit-illegalen-sportwetten",
+      "summary": "Illegale Sportwetten in Schweizer Bars: SRF Investigativ zeigt mit verdeckten Aufnahmen, wie das Geschäft funktioniert.",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Viele Migros-Filialen haben jetzt länger geöffnet",
+      "url": "https://www.20min.ch/story/konkurrenzkampf-diese-migros-filialen-haben-jetzt-laenger-geoeffnet-103653769",
+      "summary": "Die Zürcher Genossenschaft des Grosshändlers passt bei diversen Filialen die Öffnungszeiten an. Teils haben die Läden nicht nur länger offen, sondern öffnen auch früher.",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wir sind noch kämpferisch – das verdrängt die Existenzangst»",
+      "url": "https://www.20min.ch/story/leerkuendigung-in-zuerich-hoengg-65-mietparteien-kaempfen-um-ihr-bleiberecht-103651630",
+      "summary": "In Zürich-Höngg wurde 65 Mietparteien gekündigt. Nun kämpfen sie darum, dass sie wenigstens bis Baubeginn in ihren Wohnungen bleiben können – doch selbst das ist nicht garantiert.",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Derzeit keine Kontrolle»: Quartalszahlen: Nestlé nimmt Russlandgeschäft aus der Bilanz",
+      "url": "https://www.tagesanzeiger.ch/nestle-russlandgeschaeft-wird-aus-bilanz-gestrichen-221195840333",
+      "summary": "Nestlé hat im dritten Quartal 2026 an Dynamik gewonnen. Doch der Eingriff der russischen Behörden zwingt den Konzern zu drastischen Massnahmen.",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Einschränkungen in Zürich: Feststeckender Zug führte zu Ausfällen im Morgenverkehr",
+      "url": "https://www.tagesanzeiger.ch/feststeckender-zug-fuehrt-zu-ausfaellen-im-morgenverkehr-939940091800",
+      "summary": "Pendler brauchten in Zürich am Donnerstagmorgen Geduld: Ein feststeckender Zug sorgt für Verspätungen und Ausfälle. Kurzzeitig fiel auch noch eine Bahnanlage aus.",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "KI löst Fachkräftemangel nicht",
+      "url": "https://www.zentralplus.ch/news/ki-loest-fachkraeftemangel-nicht-2906376/",
+      "summary": "Künstliche Intelligenz verändert den Schweizer Arbeitsmarkt, dürfte den demografisch bedingten Fachkräftemangel aber nicht lösen. Das zeigt eine Studie der Beratungsagentur Deloitte Schweiz. Vor allem",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Triengen schliesst Schulhaus Wilihof",
+      "url": "https://www.zentralplus.ch/news/triengen-schliesst-schulhaus-wilihof-2906372/",
+      "summary": "Triengen schliesst den Schulstandort Wilihof auf das Schuljahr 2027/28. Die Gemeinde verteilt die Klassen neu und will dadurch auch mögliche Sanierungs- und Unterhaltskosten sparen. Der Gemeinderat Tr",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Migros öffnet im Kampf gegen Coop Läden länger",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-10-22/migros-oeffnet-im-kampf-gegen-coop-laeden-laenger",
+      "summary": "Der Detailhändler öffnet im Kampf gegen Coop und Co. Dutzende Filialen früher am Morgen oder schliesst sie später am Abend. Kritik an den Arbeitsbedingungen lässt er nicht gelten.",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Churer Unihockey Sportchef nach Fehlstart",
+      "url": "https://www.suedostschweiz.ch/regionalsport/churer-unihockey-sportchef-nach-fehlstart-2200979",
+      "summary": "",
+      "published": "2026-10-22T06:02:34.139517+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "A1 im Aargau Zwei Unfälle Sorgen für Stau",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/a1-im-aargau-zwei-unfaelle-sorgen-fuer-stau-ld.4254320",
+      "summary": "",
+      "published": "2026-10-22T06:02:34.139517+00:00"
     }
   ]
 }
