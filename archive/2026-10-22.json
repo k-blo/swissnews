@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T11:03:33.914197+00:00",
+  "generated": "2026-10-22T11:32:29.193011+00:00",
   "date": "2026-10-22",
-  "count": 526,
+  "count": 541,
   "articles": [
     {
       "source": "20 Minuten",
@@ -3684,6 +3684,111 @@
       "url": "https://www.freiburger-nachrichten.ch/story/298526/ayana-abdulle-sparen-kostet-am-ende-mehr",
       "summary": "",
       "published": "2026-10-22T11:03:33.914197+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "So betreffen dich die gefährlichen PHP-Sicherheitslücken",
+      "url": "https://www.20min.ch/story/internet-in-gefahr-so-betreffen-dich-die-gefaehrlichen-php-sicherheitsluecken-103653869",
+      "summary": "IT-Fachleute weltweit sind in Alarmbereitschaft. Grund ist die «php2shell»-Sicherheitslücke, die die Programmiersprache PHP betrifft. Was bedeutet das für gewöhnliche Internetnutzer?",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wog nur noch 45 Kilo»: Nura hat aufgehört zu kiffen",
+      "url": "https://www.20min.ch/story/nura-kifft-nicht-mehr-rapperin-erzaehlt-auf-tiktok-von-ihrem-ausstieg-103653848",
+      "summary": "Nura war einst bekannt für ihren regen Graskonsum. Die Rapperin hat den Joints unterdessen komplett abgeschworen. Die Droge hatte negative Auswirkungen auf ihr Gewicht.",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Parkieren in der blauen Zone: Anwohner zahlen in Zürich ab Januar 2027 mehr fürs Parkieren",
+      "url": "https://www.tagesanzeiger.ch/zuerich-neue-parkkartenverordnung-gilt-ab-2027-827658658311",
+      "summary": "Die Stadt Zürich setzt die Parkkartenverordnung in Kraft. Einzelne Verbesserungen für das Gewerbe bleiben hingegen blockiert. Die Bürgerlichen kritisieren das Vorgehen des Stadtrats.",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Senatswahl in Texas: Bush-Bruder Neil stellt sich gegen Familientradition und stimmt für Demokraten Talarico",
+      "url": "https://www.tagesanzeiger.ch/senatswahl-texas-neil-bush-stimmt-fuer-demokraten-talarico-875291311662",
+      "summary": "Der Bruder von Ex-Präsident George W. Bush hält den Republikaner Ken Paxton für ungeeignet. Umfragen zeigen in Texas ein Kopf-an-Kopf-Rennen um den Senatssitz.",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rasertrip auf Schweizer Pässen: Britische Youtuber rasen über Susten- und Furkapass – und verspotten Urner Polizei",
+      "url": "https://www.tagesanzeiger.ch/raserfahrt-auf-sustenpass-kantonspolizei-uri-ermittelt-577632778495",
+      "summary": "Ein halbstündiges Video zeigt eine Raserfahrt zweier Briten durch Uri – und eine Kontrolle durch die Polizei. Diese prüft das Material und sieht klare Verstösse gegen das Strassenverkehrsgesetz.",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Internationaler Strafgerichtshof geehrt",
+      "url": "https://www.zentralplus.ch/news/internationaler-strafgerichtshof-geehrt-2906475/",
+      "summary": "Das Europaparlament zeichnet den Internationalen Strafgerichtshof und seine Vertreter mit dem Sacharow-Preis aus. EU-Parlamentspräsidentin Roberta Metsola verkündete die Entscheidung in Strassburg. Di",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Viele personelle Abgänge: Kinder- und Jugendpsychiatrischer Dienst kämpft mit mangelnden Ressourcen",
+      "url": "https://www.shn.ch/region/kanton/2026-10-22/viele-personelle-abgaenge-kinder-und-jugendpsychiatrischer-dienst-kaempft",
+      "summary": "Wegen mehrerer personeller Abgänge ist der Kinder- und Jugendpsychiatrische Dienst der Spitäler Schaffhausen eingeschränkt. Bei nicht dringenden Fällen drohen längere Wartezeiten, teilen die Verantwor",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Blaue Zone Schweiz Parkscheibe Zeiten und Regeln",
+      "url": "https://www.suedostschweiz.ch/panorama/blaue-zone-schweiz-parkscheibe-zeiten-und-regeln-2205606",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Bündner Meteorologe Prognostiziert für den Winter Ab 1500 Metern Viel Schnee",
+      "url": "https://www.suedostschweiz.ch/graubuenden/buendner-meteorologe-prognostiziert-fuer-den-winter-ab-1500-metern-viel-schnee-2201399",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Berufsmesse Lehrplätz in Bremgarten Bringt Jugendliche und Betriebe Zusammen",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/berufsmesse-lehrplaetz-in-bremgarten-bringt-jugendliche-und-betriebe-zusammen-ld.4254519",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Flawil Beantragt Steuererhöhung um Sieben Prozentpunkte",
+      "url": "https://www.tagblatt.ch/ostschweiz/wil/flawil-beantragt-steuererhoehung-um-sieben-prozentpunkte-ld.4254462",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ein Gletscherabbruchs in Randa ist durch ersten Neuschnee erhöht",
+      "url": "https://www.watson.ch/schweiz/klima/506136292-ein-gletscherabbruchs-in-randa-ist-durch-ersten-neuschnee-erhoeht",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Marco Odermatt verärgert Österreichs Skifans mit Kronen-Aussage",
+      "url": "https://www.watson.ch/sport/ski/605933930-marco-odermatt-veraergert-oesterreichs-skifans-mit-kronen-aussage",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nervige Pop-up-Cookie-Banner im Internet: Das hat die EU beschlossen",
+      "url": "https://www.watson.ch/international/eu/894932892-nervige-pop-up-cookie-banner-im-internet-das-hat-die-eu-beschlossen",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Also GUT. Ich MACH'S.» Satirische Wahlkampagne in Kanada geht viral",
+      "url": "https://www.watson.ch/spass/gesellschaft-politik/933184840-also-gut-ich-mach-s-satirische-wahlkampagne-in-kanada-geht-viral",
+      "summary": "",
+      "published": "2026-10-22T11:32:29.193011+00:00"
     }
   ]
 }
