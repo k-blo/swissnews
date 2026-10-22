@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T00:32:41.865376+00:00",
+  "generated": "2026-10-22T01:02:43.637638+00:00",
   "date": "2026-10-22",
-  "count": 25,
+  "count": 28,
   "articles": [
     {
       "source": "20 Minuten",
@@ -177,6 +177,27 @@
       "url": "https://www.nzz.ch/technologie/meta-verzeichnet-einen-rekordumsatz-und-wird-zu-einer-rekordstrafe-verurteilt-ld.10040767",
       "summary": "",
       "published": "2026-10-22T00:32:41.865376+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "EU-Staaten lehnen Cookie-Vorschlag ab",
+      "url": "https://www.zentralplus.ch/news/eu-staaten-lehnen-cookie-vorschlag-ab-2906358/",
+      "summary": "Die EU-Staaten lehnen einen Vorschlag der EU-Kommission zu Cookie-Bannern auf Webseiten ab. Die Kommission wollte die Zahl der Abfragen reduzieren. Internetnutzerinnen und -nutzer sollten ihre Einstel",
+      "published": "2026-10-22T01:02:43.637638+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Wettbewerb Stehplatztickets Evz Vs Sc Rapperswil Jona",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/wettbewerb-stehplatztickets-evz-vs-sc-rapperswil-jona-ld.4253730",
+      "summary": "",
+      "published": "2026-10-22T01:02:43.637638+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4253870",
+      "summary": "",
+      "published": "2026-10-22T01:02:43.637638+00:00"
     }
   ]
 }
