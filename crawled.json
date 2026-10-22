@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T21:03:03.512428+00:00",
+  "generated": "2026-10-22T21:19:18.571716+00:00",
   "date": "2026-10-22",
-  "count": 950,
+  "count": 952,
   "articles": [
     {
       "source": "20 Minuten",
@@ -6652,6 +6652,20 @@
       "url": "https://www.watson.ch/sport/fc-thun/580112192-conference-league-thun-verliert-gegen-hajduk-split",
       "summary": "",
       "published": "2026-10-22T21:03:03.512428+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Schweres Beben in Tibet: Erdbeben der Stärke 7.0 erschüttert den Norden Tibets – mindestens 16 Tote",
+      "url": "https://www.derbund.ch/erdbeben-der-staerke-7-0-erschuettert-tibet-690320450112",
+      "summary": "Das Beben ereignet sich laut US-Geologischem Dienst nahe der Stadt Nagqu in zehn Kilometern Tiefe. Mindestens 16 Menschen sind gestorben und 32 wurden verletzt.",
+      "published": "2026-10-22T21:19:18.571716+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Mitte Solothurn Sagt Ja zum Bahnhofplatz Olten",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/mitte-solothurn-sagt-ja-zum-bahnhofplatz-olten-ld.4254947",
+      "summary": "",
+      "published": "2026-10-22T21:19:18.571716+00:00"
     }
   ]
 }
