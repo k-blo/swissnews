@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T14:00:50.062254+00:00",
+  "generated": "2026-10-22T14:32:38.295522+00:00",
   "date": "2026-10-22",
-  "count": 684,
+  "count": 735,
   "articles": [
     {
       "source": "20 Minuten",
@@ -4790,6 +4790,363 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-grosser-stadtrat-bewilligt-hoehere-kultursubventionen-art-1728168",
       "summary": "",
       "published": "2026-10-22T14:00:50.062254+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Cyber-Schwachstelle bei PHP – Erste Schadensbilanz: Über 100'000 Schweizer Webseiten offline",
+      "url": "https://www.srf.ch/news/schweiz/cyber-schwachstelle-bei-php-erste-schadensbilanz-ueber-100-000-schweizer-webseiten-offline",
+      "summary": "Eine Vielzahl von Websites wurde sicherheitshalber vom Netz genommen. Der Bund hat noch keine Angriffe festgestellt.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Polizei kontrolliert vorbeifahrende Autos",
+      "url": "https://www.blick.ch/schweiz/zuerich/polizei-kontrolliert-vorbeifahrende-autos/x7mzfry",
+      "summary": "Ein Leservideo zeigt, wie Fahrzeuge zwischen Embrach und Pfungen von der Polizei kontrolliert werden.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sturm-Alarm in Europa: Orkan-Doppelpack rollt an",
+      "url": "https://www.20min.ch/story/austen-und-boleo-sturm-alarm-in-europa-orkan-doppelpack-rollt-an-103654061",
+      "summary": "Europa steht vor turbulenten Tagen: Gleich mehrere Sturmtiefs bringen Orkanböen mit bis zu 120 km/h. Besonders Grossbritannien und Deutschland sind betroffen.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Spürte Adam Wolke (36) hier schon, dass etwas nicht stimmt?",
+      "url": "https://www.20min.ch/story/asoziale-kopfschmerzen-spuerte-adam-wolke-36-hier-schon-dass-etwas-nicht-stimmt-103653889",
+      "summary": "Vier Wochen vor seinem Tod berichtete Adam Wolke von Sehproblemen, Lichtempfindlichkeit und Kopfschmerzen. Waren das bereits Warnsignale?",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hier wird Hassans Geschäft seelenruhig geplündert",
+      "url": "https://www.20min.ch/video/paris-hier-wird-hassans-geschaeft-seelenruhig-gepluendert-103654085",
+      "summary": "20 Minuten zeigt, wie Plünderer ein Geschäft in Paris ausräumen. Filialleiter Hassan Rashadul hat uns die Aufnahmen seiner Überwachungskamera zur Verfügung gestellt. Rashadul betreibt am Boulevard de ",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schwere Fehler – «The Times» entschuldigt sich bei Infantino",
+      "url": "https://www.20min.ch/story/fake-news-schwere-fehler-the-times-entschuldigt-sich-bei-infantino-103653896",
+      "summary": "Schwerer Patzer von «The Times» bei der Recherche: Nach falschen Behauptungen muss das Blatt zurückrudern und entschuldigt sich öffentlich beim Fifa-Präsidenten Gianni Infantino.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Proteste in Europa: «In Frankreich war es ein Debakel» – «Auch hier gibt es Mängel»: Ausländische Studierende in der Schweiz erzählen",
+      "url": "https://www.tagesanzeiger.ch/proteste-in-frankreich-was-studierende-an-schweizer-unis-sagen-611930547078",
+      "summary": "Nach den Demonstrationen in ihrer Heimat sagen Französinnen und Italiener, wie sie Schule und Uni zu Hause erlebten. Und sie beurteilen die Schweizer Hochschulen.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tipps zur Pfnüselzeit: Erkältung, Corona, Grippe: Was uns im Spätherbst erwartet",
+      "url": "https://www.tagesanzeiger.ch/erkaeltung-grippe-corona-was-die-herbstsaison-bringt-343367435479",
+      "summary": "Infektiologe Jan Fehr erklärt, welche Erreger jetzt gerade kursieren und wo das Risiko für eine Ansteckung am höchsten ist. Und er sagt, für wen Impfungen sinnvoll sind.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Wetten, dass…?»: Tokio-Hotel-Zwillinge sorgen für Ticket-Ansturm",
+      "url": "https://www.tagesanzeiger.ch/wetten-dass-250-000-ticketwuensche-fuer-kaulitz-show-452316438038",
+      "summary": "Für die Show, die Bill und Tom Kaulitz einmalig moderieren, sind laut ZDF 250’000 Ticketwünsche eingegangen. Die Halle fasst aber nur rund 2600 Gäste.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Krieg im Nahen Osten: Die USA planen Angriffe nach den Midterms – der Iran droht mit «kreativer» Kriegsführung",
+      "url": "https://www.tagesanzeiger.ch/iran-usa-planen-angriffe-nach-den-midterms-725119584243",
+      "summary": "Die Trump-Regierung will Teheran offenbar mit einem Drei-Tage-Krieg Zugeständnisse abringen. Das iranische Regime wiederum droht mit Gegenschlägen in den Golfstaaten.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Airbus A320 von Edelweiss muss in zwei Tagen zweimal umdrehen",
+      "url": "https://www.tagesanzeiger.ch/edelweiss-airbus-a320-dreht-zweimal-in-zwei-tagen-um-332809355138",
+      "summary": "Ein Flug von Edelweiss nach Pristina und einer von Swiss mussten abgebrochen werden. Beide endeten wieder in Zürich. Speziell daran: Beide wurden mit dem gleichen Flugzeug durchgeführt.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Berner Sportchef: Geht Christoph Spycher? Bleibt er? YB droht seinen Erfolgsbringer zu verlieren",
+      "url": "https://www.tagesanzeiger.ch/yb-spycher-zu-eintracht-frankfurt-wechselt-der-berner-670679639278",
+      "summary": "Bei Eintracht Frankfurt soll der Berner Topkandidat für den Posten des Sportvorstands sein. Spycher hält sich bedeckt. Und befeuert damit die Spekulationen.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Dating-Kandidaten aus Winterthur: Was Don und Bora an «Bachelorette» Ariel fasziniert",
+      "url": "https://www.tagesanzeiger.ch/bachelorette-diese-winterthurer-kaempfen-um-ariel-550574372189",
+      "summary": "In der Dating-Show «Die Bachelorette» bewerben sich 21 Männer um eine einzige Frau. Unter ihnen Don und Bora aus Winterthur. Weshalb machen sie das?",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Raubüberfall in Embrach: Täter bedroht Angestellten mit Pistole und erbeutet mehrere Tausend Franken",
+      "url": "https://www.tagesanzeiger.ch/ueberfall-in-embrach-taeter-erbeutet-tausende-franken-264068760352",
+      "summary": "Ein Unbekannter hat ein Lebensmittelgeschäft in Embrach überfallen. Er konnte flüchten. Die Kantonspolizei Zürich setzte für die Fahndung einen Helikopter ein.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unappetitliche Menükarten: KI-Fotos auf Speisekarten verderben den Appetit",
+      "url": "https://www.tagesanzeiger.ch/ki-fotos-auf-speisekarten-verderben-den-appetit-976910864006",
+      "summary": "Restaurants und Essensstände gestalten ihre Speisekarten inzwischen gern mithilfe künstlicher Intelligenz. Doch die gar so appetitlichen Fotos sind allzu perfekt.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Europaweite Gefahr: Der Schweizer Sport warnt Fans vor Risiken bei illegalem Streaming",
+      "url": "https://www.tagesanzeiger.ch/streamsafe-schweizer-sport-kaempft-gegen-illegales-iptv-503722698208",
+      "summary": "Betrug, Phishing und Malware drohen den Nutzern. Mit der Kampagne «Stream Safe» gehen Schweizer Ligen, Verbände und Medien nun dagegen vor, dem hiesigen Pay-TV entgehen jährlich 70 Millionen Franken.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Unfall im Kanton Solothurn: Auto will links abbiegen, während Lieferwagen überholt – es kommt zur Kollision",
+      "url": "https://www.bernerzeitung.ch/unfall-in-matzendorf-lieferwagen-rammt-auto-bei-ueberholmanoever-886243591513",
+      "summary": "Die beiden Fahrzeuge stiessen am Donnerstagmorgen auf der Thalstrasse in Matzendorf seitlich-frontal zusammen. Die Strasse blieb während 90 Minuten gesperrt.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Teuerste Immobilie auf Basler Markt: IT-Unternehmer baute sich nach Konkurs eine 11-Millionen-Villa – jetzt steht sie zum Verkauf",
+      "url": "https://www.bazonline.ch/binningen-luxusimmobilie-fuer-11-millionen-franken-angeboten-478525319908",
+      "summary": "Die Firma des Eigentümers ging 2001 pleite, zwei Jahre später baute er sein Anwesen. Doch der Verkauf der 10-Zimmer-Villa mit Hallenbad und Fitnessraum dürfte nicht einfach sein.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Immobilienmarkt: Marokko in Sissach – aussergewöhnliche Villen in der Region Basel",
+      "url": "https://www.bazonline.ch/villen-in-binningen-exklusive-immobilien-ab-5-mio-franken-978392758845",
+      "summary": "In der Region suchen mehrere Villen mit teils sehr individuellem Charakter eine neue Käuferschaft. Besonders viele Luxusliegenschaften gibt es in Binningen.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KI-Verdacht: Verlag trennt sich von vermeintlichem Literatur-Wunderkind",
+      "url": "https://www.nzz.ch/feuilleton/ki-verdacht-verlag-trennt-sich-von-vermeintlichem-literatur-wunderkind-ld.10041208",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Rot-Grün darf Parkplätze abbauen, das Gewerbe aber bleibt auf Parkbussen sitzen: Die Zürcher Stadträte erweisen sich als schlechte Demokraten",
+      "url": "https://www.nzz.ch/meinung/neue-parkkarte-zuercher-stadtraete-erweisen-sich-als-schlechte-demokraten-ld.10041365",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Familie Wutz wirbt für Baby-Pass-Aktion",
+      "url": "https://www.persoenlich.com/marketing/familie-wutz-wirbt-fur-baby-pass-aktion",
+      "summary": "Wer in den kommenden Wochen beim Reiseveranstalter der Fluggesellschaft Ferien mit Baby bucht, erhält 68 Franken Rabatt. Der Betrag soll die Kosten des ersten Reisepasses decken.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ein Schmucklabel erobert Schaffhausen",
+      "url": "https://www.shn.ch/multimedia/podcast/2026-10-22/ein-schmucklabel-erobert-schaffhausen",
+      "summary": "Erst ein Pop-up-Store – und bald vielleicht eine fixe Adresse in unserer Region? Nachdem die Expansion nach Zürich nicht ganz so gut geklappt hat, freut sich das Ostschweizer Schmucklabel Alunir in de",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Schaffhauser Regierungsrat korrigiert Budget 2027 um 2,2 Millionen Franken – dennoch soll die Rechnung im Minus enden",
+      "url": "https://www.shn.ch/region/kanton/2026-10-22/schaffhauser-regierungsrat-korrigiert-budget-2027-um-22-millionen-franken",
+      "summary": "Der Kanton Schaffhausen korrigiert seine Prognose: Für das Jahr 2027 erwartet er ein geringeres Minus.",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Plattformregulierung Bundesrat Bleibt auf Halbem Weg Stehen",
+      "url": "https://www.bilanz.ch/unternehmen/plattformregulierung-bundesrat-bleibt-auf-halbem-weg-stehen/p2g1qj1",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Marke Neu Angemeldet Erlebt die Airline Balair Dritten Take Off",
+      "url": "https://www.bilanz.ch/unternehmen/marke-neu-angemeldet-erlebt-die-airline-balair-dritten-take-off/t4h7lhf",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Schokolade und Wein Sind Seelentröster an Trüben Herbsttagen",
+      "url": "https://www.bilanz.ch/enjoy/wein/schokolade-und-wein-sind-seelentroester-an-trueben-herbsttagen/44hhcfd",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Iv Reform Eingliederung Statt Rente für Junge",
+      "url": "https://www.bilanz.ch/konjunktur/iv-reform-eingliederung-statt-rente-fuer-junge/32vcxzq",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Bundesrat Amaudruz Kandidiert für Parmelin Nachfolge",
+      "url": "https://www.bilanz.ch/unternehmen/bundesrat-amaudruz-kandidiert-fuer-parmelin-nachfolge/1f2w5s6",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Diskutiert über Kopftuch in der Volksschule",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-diskutiert-ueber-kopftuch-in-der-volksschule-ld.4251916",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Die Zurzacher Pontonier Veteranen auf der Suche nach dem Fehlenden Wasser",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/die-zurzacher-pontonier-veteranen-auf-der-suche-nach-dem-fehlenden-wasser-ld.4254786",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Budgetabstimmung in Wohlen Fällt auf den 20 Dezember",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/budgetabstimmung-in-wohlen-faellt-auf-den-20-dezember-ld.4254418",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Budget 2027 in Wohlen Urnenabstimmung Kurz vor Weihnachten",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/budget-2027-in-wohlen-urnenabstimmung-kurz-vor-weihnachten-ld.4254419",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Drei Auffahrkollisionen auf der A1 Führen zu Stau",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/drei-auffahrkollisionen-auf-der-a1-fuehren-zu-stau-ld.4254770",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Nach Vier Jahren Findet in Sirnach Wieder eine Gewerbemesse Statt",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/nach-vier-jahren-findet-in-sirnach-wieder-eine-gewerbemesse-statt-ld.4250956",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Grosser Rat Lehnt Mehr Geld für Ärzte im Notfalldienst Ab",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/grosser-rat-lehnt-mehr-geld-fuer-aerzte-im-notfalldienst-ab-ld.4254163",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Art Basel Paris Schliesst Wegen Sicherheitsbedenken Früher",
+      "url": "https://www.bzbasel.ch/kultur/basel/art-basel-paris-schliesst-wegen-sicherheitsbedenken-frueher-ld.4254816",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Mika Brunold Spricht im Interview über Sein Outing und den Durchbruch",
+      "url": "https://www.bzbasel.ch/sport/basel/mika-brunold-spricht-im-interview-ueber-sein-outing-und-den-durchbruch-ld.4254558",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Turgi Hat Endlich Wieder eine Öffentliche Toilette am Bahnhof",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/turgi-hat-endlich-wieder-eine-oeffentliche-toilette-am-bahnhof-ld.4254627",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Hunderttausende Franken Abgezwackt Ex Lokalpolitiker Muss in den Knast",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/hunderttausende-franken-abgezwackt-ex-lokalpolitiker-muss-in-den-knast-ld.4254783",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Oftringer Pionierin Bietet Brustwarzen Prothesen an",
+      "url": "https://www.zofingertagblatt.ch/aargau/zofingen/oftringer-pionierin-bietet-brustwarzen-prothesen-an-ld.4253959",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Einbrüche Schweiz: In diesen Kantonen wird am häufigsten eingebrochen",
+      "url": "https://www.watson.ch/schweiz/karten/555251627-einbrueche-schweiz-in-diesen-kantonen-wird-am-haeufigsten-eingebrochen",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Camille Rast spricht über ihre Karriere und den Start in Sölden",
+      "url": "https://www.watson.ch/sport/ski/520266981-camille-rast-spricht-ueber-ihre-karriere-und-den-start-in-soelden",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Drei Unfälle auf der A1 im Aargau fordern fünf Verletzte",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/385817667-drei-unfaelle-auf-der-a1-im-aargau-fordern-fuenf-verletzte",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Vinyl zwischen Passion und Preisschild – Fünf Jahre Ablette Records",
+      "url": "https://www.freiburger-nachrichten.ch/story/299128/vinyl-zwischen-passion-und-preisschild-f%C3%BCnf-jahre-ablette-records",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zweitägige Reise der Männerriege Alterswil-Tafers",
+      "url": "https://www.freiburger-nachrichten.ch/story/299144/zweit%C3%A4gige-reise-der-m%C3%A4nnerriege-alterswiltafers",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Turnerfreunde leisten vierzig Jahre Vereinsunterstützung",
+      "url": "https://www.freiburger-nachrichten.ch/story/299142/turnerfreunde-leisten-vierzig-jahre-vereinsunterst%C3%BCtzung",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "SVP-Spitze sucht Alternative zu Céline Amaudruz – und blickt nach Bern",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/svp-spitze-sucht-alternative-zu-amaudruz-und-blickt-nach-bern-art-1728179",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kopftuch in der Volksschule: Das sagt das Luzerner Stadtparlament",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-diskutiert-ueber-kopftuch-in-der-volksschule-art-1728172",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Shitstorm um Komiker Daniel Sloss – obwohl nicht er den Vergewaltigungswitz riss",
+      "url": "https://www.bote.ch/nachrichten/kultur/daniel-sloss-shitstorm-um-vergewaltigungswitz-art-1728171",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Elisabeth Jacob sucht die Schönheit im Unvollkommenen und Vergänglichen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/baar-elisabeth-jacob-stellt-in-der-obermuehle-aus-art-1728170",
+      "summary": "",
+      "published": "2026-10-22T14:32:38.295522+00:00"
     }
   ]
 }
