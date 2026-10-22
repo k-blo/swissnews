@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T23:32:50.275712+00:00",
+  "generated": "2026-10-22T00:02:25.332341+00:00",
   "date": "2026-10-22",
-  "count": 21,
+  "count": 22,
   "articles": [
     {
       "source": "20 Minuten",
@@ -149,6 +149,13 @@
       "url": "https://www.zentralplus.ch/news/selenski-wuerde-frontlinien-akzeptieren-2906354/",
       "summary": "Der ukrainische Präsident Wolodimir Selenski wäre bereit, im Ukraine-Krieg die aktuellen Frontlinien zu akzeptieren. Das sagte er dem US-Sender Fox News. Er denke, dies sei ein realistischer Weg, den ",
       "published": "2026-10-21T23:32:50.275712+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fallen die nervigen Cookie-Banner nun bald weg?",
+      "url": "https://www.20min.ch/story/eu-entscheid-fallen-die-nervigen-cookie-banner-nun-bald-weg-103653733",
+      "summary": "Annehmen, Ablehnen oder manuell auswählen: Die Cookie-Banner im Internet nerven viele Nutzer. Die EU will die Regeln ändern, lehnt aber eine technische Lösung ab.",
+      "published": "2026-10-22T00:02:25.332341+00:00"
     }
   ]
 }
