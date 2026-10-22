@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T22:02:26.213554+00:00",
+  "generated": "2026-10-22T22:32:33.190397+00:00",
   "date": "2026-10-23",
-  "count": 1,
+  "count": 4,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -9,6 +9,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/298839/gewinne-einen-100frankengutschein-f%C3%BCr-joggi-in-murten",
       "summary": "",
       "published": "2026-10-22T22:02:26.213554+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trump findet Entscheid «so traurig»: Aus für Pferdekutschen im Central Park – und bald auch anderswo?",
+      "url": "https://www.tagesanzeiger.ch/central-park-new-york-verbietet-pferdekutschen-bis-2028-216149849232",
+      "summary": "Für viele Touristen gehört die Pferdekutschenfahrt durch den New Yorker Central Park zum Pflichtprogramm. Doch damit ist bald Schluss. Hat das Auswirkungen auf andere Kutsch-Orte?",
+      "published": "2026-10-22T22:32:33.190397+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schweres Erdbeben erschüttert Tibet",
+      "url": "https://www.zentralplus.ch/news/schweres-erdbeben-erschuettert-tibet-2906611/",
+      "summary": "Bei einem Erdbeben sind in Tibet mindestens 16 Menschen ums Leben gekommen. Über 30 weitere Personen wurden beim Beben verletzt. Mehr als 300 Häuser seien eingestürzt. Die Zahl der Toten und Verletzte",
+      "published": "2026-10-22T22:32:33.190397+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wir freuen uns auf das Derby gegen den Leader»",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/wir-freuen-uns-auf-das-derby-gegen-den-leader-art-1728146",
+      "summary": "",
+      "published": "2026-10-22T22:32:33.190397+00:00"
     }
   ]
 }
