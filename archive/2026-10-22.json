@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T00:02:25.332341+00:00",
+  "generated": "2026-10-22T00:32:41.865376+00:00",
   "date": "2026-10-22",
-  "count": 22,
+  "count": 25,
   "articles": [
     {
       "source": "20 Minuten",
@@ -156,6 +156,27 @@
       "url": "https://www.20min.ch/story/eu-entscheid-fallen-die-nervigen-cookie-banner-nun-bald-weg-103653733",
       "summary": "Annehmen, Ablehnen oder manuell auswählen: Die Cookie-Banner im Internet nerven viele Nutzer. Die EU will die Regeln ändern, lehnt aber eine technische Lösung ab.",
       "published": "2026-10-22T00:02:25.332341+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ist Diddy zurück im normalen Gefängnisalltag?",
+      "url": "https://www.20min.ch/story/nach-streit-im-knast-ist-diddy-zurueck-im-normalen-gefaengnisalltag-103653735",
+      "summary": "Sean «Diddy» Combs (56) soll nach seiner Verlegung in ein Gefängnis in Pennsylvania offenbar nicht mehr in Einzelhaft sitzen.",
+      "published": "2026-10-22T00:32:41.865376+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Elektroautos boomen weltweit, aber Tesla tritt auf der Stelle",
+      "url": "https://www.nzz.ch/wirtschaft/elektroautos-boomen-weltweit-aber-tesla-tritt-auf-der-stelle-ld.10040605",
+      "summary": "",
+      "published": "2026-10-22T00:32:41.865376+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Meta verzeichnet einen Rekordumsatz – und wird zu einer Rekordstrafe verurteilt",
+      "url": "https://www.nzz.ch/technologie/meta-verzeichnet-einen-rekordumsatz-und-wird-zu-einer-rekordstrafe-verurteilt-ld.10040767",
+      "summary": "",
+      "published": "2026-10-22T00:32:41.865376+00:00"
     }
   ]
 }
