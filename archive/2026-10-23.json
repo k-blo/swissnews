@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T02:02:32.111405+00:00",
+  "generated": "2026-10-23T02:32:38.819082+00:00",
   "date": "2026-10-23",
-  "count": 18,
+  "count": 23,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -128,6 +128,41 @@
       "url": "https://www.tagesanzeiger.ch/geisterfahrer-prallt-im-tessin-frontal-in-polizeiauto-zwei-polizisten-schwer-verletzt-568283407314",
       "summary": "Der Geisterfahrer war im Tessin auf der A2 rund zehn Kilometer in die falsche Richtung unterwegs. Im Piumogna-Tunnel kam es zur Frontalkollision mit einer Polizeipatrouille.",
       "published": "2026-10-23T02:02:32.111405+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "16,5 Millionen Franken für die Doppelturnhalle in Ramsen: So soll das Generationenprojekt aussehen",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-10-23/165-millionen-franken-fuer-die-doppelturnhalle-in-ramsen-so",
+      "summary": "Die Doppelturnhalle ist der dritte und letzte Schritt der Umgestaltung des Schulareals in Ramsen. Über den Baukredit von 16,5 Millionen entscheidet die Gemeindeversammlung am 11. November.",
+      "published": "2026-10-23T02:32:38.819082+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Eine Mutter kleiner Kinder als Bundesrätin? Unbedingt!",
+      "url": "https://www.shn.ch/forum-meinung/kolumnen/2026-10-23/eine-mutter-kleiner-kinder-als-bundesraetin-unbedingt",
+      "summary": "Die Kronfavoritin auf den freiwerdenden Bundesratssitz, Céline Amaudruz, muss sich ständig eine freche Frage gefallen lassen. Zeit, diese müssige Debatte ad acta zu legen.",
+      "published": "2026-10-23T02:32:38.819082+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Jumbo Beim Towerkreisel in Frauenfeld Schliesst im Sommer 2027",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/jumbo-beim-towerkreisel-in-frauenfeld-schliesst-im-sommer-2027-ld.4253823",
+      "summary": "",
+      "published": "2026-10-23T02:32:38.819082+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kreuzlingen Führung zu Vergessenen Frauengeschichten",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/kreuzlingen-fuehrung-zu-vergessenen-frauengeschichten-ld.4253787",
+      "summary": "",
+      "published": "2026-10-23T02:32:38.819082+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Zeitumstellung steht an – doch was passiert eigentlich im Flugzeug?",
+      "url": "https://www.freiburger-nachrichten.ch/story/299077/die-zeitumstellung-steht-an-doch-was-passiert-eigentlich-im-flugzeug",
+      "summary": "",
+      "published": "2026-10-23T02:32:38.819082+00:00"
     }
   ]
 }
