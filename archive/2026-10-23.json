@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T23:32:56.199318+00:00",
+  "generated": "2026-10-23T00:02:58.970608+00:00",
   "date": "2026-10-23",
-  "count": 7,
+  "count": 8,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -51,6 +51,13 @@
       "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/90-geburtstag-von-jakob-koebi-soland-ld.4253931",
       "summary": "",
       "published": "2026-10-22T23:02:44.130069+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Geisterfahrer fährt 10km auf A2 und kracht in Polizeiauto",
+      "url": "https://www.20min.ch/story/tessin-geisterfahrer-faehrt-10km-auf-a2-und-kracht-in-polizeiauto-103654317",
+      "summary": "Eine riskante Flucht vor der Polizei endete mit einer Frontalkollision im Piumogna-Tunnel. Zwei Polizisten und der Fahrer wurden mittelschwer bis schwer verletzt.",
+      "published": "2026-10-23T00:02:58.970608+00:00"
     }
   ]
 }
