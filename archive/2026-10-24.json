@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T23:02:44.587125+00:00",
+  "generated": "2026-10-23T23:32:47.734701+00:00",
   "date": "2026-10-24",
-  "count": 21,
+  "count": 23,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -149,6 +149,20 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/altersforscher-fordert-jede-gemeinde-muss-fuenf-prozent-ihres-budgets-fuer-soziale-kontakte-ausgeben-art-1728359",
       "summary": "",
       "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Meghan: «Ich wollte nur meine Kinder vor meinem Vater schützen»",
+      "url": "https://www.20min.ch/story/kinderporno-verdacht-meghan-ich-wollte-nur-meine-kinder-vor-meinem-vater-schuetzen-103654909",
+      "summary": "Seit 2018 ist die Beziehung von Meghan zu ihrem Vater mehr als nur angeschlagen. Nun kommen schwere Vorwürfe gegen ihn ans Licht. Waren diese der eigentliche Grund für den Bruch?",
+      "published": "2026-10-23T23:32:47.734701+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA: Zölle auf gewisse Güter gesenkt",
+      "url": "https://www.zentralplus.ch/news/usa-zoelle-auf-gewisse-gueter-gesenkt-2906894/",
+      "summary": "Kurz vor den US-Zwischenwahlen und inmitten des Handelskonflikts mit Kanada haben die USA einige ihrer Zölle gegen Produkte des nördlichen Nachbarn gesenkt. Die republikanische Senatorin Susan Collins",
+      "published": "2026-10-23T23:32:47.734701+00:00"
     }
   ]
 }
