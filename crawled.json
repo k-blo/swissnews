@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T22:02:45.906361+00:00",
+  "generated": "2026-10-23T22:32:19.438379+00:00",
   "date": "2026-10-24",
-  "count": 3,
+  "count": 21,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -23,6 +23,132 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/florian-braendle-ist-neuer-sportchef-der-vipers-art-1728327",
       "summary": "",
       "published": "2026-10-23T22:02:45.906361+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Mein inneres Kind tanzt mit»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mein-inneres-kind-tanzt-mit-art-1728378",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Heute ist am Alpchäsmärcht alles viel durchmischter, und viele Städter sind auch da»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/heute-ist-am-alpchaesmaercht-alles-viel-durchmischter-und-viele-staedter-sind-auch-da-art-1728371",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "insieme erlebt Spiel und Spass",
+      "url": "https://www.bote.ch/nachrichten/vereine/insieme-erlebt-spiel-und-spass-art-1728365",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Während in Amerika der Baum brennt, dürfen wir ein Schwyzer Demokratiefest feiern",
+      "url": "https://www.bote.ch/nachrichten/schwyz/waehrend-in-amerika-der-baum-brennt-duerfen-wir-ein-schwyzer-demokratiefest-feiern-art-1728384",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Winterhilfe Kanton Schwyz: Wechsel an der Spitze nach 14 Jahren",
+      "url": "https://www.bote.ch/nachrichten/vereine/winterhilfe-kanton-schwyz-wechsel-an-der-spitze-nach-14-jahren-art-1728363",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Weniger Güsel, mehr Umweltbewusstsein – Clean-up Day bei der Schwabe Pharma AG",
+      "url": "https://www.bote.ch/nachrichten/schwyz/weniger-guesel-mehr-umweltbewusstsein-clean-up-day-bei-der-schwabe-pharma-ag-art-1728357",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Turnerreisli des STV Gersau",
+      "url": "https://www.bote.ch/nachrichten/vereine/turnerreisli-des-stv-gersau-art-1728368",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Starker dritter Platz für Inverno N Caviar in Avenches",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/starker-dritter-platz-fuer-inverno-n-caviar-in-avenches-art-1728354",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rosenpark feiert 20&nbsp;Jahre mit einem neuen Logo",
+      "url": "https://www.bote.ch/nachrichten/schwyz/rosenpark-feiert-20-jahre-mit-einem-neuen-logo-art-1728396",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Postulat fordert mehr Unterstützung für psychisch belastete Kinder und Jugendliche",
+      "url": "https://www.bote.ch/nachrichten/schwyz/postulat-fordert-mehr-unterstuetzung-fuer-psychisch-belastete-kinder-und-jugendliche-art-1728392",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "PTA Mythen bei den Dinosauriern",
+      "url": "https://www.bote.ch/nachrichten/vereine/pta-mythen-bei-den-dinosauriern-art-1728364",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Letzimauer gesucht&nbsp;–&nbsp;nichts gefunden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/letzimauer-gesucht-nichts-gefunden-art-1728385",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Küssnachter Bäuerin wagt sich vor die Fernsehkamera",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kuessnachter-baeuerin-wagt-sich-vor-die-fernsehkamera-art-1728379",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kanton fordert vom Bundesrat den Ausbau des Autobahnanschlusses in Arth",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kanton-fordert-vom-bundesrat-den-ausbau-des-autobahnanschlusses-in-arth-art-1728353",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eine&nbsp;Stunde&nbsp;länger&nbsp;schlafen?&nbsp;Nicht für&nbsp;alle",
+      "url": "https://www.bote.ch/nachrichten/schwyz/eine-stunde-laenger-schlafen-nicht-fuer-alle-art-1728358",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Abend für die junge Generation",
+      "url": "https://www.bote.ch/nachrichten/vereine/ein-abend-fuer-die-junge-generation-art-1728367",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bundesgericht tritt auf CSEM-Beschwerde nicht ein",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bundesgericht-tritt-auf-csem-beschwerde-nicht-ein-art-1728361",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Altersforscher fordert: «Jede Gemeinde muss fünf Prozent ihres Budgets für soziale Kontakte ausgeben»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/altersforscher-fordert-jede-gemeinde-muss-fuenf-prozent-ihres-budgets-fuer-soziale-kontakte-ausgeben-art-1728359",
+      "summary": "",
+      "published": "2026-10-23T22:32:19.438379+00:00"
     }
   ]
 }
