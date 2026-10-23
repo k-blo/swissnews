@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T04:02:27.178484+00:00",
+  "generated": "2026-10-23T04:33:07.120030+00:00",
   "date": "2026-10-23",
-  "count": 213,
+  "count": 226,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1493,6 +1493,97 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/budget-2027-meggen-plant-defizit-und-steuersenkung-art-1728300",
       "summary": "",
       "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Sabotageakte in Lauterbrunnen – Nylonfaden im Lauterbrunnental gespannt – Gefahr für Basejumper",
+      "url": "https://www.srf.ch/news/schweiz/sabotageakte-in-lauterbrunnen-nylonfaden-im-lauterbrunnental-gespannt-gefahr-fuer-basejumper",
+      "summary": "Der Gemeindepräsident von Lauterbrunnen appelliert nach den Sabotageakten gegen Basejumper an die Bevölkerung.",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interaktives Tool: Geburtsort Schweiz oder Ausland? So durchmischt ist Ihr Quartier im Vergleich",
+      "url": "https://www.tagesanzeiger.ch/geburtsort-schweiz-oder-ausland-ihr-quartier-im-vergleich-198685379145",
+      "summary": "Wir zeigen Ihnen, ob die Menschen in Ihrer Nachbarschaft in der Schweiz oder im Ausland geboren sind. Und welche Rolle der Pass spielt.",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Steigende Wohnpreise: Wird in der Schweiz ein Haus verkauft, mischt diese Firma fast immer mit",
+      "url": "https://www.tagesanzeiger.ch/wueest-partner-chef-bleisch-will-europa-erobern-370053789175",
+      "summary": "Wüest Partner bewertet Immobilien und ist damit so mächtig geworden, dass man der Firma vorwirft, die Preise anzuheizen. Verwaltungs­rats­präsident Andreas Bleisch wehrt sich gegen die Vorwürfe – zugl",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Angriffe im Schwarzen Meer: Sechs von Russland attackierte Schiffe in zehn Tagen – jetzt eilt die Nato zu Hilfe",
+      "url": "https://www.tagesanzeiger.ch/nato-schickt-drohnenabwehr-ans-schwarze-meer-125967272627",
+      "summary": "Moskaus Krieg gegen die Ukraine trifft Rumänien und Bulgarien immer härter. Die Nato schickt nun Überwachungs­flugzeuge, Radarsysteme und Geräte zur Drohnenabwehr.",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Christian Seiler kocht: Faule Feinschmeckerinnen und Feinschmecker aufgepasst! Dieses Rezept braucht wenig und gibt viel",
+      "url": "https://www.tagesanzeiger.ch/fenchelpasta-mit-anchovis-rezept-nach-alice-waters-515913448712",
+      "summary": "Pasta, Fenchel und Fisch – viel mehr braucht es nicht für einen Einblick in die wunderbare Küche von Gourmet-Legende Alice Waters.",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Trendumfrage zur Abstimmung vom 29. November: Feuerwerk und faire Steuern überzeugen – AHV-Vorlage droht zu scheitern",
+      "url": "https://www.tagesanzeiger.ch/abstimmung-ahv-finanzierung-droht-zu-scheitern-983901155121",
+      "summary": "Die Feuerwerks- und die Fairness-Initiative stossen auf breite Zustimmung. Bei der Finanzierung der 13. AHV-Rente zeichnet sich hingegen ein knappes Nein ab.",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neue Heimat am Zürichsee: «Das Bestmögliche, was passieren konnte»: So kommt Roger Federers Einzug in Rapperswil an",
+      "url": "https://www.tagesanzeiger.ch/roger-federer-in-rapperswil-jona-so-reagiert-die-bevoelkerung-734831277913",
+      "summary": "Die Tennislegende ist vor kurzem in Kempraten eingezogen. Doch was erwarten die neue Nachbarin, der Tourismusdirektor oder der lokale Tennisclub vom prominenten Neuzuzüger?",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stichwahl in Brasilien: Warum ausgerechnet Frauen Bolsonaro zum Sieg verhelfen könnten",
+      "url": "https://www.tagesanzeiger.ch/brasilien-wahl-wie-rechte-frauen-fuer-bolsonaro-mobilisieren-116234866792",
+      "summary": "In Brasilien wählten Frauen bislang eher links. Jetzt aber begeistern sich viele für ein extrem rechtes Weltbild und könnten Flávio Bolsonaro zur Macht verhelfen.",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Langnau-Captain Flavio Schmutz: Eigentlich müsste er dem SCB danken",
+      "url": "https://www.bernerzeitung.ch/scl-tigers-flavio-schmutz-ueber-sein-amt-als-captain-964261843573",
+      "summary": "Mit einer Garderobenpredigt beeindruckte er den Trainer. Nun führt der 32-Jährige die SCL Tigers als Captain an. Wann er dem Team die Leviten liesst – und weshalb er sich gegen einen Wechsel entschied",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Leerstand an Toplagen: Was tun mit Basels vielen verwaisten Büros? Dieser Architekt sagt: Zu Wohnraum umnutzen",
+      "url": "https://www.bazonline.ch/basel-aus-leeren-bueros-wurden-ueber-tausend-neue-wohnungen-397643111946",
+      "summary": "Michael Roth von Diener & Diener sieht in den 124’700 Quadrat­metern leere Bürofläche eine grosse Chance für den Wohn­standort Basel. Wieso diese Gebäude oft ideale Voraussetzungen für Wohnungen mitbr",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "E-Trotti-Unfall in Basel: Die Augenzeugin sagt: «Er war wie eine Katze, die vors Auto springt»",
+      "url": "https://www.bazonline.ch/e-trottinett-basler-lehrling-nach-unfall-vor-gericht-245052463097",
+      "summary": "Seit seinem 14. Lebensjahr fuhr er E-Trottinett, mit 18 brach er sich bei einer Kollision das Bein. Jetzt wird Elim K. auch noch verurteilt und will nie mehr auf solch ein Fahrzeug steigen.",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Roche setzt Investitionen in Deutschland aus – Chef erklärt, warum",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-10-23/roche-setzt-investitionen-in-deutschland-aus-chef-erklaert",
+      "summary": "Thomas Schinecker legte vor den Medien dar, weshalb er gewisse Investitionen in Deutschland aussetzt. Was bedeutet das für die Schweiz?",
+      "published": "2026-10-23T04:33:07.120030+00:00"
+    },
+    {
+      "source": "Rathuus",
+      "title": "Unser Mann in London Feiert Premiere Mind The Gap",
+      "url": "https://rathuus.ch/unser-mann-in-london-feiert-premiere-mind-the-gap/",
+      "summary": "",
+      "published": "2026-10-23T04:33:07.120030+00:00"
     }
   ]
 }
