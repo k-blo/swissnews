@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T01:02:39.512917+00:00",
+  "generated": "2026-10-23T01:33:20.797155+00:00",
   "date": "2026-10-23",
-  "count": 16,
+  "count": 17,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -114,6 +114,13 @@
       "url": "https://www.zentralplus.ch/news/oe-proteste-fuer-hoeheres-uni-budget-2906615/",
       "summary": "Tausende Studierende sind in Wien aus Protest gegen den neuen Hochschuletat auf die Strasse gegangen. Die Studierenden fordern eine nachträgliche Erhöhung des Uni-Budgets. Die Regierung schliesst das ",
       "published": "2026-10-23T01:02:39.512917+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das Blut kommt mit der Drohne: Dopingjäger gehen neue Wege",
+      "url": "https://www.freiburger-nachrichten.ch/story/299081/das-blut-kommt-mit-der-drohne-dopingj%C3%A4ger-gehen-neue-wege",
+      "summary": "",
+      "published": "2026-10-23T01:33:20.797155+00:00"
     }
   ]
 }
