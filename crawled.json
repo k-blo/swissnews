@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T21:25:31.275977+00:00",
+  "generated": "2026-10-23T21:32:54.285697+00:00",
   "date": "2026-10-23",
-  "count": 1022,
+  "count": 1029,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -7156,6 +7156,55 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/oberthurgauer-wirtschaftsmeeting-in-bildern-ld.4255739",
       "summary": "",
       "published": "2026-10-23T21:25:31.275977+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Der Siegeshunger ist Zurück Scrj Lakers Beenden Negativserie",
+      "url": "https://www.suedostschweiz.ch/linth/der-siegeshunger-ist-zurueck-scrj-lakers-beenden-negativserie-2207550",
+      "summary": "",
+      "published": "2026-10-23T21:32:54.285697+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Der Ev Zug Feiert Gegen den Hc Lausanne eine Gelungene Heimpremiere",
+      "url": "https://www.zugerzeitung.ch/sport/evz/der-ev-zug-feiert-gegen-den-hc-lausanne-eine-gelungene-heimpremiere-ld.4252414",
+      "summary": "",
+      "published": "2026-10-23T21:32:54.285697+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: EPO-Verdacht bei Marathon-Weltmeisterin",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-epo-verdacht-bei-marathon-weltmeisterin",
+      "summary": "",
+      "published": "2026-10-23T21:32:54.285697+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "40 Minuten Langeweile und 20 Minuten Wahnsinn",
+      "url": "https://www.freiburger-nachrichten.ch/story/299478/40-minuten-langeweile-und-20-minuten-wahnsinn",
+      "summary": "",
+      "published": "2026-10-23T21:32:54.285697+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Terrorermittlungen nach «Blutbad» in Paris ++ 70'000 Einsatzkräfte: Frankreich bereitet sich auf das Wochenende vor",
+      "url": "https://www.freiburger-nachrichten.ch/story/298234/terrorermittlungen-nach-blutbad-in-paris-70000-einsatzkr%C3%A4fte-frankreich-bereitet-sich-auf-das-wochenende-vor",
+      "summary": "",
+      "published": "2026-10-23T21:32:54.285697+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schmöcker: Cooles Wetter und flotte Sprüche",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schmoecker-cooles-wetter-und-flotte-sprueche-art-1728452",
+      "summary": "",
+      "published": "2026-10-23T21:32:54.285697+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rohrer eröffnet die Party – und beendet sie: Der EV Zug und die erfolgreiche Heimpremiere",
+      "url": "https://www.bote.ch/nachrichten/sport/der-ev-zug-feiert-gegen-den-hc-lausanne-eine-gelungene-heimpremiere-art-1728399",
+      "summary": "",
+      "published": "2026-10-23T21:32:54.285697+00:00"
     }
   ]
 }
