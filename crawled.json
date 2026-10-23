@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T00:32:25.446956+00:00",
+  "generated": "2026-10-23T01:02:39.512917+00:00",
   "date": "2026-10-23",
-  "count": 14,
+  "count": 16,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/bei-den-wahlen-geht-es-um-israels-zukunft",
       "summary": "",
       "published": "2026-10-23T00:32:25.446956+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Meghans Vater wegen mutmasslicher Kinderpornografie im Visier",
+      "url": "https://www.20min.ch/story/sohn-hat-ihn-angezeigt-meghans-vater-wegen-mutmasslicher-kinderpornografie-im-visier-103654321",
+      "summary": "Thomas Markle soll mutmassliche Missbrauchsbilder besessen haben. Sein Sohn meldete den Fund den Behörden.",
+      "published": "2026-10-23T01:02:39.512917+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ö: Proteste für höheres Uni-Budget",
+      "url": "https://www.zentralplus.ch/news/oe-proteste-fuer-hoeheres-uni-budget-2906615/",
+      "summary": "Tausende Studierende sind in Wien aus Protest gegen den neuen Hochschuletat auf die Strasse gegangen. Die Studierenden fordern eine nachträgliche Erhöhung des Uni-Budgets. Die Regierung schliesst das ",
+      "published": "2026-10-23T01:02:39.512917+00:00"
     }
   ]
 }
