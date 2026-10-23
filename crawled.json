@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T03:32:37.401602+00:00",
+  "generated": "2026-10-23T04:02:27.178484+00:00",
   "date": "2026-10-23",
-  "count": 175,
+  "count": 213,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1227,6 +1227,272 @@
       "url": "https://www.suedostschweiz.ch/glarus/verurteilt-er-wollte-den-bmw-nur-2203808",
       "summary": "",
       "published": "2026-10-23T03:32:37.401602+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Erste SRG-Umfrage – Vorerst drei Pattsituationen und ein klarer Ja-Trend",
+      "url": "https://www.srf.ch/news/schweiz/erste-srg-umfrage-vorerst-drei-pattsituationen-und-ein-klarer-ja-trend",
+      "summary": "Wäre am 11. Oktober abgestimmt worden, hätte das Stimmvolk mehrheitlich gegen die Behördenempfehlungen gestimmt.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Erste SRG-Umfrage – Beim Kriegsmaterialgesetz ist noch alles offen",
+      "url": "https://www.srf.ch/news/erste-srg-umfrage-beim-kriegsmaterialgesetz-ist-noch-alles-offen",
+      "summary": "49 Prozent würden die Vorlage ablehnen, 41 Prozent würden sie annehmen. Ganze 10 Prozent sind aber noch unentschlossen.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Erste SRG-Umfrage – Knappes Ja bei der Initiative gegen die Heiratsstrafe",
+      "url": "https://www.srf.ch/news/erste-srg-umfrage-knappes-ja-bei-der-initiative-gegen-die-heiratsstrafe",
+      "summary": "55 Prozent würden die Vorlage annehmen, 34 Prozent würden sie ablehnen. Ganze 11 Prozent sind aber noch unentschlossen.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Erste SRG-Umfrage – Finanzierung 13. AHV: Pattsituation mit leichtem Nein-Vorsprung",
+      "url": "https://www.srf.ch/news/erste-srg-umfrage-finanzierung-13-ahv-pattsituation-mit-leichtem-nein-vorsprung",
+      "summary": "Knappe Kiste bei den Abstimmungen am 29. November: 49 Prozent des Stimmvolks lehnt die Mehrwertsteuererhöhung ab.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Erste SRG-Umfrage – Ja-Vorteil für Feuerwerksinitiative – Meinungen fast gemacht",
+      "url": "https://www.srf.ch/news/erste-srg-umfrage-ja-vorteil-fuer-feuerwerksinitiative-meinungen-fast-gemacht",
+      "summary": "Wäre vor ein paar Tagen abgestimmt worden, wäre ein Verbot für lärmendes, privat abgelassenes Feuerwerk Tatsache.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wir sind Zukunft: «Nachhaltige Periodenprodukte haben ihre Öko-Nische verlassen»",
+      "url": "https://www.tagesanzeiger.ch/franziska-barthe-ueber-nachhaltige-periodenprodukte-552908283095",
+      "summary": "Weniger Abfall und ein schonenderer Umgang mit Ressourcen: Franziska Barthe vom Schweizer Menstruationsladen Afriska.ch über nachhaltigere Alternativen zu Wegwerfbinden und Tampons.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mika Brunold nach Coming-out: «Ich bin Tennisspieler, nicht der schwule Tennisspieler»",
+      "url": "https://www.tagesanzeiger.ch/mika-brunold-spricht-ueber-sein-coming-out-im-tennis-636668660104",
+      "summary": "Zwei Turniersiege, erstmals in den Top 200: Mika Brunold erlebt mit 22 den sportlichen Durchbruch. Wie es ihn befreit hat, zu seiner Homo­sexualität zu stehen, und welche Reaktionen ihn am meisten fre",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "SBB-Projekte in Kloten: Das umständliche Brückenprovisorium in Kloten hat bald ausgedient",
+      "url": "https://www.tagesanzeiger.ch/sbb-kloten-neue-bruecke-oeffnet-am-7-dezember-206107626296",
+      "summary": "Der Doppelspurausbau am Balsberg sowie die neue Strassenbrücke beim Kino sind fast fertig. Noch vor Weihnachten soll der Autoverkehr wieder ohne Umwege durch die Flughafenstadt rollen.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ausgehtipps fürs Wochenende: Das läuft im Zürcher Unterland",
+      "url": "https://www.tagesanzeiger.ch/ausgehtipps-fuers-wochenende-das-laeuft-im-zuercher-unterland-348983118428",
+      "summary": "In Kloten tritt das Quartett Pico Lightyear mit seinem Debütalbum auf, und in Embrach gibt der Magier Magrée seine Zaubershow zum Besten.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stürmisches Wochenende: Ab Freitag ziehen Sturmtiefs über die Schweiz – auch im Flachland wird es ruppig",
+      "url": "https://www.tagesanzeiger.ch/wetter-schweiz-herbststuerme-mit-orkanboeen-bis-130-km-h-743004745287",
+      "summary": "Gleich zwei Herbststürme erfassen die Schweiz in den nächsten Tagen. In höheren Lagen gibt es Orkanböen, in tieferen Lagen stürmt es.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kritik an Neuenegger Strasse: Neue 30er-Zone: Autos fahren aufs Trottoir, Anwohner sorgt sich um Schulkinder",
+      "url": "https://www.bernerzeitung.ch/neuenegg-trottoir-fuer-600000-franken-zu-wenig-sicher-495672745341",
+      "summary": "An der Denkmalstrasse in Neuenegg weichen Autos aufs neue Trottoir aus. Die Gemeinde misst die Geschwindigkeit offiziell erst, wenn die Bauarbeiten abgeschlossen sind.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Events Thun/Oberland: BLS sanierte für 35 Millionen Franken einen Bahnhof",
+      "url": "https://www.bernerzeitung.ch/bls-sanierte-fuer-35-millionen-franken-diesen-bahnhof-762913165790",
+      "summary": "In Kandersteg wird gefeiert, in Goldiwil, Thun und Unterseen wird musiziert und in Spiez erzählt ein Skicross-Weltmeister über seine Karriere.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "125 Jahre MOB: Sie brachte den Jetset nach Gstaad und transportierte die Queen durchs Simmental",
+      "url": "https://www.bernerzeitung.ch/125-jahre-mob-wie-gstaad-zum-jetset-hotspot-wurde-432267276104",
+      "summary": "Ohne sie wäre Gstaad heute vermutlich kein Glamour-Hotspot. Die Entwicklung der Montreux-Berner-Oberland-Bahn (MOB) hat das Simmental und das Saanenland massgeblich geprägt. Ein Blick auf die bewegte ",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Kellerbistro Huttwil: Die letzte Saison in der alten Mühle: Kulturpionier sucht Nachfolge",
+      "url": "https://www.bernerzeitung.ch/keller-bistro-huttwil-25-saison-in-der-alten-muehle-426172871191",
+      "summary": "Ein Vierteljahrhundert lang hat Erich Stamm seinen Gewölbekeller zur Kleinkunstbühne gemacht. Bald feiert er den 80. Geburtstag und will sein Lebenswerk in jüngere Hände legen.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Campusfestival 2026: Party statt Vorlesung: Berns kultigstes Unifest ist zurück",
+      "url": "https://www.bernerzeitung.ch/campusfestival-bern-am-7-november-wird-die-unitobler-zum-festsaal-104973582723",
+      "summary": "Zwei Jahre war Pause. Jetzt lässt eine Gruppe Studierender einen Anlass mit legendärer Vergangenheit wieder aufleben.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Messe in Bern: So lebt es sich im Luxuswohnmobil mit Doppelbett und Bodenheizung",
+      "url": "https://www.bernerzeitung.ch/camper-die-trends-am-suisse-caravan-salon-bern-321069331680",
+      "summary": "Camperferien sind in Mode. Was die Trend-Destinationen sind, welche Wagen out sind – und warum Instagrammer für Unmut sorgen.",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Meggen will Steuern senken – trotz Millionen-Defizit",
+      "url": "https://www.zentralplus.ch/news/meggen-will-steuern-senken-trotz-millionen-defizit-2906596/",
+      "summary": "Die Gemeinde Meggen will den Steuerfuss 2027 erneut senken. Obwohl dadurch Millionen an Einnahmen wegfallen und hohe Investitionen anstehen, sieht der Gemeinderat genügend finanziellen Spielraum. n Me",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Fokus Luftverteidigung: Ein Schweizer Alleingang ist eine gefährliche Illusion",
+      "url": "https://www.nzz.ch/meinung/fokus-luftverteidigung-eine-schweizer-alleingang-ist-eine-gefaehrliche-illusion-ld.10039354",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Deadline-Day bei der SVP: Wer bewirbt sich am letzten Tag für die Nachfolge von Bundespräsident Guy Parmelin?",
+      "url": "https://www.nzz.ch/schweiz/deadline-day-bei-der-svp-wer-bewirbt-sich-am-letzten-tag-fuer-die-nachfolge-von-bundespraesident-guy-parmelin-ld.10041781",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Werden die Frauen in der Schweiz beim Lohn doch nicht diskriminiert? Eine neue Studie liefert erstaunliche Zahlen",
+      "url": "https://www.nzz.ch/schweiz/werden-die-frauen-in-der-schweiz-beim-lohn-doch-nicht-diskriminiert-eine-neue-studie-liefert-erstaunliche-zahlen-ld.10041669",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein schmutziger Wahlkampf eskaliert weiter: In Ohio hält Vivek Ramaswamy an einem kontroversen TV-Spot fest",
+      "url": "https://www.nzz.ch/international/ein-schmutziger-wahlkampf-eskaliert-weiter-in-ohio-haelt-vivek-ramaswamy-an-einem-kontroversen-tv-spot-fest-ld.10041656",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Krawallanten in Frankreich: Hass auf den Staat ist en vogue",
+      "url": "https://www.nzz.ch/meinung/krawallanten-in-frankreich-hass-auf-den-staat-ist-en-vogue-ld.10041547",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Trump will Frieden in der Ukraine. Warum kommt er dann vor allem Putin entgegen?",
+      "url": "https://www.nzz.ch/pro/ukraine-krieg-warum-trump-wieder-putin-entgegenkommt-ld.10041500",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Europa muss endlich aufwachen»",
+      "url": "https://www.nzz.ch/international/europa-muss-endlich-aufwachen-ld.10041311",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der niederländische Regierungschef Rob Jetten bekommt dank einer Leihmutter ein Kind – das unterscheidet ihn vom Fall Spahn",
+      "url": "https://www.nzz.ch/international/der-niederlaendische-regierungschef-rob-jetten-bekommt-dank-einer-leihmutter-ein-kind-das-unterscheidet-ihn-vom-fall-spahn-ld.10041282",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "1000 Songs in der Hosentasche: Vor 25 Jahren hat Apple den ersten iPod präsentiert",
+      "url": "https://www.nzz.ch/panorama/1000-songs-in-der-hosentasche-vor-25-jahren-hat-apple-den-ersten-ipod-praesentiert-ld.10041281",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nathalie Stutzmann in der Tonhalle: eine Dirigentin, die jede Musik zum Singen bringt",
+      "url": "https://www.nzz.ch/feuilleton/nathalie-stutzmann-in-der-tonhalle-zuerich-eine-dirigentin-die-jede-musik-zum-singen-bringt-ld.10041279",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kein Mozzarella mehr, Blumen und Gemüse auf dem Abfall: Ein Streik der Lastwagenfahrer legt Süditalien lahm",
+      "url": "https://www.nzz.ch/international/sueditalien-lastwagenstreik-sorgt-fuer-leere-regale-und-chaos-ld.10041165",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - «Die meisten öffentlich-privaten Partnerschaften sind parasitär»: Die Ökonomin Mariana Mazzucato fordert einen neuen Kapitalismus",
+      "url": "https://www.nzz.ch/wirtschaft/die-meisten-oeffentlich-privaten-partnerschaften-sind-parasitaer-die-oekonomin-mariana-mazzucato-fordert-einen-neuen-kapitalismus-ld.10041094",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Sasha DiGiulian gehört zur Kletter-Weltspitze – und wird trotzdem als «Climbing Barbie» belächelt",
+      "url": "https://www.nzz.ch/sport/alpinismus/sexismus-im-klettersport-sasha-digiulian-ueber-mansplaining-an-der-felswand-ld.10040583",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Jon Ossoff – könnte dieser Demokrat der neue Obama sein?",
+      "url": "https://www.nzz.ch/international/jon-ossoff-ist-dieser-demokrat-der-naechste-obama-ld.10038469",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Zu schwer, zu langsam, zu spät: warum Europa der Ukraine beim Satelliteninternet derzeit kaum helfen kann",
+      "url": "https://www.nzz.ch/wissenschaft/zu-schwer-zu-langsam-zu-spaet-warum-europa-der-ukraine-beim-satelliteninternet-derzeit-kaum-helfen-kann-ld.10038452",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Sound-Abmischung im Auto – die Luxuslimousine wird zum Tonstudio",
+      "url": "https://www.nzz.ch/mobilitaet/soundabmischung-im-auto-die-luxuslimousine-wird-zum-tonstudio-ld.10038318",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Sie Kommen in der Dämmerung So Schützen sie Sich Gegen Einbrecher",
+      "url": "https://www.suedostschweiz.ch/linth/sie-kommen-in-der-daemmerung-so-schuetzen-sie-sich-gegen-einbrecher-2205622",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Budget 2027 Meggen Plant Defizit und Steuersenkung",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/budget-2027-meggen-plant-defizit-und-steuersenkung-ld.4254401",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Trimbach und die Zweithöchste Leerwohnungsquote der Deutschschweiz",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/trimbach-und-die-zweithoechste-leerwohnungsquote-der-deutschschweiz-ld.4253254",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nicolas Kolly verzichtet auf eine Kandidatur für den Bundesrat",
+      "url": "https://www.freiburger-nachrichten.ch/story/299124/nicolas-kolly-verzichtet-auf-eine-kandidatur-f%C3%BCr-den-bundesrat",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Megger Gemeinderat will Steuern senken und Defizit «bewusst in Kauf» nehmen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/budget-2027-meggen-plant-defizit-und-steuersenkung-art-1728300",
+      "summary": "",
+      "published": "2026-10-23T04:02:27.178484+00:00"
     }
   ]
 }
