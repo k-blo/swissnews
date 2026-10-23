@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T01:33:20.797155+00:00",
+  "generated": "2026-10-23T02:02:32.111405+00:00",
   "date": "2026-10-23",
-  "count": 17,
+  "count": 18,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -121,6 +121,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/299081/das-blut-kommt-mit-der-drohne-dopingj%C3%A4ger-gehen-neue-wege",
       "summary": "",
       "published": "2026-10-23T01:33:20.797155+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Grosseinsatz beim Gotthard: Geisterfahrer prallt frontal in Polizeiauto – zwei Polizisten schwer verletzt",
+      "url": "https://www.tagesanzeiger.ch/geisterfahrer-prallt-im-tessin-frontal-in-polizeiauto-zwei-polizisten-schwer-verletzt-568283407314",
+      "summary": "Der Geisterfahrer war im Tessin auf der A2 rund zehn Kilometer in die falsche Richtung unterwegs. Im Piumogna-Tunnel kam es zur Frontalkollision mit einer Polizeipatrouille.",
+      "published": "2026-10-23T02:02:32.111405+00:00"
     }
   ]
 }
