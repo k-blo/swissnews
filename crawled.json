@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T23:32:47.734701+00:00",
+  "generated": "2026-10-24T00:02:49.493103+00:00",
   "date": "2026-10-24",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.zentralplus.ch/news/usa-zoelle-auf-gewisse-gueter-gesenkt-2906894/",
       "summary": "Kurz vor den US-Zwischenwahlen und inmitten des Handelskonflikts mit Kanada haben die USA einige ihrer Zölle gegen Produkte des nördlichen Nachbarn gesenkt. Die republikanische Senatorin Susan Collins",
       "published": "2026-10-23T23:32:47.734701+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Stromausfall in Risch Darum Wurde es am Freitagabend Dunkel in der Gemeinde",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/stromausfall-in-risch-darum-wurde-es-am-freitagabend-dunkel-in-der-gemeinde-ld.4255745",
+      "summary": "",
+      "published": "2026-10-24T00:02:49.493103+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Es gab einen heftigen Windstoss, danach gingen die Lichter aus»: Das ist der Grund für den Stromausfall",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/stromausfall-in-risch-darum-wurde-es-am-freitagabend-dunkel-in-der-gemeinde-art-1728471",
+      "summary": "",
+      "published": "2026-10-24T00:02:49.493103+00:00"
     }
   ]
 }
