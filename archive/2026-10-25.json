@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-24T23:02:43.113713+00:00",
+  "generated": "2026-10-24T23:33:00.296991+00:00",
   "date": "2026-10-25",
-  "count": 1,
+  "count": 2,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -9,6 +9,13 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/ausschreitungen-in-europa-barcelona-und-frankreich-im-fokus-art-1728528",
       "summary": "",
       "published": "2026-10-24T23:02:43.113713+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Verdächtiger soll Neonazi-Netzwerk Blood and Honour angehören",
+      "url": "https://www.20min.ch/story/toter-in-tuggen-sz-verdaechtiger-soll-neonazi-netzwerk-blood-and-honour-angehoeren-103655707",
+      "summary": "Der Tod eines 27-jährigen Deutschen nach einer Schlägerei in Tuggen SZ könnte einen rechtsextremen Hintergrund haben. Der festgenommene 42-jährige Schweizer soll seit Jahren dem in Deutschland verbote",
+      "published": "2026-10-24T23:33:00.296991+00:00"
     }
   ]
 }
