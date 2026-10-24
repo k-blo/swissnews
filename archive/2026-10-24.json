@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-24T04:02:25.259564+00:00",
+  "generated": "2026-10-24T04:32:40.504298+00:00",
   "date": "2026-10-24",
-  "count": 180,
+  "count": 185,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1262,6 +1262,41 @@
       "url": "https://www.watson.ch/digital/spass/517625650-die-frechsten-und-besten-trump-karikaturen-der-woche",
       "summary": "",
       "published": "2026-10-24T04:02:25.259564+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Im ehemaligen NS-Teehaus am Obersalzberg ist ein Feuer ausgebrochen",
+      "url": "https://www.nzz.ch/panorama/im-ehemaligen-ns-teehaus-am-obersalzberg-ist-ein-feuer-ausgebrochen-ld.10043313",
+      "summary": "",
+      "published": "2026-10-24T04:32:40.504298+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Mit Heli Bernina über dem Engadin der Winter und die Hühner Kommen am Seil",
+      "url": "https://www.suedostschweiz.ch/graubuenden/mit-heli-bernina-ueber-dem-engadin-der-winter-und-die-huehner-kommen-am-seil-2193734",
+      "summary": "",
+      "published": "2026-10-24T04:32:40.504298+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Satelliten: Wie sich die Ukraine von Starlink-Abhängigkeit lösen will",
+      "url": "https://www.watson.ch/digital/raumfahrt/505379576-satelliten-wie-sich-die-ukraine-von-starlink-abhaengigkeit-loesen-will",
+      "summary": "",
+      "published": "2026-10-24T04:32:40.504298+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Frage, die entscheiden sollte, wer Parmelin-Nachfolger wird",
+      "url": "https://www.freiburger-nachrichten.ch/story/299562/die-frage-die-entscheiden-sollte-wer-parmelinnachfolger-wird",
+      "summary": "",
+      "published": "2026-10-24T04:32:40.504298+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wildunfälle im Herbst: Wo es besonders häufig kracht und was man dagegen tun kann",
+      "url": "https://www.freiburger-nachrichten.ch/story/299268/wildunf%C3%A4lle-im-herbst-wo-es-besonders-h%C3%A4ufig-kracht-und-was-man-dagegen-tun-kann",
+      "summary": "",
+      "published": "2026-10-24T04:32:40.504298+00:00"
     }
   ]
 }
