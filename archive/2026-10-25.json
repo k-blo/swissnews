@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T02:02:45.964947+00:00",
+  "generated": "2026-10-25T02:32:25.288524+00:00",
   "date": "2026-10-25",
-  "count": 9,
+  "count": 13,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -65,6 +65,34 @@
       "url": "https://www.tagesanzeiger.ch/rund-100-festnahmen-nach-randale-in-barcelona-811283227866",
       "summary": "Im Zentrum der Hauptstadt Kataloniens kommen Hunderte junge Menschen zu Protesten zusammen. Etliche randalieren und plündern Geschäfte. Das genaue Ziel der Proteste ist unklar.",
       "published": "2026-10-25T02:02:45.964947+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Es wird wieder an der Uhr gedreht: Sommerzeit endet diese Nacht",
+      "url": "https://www.20min.ch/story/zeitumstellung-wer-hat-an-der-uhr-gedreht-sommerzeit-endet-diese-nacht-103655710",
+      "summary": "Es gilt wieder die Normalzeit: Um 3 Uhr sind die Uhren um eine Stunde zurückgestellt worden. Die letzte Nacht war damit eine Stunde länger.",
+      "published": "2026-10-25T02:32:25.288524+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Noch nie erlebt»: YB-Stars zur Schock-Nachricht von Seoane",
+      "url": "https://www.20min.ch/story/trainer-im-spital-noch-nie-erlebt-yb-stars-zur-schock-nachricht-von-seoane-103655703",
+      "summary": "Gerardo Seoane fehlt beim 2:0-Sieg gegen St. Gallen wegen einer Entzündung im Ohr. Assistent Matteo Vanetta führt YB zum Sieg. Für die Spieler wie Christian Fassnacht ein hochemotionaler Tag.",
+      "published": "2026-10-25T02:32:25.288524+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Proteste und Randale in Barcelona",
+      "url": "https://www.zentralplus.ch/news/proteste-und-randale-in-barcelona-2906994/",
+      "summary": "In Barcelona sind Berichten zufolge Hunderte Jugendliche und junge Erwachsene zu Protesten zusammengekommen, etliche hätten dabei randaliert. Die jungen Leute hätten Strassenmobiliar, Fahrräder und Mo",
+      "published": "2026-10-25T02:32:25.288524+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Huthis: Angriffe auf Saudi-Arabien",
+      "url": "https://www.zentralplus.ch/news/huthis-angriffe-auf-saudi-arabien-2906992/",
+      "summary": "Die Huthi-Rebellen im Jemen haben mehrere Ziele in Saudi-Arabien mit Raketen und Drohnen angegriffen. Das sagen die Huthis selbst. Zu den Zielen gehörten demnach der Flughafen in Riad und mehrere Ölan",
+      "published": "2026-10-25T02:32:25.288524+00:00"
     }
   ]
 }
