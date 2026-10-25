@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T01:15:10.092275+00:00",
+  "generated": "2026-10-25T01:32:25.089122+00:00",
   "date": "2026-10-25",
-  "count": 6,
+  "count": 8,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -44,6 +44,20 @@
       "url": "https://www.tagblatt.ch/sport/thurgau/das-klare-resultat-taeuscht-volley-amriswil-beim-31-in-colombier-gefordert-ld.4255812",
       "summary": "",
       "published": "2026-10-25T00:32:06.969658+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Rund 100 Festnahmen nach Randale in Barcelona",
+      "url": "https://www.20min.ch/story/proteste-in-spanien-rund-100-festnahmen-nach-randale-in-barcelona-103655708",
+      "summary": "Im Zentrum der Hauptstadt Kataloniens kommen Hunderte junge Menschen zu Protesten zusammen. Etliche randalieren und plündern Geschäfte. Das genaue Ziel der Proteste ist unklar.",
+      "published": "2026-10-25T01:32:25.089122+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Konstante Inkonstanz bei Gottéron",
+      "url": "https://www.freiburger-nachrichten.ch/story/299625/konstante-inkonstanz-bei-gottron",
+      "summary": "",
+      "published": "2026-10-25T01:32:25.089122+00:00"
     }
   ]
 }
