@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T11:19:06.998747+00:00",
+  "generated": "2026-10-25T11:32:24.344501+00:00",
   "date": "2026-10-25",
-  "count": 243,
+  "count": 249,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -1703,6 +1703,48 @@
       "url": "https://www.bote.ch/nachrichten/sport/labiler-und-naiver-fcl-oder-wie-udo-portmann-sagt-uns-fehlt-die-konstanz-art-1728545",
       "summary": "",
       "published": "2026-10-25T11:19:06.998747+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Lange Warteschlange vor serbischem Konsulat in Zürich",
+      "url": "https://www.blick.ch/schweiz/zuerich/serbien-wahl-lange-schlange-vor-konsulat-in-zuerich/sm58yx1",
+      "summary": "Vor dem serbischen Konsulat in Zürich stehen am Sonntag zahlreiche Auslandserbinnen und -serben für die Parlamentswahl an. Viele setzen ihre Hoffnungen auf die Studentenliste gegen Präsident Aleksanda",
+      "published": "2026-10-25T11:32:24.344501+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "FCB – GC im Ticker: Findet der FCB gegen GC zum Siegen zurück – oder umgekehrt?",
+      "url": "https://www.tagesanzeiger.ch/super-league-live-fcb-gc-um-16-30-uhr-im-ticker-183684793301",
+      "summary": "Der FCB hat die letzten zwei Partien in der Liga verloren, GC sogar drei. Wer findet aus dem Loch? Das Duell im Liveticker.",
+      "published": "2026-10-25T11:32:24.344501+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Demos am Wochenende: Randale bei Protesten in mehreren europäischen Ländern",
+      "url": "https://www.bernerzeitung.ch/proteste-in-europa-fast-1000-festnahmen-in-frankreich-176328878439",
+      "summary": "In Frankreich gingen am Samstag rund 410’000 Menschen auf die Strasse, fast 1000 wurden festgenommen. Auch in Albanien, Spanien, Italien und Belgien kam es zu Gewalt und Festnahmen.",
+      "published": "2026-10-25T11:32:24.344501+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Präsidentschaftswahl in Brasilien",
+      "url": "https://www.zentralplus.ch/news/praesidentschaftswahl-in-brasilien-2907018/",
+      "summary": "Rund 159 Millionen Wahlberechtigte sind am Sonntag in Brasilien dazu aufgerufen, über die politische Zukunft des grössten Landes Lateinamerikas zu entscheiden. Der linke Amtsinhaber Inacio Lula da Sil",
+      "published": "2026-10-25T11:32:24.344501+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Christoph Balmer Lädt Autorenfreunde zu Literarischem Wiedersehen",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/christoph-balmer-laedt-autorenfreunde-zu-literarischem-wiedersehen-ld.4255779",
+      "summary": "",
+      "published": "2026-10-25T11:32:24.344501+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Klassentreffen der literarischen Art bei Bücher Balmer",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/christoph-balmer-laedt-autorenfreunde-zu-literarischem-wiedersehen-art-1728546",
+      "summary": "",
+      "published": "2026-10-25T11:32:24.344501+00:00"
     }
   ]
 }
