@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T08:02:40.163786+00:00",
+  "generated": "2026-10-25T08:32:32.664826+00:00",
   "date": "2026-10-25",
-  "count": 129,
+  "count": 145,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -905,6 +905,118 @@
       "url": "https://www.watson.ch/sport/eishockey/263848110-nhl-new-jersey-devils-gewinnen-gegen-los-angeles",
       "summary": "",
       "published": "2026-10-25T08:02:40.163786+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Umnutzung – 125 Jahre Basler Pauluskirche: Vom Gotteshaus zum Kulturzentrum",
+      "url": "https://www.srf.ch/news/schweiz/umnutzung-125-jahre-basler-pauluskirche-vom-gotteshaus-zum-kulturzentrum",
+      "summary": "Das Jugendstilbauwerk gehört zu Basels Wahrzeichen. Die Geschichte erzählt vom Wandel der Stadt und der Kirche.",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Neulenker (18) nickt ein und crasht Audi A6 in Leitplanke",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/a1-bei-niederlenz-neulenker-schlaeft-am-steuer-ein/4r93n60",
+      "summary": "Ein 18-jähriger Neulenker verlor in der Nacht auf Sonntag auf der A1 bei Niederlenz AG die Kontrolle über seinen Audi A6. Laut Polizei war er am Steuer mutmasslich eingenickt. Verletzt wurde niemand.",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Schweizerin Werro ist Europas Leichtathletin des Jahres",
+      "url": "https://www.20min.ch/story/neue-auszeichnung-schweizerin-werro-ist-europas-leichtathletin-des-jahres-103655753",
+      "summary": "Die 22-Jährige Audrey Werro blieb in der Freiluftsaison ungeschlagen. Nach EM-Gold und sechs Diamond-League-Siegen folgt nun eine Premiere für die Schweiz.",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neue Filiale von Juliette: Französische Bäckerei bringt Croissants und Baguettes ins Zürcher Seefeld",
+      "url": "https://www.tagesanzeiger.ch/boulangerie-juliette-neue-filiale-im-zuercher-seefeld-787161647943",
+      "summary": "Die neue Filiale soll das Geschäft in Zürich stärken, die Produktion hingegen zieht aus der Stadt. Ab Herbst 2027 produziert Juliette statt in Altstetten auf einer deutlich grösseren Fläche in Baar ZG",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall im Aargau: Am Steuer eingeschlafen: Neulenker prallt in Leitplanke und Betonmauer",
+      "url": "https://www.tagesanzeiger.ch/unfall-a1-niederlenz-18-jaehriger-schlaeft-am-steuer-ein-515967869054",
+      "summary": "Bei Niederlenz verlor ein 18-Jähriger die Kontrolle über seinen Audi. Er blieb unverletzt, doch die Polizei nahm ihm den Führerausweis auf Probe vorläufig ab.",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bildkolumne Schnappschuss: Die japanische Premierministerin schläft nur drei Stunden und bügelt ihre Blusen selbst",
+      "url": "https://www.tagesanzeiger.ch/sanae-takaichi-japans-premierministerin-putzt-selbst-316328768355",
+      "summary": "Sanae Takaichi sagt, sie arbeite härter als ihre männlichen Vorgänger. Sie führe auch noch den eigenen Haushalt und müsse sich um Haare und Make-up kümmern.",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Marathon legt Luzerner Strassen lahm",
+      "url": "https://www.zentralplus.ch/news/marathon-legt-luzerner-strassen-lahm-2907003/",
+      "summary": "Tausende nehmen am Sonntag am Swiss City Marathon in Luzern teil. Das hat Folgen für den Verkehr: Zahlreiche Strassen in Luzern und den umliegenden Gemeinden bleiben während mehrerer Stunden gesperrt.",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Wie Unternehmen die Token-Kosten ihrer KI-Anwendungen unter Kontrolle halten",
+      "url": "https://www.netzwoche.ch/news/2026-10-25/wie-unternehmen-die-token-kosten-ihrer-ki-anwendungen-unter-kontrolle-halten",
+      "summary": "Je mehr Unternehmen generative KI in ihre Geschäftsprozesse integrieren, desto wichtiger wird die Kontrolle der laufenden Kosten. Dabei spielt die Anzahl der verarbeiteten Tokens eine zentrale Rolle. ",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "ETH-Spin-off entwickelt Dirigenten für Quantencomputer",
+      "url": "https://www.netzwoche.ch/news/2026-10-25/eth-spin-off-entwickelt-dirigenten-fuer-quantencomputer",
+      "summary": "Quantencomputer funktionieren nur, wenn ein Steuerungssystem die Algorithmen zuverlässig zur Hardware bringt und auch fehlerhafte Berechnungen sofort erkennt und korrigiert. Das ETH-Spin-off Qendra en",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Überwachungsapparat auf Rädern Wenn das Robotaxi die Polizei Ruft",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/ueberwachungsapparat-auf-raedern-wenn-das-robotaxi-die-polizei-ruft-2207061",
+      "summary": "",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Koblenz Fahrer Landet auf dem Dach",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/koblenz-fahrer-landet-auf-dem-dach-ld.4255826",
+      "summary": "",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Kanton Stgallen Drei Verkehrsunfälle mit Fahrunfähigen Personen",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/kanton-stgallen-drei-verkehrsunfaelle-mit-fahrunfaehigen-personen-ld.4255825",
+      "summary": "",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bulgariens Staatschefin Jotowa kämpft um Wiederwahl",
+      "url": "https://www.watson.ch/international/eu/293585266-bulgariens-staatschefin-jotowa-kaempft-um-wiederwahl",
+      "summary": "",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ski live: Riesenslalom in Sölden mit Marco Odermatt in Ticker und Stream",
+      "url": "https://www.watson.ch/sport/liveticker/948776756-ski-live-riesenslalom-in-soelden-mit-marco-odermatt-in-ticker-und-stream",
+      "summary": "",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "13-Jähriger in St.Gallen nach Fluchtversuch mit Motorrad gestoppt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/577522154-13-jaehriger-in-st-gallen-nach-fluchtversuch-mit-motorrad-gestoppt",
+      "summary": "",
+      "published": "2026-10-25T08:32:32.664826+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Dobrindt will Berliner Enteignungspläne mit Bundesgesetz erschweren",
+      "url": "https://www.watson.ch/international/deutschland/856323382-dobrindt-will-berliner-enteignungsplaene-mit-bundesgesetz-erschweren",
+      "summary": "",
+      "published": "2026-10-25T08:32:32.664826+00:00"
     }
   ]
 }
