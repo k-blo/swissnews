@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T01:32:25.089122+00:00",
+  "generated": "2026-10-25T02:02:45.964947+00:00",
   "date": "2026-10-25",
-  "count": 8,
+  "count": 9,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -58,6 +58,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/299625/konstante-inkonstanz-bei-gottron",
       "summary": "",
       "published": "2026-10-25T01:32:25.089122+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Proteste in Spanien: Rund 100 Festnahmen nach Randale in Barcelona",
+      "url": "https://www.tagesanzeiger.ch/rund-100-festnahmen-nach-randale-in-barcelona-811283227866",
+      "summary": "Im Zentrum der Hauptstadt Kataloniens kommen Hunderte junge Menschen zu Protesten zusammen. Etliche randalieren und plündern Geschäfte. Das genaue Ziel der Proteste ist unklar.",
+      "published": "2026-10-25T02:02:45.964947+00:00"
     }
   ]
 }
