@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T16:42:08.177430+00:00",
+  "generated": "2026-10-26T16:45:46.096182+00:00",
   "date": "2026-10-26",
-  "count": 825,
+  "count": 832,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -5777,6 +5777,55 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/jetzt-beginnt-die-vollsperrung-der-langenstegbruecke-art-1728781",
       "summary": "",
       "published": "2026-10-26T16:42:08.177430+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Schweizer Software entsteht mit KI-Hilfe, aber nur selten im Agenten-Orchester",
+      "url": "https://www.netzwoche.ch/news/2026-10-26/schweizer-software-entsteht-mit-ki-hilfe-aber-nur-selten-im-agenten-orchester",
+      "summary": "Fast 9 von 10 Schweizer Softwareunternehmen nutzen künstliche Intelligenz für die Softwareentwicklung. Während viele Unternehmen ihre KI-Investitionen erhöhen, haben sie laut dem Swiss Software Indust",
+      "published": "2026-10-26T16:45:46.096182+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Icon Leagü Season 5 Alle Teams und Heads im Überblick Diese Dülle Siehst Du Heute",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/icon-league-season-5-alle-teams-und-heads-im-ueberblick-diese-duelle-siehst-du-heute-2210242",
+      "summary": "",
+      "published": "2026-10-26T16:45:46.096182+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Gelungener Start der Ü32 Frauen",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/gelungener-start-der-ue32-frauen-ld.4256673",
+      "summary": "",
+      "published": "2026-10-26T16:45:46.096182+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Samül Koch und Christoph Baumann in Zug Abend über Mut",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/samuel-koch-und-christoph-baumann-in-zug-abend-ueber-mut-ld.4256548",
+      "summary": "",
+      "published": "2026-10-26T16:45:46.096182+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wahlen in Serbien: Studentenliste schlägt Aleksandar Vucic",
+      "url": "https://www.watson.ch/international/interview/869902946-wahlen-in-serbien-studentenliste-schlaegt-aleksandar-vucic",
+      "summary": "",
+      "published": "2026-10-26T16:45:46.096182+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Migros fusioniert Genossenschaften: Warum das ein Risiko ist",
+      "url": "https://www.watson.ch/schweiz/analyse/619386711-migros-fusioniert-genossenschaften-warum-das-ein-risiko-ist",
+      "summary": "",
+      "published": "2026-10-26T16:45:46.096182+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Samuel Koch zu Gast in Zug: Ein Abend über Mut und Verletzlichkeit",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/samuel-koch-und-christoph-baumann-in-zug-abend-ueber-mut-art-1728782",
+      "summary": "",
+      "published": "2026-10-26T16:45:46.096182+00:00"
     }
   ]
 }
