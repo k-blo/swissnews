@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T01:02:16.265386+00:00",
+  "generated": "2026-10-26T01:32:25.741170+00:00",
   "date": "2026-10-26",
-  "count": 15,
+  "count": 17,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -107,6 +107,20 @@
       "url": "https://www.watson.ch/international/brasilien/920146229-wahlgericht-praesident-lula-gewinnt-stichwahl-in-brasilien",
       "summary": "",
       "published": "2026-10-26T01:02:16.265386+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Mehrwertsteuerfinanzierung für die 13 Ahv Rente auf dem Weg in die Schuldenwirtschaft",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/mehrwertsteuerfinanzierung-fuer-die-13-ahv-rente-auf-dem-weg-in-die-schuldenwirtschaft",
+      "summary": "",
+      "published": "2026-10-26T01:32:25.741170+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Jetzt Kommen die Roboter Wissenschaftler",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/jetzt-kommen-die-roboter-wissenschaftler",
+      "summary": "",
+      "published": "2026-10-26T01:32:25.741170+00:00"
     }
   ]
 }
