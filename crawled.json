@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T00:31:21.254781+00:00",
+  "generated": "2026-10-26T00:54:24.146252+00:00",
   "date": "2026-10-26",
-  "count": 13,
+  "count": 14,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -93,6 +93,13 @@
       "url": "https://www.nzz.ch/sport/real-madrid-rueckt-durch-clasico-sieg-an-barcelona-ran-ld.10044544",
       "summary": "",
       "published": "2026-10-26T00:31:21.254781+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Stichwahl in Brasilien: Präsident Lula sichert sich vierte Amtszeit",
+      "url": "https://www.bernerzeitung.ch/amtsinhaber-lula-sichert-sich-eine-vierte-amtszeit-420342984858",
+      "summary": "Der linke Amtsinhaber Luiz Inácio Lula da Silva hat sich bei der Stichwahl in Brasilien gegen seinen Herausforderer Flávio Bolsonaro durchgesetzt.",
+      "published": "2026-10-26T00:54:24.146252+00:00"
     }
   ]
 }
