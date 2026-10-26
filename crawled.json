@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T10:02:35.129538+00:00",
+  "generated": "2026-10-26T10:32:44.930468+00:00",
   "date": "2026-10-26",
-  "count": 366,
+  "count": 404,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -2564,6 +2564,272 @@
       "url": "https://www.infosperber.ch/medien/nord-stream-hat-trump-geschlagen/",
       "summary": "",
       "published": "2026-10-26T10:02:35.129538+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Leichenfund in Stein AG – Teile einer männlichen Leiche in Säcken im Rhein gefunden",
+      "url": "https://www.srf.ch/news/schweiz/leichenfund-in-stein-ag-teile-einer-maennlichen-leiche-in-saecken-im-rhein-gefunden",
+      "summary": "Im Rhein wurden am Sonntagmorgen Leichenteile in verschiedenen Säcken gefunden, das meldet die Kantonspolizei.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Meghans Vater soll wegen Zwölfjährigen nach Asien gereist sein",
+      "url": "https://www.20min.ch/story/thomas-markle-brief-der-ex-frau-erhebt-schwere-vorwuerfe-zu-asienreisen-103656538",
+      "summary": "Ein sieben Seiten langer Brief enthält schwere Vorwürfe gegen Thomas Markle. Seine verstorbene Ex-Frau behauptete 2019, er habe seine Reisen nach Asien mit dem dortigen Schutzalter für Mädchen begründ",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ferieninsel Phuket von schweren Überschwemmungen betroffen",
+      "url": "https://www.20min.ch/story/thailand-ferieninsel-phuket-von-schweren-ueberschwemmungen-betroffen-103656526",
+      "summary": "Phuket zählt zu Thailands wichtigsten Tourismuszielen. Nun haben heftige Regenfälle im Badeort Patong schwere Schäden angerichtet. Und der Wetterdienst warnt vor weiteren Niederschlägen.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Umbruch in der Geschäftsleitung: Skyguide ernennt neuen Chief Finance & People Officer",
+      "url": "https://www.tagesanzeiger.ch/skyguide-geschaeftsleitung-gilles-bloch-morhange-ersetzt-zwei-bisherige-210433893235",
+      "summary": "Gilles Bloch-Morhange wird neuer Chief Finance & People Officer (CFPO) bei Skyguide. Dabei ersetzt er zwei bisherige Mitglieder der Geschäftsleitung.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fussball im Unterland: Der FC Bülach muss Platz 1 abgeben und steht nun vor dem Spitzenkampf",
+      "url": "https://www.tagesanzeiger.ch/fc-regensdorf-gewinnt-in-horgen-buelach-verliert-tabellenfuehrung-676764445296",
+      "summary": "Im Aufstiegsrennen erleidet der FC Bülach einen leichten Rückschlag und der FC Regensdorf erholt sich vom Dämpfer im Cup. Ein Überblick über den Unterländer Regionalfussball.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Folgen des Kantonswechsels: Zürcher Kantonsrat genehmigt 16 Millionen für den Kanton Jura",
+      "url": "https://www.bernerzeitung.ch/zuercher-kantonsrat-bewilligt-16-mio-fuer-kanton-jura-721945641969",
+      "summary": "Das Parlament bewilligt 16,3 Millionen Franken für den Jura. Das Geld soll helfen, ein Finanzloch bis zur vollständigen Abbildung des Kantonswechsels im Finanzausgleich zu überbrücken.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Medienkonferenz zum Migros-Umbau: Umbau bei der Migros: Die Regionen werden zu einer einzigen Gruppengenossenschaft zusammengeführt – Irminger tritt zurück",
+      "url": "https://www.derbund.ch/ist-die-aera-der-regionalgenossenschaften-vorbei-die-konzernspitze-stellt-die-migros-der-zukunft-vor-582784235357",
+      "summary": "Es ist die grösste Veränderung seit Jahrzehnten: Die Migros will ihre komplizierte Struktur radikal vereinfachen und ihre 11 Regionalgenossenschaften zusammenlegen. Wir berichten live.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Umbruch in Serbien: Selbst mit Repression und Putins Hilfe kann sich Vucic nicht an der Macht halten",
+      "url": "https://www.derbund.ch/serbien-vucic-seit-2017-praesident-316867356194",
+      "summary": "14 Jahre lang stand das Lager von Vucic an der Spitze von Serbien. Jetzt hat die oppositionelle Studentenliste den Wahlsieg davon getragen. Und das, obwohl es die Partei erst zwei Jahre gibt.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "FCB-Goalie: Jonas Omlins Signal an den FCB",
+      "url": "https://www.bazonline.ch/fc-basel-omlin-feiert-erstes-zu-null-in-der-super-league-701722994120",
+      "summary": "Der Torhüter des FC Basel spielt erstmals in der Liga zu null, gewinnt an Sicherheit und wird zur Stütze einer verunsicherten Mannschaft.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Migros organisiert sich neu",
+      "url": "https://www.zentralplus.ch/news/migros-organisiert-sich-neu-2907166/",
+      "summary": "Die Mirgos hat eine grosse Neuorganisation ihrer Strukturen angekündigt. Die zehn Regionalgenossenschaften zu einer Gruppengenossenschaft verschmelzen. So sollen die komplizierten Führungsstrukturen v",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Autor Joachim Lottmann gestorben",
+      "url": "https://www.zentralplus.ch/news/autor-joachim-lottmann-gestorben-2907160/",
+      "summary": "Der Schriftsteller Joachim Lottmann ist gestorben. Das wurde der Nachrichtenagentur DPA aus dem persönlichen Umfeld des Autors bestätigt. Zuvor hatten mehrere Medien darüber berichtet. Lottmann starb ",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "OpenAI trainiert Frontier Models künftig ohne Internetzugang",
+      "url": "https://www.netzwoche.ch/news/2026-10-26/openai-trainiert-frontier-models-kuenftig-ohne-internetzugang",
+      "summary": "OpenAI schottet die Trainingsumgebungen seiner leistungsfähigsten KI-Modelle stärker ab. Künftig sollen die Systeme beim Training keinen Zugang zum offenen Internet erhalten. Auslöser sind mehrere Vor",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Kritische Sicherheitslücke bedroht Gitlab-Server",
+      "url": "https://www.netzwoche.ch/news/2026-10-26/kritische-sicherheitsluecke-bedroht-gitlab-server",
+      "summary": "Gitlab warnt vor einer neuen kritischen Sicherheitslücke, die unter bestimmten Bedingungen die Ausführung von Code aus der Ferne ohne Authentifizierung ermöglicht. Der Anbieter empfiehlt, die betroffe",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Zwei Nachwuchstalente neu im Skiteam",
+      "url": "https://www.persoenlich.com/marketing/zwei-nachwuchstalente-neu-im-skiteam",
+      "summary": "Der Kräuterbonbonhersteller nimmt die Skirennfahrerin Anna Flatscher und den Skirennfahrer Sandro Manser für zwei Saisons unter Vertrag. Zudem werden drei bestehende Sponsoringverträge verlängert.",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Grossfusion soll Strukturen vereinfachen",
+      "url": "https://www.persoenlich.com/prcorporate-communication/grossfusion-soll-strukturen-vereinfachen",
+      "summary": "Der orange Riese steht vor einem historischen Umbau. Die zehn Regionalgenossenschaften und der Migros-Genossenschafts-Bund (MGB) sollen zu einer einzigen Gruppengenossenschaft verschmelzen. Damit will",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Video Zeigt wie das Kreuzfahrtschiff Gegen einen Frachter Kracht",
+      "url": "https://www.suedostschweiz.ch/panorama/video-zeigt-wie-das-kreuzfahrtschiff-gegen-einen-frachter-kracht-2209481",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wann ist Ina Müller Zurück mit Neuen Folgen",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/wann-ist-ina-mueller-zurueck-mit-neuen-folgen-2209405",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Vierter Sieg mit Fast 81 Lula Stoppt den Rechtsruck in Lateinamerika",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/vierter-sieg-mit-fast-81-lula-stoppt-den-rechtsruck-in-lateinamerika-2209271",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kanaren Reise Abgesagt wer Zahlt Jetzt die Heimreise",
+      "url": "https://www.suedostschweiz.ch/panorama/kanaren-reise-abgesagt-wer-zahlt-jetzt-die-heimreise-2209437",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Buslinie Hochdorfsursee Soll mit Bushof Ost Starten",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/buslinie-hochdorfsursee-soll-mit-bushof-ost-starten-ld.4254755",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzern Kleintheater Schliesst Vertrag für Neubau am Bundesplatz Ab",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzern-kleintheater-schliesst-vertrag-fuer-neubau-am-bundesplatz-ab-ld.4256168",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Holzbrücke Zwischen Bad Säckingen und Stein Wird Geprüft",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/holzbruecke-zwischen-bad-saeckingen-und-stein-wird-geprueft-ld.4256095",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aargauer Leichtathletik Feiert Ihre Erfolgreichsten Athletinnen und Athleten",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/aargauer-leichtathletik-feiert-ihre-erfolgreichsten-athletinnen-und-athleten-ld.4256129",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Ein Abendessen für die Freiwilligen Mitarbeiterinnen Untersiggenthal",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/ein-abendessen-fuer-die-freiwilligen-mitarbeiterinnen-untersiggenthal-ld.4256113",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Gruselhaus im Video Tägerwiler Dark Nights Lernen Horror Fans das Fürchten",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/gruselhaus-im-video-taegerwiler-dark-nights-lernen-horror-fans-das-fuerchten-ld.4256101",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Basler Vorfasnacht S Läggerli Setzt 2027 auf Farbe",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/basler-vorfasnacht-s-laeggerli-setzt-2027-auf-farbe-ld.4256193",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Faustball Schlieren Plauschturnier mit Politischem Beigeschmack",
+      "url": "https://www.limmattalerzeitung.ch/leserbeitrag/li/faustball-schlieren-plauschturnier-mit-politischem-beigeschmack-ld.4256134",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Kantonsratswahlauftakt 2027",
+      "url": "https://www.limmattalerzeitung.ch/leserbeitrag/li/kantonsratswahlauftakt-2027-ld.4256118",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zug United Frauen Übernehmen die Tabellenspitze",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zug-united-frauen-uebernehmen-die-tabellenspitze-ld.4252280",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Markus Profos Kehrt Ins Zuger im Hof Zurück",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/markus-profos-kehrt-ins-zuger-im-hof-zurueck-ld.4255515",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Historischer Tag»: Mega-Umbau bei der Migros ++ Chef Irminger geht ++ So geht es weiter",
+      "url": "https://www.freiburger-nachrichten.ch/story/299949/historischer-tag-megaumbau-bei-der-migros-chef-irminger-geht-so-geht-es-weiter",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zugerinnen von Zug United übernehmen die Tabellenspitze – Männer siegen in wildem Match",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zug-united-frauen-uebernehmen-die-tabellenspitze-art-1728694",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Busse von Hochdorf nach Sursee sollen früher fahren",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/buslinie-hochdorfsursee-soll-mit-bushof-ost-starten-art-1728690",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Archivfunde zur Nazi-Vergangenheit von Thomas Gottschalks Vater",
+      "url": "https://www.bote.ch/nachrichten/kultur/thomas-gottschalks-vater-und-seine-ns-vergangenheit-art-1728689",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Das «Im Hof» richtet sich neu aus – um die Schmuddelgerüchte vergessen zu machen?",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/markus-profos-kehrt-ins-zuger-im-hof-zurueck-art-1728688",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kleintheater Luzern unterzeichnet Vertrag für Verbleib am Bundesplatz",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-kleintheater-schliesst-vertrag-fuer-neubau-am-bundesplatz-ab-art-1728687",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Nena kommt ans Open Air Eschenbach",
+      "url": "https://www.bote.ch/nachrichten/kultur/openair-eschenbach-2027-zwoelf-acts-bestaetigt-art-1728679",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Norwegen Bleibt Souverän Schweiz Nicht",
+      "url": "https://insideparadeplatz.ch/2026/10/26/norwegen-bleibt-souveraen-schweiz-nicht/",
+      "summary": "",
+      "published": "2026-10-26T10:32:44.930468+00:00"
     }
   ]
 }
