@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T18:32:30.214594+00:00",
+  "generated": "2026-10-26T18:41:30.232948+00:00",
   "date": "2026-10-26",
-  "count": 904,
+  "count": 907,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -6330,6 +6330,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/bis-zu-28000-personen-in-einsiedeln-erwartet-art-1728767",
       "summary": "",
       "published": "2026-10-26T18:32:30.214594+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Anthropic kündigt Börsengang an",
+      "url": "https://www.zentralplus.ch/news/anthropic-kuendigt-boersengang-an-2907295/",
+      "summary": "Das KI-Unternehmen Anthropic will an die Börse. Das Unternehmen hat dazu einen Antrag bei der US-Börsenaufsicht eingereicht. Anthropic gilt neben OpenAI als eines der wichtigsten KI-Unternehmen. Renta",
+      "published": "2026-10-26T18:41:30.232948+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Kultur Wehrt Sich Gegen Sparpaket des Kantons wie Einschneidend ist es",
+      "url": "https://www.suedostschweiz.ch/linth/kultur-wehrt-sich-gegen-sparpaket-des-kantons-wie-einschneidend-ist-es-2202419",
+      "summary": "",
+      "published": "2026-10-26T18:41:30.232948+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Trotz Umbau Migros Ostschweiz Behält Wesentliche Kompetenzen",
+      "url": "https://www.tagblatt.ch/wirtschaft/ostschweiz/trotz-umbau-migros-ostschweiz-behaelt-wesentliche-kompetenzen-ld.4256412",
+      "summary": "",
+      "published": "2026-10-26T18:41:30.232948+00:00"
     }
   ]
 }
