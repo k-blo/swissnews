@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T00:02:29.293448+00:00",
+  "generated": "2026-10-26T00:31:21.254781+00:00",
   "date": "2026-10-26",
-  "count": 10,
+  "count": 13,
   "articles": [
     {
       "source": "Bote der Urschweiz",
@@ -72,6 +72,27 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/bilder-die-ihre-geheimnisse-behalten-art-1728556",
       "summary": "",
       "published": "2026-10-25T23:32:16.603734+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Amtsinhaber Lula sichert sich vierte Amtszeit",
+      "url": "https://www.20min.ch/story/stichwahl-in-brasilien-amtsinhaber-lula-sichert-sich-eine-vierte-amtszeit-103656399",
+      "summary": "Der linke Amtsinhaber Luiz Inácio Lula da Silva hat sich bei der Stichwahl in Brasilien gegen seinen Herausforderer Flávio Bolsonaro durchgesetzt.",
+      "published": "2026-10-26T00:31:21.254781+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stichwahl in Brasilien: Amtsinhaber Lula sichert sich vierte Amtszeit",
+      "url": "https://www.tagesanzeiger.ch/amtsinhaber-lula-sichert-sich-eine-vierte-amtszeit-420342984858",
+      "summary": "Der linke Amtsinhaber Luiz Inácio Lula da Silva hat sich bei der Stichwahl in Brasilien gegen seinen Herausforderer Flávio Bolsonaro durchgesetzt.",
+      "published": "2026-10-26T00:31:21.254781+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Real Madrid rückt durch Clásico-Sieg an Barcelona ran",
+      "url": "https://www.nzz.ch/sport/real-madrid-rueckt-durch-clasico-sieg-an-barcelona-ran-ld.10044544",
+      "summary": "",
+      "published": "2026-10-26T00:31:21.254781+00:00"
     }
   ]
 }
