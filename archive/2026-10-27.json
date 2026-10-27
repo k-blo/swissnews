@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-27T03:02:39.632698+00:00",
+  "generated": "2026-10-27T03:32:20.061349+00:00",
   "date": "2026-10-27",
-  "count": 34,
+  "count": 36,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -240,6 +240,20 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/us-politik-republikaner-setzen-verstaerkt-auf-ki-werbung-art-1728847",
       "summary": "",
       "published": "2026-10-27T03:02:39.632698+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Evangelisch-reformierte Kirche: Kirchenschreiberin tritt zurück",
+      "url": "https://www.shn.ch/region/kanton/2026-10-27/evangelisch-reformierte-kirche-kirchenschreiberin-tritt-zurueck",
+      "summary": "Die Kirchenschreiberin der Evangelisch-reformierten Kirche Schaffhausen tritt zurück. Anja Künzler wird Ombudsfrau im Winterthurer Stadtparlament.",
+      "published": "2026-10-27T03:32:20.061349+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bolsonaro-Partei erkennt Lulas Sieg an – Ausreiseverbot für Bolsonaro",
+      "url": "https://www.watson.ch/international/brasilien/558832938-bolsonaro-partei-erkennt-lulas-sieg-an-ausreiseverbot-fuer-bolsonaro",
+      "summary": "",
+      "published": "2026-10-27T03:32:20.061349+00:00"
     }
   ]
 }
