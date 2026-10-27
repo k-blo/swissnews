@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-27T08:02:27.044145+00:00",
+  "generated": "2026-10-27T08:16:02.909127+00:00",
   "date": "2026-10-27",
-  "count": 258,
+  "count": 263,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1808,6 +1808,41 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/scheune-in-gunzwil-brennt-vollstaendig-nieder-art-1728872",
       "summary": "",
       "published": "2026-10-27T08:02:27.044145+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Kritische Schweizer Infrastrukturen attackiert",
+      "url": "https://www.inside-it.ch/kritische-schweizer-infrastrukturen-attackiert-20261027",
+      "summary": "Die Ransomware-Bande Safepay hat Daten einer Tessiner Gemeinde und einer Berner Abwasserreinigungsanlage veröffentlicht. Darunter sind hochsensible Informationen.",
+      "published": "2026-10-27T08:16:02.909127+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Somedia-Volontariat wird Teil des Studiums",
+      "url": "https://www.persoenlich.com/medien/somedia-volontariat-wird-teil-des-studiums",
+      "summary": "Maturandinnen und Maturanden ohne Berufspraxis erhalten in Chur einen direkten Zugang zur Multimedia-Ausbildung. Das fehlende Praxisjahr absolvieren sie neu beim Bündner Medienhaus.",
+      "published": "2026-10-27T08:16:02.909127+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Novartis gibt Ergebnisse des dritten Quartals bekannt",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/497731038-novartis-gibt-ergebnisse-des-dritten-quartals-bekannt",
+      "summary": "",
+      "published": "2026-10-27T08:16:02.909127+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ballon d'Or 2026: Harry Kane wird Weltfussballer – die besten Momente",
+      "url": "https://www.watson.ch/sport/bayern-muenchen/718999289-ballon-d-or-2026-harry-kane-wird-weltfussballer-die-besten-momente",
+      "summary": "",
+      "published": "2026-10-27T08:16:02.909127+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Lula Schafft die Wiederwahl den Usa Entgeht ein Fischzug",
+      "url": "https://www.infosperber.ch/politik/lula-schafft-die-wiederwahl-den-usa-entgeht-ein-fischzug/",
+      "summary": "",
+      "published": "2026-10-27T08:16:02.909127+00:00"
     }
   ]
 }
