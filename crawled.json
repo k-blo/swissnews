@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T23:32:42.491682+00:00",
+  "generated": "2026-10-27T00:02:35.397168+00:00",
   "date": "2026-10-27",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,13 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/bsc-schwyz-verliert-das-spitzenspiel-gegen-waedenswilb-art-1728732",
       "summary": "",
       "published": "2026-10-26T23:32:42.491682+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kurz nach Wahlniederlage: Flávio Bolsonaro muss Pass abgeben",
+      "url": "https://www.20min.ch/story/brasilien-flavio-bolsonaro-ausreise-verbot-paesse-abgeben-verdacht-geldwaesche-103657033",
+      "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro darf Brasilien nicht verlassen. Diese Anordnung ergeht in einem Geldwäscheverfahren.",
+      "published": "2026-10-27T00:02:35.397168+00:00"
     }
   ]
 }
