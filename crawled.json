@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-27T20:19:56.335410+00:00",
+  "generated": "2026-10-27T20:32:21.056729+00:00",
   "date": "2026-10-27",
-  "count": 958,
+  "count": 961,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6708,6 +6708,27 @@
       "url": "https://www.watson.ch/international/israel/480860497-wahlen-in-israel-netanjahus-partei-laut-prognosen-vorn",
       "summary": "",
       "published": "2026-10-27T20:19:56.335410+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DFB-Pokal: Leipzig entgeht Blamage in Essen, Joker retten Augsburg",
+      "url": "https://www.nzz.ch/sport/dfb-pokal-leipzig-entgeht-blamage-in-essen-joker-retten-augsburg-ld.10046530",
+      "summary": "",
+      "published": "2026-10-27T20:32:21.056729+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Svp Frauenfeld Startet mit Stefan Zahn in den Wahlkampf für den Stadtrat",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/svp-frauenfeld-startet-mit-stefan-zahn-in-den-wahlkampf-fuer-den-stadtrat-ld.4255068",
+      "summary": "",
+      "published": "2026-10-27T20:32:21.056729+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Einbrüche nehmen zu: Bist du vorbereitet? Teste dein Wissen im Quiz",
+      "url": "https://www.freiburger-nachrichten.ch/story/299984/einbr%C3%BCche-nehmen-zu-bist-du-vorbereitet-teste-dein-wissen-im-quiz",
+      "summary": "",
+      "published": "2026-10-27T20:32:21.056729+00:00"
     }
   ]
 }
