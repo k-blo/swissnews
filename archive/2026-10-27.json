@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-27T01:02:02.999415+00:00",
+  "generated": "2026-10-27T01:32:27.449785+00:00",
   "date": "2026-10-27",
-  "count": 25,
+  "count": 28,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -177,6 +177,27 @@
       "url": "https://www.zentralplus.ch/news/privatjets-heizen-klimakrise-an-2907314/",
       "summary": "Privatflugzeuge stossen laut einer Analyse der Hilfsorganisation Oxfam unverhältnismässig viel CO2 aus. Weltweit verursachten diese Flüge im vergangenen Jahr 16 Millionen Tonnen Kohlendioxid. Gemäss D",
       "published": "2026-10-27T01:02:02.999415+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wer Keine News Liest Glaubt Eher an Verschwörungen",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/wer-keine-news-liest-glaubt-eher-an-verschwoerungen",
+      "summary": "",
+      "published": "2026-10-27T01:32:27.449785+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Audi Gös Usa eine Warnung für Deutschland und Trump Zickt auf Truth Social",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/audi-goes-usa-eine-warnung-fuer-deutschland-und-trump-zickt-auf-truth-social",
+      "summary": "",
+      "published": "2026-10-27T01:32:27.449785+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Anti Akw Kleber Sirenen und Atommüll Fässer",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/anti-akw-kleber-sirenen-und-atommuell-faesser",
+      "summary": "",
+      "published": "2026-10-27T01:32:27.449785+00:00"
     }
   ]
 }
