@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-27T02:32:06.562041+00:00",
+  "generated": "2026-10-27T03:02:39.632698+00:00",
   "date": "2026-10-27",
-  "count": 30,
+  "count": 34,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -212,6 +212,34 @@
       "url": "https://www.zentralplus.ch/news/ukr-lokale-feuerpause-vereinbart-2907316/",
       "summary": "In der Ukraine haben die Konfliktparteien eine lokale Feuerpause vereinbart. Die Waffenruhe gilt für die seit Monaten abgeriegelte Frontstadt Oleschky im russisch besetzten Teil des Gebiets Cherson. S",
       "published": "2026-10-27T02:32:06.562041+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Halbzeitshow mit Jay-Z",
+      "url": "https://www.zentralplus.ch/news/halbzeitshow-mit-jay-z-2907319/",
+      "summary": "Jay-Z wird im Februar 2027 als Headliner der Halbzeitshow beim Super Bowl auftreten, wie die National Football League am Montag bekannt gab. Die Einschaltquoten im US-Fernsehen für die Halbzeitshow li",
+      "published": "2026-10-27T03:02:39.632698+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Erneut Verfahren gegen Ex-FBI-Direktor",
+      "url": "https://www.zentralplus.ch/news/erneut-verfahren-gegen-ex-fbi-direktor-2907318/",
+      "summary": "In den USA unternimmt das Justizministerium einen neuen Anlauf, den früheren FBI-Direktor James Comey juristisch zu belangen. Laut veröffentlichten Gerichtsakten werfen die Behörden ihm vor, im Herbst",
+      "published": "2026-10-27T03:02:39.632698+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Crowdfunding für Beachsport Projekt in Arbon",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/crowdfunding-fuer-beachsport-projekt-in-arbon-ld.4256181",
+      "summary": "",
+      "published": "2026-10-27T03:02:39.632698+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Kandidat im Frauenkleid, die Gouverneurin als Bankräuberin: So verändert KI den US-Wahlkampf",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/us-politik-republikaner-setzen-verstaerkt-auf-ki-werbung-art-1728847",
+      "summary": "",
+      "published": "2026-10-27T03:02:39.632698+00:00"
     }
   ]
 }
