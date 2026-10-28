@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T22:02:50.518707+00:00",
+  "generated": "2026-10-28T22:32:06.082248+00:00",
   "date": "2026-10-28",
-  "count": 1005,
+  "count": 1020,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -7037,6 +7037,111 @@
       "url": "https://www.freiburger-nachrichten.ch/story/301043/mit-dem-metallischen-ping-in-den-ohren-ins-bett",
       "summary": "",
       "published": "2026-10-28T22:02:50.518707+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Parlament will Bargeldpflicht – gegen den Willen des Stadtrats",
+      "url": "https://www.20min.ch/story/stadt-zuerich-parlament-will-bargeldpflicht-gegen-den-willen-des-stadtrats-103658167",
+      "summary": "Das Zürcher Stadtparlament will städtische und subventionierte Betriebe zur Annahme von Bargeld verpflichten. Der Stadtrat hatte sich dagegen ausgesprochen.",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Englischer Ligacup: Liverpool und Manchester City gewinnen im Penaltyschiessen",
+      "url": "https://www.bernerzeitung.ch/ligacup-liverpool-schlaegt-chelsea-im-penaltyschiessen-184651854838",
+      "summary": "Nach 90 Minuten steht es bei Liverpool gegen Chelsea und bei Manchester City gegen Brighton unentschieden. Beide Gastgeber setzen sich im Ligacup am Ende im Penaltyschiessen durch.",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Bayern München gewinnt haushoch gegen Magdeburg – Hannover 96 scheidet gegen Kaiserslautern aus",
+      "url": "https://www.nzz.ch/sport/bayern-muenchen-gewinnt-haushoch-gegen-magdeburg-hannover-96-scheidet-gegen-kaiserslautern-aus-ld.10047764",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kriens Luzern Verliert in Magdeburg Klar mit 2936",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/kriens-luzern-verliert-in-magdeburg-klar-mit-2936-ld.4257647",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Estland: Lieferroboter baut Unfall mit Bus und fährt weiter",
+      "url": "https://www.watson.ch/international/technik/789643199-estland-lieferroboter-baut-unfall-mit-bus-und-faehrt-weiter",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fake-QR-Codes: Luzerner Polizei warnt vor Betrugsmasche an Parkuhren",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/978090392-fake-qr-codes-luzerner-polizei-warnt-vor-betrugsmasche-an-parkuhren",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "St. Galler Unternehmer erschleicht Covid-Kredit",
+      "url": "https://www.watson.ch/schweiz/justiz/949017247-st-galler-unternehmer-erschleicht-covid-kredit",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zwei Männer in Basel durch Stichwaffe verletzt",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/849996861-zwei-maenner-in-basel-durch-stichwaffe-verletzt",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UN: Immer mehr Menschen im Jemen durch Kämpfe vertrieben",
+      "url": "https://www.watson.ch/international/uno/716253742-un-immer-mehr-menschen-im-jemen-durch-kaempfe-vertrieben",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bolsonaro erklärt sich zum wahren Wahlsieger Brasiliens",
+      "url": "https://www.watson.ch/international/usa/551931252-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-brasiliens",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SCL Tigers auf der Überholspur: Fribourg-Gottéron im Spitzenkampf besiegt",
+      "url": "https://www.watson.ch/sport/liveticker/850491301-scl-tigers-auf-der-ueberholspur-fribourg-gotteron-im-spitzenkampf-besiegt",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Cool Machine»: US-Starautor Whitehead rechnet mit seiner Heimat ab",
+      "url": "https://www.watson.ch/international/rassismus/732905671-cool-machine-us-starautor-whitehead-rechnet-mit-seiner-heimat-ab",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Release: Apple bringt erstes Macbook mit Touch-Display heraus",
+      "url": "https://www.watson.ch/wirtschaft/digital/794853775-release-apple-bringt-erstes-macbook-mit-touch-display-heraus",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brasilien: Bolsonaro-Sohn soll ausländische Wahlkampfhilfe erhalten haben",
+      "url": "https://www.watson.ch/international/brasilien/572932687-brasilien-bolsonaro-sohn-soll-auslaendische-wahlkampfhilfe-erhalten-haben",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Krienser verlassen die Königsklasse trotz Fehlstart mit erhobenem Haupt",
+      "url": "https://www.bote.ch/nachrichten/sport/kriens-luzern-verliert-in-magdeburg-klar-mit-2936-art-1729266",
+      "summary": "",
+      "published": "2026-10-28T22:32:06.082248+00:00"
     }
   ]
 }
