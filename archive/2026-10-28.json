@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T00:02:04.479961+00:00",
+  "generated": "2026-10-28T00:32:22.629365+00:00",
   "date": "2026-10-28",
-  "count": 29,
+  "count": 31,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -205,6 +205,20 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/arth-goldau-holt-sich-erneut-den-sieg-art-1728914",
       "summary": "",
       "published": "2026-10-27T23:32:25.052641+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Benjamin Netanyahu gewinnt wohl die Wahl – und verliert seine Mehrheit",
+      "url": "https://www.nzz.ch/international/benjamin-netanyahu-gewinnt-wohl-die-wahl-und-verliert-seine-mehrheit-ld.10046632",
+      "summary": "",
+      "published": "2026-10-28T00:32:22.629365+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der letzte Auftritt von «Stan the Man» – ein Arbeiter, ein Künstler, einer von uns",
+      "url": "https://www.nzz.ch/sport/tennis/stan-wawrinka-beendet-seine-karriere-der-lange-weg-eines-spaeten-champions-ld.10040710",
+      "summary": "",
+      "published": "2026-10-28T00:32:22.629365+00:00"
     }
   ]
 }
