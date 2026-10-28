@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T01:02:27.908713+00:00",
+  "generated": "2026-10-28T01:32:34.349197+00:00",
   "date": "2026-10-28",
-  "count": 32,
+  "count": 36,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -226,6 +226,34 @@
       "url": "https://www.zentralplus.ch/news/detailhandel-leidet-in-frankreich-2907600/",
       "summary": "Die schweren Ausschreitungen am Rande landesweiter Proteste in Frankreich treffen den Detailhandel hart. Laut der Handelskammer wurden an den vergangenen beiden Samstagen mehr als 2500 Geschäfte besch",
       "published": "2026-10-28T01:02:27.908713+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "König Charles unterwegs in der Karibik",
+      "url": "https://www.zentralplus.ch/news/koenig-charles-unterwegs-in-der-karibik-2907602/",
+      "summary": "Der britische König Charles ist unterwegs auf einer mehrtägigen Reise durch die Karibik. Bei seiner ersten Station auf den Bahamas räumte der 77-jährige Monarch das historische Leid der Sklaverei ein.",
+      "published": "2026-10-28T01:32:34.349197+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Strom aus Neuen Akw ist Nicht Teurer als Solarstrom",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/strom-aus-neuen-akw-ist-nicht-teurer-als-solarstrom",
+      "summary": "",
+      "published": "2026-10-28T01:32:34.349197+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Nachfolge Parmelin Bundesratskandidaten die Svp Hat Alles Richtig Gemacht",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/nachfolge-parmelin-bundesratskandidaten-die-svp-hat-alles-richtig-gemacht",
+      "summary": "",
+      "published": "2026-10-28T01:32:34.349197+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Bund Berechnet Klimakosten Aufgrund eines Bereits Beerdigten Szenarios",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/bund-berechnet-klimakosten-aufgrund-eines-bereits-beerdigten-szenarios",
+      "summary": "",
+      "published": "2026-10-28T01:32:34.349197+00:00"
     }
   ]
 }
