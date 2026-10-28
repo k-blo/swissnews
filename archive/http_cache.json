@@ -4,7 +4,7 @@
     "etag": "\"ed93d80ba20f730707e3dd493418869a\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17f2c-h99XPftCer8MSsfDUMxh0hvFEyQ\""
+    "etag": "W/\"17f57-jbo6+NhtqvT3JBSIT9dqn7E3Zyk\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
     "etag": "W/\"de60-6Wv2iyor9rSOE87wcM3D2s/O8Lw\""
@@ -16,7 +16,7 @@
     "last_modified": "Wed, 28 Oct 2026 19:34:54 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
-    "last_modified": "Wed, 28 Oct 2026 19:42:47 GMT"
+    "last_modified": "Wed, 28 Oct 2026 19:46:17 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
     "last_modified": "Wed, 28 Oct 2026 18:12:24 GMT",
@@ -51,8 +51,8 @@
     "etag": "\"1793165004\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 28 Oct 2026 19:42:35 GMT",
-    "etag": "W/\"1793216555-gzip\""
+    "last_modified": "Wed, 28 Oct 2026 19:45:17 GMT",
+    "etag": "W/\"1793216717-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"241a3-CsQtgfhyFfEv6IzkJfKu9wJYo7s\""
