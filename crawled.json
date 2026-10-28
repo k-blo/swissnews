@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T21:02:32.761454+00:00",
+  "generated": "2026-10-28T21:32:43.643369+00:00",
   "date": "2026-10-28",
-  "count": 994,
+  "count": 999,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6960,6 +6960,41 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/grip-moderator-hamid-mossadegh-droht-in-luzern-gefaengnis-art-1729256",
       "summary": "",
       "published": "2026-10-28T21:02:32.761454+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mehrere Verletzte in Estland: Lieferroboter baut Unfall mit Bus und fährt weiter",
+      "url": "https://www.tagesanzeiger.ch/tallinn-lieferroboter-rammt-bus-und-flieht-vom-unfallort-174450889897",
+      "summary": "In der estnischen Hauptstadt Tallinn kam es zu einem Unfall zwischen einem Linienbus und einem selbstfahrenden Lieferroboter. Mehrere Personen wurden verletzt und der Roboter fuhr weg.",
+      "published": "2026-10-28T21:32:43.643369+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "SCL Tigers gewinnen erneut: Langnau bezwingt auch den Meister",
+      "url": "https://www.bernerzeitung.ch/eishockey-scl-tigers-fribourg-gotteron-530076138868",
+      "summary": "Die Emmentaler feiern dank eines fulminanten Schlussdrittels einen 4:2-Sieg über Fribourg-Gottéron. Nun können sie am Freitag eine perfekte Woche krönen.",
+      "published": "2026-10-28T21:32:43.643369+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Cham und Fcl U21 Trennen Sich nach 02 mit 22",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/cham-und-fcl-u21-trennen-sich-nach-02-mit-22-ld.4257589",
+      "summary": "",
+      "published": "2026-10-28T21:32:43.643369+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Gottéron verliert in Langnau",
+      "url": "https://www.freiburger-nachrichten.ch/story/301033/gottron-verliert-in-langnau",
+      "summary": "",
+      "published": "2026-10-28T21:32:43.643369+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Cham dreht nach 0:2-Rückstand auf – Spektakel-Derby gegen FCL U21 endet remis",
+      "url": "https://www.bote.ch/nachrichten/sport/cham-und-fcl-u21-trennen-sich-nach-02-mit-22-art-1729260",
+      "summary": "",
+      "published": "2026-10-28T21:32:43.643369+00:00"
     }
   ]
 }
