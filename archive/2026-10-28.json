@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T01:32:34.349197+00:00",
+  "generated": "2026-10-28T02:02:37.284177+00:00",
   "date": "2026-10-28",
-  "count": 36,
+  "count": 37,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -254,6 +254,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/bund-berechnet-klimakosten-aufgrund-eines-bereits-beerdigten-szenarios",
       "summary": "",
       "published": "2026-10-28T01:32:34.349197+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Baby Lucas fällt Avocado auf den Kopf – tot",
+      "url": "https://www.20min.ch/story/argentinien-quilmes-buenos-aires-baby-lucas-tot-avocado-103657568",
+      "summary": "Tragödie in Buenos Aires: Vor einem Kindergarten wird der zwölf Tage alte Lucas von einer Avocado am Kopf getroffen. Seine Mutter erhebt schwere Vorwürfe.",
+      "published": "2026-10-28T02:02:37.284177+00:00"
     }
   ]
 }
