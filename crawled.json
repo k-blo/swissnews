@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T02:32:03.499614+00:00",
+  "generated": "2026-10-28T03:02:01.906113+00:00",
   "date": "2026-10-28",
-  "count": 38,
+  "count": 43,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -268,6 +268,41 @@
       "url": "https://www.zentralplus.ch/news/isr-haengepartie-zeichnet-sich-ab-2907604/",
       "summary": "In Israel zeichnet sich nach den Parlamentswahlen eine politische Hängepartie ab. Weder das Regierungslager noch die Opposition haben laut den neusten Hochrechnungen eine Mehrheit. Trotz deutlicher Ve",
       "published": "2026-10-28T02:32:03.499614+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Chipproduzent SK Hynix versiebenfacht Gewinn",
+      "url": "https://www.20min.ch/story/suedkorea-chipproduzent-sk-hynix-rekord-gewinn-103657571",
+      "summary": "Der anhaltende KI-Boom treibt die Gewinne von SK Hynix weiter an. Mittlerweile ist die Halbleiterbranche für rund die Hälfte des südkoreanischen Wachstums verantwortlich.",
+      "published": "2026-10-28T03:02:01.906113+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gewinn versiebenfacht: Südkoreas Chipproduzent SK Hynix erzielt erneut Rekordgewinn",
+      "url": "https://www.tagesanzeiger.ch/halbleiter-branche-chip-hersteller-sk-hynix-suedkorea-rekordgewinn-657056185515",
+      "summary": "Der anhaltende KI-Boom treibt die Gewinne von SK Hynix weiter an. Mittlerweile ist die Halbleiterbranche für rund die Hälfte des südkoreanischen Wachstums verantwortlich.",
+      "published": "2026-10-28T03:02:01.906113+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kreuzlinger Schule Plant 2027 mit Tieferem Steuerfuss",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/kreuzlinger-schule-plant-2027-mit-tieferem-steuerfuss-ld.4257168",
+      "summary": "",
+      "published": "2026-10-28T03:02:01.906113+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tempo, Talent und Taktik – die verlorene Romantik der ZSC Lions",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/604647603-tempo-talent-und-taktik-die-verlorene-romantik-der-zsc-lions",
+      "summary": "",
+      "published": "2026-10-28T03:02:01.906113+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gemeinnützige Wohnbaugenossenschaft St. Martin",
+      "url": "https://www.bote.ch/nachrichten/sponsored/gemeinnuetzige-wohnbaugenossenschaft-st-martin-art-1726836",
+      "summary": "",
+      "published": "2026-10-28T03:02:01.906113+00:00"
     }
   ]
 }
