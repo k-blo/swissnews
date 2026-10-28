@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T02:02:37.284177+00:00",
+  "generated": "2026-10-28T02:32:03.499614+00:00",
   "date": "2026-10-28",
-  "count": 37,
+  "count": 38,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -261,6 +261,13 @@
       "url": "https://www.20min.ch/story/argentinien-quilmes-buenos-aires-baby-lucas-tot-avocado-103657568",
       "summary": "Tragödie in Buenos Aires: Vor einem Kindergarten wird der zwölf Tage alte Lucas von einer Avocado am Kopf getroffen. Seine Mutter erhebt schwere Vorwürfe.",
       "published": "2026-10-28T02:02:37.284177+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "ISR: Hängepartie zeichnet sich ab",
+      "url": "https://www.zentralplus.ch/news/isr-haengepartie-zeichnet-sich-ab-2907604/",
+      "summary": "In Israel zeichnet sich nach den Parlamentswahlen eine politische Hängepartie ab. Weder das Regierungslager noch die Opposition haben laut den neusten Hochrechnungen eine Mehrheit. Trotz deutlicher Ve",
+      "published": "2026-10-28T02:32:03.499614+00:00"
     }
   ]
 }
