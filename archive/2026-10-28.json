@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-28T00:32:22.629365+00:00",
+  "generated": "2026-10-28T01:02:27.908713+00:00",
   "date": "2026-10-28",
-  "count": 31,
+  "count": 32,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -219,6 +219,13 @@
       "url": "https://www.nzz.ch/sport/tennis/stan-wawrinka-beendet-seine-karriere-der-lange-weg-eines-spaeten-champions-ld.10040710",
       "summary": "",
       "published": "2026-10-28T00:32:22.629365+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Detailhandel leidet in Frankreich",
+      "url": "https://www.zentralplus.ch/news/detailhandel-leidet-in-frankreich-2907600/",
+      "summary": "Die schweren Ausschreitungen am Rande landesweiter Proteste in Frankreich treffen den Detailhandel hart. Laut der Handelskammer wurden an den vergangenen beiden Samstagen mehr als 2500 Geschäfte besch",
+      "published": "2026-10-28T01:02:27.908713+00:00"
     }
   ]
 }
