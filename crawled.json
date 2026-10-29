@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-29T23:02:35.837544+00:00",
+  "generated": "2026-10-29T23:32:26.889351+00:00",
   "date": "2026-10-30",
-  "count": 12,
+  "count": 14,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -86,6 +86,20 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzern-regierung-will-gefaengniskapazitaeten-ausbauen-art-1729500",
       "summary": "",
       "published": "2026-10-29T23:02:35.837544+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Ich werde dich für den Rest meines Lebens vermissen»",
+      "url": "https://www.20min.ch/story/zum-tod-patrick-stewarts-werde-dich-fuer-den-rest-meines-lebens-vermissen-103658651",
+      "summary": "Patrick Stewart wurde als Jean-Luc Picard in «Star Trek» weltberühmt. Nach seinem Tod melden sich zahlreiche Stars zu Wort.",
+      "published": "2026-10-29T23:32:26.889351+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Info-Anlass: Was die anstehende Abschaffung des Eigenmietwerts für Sie bedeutet",
+      "url": "https://www.bote.ch/nachrichten/schwyz/info-anlass-was-die-anstehende-abschaffung-des-eigenmietwerts-fuer-sie-bedeutet-art-1729301",
+      "summary": "",
+      "published": "2026-10-29T23:32:26.889351+00:00"
     }
   ]
 }
