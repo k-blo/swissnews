@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-29T02:02:30.819912+00:00",
+  "generated": "2026-10-29T02:32:04.868666+00:00",
   "date": "2026-10-29",
-  "count": 34,
+  "count": 37,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -240,6 +240,27 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4257785",
       "summary": "",
       "published": "2026-10-29T02:02:30.819912+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schauspielerin mit Überdosis: «Unfall»: Polizei stellt Ermittlungen nach Tod von Panettiere ein",
+      "url": "https://www.tagesanzeiger.ch/unfall-polizei-stellt-ermittlungen-nach-tod-von-panettiere-ein-596597793770",
+      "summary": "Mitte August war die US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben – laut der Gerichtsmedizin an einer Überdosis diverser Substanzen. Jetzt stellt die Polizei die Ermittlungen ein.",
+      "published": "2026-10-29T02:32:04.868666+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FC Bayern München: Das war Grund für Kompanys Zusammenbruch",
+      "url": "https://www.watson.ch/sport/deutschland/688794248-fc-bayern-muenchen-das-war-grund-fuer-kompanys-zusammenbruch",
+      "summary": "",
+      "published": "2026-10-29T02:32:04.868666+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fentanyl und Medikamente: Polizei stuft Panettieres Tod als Unfall ein",
+      "url": "https://www.watson.ch/international/usa/389144011-fentanyl-und-medikamente-polizei-stuft-panettieres-tod-als-unfall-ein",
+      "summary": "",
+      "published": "2026-10-29T02:32:04.868666+00:00"
     }
   ]
 }
