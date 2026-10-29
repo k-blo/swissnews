@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-29T05:02:13.236140+00:00",
+  "generated": "2026-10-29T05:13:36.698317+00:00",
   "date": "2026-10-29",
-  "count": 199,
+  "count": 202,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1395,6 +1395,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/300856/gesunde-zwischenverpflegung-oder-milchwerbung-der-tag-der-pausenmilch-wirft-fragen-auf",
       "summary": "",
       "published": "2026-10-29T05:02:13.236140+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Engpass beim Treibstoff – Tempo 80 auf Autobahnen: Bund prüft Massnahme",
+      "url": "https://www.srf.ch/news/schweiz/engpass-beim-treibstoff-tempo-80-auf-autobahnen-bund-prueft-massnahme",
+      "summary": "Wegen des Nahost-Kriegs und des tiefen Rheinpegels ist Treibstoff knapp. Bereits angezapft sind die Pflichtlager.",
+      "published": "2026-10-29T05:13:36.698317+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Architekturkolumne Baustelle: Es war einmal ein Haus von einem anderen Stern",
+      "url": "https://www.bernerzeitung.ch/zalotay-haus-in-ziegelried-ein-architekt-zwischen-vision-und-verfall-773583837750",
+      "summary": "Das Haus des 2020 verstorbenen Architekten Elemér Zalotay in Ziegelried löste Streit mit Behörden und Nachbarn aus. Hat es eine Zukunft?",
+      "published": "2026-10-29T05:13:36.698317+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Die reiche Krankenversicherung: Wie die Visana ihr Vermögen und ihre Beteiligungen geheim hält",
+      "url": "https://www.derbund.ch/wie-die-visana-ihre-beteiligungen-geheim-haelt-109421622932",
+      "summary": "Fast alle grossen Versicherer legen ihre Konzernfinanzen offen – die Visana nicht. Wie weit das Versteckspiel reicht, zeigt der Millionenkredit für den FC Thun.",
+      "published": "2026-10-29T05:13:36.698317+00:00"
     }
   ]
 }
