@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-29T10:02:29.039836+00:00",
+  "generated": "2026-10-29T10:32:37.069696+00:00",
   "date": "2026-10-29",
-  "count": 384,
+  "count": 420,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2690,6 +2690,258 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/autobrand-im-flueelertunnel-tunnel-am-morgen-gesperrt-art-1729309",
       "summary": "",
       "published": "2026-10-29T10:02:29.039836+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kriminelle Asylsuchende – Junge Nordafrikaner fordern Polizei und Behörden",
+      "url": "https://www.srf.ch/news/schweiz/kriminelle-asylsuchende-junge-nordafrikaner-fordern-polizei-und-behoerden",
+      "summary": "Männer aus Nordafrika beschäftigen die Polizei seit Jahren. Massnahmen und Haft beeindrucken die Kriminellen kaum.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fussgängerin stirbt bei Kollision mit Tram",
+      "url": "https://www.20min.ch/story/stadt-zuerich-fussgaengerin-stirbt-bei-kollision-mit-tram-103658341",
+      "summary": "Im Kreis 7 hat eine Frau bei einem Tram-Unfall tödliche Verletzungen erlitten. Involviert war ein Fahrzeug der Linie 8.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Rettungsheli-Crew mit Laser geblendet – Polizei sucht Zeugen",
+      "url": "https://www.20min.ch/story/reinach-ag-rettungsheli-crew-mit-laser-geblendet-polizei-sucht-zeugen-103658331",
+      "summary": "Am Samstag wurde die Besatzung eines Rettungs-Helis geblendet. Drei Personen hatten danach leichte Augenverletzungen. Nun bittet die Polizei um Hinweise aus der Bevölkerung.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "SBB-App bekommt Update: Diese Funktionen sind neu",
+      "url": "https://www.20min.ch/story/easyride-und-parktickets-sbb-app-bekommt-update-diese-funktionen-sind-neu-103658293",
+      "summary": "Die Änderungen sollen die Nutzung von Easyride und den Funktionen zur Parkplatzbuchung vereinfachen. Ab kommendem Jahr sollen diverse Infos zudem schneller zugänglich sein.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "EZB-Präsidentin Lagarde tritt vorzeitig zurück",
+      "url": "https://www.20min.ch/story/am-7-februar-2027-ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-103658328",
+      "summary": "Christine Lagarde verschafft der Politik Zeit bei der Regelung ihrer Nachfolge an der EZB-Spitze – denn die Sorge vor Rechtspopulisten ist gross. Kann sich Deutschland erstmals den Chefposten sichern?",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wechsel an Zentralbank-Spitze: EZB-Präsidentin Christine Lagarde tritt im Februar 2027 zurück",
+      "url": "https://www.tagesanzeiger.ch/ezb-christine-lagarde-tritt-im-februar-2027-zurueck-987948555176",
+      "summary": "Die Europäische Zentralbank teilt den vorzeitigen Rücktritt ihrer Präsidentin mit. Die Staats- und Regierungschefs der 21 Eurostaaten müssen ihre Nachfolge nun früher regeln.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Obergericht kippt Entscheid: 90 Franken fürs Falschparkieren verlangt – Chefs von Kontrollfirma sind keine Erpresser",
+      "url": "https://www.tagesanzeiger.ch/parkplatzkontrollfirma-vor-obergericht-464090813551",
+      "summary": "Die beiden Geschäftsführer einer Parkplatzkontrollfirma wehrten sich gegen die Verurteilung wegen Erpressung und Amtsanmassung. Das Obergericht sprach sie frei.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Lindenpark in Kollbrunn: Bauboom im Tösstal hält an: Weitere 31 Eigentumswohnungen entstehen in Kollbrunn",
+      "url": "https://www.tagesanzeiger.ch/lindenpark-kollbrunn-31-neue-eigentumswohnungen-geplant-311331094126",
+      "summary": "In den vergangenen Jahren sind im Tösstal diverse neue Wohnüberbauungen entstanden. Nun steht mit dem Lindenpark ein weiteres Projekt kurz vor Baubeginn.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neuer Film: Jennifer Lawrence bestätigt ihre Rückkehr zu «The Hunger Games»",
+      "url": "https://www.tagesanzeiger.ch/hunger-games-jennifer-lawrence-kehrt-als-katniss-zurueck-670443829537",
+      "summary": "Fans der «Tribute von Panem»-Filmreihe dürfen sich freuen: Schauspielerin Jennifer Lawrence hat offiziell ihre Rückkehr als Katniss Everdeen bekannt gegeben.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Swiss-Airbus A350 fliegt länger als geplant im «Wanderlust»-Kleid",
+      "url": "https://www.tagesanzeiger.ch/swiss-a350-wanderlust-sonderbemalung-bleibt-laenger-842871684009",
+      "summary": "Der erste Airbus A350 von Swiss ist mit einer Sonderlackierung unterwegs. Die Aufkleber mit Symbolen aus der Schweiz bleiben länger als gedacht auf dem Flugzeug.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Hilfe bei Kranken­kassen­prämien: 19’000 Personen erhalten neu Prämien­ver­billigung",
+      "url": "https://www.bernerzeitung.ch/bern-19000-personen-erhalten-neu-praemienverbilligung-528800143850",
+      "summary": "Der Kanton Bern hebt die Ein­kom­mens­ober­grenze für die Unter­stützung an. Damit erhalten ab 2027 rund 9200 zusätzliche Haus­halte Hilfe bei den Kranken­kassen­prämien.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Hindernisfreies Berner Rathaus: 1,72 Millionen Franken für Personenlift im Rathaus beantragt",
+      "url": "https://www.bernerzeitung.ch/rathaus-bern-1-72-mio-franken-fuer-personenlift-144092657673",
+      "summary": "Ein Personenlift soll die wichtigsten öffentlichen Räume im Berner Rathaus hindernisfrei zugänglich machen. Über den Kredit entscheidet der Grosse Rat.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Gesundheit und Politik: Der Westschweizer Spitalkönig und die SVP-Bundesrats­kandidaten. Wer ist Antoine Hubert?",
+      "url": "https://www.bernerzeitung.ch/svp-bundesrat-3-kandidaten-mit-verbindungen-zu-antoine-hubert-601251977603",
+      "summary": "Von den acht SVP-Papabili für den Bundesrat haben drei eine Verbindung zu Antoine Hubert. Er übernimmt kriselnde Spitäler und pflegt ein bemerkenswertes Netzwerk.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "SRF-Experte Marco Chiudinelli: «Ich bin ein Riesenfan von Novak Djokovic»",
+      "url": "https://www.bazonline.ch/swiss-indoors-chiudinelli-ueber-djokovic-als-letzte-legende-343667868134",
+      "summary": "Der ehemalige Basler Tennisprofi erklärt, was er am Serben und an Swiss-Indoors-Boss Roger Brennwald bewundert. Und was ihn bei den meisten Spielern stört.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "35 Millionen: Basel-Stadt muss trotz Überschüssen Geld sparen – das ist der Grund",
+      "url": "https://www.bazonline.ch/basel-stadt-regierungsrat-will-35-mio-franken-sparen-782576238436",
+      "summary": "Der Kanton hatte in den vergangenen Jahren fast immer hohe Überschüsse. Trotzdem soll nun gespart werden.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "So soll Wohnen wieder günstiger werden",
+      "url": "https://www.zentralplus.ch/news/so-soll-wohnen-wieder-guenstiger-werden-2907948/",
+      "summary": "Steigende Wohnkosten und Wohnungsknappheit beschäftigen auch Luzern und die Zentralschweiz. An den Schweizer Wohntagen diskutieren Fachleute und Bevölkerung darüber, wie mehr preisgünstiger Wohnraum e",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Grosse Vermögensverwalter: Zwei Genfer Häuser stossen zur Allianz",
+      "url": "https://www.finews.ch/news/finanzplatz/74230-aswm-alliance-swiss-wealth-managers-new-members-targa-5-advisors-gsk-partners-geneva-nicole-curti-eli-mizrahi-2",
+      "summary": "Die Alliance of Swiss Wealth Managers wächst weiter. Per 1. November stossen zwei Genfer Häuser dazu: Das eine betreut lateinamerikanische Familien, das andere Vermögen aus dem Nahen Osten.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Viele Organisationen sind nicht bereit, KI einzuführen",
+      "url": "https://www.netzwoche.ch/news/2026-10-29/viele-organisationen-sind-nicht-bereit-ki-einzufuehren",
+      "summary": "\"Datenprofessor\" Diego Kuonen erklärte am Service Management Forum Schweiz in Zürich, warum Unternehmen zuerst ihre Prozesse, Datenkompetenzen und Governance in Ordnung bringen müssen, bevor sie mit K",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Angriffe auf KI-Systeme offenbaren Lücken in der Cyberabwehr",
+      "url": "https://www.netzwoche.ch/news/2026-10-29/angriffe-auf-ki-systeme-offenbaren-luecken-in-der-cyberabwehr",
+      "summary": "Unternehmen stocken ihre Budgets für Cybersecurity wieder deutlich auf und setzen dabei immer mehr auf KI. Das zeigt eine Umfrage von PwC. Am schlechtesten vorbereitet sind sie jedoch ausgerechnet auf",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Microsoft überrascht mit Milliardengewinn",
+      "url": "https://www.inside-it.ch/microsoft-ueberrascht-mit-milliardengewinn-20261029",
+      "summary": "Der Tech-Konzern wächst stärker als erwartet und verzeichnet einen Gewinn von 36,6 Milliarden US-Dollar.",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "EZB-Präsidentin Christine Lagarde tritt vorzeitig im Februar zurück",
+      "url": "https://www.nzz.ch/wirtschaft/ezb-praesidentin-christine-lagarde-tritt-zurueck-ld.10048282",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Märchen auf dem Baseballfeld, Arbeitskampf hinter den Kulissen – nach der World Series droht der Lockout",
+      "url": "https://www.nzz.ch/sport/weitere-sportarten/maerchen-auf-dem-baseballfeld-arbeitskampf-hinter-den-kulissen-nach-der-world-series-droht-der-lockout-ld.10044804",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Hohe Benzinpreise: Kanton Schaffhausen will mehr Anschlüsse für E-Autos",
+      "url": "https://www.shn.ch/region/kanton/2026-10-29/hohe-benzinpreise-kanton-schaffhausen-will-mehr-anschluesse-fuer-e-autos",
+      "summary": "Elektroautos hatten in Schaffhausen eine schwierige Phase. Jetzt wittert die Branche wieder einen Aufschwung – auch dank günstigerer Modelle aus China und hoher Benzinpreise. Der Kanton will gleichzei",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Cadenza Bringt Indoor Cycling in den Luzerner Flora Club",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/cadenza-bringt-indoor-cycling-in-den-luzerner-flora-club-ld.4254103",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Schlagerchöre Luzern und Amt auf einer Bühne in Luzern",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/schlagerchoere-luzern-und-amt-auf-einer-buehne-in-luzern-ld.4251125",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Zwischen Millionärsdichte und Sozialhilfe wie Gern Redet der Aargau Übers Geld",
+      "url": "https://www.aargauerzeitung.ch/kultur/aargau/zwischen-millionaersdichte-und-sozialhilfe-wie-gern-redet-der-aargau-uebers-geld-ld.4257004",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fussgängerin stirbt nach Unfall mit Tram in Zürich",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/251568062-fussgaengerin-stirbt-nach-unfall-mit-tram-in-zuerich",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EZB-Chefin Christine Lagarde tritt am 7. Februar zurück",
+      "url": "https://www.watson.ch/wirtschaft/banken/632166542-ezb-chefin-christine-lagarde-tritt-am-7-februar-zurueck",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Auf der Kantonsstrasse in Kriens gilt neu teilweise Tempo 30",
+      "url": "https://www.watson.ch/schweiz/auto/276095787-auf-der-kantonsstrasse-in-kriens-gilt-neu-teilweise-tempo-30",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Klimawandel erhöht Risiken für Schweiz in vielen Bereichen",
+      "url": "https://www.watson.ch/schweiz/klima/974650121-klimawandel-erhoeht-risiken-fuer-schweiz-in-vielen-bereichen",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Transfer-News: Konietzke leihweise vom FCSG zu Vaduz",
+      "url": "https://www.watson.ch/sport/transferticker/483686793-transfer-news-konietzke-leihweise-vom-fcsg-zu-vaduz",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwitzen auf dem Dancefloor mal anders: Im Flora-Club kann man jetzt Velo fahren",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/cadenza-bringt-indoor-cycling-in-den-luzerner-flora-club-art-1729324",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Schlagerchöre Luzern und Amt schwelgen gemeinsam in Erinnerungen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/schlagerchoere-luzern-und-amt-auf-einer-buehne-in-luzern-art-1729323",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was hinter der Cassis-Reise zu Kim steckt – ein Ex-Diplomat ordnet ein",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/was-hinter-der-nordkorea-reise-von-cassis-steckt-art-1729321",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Lagarde geht vorzeitig im Februar – Poker um EZB-Spitze",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/lagarde-geht-vorzeitig-im-februar-poker-um-ezb-spitze-art-1729317",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Alain Berset wurde mit drei kleinen Kindern Bundesrat – nun äussert er sich zur Amaudruz-Debatte",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/alain-berset-aufruestung-allein-reicht-nicht-fuer-europas-sicherheit-art-1729315",
+      "summary": "",
+      "published": "2026-10-29T10:32:37.069696+00:00"
     }
   ]
 }
