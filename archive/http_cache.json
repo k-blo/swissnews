@@ -7,10 +7,10 @@
     "etag": "W/\"17f55-zk06GS2ZEaaPWweiCIAqHwBjs7k\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"da52-b1XsL3xmIuNxje6+ZTI72qDdGCg\""
+    "etag": "W/\"daa4-KMQXJ+t4DVAlL2WGYmUvSeH2/YA\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"d357-zYGnC5cy/uTkSBVXnkiGJ1ywIb8\""
+    "etag": "W/\"d357-f5qmUDAK7qbdk5WunjC+wzk3FVI\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Wed, 28 Oct 2026 23:05:16 GMT"
@@ -19,29 +19,29 @@
     "last_modified": "Wed, 28 Oct 2026 23:31:25 GMT"
   },
   "https://www.netzwoche.ch/rss.xml": {
-    "last_modified": "Wed, 28 Oct 2026 23:19:10 GMT",
-    "etag": "\"1793229550\""
+    "last_modified": "Thu, 29 Oct 2026 00:00:24 GMT",
+    "etag": "\"1793232024\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Wed, 28 Oct 2026 23:27:43 GMT"
+    "last_modified": "Wed, 28 Oct 2026 23:58:00 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"d84e-DwlA9YwoDBvfd369jcFRUBkVp9A\""
+    "etag": "W/\"d897-vkxosV+rhgNGAHetr5fLpr+Wv0I\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"da6e-+t+yqoFXRaPyt+9dYiS8Q1AjBNI\""
+    "etag": "W/\"dab8-GcLJVMWMOCmozS4uWvGRIABfBs8\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
-    "last_modified": "Wed, 28 Oct 2026 22:20:33 GMT",
-    "etag": "\"1793226033\""
+    "last_modified": "Wed, 28 Oct 2026 23:57:05 GMT",
+    "etag": "\"1793231825\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml?page=15": {
-    "last_modified": "Wed, 28 Oct 2026 22:20:33 GMT",
-    "etag": "\"1793226033\""
+    "last_modified": "Wed, 28 Oct 2026 23:57:05 GMT",
+    "etag": "\"1793231825\""
   },
   "https://www.freiburger-nachrichten.ch/sitemap_latest_news.xml": {
     "etag": "W/\"2c27f-HPecpK6lepkfFc21rUYQWwUMUMY\""
@@ -51,8 +51,8 @@
     "etag": "\"1793165004\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Wed, 28 Oct 2026 23:30:33 GMT",
-    "etag": "W/\"1793230233-gzip\""
+    "last_modified": "Thu, 29 Oct 2026 00:00:28 GMT",
+    "etag": "W/\"1793232028-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"241a3-CsQtgfhyFfEv6IzkJfKu9wJYo7s\""
