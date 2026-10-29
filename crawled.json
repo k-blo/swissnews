@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-29T22:02:14.465170+00:00",
+  "generated": "2026-10-29T22:28:23.530840+00:00",
   "date": "2026-10-29",
-  "count": 942,
+  "count": 944,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6596,6 +6596,20 @@
       "url": "https://www.suedostschweiz.ch/sportradar/formel-1-kimi-antonelli-ist-krank-verpasst-er-die-wm-kroenung-in-mexiko-2214646",
       "summary": "",
       "published": "2026-10-29T21:56:00.659252+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Para-Bahnrad-WM: Rigling fährt Weltrekord und holt Gold",
+      "url": "https://www.tagesanzeiger.ch/para-radbahn-wm-flurina-rigling-wird-weltmeisterin-699992142028",
+      "summary": "Flurina Rigling startet an den Titelkämpfen im niederländischen Apeldoorn fulminant. Sie wird Weltmeisterin im Zeitfahren über 1000 Meter.",
+      "published": "2026-10-29T22:28:23.530840+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Grösserer Polizeieinsatz in der Stgaller Metzgergasse Hintergründe Unklar",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/groesserer-polizeieinsatz-in-der-stgaller-metzgergasse-hintergruende-unklar-ld.4258868",
+      "summary": "",
+      "published": "2026-10-29T22:28:23.530840+00:00"
     }
   ]
 }
