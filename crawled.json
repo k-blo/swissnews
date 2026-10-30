@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T23:02:32.064119+00:00",
+  "generated": "2026-10-30T23:32:38.174618+00:00",
   "date": "2026-10-31",
-  "count": 3,
+  "count": 19,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -23,6 +23,118 @@
       "url": "https://www.freiburger-nachrichten.ch/story/300523/neue-stimmunterlagen-weiterhin-gew%C3%B6hnungsbed%C3%BCrftig",
       "summary": "",
       "published": "2026-10-30T23:02:32.064119+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Machtkampf in Warschau: Streit um Polens Verfassungsgericht spitzt sich zu",
+      "url": "https://www.nzz.ch/international/machtkampf-in-warschau-streit-um-polens-verfassungsgericht-spitzt-sich-zu-ld.10050144",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Mit alles und viel scharf»: Der Döner wird mir langsam zu teuer!",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mit-alles-und-viel-scharf-der-doener-wird-mir-langsam-zu-teuer-art-1729597",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Weiss",
+      "url": "https://www.bote.ch/nachrichten/schwyz/weiss-art-1729618",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vipers reisen ins Rheintal",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/vipers-reisen-ins-rheintal-art-1729545",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Steinen besitzt eine Ahnengedenkstätte",
+      "url": "https://www.bote.ch/nachrichten/schwyz/steinen-besitzt-eine-ahnengedenkstaette-art-1729568",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sennenchilbi-Festwochenende: Einschränkungen für den Autoverkehr",
+      "url": "https://www.bote.ch/nachrichten/schwyz/sennenchilbi-festwochenende-einschraenkungen-fuer-den-autoverkehr-art-1729608",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Sicherheit mit Augenmass",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-sicherheit-mit-augenmass-art-1729619",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schnell, schneller, Jil Sanchez!",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schnell-schneller-jil-sanchez-art-1729621",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Oktoberwetter: Zwischen milden Tagen und erstem Bergwinter",
+      "url": "https://www.bote.ch/nachrichten/schwyz/oktoberwetter-zwischen-milden-tagen-und-erstem-bergwinter-art-1729554",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Musik, Kunst, Inspiration und Gemeinschaft: Das Kulturhaus am Rigi setzt auf Vielfalt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/musik-kunst-inspiration-und-gemeinschaft-das-kulturhaus-am-rigi-setzt-auf-vielfalt-art-1729599",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "KSC zeigte Moral – doch die Tore fehlten",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ksc-zeigte-moral-doch-die-tore-fehlten-art-1729546",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Herbstausklang und Wintervorboten im November",
+      "url": "https://www.bote.ch/nachrichten/schwyz/herbstausklang-und-wintervorboten-im-november-art-1729559",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fahrender bezog unrechtmässig über 360’000 Franken",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fahrender-bezog-unrechtmaessig-ueber-360000-franken-art-1729570",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der Friedhof lebt als Begegnungszone der Stille",
+      "url": "https://www.bote.ch/nachrichten/schwyz/der-friedhof-lebt-als-begegnungszone-der-stille-art-1729567",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der FC Muotathal überwintert nach Sieg auf dem zweiten Tabellenrang",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/der-fc-muotathal-ueberwintert-nach-sieg-auf-dem-zweiten-tabellenrang-art-1729547",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bundesgericht pfeift Freienbach nach Einbürgerungsentscheid zurück",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bundesgericht-pfeift-freienbach-nach-einbuergerungsentscheid-zurueck-art-1729586",
+      "summary": "",
+      "published": "2026-10-30T23:32:38.174618+00:00"
     }
   ]
 }
