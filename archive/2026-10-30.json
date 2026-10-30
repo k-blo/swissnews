@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T19:32:56.514667+00:00",
+  "generated": "2026-10-30T20:02:21.278225+00:00",
   "date": "2026-10-30",
-  "count": 917,
+  "count": 939,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6421,6 +6421,160 @@
       "url": "https://www.grenchnertagblatt.ch/solothurn/grenchen/29-chuerbisnacht-grenchen-wird-zum-treffpunkt-ld.4256854",
       "summary": "",
       "published": "2026-10-30T19:32:56.514667+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Verhärtete Fronten – «dialog»-Community: Polarisierung ist heute «grösstes Risiko»",
+      "url": "https://www.srf.ch/news/dialog/verhaertete-fronten-dialog-community-polarisierung-ist-heute-groesstes-risiko",
+      "summary": "Die gesellschaftlichen Gräben werden tiefer. In der «dialog»-Community wächst die Sorge um Zusammenhalt.",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abkommen Schweiz–China – Parmelin: «China hat noch immer gewisse Handelshemmnisse»",
+      "url": "https://www.srf.ch/news/schweiz/abkommen-schweiz-china-parmelin-china-hat-noch-immer-gewisse-handelshemmnisse",
+      "summary": "Die Schweiz und China erneuern das Freihandelsabkommen. Bundesrat Parmelin sagt, warum es am Schluss so schnell ging.",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "40 Jahre Schweizerhalle – Ein Mahnmal erinnert an die Katastrophe – aber niemand kennt es",
+      "url": "https://www.srf.ch/news/schweiz/40-jahre-schweizerhalle-ein-mahnmal-erinnert-an-die-katastrophe-aber-niemand-kennt-es",
+      "summary": "In Basel erinnert ein Mahnmal an die Chemie-Katastrophe in Schweizerhalle. Bekannt ist es in der Öffentlichkeit kaum.",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Millionenbetrug bei der Ruag – Bundesrat Pfister: «Mich schockiert die kriminelle Energie»",
+      "url": "https://www.srf.ch/news/schweiz/millionenbetrug-bei-der-ruag-bundesrat-pfister-mich-schockiert-die-kriminelle-energie",
+      "summary": "Ein Bericht enthüllt mehrere potenziell kriminelle Vorgänge bei Ruag MRO. Martin Pfister erklärt die nächsten Schritte.",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Skandal um Meghans Vater: Journalisten melden Schock-Fund",
+      "url": "https://www.20min.ch/story/thomas-markle-82-skandal-um-meghans-vater-journalisten-melden-schock-fund-103659088",
+      "summary": "Eine britische Boulevardzeitung meldet den Fund von angeblich pädokriminellem Material in einem früheren Lagerraum von Meghans Vater. Dieser bestreitet alles.",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Test vom Konsumentenschutz: Trotz Verbot: Jugendliche erhalten in jedem zweiten Onlineshop E-Zigaretten",
+      "url": "https://www.tagesanzeiger.ch/e-zigaretten-minderjaehrige-bestellen-in-11-onlineshops-202477562059",
+      "summary": "Die Alterskontrollen lassen sich teils einfach umgehen. Auch bei grossen Händlern wie Coop oder Brack konnten Minderjährige Vapes bestellen.",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Euro Hockey Tour: Die Schweiz unterliegt Schweden erst in der Verlängerung",
+      "url": "https://www.tagesanzeiger.ch/die-schweiz-unterliegt-schweden-erst-in-der-verlaengerung-493963945496",
+      "summary": "Ein langer Defensivkampf wird zum Ende nicht belohnt. Die zweite Partie der Euro Hockey Tour entscheidet ein Eigentor in der Overtime.",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So viele Schweizer wechselten 2025 die Krankenkasse – und konnten sparen",
+      "url": "https://www.watson.ch/schweiz/gesundheit/107907342-so-viele-schweizer-wechselten-2025-die-krankenkasse-und-konnten-sparen",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kym scheidet an den Swiss Indoors aus",
+      "url": "https://www.watson.ch/schweiz/sport/379993230-kym-scheidet-an-den-swiss-indoors-aus",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Was ist der beste Horrorfilm? Die watson-Redaktion hat sieben Vorschläge",
+      "url": "https://www.watson.ch/spass/user-unser/813811546-was-ist-der-beste-horrorfilm-die-watson-redaktion-hat-sieben-vorschlaege",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Der neue Popcorn-Eimer für «Dune 3» geht viral – Die 11 besten Memes",
+      "url": "https://www.watson.ch/spass/leben/347045655-der-neue-popcorn-eimer-fuer-dune-3-geht-viral-die-11-besten-memes",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizer Shops Galaxus und Brack sind bis zu 13 Prozent teurer",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/257614829-schweizer-shops-galaxus-und-brack-sind-bis-zu-13-prozent-teurer",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "EU und Kanada schmieden Allianz für die Zukunft – der Plan in 6 Punkten",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/658715745-eu-und-kanada-schmieden-allianz-fuer-die-zukunft-der-plan-in-6-punkten",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Just Eat will nur noch pro Lieferung zahlen",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/433716758-just-eat-will-nur-noch-pro-lieferung-zahlen",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sacha Baron Cohen entschuldigt sich bei Kasachstan für «Borat»",
+      "url": "https://www.watson.ch/leben/tv/668509590-sacha-baron-cohen-entschuldigt-sich-bei-kasachstan-fuer-borat",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "UBS-Wegzug: Die UBS sollte sich ehrlich machen",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/866189494-ubs-wegzug-die-ubs-sollte-sich-ehrlich-machen",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Basel-Sponsor macht Millionenverlust – das Problem mit dem Krypto-Geld",
+      "url": "https://www.watson.ch/sport/eishockey/128995615-basel-sponsor-macht-millionenverlust-das-problem-mit-dem-krypto-geld",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frontenwechsel bei US-Midterms: Wähler erklärt Taktik «Crossover Voting»",
+      "url": "https://www.watson.ch/international/usa/243204294-frontenwechsel-bei-us-midterms-waehler-erklaert-taktik-crossover-voting",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Volkswagen: VW stoppt Auto-Entwicklung für ID. Golf",
+      "url": "https://www.watson.ch/wirtschaft/international/760908107-volkswagen-vw-stoppt-auto-entwicklung-fuer-id-golf",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wir liefern dir Inspiration für dein Halloween-Kostüm",
+      "url": "https://www.watson.ch/videos/spass/703316587-wir-liefern-dir-inspiration-fuer-dein-halloween-kostuem",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ruag-Skandal: Millionenbetrug und dubiose Deals",
+      "url": "https://www.watson.ch/schweiz/armee/250577094-ruag-skandal-millionenbetrug-und-dubiose-deals",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Eishockey National League live: Alle Spiele vom Freitagabend im Ticker",
+      "url": "https://www.watson.ch/sport/liveticker/510044970-eishockey-national-league-live-alle-spiele-vom-freitagabend-im-ticker",
+      "summary": "",
+      "published": "2026-10-30T20:02:21.278225+00:00"
     }
   ]
 }
