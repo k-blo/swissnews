@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T01:02:43.443760+00:00",
+  "generated": "2026-10-30T01:22:55.415989+00:00",
   "date": "2026-10-30",
-  "count": 18,
+  "count": 19,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -128,6 +128,13 @@
       "url": "https://www.bazonline.ch/swiss-indoors-kym-schlaegt-shelton-im-mitternachts-thriller-275218370151",
       "summary": "Die St. Jakobshalle erlebt einen denkwürdigen Abend: Jan-Lennard Struff bezwingt Novak Djokovic – und kurz nach Mitternacht sorgt Jerome Kym für die ganz grosse Sensation.",
       "published": "2026-10-30T01:02:43.443760+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hackerangriff legt Binance lahm",
+      "url": "https://www.zentralplus.ch/news/hackerangriff-legt-binance-lahm-2908211/",
+      "summary": "Die weltgrösste Handelsplattform für Kryptowährungen, Binance, ist gehackt worden, wie das Unternehmen bestätigt. Es seien Kryptowährungen im Wert von rund drei Milliarden US-Dollar eingefroren worden",
+      "published": "2026-10-30T01:22:55.415989+00:00"
     }
   ]
 }
