@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T20:02:21.278225+00:00",
+  "generated": "2026-10-30T20:32:49.419020+00:00",
   "date": "2026-10-30",
-  "count": 939,
+  "count": 942,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -6575,6 +6575,27 @@
       "url": "https://www.watson.ch/sport/liveticker/510044970-eishockey-national-league-live-alle-spiele-vom-freitagabend-im-ticker",
       "summary": "",
       "published": "2026-10-30T20:02:21.278225+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "New Yorker Börse: Tech-Aktien verlieren",
+      "url": "https://www.zentralplus.ch/news/new-yorker-boerse-tech-aktien-verlieren-2908468/",
+      "summary": "An der New Yorker Börse sind die Kurse am Freitag deutlich eingebrochen. Auslöser war eine massive Verkaufswelle bei Technologieaktien. Anleger zweifeln zunehmend daran, ob sich die milliardenschweren",
+      "published": "2026-10-30T20:32:49.419020+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wanderwege in der Region Riggisalp wegen Arbeiten gesperrt",
+      "url": "https://www.freiburger-nachrichten.ch/story/301544/wanderwege-in-der-region-riggisalp-wegen-arbeiten-gesperrt",
+      "summary": "",
+      "published": "2026-10-30T20:32:49.419020+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kyms Basel-Märchen endet: Andere Spieler stehen überraschend im Halbfinal",
+      "url": "https://www.bote.ch/nachrichten/sport/kym-scheidet-im-viertelfinal-aus-das-sind-die-halbfinalsiten-der-swiss-indoors-art-1729642",
+      "summary": "",
+      "published": "2026-10-30T20:32:49.419020+00:00"
     }
   ]
 }
