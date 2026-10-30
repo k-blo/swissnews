@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T03:02:17.549378+00:00",
+  "generated": "2026-10-30T03:32:31.069859+00:00",
   "date": "2026-10-30",
-  "count": 71,
+  "count": 78,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -499,6 +499,55 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/63-jubilare-standen-im-mittelpunkt-art-1729394",
       "summary": "",
       "published": "2026-10-30T03:02:17.549378+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Vier Tote bei Absturz von Militärhelikopter in Bosnien",
+      "url": "https://www.20min.ch/story/eu-truppe-eufor-vier-tote-bei-absturz-von-militaerhelikopter-in-bosnien-103658697",
+      "summary": "Beim Absturz eines italienischen Militärhelikopters der EU-Friedenstruppe in Bosnien-Herzegowina sind vier Menschen ums Leben gekommen.",
+      "published": "2026-10-30T03:32:31.069859+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der sizilianische Cantautore Pippo Pollina verzaubert das Stadttheater – und scheut dabei keine politischen Statements",
+      "url": "https://www.shn.ch/region/stadt/2026-10-30/der-sizilianische-cantautore-pippo-pollina-verzaubert-das-stadttheater-und",
+      "summary": "Pippo Pollina, weit bekannter Cantautore aus Sizilien, begann als Strassenmusiker und trat auch auf dem Fronwagplatz auf. Am Mittwochabend füllte er das Stadttheater.",
+      "published": "2026-10-30T03:32:31.069859+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Die Proteste könnten erst der Anfang sein: Warum man die Sorgen der Jugend ernst nehmen muss",
+      "url": "https://www.shn.ch/forum-meinung/kolumnen/2026-10-30/die-proteste-koennten-erst-der-anfang-sein-warum-man-die-sorgen",
+      "summary": "Eine Protestbewegung nimmt in europäischen Ländern Fahrt auf. Der Schaffhauser Grünen-Co-Präsident Gianluca Looser meint: Wir sollten genauer zuhören, was die jungen Menschen bewegt – und handeln.",
+      "published": "2026-10-30T03:32:31.069859+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Zwei Grosse Davoser Wohnraumprojekte für Einheimische Sind Blockiert",
+      "url": "https://www.suedostschweiz.ch/graubuenden/zwei-grosse-davoser-wohnraumprojekte-fuer-einheimische-sind-blockiert-2213340",
+      "summary": "",
+      "published": "2026-10-30T03:32:31.069859+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Schönholzerswilen Haag und Bächtold Kämpfen Ums Präsidium",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/schoenholzerswilen-haag-und-baechtold-kaempfen-ums-praesidium-ld.4258351",
+      "summary": "",
+      "published": "2026-10-30T03:32:31.069859+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kampfwahl Ums Gemeindepräsidium Schönholzerswilen Roman Bächtold im Interview",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/kampfwahl-ums-gemeindepraesidium-schoenholzerswilen-roman-baechtold-im-interview-ld.4257355",
+      "summary": "",
+      "published": "2026-10-30T03:32:31.069859+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Kampfwahl Ums Gemeindepräsidium Schönholzerswilen Andreas Haag im Interview",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/kampfwahl-ums-gemeindepraesidium-schoenholzerswilen-andreas-haag-im-interview-ld.4257302",
+      "summary": "",
+      "published": "2026-10-30T03:32:31.069859+00:00"
     }
   ]
 }
