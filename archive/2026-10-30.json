@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T01:26:36.434236+00:00",
+  "generated": "2026-10-30T01:32:22.896273+00:00",
   "date": "2026-10-30",
-  "count": 19,
+  "count": 27,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -135,6 +135,62 @@
       "url": "https://www.zentralplus.ch/news/hackerangriff-legt-binance-lahm-2908211/",
       "summary": "Die weltgrösste Handelsplattform für Kryptowährungen, Binance, ist gehackt worden, wie das Unternehmen bestätigt. Es seien Kryptowährungen im Wert von rund drei Milliarden US-Dollar eingefroren worden",
       "published": "2026-10-30T01:22:55.415989+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Zum Tod von Patrick Stewart: Oh Captain, mein Captain",
+      "url": "https://www.tagesanzeiger.ch/oh-captain-mein-captain-773260759139",
+      "summary": "Als Jean-Luc Picard, Kapitän der neuen Enterprise, wurde Patrick Stewart zum Inbegriff intellektueller Führungsstärke. Dabei hatte ihn ein guter Freund noch von der «Star Trek»-Rolle abhalten wollen.",
+      "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "In Israel Haben die Demokratie und die Araber Gewonnen",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/in-israel-haben-die-demokratie-und-die-araber-gewonnen",
+      "summary": "",
+      "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Elif Eralp Fürchtet Sich vor Terror und Highnoon am Berg",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/elif-eralp-fuerchtet-sich-vor-terror-und-highnoon-am-berg",
+      "summary": "",
+      "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Editorial 112026",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/editorial-112026",
+      "summary": "",
+      "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Publireportage Jaguar Type 01",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/publireportage-jaguar-type-01",
+      "summary": "",
+      "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Erstaunlich Rasche Erholung des Rheins",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/die-erstaunlich-rasche-erholung-des-rheins",
+      "summary": "",
+      "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Israel Netanjahu Verliert und Gewinnt Doch",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/israel-netanjahu-verliert-und-gewinnt-doch",
+      "summary": "",
+      "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wer Gut Aussehen Will Sollte Nicht Links Aussehen",
+      "url": "https://www.nebelspalter.ch/themen/2026/10/wer-gut-aussehen-will-sollte-nicht-links-aussehen",
+      "summary": "",
+      "published": "2026-10-30T01:32:22.896273+00:00"
     }
   ]
 }
