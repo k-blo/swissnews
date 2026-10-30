@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T01:32:22.896273+00:00",
+  "generated": "2026-10-30T02:02:40.395244+00:00",
   "date": "2026-10-30",
-  "count": 27,
+  "count": 31,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -191,6 +191,34 @@
       "url": "https://www.nebelspalter.ch/themen/2026/10/wer-gut-aussehen-will-sollte-nicht-links-aussehen",
       "summary": "",
       "published": "2026-10-30T01:32:22.896273+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Jurasüdfuss: Zugverkehr eingeschränkt",
+      "url": "https://www.zentralplus.ch/news/jurasuedfuss-zugverkehr-eingeschraenkt-2908213/",
+      "summary": "Der Bahnverkehr am Jurasüdfuss wird für voraussichtlich mehrere Monate eingeschränkt, weil sich bei Pieterlen im Berner Seeland der Boden unterhalb des Bahndamms abgesenkt hat. Regionalzüge zwischen B",
+      "published": "2026-10-30T02:02:40.395244+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Gut ist im KI-Zeitalter nicht mehr gut genug: Amazon und Alphabet enttäuschen die Anleger",
+      "url": "https://www.nzz.ch/wirtschaft/gut-ist-im-ki-zeitalter-nicht-mehr-gut-genug-amazon-und-alphabet-enttaeuschen-die-anleger-ld.10048943",
+      "summary": "",
+      "published": "2026-10-30T02:02:40.395244+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kreuzworträtsel Abo Magazin",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/kreuzwortraetsel-abo-magazin-ld.4246639",
+      "summary": "",
+      "published": "2026-10-30T02:02:40.395244+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4256336",
+      "summary": "",
+      "published": "2026-10-30T02:02:40.395244+00:00"
     }
   ]
 }
