@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T02:02:40.395244+00:00",
+  "generated": "2026-10-30T02:32:11.826665+00:00",
   "date": "2026-10-30",
-  "count": 31,
+  "count": 33,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -219,6 +219,20 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/artikel-ld.4256336",
       "summary": "",
       "published": "2026-10-30T02:02:40.395244+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Patrick Stewart kehrt für ein letztes Mal auf die Leinwand zurück",
+      "url": "https://www.20min.ch/story/avengers-doomsday-patrick-stewart-kehrt-ein-letztes-mal-auf-die-kinoleinwand-zurueck-103658695",
+      "summary": "Der am Mittwoch gestorbene Patrick Stewart kehrt in «Avengers: Doomsday» als Professor X noch einmal auf die Kinoleinwand zurück. Welches Schicksal seine Figur erwartet, bleibt bis dahin ein Geheimnis",
+      "published": "2026-10-30T02:32:11.826665+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Patt nach Wahl in Israel",
+      "url": "https://www.zentralplus.ch/news/patt-nach-wahl-in-israel-2908215/",
+      "summary": "Bei der Parlamentswahl in Israel sind nun sämtliche Stimmen ausgezählt, wie die Wahlkommission meldet. Das vorläufige Wahlergebnis bleibt dasselbe. Die rechte Regierungskoalition von Benjamin Netanjah",
+      "published": "2026-10-30T02:32:11.826665+00:00"
     }
   ]
 }
