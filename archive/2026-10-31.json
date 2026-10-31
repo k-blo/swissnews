@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-31T00:02:51.314514+00:00",
+  "generated": "2026-10-31T00:24:57.876482+00:00",
   "date": "2026-10-31",
-  "count": 20,
+  "count": 21,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -142,6 +142,13 @@
       "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/herzliche-gratulation-zum-90-geburtstag-ld.4246049",
       "summary": "",
       "published": "2026-10-31T00:02:51.314514+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Viel schwarzer Rauch an der Leonhardstrasse in Zürich",
+      "url": "https://www.20min.ch/story/grosser-feuerwehreinsatz-viel-schwarzer-rauch-an-der-leonhardstrasse-in-zuerich-103659186",
+      "summary": "In der Nacht auf Samstag kam es in einem Gebäude an der Leonhardstrasse in Zürich zu einer starken Rauchentwicklung. Die Feuerwehr rückte mit einem Grossaufgebot aus.",
+      "published": "2026-10-31T00:24:57.876482+00:00"
     }
   ]
 }
