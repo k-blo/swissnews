@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-31T21:32:36.836770+00:00",
+  "generated": "2026-10-31T22:03:11.825860+00:00",
   "date": "2026-10-31",
-  "count": 601,
+  "count": 606,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -4209,6 +4209,41 @@
       "url": "https://www.bote.ch/nachrichten/sport/ev-zug-schlaegt-den-sc-bern-auswaerts-klar-mit-81-art-1729762",
       "summary": "",
       "published": "2026-10-31T21:32:36.836770+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Women’s Super League: GC-Frauen drehen das Spiel gegen Yverdon nach Rückstand",
+      "url": "https://www.tagesanzeiger.ch/gc-dreht-0-2-rueckstand-ljustina-trifft-zum-3-2-gegen-yverdon-696625312891",
+      "summary": "GC liegt gegen die Gäste aus Yverdon 0:2 zurück. Doch die Zürcherinnen schaffen noch die Wende.",
+      "published": "2026-10-31T22:03:11.825860+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Viele Verletzte: Der EHC Basel verliert in La Chaux-de-Fonds",
+      "url": "https://www.bazonline.ch/eishockey-der-ehc-basel-verliert-in-la-chaux-de-fonds-672435224313",
+      "summary": "Die ersatzgeschwächten Basler kommen in der Westschweiz drei Mal von einem Rückstand zurück und unterliegen am Ende dennoch 3:6.",
+      "published": "2026-10-31T22:03:11.825860+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Sc Bern Ev Zug 18 die Tore im Video",
+      "url": "https://www.zugerzeitung.ch/sport/evz/sc-bern-ev-zug-18-die-tore-im-video-ld.4259677",
+      "summary": "",
+      "published": "2026-10-31T22:03:11.825860+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ambri gewinnt Derby spektakulär – der ZSC souverän: die Fakten zur 19. NL-Runde",
+      "url": "https://www.bote.ch/nachrichten/sport/36-tore-in-sechs-spielen-nl-runde-mit-ambri-und-zsc-art-1729772",
+      "summary": "",
+      "published": "2026-10-31T22:03:11.825860+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Zuger Torfestival in Bern: Alle acht Treffer im Video",
+      "url": "https://www.bote.ch/nachrichten/sport/sc-bern-ev-zug-18-die-tore-im-video-art-1729771",
+      "summary": "",
+      "published": "2026-10-31T22:03:11.825860+00:00"
     }
   ]
 }
