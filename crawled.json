@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T23:32:38.174618+00:00",
+  "generated": "2026-10-31T00:02:51.314514+00:00",
   "date": "2026-10-31",
-  "count": 19,
+  "count": 20,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -135,6 +135,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/bundesgericht-pfeift-freienbach-nach-einbuergerungsentscheid-zurueck-art-1729586",
       "summary": "",
       "published": "2026-10-30T23:32:38.174618+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Herzliche Gratulation zum 90 Geburtstag",
+      "url": "https://www.aargauerzeitung.ch/leserbeitrag/az/herzliche-gratulation-zum-90-geburtstag-ld.4246049",
+      "summary": "",
+      "published": "2026-10-31T00:02:51.314514+00:00"
     }
   ]
 }
