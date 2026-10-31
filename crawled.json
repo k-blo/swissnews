@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-31T23:03:07.485246+00:00",
+  "generated": "2026-10-31T23:33:22.179010+00:00",
   "date": "2026-11-01",
-  "count": 6,
+  "count": 8,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -44,6 +44,20 @@
       "url": "https://www.freiburger-nachrichten.ch/story/301331/lichterlauf-erweitert-das-programm-des-lichtfestivals",
       "summary": "",
       "published": "2026-10-31T23:03:07.485246+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Bayern München erkauft ein Remis gegen Borussia Dortmund teuer – unverwundbar ist der Rekordchampion nicht",
+      "url": "https://www.nzz.ch/sport/fussball/bayern-nur-22-gegen-dortmund-fuellkrug-trifft-wieder-ld.10050662",
+      "summary": "",
+      "published": "2026-10-31T23:33:22.179010+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "FBI bestätigt: Nordkorea steckt hinter milliardenschwerem Krypto-Diebstahl bei Binance",
+      "url": "https://www.nzz.ch/wirtschaft/fbi-bestaetigt-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl-bei-binance-ld.10050756",
+      "summary": "",
+      "published": "2026-10-31T23:33:22.179010+00:00"
     }
   ]
 }
