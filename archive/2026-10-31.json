@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-31T08:19:49.375278+00:00",
+  "generated": "2026-10-31T08:32:51.103131+00:00",
   "date": "2026-10-31",
-  "count": 256,
+  "count": 263,
   "articles": [
     {
       "source": "Schaffhauser Nachrichten",
@@ -1794,6 +1794,55 @@
       "url": "https://www.infosperber.ch/wirtschaft/bitte-nicht-was-uns-just-eat-einbrocken-will/",
       "summary": "",
       "published": "2026-10-31T08:19:49.375278+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Jugendproteste in Deutschland: «Gen Z regelt» hofft heute auf mehr als 160’000 Demonstrierende",
+      "url": "https://www.tagesanzeiger.ch/gen-z-regelt-160-000-bei-demos-in-30-deutschen-staedten-668568139082",
+      "summary": "In mehr als 30 deutschen Städten sind Demonstrationen angekündigt. Die Initiative fordert mehr Geld für Schulen und Klimaschutz sowie Massnahmen gegen steigende Lebenshaltungskosten.",
+      "published": "2026-10-31T08:32:51.103131+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Dominiqü Gisin Erklärt Engelbergs Olympia Pläne für 2038",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/dominique-gisin-erklaert-engelbergs-olympia-plaene-fuer-2038-ld.4259598",
+      "summary": "",
+      "published": "2026-10-31T08:32:51.103131+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Freiburger Mitte will bei der Ehe nicht einzeln abrechnen",
+      "url": "https://www.freiburger-nachrichten.ch/story/301638/die-freiburger-mitte-will-bei-der-ehe-nicht-einzeln-abrechnen",
+      "summary": "",
+      "published": "2026-10-31T08:32:51.103131+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Neue Zahlen zu den Bilateralen III: Die Hürde liegt höher als bisher gedacht",
+      "url": "https://www.freiburger-nachrichten.ch/story/301856/neue-zahlen-zu-den-bilateralen-iii-die-h%C3%BCrde-liegt-h%C3%B6her-als-bisher-gedacht",
+      "summary": "",
+      "published": "2026-10-31T08:32:51.103131+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eine Schanze auf Zeit und Fussmarsch für die Zuschauer: So plant Engelberg für Olympia 2038",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/dominique-gisin-erklaert-engelbergs-olympia-plaene-fuer-2038-art-1729726",
+      "summary": "",
+      "published": "2026-10-31T08:32:51.103131+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Weihnachtsmärkte schützen: Der Kanton soll mithelfen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/weihnachtsmaerkte-schuetzen-der-kanton-soll-mithelfen-art-1729619",
+      "summary": "",
+      "published": "2026-10-31T08:32:51.103131+00:00"
+    },
+    {
+      "source": "Infosperber",
+      "title": "Geldhaie im Gesundheitssystem",
+      "url": "https://www.infosperber.ch/gesundheit/geldhaie-im-gesundheitssystem/",
+      "summary": "",
+      "published": "2026-10-31T08:32:51.103131+00:00"
     }
   ]
 }
