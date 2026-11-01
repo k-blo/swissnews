@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T07:02:39.919980+00:00",
+  "generated": "2026-11-01T07:33:14.274323+00:00",
   "date": "2026-11-01",
-  "count": 110,
+  "count": 121,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -772,6 +772,83 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/migros-streicht-stellen-beim-groessten-umbau-der-geschichte-art-1729780",
       "summary": "",
       "published": "2026-11-01T07:02:39.919980+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Musikalisches Erbe – Friedrich Theodor Fröhlich – der fast vergessene Komponist",
+      "url": "https://www.srf.ch/news/schweiz/musikalisches-erbe-friedrich-theodor-froehlich-der-fast-vergessene-komponist",
+      "summary": "200 Jahre nach seinem Tod wird der Komponist Friedrich Theodor Fröhlich als Schweizer Genie der Frühromantik gelobt.",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "50-jährige Zivilschutzanlage – Zivilschutzanlage Sonnenberg: Das Revival des Mega-Bunkers",
+      "url": "https://www.srf.ch/news/schweiz/50-jaehrige-zivilschutzanlage-zivilschutzanlage-sonnenberg-das-revival-des-mega-bunkers",
+      "summary": "Im Falle eines Atomangriffs sollten 20'000 Menschen in den Sonnenberg. Die Anlage stösst wieder auf Interesse.",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Clubräumung in Bern eskaliert – Polizist verletzt",
+      "url": "https://www.blick.ch/schweiz/bern/clubraeumung-in-bern-eskaliert-polizist-verletzt/fmz0hg0",
+      "summary": "Nach der Räumung eines Clubs an der Stauffacherstrasse in Bern sind Polizisten mit Flaschen und Steinen angegriffen worden. Ein Beamter wurde leicht verletzt. Die Polizei setzte Tränengas, Pfefferspra",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Schockiert über Gewaltexzesse» – sogar das SEK war im Einsatz",
+      "url": "https://www.20min.ch/story/frankfurt-am-main-d-schockiert-ueber-gewaltexzesse-sogar-das-sek-war-im-einsatz-103659874",
+      "summary": "Erst demonstrieren mehr als 100'000 Menschen friedlich in Deutschland. Später kommt es vor allem in Frankfurt und Köln zu schlimmen Szenen.",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Wo ist Yannik?»: Heidis rührende Geste an der Halloween-Party",
+      "url": "https://www.20min.ch/story/heidi-klum-halloween-party-schweizer-designer-erlebt-ruehrendes-wiedersehen-103659865",
+      "summary": "Heidi Klum verwandelte sich in eine blutige Grusel-Hand. Mittendrin feierte der Schweizer Designer Yannik Zamboni. Gegenüber 20 Minuten erzählt er von einem emotionalen Wiedersehen, wilden Kostümen un",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Krawalle nach Gen-Z-Protesten: «Schockiert über Gewaltexzesse»: Ausschreitungen in mehreren deutschen Städten",
+      "url": "https://www.tagesanzeiger.ch/frankfurt-krawalle-nach-gen-z-demo-schockieren-politiker-715980895794",
+      "summary": "Nach zunächst friedlichen Protesten Zehntausender junger Menschen ist es in mehreren deutschen Städten zu Ausschreitungen gekommen. In Frankfurt wurden Polizisten angegriffen und Geschäfte geplündert.",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ausschreitungen an der Langstrasse: Vermummte setzen Auto und Container in Brand",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-11-01/ausschreitungen-an-der-langstrasse-vermummte-setzen-auto-und",
+      "summary": "In der Nacht auf Sonntag ist es im Zürcher Kreis 4 zu massiven Ausschreitungen gekommen. Mehrere hundert Personen versammelten sich an der Langstrasse, zahlreiche Gegenstände wurden angezündet. Die Po",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Künstliche Intelligenz Hoffnung oder Gefahr für die Menschheit",
+      "url": "https://www.bilanz.ch/konjunktur/kuenstliche-intelligenz-hoffnung-oder-gefahr-fuer-die-menschheit/xmbs2y9",
+      "summary": "",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Dieser Engadiner ist Seines Eigenen Glückes Schmied das ist Meistens aber Harte Arbeit",
+      "url": "https://www.suedostschweiz.ch/graubuenden/dieser-engadiner-ist-seines-eigenen-glueckes-schmied-das-ist-meistens-aber-harte-arbeit-2212679",
+      "summary": "",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Gesetz des Dschungels»: Tusk greift Präsident Nawrocki nach Gerichts-Eklat an",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/tusk-greift-nawrocki-nach-auftritt-im-verfassungsgericht-an-art-1729781",
+      "summary": "",
+      "published": "2026-11-01T07:33:14.274323+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "51 Mio bei Ruag Gestohlen Keine Hoher Kommt zur Kasse",
+      "url": "https://insideparadeplatz.ch/2026/11/01/51-mio-bei-ruag-gestohlen-keine-hoher-kommt-zur-kasse/",
+      "summary": "",
+      "published": "2026-11-01T07:33:14.274323+00:00"
     }
   ]
 }
