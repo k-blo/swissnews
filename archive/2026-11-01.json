@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T02:39:20.350163+00:00",
+  "generated": "2026-11-01T03:02:40.713486+00:00",
   "date": "2026-11-01",
-  "count": 14,
+  "count": 16,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -100,6 +100,20 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/the-symphonic-celebration-20-rabatt-mit-abo-card-ld.4208556",
       "summary": "",
       "published": "2026-11-01T02:32:45.379579+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Beatrice Keul will Trump verklagen",
+      "url": "https://www.20min.ch/story/beatrice-keul-vergewaltigung-vorwurf-donald-trump-bestreitet-model-will-praesident-verklagen-103659854",
+      "summary": "Die Schweizerin Beatrice Keul wirft Donald Trump vor, sie 1993 vergewaltigt zu haben. Der US-Präsident soll zur Rechenschaft gezogen werden.",
+      "published": "2026-11-01T03:02:40.713486+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Wie viel Raum braucht ein gesundes Leben?</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/bwie-viel-raum-braucht-ein-gesundes-lebenb-art-1728919",
+      "summary": "",
+      "published": "2026-11-01T03:02:40.713486+00:00"
     }
   ]
 }
