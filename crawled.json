@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T11:02:29.935229+00:00",
+  "generated": "2026-11-01T11:32:31.528965+00:00",
   "date": "2026-11-01",
-  "count": 250,
+  "count": 270,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1752,6 +1752,146 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/promis-werfen-sich-fuer-season-of-the-witch-in-schale-art-1729796",
       "summary": "",
       "published": "2026-11-01T11:02:29.935229+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Heiliger Bimbam – Wenn wegen der Hitze plötzlich die Kirchenglocke anders klingt",
+      "url": "https://www.srf.ch/news/schweiz/heiliger-bimbam-wenn-wegen-der-hitze-ploetzlich-die-kirchenglocke-anders-klingt",
+      "summary": "Der Hitzesommer ist vorbei, der Herbst hält Einzug. Die Kirchenglocken bimmeln wieder wie gewohnt.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Von wegen Gekribbel – Wie Kinderzeichnungen die Weltgeschichte zeigen können",
+      "url": "https://www.srf.ch/news/schweiz/von-wegen-gekribbel-wie-kinderzeichnungen-die-weltgeschichte-zeigen-koennen",
+      "summary": "Vom Kühlschrank über den Estrich … bis ins Museum? Kinderzeichnungen sagen vielleicht mehr aus, als man denkt.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Hausziege und Steinbock – Hybride Steinböcke sorgen im Tessin für Probleme",
+      "url": "https://www.srf.ch/news/schweiz/hausziege-und-steinbock-hybride-steinboecke-sorgen-im-tessin-fuer-probleme",
+      "summary": "Wenn Geissen sich mit Steinböcken paaren, gibt es Probleme. Der Kanton Tessin ruft dazu auf, Ziegen im Stall zu halten.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Es stinkt noch nach verbranntem Plastik»",
+      "url": "https://www.blick.ch/schweiz/zuerich/halloween-krawallnacht-zuercher-helvetiaplatz-am-tag-danach/7x4038f",
+      "summary": "In der Halloween-Nacht kam es in Zürich zu wüsten Szenen zwischen Chaoten und der Polizei. Blick-Reporter Sebastian Babic nimmt am Morgen danach einen Augenschein am Helvetiaplatz.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Wegen Russlands Rückkehr: Jetzt droht der grosse WM-Knall",
+      "url": "https://www.20min.ch/story/markige-worte-von-boss-wegen-russlands-rueckkehr-jetzt-droht-der-grosse-wm-knall-103659869",
+      "summary": "Russland darf wieder an internationalen Turnieren teilnehmen. Der Deutsche Eishockey-Bund sieht Sicherheits- und Kostenrisiken für die WM 2027 und zieht eine Rückgabe in Betracht.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Curling-EM in Ostrava: Finalniederlage gegen Schweden für die Schweizer Curlerinnen",
+      "url": "https://www.tagesanzeiger.ch/curling-em-schweizerinnen-verlieren-final-gegen-schweden-592846537444",
+      "summary": "Das neuformierte Team um Skip Alina Pätz verpasst im tschechischen Ostrava EM-Gold. Es verliert den Final gegen starke Schwedinnen 2:7.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Einbruch im Zürcher Unterland: Polizeihund aus Winterthur spürt Franzosen nach Einbruch in Waffengeschäft auf",
+      "url": "https://www.tagesanzeiger.ch/einbruch-in-hoeri-diensthund-naruk-stellt-franzosen-610947280202",
+      "summary": "Schon wieder wollten junge Männer in Höri in ein Waffengeschäft einbrechen. Als die Polizei anrückte, versuchten die Franzosen zu fliehen – vergeblich.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wil – Winterthur im Ticker: Gewinnt Winterthur erneut – oder gelingt Wil die Revanche?",
+      "url": "https://www.tagesanzeiger.ch/challenge-league-wil-winterthur-im-ticker-458267852466",
+      "summary": "Der FC Winterthur trifft auswärts auf den FC Wil, den er beim letzten Aufeinandertreffen gleich mit 5:0 bezwang. Die Partie ab 14:00 im Liveticker.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "LS – FC Thun im Ticker: Für Thun muss in Lausanne gegen den Tabellenletzten ein Sieg her",
+      "url": "https://www.bernerzeitung.ch/super-league-live-ls-fc-thun-um-16-30-uhr-im-ticker-216864565974",
+      "summary": "Meister Thun kommt in dieser Saison noch nicht richtig in Fahrt. Ein Sieg in Lausanne ist deshalb Pflicht – das Spiel im Liveticker.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "FC Lugano – FCB im Ticker: Es läuft nicht beim FCB – und nun geht’s gegen den souveränen Leader",
+      "url": "https://www.bazonline.ch/super-league-live-fc-lugano-fcb-um-16-30-uhr-im-ticker-798358576191",
+      "summary": "Der FCB kommt seit dem Trainerwechsel nicht in Fahrt. Was liegt in Lugano beim noch unbesiegten Leader drin? Das Spiel im Liveticker.",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hunderttausende in Ukraine ohne Strom",
+      "url": "https://www.zentralplus.ch/news/hunderttausende-in-ukraine-ohne-strom-2908600/",
+      "summary": "Russland hat nach ukrainischen Angaben in der Nacht die Energieinfrastruktur der Ukraine angegriffen. Betroffen sind vier Regionen: Dnipro, Winnyzja, Schytomyr und Chmelnyzkyj. Hunderttausende Haushal",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Uni Luzern sagt Neutralitäts-Podium ab – wegen SVP-Politikerin?",
+      "url": "https://www.zentralplus.ch/beruf-und-bildung/uni-luzern-sagt-neutralitaets-podium-ab-wegen-svp-politikerin-2908342/",
+      "summary": "Erst sagte die Universität Luzern einem Neutralitäts-Podium zu, zwei Tage nach der Vertragsunterzeichnung folgte die Absage. Die Veranstalter sind empört, die Universität spricht von einem Missverstän",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Welche Svp Bundesratstickets Denkbar Sind und wer Dann Gewählt Wird",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/welche-svp-bundesratstickets-denkbar-sind-und-wer-dann-gewaehlt-wird-2216006",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Fcl Hält Gegen Sion Nur Fast Dicht Dorn Zusammenhalt ist Nun das Wichtigste",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/fcl-haelt-gegen-sion-nur-fast-dicht-dorn-zusammenhalt-ist-nun-das-wichtigste-ld.4259650",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Valerio Moser Zeigt im Chäslager Sein Programm Manno Mann",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/valerio-moser-zeigt-im-chaeslager-sein-programm-manno-mann-ld.4255656",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "SBB: Bahnstrecke zwischen Rotkreuz und Zug unterbrochen",
+      "url": "https://www.watson.ch/schweiz/oev/470874623-sbb-bahnstrecke-zwischen-rotkreuz-und-zug-unterbrochen",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Schweizer Curlerinnen holen EM-Silber",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-schweizer-curlerinnen-holen-em-silber",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der Weltmeister auf den Spuren seiner Männlichkeit",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/valerio-moser-zeigt-im-chaeslager-sein-programm-manno-mann-art-1729800",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FCL hält gegen Sion nur fast dicht – Dorn: «Zusammenhalt ist nun das Wichtigste»",
+      "url": "https://www.bote.ch/nachrichten/sport/fcl-haelt-gegen-sion-nur-fast-dicht-dorn-zusammenhalt-ist-nun-das-wichtigste-art-1729799",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Krawalle in Zürich und Basel: Keine Botschaft, keine Ziele – nur Lust auf Gewalt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/zuerich-und-basel-krawalle-erinnern-an-die-unruhen-in-paris-art-1729797",
+      "summary": "",
+      "published": "2026-11-01T11:32:31.528965+00:00"
     }
   ]
 }
