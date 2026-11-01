@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T22:02:15.414961+00:00",
+  "generated": "2026-11-01T22:32:34.870590+00:00",
   "date": "2026-11-01",
-  "count": 573,
+  "count": 581,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4013,6 +4013,62 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/neun-tote-bei-flugzeugabsturz-in-florida-art-1729909",
       "summary": "",
       "published": "2026-11-01T22:02:15.414961+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "GP Mexiko: Antonelli kürt sich zum jüngsten Formel-1-Weltmeister",
+      "url": "https://www.tagesanzeiger.ch/formel-1-gp-mexiko-aktuell-626686269956",
+      "summary": "Kimi Antonelli sichert sich beim Grand Prix in Mexiko den WM-Titel vorzeitig. Das Rennen ist wegen einem Crash von Valtteri Bottas über eine halbe Stunde unterbrochen.",
+      "published": "2026-11-01T22:32:34.870590+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Kontroverse um SRF-Moderator: Anna Rosenwasser sagt Auftritt bei Stefan Büsser ab – SVP-Politikerin wird Ersatz",
+      "url": "https://www.derbund.ch/late-night-switzerland-rosenwasser-sagt-buesser-show-ab-968221694333",
+      "summary": "Die SP-Nationalrätin will nicht mehr in der SRF-Show «Late Night Switzerland» auftreten. Grund sind frühere Kontroversen um Moderator Stefan Büsser. Nun übernimmt eine SVP-Politikerin ihren Platz.",
+      "published": "2026-11-01T22:32:34.870590+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Kmsu Schwerpunktfachwahl und Maturitätsreform im Fokus",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/kmsu-schwerpunktfachwahl-und-maturitaetsreform-im-fokus-ld.4256439",
+      "summary": "",
+      "published": "2026-11-01T22:32:34.870590+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Urner Berge Erklärt Marco Herwegh Zeigt die Alpenbildung",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/urner-berge-erklaert-marco-herwegh-zeigt-die-alpenbildung-ld.4258335",
+      "summary": "",
+      "published": "2026-11-01T22:32:34.870590+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kimi Antonelli wird in Mexiko jüngster F1-Weltmeister der Geschichte",
+      "url": "https://www.watson.ch/sport/liveticker/144621579-kimi-antonelli-wird-in-mexiko-juengster-f1-weltmeister-der-geschichte",
+      "summary": "",
+      "published": "2026-11-01T22:32:34.870590+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FC Schattdorf stellt sich auf die Hinterbeine – FC Rothenburg weiter im Zickzackkurs",
+      "url": "https://www.bote.ch/nachrichten/sport/fc-schattdorf-stellt-sich-auf-die-hinterbeine-fc-rothenburg-weiter-im-zickzackkurs-art-1729920",
+      "summary": "",
+      "published": "2026-11-01T22:32:34.870590+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Strategisch oder nach Neigung entscheiden – Alumni-KMSU lud ein zum Thema Schwerpunktfachwahl",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kmsu-schwerpunktfachwahl-und-maturitaetsreform-im-fokus-art-1729911",
+      "summary": "",
+      "published": "2026-11-01T22:32:34.870590+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Als die Alpen zur Cremeschnitte wurden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/urner-berge-erklaert-marco-herwegh-zeigt-die-alpenbildung-art-1729910",
+      "summary": "",
+      "published": "2026-11-01T22:32:34.870590+00:00"
     }
   ]
 }
