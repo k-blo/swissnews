@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T13:03:04.355730+00:00",
+  "generated": "2026-11-01T13:32:38.257347+00:00",
   "date": "2026-11-01",
-  "count": 316,
+  "count": 330,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2214,6 +2214,104 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/traditionelle-aelplerchilbi-lungern-zieht-viele-besucher-an-art-1729803",
       "summary": "",
       "published": "2026-11-01T13:03:04.355730+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Aus fürs letzte Kursschiff – Tessiner Gemeinden sind sauer",
+      "url": "https://www.blick.ch/schweiz/tessin/aus-fuer-tessiner-pendlerschiff-wut-am-lago-maggiore/1c3r6q4",
+      "summary": "Im Tessin gibts böses Blut: Das Kursschiff zwischen Locarno und Magadino wird gestrichen, per Mitte Dezember ist Schluss. Pendler von betroffenen Gemeinden haben nun plötzlich einen deutlich längeren ",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Porsche in Krawallnacht demoliert: Schaden bis 30’000 Franken",
+      "url": "https://www.20min.ch/story/demonstration-zuerich-porsche-demoliert-schaden-bis-30-000-fr-103659981",
+      "summary": "Bei den Halloween-Krawallen im Zürcher Kreis 4 wurde neben einem Tesla auch ein Porsche beschädigt. Ein Autohändler schätzt die Reparaturkosten für den Porsche auf bis zu 30’000 Franken.",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "YB – FCZ im Ticker: Und schon wieder ist der FCZ in Führung: Emmanuel trifft eiskalt",
+      "url": "https://www.bernerzeitung.ch/super-league-live-yb-fcz-um-14-uhr-im-ticker-123945152025",
+      "summary": "Vor zweieinhalb Jahren konnte der FCZ zuletzt eine Partie gegen YB gewinnen. Die Favoritenrolle für heute ist also klar verteilt. Das Duell jetzt live.",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Sollte im Kursaal auftreten: Veranstalter sagt Kevin Spaceys Konzert in Bern wegen geringer Nachfrage ab",
+      "url": "https://www.bernerzeitung.ch/kevin-spacey-konzert-im-kursaal-bern-abgesagt-774193150231",
+      "summary": "Mit Songs und Geschichten wollte der gefallene Hollywoodstar beruflich wieder Fuss fassen. Doch nicht nur in der Schweiz blieben die meisten Plätze offenbar ungebucht.",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "LIVE-TICKER - Jugendproteste in Europa: Knapp 780 Festnahmen in Frankreich +++ Über 100 verletzte Polizisten in Frankfurt",
+      "url": "https://www.nzz.ch/international/jugendproteste-in-europa-pluenderungen-in-frankfurt-brennende-barrikaden-in-zuerich-und-basel-320-000-teilnehmer-in-frankreich-ld.10050272",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Einblicke Begegnungen Erlebnisse der Plantahof in Bildern",
+      "url": "https://www.suedostschweiz.ch/graubuenden/einblicke-begegnungen-erlebnisse-der-plantahof-in-bildern-2217740",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Udo Portmann Redet Degradierung von Fcl Vizecaptain Stefan Knezevic Klein",
+      "url": "https://www.luzernerzeitung.ch/sport/fcluzern/udo-portmann-redet-degradierung-von-fcl-vizecaptain-stefan-knezevic-klein-ld.4259652",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Alberto Fabbri Gewinnt Präsidium am Basler Appellationsgericht",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/alberto-fabbri-gewinnt-praesidium-am-basler-appellationsgericht-ld.4258917",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Kim De Lhorizons Stück in Solothurn Biel und Burgdorf",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/kim-de-lhorizons-stueck-in-solothurn-biel-und-burgdorf-ld.4259292",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Halloweenfest in Lostorf Begeistert Familien",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/halloweenfest-in-lostorf-begeistert-familien-ld.4258986",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Zuger Messe 75000 Besucher und 350 Aussteller",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/zuger-messe-75000-besucher-und-350-aussteller-ld.4259656",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Verein Kund feiert Jubiläum: Sind 100 Jahre genug?",
+      "url": "https://www.freiburger-nachrichten.ch/story/301967/verein-kund-feiert-jubil%C3%A4um-sind-100-jahre-genug",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "1,2 Tonnen Fondue, 10'000 Würste und 110 Hektoliter Bier&nbsp;– die Zuger Messe war ein voller Erfolg",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/zuger-messe-75000-besucher-und-350-aussteller-art-1729809",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Udo Portmann redet Degradierung von FCL-Vizecaptain Stefan Knezevic klein",
+      "url": "https://www.bote.ch/nachrichten/sport/udo-portmann-redet-degradierung-von-fcl-vizecaptain-stefan-knezevic-klein-art-1729807",
+      "summary": "",
+      "published": "2026-11-01T13:32:38.257347+00:00"
     }
   ]
 }
