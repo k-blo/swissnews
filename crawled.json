@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T01:32:46.892614+00:00",
+  "generated": "2026-11-01T02:02:20.774012+00:00",
   "date": "2026-11-01",
-  "count": 11,
+  "count": 12,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -79,6 +79,13 @@
       "url": "https://www.nzz.ch/zuerich/brennende-barrikaden-demolierte-scheiben-beissender-rauch-die-zuercher-langstrasse-erlebt-die-befuerchtete-nacht-der-krawalle-ld.10049480",
       "summary": "",
       "published": "2026-11-01T00:32:40.215109+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ausschreitungen in Zürich und Basel",
+      "url": "https://www.zentralplus.ch/news/ausschreitungen-in-zuerich-und-basel-2908572/",
+      "summary": "In Zürich und Basel ist es am Abend und in der Nacht bei unbewilligten Demonstrationen zu Ausschreitungen gekommen. In beiden Städten wurden Barrikaden errichtet und angezündet. In Zürich beteiligten ",
+      "published": "2026-11-01T02:02:20.774012+00:00"
     }
   ]
 }
