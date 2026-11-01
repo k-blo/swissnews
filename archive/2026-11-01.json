@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T05:08:48.274928+00:00",
+  "generated": "2026-11-01T05:30:43.323617+00:00",
   "date": "2026-11-01",
-  "count": 93,
+  "count": 95,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -653,6 +653,20 @@
       "url": "https://www.tagesanzeiger.ch/leuchten-20-ideen-fuer-warmes-licht-in-der-wohnung-607393087681",
       "summary": "Von Mondleuchten und Bogenleuchten über chinesisch anmutende Laternen bis hin zu tragbaren kleinen Lämpchen und Hängeleuchten, die wie geraffte Ballett-Tutus aussehen: Entdecken Sie Ihre Lieblinge unt",
       "published": "2026-11-01T05:08:48.274928+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Langstrasse Vermummte Setzen Auto und Container in Brand",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/langstrasse-vermummte-setzen-auto-und-container-in-brand-ld.4259679",
+      "summary": "",
+      "published": "2026-11-01T05:30:43.323617+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "1:8 gegen Zug – die Mutter aller SCB-Probleme ist die Ausländerfrage",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/277429928-1-8-gegen-zug-die-mutter-aller-scb-probleme-ist-die-auslaenderfrage",
+      "summary": "",
+      "published": "2026-11-01T05:30:43.323617+00:00"
     }
   ]
 }
