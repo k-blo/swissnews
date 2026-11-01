@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T06:03:18.384370+00:00",
+  "generated": "2026-11-01T06:32:34.038437+00:00",
   "date": "2026-11-01",
-  "count": 100,
+  "count": 107,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -702,6 +702,55 @@
       "url": "https://www.watson.ch/international/people-news/641379670-heidi-klum-verwandelt-sich-zu-halloween-in-abgerissene-hand",
       "summary": "",
       "published": "2026-11-01T06:03:18.384370+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kandidatur offen: Der Ungreifbare: Kann SVP-Einpeitscher Thomas Aeschi auch Bundesrat?",
+      "url": "https://www.tagesanzeiger.ch/thomas-aeschi-kann-der-svp-fraktionschef-bundesrat-321959043366",
+      "summary": "Er ist der halbe Kandidat seiner Partei. Aeschis Verhalten gibt nicht nur im Rennen um Guy Parmelins Nachfolge zu reden. Was für den umstrittenen Fraktionspräsidenten spricht – und was gegen ihn.",
+      "published": "2026-11-01T06:32:34.038437+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Grosses Interview mit Migros-Präsidentin: Gab es hinter den Kulissen Krach, Frau Nold?",
+      "url": "https://www.tagesanzeiger.ch/migros-praesidentin-wir-werden-diese-abstimmung-gewinnen-983677241902",
+      "summary": "Endlich macht der Detailhändler den Schritt zu einer einzigen, grossen Genossenschaft. Wie soll das gelingen, ohne den jetzigen Chef?",
+      "published": "2026-11-01T06:32:34.038437+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Krise am obersten Gericht: Es kommt zum Showdown um die Liebesaffäre zweier Bundesrichter – in aller Öffentlichkeit",
+      "url": "https://www.tagesanzeiger.ch/bundesgericht-showdown-ueber-richter-affaere-am-5-november-727893448371",
+      "summary": "Sind zwei Richter eine unzulässige «dauernde Lebensgemeinschaft» eingegangen? Das Bundesgericht urteilt am 5. November. Der Fall ist so heikel, dass dieser Redaktion gerichtlich verboten wurde, über s",
+      "published": "2026-11-01T06:32:34.038437+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Rad-Legende Beat Breu im Interview: «Ich habe viel zu wenig zum Leben und manchmal eigentlich gerade genug zum Sterben»",
+      "url": "https://www.tagesanzeiger.ch/beat-breu-radlegende-im-interview-in-seinem-circus-bistro-409104686905",
+      "summary": "Der 69-Jährige war ein gefeierter Star, heute verdient er mit seinem Zirkus-Bistro kaum etwas. Trotzdem zieht Beat Breu mit seiner Frau weiter – und blickt auf ein Leben voller Höhen und Tiefen zurück",
+      "published": "2026-11-01T06:32:34.038437+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Pächterwechsel in Interlaken: «Der Preis hat gestimmt»: Demnächst gibt es auch Pizza und Frühstück im Des Alpes",
+      "url": "https://www.bernerzeitung.ch/des-alpes-interlaken-neuer-paechter-ab-dezember-700615482126",
+      "summary": "Mordfall, Pächtersuche, Neustart: Das Des Alpes blickt auf turbulente Zeiten zurück. Nun verkaufen die Retter von 2023 das beliebte Lokal überraschend weiter.",
+      "published": "2026-11-01T06:32:34.038437+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Historischer Grossbrand in Schweizerhalle: Was passierte am 1. November 1986? – Das Tagesprotokoll",
+      "url": "https://www.bazonline.ch/historischer-liveticker-von-schweizerhalle-das-tagesprotokoll-472857571084",
+      "summary": "Im Jahr 1986 kam es zu einer beispiellosen Brandkatastrophe in einer Lagerhalle des Pharmaunternehmens Sandoz in Schweizerhalle. Wir schauen in unserem historischen Ticker zurück.",
+      "published": "2026-11-01T06:32:34.038437+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Ex-Industriepfarrer beider Basel: Martin Dürr (67) über Panikattacken: «Habe mir gefühlt 15 Todesarten ausgedacht»",
+      "url": "https://www.bazonline.ch/ex-industriepfarrer-aus-basel-spricht-offen-ueber-panikattacken-973114158034",
+      "summary": "Er war für Menschen da, die gemobbt wurden, Sinnkrisen oder Burn-outs hatten. Selbst kämpfte er jahrelang mit dem Gefühl, gleich jeden Moment zu sterben. Martin Dürr über seine Ängste.",
+      "published": "2026-11-01T06:32:34.038437+00:00"
     }
   ]
 }
