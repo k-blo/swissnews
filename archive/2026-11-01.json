@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T03:02:40.713486+00:00",
+  "generated": "2026-11-01T04:02:33.715801+00:00",
   "date": "2026-11-01",
-  "count": 16,
+  "count": 64,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -114,6 +114,342 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/bwie-viel-raum-braucht-ein-gesundes-lebenb-art-1728919",
       "summary": "",
       "published": "2026-11-01T03:02:40.713486+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Wasserwerfer-Einsatz gegen Linksextreme",
+      "url": "https://www.blick.ch/schweiz/zuerich/wasserwerfer-einsatz-gegen-linksextreme/9sdqqn9",
+      "summary": "Linksradikale liefern sich Auseinandersetzung mit der Polizei. Barrikaden, Wasserwerfer: Gegen Mitternacht hat sich die Lage beruhigt.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Hier setzt die Polizei den Wasserwerfer ein",
+      "url": "https://www.blick.ch/schweiz/zuerich/zuerich-hier-setzt-die-polizei-den-wasserwerfer-ein/qk3cjjd",
+      "summary": "Linksradikale liefern sich Auseinandersetzung mit der Polizei. Barrikaden, Wasserwerfer: Die Lage spitzt sich zu.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Kampf um Landmanns Namen",
+      "url": "https://www.blick.ch/schweiz/zuerich/valentin-landmann-streit-um-namen-des-milieuanwalts/e27h0pz",
+      "summary": "Nach dem Austritt aus seiner Kanzlei streitet sich Valentin Landmann mit seinen Ex-Partnern um sein Honorar. Doch es geht um mehr als nur um Geld.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Deutsche Firma bringt SBB-Personal Sprachen bei",
+      "url": "https://www.blick.ch/schweiz/muenchner-firma-lehrt-sbb-angestellte-fremdsprachen/8wjps61",
+      "summary": "Die SBB geben in den nächsten fünf Jahren fast 4 Millionen Franken aus, um die Fremdsprachenkompetenz ihrer Angestellten zu verbessern. Eine Münchner Firma führt die digitalen Kurse durch.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Ich will Trump wegen Vergewaltigung verklagen»",
+      "url": "https://www.blick.ch/schweiz/schweizer-ex-miss-schweiz-vize-beatrice-keul-will-trump-verklagen/qvbxqe7",
+      "summary": "Jahrelang hat Béatrice Keul geschwiegen. Jetzt will sie Gerechtigkeit. Donald Trump soll vor Gericht. Das Weisse Haus bestreitet alle Vorwürfe.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Randalierer hindern Polizei an Hilfe für verletzten Teenager",
+      "url": "https://www.blick.ch/schweiz/zuerich/zuerich-linksradikale-demo-eskaliert-an-langstrasse/b0yh97e",
+      "summary": "Demonstrierende sind am Samstagabend in Zürich mit der Polizei aneinandergeraten. Diese prangert eine Situation an, in der sie am Eingreifen bei einem Unfall gehindert worden sei.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Heidi Klum versprach nicht zu viel: So blutig ist ihr Kostüm",
+      "url": "https://www.20min.ch/story/halloween-heidi-klum-kostuem-grusel-hand-blutig-gewebe-103659855",
+      "summary": "Die «Königin von Halloween», wie Heidi Klum von ihren Fans genannt wird, verwandelt sich dieses Jahr in eine Horror-Hand.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Midterms: Was, wenn Donald Trump das Ergebnis nicht akzeptiert?",
+      "url": "https://www.20min.ch/story/leugnen-gehoert-nun-dazu-midterms-was-wenn-donald-trump-das-ergebnis-nicht-akzeptiert-103659386",
+      "summary": "Vor den diesjährigen Midterms schürt der US-Präsident  Zweifel am Wahlverfahren. Ein Wahlrechtsexperte warnt: «Es geht um Kontrolle und Macht.»",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Drei Tage krank: Arbeitgeber verlangt intime Details von Baslerin",
+      "url": "https://www.20min.ch/story/arztzeugnis-reichte-nicht-drei-tage-krank-arbeitgeber-verlangt-intime-details-von-baslerin-103658424",
+      "summary": "Nach drei Krankheitstagen reicht eine Baslerin ein Arztzeugnis ein. Ihr Arbeitgeber wollte danach Details zu ihrer Krankheitsgeschichte wissen – und drohte gar mit Konsequenzen, sollte sie nicht koope",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Lehrling (19) entwickelt Gratis-Software für Hobbyfotografen",
+      "url": "https://www.20min.ch/story/rothenburg-lu-lehrling-19-entwickelt-gratis-software-fuer-hobbyfotografen-103657956",
+      "summary": "Ursprünglich begann alles als Experiment während der Sommerferien. Mittlerweile hat der 19-jährige Timon aus Luzern mit seiner eigenen Bildbearbeitungs-Software unzählige Hobbyfotografen erreicht.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Er hat Aromat-Chips erfunden: «Ich wurde angemessen versorgt»",
+      "url": "https://www.20min.ch/story/ein-paar-packungen-er-hat-aromat-chips-erfunden-ich-wurde-angemessen-versorgt-103652181",
+      "summary": "Die Aromat-Chips kommen zurück: Hinter der Idee steckt der Tiktok-User «dabbax». Mit 20 Minuten spricht er über das Comeback.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vorwurf der Vergewaltigung: Schweizerin Beatrice Keul will Donald Trump verklagen",
+      "url": "https://www.tagesanzeiger.ch/vorwurf-der-vergewaltigung-gegen-donald-trump-schweizerin-beatrice-keul-will-praesident-verklagen-872647213875",
+      "summary": "Die Schweizerin Beatrice Keul wirft Donald Trump vor, sie 1993 vergewaltigt zu haben. Der US-Präsident soll zur Rechenschaft gezogen werden.",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trauergäste kaufen? Kein Witz – ein Luzerner machts möglich",
+      "url": "https://www.zentralplus.ch/gesellschaft/trauergaeste-kaufen-kein-witz-ein-luzerner-machts-moeglich-2907698/",
+      "summary": "Drei Unbekannte tauchen an einer Beerdigung auf, trauern und verschwinden wieder. Dahinter steckt ein ungewöhnliches Geschäftsmodell. Doch der letzte Scherz hat seine Tücken. Drei elegant gekleidete U",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Swiss rechnet mit höheren Ticketpreisen",
+      "url": "https://www.zentralplus.ch/news/swiss-rechnet-mit-hoeheren-ticketpreisen-2908574/",
+      "summary": "Flugtickets der Swiss dürften teurer werden. Das sagt Swiss-Chef Jens Fehlinger in der «SonntagsZeitung». Grund dafür seien die stark gestiegenen Ölpreise. Kerosin sei der grösste Kostenposten der Air",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Gefährdet der hohe Tarif den Ausbau der Fernwärme in der Stadt Zürich? Ein liberaler Hauseigentümer und ein linker Mieterverbandsvertreter verbünden sich dagegen",
+      "url": "https://www.nzz.ch/zuerich/gefaehrdet-der-hohe-tarif-den-ausbau-der-fernwaerme-in-der-stadt-zuerich-ein-liberaler-hauseigentuemer-und-ein-linker-mieterverbandsvertreter-verbuenden-sich-dagegen-ld.10046962",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wir Feiern Jedes Jahr Halloween und Allerheiligen Doch was Bedeuten Diese Tage Eigentlich",
+      "url": "https://www.suedostschweiz.ch/graubuenden/wir-feiern-jedes-jahr-halloween-und-allerheiligen-doch-was-bedeuten-diese-tage-eigentlich-2207862",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Fundbüro Kuriose Funde und Tipps von der Polizei",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzerner-fundbuero-kuriose-funde-und-tipps-von-der-polizei-ld.4259045",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Inasi Wurde Trotz Krankheiten aus der Schweiz Ausgeschafft",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/inasi-wurde-trotz-krankheiten-aus-der-schweiz-ausgeschafft-ld.4196977",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Weihnachts und Adventsmärkte im Aargau Übersicht 2026",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/weihnachts-und-adventsmaerkte-im-aargau-uebersicht-2026-ld.4250975",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Schlemmerfilet A La Bordelaise Selbst Zubereitet Statt Fertigprodukt",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/schlemmerfilet-a-la-bordelaise-selbst-zubereitet-statt-fertigprodukt-ld.4258710",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Svp Landrat Tschudin Kritisiert Kündigungsschutz für Staatsangestellte",
+      "url": "https://www.bzbasel.ch/basel/baselland/svp-landrat-tschudin-kritisiert-kuendigungsschutz-fuer-staatsangestellte-ld.4258572",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Schweizer Frauen Nati Spielte Trotz Chemiekatastrophe bei Basel",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/schweizer-frauen-nati-spielte-trotz-chemiekatastrophe-bei-basel-ld.4258304",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Der Tote Rhein und die Verantwortung 40 Jahre Chemiekatastrophe Schweizerhalle",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/der-tote-rhein-und-die-verantwortung-40-jahre-chemiekatastrophe-schweizerhalle-ld.4258395",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Bettina Eichins Markttische und Sandoz ein Basler Streit",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/bettina-eichins-markttische-und-sandoz-ein-basler-streit-ld.4258306",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Schulsozialarbeit an Primarschulen im Hinteren Thal Wird Eingeführt",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/schulsozialarbeit-an-primarschulen-im-hinteren-thal-wird-eingefuehrt-ld.4256875",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Sz Quiz Kennen sie Auch Diese Solothurner Ortsnamen im Dialekt",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/sz-quiz-kennen-sie-auch-diese-solothurner-ortsnamen-im-dialekt-ld.4259336",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Altersheime im Kanton Solothurn Schlagen Alarm",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/altersheime-im-kanton-solothurn-schlagen-alarm-ld.4259216",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Petition Gegen Lärm in Lostorf Scheitert am Gemeinderat",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/petition-gegen-laerm-in-lostorf-scheitert-am-gemeinderat-ld.4253170",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Ivo Sasek und Kla Tv wie der Sektensender Misstrauen Schürt",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/ivo-sasek-und-kla-tv-wie-der-sektensender-misstrauen-schuert-ld.4181749",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Ennetbürgen Modernisiert die Wasserversorgung",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/ennetbuergen-modernisiert-die-wasserversorgung-ld.4258881",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Regierung Legt Bericht zum Regierungsprogramm 2024 Bis 2028 vor",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/regierung-legt-bericht-zum-regierungsprogramm-2024-bis-2028-vor-ld.4259608",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Perfekte Ordnung: 21 Bilder, die Ordnungsliebhaber glücklich machen",
+      "url": "https://www.watson.ch/spass/leben/311012897-perfekte-ordnung-21-bilder-die-ordnungsliebhaber-gluecklich-machen",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Friedhöfe im Wandel: Darum wird der Friedhof Sihlfeld zum Park",
+      "url": "https://www.watson.ch/schweiz/leben/413757683-friedhoefe-im-wandel-darum-wird-der-friedhof-sihlfeld-zum-park",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ausschreitungen in Deutschland: «Schockiert über Gewaltexzesse»",
+      "url": "https://www.watson.ch/international/deutschland/939199204-ausschreitungen-in-deutschland-schockiert-ueber-gewaltexzesse",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Ich wollte nur noch sterben»",
+      "url": "https://www.freiburger-nachrichten.ch/story/301893/ich-wollte-nur-noch-sterben",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zirkus, aber in sexy: Deshalb boomen Softerotik-Shows",
+      "url": "https://www.freiburger-nachrichten.ch/story/301917/zirkus-aber-in-sexy-deshalb-boomen-softerotikshows",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Von Böhmermann bis Joe Rogan: Warum Comedians plötzlich so mächtig sind",
+      "url": "https://www.freiburger-nachrichten.ch/story/301469/von-b%C3%B6hmermann-bis-joe-rogan-warum-comedians-pl%C3%B6tzlich-so-m%C3%A4chtig-sind",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Trotz fast 20%-Anstieg: Der Kinoboom geht am Schweizer Film vorbei",
+      "url": "https://www.freiburger-nachrichten.ch/story/301887/trotz-fast-20anstieg-der-kinoboom-geht-am-schweizer-film-vorbei",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Steff la Cheffe: «Andere haben sich grosse Sorgen um mich gemacht – zu Recht»",
+      "url": "https://www.freiburger-nachrichten.ch/story/301889/steff-la-cheffe-andere-haben-sich-grosse-sorgen-um-mich-gemacht-zu-recht",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Sie übt Cello morgens um 4:30 Uhr im Bundeshaus: Das aussergewöhnliche Doppelleben von Estelle Revaz",
+      "url": "https://www.freiburger-nachrichten.ch/story/301891/sie-%C3%BCbt-cello-morgens-um-430-uhr-im-bundeshaus-das-aussergew%C3%B6hnliche-doppelleben-von-estelle-revaz",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Rätselhafte Epidemie vor 90 Jahren: Was 130 kranke Schweizer Soldaten mit Long Covid verbindet",
+      "url": "https://www.freiburger-nachrichten.ch/story/301915/r%C3%A4tselhafte-epidemie-vor-90-jahren-was-130-kranke-schweizer-soldaten-mit-long-covid-verbindet",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nicht schon wieder Kürbissuppe! Probieren Sie diese cremige Pasta aus",
+      "url": "https://www.freiburger-nachrichten.ch/story/301897/nicht-schon-wieder-k%C3%BCrbissuppe-probieren-sie-diese-cremige-pasta-aus",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Muss es immer der pure Raclettekäse sein? Was für und was gegen Variationen spricht",
+      "url": "https://www.freiburger-nachrichten.ch/story/301895/muss-es-immer-der-pure-raclettek%C3%A4se-sein-was-f%C3%BCr-und-was-gegen-variationen-spricht",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wie Freiburger Start-ups vom Wissen der Universität und der Hochschulen profitieren",
+      "url": "https://www.freiburger-nachrichten.ch/story/300760/wie-freiburger-startups-vom-wissen-der-universit%C3%A4t-und-der-hochschulen-profitieren",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Wie man so etwas verlieren kann, ist mir schleierhaft» – Kurioses aus dem Alltag im Luzerner Fundbüro",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-fundbuero-kuriose-funde-und-tipps-von-der-polizei-art-1729779",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was bedeutet, Massnahme ist «auf Kurs»?",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/regierung-legt-bericht-zum-regierungsprogramm-2024-bis-2028-vor-art-1729778",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Trotz schwerer Erkrankungen und Verfolgung ausgeschafft: Luzerner Fall wirft Fragen auf",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/inasi-wurde-trotz-krankheiten-aus-der-schweiz-ausgeschafft-art-1729776",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ennetbürgen baut Wasserversorgung um",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ennetbuergen-modernisiert-die-wasserversorgung-art-1729777",
+      "summary": "",
+      "published": "2026-11-01T04:02:33.715801+00:00"
     }
   ]
 }
