@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T00:03:01.960622+00:00",
+  "generated": "2026-11-01T00:32:40.215109+00:00",
   "date": "2026-11-01",
-  "count": 9,
+  "count": 11,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -65,6 +65,20 @@
       "url": "https://www.watson.ch/schweiz/zuerich/496208473-ausschreitungen-im-zuercher-kreis-4-polizei-setzt-wasserwerfer-ein",
       "summary": "",
       "published": "2026-11-01T00:03:01.960622+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Ausschreitungen in ZH und BS – Brennende Barrikaden bei Demos in Zürich und Basel",
+      "url": "https://www.srf.ch/news/schweiz/ausschreitungen-in-zh-und-bs-brennende-barrikaden-bei-demos-in-zuerich-und-basel",
+      "summary": "In Zürich und Basel ist es am Samstagabend bei unbewilligten Demonstrationen zu Ausschreitungen gekommen.",
+      "published": "2026-11-01T00:32:40.215109+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Brennende Barrikaden, demolierte Scheiben, beissender Rauch: Die Zürcher Langstrasse erlebt die befürchtete Nacht der Krawalle",
+      "url": "https://www.nzz.ch/zuerich/brennende-barrikaden-demolierte-scheiben-beissender-rauch-die-zuercher-langstrasse-erlebt-die-befuerchtete-nacht-der-krawalle-ld.10049480",
+      "summary": "",
+      "published": "2026-11-01T00:32:40.215109+00:00"
     }
   ]
 }
