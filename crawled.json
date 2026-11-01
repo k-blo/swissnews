@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T08:02:48.699711+00:00",
+  "generated": "2026-11-01T08:31:11.608482+00:00",
   "date": "2026-11-01",
-  "count": 133,
+  "count": 151,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -933,6 +933,132 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/frankreich-proteste-eskalieren-am-abend-art-1729783",
       "summary": "",
       "published": "2026-11-01T08:02:48.699711+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bei Krawallnacht: Unbekannte zünden Tesla an",
+      "url": "https://www.20min.ch/video/zuerich-bei-krawallnacht-unbekannte-zuenden-tesla-an-103659904",
+      "summary": "Als sich die Lage etwas beruhigte, brannte in der Zwingligasse ein Tesla. Zuvor kam es rund um die Langstrasse zu Krawallen von Linksextremen. Die Polizei war mit einem Grossaufgebot vor Ort. Die Sich",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "SC Rheintal: Junger Eishockey-Spieler nach Sturz gegen Bande schwer verletzt",
+      "url": "https://www.tagesanzeiger.ch/sc-rheintal-junger-eishockey-spieler-verletzt-halswirbelsaeule-724634312693",
+      "summary": "Max Murschetz verletzte sich bei einem Zweikampf schwer. Der 18-Jährige musste ins Paraplegiker-Zentrum nach Nottwil verlegt werden.",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gruselauftritt in New York: Heidi Klum geht an Halloween als blutige  Hand",
+      "url": "https://www.tagesanzeiger.ch/heidi-klum-als-abgerissene-hand-an-halloween-party-868568694279",
+      "summary": "Supermodel Heidi Klum hat an ihrer traditionellen Halloween-Party erneut mit einem ausgefallenen Kostüm überrascht. Ihr Ehemann Tom Kaulitz fehlte dieses Jahr allerdings.",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Warum KI-Transformation mehr als digitale Reife braucht",
+      "url": "https://www.netzwoche.ch/news/2026-11-01/warum-ki-transformation-mehr-als-digitale-reife-braucht",
+      "summary": "KI beschleunigt Arbeitsschritte, kann aber auch neue Anforderungen und Belastungen schaffen. Wenn Zeit für die Prüfung von KI-Ergebnissen fehlt oder Verantwortlichkeiten unklar bleiben, kann Technostr",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Ein kleiner Sprung für den Muskel, ein grosser Schritt für die Robotik",
+      "url": "https://www.netzwoche.ch/news/2026-11-01/ein-kleiner-sprung-fuer-den-muskel-ein-grosser-schritt-fuer-die-robotik",
+      "summary": "Diese Roboter haben echte Muskeln, und endlich machen sie grosse Fortschritte. Forschende der ETH Zürich haben Muskelantriebe entwickelt, die sich stark genug verformen, um kleine Roboter springen, sc",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Bundesgericht erwirkt Publikationsverbot",
+      "url": "https://www.persoenlich.com/medien/bundesgericht-erwirkt-publikationsverbot",
+      "summary": "Die Zeitung darf bis zum 5. November keine Details aus ihren Recherchen zur Affäre zweier Bundesrichter veröffentlichen.",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Rosenwasser sagte Büsser-Show ab",
+      "url": "https://www.persoenlich.com/medien/rosenwasser-sagte-busser-show-ab",
+      "summary": "Statt der SP-Nationalrätin sitzt am Sonntag Ratskollegin Nina Fehr Düsel von der SVP bei Stefan Büsser in «Late Night Switzerland». Ausschlaggebend für die Absage war ein Podcast-Interview mit Luke Mo",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "1,6 Millionen Menschen bestaunen Totentag-Parade in Mexiko",
+      "url": "https://www.watson.ch/international/kultur/441753449-1-6-millionen-menschen-bestaunen-totentag-parade-in-mexiko",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Midterms: Kathy Winter verweigert Josh Turek in Iowa die Stimme",
+      "url": "https://www.watson.ch/international/usa/256678850-midterms-kathy-winter-verweigert-josh-turek-in-iowa-die-stimme",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Durch Überfluss haben Schweizer den überlebenswichtigen Reflex verloren",
+      "url": "https://www.watson.ch/schweiz/blogs/727066540-durch-ueberfluss-haben-schweizer-den-ueberlebenswichtigen-reflex-verloren",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Diese Änderungen treten am 1. November in der Schweiz in Kraft",
+      "url": "https://www.watson.ch/schweiz/904224426-diese-aenderungen-treten-am-1-november-in-der-schweiz-in-kraft",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "95'000 Franken ausgegeben – Geheimdienst stoppt sein eigenes Buch",
+      "url": "https://www.watson.ch/schweiz/gesellschaft-politik/918001000-95-000-franken-ausgegeben-geheimdienst-stoppt-sein-eigenes-buch",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Duell der Schweizer Verteidiger geht an Roman Josi",
+      "url": "https://www.watson.ch/sport/eishockey/575603274-duell-der-schweizer-verteidiger-geht-an-roman-josi",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "24 Opfer fordern Zwangsverwaltung von Crans-Montana",
+      "url": "https://www.watson.ch/schweiz/wallis/126782777-24-opfer-fordern-zwangsverwaltung-von-crans-montana",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zuerst stirbt der Diesel, dann der Benziner: Warum das E-Auto nun gewinnt",
+      "url": "https://www.freiburger-nachrichten.ch/story/301963/zuerst-stirbt-der-diesel-dann-der-benziner-warum-das-eauto-nun-gewinnt",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die Bulls zeigen dem Leader den Meister",
+      "url": "https://www.freiburger-nachrichten.ch/story/301947/die-bulls-zeigen-dem-leader-den-meister",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Olympic knackt Nyons Heimfestung",
+      "url": "https://www.freiburger-nachrichten.ch/story/301950/olympic-knackt-nyons-heimfestung",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Plünderungen und Gewalt überschatten Gen-Z-Demonstrationen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/deutschland-pluenderungen-und-gewalt-ueberschatten-gen-z-demonstrationen-art-1729785",
+      "summary": "",
+      "published": "2026-11-01T08:31:11.608482+00:00"
     }
   ]
 }
