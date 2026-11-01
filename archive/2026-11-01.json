@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-31T23:33:22.179010+00:00",
+  "generated": "2026-11-01T00:03:01.960622+00:00",
   "date": "2026-11-01",
-  "count": 8,
+  "count": 9,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -58,6 +58,13 @@
       "url": "https://www.nzz.ch/wirtschaft/fbi-bestaetigt-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl-bei-binance-ld.10050756",
       "summary": "",
       "published": "2026-10-31T23:33:22.179010+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ausschreitungen im Zürcher Kreis 4 – Polizei setzt Wasserwerfer ein",
+      "url": "https://www.watson.ch/schweiz/zuerich/496208473-ausschreitungen-im-zuercher-kreis-4-polizei-setzt-wasserwerfer-ein",
+      "summary": "",
+      "published": "2026-11-01T00:03:01.960622+00:00"
     }
   ]
 }
