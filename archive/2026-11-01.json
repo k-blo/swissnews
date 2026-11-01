@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T21:11:18.668006+00:00",
+  "generated": "2026-11-01T21:32:51.763980+00:00",
   "date": "2026-11-01",
-  "count": 565,
+  "count": 567,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3957,6 +3957,20 @@
       "url": "https://www.suedostschweiz.ch/unterhaltung/hochzeit-in-der-sendung-auf-einmal-wird-geheiratet-2218152",
       "summary": "",
       "published": "2026-11-01T21:11:18.668006+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "9 Tote bei Absturz von Privatjet in Wohngebiet in Florida",
+      "url": "https://www.watson.ch/international/usa/692407026-9-tote-bei-absturz-von-privatjet-in-wohngebiet-in-florida",
+      "summary": "",
+      "published": "2026-11-01T21:32:51.763980+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Diese Umarmung ist legendär»: Ueli und Priska können beim ersten Treffen kaum voneinander loslassen",
+      "url": "https://www.bote.ch/nachrichten/kultur/diese-umarmung-ist-legendaer-ueli-und-priska-koennen-beim-ersten-treffen-kaum-voneinander-loslassen-art-1729890",
+      "summary": "",
+      "published": "2026-11-01T21:32:51.763980+00:00"
     }
   ]
 }
