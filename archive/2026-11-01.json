@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T02:02:20.774012+00:00",
+  "generated": "2026-11-01T02:32:45.379579+00:00",
   "date": "2026-11-01",
-  "count": 12,
+  "count": 14,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -86,6 +86,20 @@
       "url": "https://www.zentralplus.ch/news/ausschreitungen-in-zuerich-und-basel-2908572/",
       "summary": "In Zürich und Basel ist es am Abend und in der Nacht bei unbewilligten Demonstrationen zu Ausschreitungen gekommen. In beiden Städten wurden Barrikaden errichtet und angezündet. In Zürich beteiligten ",
       "published": "2026-11-01T02:02:20.774012+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Swiss muss Ticket-Preise erhöhen",
+      "url": "https://www.20min.ch/story/swiss-hoehere-ticket-preise-wegen-kerosin-ceo-jens-fehlinger-103659853",
+      "summary": "Die gestiegenen Treibstoffpreise treffen die Swiss hart, so CEO Jens Fehlinger in einem Interview. Dies müsse mit höheren Ticket-Preisen kompensiert werden. In welchem Ausmass, ist nicht bekannt.",
+      "published": "2026-11-01T02:32:45.379579+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "The Symphonic Celebration 20 Rabatt mit Abo Card",
+      "url": "https://www.luzernerzeitung.ch/aboplus/veranstaltungen/the-symphonic-celebration-20-rabatt-mit-abo-card-ld.4208556",
+      "summary": "",
+      "published": "2026-11-01T02:32:45.379579+00:00"
     }
   ]
 }
