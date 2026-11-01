@@ -4,13 +4,13 @@
     "etag": "\"41badc773219e7fc4477fc277aadc4e2\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"17b3e-WNYdCOXbj7yaCnYRzy7bmlUwLzs\""
+    "etag": "W/\"17b2a-skUWuMFvPoRv3d29Z8xRLrF/WA8\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
-    "etag": "W/\"e4f6-zrUbBEcMMca6lksKA5dInS2fJlw\""
+    "etag": "W/\"e47a-bZft/UXiK5X/i/bX1ftaTtexUPQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bernerzeitung/": {
-    "etag": "W/\"d029-sbdBT8czPOdv8FYsIjdHMq7wCow\""
+    "etag": "W/\"cfe3-15b6CWhyXF3geA23IFjP2XSnjr0\""
   },
   "https://www.zentralplus.ch/feed/": {
     "last_modified": "Sun, 01 Nov 2026 04:57:00 GMT"
@@ -23,17 +23,17 @@
     "etag": "\"1793517467\""
   },
   "https://www.nzz.ch/recent.rss": {
-    "last_modified": "Sun, 01 Nov 2026 07:31:28 GMT"
+    "last_modified": "Sun, 01 Nov 2026 08:01:32 GMT"
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-06.xml": {
     "last_modified": "Tue, 30 Jun 2026 14:05:20 GMT",
     "etag": "\"54c8c9f1218fbd2ffaac78896b4da333\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/derbund/": {
-    "etag": "W/\"dfc5-9W3cFUvx9FwRMta5J75gMlkFkvc\""
+    "etag": "W/\"deca-/QcwTl01IvGF0jx44F4axbSzABQ\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/": {
-    "etag": "W/\"ece3-mphnXGLdAaVH2dlvCJVmkf496+I\""
+    "etag": "W/\"ecd3-gNSuLgtUkSFo1QDsCZc7gKf0ui4\""
   },
   "https://www.woz.ch/sitemaps/editorial_content/sitemap.xml": {
     "last_modified": "Sun, 01 Nov 2026 06:41:05 GMT",
@@ -51,15 +51,15 @@
     "etag": "\"1793165004\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sun, 01 Nov 2026 07:30:18 GMT",
-    "etag": "W/\"1793518218-gzip\""
+    "last_modified": "Sun, 01 Nov 2026 08:00:30 GMT",
+    "etag": "W/\"1793520030-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"29353-qAPZ+hpnhkqK8MYxonJuj01TH98\""
   },
   "https://www.bote.ch/googlenews.sitemap.xml": {
-    "last_modified": "Sun, 01 Nov 2026 07:26:01 GMT",
-    "etag": "\"1793517961\""
+    "last_modified": "Sun, 01 Nov 2026 08:01:01 GMT",
+    "etag": "\"1793520061\""
   },
   "https://www.bilanz.ch/sitemap-articles-time-limited-2026-07.xml": {
     "last_modified": "Fri, 31 Jul 2026 14:09:59 GMT",
