@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T00:02:36.825012+00:00",
+  "generated": "2026-11-02T00:32:41.869504+00:00",
   "date": "2026-11-02",
-  "count": 19,
+  "count": 21,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -135,6 +135,20 @@
       "url": "https://www.bote.ch/nachrichten/kultur/stefan-buesser-macht-sich-ueber-die-migros-lustig-art-1729923",
       "summary": "",
       "published": "2026-11-02T00:02:36.825012+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bulgarien wählt Jotowa als Präsidentin",
+      "url": "https://www.zentralplus.ch/news/bulgarien-waehlt-jotowa-als-praesidentin-2908643/",
+      "summary": "In Bulgarien hat die amtierende Präsidentin Iliana Jotowa die Stichwahl um das Präsidentenamt gewonnen. Laut Hochrechnungen kommt sie auf rund 57 Prozent der Stimmen. Jotowa gehört dem linken Lager an",
+      "published": "2026-11-02T00:32:41.869504+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Ukrainische Warn-App wurde gehackt",
+      "url": "https://www.zentralplus.ch/news/ukrainische-warn-app-wurde-gehackt-2908641/",
+      "summary": "In der Ukraine ist eine Notfall-App, die Warnungen vor beispielsweise Luftangriffe direkt auf Smartphones der Bevölkerung versendet, gehackt worden. Laut Medienberichten verschickte die App Fehlalarme",
+      "published": "2026-11-02T00:32:41.869504+00:00"
     }
   ]
 }
