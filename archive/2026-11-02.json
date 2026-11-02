@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-01T23:32:51.321066+00:00",
+  "generated": "2026-11-02T00:02:36.825012+00:00",
   "date": "2026-11-02",
-  "count": 18,
+  "count": 19,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -128,6 +128,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/bilderbuchlesung-auerhuhn-hinter-den-mythen-gesucht-art-1729812",
       "summary": "",
       "published": "2026-11-01T23:32:51.321066+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Büssi schaut «Teleblocher» – und kommt zu einem üblen Verdacht",
+      "url": "https://www.bote.ch/nachrichten/kultur/stefan-buesser-macht-sich-ueber-die-migros-lustig-art-1729923",
+      "summary": "",
+      "published": "2026-11-02T00:02:36.825012+00:00"
     }
   ]
 }
