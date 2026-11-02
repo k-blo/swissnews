@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T12:26:07.618488+00:00",
+  "generated": "2026-11-02T12:32:29.068902+00:00",
   "date": "2026-11-02",
-  "count": 461,
+  "count": 465,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3229,6 +3229,34 @@
       "url": "https://www.watson.ch/international/gesellschaft-politik/129085319-belgiens-premier-bart-de-wever-bietet-koenig-philippe-ruecktritt-an",
       "summary": "",
       "published": "2026-11-02T12:26:07.618488+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "SRF-Insider: «Wusste nichts, hätte aber Bescheid wissen müssen»",
+      "url": "https://www.20min.ch/story/fall-hans-jucker-srf-insider-wusste-nichts-haette-aber-bescheid-wissen-muessen-103660654",
+      "summary": "Der Fall Hans Jucker sorgt für grosses Aufsehen in der Szene. Das SRF soll intern seit einigen Wochen Bescheid gewusst haben.",
+      "published": "2026-11-02T12:32:29.068902+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Schweizer Tradition: Vom Sämling zum Laternenlicht: Ein Bilderbuch erklärt den Räbeliechtli-Brauch",
+      "url": "https://www.tagesanzeiger.ch/raebeliechtli-bilderbuch-erklaert-den-schweizer-herbstbrauch-154561320115",
+      "summary": "Im Frühling wachsen die Räben, im Herbst schnitzen Kinder daraus Laternen. Bettina Schwarz und Maja Weber begleiten diesen Weg im Bilderbuch über den Schweizer Herbstbrauch.",
+      "published": "2026-11-02T12:32:29.068902+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "50 Grad im Kühlschrank: Cyberkriminelle greifen Supermärkte in Belgien und Schweden an",
+      "url": "https://www.nzz.ch/panorama/50-grad-im-kuehlschrank-cyberkriminelle-greifen-supermaerkte-in-belgien-und-schweden-an-ld.10051846",
+      "summary": "",
+      "published": "2026-11-02T12:32:29.068902+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Kräftezehrendes Wochenende für Aergera Giffers",
+      "url": "https://www.freiburger-nachrichten.ch/story/302208/kr%C3%A4ftezehrendes-wochenende-f%C3%BCr-aergera-giffers",
+      "summary": "",
+      "published": "2026-11-02T12:32:29.068902+00:00"
     }
   ]
 }
