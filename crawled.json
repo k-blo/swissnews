@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T07:00:48.537512+00:00",
+  "generated": "2026-11-02T07:04:05.633462+00:00",
   "date": "2026-11-02",
-  "count": 193,
+  "count": 195,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1353,6 +1353,20 @@
       "url": "https://rathuus.ch/der-preis-des-medialen-einheitsbreis/",
       "summary": "",
       "published": "2026-11-02T07:00:48.537512+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Video Zeigt Flugzeugabsturz in Florida Alle Neun Menschen an Bord Sterben",
+      "url": "https://www.suedostschweiz.ch/panorama/video-zeigt-flugzeugabsturz-in-florida-alle-neun-menschen-an-bord-sterben-2218244",
+      "summary": "",
+      "published": "2026-11-02T07:04:05.633462+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "9 Tote bei Absturz von Privatjet in Wohngebiet in Florida",
+      "url": "https://www.watson.ch/international/videos/692407026-9-tote-bei-absturz-von-privatjet-in-wohngebiet-in-florida",
+      "summary": "",
+      "published": "2026-11-02T07:04:05.633462+00:00"
     }
   ]
 }
