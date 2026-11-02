@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T03:02:55.487903+00:00",
+  "generated": "2026-11-02T03:32:33.240613+00:00",
   "date": "2026-11-02",
-  "count": 26,
+  "count": 33,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -184,6 +184,55 @@
       "url": "https://www.bote.ch/nachrichten/sponsored/bein-brunner-start-up-macht-das-stille-oertchen-zum-gespraechsthemab-art-1728944",
       "summary": "",
       "published": "2026-11-02T03:02:55.487903+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Radioaktive Strahlung in Kiew? Notfall-App gehackt",
+      "url": "https://www.20min.ch/story/offizielle-notfall-apps-app-fuer-notfall-warnungen-in-ukraine-und-russland-gehackt-103660511",
+      "summary": "Radioaktive Strahlung in Kiew und Angriffe mit chemischen Waffen? Falsche Warnmeldungen in einer wohl gehackten Notfall-App schrecken Bürger in der Ukraine auf. Es folgt ein Cyberangriff auf Russland.",
+      "published": "2026-11-02T03:32:33.240613+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Notfall-Warnung: Radioaktive Strahlung in Kyjiw? Notfall-App gehackt",
+      "url": "https://www.tagesanzeiger.ch/ukraine-notfall-app-air-alert-nach-hack-mit-falschmeldungen-732536963305",
+      "summary": "Radioaktive Strahlung in Kyjiw und Angriffe mit chemischen Waffen? Falsche Warnmeldungen in einer wohl gehackten Notfall-App schrecken Bürger in der Ukraine auf. Es folgt ein Cyberangriff auf Russland",
+      "published": "2026-11-02T03:32:33.240613+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Neun Tote bei Flugzeugabsturz in Florida",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-11-02/neun-tote-bei-flugzeugabsturz-in-florida",
+      "summary": "Gemäss Verkehrsminister Sean Duffy sei ein Privatflugzeug in Texas gestartet und auf dem Weg in die Bahamas nahe Cresthaven, Florida, abgestürzt.",
+      "published": "2026-11-02T03:32:33.240613+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Gen-Z»-Proteste: Das Feindbild Merz eint eine Jugend ohne Hoffnung",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-11-02/gen-z-proteste-das-feindbild-merz-eint-eine-jugend-ohne-hoffnung",
+      "summary": "Wie in Frankreich demonstrieren nun auch in Deutschland Schüler und Studenten. Vor allem das Gefühl der Perspektivlosigkeit treibt sie auf die Strasse. Vereinzelt kommt es zu Krawallen.",
+      "published": "2026-11-02T03:32:33.240613+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Präsidentin des Friedens»: Jotowa gewinnt Stichwahl",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-11-02/praesidentin-des-friedens-jotowa-gewinnt-stichwahl",
+      "summary": "Bei der ersten Wahlrunde hatte Staatschefin Jotowa einen knappen Vorsprung. Jetzt konnte sie sich gegen ihren Herausforderer Andrei Gjurow klar behaupten.",
+      "published": "2026-11-02T03:32:33.240613+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Trockenheit Wassermangel und Schneekanonen",
+      "url": "https://www.suedostschweiz.ch/graubuenden/trockenheit-wassermangel-und-schneekanonen-2215099",
+      "summary": "",
+      "published": "2026-11-02T03:32:33.240613+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Streitthema Aufräumen: Lieber immer sofort oder auch mal liegenlassen und dann gezielt?",
+      "url": "https://www.freiburger-nachrichten.ch/story/301625/streitthema-aufr%C3%A4umen-lieber-immer-sofort-oder-auch-mal-liegenlassen-und-dann-gezielt",
+      "summary": "",
+      "published": "2026-11-02T03:32:33.240613+00:00"
     }
   ]
 }
