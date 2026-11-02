@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T19:33:00.421470+00:00",
+  "generated": "2026-11-02T19:54:17.782019+00:00",
   "date": "2026-11-02",
-  "count": 857,
+  "count": 863,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6001,6 +6001,48 @@
       "url": "https://www.watson.ch/international/russland/881699202-ukraine-tote-bei-luftangriff-auf-saporischschja",
       "summary": "",
       "published": "2026-11-02T19:33:00.421470+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Schweiz hat ein neues 3-Sterne-Restaurant – und ein Zwillingspaar zeichnet dafür verantwortlich",
+      "url": "https://www.nzz.ch/panorama/die-schweiz-hat-ein-neues-3-sterne-restaurant-und-ein-bruederpaar-zeichnet-gemeinsam-verantwortlich-ld.10052232",
+      "summary": "",
+      "published": "2026-11-02T19:54:17.782019+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Rahel Graf Verlässt den Fcl Christoph Illi Übernimmt",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/rahel-graf-verlaesst-den-fcl-christoph-illi-uebernimmt-ld.4260553",
+      "summary": "",
+      "published": "2026-11-02T19:54:17.782019+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Michelin Stern für den Schlüssel in Oberwil",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/michelin-stern-fuer-den-schluessel-in-oberwil-ld.4260315",
+      "summary": "",
+      "published": "2026-11-02T19:54:17.782019+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Reportage vor den US-Midterms in Wyoming: Warum hier Leute Waffen tragen",
+      "url": "https://www.watson.ch/international/interview/814814484-reportage-vor-den-us-midterms-in-wyoming-warum-hier-leute-waffen-tragen",
+      "summary": "",
+      "published": "2026-11-02T19:54:17.782019+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Wahlstreit in Kalifornien: Trump schaltet Supreme Court ein",
+      "url": "https://www.watson.ch/international/usa/530579124-wahlstreit-in-kalifornien-trump-schaltet-supreme-court-ein",
+      "summary": "",
+      "published": "2026-11-02T19:54:17.782019+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rahel Graf verlässt den FCL per sofort – auf eigenen Wunsch",
+      "url": "https://www.bote.ch/nachrichten/sport/rahel-graf-verlaesst-den-fcl-christoph-illi-uebernimmt-art-1730059",
+      "summary": "",
+      "published": "2026-11-02T19:54:17.782019+00:00"
     }
   ]
 }
