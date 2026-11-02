@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T05:02:24.057267+00:00",
+  "generated": "2026-11-02T05:33:24.610703+00:00",
   "date": "2026-11-02",
-  "count": 149,
+  "count": 159,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1045,6 +1045,76 @@
       "url": "https://www.watson.ch/digital/kuenstliche-intelligenz/755337130-claude-wehrt-sich-gegen-beleidigungen-anthropic-erklaert-warum",
       "summary": "",
       "published": "2026-11-02T05:02:24.057267+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung über Kriegsmaterial – Wie geht es der Schweizer Rüstungsindustrie?",
+      "url": "https://www.srf.ch/news/dialog/abstimmung-ueber-kriegsmaterial-wie-geht-es-der-schweizer-ruestungsindustrie",
+      "summary": "Blendende Geschäfte oder existenzielle Krise? Zwei fundamental unterschiedliche Sichtweisen auf eine heikle Branche.",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neues Buch eines Betroffenen: TV-Legende Hans Jucker wurde 1971 wegen sexueller Übergriffe auf fünf Jugendliche verurteilt",
+      "url": "https://www.tagesanzeiger.ch/hans-jucker-srf-legende-war-verurteilter-sexualstraftaeter-720722184481",
+      "summary": "Jucker gestand die Taten vor Gericht, sagte aber, es sei «kein grosser Schaden entstanden». Die Jungen seien eh «verdorben». Willi Fegble sagt, er sei ein Opfer Juckers. Hier erzählt er seine Geschich",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Interview zu Protesten: «Krawalle werden zum Event»: Radikalisierungs­expertin ordnet die Halloween-Nacht ein",
+      "url": "https://www.tagesanzeiger.ch/gewalt-in-zuerich-krawalle-werden-zum-event-533448900697",
+      "summary": "In Basel und Zürich gab es am Wochenende teils heftige Randale. Forscherin Judith Bühler erklärt, weshalb die Gewalt auch dem Jugendstreik der Juso am 20. November schaden könnte.",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wahlen 2027: «Das Haus brennt»: Warum Lisa Mazzone für die Grünen zurück ins Parlament will",
+      "url": "https://www.tagesanzeiger.ch/lisa-mazzone-gruenen-chefin-kandidiert-2027-fuer-staenderat-843155898204",
+      "summary": "Die Präsidentin der Grünen Partei kündigt an, dass sie in Genf für National- und Ständerat kandidiert. Und sie betont die Ambition der Grünen für einen Bundesratssitz.",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Selbsthilfegruppe für Hochbegabte: Er behauptet: «Mit der richtigen Förderung wäre ich heute Hochschulprofessor»",
+      "url": "https://www.tagesanzeiger.ch/hochbegabung-warum-er-trotz-talent-von-der-iv-lebt-730926064656",
+      "summary": "Dominique Blickenstorfer lebt von der IV – obwohl er nach eigenen Angaben überdurchschnittlich begabt ist. Nun setzt er sich für andere Betroffene ein.",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tag der Entscheidung in den USA: Millionen Wählerinnen und Wähler fällen ihr Urteil über Trumps Politik",
+      "url": "https://www.tagesanzeiger.ch/midterms-2026-demokraten-greifen-nach-kongress-mehrheit-779948361681",
+      "summary": "Das Momentum ist auf der Seite der Demokraten. Jetzt geht es um die Frage, ob sie es in einen Wahlsieg verwandeln können. In Michigan kam es im demokratischen Lager zuletzt noch zu einem Eklat.",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Offlineoase verschwindet: Highspeed-WLAN im Flugzeug: Fluch oder Segen?",
+      "url": "https://www.tagesanzeiger.ch/swiss-starlink-gratis-wlan-auf-langstreckenfluegen-488476853128",
+      "summary": "Die Swiss und andere Airlines rüsten ihre Flugzeuge mit kostenlosem Highspeed-Internet an Bord aus. Ist das ein Verlust oder ein Fortschritt? Fünf Passagiertypen und ihre Meinung.",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Engelberg 25 Jährige bei Bergunfall Lebensbedrohlich Verletzt",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/engelberg-25-jaehrige-bei-bergunfall-lebensbedrohlich-verletzt-ld.4259898",
+      "summary": "",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Jung, motiviert, meist welsch: Die dritte Freiburger Jugendsession",
+      "url": "https://www.freiburger-nachrichten.ch/story/302024/jung-motiviert-meist-welsch-die-dritte-freiburger-jugendsession",
+      "summary": "",
+      "published": "2026-11-02T05:33:24.610703+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bergunfall in Engelberg: 25-Jährige lebensbedrohlich verletzt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/engelberg-25-jaehrige-bei-bergunfall-lebensbedrohlich-verletzt-art-1729939",
+      "summary": "",
+      "published": "2026-11-02T05:33:24.610703+00:00"
     }
   ]
 }
