@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T22:02:35.716984+00:00",
+  "generated": "2026-11-02T22:32:34.951699+00:00",
   "date": "2026-11-02",
-  "count": 892,
+  "count": 893,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6246,6 +6246,13 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/milliarden-fuer-armee-immobilien-finanzkontrolle-warnt-vor-luecken-art-1730104",
       "summary": "",
       "published": "2026-11-02T22:02:35.716984+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Finanzkontrolle kritisiert harzende Planung bei VBS-Immobilien",
+      "url": "https://www.watson.ch/schweiz/armee/666915542-finanzkontrolle-kritisiert-harzende-planung-bei-vbs-immobilien",
+      "summary": "",
+      "published": "2026-11-02T22:32:34.951699+00:00"
     }
   ]
 }
