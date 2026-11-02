@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T04:02:49.259620+00:00",
+  "generated": "2026-11-02T04:09:55.510066+00:00",
   "date": "2026-11-02",
-  "count": 109,
+  "count": 112,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -765,6 +765,27 @@
       "url": "https://www.bote.ch/nachrichten/kultur/bob-dylan-im-hallenstadion-die-luft-ist-noch-nicht-raus-art-1729925",
       "summary": "",
       "published": "2026-11-02T04:02:49.259620+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: Die EU will sich von Elon Musk lösen, doch: «Europa wird noch jahrelang auf Starlink angewiesen sein»",
+      "url": "https://www.tagesanzeiger.ch/starlink-ukraine-wie-abhaengig-ist-europa-von-musk-562716854474",
+      "summary": "Als Starlink in der Ukraine kürzlich eingeschränkt war, zeigte sich, wie stark Europa von Elon Musk abhängig ist. Wie die EU das ändern will, erklärt Europa-Korrespondent Dominique Eigenmann.",
+      "published": "2026-11-02T04:09:55.510066+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wortsuche Lösungshilfe: Wortsuche vom Montag, 2. November 2026: Mit diesen Tipps knacken Sie das Rätsel",
+      "url": "https://www.tagesanzeiger.ch/wortsuche-tipps-zum-raetsel-vom-2-november-2026-862856212429",
+      "summary": "Noch auf der Suche nach dem heutigen Wort? Drei Hinweise helfen Ihnen beim Weiterrätseln. Die Auflösung steht unterhalb der Hinweise.",
+      "published": "2026-11-02T04:09:55.510066+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mobilitätsdrang bringt Gotthardroute an den Anschlag",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/uri-diskutiert-mobilitaet-und-die-zukunft-am-gotthard-art-1729937",
+      "summary": "",
+      "published": "2026-11-02T04:09:55.510066+00:00"
     }
   ]
 }
