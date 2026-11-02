@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-02T01:02:54.323513+00:00",
+  "generated": "2026-11-02T01:32:35.316050+00:00",
   "date": "2026-11-02",
-  "count": 21,
+  "count": 22,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -149,6 +149,13 @@
       "url": "https://www.zentralplus.ch/news/ukrainische-warn-app-wurde-gehackt-2908641/",
       "summary": "In der Ukraine ist eine Notfall-App, die Warnungen vor beispielsweise Luftangriffe direkt auf Smartphones der Bevölkerung versendet, gehackt worden. Laut Medienberichten verschickte die App Fehlalarme",
       "published": "2026-11-02T00:32:41.869504+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Liberale wie sie Liberaler Nicht Sein Können Adam Smith und Murray Rothbard",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/liberale-wie-sie-liberaler-nicht-sein-koennen-adam-smith-und-murray-rothbard",
+      "summary": "",
+      "published": "2026-11-02T01:32:35.316050+00:00"
     }
   ]
 }
