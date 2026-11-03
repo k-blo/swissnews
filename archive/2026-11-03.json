@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T21:01:56.839679+00:00",
+  "generated": "2026-11-03T21:31:50.951862+00:00",
   "date": "2026-11-03",
-  "count": 878,
+  "count": 881,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6148,6 +6148,27 @@
       "url": "https://www.freiburger-nachrichten.ch/story/302516/bruce-springsteen-hat-gew%C3%A4hlt%C2%A0-und-sagt-wen-er-unterst%C3%BCtzt-musk-spendet-fast-eine-halbe-milliarde",
       "summary": "",
       "published": "2026-11-03T21:01:56.839679+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Fake-Jobinterview war Teil von Milliarden-Krypto-Diebstahl",
+      "url": "https://www.20min.ch/story/binance-fake-jobinterview-war-teil-von-milliarden-krypto-diebstahl-103661506",
+      "summary": "Bei einem Cyberangriff auf Binance verschwanden 6,3 Milliarden Dollar. Nun sagt die Krypto-Börse, die Täterschaft habe den Angriff in mehreren Stufen ausgeführt.",
+      "published": "2026-11-03T21:31:50.951862+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Spanischer Verkehrsminister Óscar Puente tritt zurück",
+      "url": "https://www.nzz.ch/panorama/spanischer-verkehrsminister-oscar-puente-tritt-zurueck-ld.10053418",
+      "summary": "",
+      "published": "2026-11-03T21:31:50.951862+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Tut so, als stünde ich zur Wahl»: Midterms in vollem Gange ++ Bruce Springsteen sagt, wen er unterstützt",
+      "url": "https://www.freiburger-nachrichten.ch/story/302516/tut-so-als-st%C3%BCnde-ich-zur-wahl-midterms-in-vollem-gange-bruce-springsteen-sagt-wen-er-unterst%C3%BCtzt",
+      "summary": "",
+      "published": "2026-11-03T21:31:50.951862+00:00"
     }
   ]
 }
