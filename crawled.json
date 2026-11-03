@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T06:32:22.689710+00:00",
+  "generated": "2026-11-03T07:02:27.523305+00:00",
   "date": "2026-11-03",
-  "count": 198,
+  "count": 206,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1388,6 +1388,62 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/trump-vor-midterms-drei-szenarien-bei-einer-niederlage-art-1730122",
       "summary": "",
       "published": "2026-11-03T06:32:22.689710+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Neues Wirtschaftsranking – Eine Schweiz voller Cluster",
+      "url": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
+      "summary": "Eine neue Statistik zur kantonalen Wirtschaft zeigt Verschiebungen von Ost nach West und von den Rändern zu den Zentren.",
+      "published": "2026-11-03T07:02:27.523305+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Videoauswertung durch KI: So wollen die SBB in Echtzeit zeigen, wie voll der Zug wird",
+      "url": "https://www.tagesanzeiger.ch/sbb-parquery-testet-zugauslastung-mit-ki-und-kamera-486256415370",
+      "summary": "In einem Test will die SBB die Auslastung der Züge mit KI und Kameras live messen. Personen würden dabei nicht identifiziert, verspricht der Entwickler.",
+      "published": "2026-11-03T07:02:27.523305+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Steigende Treibstoffkosten: Swiss verdient etwas mehr – doch die Kerosinpreise bereiten Sorgen",
+      "url": "https://www.tagesanzeiger.ch/swiss-betriebsgewinn-steigt-trotz-hoher-kerosinpreise-474864133849",
+      "summary": "Die Fluggesellschaft steigert ihren Betriebsgewinn in den ersten neun Monaten leicht auf 421 Millionen Franken. Doch die hohen Treibstoffkosten belasten das Geschäft zunehmend.",
+      "published": "2026-11-03T07:02:27.523305+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Menzingen investiert 83 Millionen bis 2031",
+      "url": "https://www.zentralplus.ch/news/menzingen-investiert-83-millionen-bis-2031-2908929/",
+      "summary": "Menzingen rechnet 2027 mit einem Gewinn von rund 1,5 Millionen Franken und hält am effektiven Steuerfuss von 55 Prozent fest. Gleichzeitig stehen bis 2031 Investitionen von rund 83 Millionen Franken a",
+      "published": "2026-11-03T07:02:27.523305+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Köppel Kritisiert Gallati Andreas Glarner Schweigt",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/koeppel-kritisiert-gallati-andreas-glarner-schweigt-ld.4259868",
+      "summary": "",
+      "published": "2026-11-03T07:02:27.523305+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Trump oder Nicht Trump",
+      "url": "https://insideparadeplatz.ch/2026/11/03/trump-oder-nicht-trump/",
+      "summary": "",
+      "published": "2026-11-03T07:02:27.523305+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Gastro Vize Zahlt Löhne Nicht",
+      "url": "https://insideparadeplatz.ch/2026/11/03/gastro-vize-zahlt-loehne-nicht/",
+      "summary": "",
+      "published": "2026-11-03T07:02:27.523305+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "745 Millionen für Notstrom Nur das Gas Fehlt",
+      "url": "https://insideparadeplatz.ch/2026/11/03/745-millionen-fuer-notstrom-nur-das-gas-fehlt/",
+      "summary": "",
+      "published": "2026-11-03T07:02:27.523305+00:00"
     }
   ]
 }
