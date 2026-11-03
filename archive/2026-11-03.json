@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T02:02:51.935387+00:00",
+  "generated": "2026-11-03T02:32:49.289640+00:00",
   "date": "2026-11-03",
-  "count": 29,
+  "count": 31,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -205,6 +205,20 @@
       "url": "https://www.nzz.ch/technologie/apples-neuer-ceo-kann-feiern-doch-wie-lange-noch-ld.10052352",
       "summary": "",
       "published": "2026-11-03T02:02:51.935387+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Apple erzielt Rekordgewinn",
+      "url": "https://www.zentralplus.ch/news/apple-erzielt-rekordgewinn-2908909/",
+      "summary": "Der US-Technologiekonzern Apple hat im vergangenen Geschäftsjahr so viel verdient wie noch nie. Der Gewinn stieg auf 132 Milliarden US-Dollar, das sind 18 Prozent mehr als im Vorjahr. Apple hat auch m",
+      "published": "2026-11-03T02:32:49.289640+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nomophobie: So steht es um die Smartphone-Abhängigkeit in der Schweiz",
+      "url": "https://www.watson.ch/digital/leben/117751473-nomophobie-so-steht-es-um-die-smartphone-abhaengigkeit-in-der-schweiz",
+      "summary": "",
+      "published": "2026-11-03T02:32:49.289640+00:00"
     }
   ]
 }
