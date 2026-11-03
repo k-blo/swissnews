@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T03:02:46.968380+00:00",
+  "generated": "2026-11-03T03:32:25.735938+00:00",
   "date": "2026-11-03",
-  "count": 35,
+  "count": 43,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -247,6 +247,62 @@
       "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/katholisch-frauenfeld-will-in-uesslingen-17-wohnungen-bauen-ld.4260001",
       "summary": "",
       "published": "2026-11-03T03:02:46.968380+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nordkorea weist Vorwurf von Kryptohack zurück",
+      "url": "https://www.20min.ch/story/binance-nordkorea-nach-krypto-hackerangriff-vorwuerfe-zurueckgewiesen-103661044",
+      "summary": "Nach dem bislang grössten Hackerangriff auf eine Kryptobörse weist Pyongyang jegliche Verantwortung zurück. Die Schwester des nordkoreanischen Machthabers hält die Anschuldigungen für absurd.",
+      "published": "2026-11-03T03:32:25.735938+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Kunst kennt für Shahrzad Farahmand keine Grenzen",
+      "url": "https://www.shn.ch/region/reiat/2026-11-03/kunst-kennt-fuer-shahrzad-farahmand-keine-grenzen",
+      "summary": "Von der Malerei über Tätowierungen bis hin zu dreidimensionalen Werken: Shahrzad Farahmand kennt kaum Grenzen, wenn es um Kunst geht. In der ehemaligen Post in Bibern hat die Künstlerin aus dem Iran n",
+      "published": "2026-11-03T03:32:25.735938+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Padelhallen Pfyn Wartet auf Baugesuch in Wängi Gehts Schneller",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/padelhallen-pfyn-wartet-auf-baugesuch-in-waengi-gehts-schneller-ld.4257041",
+      "summary": "",
+      "published": "2026-11-03T03:32:25.735938+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Thurgau Regierung Veröffentlicht Sparpaket mit 12 Anpassungen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/thurgau-regierung-veroeffentlicht-sparpaket-mit-12-anpassungen-ld.4259940",
+      "summary": "",
+      "published": "2026-11-03T03:32:25.735938+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Abstimmung Schule Weinfelden Urs Wirth Kämpft Gegen Paul Reinhart Kredit",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/abstimmung-schule-weinfelden-urs-wirth-kaempft-gegen-paul-reinhart-kredit-ld.4258408",
+      "summary": "",
+      "published": "2026-11-03T03:32:25.735938+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Amriswil Tritt im Radolfzellerpark Nicht als Veranstalterin auf",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/amriswil-tritt-im-radolfzellerpark-nicht-als-veranstalterin-auf-ld.4257521",
+      "summary": "",
+      "published": "2026-11-03T03:32:25.735938+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "48 zu 48: Dieser Trump-Staat wird plötzlich zum Midterm-Krimi",
+      "url": "https://www.watson.ch/international/usa/911738246-48-zu-48-dieser-trump-staat-wird-ploetzlich-zum-midterm-krimi",
+      "summary": "",
+      "published": "2026-11-03T03:32:25.735938+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Stevens fliegt aus Partei – El-Sayed sammelt 2,4 Millionen Dollar",
+      "url": "https://www.watson.ch/international/usa/546094152-stevens-fliegt-aus-partei-el-sayed-sammelt-2-4-millionen-dollar",
+      "summary": "",
+      "published": "2026-11-03T03:32:25.735938+00:00"
     }
   ]
 }
