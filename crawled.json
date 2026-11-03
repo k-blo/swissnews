@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T02:32:49.289640+00:00",
+  "generated": "2026-11-03T02:52:19.447453+00:00",
   "date": "2026-11-03",
-  "count": 31,
+  "count": 34,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -219,6 +219,27 @@
       "url": "https://www.watson.ch/digital/leben/117751473-nomophobie-so-steht-es-um-die-smartphone-abhaengigkeit-in-der-schweiz",
       "summary": "",
       "published": "2026-11-03T02:32:49.289640+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Das sind die Opfer des Flugzeug-Crashs in Florida",
+      "url": "https://www.20min.ch/story/usa-das-sind-die-opfer-des-flugzeug-crashs-in-florida-103661006",
+      "summary": "Alle neun Insassen sind bei dem Absturz eines Privatflugzeugs am Sonntag in Florida gestorben. Zu den Opfern zählen ein Tech-Multimillionär und seine Familie.",
+      "published": "2026-11-03T02:52:19.447453+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Neue Ukraine-Gespräche in Abu Dhabi",
+      "url": "https://www.zentralplus.ch/news/neue-ukraine-gespraeche-in-abu-dhabi-2-2908911/",
+      "summary": "In einer Woche sollen sich Vertreter von Russland, der Ukraine und den USA zu neuen Gesprächen treffen und zwar mit dem Ziel, den Krieg in der Ukraine zu beenden. Das teilt Steve Witkoff mit, der Sond",
+      "published": "2026-11-03T02:52:19.447453+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der ultimative Wahlkämpfer: Präsident Trump geht ans Limit, um eine Niederlage der Republikaner abzuwenden",
+      "url": "https://www.nzz.ch/international/wahlkampfreden-bis-zum-limit-trumps-einsatz-fuer-die-republikanin-umkaempften-senatsrennen-der-ultimative-wahlkaempfer-praesident-trump-gibt-sein-letztes-um-eine-niederlage-der-republikaner-abzuwenden-ld.10052042",
+      "summary": "",
+      "published": "2026-11-03T02:52:19.447453+00:00"
     }
   ]
 }
