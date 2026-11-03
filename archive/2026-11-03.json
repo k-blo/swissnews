@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T01:51:47.343834+00:00",
+  "generated": "2026-11-03T02:02:51.935387+00:00",
   "date": "2026-11-03",
-  "count": 28,
+  "count": 29,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -198,6 +198,13 @@
       "url": "https://www.nebelspalter.ch/themen/2026/11/israel-die-musterdemokratie-so-gut-wie-nirgendwo-haben-die-araber-so-viel-zu-sagen",
       "summary": "",
       "published": "2026-11-03T01:32:33.596961+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Apples neuer CEO kann feiern – doch wie lange noch?",
+      "url": "https://www.nzz.ch/technologie/apples-neuer-ceo-kann-feiern-doch-wie-lange-noch-ld.10052352",
+      "summary": "",
+      "published": "2026-11-03T02:02:51.935387+00:00"
     }
   ]
 }
