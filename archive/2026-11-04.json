@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T01:31:56.618423+00:00",
+  "generated": "2026-11-04T02:01:39.316241+00:00",
   "date": "2026-11-04",
-  "count": 32,
+  "count": 35,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -226,6 +226,27 @@
       "url": "https://www.nebelspalter.ch/themen/2026/11/finnland-macht-beim-atommuell-vorwaerts",
       "summary": "",
       "published": "2026-11-04T01:31:56.618423+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Angriff auf russischen Onlinehändler",
+      "url": "https://www.zentralplus.ch/news/angriff-auf-russischen-onlinehaendler-2909207/",
+      "summary": "Im Südwesten Russlands ist nach einem Drohnenangriff ein Logistikzentrum des Onlinehändlers Ozon in Brand geraten. Verletzte gab es laut dem Unternehmen keine. Wer für den Angriff verantwortlich ist, ",
+      "published": "2026-11-04T02:01:39.316241+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hcap Vs Hc Lugano",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/hcap-vs-hc-lugano-ld.4259285",
+      "summary": "",
+      "published": "2026-11-04T02:01:39.316241+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump lässt Frage neuer Iran-Angriffe offen",
+      "url": "https://www.watson.ch/international/iran/427602144-trump-laesst-frage-neuer-iran-angriffe-offen",
+      "summary": "",
+      "published": "2026-11-04T02:01:39.316241+00:00"
     }
   ]
 }
