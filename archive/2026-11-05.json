@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T23:01:48.409879+00:00",
+  "generated": "2026-11-04T23:32:17.635623+00:00",
   "date": "2026-11-05",
-  "count": 2,
+  "count": 24,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,160 @@
       "url": "https://www.freiburger-nachrichten.ch/story/300898/das-schlosshotel-schliesst-seine-t%C3%BCren",
       "summary": "",
       "published": "2026-11-04T23:01:48.409879+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Lakers Sportchef zur Aktuellen Misere",
+      "url": "https://www.suedostschweiz.ch/linth/lakers-sportchef-zur-aktuellen-misere-2222631",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Ich kann keine Zeile Code schreiben»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ich-kann-keine-zeile-code-schreiben-art-1730375",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "War da was?",
+      "url": "https://www.bote.ch/service/leserbriefe/war-da-was-art-1730356",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Vier Küssnachter Eiskunstläuferinnen überzeugen am Dreiländer-Cup",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/vier-kuessnachter-eiskunstlaeuferinnen-ueberzeugen-am-dreilaender-cup-art-1730379",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Theres Eberhard trifft 2026 einfach jeden Schuss",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/theres-eberhard-trifft-2026-einfach-jeden-schuss-art-1730378",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Skiclub Oberiberg blickt auf eine erfolgreiche Saison zurück",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/skiclub-oberiberg-blickt-auf-eine-erfolgreiche-saison-zurueck-art-1730359",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer ist Ninja-Europameister",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyzer-ist-ninja-europameister-art-1730352",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Segler gewinnen in England",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyzer-segler-gewinnen-in-england-art-1730362",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyz gewinnt Badminton-Krimi",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/schwyz-gewinnt-badminton-krimi-art-1730358",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Perfekter Start für die Steiner Fanionteams",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/perfekter-start-fuer-die-steiner-fanionteams-art-1730363",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mehr oder weniger Geld für den Kanton? Das könnte ein Börsengang der Kantonalbank bedeuten",
+      "url": "https://www.bote.ch/nachrichten/schwyz/mehr-oder-weniger-geld-fuer-den-kanton-das-koennte-ein-boersengang-der-kantonalbank-bedeuten-art-1730390",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Höhere Steuern sind keine Lösung",
+      "url": "https://www.bote.ch/service/leserbriefe/hoehere-steuern-sind-keine-loesung-art-1730355",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Forschung soll sich für Schwyzer Firmen steuerlich mehr lohnen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/forschung-soll-sich-fuer-schwyzer-firmen-steuerlich-mehr-lohnen-art-1730383",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Falsche Propheten",
+      "url": "https://www.bote.ch/service/leserbriefe/falsche-propheten-art-1730354",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fachfrau Gesundheit an Berufsmeisterschaft: «Ich mag Herausforderungen»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fachfrau-gesundheit-an-berufsmeisterschaft-ich-mag-herausforderungen-art-1730381",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein packender Eishockey-Krimi mit Seewens Pechsträhne",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/ein-packender-eishockey-krimi-mit-seewens-pechstraehne-art-1730485",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ehrung für das Vermitteln des Schwyzer Sagenguts",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ehrung-fuer-das-vermitteln-des-schwyzer-sagenguts-art-1730386",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dies sind die Highlights vom Wochenende",
+      "url": "https://www.bote.ch/nachrichten/schwyz/dies-sind-die-highlights-vom-wochenende-art-1730395",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die Heiratsstrafe wurde bereits abgeschafft",
+      "url": "https://www.bote.ch/service/leserbriefe/die-heiratsstrafe-wurde-bereits-abgeschafft-art-1730357",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Dank KI: Kantonsrat wird zum Musiker",
+      "url": "https://www.bote.ch/nachrichten/schwyz/dank-ki-kantonsrat-wird-zum-musiker-art-1730377",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Betriebe ausserhalb der Bauzone sind ausreichend geschützt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/betriebe-ausserhalb-der-bauzone-sind-ausreichend-geschuetzt-art-1730397",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Charetalp</b>",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bcharetalpb-art-1730414",
+      "summary": "",
+      "published": "2026-11-04T23:32:17.635623+00:00"
     }
   ]
 }
