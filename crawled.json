@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T02:01:39.316241+00:00",
+  "generated": "2026-11-04T02:31:44.769588+00:00",
   "date": "2026-11-04",
-  "count": 35,
+  "count": 37,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -247,6 +247,20 @@
       "url": "https://www.watson.ch/international/iran/427602144-trump-laesst-frage-neuer-iran-angriffe-offen",
       "summary": "",
       "published": "2026-11-04T02:01:39.316241+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Demokrat Abdul El-Sayed verweigert britischem Reporter Interview",
+      "url": "https://www.20min.ch/video/abdul-el-sayed-verweigert-sky-news-reporter-interview-103661764",
+      "summary": "Am Wahltag geriet der demokratische Senatskandidat Abdul El-Sayed im US-Bundesstaat Michigan mit dem Sky-News-Reporter James Matthews aneinander. Er weigerte sich, dem britischen Journalisten ein Inte",
+      "published": "2026-11-04T02:31:44.769588+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Demokraten können auf einen grossen Sieg in den Wahlen hoffen – die Resultate im Überblick",
+      "url": "https://www.nzz.ch/international/midterms-2026-die-resultate-der-us-wahlen-im-ueberblick-ld.10047365",
+      "summary": "",
+      "published": "2026-11-04T02:31:44.769588+00:00"
     }
   ]
 }
