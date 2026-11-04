@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T05:31:32.788581+00:00",
+  "generated": "2026-11-04T06:01:41.529900+00:00",
   "date": "2026-11-04",
-  "count": 204,
+  "count": 209,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1430,6 +1430,41 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/bluenami-in-den-usa-was-die-midterm-nacht-brachte-art-1730303",
       "summary": "",
       "published": "2026-11-04T05:31:32.788581+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Zugausfälle im Berner Oberland: Bahnverkehr zwischen Spiez und Interlaken West unterbrochen",
+      "url": "https://www.bernerzeitung.ch/sbb-fahrleitungsstoerung-zwischen-spiez-und-interlaken-647752918420",
+      "summary": "Eine Fahrleitungsstörung legt am Dienstagmorgen den Bahnverkehr auf der Strecke Spiez–Interlaken Ost zwischen Spiez und Interlaken West lahm.",
+      "published": "2026-11-04T06:01:41.529900+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Russlands Rückkehr auf die WM-Bühne provoziert Chaos",
+      "url": "https://www.freiburger-nachrichten.ch/story/302716/russlands-r%C3%BCckkehr-auf-die-wmb%C3%BChne-provoziert-chaos",
+      "summary": "",
+      "published": "2026-11-04T06:01:41.529900+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Für QR-Rechnungen: Twint lanciert eine neue Funktion",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/fuer-qr-rechnungen-twint-lanciert-eine-neue-funktion-art-1730306",
+      "summary": "",
+      "published": "2026-11-04T06:01:41.529900+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Erster muslimischer Senator, Debakel für Graham-Familie: Das sind die grossen Sieger und Verlierer",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/muslimischer-senator-debakel-fuer-graham-familie-die-sieger-und-verlierer-art-1730305",
+      "summary": "",
+      "published": "2026-11-04T06:01:41.529900+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sabotage im Supermarkt: Was hinter den Cyberangriffen steckt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/europaweite-angriffe-auf-supermarkt-kuehlanlagen-art-1730304",
+      "summary": "",
+      "published": "2026-11-04T06:01:41.529900+00:00"
     }
   ]
 }
