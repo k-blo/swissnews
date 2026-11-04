@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T07:01:47.032467+00:00",
+  "generated": "2026-11-04T07:32:01.721051+00:00",
   "date": "2026-11-04",
-  "count": 239,
+  "count": 264,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1675,6 +1675,181 @@
       "url": "https://rathuus.ch/pascal-singt-lorenz-philosophiert/",
       "summary": "",
       "published": "2026-11-04T07:01:47.032467+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Twint bringt neue Bezahlfunktion an den Start",
+      "url": "https://www.blick.ch/schweiz/twint-per-rechnung-qr-rechnungen-per-app-bezahlen/rjvpc9j",
+      "summary": "Nach der eigenen Einkaufsliste erweitert Twint seine Funktionen erneut. Nutzer sollen QR-Rechnungen ab sofort direkt in der App bezahlen können – ohne den Umweg übers E-Banking nehmen zu müssen.",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Autolenker fährt 13-Jährigen an und verlässt Unfallort",
+      "url": "https://www.20min.ch/story/jonen-ag-autolenker-faehrt-13-jaehrigen-an-und-verlaesst-unfallort-103661936",
+      "summary": "Auf einem Fussgängerstreifen in Jonen ist ein Schüler von einem Auto erfasst worden. Der Bub erlitt Schürfungen und Prellungen, die Polizei sucht nach dem Lenker.",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Wohneigentum wird teurer",
+      "url": "https://www.zentralplus.ch/news/wohneigentum-wird-teurer-2909245/",
+      "summary": "Wer in der Schweiz ein Haus oder eine Wohnung kaufen will, muss dafür mehr bezahlen als vor einem Jahr. Das zeigt ein Index vom Beratungsunternehmen IAZI und ImmoScout24, welcher die Preise von ausges",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Obama spricht von deutlicher Botschaft",
+      "url": "https://www.zentralplus.ch/news/obama-spricht-von-deutlicher-botschaft-2909244/",
+      "summary": "Der frühere US-Präsident Barack Obama hat den klaren Sieg der Demokraten bei den Parlamentswahlen als «deutliche Botschaft» des amerikanischen Volkes gewertet. Die Bevölkerung wolle eine Politik, die ",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trotz Gewinn droht Rothenburg ein Schuldenberg",
+      "url": "https://www.zentralplus.ch/news/trotz-gewinn-droht-rothenburg-ein-schuldenberg-2909220/",
+      "summary": "Die Gemeinde Rothenburg erwartet schwarze Zahlen. Trotzdem stehen ihr finanziell schwierige Jahre bevor. Die Gemeinde Rothenburg rechnet im Budget 2027 mit einem Überschuss von 465&#8217;000 Franken. ",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Zehntausende Ultraorthodoxe pilgern ins ukrainische Kriegsgebiet. Eine Reportage",
+      "url": "https://www.nzz.ch/international/juedische-pilgerfahrt-in-die-ukraine-groesste-massenveranstaltung-im-krieg-ld.10023750",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "MELDUNGEN WIRTSCHAFT - Designierter Rieter-CEO tritt neuen Posten nach Streit um Bonus nicht an +++ Kaufangebot für Meier Tobler",
+      "url": "https://www.nzz.ch/wirtschaft/designierter-rieter-ceo-tritt-neuen-posten-nach-streit-um-bonus-nicht-an-kaufangebot-fuer-meier-tobler-ld.10053841",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Gefalteter Karton als Markenzeichen",
+      "url": "https://www.persoenlich.com/prcorporate-communication/gefalteter-karton-als-markenzeichen",
+      "summary": "Die Schweizer Verpackungsfachmesse tritt 2027 mit neuem Logo und neuer Farbwelt auf. Ausgearbeitet hat den Auftritt das Team des Veranstalters Easyfairs intern.",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Patricia Boser wird Botschafterin",
+      "url": "https://www.persoenlich.com/marketing/patricia-boser-wird-botschafterin",
+      "summary": "Die Zuger Klinik für ästhetische Medizin und plastische Chirurgie entwickelt für die TV-Moderatorin ein persönliches Jahreskonzept. Zudem soll Boser in ausgewählten Kommunikationsformaten der Klinik z",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Bfs Zahlen Zürich Verliert Rang als Stärkste Wirtschaftsregion",
+      "url": "https://www.bilanz.ch/konjunktur/bfs-zahlen-zuerich-verliert-rang-als-staerkste-wirtschaftsregion/wwkmjcp",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Patek Philippe Patron Kauft 38 Millionen Villa in Cologny Ge",
+      "url": "https://www.bilanz.ch/invest/immobilien/patek-philippe-patron-kauft-38-millionen-villa-in-cologny-ge/zkpkbzg",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Richard Ridinger Wird Vr Präsident von Dsm Firmenich",
+      "url": "https://www.bilanz.ch/unternehmen/richard-ridinger-wird-vr-praesident-von-dsm-firmenich/kg21gxc",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Niederlage Trumps Börsen in Asien Reagieren Heftig",
+      "url": "https://www.bilanz.ch/invest/niederlage-trumps-boersen-in-asien-reagieren-heftig/rb66x1z",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Us Wahl Demokraten Holen Senat und Repräsentantenhaus",
+      "url": "https://www.bilanz.ch/konjunktur/us-wahl-demokraten-holen-senat-und-repraesentantenhaus/y57c23z",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Keisha Lance Bottoms wer ist die Erste Schwarze Gouverneurin eines Us Bundesstaats",
+      "url": "https://www.suedostschweiz.ch/panorama/keisha-lance-bottoms-wer-ist-die-erste-schwarze-gouverneurin-eines-us-bundesstaats-2221181",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Us Midterms 2026 Ergebnisse das Bedeutet die Niederlage für Donald Trump",
+      "url": "https://www.suedostschweiz.ch/panorama/us-midterms-2026-ergebnisse-das-bedeutet-die-niederlage-fuer-donald-trump-2221171",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "5g im Flimser Kirchturm Kann die Gemeinde die Mobilfunkanbieter Abschütteln",
+      "url": "https://www.suedostschweiz.ch/graubuenden/5g-im-flimser-kirchturm-kann-die-gemeinde-die-mobilfunkanbieter-abschuetteln-2220458",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hausi Leutenegger Unheilbare Herzkrankheit Entdeckt",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/hausi-leutenegger-unheilbare-herzkrankheit-entdeckt-ld.4261290",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Vierwaldstättersee Pegelstände Werden Neu Geprüft",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/vierwaldstaettersee-pegelstaende-werden-neu-geprueft-ld.4261287",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rüeblimärt Aarau 2026 die Besten Bilder",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/rueeblimaert-aarau-2026-die-besten-bilder-ld.4261288",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der Justiz fehlen die Deutschsprachigen",
+      "url": "https://www.freiburger-nachrichten.ch/story/300031/der-justiz-fehlen-die-deutschsprachigen",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Murten Classics» – Volksmusik oder wenn Bilder Geschichten erzählen",
+      "url": "https://www.freiburger-nachrichten.ch/story/302732/murten-classics-volksmusik-oder-wenn-bilder-geschichten-erz%C3%A4hlen",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Ubs Wealth Management in der Schweiz Brennt",
+      "url": "https://insideparadeplatz.ch/2026/11/04/ubs-wealth-management-in-der-schweiz-brennt/",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Wo Hat Ex Vontobel Chef Seinen Lebensmittelpunkt",
+      "url": "https://insideparadeplatz.ch/2026/11/04/wo-hat-ex-vontobel-chef-seinen-lebensmittelpunkt/",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Tagi Chef Wir Kultivieren Lebensfreude",
+      "url": "https://insideparadeplatz.ch/2026/11/04/tagi-chef-wir-kultivieren-lebensfreude/",
+      "summary": "",
+      "published": "2026-11-04T07:32:01.721051+00:00"
     }
   ]
 }
