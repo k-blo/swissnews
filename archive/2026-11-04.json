@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-04T00:31:44.946987+00:00",
+  "generated": "2026-11-04T01:01:57.877272+00:00",
   "date": "2026-11-04",
-  "count": 24,
+  "count": 27,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -170,6 +170,27 @@
       "url": "https://www.watson.ch/sport/bayern-muenchen/128596912-manzambi-und-aston-villa-verlieren-gegen-barca-klar-psg-siegt-deutlich",
       "summary": "",
       "published": "2026-11-04T00:31:44.946987+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "US-Kongresswahlen: Die USA wählen: Alle Resultate im Überblick",
+      "url": "https://www.tagesanzeiger.ch/kongresswahlen-was-fuer-trump-auf-dem-spiel-steht-530510816832",
+      "summary": "Machtwechsel im Kongress? Wer holt das Repräsentantenhaus, wer sichert sich den Senat? Die Ergebnisse der Midterms in Grafiken.",
+      "published": "2026-11-04T01:01:57.877272+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Midterms: Erste Nachwahlbefragungen",
+      "url": "https://www.zentralplus.ch/news/midterms-erste-nachwahlbefragungen-2909204/",
+      "summary": "Die ersten Nachwahlbefragungen zeigen, dass rund drei Viertel der Befragten mit der Lage unzufrieden oder wütend zu sein. Siebzig Prozent verlangen ausdrücklich, dass der Kongress Donald Trump künftig",
+      "published": "2026-11-04T01:01:57.877272+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kanada schliesst RUS von U20-WM aus",
+      "url": "https://www.zentralplus.ch/news/kanada-schliesst-rus-von-u20-wm-aus-2909203/",
+      "summary": "Russland und Belarus dürfen nicht an der U20-Eishockey-Weltmeisterschaft in Kanada teilnehmen. Dies kündigte Premierminister Mark Carney an. Solange der «illegale und ungerechtfertigte Krieg in der Uk",
+      "published": "2026-11-04T01:01:57.877272+00:00"
     }
   ]
 }
