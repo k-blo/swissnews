@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T11:01:56.955354+00:00",
+  "generated": "2026-11-05T11:31:48.481584+00:00",
   "date": "2026-11-05",
-  "count": 422,
+  "count": 475,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -2956,6 +2956,377 @@
       "url": "https://www.bote.ch/nachrichten/sport/fussball-cristiano-ronaldo-tritt-aus-nationalteam-von-portugal-zurueck-art-1730535",
       "summary": "",
       "published": "2026-11-05T11:01:56.955354+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kühlanlage manipuliert – Nun auch in der Schweiz: Metzgerei Opfer von Hackerangriff",
+      "url": "https://www.srf.ch/news/schweiz/kuehlanlage-manipuliert-nun-auch-in-der-schweiz-metzgerei-opfer-von-hackerangriff",
+      "summary": "Um mögliche Risiken auszuschliessen, wurde die Filiale vorübergehend geschlossen.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Christa Pike hat Blutkrebs – schlug darum die Hinrichtung fehl?",
+      "url": "https://www.20min.ch/story/anwaelte-hatten-gewarnt-christa-pike-hat-blutkrebs-schlug-darum-die-hinrichtung-fehl-103662576",
+      "summary": "Zwei Dosen Pentobarbital schafften es nicht, die US-Todeskandidatin wie geplant zu töten. Ihre Anwälte hatten genau davor im Januar gewarnt – wegen einer Erkrankung Christa Pikes.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mutter ist sich sicher: Hündin Saraya rettet ihrem Baby das Leben",
+      "url": "https://www.20min.ch/video/england-mutter-ist-sich-sicher-huendin-saraya-rettet-ihrem-baby-das-leben-103662719",
+      "summary": "Die Dobermann-Hündin Saraya wich dem sechs Monate alten Alexander plötzlich nicht mehr von der Seite. Wenn ihn die Eltern aus dem Zimmer trugen, winselte Saraya. Alexanders Mutter Kim Reynolds (41) wu",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "SBB-Urgestein Toni Häne stirbt im Alter von 71 Jahren",
+      "url": "https://www.20min.ch/story/todesfall-sbb-urgestein-toni-haene-stirbt-im-alter-von-71-jahren-103662715",
+      "summary": "Toni Häne ist mit 71 Jahren gestorben. Er begann 1971 als 16-jähriger Lehrling im Bahnhof Au – und stieg bis in die Konzernleitung der SBB auf.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Dafne Keen: Als Kind wurde ihr auf Partys Kokain angeboten",
+      "url": "https://www.20min.ch/story/dafne-keen-als-kind-wurde-ihr-auf-hollywood-partys-kokain-angeboten-103662546",
+      "summary": "Dafne Keen wurde als Kinderstar früh mit den Schattenseiten Hollywoods konfrontiert. Auf Branchenpartys sei ihr bereits im Alter von elf bis 13 Jahren Kokain angeboten worden.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Spinnen-Alarm: Taranteln breiten sich in Österreich aus",
+      "url": "https://www.20min.ch/story/mehr-als-200-meldungen-spinnen-alarm-taranteln-breiten-sich-in-oesterreich-aus-103662692",
+      "summary": "Über 200 Taranteln wurden in Österreich seit September gemeldet. Jetzt suchen sie einen Platz zum Überwintern – und landen dabei auch in Wohnungen und Garagen.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Projekt zu Renaturierung: Zürichs Limmat soll so wild werden wie zu Zwinglis Zeiten – für 95 Millionen",
+      "url": "https://www.tagesanzeiger.ch/zuerich-die-limmat-soll-fuer-95-millionen-renaturiert-werden-185053602171",
+      "summary": "Vor der Industrialisierung war der Fluss ein Biotop für Pflanzen und Vögel, heute ist sie mehr Bauwerk als Natur. Nun will der Kanton die Limmat von Von 80 auf 250 Meter erweitern.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Emotionales Video: Cristiano Ronaldo beendet seine Karriere im Nationalteam",
+      "url": "https://www.tagesanzeiger.ch/ronaldo-beendet-karriere-234-spiele-fuer-portugal-254972683438",
+      "summary": "Der Portugiese wird nicht mehr für die Nationalmannschaft antreten. Das hat der 41-Jährige auf den sozialen Medien bekanntgegeben.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Swiss schickt den Airbus A350 nach Mumbai",
+      "url": "https://www.tagesanzeiger.ch/swiss-fliegt-zuerichmumbai-ab-dezember-mit-airbus-a350-782164781593",
+      "summary": "Statt dem Airbus A330 oder A340 wird bald der moderne A350 zwischen Zürich und Mumbai fliegen. Was die Fluggäste davon haben.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Naturmuseum Winterthur: Mehr als Fleisch und Eier: Das Naturmuseum zeigt die andere Seite der Hühner",
+      "url": "https://www.tagesanzeiger.ch/naturmuseum-winterthur-ausstellung-ueber-das-huhn-537223847798",
+      "summary": "Jahrhundertelang hatten Hühner vor allem eine kulturelle Bedeutung. Das Naturmuseum Winterthur zeigt ab 8. November eine Ausstellung zum «unterschätzten Federvieh».",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Notlage auf der Zugspitze: Begleiter lässt 17-Jährige auf 2500 Metern zurück – Polizei ermittelt",
+      "url": "https://www.tagesanzeiger.ch/zugspitze-ermittlungen-gegen-21-jaehrigen-nach-rettung-674929565782",
+      "summary": "Laut Polizei lässt ein 21-Jähriger seine Begleiterin im Schnee auf der Zugspitze zurück. Retter bergen die Jugendliche unterkühlt, sie übersteht die Notlage unverletzt.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Telekomgeschäft: Post attackiert Swisscom und bietet neu auch Internet und TV an",
+      "url": "https://www.tagesanzeiger.ch/post-verkauft-internet-mit-salt-fuer-44-95-franken-645138137025",
+      "summary": "Vor 28 Jahren trennte der Bund die frühere PTT in Post und Swisscom. Nun setzt die Post für ihr neues Angebot auf Salt und wirbt um dieselbe Kundschaft.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Ab Mitte 2027: ÖV-Unternehmen spannen bei Handy-App zusammen",
+      "url": "https://www.bernerzeitung.ch/oev-plus-bls-und-bvb-buendeln-app-bis-2027-871463189159",
+      "summary": "BLS, Basler Verkehrs-Betriebe und die bisherigen ÖV-Plus-Partner planen eine gemeinsame App. Sie soll Tickets, Fahrpläne und Störungsmeldungen bündeln und Vertriebskosten senken.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "«Die vergessene Legende von Basel»: Die Firma hinter der Basilisk-Lichtshow ist pleite",
+      "url": "https://www.bazonline.ch/lichtshow-basel-viva-lux-gmbh-ist-konkurs-178896196058",
+      "summary": "Das fantasyartige Lichtspektakel in der Elisabethenkirche war gemäss Viva Lux GmbH ein Erfolg. Eine ähnliche Produktion in Zürich trieb die Firma mit Sitz in Basel nun aber in die Überschuldung.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zwei Männer wegen Sabotage verurteilt",
+      "url": "https://www.zentralplus.ch/news/zwei-maenner-wegen-sabotage-verurteilt-2909642/",
+      "summary": "Ein finnisches Gericht hat zwei Seeleute wegen Sabotage zu mehrjährigen Haftstrafen verurteilt. Das Gericht sieht es als erwiesen an, dass die beiden für die Beschädigung von Unterseekabeln in der Ost",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Erneut Bombendrohungen von Unbekannt",
+      "url": "https://www.zentralplus.ch/news/erneut-bombendrohungen-von-unbekannt-2909640/",
+      "summary": "Gegen mehrere Flüge in Europa hat es erneut Bombendrohungen gegeben und Flugzeuge mussten in europäischen Städten unplanmässig landen. Ungeplante Landungen meldeten unter anderem Bulgarien und Belgien",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Finanzkontrolle ist (fast) zufrieden mit Meldeplattform des BACS",
+      "url": "https://www.netzwoche.ch/news/2026-11-05/finanzkontrolle-ist-fast-zufrieden-mit-meldeplattform-des-bacs",
+      "summary": "Seit 2025 besteht eine Meldepflicht für betreiber kritischer Infrastrukturen bei Cyberangriffen. Das BACS betreibt dafür eine Meldeplatttform, die laut der Eidgenössischen Finanzkontrolle effizient fu",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Kanton Bern rechnet mit IT-Kosten von über 610 Millionen Franken",
+      "url": "https://www.netzwoche.ch/news/2026-11-05/kanton-bern-rechnet-mit-it-kosten-von-ueber-610-millionen-franken",
+      "summary": "Die Informatikkosten des Kantons Bern steigen weiter an. Für die Jahre 2027 bis 2029 beantragen die Behörden Rahmenkredite von 488,8 Millionen Franken, dazu kommen noch 121 Millionen Franken für die I",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Banken modernisieren ihre IT um den Kern herum",
+      "url": "https://www.netzwoche.ch/news/2026-11-05/banken-modernisieren-ihre-it-um-den-kern-herum",
+      "summary": "Schweizer Banken verlagern Innovationen zunehmend in Anwendungen ausserhalb ihrer Kernbankensysteme. So entwickeln sie ihre IT weiter, ohne das technische Fundament auszutauschen - obwohl sie dessen T",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Basel-Stadt bekommt eine KI-Strategie",
+      "url": "https://www.inside-it.ch/basel-stadt-bekommt-eine-ki-strategie-20261105",
+      "summary": "Der Regierungsrat hat eine gesamtkantonale Strategie verabschiedet. Im Zentrum stehen der KI-Kompetenzaufbau, Transparenz, eine geeignete Infrastruktur sowie Governance.",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Berichte über mehrere Bombendrohungen gegen Passagierflüge in Europa",
+      "url": "https://www.nzz.ch/international/berichte-ueber-mehrere-bombendrohungen-gegen-passagierfluege-in-europa-ld.10055153",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Serge Gaillard zu Frankreichs Schulden Finanzkrise in Zeitlupe",
+      "url": "https://www.bilanz.ch/unternehmen/serge-gaillard-zu-frankreichs-schulden-finanzkrise-in-zeitlupe/rz9eg2r",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Reiner Eichenberger zur Steuerinitiative der Mitte",
+      "url": "https://www.bilanz.ch/unternehmen/reiner-eichenberger-zur-steuerinitiative-der-mitte/d1xycz6",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Karin Kofler zum Trump Auftritt von Audi Chef Gernot Döllner",
+      "url": "https://www.bilanz.ch/unternehmen/karin-kofler-zum-trump-auftritt-von-audi-chef-gernot-doellner/3krnrd1",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Grippe Corona Rsv die Aktuelle Krankheitslage in der Schweiz",
+      "url": "https://www.suedostschweiz.ch/panorama/grippe-corona-rsv-die-aktuelle-krankheitslage-in-der-schweiz-2223254",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Nach Bilten Kommt Shanghai Läderach Eröffnet ein Zweites Schoggi Museum",
+      "url": "https://www.suedostschweiz.ch/glarus/nach-bilten-kommt-shanghai-laederach-eroeffnet-ein-zweites-schoggi-museum-2221959",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kriens Chemieunfall Führt zu Feuerwehreinsatz",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/kriens-chemieunfall-fuehrt-zu-feuerwehreinsatz-ld.4262173",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Obergösgen Studhuus ist Bereits Wieder Geöffnet",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/obergoesgen-studhuus-ist-bereits-wieder-geoeffnet-ld.4261586",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Neuer Kindergarten Bannfeld in Olten Garten Wird Angepasst",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/neuer-kindergarten-bannfeld-in-olten-garten-wird-angepasst-ld.4262007",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Flugchaos in Europa nach vielen Bombendrohungen",
+      "url": "https://www.watson.ch/international/eu/912220381-flugchaos-in-europa-nach-vielen-bombendrohungen",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Interview zu Trump, Vance und MAGA nach den Midterms 2026",
+      "url": "https://www.watson.ch/international/interview/671597961-interview-zu-trump-vance-und-maga-nach-den-midterms-2026",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Midterms 2026: Diese Bevölkerungsgruppen haben sich von Trump abgewandt",
+      "url": "https://www.watson.ch/international/usa/628493130-midterms-2026-diese-bevoelkerungsgruppen-haben-sich-von-trump-abgewandt",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polen fasst mehrere mutmassliche russische Agenten",
+      "url": "https://www.watson.ch/international/eu/591792930-polen-fasst-mehrere-mutmassliche-russische-agenten",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cristiano Ronaldo gibt Nati-Rücktritt bekannt",
+      "url": "https://www.watson.ch/sport/cristiano-ronaldo/124856245-cristiano-ronaldo-gibt-nati-ruecktritt-bekannt",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Xhaka und Embolo wieder in der Nati – Ballet erstmals aufgeboten",
+      "url": "https://www.watson.ch/sport/fussball/578160857-xhaka-und-embolo-wieder-in-der-nati-ballet-erstmals-aufgeboten",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweizer Firmen sind bei Cyberabwehr im Rückstand",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/749637818-schweizer-firmen-sind-bei-cyberabwehr-im-rueckstand",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nägel und Nadeln in Halloween-Snacks: Kinder teils selbst verantwortlich",
+      "url": "https://www.watson.ch/international/oesterreich/146048432-naegel-und-nadeln-in-halloween-snacks-kinder-teils-selbst-verantwortlich",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Thurgauer FDP-Nationalrätin Kris Vietze will 2027 in den Ständerat",
+      "url": "https://www.watson.ch/schweiz/fdp/709957527-thurgauer-fdp-nationalraetin-kris-vietze-will-2027-in-den-staenderat",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Preismonitor 2026: bezahlbare nachhaltige Lebensmittel sind möglich",
+      "url": "https://www.watson.ch/schweiz/food/917793206-preismonitor-2026-bezahlbare-nachhaltige-lebensmittel-sind-moeglich",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tote Pferde auf dem Zuchthof im Jura wegen atypischer Weidemyopathie",
+      "url": "https://www.watson.ch/schweiz/leben/111195833-tote-pferde-auf-dem-zuchthof-im-jura-wegen-atypischer-weidemyopathie",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Weltnummer 1 Zverev nervt sich über die Kritik an seiner Leistung",
+      "url": "https://www.watson.ch/sport/tennis/713156464-weltnummer-1-zverev-nervt-sich-ueber-die-kritik-an-seiner-leistung",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach Midterms: Darum brechen für die Ukraine gefährliche Wochen an",
+      "url": "https://www.watson.ch/international/usa/222354914-nach-midterms-darum-brechen-fuer-die-ukraine-gefaehrliche-wochen-an",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mutter und Tochter in Kanada nach Grizzlybärangriff getötet",
+      "url": "https://www.watson.ch/international/tier/671732018-mutter-und-tochter-in-kanada-nach-grizzlybaerangriff-getoetet",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Christa Pike leidet an seltener Krebsart – Ärzte warnten vor Hinrichtung",
+      "url": "https://www.watson.ch/international/gesundheit/592225944-christa-pike-leidet-an-seltener-krebsart-aerzte-warnten-vor-hinrichtung",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Affäre am Bundesgericht: Die Parteiverhandlung ist eröffnet",
+      "url": "https://www.watson.ch/schweiz/justiz/862313790-affaere-am-bundesgericht-die-parteiverhandlung-ist-eroeffnet",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mehr Wölfe ändern Akzeptanz der Bevölkerung nicht",
+      "url": "https://www.watson.ch/schweiz/tier/809318163-mehr-woelfe-aendern-akzeptanz-der-bevoelkerung-nicht",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Decathlon ruft Elektroantrieb für SUP und Elektro-Akku zurück",
+      "url": "https://www.watson.ch/schweiz/gesundheit/430682938-decathlon-ruft-elektroantrieb-fuer-sup-und-elektro-akku-zurueck",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Angler fängt in Australien Fisch und wird zum Millionär",
+      "url": "https://www.watson.ch/international/australien/786036316-angler-faengt-in-australien-fisch-und-wird-zum-millionaer",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Papeterien und Papieragenden: Warum ich sie so liebe",
+      "url": "https://www.watson.ch/blogs/nachtschicht/278422630-papeterien-und-papieragenden-warum-ich-sie-so-liebe",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Onlinebuchung und Bargeld: Das ist beim Weihnachtsmarkt Bellevue neu",
+      "url": "https://www.watson.ch/schweiz/konsum/802729951-onlinebuchung-und-bargeld-das-ist-beim-weihnachtsmarkt-bellevue-neu",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Chemieunfall sorgt für gesperrte Luzernerstrasse",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kriens-chemieunfall-fuehrt-zu-feuerwehreinsatz-art-1730538",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Murat Yakin: «Embolo muss akzeptieren, was geschehen ist»",
+      "url": "https://www.bote.ch/nachrichten/sport/murat-yakin-ueber-embolo-und-xhaka-das-sagt-er-zur-rueckkehr-art-1730528",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Heiligsprechung der Emix Millionäre Maskiert Versagen der Staatsanwaltschaft",
+      "url": "https://insideparadeplatz.ch/2026/11/05/heiligsprechung-der-emix-millionaere-maskiert-versagen-der-staatsanwaltschaft/",
+      "summary": "",
+      "published": "2026-11-05T11:31:48.481584+00:00"
     }
   ]
 }
