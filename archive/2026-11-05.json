@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T00:32:00.636237+00:00",
+  "generated": "2026-11-05T01:01:30.712785+00:00",
   "date": "2026-11-05",
-  "count": 27,
+  "count": 30,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -191,6 +191,27 @@
       "url": "https://www.zentralplus.ch/news/brienz-uebernimmt-verwaltung-in-oberried-2909531/",
       "summary": "Die Gemeinde Brienz übernimmt ab Anfang nächsten Jahres vorübergehend die Verwaltung der Nachbargemeinde Oberried. Die Vereinbarung gilt für zwei Jahre, teilten die beiden Berner Oberländer Gemeinden ",
       "published": "2026-11-05T00:32:00.636237+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "SNB von Teuerungsanstieg überrascht",
+      "url": "https://www.zentralplus.ch/news/snb-von-teuerungsanstieg-ueberrascht-2909533/",
+      "summary": "Die Schweizerische Nationalbank ist vom jüngsten Anstieg der Teuerung überrascht worden. Im Oktober lag die Inflation bei 1,5 Prozent und damit höher als von der Notenbank erwartet. Das sagte SNB-Präs",
+      "published": "2026-11-05T01:01:30.712785+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Aufschwung an US-Börsen",
+      "url": "https://www.zentralplus.ch/news/aufschwung-an-us-boersen-2909534/",
+      "summary": "Der Wahlsieg der Demokraten bei den Zwischenwahlen hat den US-Börsen deutlichen Auftrieb gegeben. Der Leitindex Dow Jones schloss drei Prozent im Plus, auch der S&#038;P 500 und die Technologiebörse N",
+      "published": "2026-11-05T01:01:30.712785+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Margaritha Stöckli aus Reitnau Wird 85",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/margaritha-stoeckli-aus-reitnau-wird-85-ld.4257689",
+      "summary": "",
+      "published": "2026-11-05T01:01:30.712785+00:00"
     }
   ]
 }
