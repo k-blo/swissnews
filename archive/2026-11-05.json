@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T22:02:03.988965+00:00",
+  "generated": "2026-11-05T22:32:25.436682+00:00",
   "date": "2026-11-05",
-  "count": 963,
+  "count": 965,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6743,6 +6743,20 @@
       "url": "https://www.watson.ch/sport/liveticker/863008052-lugano-nach-3-0-gegen-litauen-meister-neuer-leader-der-conference-league",
       "summary": "",
       "published": "2026-11-05T22:02:03.988965+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Absolutismus Allenthalben",
+      "url": "https://weltwoche.ch/story/absolutismus-allenthalben/",
+      "summary": "",
+      "published": "2026-11-05T22:32:25.436682+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Warnstreik bei Tamedia: «Wir fordern einen Entlassungsstopp für zwei Jahre»",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/warnstreik-bei-tamedia-wir-fordern-einen-entlassungsstopp-fuer-zwei-jahre-art-1730696",
+      "summary": "",
+      "published": "2026-11-05T22:32:25.436682+00:00"
     }
   ]
 }
