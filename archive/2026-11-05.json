@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T01:01:30.712785+00:00",
+  "generated": "2026-11-05T02:01:51.293296+00:00",
   "date": "2026-11-05",
-  "count": 30,
+  "count": 34,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -212,6 +212,34 @@
       "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/margaritha-stoeckli-aus-reitnau-wird-85-ld.4257689",
       "summary": "",
       "published": "2026-11-05T01:01:30.712785+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Druck auf Donald Trump wächst",
+      "url": "https://www.zentralplus.ch/news/druck-auf-donald-trump-waechst-2909537/",
+      "summary": "Nach der schweren Niederlage bei den US-Zwischenwahlen wächst der Druck auf US-Präsident Donald Trump aus der eigenen Partei. Republikanische Strategen fordern einen grundlegenden Kurswechsel und pers",
+      "published": "2026-11-05T02:01:51.293296+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Der Klimaschutz Führt in Europa zu Versorgungsengpässen",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/der-klimaschutz-fuehrt-in-europa-zu-versorgungsengpaessen",
+      "summary": "",
+      "published": "2026-11-05T02:01:51.293296+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Urs Martin Schlusslicht",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/urs-martin-schlusslicht",
+      "summary": "",
+      "published": "2026-11-05T02:01:51.293296+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Republikaner Also Donald Trump Verlieren die Amerikanischen Zwischenwahlen Big Time Washington ist Nicht Wiederzürkennen",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/die-republikaner-also-donald-trump-verlieren-die-amerikanischen-zwischenwahlen-big-time-washington-ist-nicht-wiederzuerkennen",
+      "summary": "",
+      "published": "2026-11-05T02:01:51.293296+00:00"
     }
   ]
 }
