@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T23:32:20.350703+00:00",
+  "generated": "2026-11-06T00:02:58.470999+00:00",
   "date": "2026-11-06",
-  "count": 23,
+  "count": 25,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -163,6 +163,20 @@
       "url": "https://www.bote.ch/nachrichten/regionalsport/drei-podestplaetze-fuer-den-badmintonclub-schwyz-art-1730553",
       "summary": "",
       "published": "2026-11-05T23:32:20.350703+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Prinz William und Prinz George nehmen Linienflug nach Spanien",
+      "url": "https://www.20min.ch/story/champions-league-partie-prinz-william-und-prinz-george-nehmen-linienflug-nach-spanien-103663064",
+      "summary": "Statt im Privatjet reisten Prinz William und sein Sohn Prinz George offenbar mit einem Linienflug nach Barcelona zu einem Fussballspiel. Dabei verstiessen sie wohl auch gegen eine alte royale Sicherhe",
+      "published": "2026-11-06T00:02:58.470999+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Trump traf Putin-Vertrauten Dmitrijew",
+      "url": "https://www.zentralplus.ch/news/trump-traf-putin-vertrauten-dmitrijew-2909813/",
+      "summary": "US-Präsident Donald Trump hat den Putin-Vertrauten Kirill Dmitrijew getroffen, wie er vor Medienschaffenden im Weissen Haus sagte. Details nannte er nicht, stellte aber ein «grosses Abkommen» zum Ukra",
+      "published": "2026-11-06T00:02:58.470999+00:00"
     }
   ]
 }
