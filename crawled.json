@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06T21:32:33.873521+00:00",
+  "generated": "2026-11-06T22:02:09.215216+00:00",
   "date": "2026-11-06",
-  "count": 905,
+  "count": 910,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6337,6 +6337,41 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/svp-schielt-beim-staenderat-auf-einen-zweiten-wahlgang-art-1730871",
       "summary": "",
       "published": "2026-11-06T21:21:45.969445+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Abstimmungs-Arena» – Soll das Kriegsmaterialgesetz gelockert werden?",
+      "url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-soll-das-kriegsmaterialgesetz-gelockert-werden",
+      "summary": "«Anti-Ukraine-Gesetz» oder wichtig für Verteidigungsfähigkeit: Die wichtigsten Argumente aus dem «Arena»-Showdown.",
+      "published": "2026-11-06T22:02:09.215216+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bundesliga: Muheim trifft schon wieder per Traumtor – HSV stoppt Gladbachs Aufwärtstrend",
+      "url": "https://www.tagesanzeiger.ch/bundesliga-hsv-schlaegt-moenchengladbach-3-1-658711801972",
+      "summary": "Miro Muheim erzielt beim 3:1-Heimsieg des HSV gegen Gladbach das 1:0. Für den Schweizer ist es das dritte Weitschusstor in dieser Saison.",
+      "published": "2026-11-06T22:02:09.215216+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Einsatz wegen Koffer am Bahnhof Schaffhausen: Polizei gibt Entwarnung",
+      "url": "https://www.shn.ch/region/stadt/2026-11-06/einsatz-wegen-koffer-am-bahnhof-schaffhausen-polizei-gibt-entwarnung",
+      "summary": "Die Bahnhofstrasse in Schaffhausen war am Freitagabend aufgrund eines Polizeieinsatzes gesperrt. Der Bahnverkehr nach Schaffhausen war unterbrochen. Der Auslöser war ein Gepäckstück.",
+      "published": "2026-11-06T22:02:09.215216+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Sc Kriens Schlägt Rapperswil Jona 10",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/sc-kriens-schlaegt-rapperswil-jona-10-ld.4261151",
+      "summary": "",
+      "published": "2026-11-06T22:02:09.215216+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Drei Punkte für den SC Kriens – weil Krasniqi «explodiert»",
+      "url": "https://www.bote.ch/nachrichten/sport/sc-kriens-schlaegt-rapperswil-jona-10-art-1730872",
+      "summary": "",
+      "published": "2026-11-06T22:02:09.215216+00:00"
     }
   ]
 }
