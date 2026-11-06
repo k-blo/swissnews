@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06T20:02:19.501239+00:00",
+  "generated": "2026-11-06T20:25:06.063656+00:00",
   "date": "2026-11-06",
-  "count": 877,
+  "count": 888,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6141,6 +6141,83 @@
       "url": "https://www.watson.ch/schweiz/oev/870799067-bahnverkehr-in-schaffhausen-unterbrochen",
       "summary": "",
       "published": "2026-11-06T20:02:19.501239+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Bahnhof in Schaffhausen – Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
+      "url": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
+      "summary": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Koffers gesperrt.",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Die Schweiz im Würgegriff der Kriminaltouristen",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/kriminaltourismus-in-der-schweiz-banden-schlagen-ueberall-zu/0e2fz7y",
+      "summary": "Die Schweiz lockt nicht nur Feriengäste an: Ausländische Tätergruppen brechen in Villen, Waffen- und Schmuckgeschäfte ein. Laut Fedpol agieren manche Banden professioneller, risikofreudiger und gewalt",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Endrunde in Dänemark: Schweiz kommt zum WM-Auftakt gegen die Titelverteidigerinnen unter die Räder",
+      "url": "https://www.tagesanzeiger.ch/eishockey-wm-schweiz-verliert-auftakt-gegen-usa-0-7-194072353998",
+      "summary": "Im ersten WM-Spiel verliert das Team von Trainerin Shanon Miller gegen die USA 0:7.",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Einschränkungen im ÖV: Verdächtiger Gegenstand: Polizei sperrt den Bahnhof Schaffhausen – inzwischen fahren die Züge wieder normal",
+      "url": "https://www.bernerzeitung.ch/bahnhof-schaffhausen-sperrung-wegen-verdaechtigem-gegenstand-411710807035",
+      "summary": "Ein verdächtiger Gegenstand führte am Freitagabend zur Sperrung. Alertswiss riet, den Bahnhof und die angrenzende Bahnhofstrasse in Schaffhausen zu meiden.",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zwei Kandidaten für EZB-Präsidium",
+      "url": "https://www.zentralplus.ch/news/zwei-kandidaten-fuer-ezb-praesidium-2910135/",
+      "summary": "Die Europäische Zentralbank EZB wird künftig von einem Niederländer oder einem Spanier geführt. Bis zum Ablauf der Meldefrist am Freitag sind zwei Kandidaturen eingegangen: Jene des Niederländers Klaa",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stephen Miller wird Trumps Stabschef",
+      "url": "https://www.zentralplus.ch/news/stephen-miller-wird-trumps-stabschef-2910134/",
+      "summary": "US-Präsident Donald Trump wechselt nach der Niederlage der Republikaner bei den Zwischenwahlen seine Stabschefin aus. Susie Wiles gibt ihr Amt ab. Ihr bisheriger Stellvertreter Stephen Miller übernimm",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Grüne Uri Unterstützen Erhöhung der Verkehrssteuer",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/gruene-uri-unterstuetzen-erhoehung-der-verkehrssteuer-ld.4261318",
+      "summary": "",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Fdp Altdorf Fordert Prioritäten bei Budget und Ausgaben",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/fdp-altdorf-fordert-prioritaeten-bei-budget-und-ausgaben-ld.4262849",
+      "summary": "",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Grüne kritisieren Widerstand gegen höhere Verkehrssteuer",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/gruene-uri-unterstuetzen-erhoehung-der-verkehrssteuer-art-1730845",
+      "summary": "",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FDP fordert klare Prioritäten bei den Ausgaben",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/fdp-altdorf-fordert-prioritaeten-bei-budget-und-ausgaben-art-1730844",
+      "summary": "",
+      "published": "2026-11-06T20:25:06.063656+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wendy Holdener wird zur Mode-Queen",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/wendy-holdener-wird-zur-mode-queen-art-1730752",
+      "summary": "",
+      "published": "2026-11-06T20:25:06.063656+00:00"
     }
   ]
 }
