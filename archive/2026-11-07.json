@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06T23:02:18.654797+00:00",
+  "generated": "2026-11-06T23:32:25.120765+00:00",
   "date": "2026-11-07",
-  "count": 2,
+  "count": 3,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -16,6 +16,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/302633/gemeindeverband-see-verabschiedet-gleich-zwei-budgets-f%C3%BCr-2027",
       "summary": "",
       "published": "2026-11-06T23:02:18.654797+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Donald, wir müssen reden»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/donald-wir-muessen-reden-art-1730591",
+      "summary": "",
+      "published": "2026-11-06T23:32:25.120765+00:00"
     }
   ]
 }
