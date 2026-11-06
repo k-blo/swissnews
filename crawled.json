@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06T14:32:37.513156+00:00",
+  "generated": "2026-11-06T14:36:07.079318+00:00",
   "date": "2026-11-06",
-  "count": 604,
+  "count": 607,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4230,6 +4230,27 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/webseite-des-pastoralraums-region-willisau-wegen-hackerangriff-offline-art-1730771",
       "summary": "",
       "published": "2026-11-06T14:32:37.513156+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach KI-Absturz: US-Börsen scheinen sich zu stabilisieren",
+      "url": "https://www.20min.ch/story/boersen-beben-nach-ki-absturz-us-boersen-scheinen-sich-zu-stabilisieren-103663341",
+      "summary": "Der Absturz der KI-Aktien scheint am Freitag aufgehalten zu werden. Die US-Aktienmärkte scheinen sich zu stabilisieren. Grund dafür sind auch neu veröffentlichte Job-Zahlen, die robuster sind als erwa",
+      "published": "2026-11-06T14:36:07.079318+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "So Viel Hatte Graubünden Lange Nicht zu Wählen was der Grosse Wahlknall Bedeutet",
+      "url": "https://www.suedostschweiz.ch/graubuenden/so-viel-hatte-graubuenden-lange-nicht-zu-waehlen-was-der-grosse-wahlknall-bedeutet-2224689",
+      "summary": "",
+      "published": "2026-11-06T14:36:07.079318+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Fc Stgallen Gegen Lugano Görtler Will den Leader Stürzen",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/fc-stgallen-gegen-lugano-goertler-will-den-leader-stuerzen-ld.4263137",
+      "summary": "",
+      "published": "2026-11-06T14:36:07.079318+00:00"
     }
   ]
 }
