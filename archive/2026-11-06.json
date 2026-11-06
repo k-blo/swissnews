@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06T04:02:46.601095+00:00",
+  "generated": "2026-11-06T04:32:17.757360+00:00",
   "date": "2026-11-06",
-  "count": 160,
+  "count": 174,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1122,6 +1122,104 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/felix-schenker-wird-praesident-der-freunde-des-schauspielhauses-zuerich-art-1730700",
       "summary": "",
       "published": "2026-11-06T04:02:46.601095+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "«Apropos» – der tägliche Podcast: «Das Motivationsschreiben ist als Standard tot» – wie KI die Jobsuche verändert",
+      "url": "https://www.tagesanzeiger.ch/ki-in-der-arbeitswelt-was-du-wissen-musst-267938861700",
+      "summary": "KI verändert die Rekrutierung von Angestellten: Welche Wege Firmen jetzt gehen und was das für die Bewerbenden bedeutet, erklärt unsere Wirtschaftsredaktorin im Podcast.",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wortsuche Lösungshilfe: Wortsuche vom Freitag, 6. November 2026: Mit diesen Tipps knacken Sie das Rätsel",
+      "url": "https://www.tagesanzeiger.ch/wortsuche-tipps-zum-raetsel-vom-6-november-2026-985438451866",
+      "summary": "Noch auf der Suche nach dem heutigen Wort? Drei Hinweise helfen Ihnen beim Weiterrätseln. Die Auflösung steht unterhalb der Hinweise.",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Biber sorgt in Baar für Überschwemmungen",
+      "url": "https://www.zentralplus.ch/news/biber-sorgt-in-baar-fuer-ueberschwemmungen-2909243/",
+      "summary": "Ein Spaziergang an der Alten Lorze brachte Fussgängern in den letzten Wochen nasse Füsse ein. Der Biber erschuf dort zwei prächtige Dämme. Nun musste der Kanton einschreiten. Panta Rhei – «alles flies",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nachbarin klagt über Lärm – obwohl niemand zuhause ist",
+      "url": "https://www.zentralplus.ch/justiz/nachbarin-klagt-ueber-laerm-obwohl-niemand-zuhause-ist-2909612/",
+      "summary": "Acht Lärmbeschwerden und zwei Polizeieinsätze – doch Lärm gab es laut Anklage keinen. Nun muss sich das Ehepaar, das sich beschwert hat, selbst vor Gericht verantworten. Stress in der Nachbarschaft is",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Bewegung im Asylstreit mit Italien",
+      "url": "https://www.zentralplus.ch/news/bewegung-im-asylstreit-mit-italien-2909821/",
+      "summary": "Das Staatssekretariat für Migration SEM meldet Bewegung im Asylstreit mit Italien. Italien nimmt seit Jahren keine Asylsuchenden aus der Schweiz zurück, obwohl es das laut Abkommen müsste. Nach zunäch",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Demokratie neu denken – KI kann dabei helfen",
+      "url": "https://www.nzz.ch/meinung/demokratie-neu-denken-ki-kann-dabei-helfen-ld.10038419",
+      "summary": "",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTBEITRAG - Arbeit verteuern ist keine Strategie für das KI-Zeitalter",
+      "url": "https://www.nzz.ch/meinung/arbeit-verteuern-ist-keine-strategie-fuer-das-ki-zeitalter-ld.10042590",
+      "summary": "",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Junge Akademiker tun sich schwer auf dem Arbeitsmarkt. Ein Hochschulrektor sagt: «Wir erleben eine Renaissance der über 50-Jährigen»",
+      "url": "https://www.nzz.ch/zuerich/hochschul-rektor-ue50-gewinnen-durch-ki-tipps-fuer-erfolg-ld.10055042",
+      "summary": "",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nein zur FDP-Initiative: Der Zürcher Regierungsrat lehnt eine gesetzliche Beschränkung des Stellenwachstums ab",
+      "url": "https://www.nzz.ch/zuerich/zuercher-regierungsrat-lehnt-fdp-personalbremse-initiative-ab-ld.10055386",
+      "summary": "",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ein Hosen-Song mit klarer Ansage: Das Revival kollektiver Verdummung gehört im Keim erstickt",
+      "url": "https://www.shn.ch/forum-meinung/kolumnen/2026-11-06/ein-hosen-song-mit-klarer-ansage-das-revival-kollektiver",
+      "summary": "Demokratien geraten weltweit unter Druck. Die Argumente der Kritiker sind jedoch inhaltlich sehr schwach, obwohl sie sich sehr süffig in den elektronischen Medien verbreiten. Dass sich Widerstand nun ",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bund unterschätzte Schaffhauser Wirtschaft massiv – jetzt muss er korrigieren",
+      "url": "https://www.shn.ch/region/kanton/2026-11-06/bund-unterschaetzte-schaffhauser-wirtschaft-massiv-jetzt-muss-er",
+      "summary": "Ein stolzer Schwan im Ententeich: Neue Berechnungen zeigen, dass Schaffhausens Wirtschaftsleistung deutlich beeindruckender ist als bisher angenommen. Kein anderer Kanton wird vom Bund so stark nach o",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Busspur Zwischen Näfels und Netstal das Musst Du Während und nach den Bauarbeiten Wissen",
+      "url": "https://www.suedostschweiz.ch/glarus/busspur-zwischen-naefels-und-netstal-das-musst-du-waehrend-und-nach-den-bauarbeiten-wissen-2219019",
+      "summary": "",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Rechenzentren in der Ostschweiz Grosse Projekte Haben es Schwer",
+      "url": "https://www.tagblatt.ch/wirtschaft/ostschweiz/rechenzentren-in-der-ostschweiz-grosse-projekte-haben-es-schwer-ld.4261467",
+      "summary": "",
+      "published": "2026-11-06T04:32:17.757360+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Je schneller wir diese Gefahrenzone wieder verlassen, desto besser»",
+      "url": "https://www.freiburger-nachrichten.ch/story/303393/je-schneller-wir-diese-gefahrenzone-wieder-verlassen-desto-besser",
+      "summary": "",
+      "published": "2026-11-06T04:32:17.757360+00:00"
     }
   ]
 }
