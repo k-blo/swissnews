@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06T02:02:24.123135+00:00",
+  "generated": "2026-11-06T02:32:49.144365+00:00",
   "date": "2026-11-06",
-  "count": 31,
+  "count": 33,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -219,6 +219,20 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/wettbewerb-stehplatztickets-evz-vs-sc-rapperswil-jona-ld.4262349",
       "summary": "",
       "published": "2026-11-06T02:02:24.123135+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Börsen nach Midterms im Minus",
+      "url": "https://www.zentralplus.ch/news/boersen-nach-midterms-im-minus-2909819/",
+      "summary": "Die Aktien von Technologieunternehmen haben nach den Wahlerfolgen der Demokraten bei den Zwischenwahlen am US-Aktienmarkt an Wert eingebüsst. So haben etwa die Aktien des US‑Chipherstellers Nvidia übe",
+      "published": "2026-11-06T02:32:49.144365+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Newsom will alle Todesurteile umwandeln",
+      "url": "https://www.zentralplus.ch/news/newsom-will-alle-todesurteile-umwandeln-2909817/",
+      "summary": "Der Gouverneur von Kalifornien, Gavin Newsom, will alle 548 Todesurteile im US-Bundesstaat in lebenslange Haftstrafen umwandeln, wie er in einem Brief an die Bevölkerung ankündigte. Es sei moralisch f",
+      "published": "2026-11-06T02:32:49.144365+00:00"
     }
   ]
 }
