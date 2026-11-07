@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T02:35:37.012125+00:00",
+  "generated": "2026-11-07T03:02:18.690915+00:00",
   "date": "2026-11-07",
-  "count": 15,
+  "count": 29,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -107,6 +107,104 @@
       "url": "https://www.tagesanzeiger.ch/neuseeland-massensterben-nach-strandung-von-43-grindwalen-287043423222",
       "summary": "Mehr als 40 Grindwale sind nach einer Strandung an der Südspitze der neuseeländischen Nordinsel verendet. Rettungskräfte versuchten noch, einzelne Tiere bei Flut zurück ins Meer zu bringen.",
       "published": "2026-11-07T02:32:42.736463+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Vsg Bischofszell Drei Kandidierende Werben um Schulbehördensitz",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/vsg-bischofszell-drei-kandidierende-werben-um-schulbehoerdensitz-ld.4262932",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "<b>Einmal die Nordlichter sehen</b>",
+      "url": "https://www.bote.ch/nachrichten/sponsored/beinmal-die-nordlichter-sehenb-art-1728712",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Älteste Schwyzerin feiert ihren 108. Geburtstag",
+      "url": "https://www.bote.ch/nachrichten/schwyz/aelteste-schwyzerin-feiert-ihren-108-geburtstag-art-1730802",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Von Einzellösungen zu verlässlichen Strukturen für Sport und Ausbildung in der Zentralschweiz",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/von-einzelloesungen-zu-verlaesslichen-strukturen-fur-sport-und-ausbildung-in-der-zentralschweiz-art-1730748",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Victorinox plant neuen Eingang mit grosszügigen Glasflächen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/victorinox-plant-neuen-eingang-mit-grosszuegigen-glasflaechen-art-1730747",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Umweltsünde auf dem Klösterliweg: Kein Respekt vor der schönen Natur",
+      "url": "https://www.bote.ch/nachrichten/schwyz/umweltsuende-auf-dem-kloesterliweg-kein-respekt-vor-der-schoenen-natur-art-1730735",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Spitzenkampf im Muotatal",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/spitzenkampf-im-muotatal-art-1730759",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Sie helfen Menschen in Not: Winterhilfe Schweiz tagte in Einsiedeln",
+      "url": "https://www.bote.ch/nachrichten/schwyz/sie-helfen-menschen-in-not-winterhilfe-schweiz-tagte-in-einsiedeln-art-1730818",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Shooters reisen zu formstarkem Gegner",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/shooters-reisen-zu-formstarkem-gegner-art-1730757",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Notarzt: «Der Kopf gewöhnt sich an den Tod, das Herz nicht»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/notarzt-der-kopf-gewoehnt-sich-an-den-tod-das-herz-nicht-art-1730756",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kein Wunder, sind viele wachstumsmüde",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kein-wunder-sind-viele-wachstumsmuede-art-1730599",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Innert nur vier Jahren wurde der Rohbau der Pfarrkirche errichtet",
+      "url": "https://www.bote.ch/nachrichten/schwyz/innert-nur-vier-jahren-wurde-der-rohbau-der-pfarrkirche-errichtet-art-1730749",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Es geht nur nach oben, oder: für jedes neue Pflaster noch mehr Zaster!",
+      "url": "https://www.bote.ch/nachrichten/schwyz/es-geht-nur-nach-oben-oder-fuer-jedes-neue-pflaster-noch-mehr-zaster-art-1730718",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Amy Baserga: «Ich will einfach wieder mehr Spass am Sport haben»",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/amy-baserga-ich-will-einfach-wieder-mehr-spass-am-sport-haben-art-1730726",
+      "summary": "",
+      "published": "2026-11-07T03:02:18.690915+00:00"
     }
   ]
 }
