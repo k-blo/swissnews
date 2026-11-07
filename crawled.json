@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T05:02:17.949064+00:00",
+  "generated": "2026-11-07T05:32:40.364165+00:00",
   "date": "2026-11-07",
-  "count": 186,
+  "count": 190,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1304,6 +1304,34 @@
       "url": "https://www.nzz.ch/sport/weitere-sportarten/der-welthandballer-mathias-gidsel-spielt-mit-daenemark-in-der-schweiz-ld.10052745",
       "summary": "",
       "published": "2026-11-07T05:02:17.949064+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Hammer und Sichel an der Wand, Gramsci in der Lobby: Der Sitz der italienischen Kommunisten in Rom ist jetzt ein Fünfsternehotel",
+      "url": "https://www.nzz.ch/international/wie-roms-kommunistische-parteizentrale-zum-fuenf-sterne-hotel-wurde-ld.10051798",
+      "summary": "",
+      "published": "2026-11-07T05:32:40.364165+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Vom Ärgernis an der Gassa Suro Bis zu den Plänen für 2027 Wo in Domat Ems Gegraben Wird",
+      "url": "https://www.suedostschweiz.ch/graubuenden/vom-aergernis-an-der-gassa-suro-bis-zu-den-plaenen-fuer-2027-wo-in-domat-ems-gegraben-wird-2178604",
+      "summary": "",
+      "published": "2026-11-07T05:32:40.364165+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "«Die Gewissensprüfung ist ein problematisches Verfahren»",
+      "url": "https://www.freiburger-nachrichten.ch/story/303173/die-gewissenspr%C3%BCfung-ist-ein-problematisches-verfahren",
+      "summary": "",
+      "published": "2026-11-07T05:32:40.364165+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mutter und Tochter im Duett",
+      "url": "https://www.bote.ch/nachrichten/kultur/das-duo-praxedis-bricht-eine-lanze-fuer-komponist-joseph-woelfl-art-1730934",
+      "summary": "",
+      "published": "2026-11-07T05:32:40.364165+00:00"
     }
   ]
 }
