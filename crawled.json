@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T00:02:16.184716+00:00",
+  "generated": "2026-11-07T00:32:32.372079+00:00",
   "date": "2026-11-07",
-  "count": 5,
+  "count": 7,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -37,6 +37,20 @@
       "url": "https://www.zentralplus.ch/news/novartis-meldet-tumoren-nach-therapie-2910140/",
       "summary": "Bei neun Kindern, die mit der Gentherapie Zolgensma von Novartis behandelt wurden, sind Tumore aufgetreten. Bisher gebe es in zwei Fällen Hinweise auf einen Zusammenhang mit der Behandlung, schreibt d",
       "published": "2026-11-07T00:02:16.184716+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Migros kopiert Verpackung – Wernli reagiert mit Humor",
+      "url": "https://www.20min.ch/story/linkedin-wernli-hug-butterherzli-reaktion-auf-neue-verpackung-von-migros-crea-d-or-103663503",
+      "summary": "Die neue Verpackung der Herzli-Guetzli der Migros-Marke Créa d’Or erinnert stark an das Original von Wernli. Der Mutterkonzern kann sich eine Spitze nicht verkneifen – ist aber auch enttäuscht.",
+      "published": "2026-11-07T00:32:32.372079+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "In SRF-Arena wird über Lockerung des Kriegsmaterialgesetzes diskutiert",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/756196444-in-srf-arena-wird-ueber-lockerung-des-kriegsmaterialgesetzes-diskutiert",
+      "summary": "",
+      "published": "2026-11-07T00:32:32.372079+00:00"
     }
   ]
 }
