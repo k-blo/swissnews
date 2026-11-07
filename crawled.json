@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T20:03:07.556201+00:00",
+  "generated": "2026-11-07T20:33:10.313381+00:00",
   "date": "2026-11-07",
-  "count": 530,
+  "count": 542,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -3712,6 +3712,90 @@
       "url": "https://www.watson.ch/sport/bayern-muenchen/940040734-bundesliga-ndoyes-nottingham-forest-duepiert-mancity",
       "summary": "",
       "published": "2026-11-07T20:03:07.556201+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Tram schleift Fussgänger (39) mehrere Meter mit",
+      "url": "https://www.blick.ch/schweiz/zuerich/zuerich-tram-schleift-fussgaenger-mehrere-meter-mit/gcnc1hh",
+      "summary": "Am Samstagabend stürzte ein Fussgänger bei einer Tramhaltestelle im Kreis 1 und wurde durch ein losfahrendes Tram verletzt.",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Solothurner Traditionsladen gibt nach 128 Jahren auf",
+      "url": "https://www.blick.ch/schweiz/mittelland/solothurn/derendingen-modegeschaeft-levy-picard-schliesst-nach-128-jahren/g9hl05x",
+      "summary": "In Derendingen SO ist die traditionsreiche Modeboutique Levy Picard bald Geschichte. Nach 128 Jahren löst das Inhaberpaar das Geschäft schweren Herzens auf. Unter anderem, weil die zunehmende Sommerhi",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "«Eine Tür geht zu, zwei andere gehen auf»",
+      "url": "https://www.blick.ch/schweiz/derendingen-so-kleiderladen-levy-picard-geht-zu/jzw4s2b",
+      "summary": "In Derendingen SO ist die traditionsreiche Modeboutique Levy Picard bald Geschichte. Nach 128 Jahren löst das Inhaberpaar das Geschäft auf. Unter anderem, weil die zunehmende Sommerhitze den Betrieb o",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Beschluss des Verwaltungsrats: Schweizer Verband boykottiert Spiel gegen Russland an der U-20-WM",
+      "url": "https://www.tagesanzeiger.ch/swiss-ice-hockey-u-20-boykottiert-spiel-gegen-russland-769396246201",
+      "summary": "Jüngst hat der Sportgerichtshof CAS entschieden, dass Russland wieder an IIHF-Wettbewerben teilnehmen darf. Nun hat Swiss Ice Hockey angekündigt, an der U-20-WM nicht zur Partie gegen Russland anzutre",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Eisenkot soll Israels Regierung bilden",
+      "url": "https://www.zentralplus.ch/news/eisenkot-soll-israels-regierung-bilden-2910262/",
+      "summary": "Israels Präsident Izchak Herzog will Oppositionsführer Gadi Eisenkot mit der Regierungsbildung beauftragen. Die offizielle Übergabe des Mandats findet am Sonntag statt, wie das Präsidialamt auf X mitt",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Regisseurin Marine Atlan ausgezeichnet",
+      "url": "https://www.persoenlich.com/gesellschaft/regisseurin-marine-atlan-ausgezeichnet",
+      "summary": "Mit «La Gradiva» holt ein französisches Jugenddrama den Reflet d’Or für den besten Spielfilm. Auch Schweizer Filmschaffende gehen an der 32. Ausgabe des Geneva International Film Festival nicht leer a",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Leuggern Wegen Autohändler Erhält Opfer Plötzlich Selbst Betreibungen",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/leuggern-wegen-autohaendler-erhaelt-opfer-ploetzlich-selbst-betreibungen-ld.4263526",
+      "summary": "",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Der Fc Solothurn Sichert Sich in einer Wilden Schlussphase einen Punkt",
+      "url": "https://www.solothurnerzeitung.ch/sport/solothurn/der-fc-solothurn-sichert-sich-in-einer-wilden-schlussphase-einen-punkt-ld.4262493",
+      "summary": "",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Weihnachtsbaum am Rockefeller Center in New York eingetroffen",
+      "url": "https://www.watson.ch/international/leben/538858177-weihnachtsbaum-am-rockefeller-center-in-new-york-eingetroffen",
+      "summary": "",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "U20-WM: Schweizer Eishockey-Junioren spielen nicht gegen Russland",
+      "url": "https://www.watson.ch/schweiz/eishockey/311791340-u20-wm-schweizer-eishockey-junioren-spielen-nicht-gegen-russland",
+      "summary": "",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Streit um Regierungsbildung in Israel eskaliert",
+      "url": "https://www.watson.ch/international/israel/554867205-streit-um-regierungsbildung-in-israel-eskaliert",
+      "summary": "",
+      "published": "2026-11-07T20:33:10.313381+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Der Engelmacher» von Marina Klauser gewinnt am Geneva Film Festival",
+      "url": "https://www.watson.ch/schweiz/filme-und-serien/716230861-der-engelmacher-von-marina-klauser-gewinnt-am-geneva-film-festival",
+      "summary": "",
+      "published": "2026-11-07T20:33:10.313381+00:00"
     }
   ]
 }
