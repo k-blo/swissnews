@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T06:02:21.992734+00:00",
+  "generated": "2026-11-07T06:32:38.242414+00:00",
   "date": "2026-11-07",
-  "count": 200,
+  "count": 214,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1402,6 +1402,104 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/sp-meyer-feuert-in-kriegsmaterial-arena-scharf-art-1730935",
       "summary": "",
       "published": "2026-11-07T06:02:21.992734+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Raubkatze auf dem Vormarsch: GPS-Daten zeigen: Luchse breiten sich im Mittelland immer mehr aus",
+      "url": "https://www.bernerzeitung.ch/luchse-im-berner-mittelland-neue-studie-zeigt-ausbreitung-231029855241",
+      "summary": "Gurten, Wohlensee, Bantiger, Sensegraben: Im Berner Mittelland nimmt die Zahl der Tiere zu. Wildtierökologin Karolin Prott erklärt, was GPS-Daten über sie verraten – und welche Gefahren drohen.",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Gemeinderat Hünenberg hat die Aufgaben verteilt",
+      "url": "https://www.zentralplus.ch/news/gemeinderat-huenenberg-hat-die-aufgaben-verteilt-2910017/",
+      "summary": "Der Hünenberger Gemeinderat hat die Ressorts für die kommende Legislatur verteilt. Dabei gibt es zwei Veränderungen. Am 4. Oktober wurde der Gemeinderat Hünenberg neu gewählt (zentralplus berichtete).",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Der VC Kanti muss den Fokus im Spiel gegen Volley Düdingen finden",
+      "url": "https://www.shn.ch/sport/volleyball/2026-11-07/der-vc-kanti-muss-den-fokus-im-spiel-gegen-volley-duedingen-finden",
+      "summary": "Nach dem Ausscheiden aus dem Europacup geht es für den VC Kanti im Liga-Alltag weiter.",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Alles wie Früher im Gibts die Tasse Espresso für 70 Cent",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/alles-wie-frueher-im-gibts-die-tasse-espresso-fuer-70-cent-2219602",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Noch Mehr Weihnachtsmarkt in Glarus ein Zweiter Standort Lädt zum Einkaufen ein",
+      "url": "https://www.suedostschweiz.ch/glarus/noch-mehr-weihnachtsmarkt-in-glarus-ein-zweiter-standort-laedt-zum-einkaufen-ein-2170922",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die besten Karikaturen der Woche",
+      "url": "https://www.watson.ch/digital/spass/747259845-die-besten-karikaturen-der-woche",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump und Blanche geben im Streit um Wähler in Kalifornien auf",
+      "url": "https://www.watson.ch/international/usa/363060120-trump-und-blanche-geben-im-streit-um-waehler-in-kalifornien-auf",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Diese Städte will die SBB künftig bedienen – so stehts um den London-Zug",
+      "url": "https://www.watson.ch/schweiz/oev/847408582-diese-staedte-will-die-sbb-kuenftig-bedienen-so-stehts-um-den-london-zug",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Er wollte Trump töten: Bewaffnter Mann beim Weissen Haus festgenommen",
+      "url": "https://www.watson.ch/international/usa/764970752-er-wollte-trump-toeten-bewaffnter-mann-beim-weissen-haus-festgenommen",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Banken-Kollaps stürzt Paraguay in die Krise: Präsident abgesetzt",
+      "url": "https://www.watson.ch/wirtschaft/international/607602349-banken-kollaps-stuerzt-paraguay-in-die-krise-praesident-abgesetzt",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russen greifen mit Raketen an: Explosionen in Kiew und Umland",
+      "url": "https://www.watson.ch/international/russland/326497416-russen-greifen-mit-raketen-an-explosionen-in-kiew-und-umland",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Mit 52 Jahren: Chilenischer Starregisseur Sebastián Lelio gestorben",
+      "url": "https://www.watson.ch/international/lateinamerika/206937013-mit-52-jahren-chilenischer-starregisseur-sebastian-lelio-gestorben",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Warum der teuerste Wein der Schweiz günstig ist",
+      "url": "https://www.freiburger-nachrichten.ch/story/303691/warum-der-teuerste-wein-der-schweiz-g%C3%BCnstig-ist",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Staatskrise in Paraguay: Peña als Präsident abgesetzt",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/staatskrise-in-paraguay-pena-als-praesident-abgesetzt-art-1730936",
+      "summary": "",
+      "published": "2026-11-07T06:32:38.242414+00:00"
     }
   ]
 }
