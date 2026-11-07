@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T01:02:20.080678+00:00",
+  "generated": "2026-11-07T01:32:12.767503+00:00",
   "date": "2026-11-07",
-  "count": 8,
+  "count": 12,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -58,6 +58,34 @@
       "url": "https://www.tagesanzeiger.ch/paraguay-pleite-von-bank-ueno-ex-praesident-santiago-peno-abgesetzt-unter-hausarrest-684316921864",
       "summary": "Fast drei Millionen Bankkunden kamen nach der Pleite der Digitalbank Ueno zunächst nicht an ihre Ersparnisse. Nun muss sich Peñas Nachfolger Pedro Alliana mit den Folgen der Bankenpleite befassen.",
       "published": "2026-11-07T01:02:20.080678+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Das Bundesgericht Hat Aufgeräumt Jetzt ist das Parlament am Zug",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/das-bundesgericht-hat-aufgeraeumt-jetzt-ist-das-parlament-am-zug",
+      "summary": "",
+      "published": "2026-11-07T01:32:12.767503+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Höpli zum Freitag Vorweihnachts Rummel die Aufgezwungene Vorfreude",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/hoepli-zum-freitag-vorweihnachts-rummel-die-aufgezwungene-vorfreude",
+      "summary": "",
+      "published": "2026-11-07T01:32:12.767503+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Eidgenössische Finanzkontrolle Verkennt die Risiken eines Strommangels",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/die-eidgenoessische-finanzkontrolle-verkennt-die-risiken-eines-strommangels",
+      "summary": "",
+      "published": "2026-11-07T01:32:12.767503+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wir Bürgern im Akkord ein das Zerstört Unsere Demokratie",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/wir-buergern-im-akkord-ein-das-zerstoert-unsere-demokratie",
+      "summary": "",
+      "published": "2026-11-07T01:32:12.767503+00:00"
     }
   ]
 }
