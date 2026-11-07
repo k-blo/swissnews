@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T08:26:08.064802+00:00",
+  "generated": "2026-11-07T08:32:30.722417+00:00",
   "date": "2026-11-07",
-  "count": 243,
+  "count": 246,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1703,6 +1703,27 @@
       "url": "https://www.watson.ch/schweiz/polizeirapport/513385163-stau-auf-der-autobahn-auto-brennt-nach-unfall-auf-a1-in-haerkingen",
       "summary": "",
       "published": "2026-11-07T08:26:08.064802+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Seefeld-Mörder stellt Weltrekord im Knast auf",
+      "url": "https://www.20min.ch/story/jva-lenzburg-seefeld-moerder-stellt-weltrekord-im-knast-auf-103663530",
+      "summary": "Tobias K. ist offizieller Weltrekordhalter. Er hat 1073 Chest-to-Ground-Push-up-Burpees in einer Stunde geschafft. Bekannt ist er in der Schweiz aber wegen eines kaltblütigen Mordes.",
+      "published": "2026-11-07T08:32:30.722417+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach Gift-Drama und Tod von Pferden: Familie erhält über 60'000 Franken",
+      "url": "https://www.watson.ch/schweiz/bern/731691120-nach-gift-drama-und-tod-von-pferden-familie-erhaelt-ueber-60-000-franken",
+      "summary": "",
+      "published": "2026-11-07T08:32:30.722417+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Kennt ihr die Düdinger Bierwanderung?",
+      "url": "https://www.freiburger-nachrichten.ch/story/303704/kennt-ihr-die-d%C3%BCdinger-bierwanderung",
+      "summary": "",
+      "published": "2026-11-07T08:32:30.722417+00:00"
     }
   ]
 }
