@@ -4,7 +4,7 @@
     "etag": "\"90367f4c826e48aa96a02faf5cc8f1b6\""
   },
   "https://partner-feeds.20min.ch/rss/20minuten": {
-    "etag": "W/\"197b0-q+i7nYZnTA3yWV81M4ZD3AyiYOA\""
+    "etag": "W/\"197ae-2C6GHw4y+95BwaC/Hhvz2SrP9JA\""
   },
   "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/": {
     "etag": "W/\"edbe-d3HMkrFmilGJS0VMmWB5120BuVw\""
@@ -13,7 +13,7 @@
     "etag": "W/\"dfd5-ax1kFYcJtKgNHY2jBKkbScjIc6Y\""
   },
   "https://www.zentralplus.ch/feed/": {
-    "last_modified": "Sun, 08 Nov 2026 12:30:15 GMT"
+    "last_modified": "Sun, 08 Nov 2026 13:46:31 GMT"
   },
   "https://www.finews.ch/news?format=feed": {
     "last_modified": "Sun, 08 Nov 2026 13:18:44 GMT"
@@ -51,8 +51,8 @@
     "etag": "\"1793962194\""
   },
   "https://www.shn.ch/rss.xml": {
-    "last_modified": "Sun, 08 Nov 2026 13:30:27 GMT",
-    "etag": "W/\"1794144627-gzip\""
+    "last_modified": "Sun, 08 Nov 2026 13:45:07 GMT",
+    "etag": "W/\"1794145507-gzip\""
   },
   "https://schweizermonat.ch/feed/": {
     "etag": "W/\"21ec5-eXRuGf47X7u/pdYh3e9bZBFbj0g\""
