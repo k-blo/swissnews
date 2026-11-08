@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T09:02:34.160402+00:00",
+  "generated": "2026-11-08T09:32:32.143927+00:00",
   "date": "2026-11-08",
-  "count": 148,
+  "count": 160,
   "articles": [
     {
       "source": "SRF",
@@ -1038,6 +1038,90 @@
       "url": "https://www.infosperber.ch/gesellschaft/kontertext-zukunft-traeumen-teil-2/",
       "summary": "",
       "published": "2026-11-08T09:02:34.160402+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wahlen Kanton Freiburg – Verliert die deutschsprachige Minderheit Sitze in der Regierung?",
+      "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung",
+      "summary": "Bei der Gesamterneuerungswahl des Freiburger Staatsrats ist ein Umbruch vorprogrammiert.",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Wahlen Kanton Freiburg – Welche Partei holt die meisten Sitze im Freiburger Parlament?",
+      "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-welche-partei-holt-die-meisten-sitze-im-freiburger-parlament",
+      "summary": "Das Freiburger Stimmvolk wählt das Kantonsparlament neu. Die Ausgangslage.",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tod nach Horror-Tackling: Captain unterbricht Rede unter Tränen",
+      "url": "https://www.20min.ch/story/jesus-de-miguel-tod-nach-horror-tackling-captain-unterbricht-rede-unter-traenen-103663985",
+      "summary": "Fans rufen immer wieder seinen Namen, der Captain muss seine Rede mehrfach unterbrechen: Die Gedenkfeier auf Teneriffa für den verstorbenen Jesús de Miguel geht unter die Haut.",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach WM-Titel von Antonelli: Wer gewinnt? Stimme ab",
+      "url": "https://www.20min.ch/story/gp-brasilien-nach-wm-titel-von-antonelli-wer-gewinnt-stimme-ab-103664001",
+      "summary": "Der GP Brasilien steht an. Nach einem chaotischen Qualifying will Lando Norris von der Pole-Position aus den Sieg. Das Rennen ab 18 Uhr live.",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Angespannte Wasserversorgung: Hasliberg bereitet wegen Wassermangel Trinkwasser aus dem Bidmisee auf",
+      "url": "https://www.bernerzeitung.ch/hasliberg-bidmisee-soll-trinkwasser-sichern-548131107102",
+      "summary": "In der anhaltenden Trockenheit sprudeln Quellen weiter spärlich, Sparempfehlungen verpuffen. Nun will Hasliberg den Bidmisee für die Trinkwasserversorgung nutzen.",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "KI freigegeben - bis zum nächsten Update?",
+      "url": "https://www.netzwoche.ch/news/2026-11-08/ki-freigegeben-bis-zum-naechsten-update",
+      "summary": "Eine KI-Freigabe ist kein endgültiger Produktentscheid, sondern eine dokumentierte Risikobeurteilung für einen bestimmten Einsatz. Mit der Einführung beginnt die Governance im Betrieb: Änderungen an F",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Swiss Ice Hockey positioniert sich in der Russland-Causa doch noch – und hantiert mit Gratismut",
+      "url": "https://www.nzz.ch/sport/eishockey/swiss-ice-hockey-reagiert-spaet-kein-duell-gegen-russland-bei-u-20-wm-ld.10057624",
+      "summary": "",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Zentralschweizer Radios Lassen Hinter die Kulissen Blicken",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/zentralschweizer-radios-lassen-hinter-die-kulissen-blicken-ld.4263550",
+      "summary": "",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Hedwig Däpp Feiert in Küssnacht den 108 Geburtstag",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/schwyz/hedwig-daepp-feiert-in-kuessnacht-den-108-geburtstag-ld.4263544",
+      "summary": "",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Reinach Alkoholisierter Autofahrer Verursacht Unfall",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/reinach-alkoholisierter-autofahrer-verursacht-unfall-ld.4263548",
+      "summary": "",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Traumtor von Komatovic Fc Wohlen Schlägt Muttenz am 7 November 10",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/traumtor-von-komatovic-fc-wohlen-schlaegt-muttenz-am-7-november-10-ld.4262703",
+      "summary": "",
+      "published": "2026-11-08T09:32:32.143927+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Zürich Fussgänger Mehrere Meter von Tram Mitgeschleift",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuerich-fussgaenger-mehrere-meter-von-tram-mitgeschleift-ld.4263546",
+      "summary": "",
+      "published": "2026-11-08T09:32:32.143927+00:00"
     }
   ]
 }
