@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T02:02:19.321827+00:00",
+  "generated": "2026-11-08T02:32:15.295377+00:00",
   "date": "2026-11-08",
-  "count": 8,
+  "count": 12,
   "articles": [
     {
       "source": "SRF",
@@ -58,6 +58,34 @@
       "url": "https://www.watson.ch/schweiz/bundesrat/975106377-thomas-aeschi-will-in-den-bundesrat-und-zeigt-interesse-am-ejpd",
       "summary": "",
       "published": "2026-11-08T02:02:19.321827+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Mehrere Verletzte nach starkem Erdbeben",
+      "url": "https://www.20min.ch/story/japan-erdbeben-mit-mehreren-verletzten-103663947",
+      "summary": "Kurz nach Mitternacht wurden die Menschen in Zentraljapan wegen eines Erdbebens aus dem Schlaf gerissen. Mehrere Menschen wurden verletzt.",
+      "published": "2026-11-08T02:32:15.295377+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Selenski kämpft weiter gegen Korruption",
+      "url": "https://www.zentralplus.ch/news/selenski-kaempft-weiter-gegen-korruption-2910268/",
+      "summary": "Der ukrainische Präsident Wolodimir Selenski hat nach einem Korruptionsskandal beim Inlandsgeheimdienst SBU personelle Konsequenzen angekündigt. Mehrere hochrangige Sicherheits- und Justizbeamte solle",
+      "published": "2026-11-08T02:32:15.295377+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Diskussionsloser 30 Sieg Leader Volley Amriswil Gewinnt in St Gallen",
+      "url": "https://www.tagblatt.ch/sport/thurgau/diskussionsloser-30-sieg-leader-volley-amriswil-gewinnt-in-st-gallen-ld.4263533",
+      "summary": "",
+      "published": "2026-11-08T02:32:15.295377+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump schlägt UFC-Boss Dana White als Sprecher des Weissen Hause vor",
+      "url": "https://www.watson.ch/international/das-ist-nicht-normal-ticker/798642458-trump-schlaegt-ufc-boss-dana-white-als-sprecher-des-weissen-hause-vor",
+      "summary": "",
+      "published": "2026-11-08T02:32:15.295377+00:00"
     }
   ]
 }
