@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T17:08:32.236716+00:00",
+  "generated": "2026-11-08T17:29:01.729466+00:00",
   "date": "2026-11-08",
-  "count": 430,
+  "count": 434,
   "articles": [
     {
       "source": "SRF",
@@ -3012,6 +3012,34 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/hotel-ausgebucht-tickets-ausverkauft-art-1730997",
       "summary": "",
       "published": "2026-11-08T17:08:32.236716+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Marmorbruch – Wenn Tessiner Marmor zum Designobjekt wird",
+      "url": "https://www.srf.ch/news/schweiz/marmorbruch-wenn-tessiner-marmor-zum-designobjekt-wird",
+      "summary": "Der einzige Schweizer Marmorsteinbruch setzt auf Designobjekte: Damit sollen neue Märkte erobert werden.",
+      "published": "2026-11-08T17:29:01.729466+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "FCB-Umfrage: Ihre Meinung zum Spiel des FC Basel gegen Thun ist gefragt",
+      "url": "https://www.bazonline.ch/fc-basel-gegen-thun-wie-war-das-spiel-im-berner-oberland-433480315014",
+      "summary": "Der FCB spielt beim Schweizer Meister FC Thun 3:3. Hat das Trainerteam alles richtig gemacht? Wer war der Beste? Stimmen Sie jetzt ab!",
+      "published": "2026-11-08T17:29:01.729466+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarau Vermummte Besprühen Modellautos auf Flohmarkt",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-vermummte-bespruehen-modellautos-auf-flohmarkt-ld.4263568",
+      "summary": "",
+      "published": "2026-11-08T17:29:01.729466+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Reppischfäger Feiern 50 Jahre mit Zirkusshow in Dietikon",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/reppischfaeger-feiern-50-jahre-mit-zirkusshow-in-dietikon-ld.4260543",
+      "summary": "",
+      "published": "2026-11-08T17:29:01.729466+00:00"
     }
   ]
 }
