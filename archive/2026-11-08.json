@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T12:02:11.436287+00:00",
+  "generated": "2026-11-08T12:05:29.473419+00:00",
   "date": "2026-11-08",
-  "count": 239,
+  "count": 241,
   "articles": [
     {
       "source": "SRF",
@@ -1675,6 +1675,20 @@
       "url": "https://www.suedostschweiz.ch/graubuenden/wikinger-und-indigene-2224970",
       "summary": "",
       "published": "2026-11-08T12:02:11.436287+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Jimmy Savile: Der Missbrauchsskandal, der die BBC erschütterte",
+      "url": "https://www.20min.ch/story/ueber-500-opfer-jimmy-savile-der-missbrauchsskandal-der-die-bbc-erschuetterte-103663311",
+      "summary": "Der Fall Hans Jucker bewegt die Schweiz. Und weckt Erinnerungen an den in seinen Dimensionen noch schlimmeren Fall des britischen TV-Moderators Jimmy Savile.",
+      "published": "2026-11-08T12:05:29.473419+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Im Live Ticker der Fcsg Gegen Lugano in der Super Leagü",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/im-live-ticker-der-fcsg-gegen-lugano-in-der-super-league-ld.4262357",
+      "summary": "",
+      "published": "2026-11-08T12:05:29.473419+00:00"
     }
   ]
 }
