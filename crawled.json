@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T04:02:38.145461+00:00",
+  "generated": "2026-11-08T04:32:44.462726+00:00",
   "date": "2026-11-08",
-  "count": 52,
+  "count": 77,
   "articles": [
     {
       "source": "SRF",
@@ -366,6 +366,181 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/raiffeisenbanken-zug-und-menzingen-neuheim-planen-fusion-art-1730952",
       "summary": "",
       "published": "2026-11-08T04:02:38.145461+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Mercedes rast durch 30er-Zone und verunfallt",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/polizei-verfolgt-mercedes-durch-30er-zone-in-wohlen-ag/k61vv1e",
+      "summary": "Wilde Verfolgungsjagd vor Mitternacht in Wohlen AG: Ein Autofahrer flieht vor der Polizei durch eine 30er Zone und baut einen Unfall. Ein Mann wird festgenommen. Ein Leserreporter hat die Szene vom Fe",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/toter-nach-konzert-das-ist-der-neonazi-schlaeger-von-tuggen/lwzt2dv",
+      "summary": "Der Schweizer (42), der nach einem Konzert einen Deutschen getötet haben soll, lebt im Kanton Zug und ist seit seiner Jugend Teil der Neonazi-Szene. Das Blood-and-Honour-Mitglied ist nicht zum ersten ",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nell rettet Koala-Baby vor Python – mit blossen Händen",
+      "url": "https://www.20min.ch/video/australien-nell-rettet-koala-baby-vor-python-mit-blossen-haenden-103663798",
+      "summary": "Im australischen Brisbane entdeckte Nell ein Koala-Baby im Würgegriff einer Python. Während die Mutter versuchte, ihr Junges zu befreien, griff die 34-Jährige ein. Mit blossen Händen löste sie die Sch",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "5 Schweizer Unterkünfte, die auf den Reiseradar der Gen Z gehören",
+      "url": "https://www.20min.ch/story/guenstige-hotels-hostels-schweiz-reisetipps-wochenendtrip-103662640",
+      "summary": "Vom hippen Hostel mit Hallenbad bis zum gemütlichen Chalet mit Seeblick: Wir stellen fünf angesagte Schweizer Unterkünfte für junge Menschen vor.",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Eistees waren gestern: Promis machen jetzt Geld mit Sextoys",
+      "url": "https://www.20min.ch/story/lily-allen-und-co-eistees-waren-gestern-promis-machen-jetzt-geld-mit-sextoys-103661363",
+      "summary": "Vor allem weibliche Stars haben Gefallen an der Sextoy-Branche gefunden. Sie wollen mit ihren Kollektionen meist ein Zeichen für weibliche Lust setzen.",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Joel (20): «Beim Gamen vergesse ich die Schmerzen»",
+      "url": "https://www.20min.ch/story/akne-inversa-joel-20-berichtet-von-schmerzen-leiden-103662824",
+      "summary": "Wegen einer schweren Form von Akne inversa kann Joel (20) an manchen Tagen nicht einmal das Zimmer wechseln. Wenn die Schmerzen zu stark werden, flüchtet er in die Gamingwelt – und freut sich besonder",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Baurechtsexperte: «Zug muss über Einzonung reden»",
+      "url": "https://www.zentralplus.ch/wohnen-bauen/baurechtsexperte-zug-muss-ueber-einzonung-reden-2909879/",
+      "summary": "Der Kanton Zug verzichtet seit 2013 weitgehend auf neue Bauzonen. Baurechtsexperte Meinrad Huser zweifelt an diesem Grundsatz – und kritisiert die geplante «Weisse Zone» scharf. Zug ringt um eine Lösu",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "US-Militär stoppt Schiff vor Oman",
+      "url": "https://www.zentralplus.ch/news/us-militaer-stoppt-schiff-vor-oman-2910270/",
+      "summary": "Das US-Militär hat im Golf von Oman nach eigenen Angaben ein Handelsschiff beschossen und ausser Gefecht gesetzt. Das Schiff habe nach einem Stopp in einem iranischen Hafen mehrere Warnungen ignoriert",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Kündigung vor dem ersten Arbeitstag: Der Mann, der beim Traditionskonzern Rieter beinahe CEO wurde",
+      "url": "https://www.nzz.ch/wirtschaft/rieter-ld.10057230",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Die Zölle sind nicht vom Tisch. Aber es gibt eine republikanische Mehrheit, die sie nicht mitträgt», sagt Joseph Stiglitz",
+      "url": "https://www.nzz.ch/international/die-zoelle-sind-nicht-vom-tisch-aber-es-gibt-eine-republikanische-mehrheit-die-sie-nicht-mittraegt-sagt-joseph-stiglitz-ld.10057157",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Flüchtige Affäre, Liebesbeziehung oder «dauernde Lebensgemeinschaft»? Über die Mühe des Staates, das amouröse Treiben seiner Bürgerinnen und Bürger zu definieren",
+      "url": "https://www.nzz.ch/schweiz/fluechtige-affaere-liebesbeziehung-oder-dauernde-lebensgemeinschaft-ueber-die-muehe-des-staates-das-amouroese-treiben-seiner-buergerinnen-und-buerger-zu-definieren-ld.10056175",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Leicester City schrieb ein Fussballmärchen – zehn Jahre später rebellieren die Fans gegen einen Wettanbieter, der mit einer Pornodarstellerin paktiert",
+      "url": "https://www.nzz.ch/sport/fussball/leicester-city-schrieb-ein-fussballmaerchen-zehn-jahre-spaeter-rebellieren-die-fans-gegen-einen-wettanbieter-der-mit-einer-pornodarstellerin-paktiert-ld.10055882",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Zeitdruck gehört zur Prüfung: Gericht verweigert Nachteilsausgleich bei Numerus-Clausus-Test",
+      "url": "https://www.nzz.ch/schweiz/zeitdruck-gehoert-zur-pruefung-gericht-verweigert-nachteilsausgleich-bei-numerus-clausus-test-ld.10055478",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Künstliche Intelligenz: Wer gewinnt? Wer verliert?",
+      "url": "https://www.nzz.ch/feuilleton/kuenstliche-intelligenz-von-der-schiene-zum-algorithmus-ld.10055379",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Darüber spricht Lilienfeld: Ein Ort streitet über den Auftritt eines Schriftstellers",
+      "url": "https://www.nzz.ch/international/darueber-spricht-lilienfeld-ein-ort-streitet-ueber-den-auftritt-eines-schriftstellers-ld.10055198",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - «How to sabotage work better» – oder warum nicht alle Schweizer den Ernst der Lage begreifen",
+      "url": "https://www.nzz.ch/meinung/how-to-sabotage-work-better-oder-warum-nicht-alle-schweizer-den-ernst-der-lage-begreifen-ld.10055097",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Methode Gülsha bringt sogar Self-Checkouts mit KI an den Anschlag: «Die Differenz zahlen die ehrlichen Kunden mit höheren Preisen»",
+      "url": "https://www.nzz.ch/wirtschaft/die-methode-guelsha-bringt-sogar-self-checkouts-mit-ki-an-den-anschlag-die-differenz-zahlen-die-ehrlichen-kunden-mit-hoeheren-preisen-ld.10055049",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Absturz an der Nasdaq: Warnschuss oder Anfang vom Ende des KI-Booms?",
+      "url": "https://www.nzz.ch/wirtschaft/absturz-an-der-nasdaq-warnschuss-oder-anfang-vom-ende-des-ki-booms-ld.10054992",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Im Westen Äthiopiens sammeln sich Truppen. Bringen sie eine Wende im Sudan-Krieg?",
+      "url": "https://www.nzz.ch/visuals/im-westen-aethiopiens-sammeln-sich-truppen-bringen-sie-eine-wende-im-sudankrieg-ld.10054392",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Oscar-Anwärter von Martin McDonagh: Zynismus, bis das Militär putscht",
+      "url": "https://www.nzz.ch/feuilleton/oscar-anwaerter-von-martin-mcdonagh-zynismus-bis-das-militaer-putscht-ld.10054277",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Maga ist Geschichte – was kommt als Nächstes?",
+      "url": "https://www.nzz.ch/international/maga-ist-geschichte-was-kommt-als-naechstes-ld.10054118",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Autowunderland China? Mitnichten. Mit Überkapazitäten und staatlicher Förderung gräbt sich das Land sein eigenes Grab",
+      "url": "https://www.nzz.ch/international/autowunderland-china-mitnichten-mit-ueberkapazitaeten-und-staatlicher-foerderung-graebt-sich-das-land-sein-eigenes-grab-ld.10054117",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Neue Zeiten am Golf: Während Trump wie gelähmt scheint, baut Iran an einer regionalen Ordnung – ohne die USA",
+      "url": "https://www.nzz.ch/international/neue-zeiten-am-golf-waehrend-trump-wie-gelaehmt-scheint-baut-iran-an-einer-regionalen-ordnung-ohne-die-usa-ld.10054110",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "John Malkovich, Lars Eidinger und ein viel zu jung gestorbenes Jazz-Wunderkind. Die Kulturtipps der NZZ am Sonntag",
+      "url": "https://www.nzz.ch/feuilleton/john-malkovich-lars-eidinger-und-ein-viel-zu-jung-gestorbenes-jazz-wunderkind-die-kulturtipps-der-nzz-am-sonntag-ld.10054025",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Fc Aarau bei den Fans Schwindet die Geduld",
+      "url": "https://www.aargauerzeitung.ch/sport/fc-aarau/fc-aarau-bei-den-fans-schwindet-die-geduld-ld.4263462",
+      "summary": "",
+      "published": "2026-11-08T04:32:44.462726+00:00"
     }
   ]
 }
