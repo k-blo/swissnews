@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T03:02:17.741607+00:00",
+  "generated": "2026-11-08T03:32:10.104377+00:00",
   "date": "2026-11-08",
-  "count": 13,
+  "count": 20,
   "articles": [
     {
       "source": "SRF",
@@ -93,6 +93,55 @@
       "url": "https://www.watson.ch/international/usa/316089239-trump-schuert-zweifel-an-kongresswahl-und-droht-demokraten",
       "summary": "",
       "published": "2026-11-08T03:02:17.741607+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "5,7 auf der Richterskala: Mehrere Verletzte nach starkem Erdbeben in Japan",
+      "url": "https://www.tagesanzeiger.ch/erdbeben-japan-mindestens-22-verletzte-in-shizuoka-251681446893",
+      "summary": "Kurz nach Mitternacht wurden die Menschen in Zentraljapan wegen eines Erdbebens aus dem Schlaf gerissen. Mehrere Menschen wurden verletzt.",
+      "published": "2026-11-08T03:32:10.104377+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nach der Absetzung wegen Bankenskandal: Paraguays Ex-Präsident Peña muss in Untersuchungshaft",
+      "url": "https://www.tagesanzeiger.ch/paraguay-nach-skandal-um-bank-ueno-ex-praesident-santiago-pena-in-untersuchungshaft-170596871168",
+      "summary": "Erst verliert Santiago Peña sein Präsidentenamt, nun muss er in Haft. Die Justiz wirft ihm im Zusammenhang mit einem Bankenskandal schwere Rechtsverstösse vor.",
+      "published": "2026-11-08T03:32:10.104377+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Trumps Niederlage ist gut für Schweizer Hausbesitzer",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-11-08/trumps-niederlage-ist-gut-fuer-schweizer-hausbesitzer",
+      "summary": "Nach den US-Zwischenwahlen steht der historische Investitionsboom auf der Kippe – die Folgen erreichen die Schweiz.",
+      "published": "2026-11-08T03:32:10.104377+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Spitalgesetz: Warum die Spitäler Schaffhausen mehr Spielraum brauchen",
+      "url": "https://www.shn.ch/region/kanton/2026-11-08/spitalgesetz-warum-die-spitaeler-schaffhausen-mehr-spielraum-brauchen",
+      "summary": "Was für die Kantonsverwaltung passt, muss für ein Spital noch lange nicht stimmen. Deshalb verdienen die Spitäler Schaffhausen mehr Freiheit bei der Gestaltung ihrer Anstellungsbedingungen. Die Änderu",
+      "published": "2026-11-08T03:32:10.104377+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Heiraten darf nicht bestraft werden",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-11-08/heiraten-darf-nicht-bestraft-werden",
+      "summary": "Die Individualbesteuerung kostet viel und schafft neue Ungerechtigkeit, mit der Mitte-Initiative liegt eine bessere Lösung auf dem Tisch.",
+      "published": "2026-11-08T03:32:10.104377+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "130 Jahre Fussball in Schaffhausen: Als kurze Hosen noch ein Skandal waren",
+      "url": "https://www.shn.ch/sport/fussball/2026-11-08/130-jahre-fussball-in-schaffhausen-als-kurze-hosen-noch-ein-skandal-waren",
+      "summary": "Morgen vor genau 130 Jahren wurde zum ersten Mal über ein Fussballspiel in Schaffhausen berichtet. Doch die neue Sportart stiess auf erbitterten Widerstand: Sie galt als roh oder gar als sexuell anstö",
+      "published": "2026-11-08T03:32:10.104377+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Tram erfasst Fussgänger in Zürich und schleift ihn mehrere Meter mit",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/968210664-tram-erfasst-fussgaenger-in-zuerich-und-schleift-ihn-mehrere-meter-mit",
+      "summary": "",
+      "published": "2026-11-08T03:32:10.104377+00:00"
     }
   ]
 }
