@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T02:32:15.295377+00:00",
+  "generated": "2026-11-08T03:02:17.741607+00:00",
   "date": "2026-11-08",
-  "count": 12,
+  "count": 13,
   "articles": [
     {
       "source": "SRF",
@@ -86,6 +86,13 @@
       "url": "https://www.watson.ch/international/das-ist-nicht-normal-ticker/798642458-trump-schlaegt-ufc-boss-dana-white-als-sprecher-des-weissen-hause-vor",
       "summary": "",
       "published": "2026-11-08T02:32:15.295377+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump schürt Zweifel an Kongresswahl und droht Demokraten",
+      "url": "https://www.watson.ch/international/usa/316089239-trump-schuert-zweifel-an-kongresswahl-und-droht-demokraten",
+      "summary": "",
+      "published": "2026-11-08T03:02:17.741607+00:00"
     }
   ]
 }
