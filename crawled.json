@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-08T01:02:14.437914+00:00",
+  "generated": "2026-11-08T01:32:32.424863+00:00",
   "date": "2026-11-08",
-  "count": 4,
+  "count": 7,
   "articles": [
     {
       "source": "SRF",
@@ -30,6 +30,27 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/thomas-aeschi-kandidiert-fuer-den-bundesrat-art-1730951",
       "summary": "",
       "published": "2026-11-08T00:02:22.823946+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Lebensmittelabkommen Rahmenverträge Klrankenkassenprämien",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/lebensmittelabkommen-rahmenvertraege-klrankenkassenpraemien",
+      "summary": "",
+      "published": "2026-11-08T01:32:32.424863+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Wiederholt Sich die Geschichte",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/wiederholt-sich-die-geschichte",
+      "summary": "",
+      "published": "2026-11-08T01:32:32.424863+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Billiger Heisst Mehr",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/billiger-heisst-mehr",
+      "summary": "",
+      "published": "2026-11-08T01:32:32.424863+00:00"
     }
   ]
 }
