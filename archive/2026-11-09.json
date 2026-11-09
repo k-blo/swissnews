@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-09T08:02:37.048313+00:00",
+  "generated": "2026-11-09T08:32:47.990357+00:00",
   "date": "2026-11-09",
-  "count": 250,
+  "count": 258,
   "articles": [
     {
       "source": "Persönlich",
@@ -1752,6 +1752,62 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/thomas-aeschi-will-in-den-bundesrat-bin-fuer-jedes-departement-offen-art-1731110",
       "summary": "",
       "published": "2026-11-09T08:02:37.048313+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung im Kanton Aargau – Entlastung für alle oder Steuergeschenk für wenige?",
+      "url": "https://www.srf.ch/news/abstimmung-im-kanton-aargau-entlastung-fuer-alle-oder-steuergeschenk-fuer-wenige",
+      "summary": "Am 29. November entscheidet das Aargauer Stimmvolk über eine Senkung der Einkommenssteuern.",
+      "published": "2026-11-09T08:32:47.990357+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "BaZ Wochen-Memo: Das müssen Sie für die neue Woche wissen",
+      "url": "https://www.bazonline.ch/basel-memo-herbstmesse-endet-frost-droht-am-wochenende-466464140880",
+      "summary": "Hier finden Sie jeden Montag praktische Alltagstipps. Diese Woche: Temperaturen unter dem Gefrierpunkt, Tickets fürs Weihnachts-Tram, Abbau der Herbstmesse und Nachtarbeiten auf der Linie 11.",
+      "published": "2026-11-09T08:32:47.990357+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Bremsklotz Bürokratie: Schweizer Unternehmen klagen über eine stark steigende administrative Belastung",
+      "url": "https://www.nzz.ch/wirtschaft/bremsklotz-buerokratie-schweizer-unternehmen-klagen-ueber-eine-stark-steigende-administrative-belastung-ld.10056282",
+      "summary": "",
+      "published": "2026-11-09T08:32:47.990357+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Nvidia Chef Jensen Huang Affäre mit Spionin Erschüttert Branche",
+      "url": "https://www.bilanz.ch/unternehmen/nvidia-chef-jensen-huang-affaere-mit-spionin-erschuettert-branche/33r4p4k",
+      "summary": "",
+      "published": "2026-11-09T08:32:47.990357+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Grind Games die Besten Bilder aus der Pilatus Arena",
+      "url": "https://www.luzernerzeitung.ch/sport/zentralschweiz/grind-games-die-besten-bilder-aus-der-pilatus-arena-ld.4263827",
+      "summary": "",
+      "published": "2026-11-09T08:32:47.990357+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Wenn der Funke Zündet was der Kantersieg des Fc Stgallen Gegen Lugano Zeigt",
+      "url": "https://www.tagblatt.ch/sport/fcstgallen/wenn-der-funke-zuendet-was-der-kantersieg-des-fc-stgallen-gegen-lugano-zeigt-ld.4263756",
+      "summary": "",
+      "published": "2026-11-09T08:32:47.990357+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Macht es Sinn mit dem Lieben Gott",
+      "url": "https://www.solothurnerzeitung.ch/leserbeitrag/sz/macht-es-sinn-mit-dem-lieben-gott-ld.4263468",
+      "summary": "",
+      "published": "2026-11-09T08:32:47.990357+00:00"
+    },
+    {
+      "source": "Zofinger Tagblatt",
+      "title": "Aktion zu den Herausfordernden Abstimmungen vom 29112026",
+      "url": "https://www.zofingertagblatt.ch/leserbeitrag/zt/aktion-zu-den-herausfordernden-abstimmungen-vom-29112026-ld.4263753",
+      "summary": "",
+      "published": "2026-11-09T08:32:47.990357+00:00"
     }
   ]
 }
