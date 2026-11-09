@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-09T00:02:44.722756+00:00",
+  "generated": "2026-11-09T00:32:26.253311+00:00",
   "date": "2026-11-09",
-  "count": 15,
+  "count": 20,
   "articles": [
     {
       "source": "Persönlich",
@@ -107,6 +107,41 @@
       "url": "https://www.20min.ch/story/unfall-in-ennetbuehl-sg-4-verletzte-bei-frontalkollision-verursacher-nicht-fahrfaehig-103664428",
       "summary": "Ein Auto geriet in Ennetbühl SG auf die Gegenfahrbahn und prallte frontal in ein entgegenkommendes Fahrzeug. Eine 38-jährige Frau musste ins Spital geflogen werden. Beim Unfall trat zudem Gas aus eine",
       "published": "2026-11-09T00:02:44.722756+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Rechtsruck mit Vorbehalt",
+      "url": "https://www.freiburger-nachrichten.ch/story/304023/rechtsruck-mit-vorbehalt",
+      "summary": "",
+      "published": "2026-11-09T00:32:26.253311+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der 13. Sitz gehörte Christine Jakob",
+      "url": "https://www.freiburger-nachrichten.ch/story/299820/der-13-sitz-geh%C3%B6rte-christine-jakob",
+      "summary": "",
+      "published": "2026-11-09T00:32:26.253311+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Die SP dominiert im Saanebezirk – Das/Was sorgt für Überraschung",
+      "url": "https://www.freiburger-nachrichten.ch/story/299819/die-sp-dominiert-im-saanebezirk-daswas-sorgt-f%C3%BCr-%C3%BCberraschung",
+      "summary": "",
+      "published": "2026-11-09T00:32:26.253311+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "SVP gewinnt, zwei Syndics verlieren: die Sensler Grossratswahlen im Überblick",
+      "url": "https://www.freiburger-nachrichten.ch/story/299818/svp-gewinnt-zwei-syndics-verlieren-die-sensler-grossratswahlen-im-%C3%BCberblick",
+      "summary": "",
+      "published": "2026-11-09T00:32:26.253311+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Staatsratswahlen: Die Entente triumphiert, die Linke muss sich neu ordnen",
+      "url": "https://www.freiburger-nachrichten.ch/story/299815/staatsratswahlen-die-entente-triumphiert-die-linke-muss-sich-neu-ordnen",
+      "summary": "",
+      "published": "2026-11-09T00:32:26.253311+00:00"
     }
   ]
 }
