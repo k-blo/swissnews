@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-09T17:02:59.254533+00:00",
+  "generated": "2026-11-09T17:32:30.043112+00:00",
   "date": "2026-11-09",
-  "count": 814,
+  "count": 843,
   "articles": [
     {
       "source": "Persönlich",
@@ -5700,6 +5700,209 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/trump-signalisiert-gespraechsbereitschaft-bei-immigration-art-1731200",
       "summary": "",
       "published": "2026-11-09T17:02:59.254533+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Video zeigt grosse Rauchsäule",
+      "url": "https://www.blick.ch/schweiz/zuerich/brand-im-bundesasylzentrum-zuerich/tyv2q1k",
+      "summary": "Im Bundesasylzentrum in Zürich ist am Montag gegen 17 Uhr ein Brand ausgebrochen. Die Stadtpolizei bestätigt den Einsatz, weitere Angaben lagen zunächst nicht vor.",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Luxus-Airline Beond streicht kurzfristig sämtliche Linienflüge",
+      "url": "https://www.blick.ch/schweiz/zuerich/chaos-bei-beond-saemtliche-linienfluege-fuer-einen-monat-gestrichen/f6z4ys9",
+      "summary": "Kaum wieder abgehoben, bleiben die Flieger der Luxus-Airline Beond erneut am Boden. Die Fluggesellschaft stellt sämtliche Linienflüge ein – auch jene von Zürich auf die Malediven. Passagiere müssen nu",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Brand im Bundes-Asylzentrum Zürich – Flammen schlagen aus Fenster",
+      "url": "https://www.blick.ch/schweiz/zuerich/brand-im-bundesasylzentrum-zuerich-ausgebrochen/jp9g481",
+      "summary": "Im Bundesasylzentrum in Zürich ist am Montag gegen 17 Uhr ein Brand ausgebrochen. Die Stadtpolizei bestätigt den Einsatz, weitere Angaben lagen zunächst nicht vor.",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gehackte Kühlsysteme: Cyberangriff auf Supermärkte: Frankreich beschuldigt den Iran",
+      "url": "https://www.tagesanzeiger.ch/cyberangriff-auf-supermaerkte-frankreich-beschuldigt-iran-398418364799",
+      "summary": "Die Attacke trifft die Kühlsysteme von rund 700 französischen Supermärkten. Aussenminister Barrot macht die iranische Revolutionsgarde verantwortlich und kündigt Sanktionen an.",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Baumprotest in Zürich-West: Quartiergruppe pflanzt Baum ohne Bewilligung – Zürich prüft rechtliche Schritte",
+      "url": "https://www.tagesanzeiger.ch/schiffbau-zuerich-quartiergruppe-pflanzt-illegal-einen-baum-625733436681",
+      "summary": "Seit 15 Jahren sieht ein Plan Bäume an der Schiffbaustrasse vor. Die Stadt Zürich will die Fläche nächstes Jahr entsiegeln und prüft rechtliche Schritte gegen die Aktion.",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Luftgitarre und Headbanging: Céline Dion steht bei Metallica im Publikum – und geht richtig ab",
+      "url": "https://www.tagesanzeiger.ch/celine-dion-feiert-mit-metallica-in-las-vegas-302259991350",
+      "summary": "Statt sanfter Balladen gab es harten Metal: Mitten im Publikum in Las Vegas spielte die 58-jährige Sängerin Luftgitarre. Anschliessend besuchte sie die Musiker zusammen mit Jack Black backstage.",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Netrebko-Konzert in Basel: «Damit wird suggeriert, dass Russland ein normales Land ist»",
+      "url": "https://www.bazonline.ch/anna-netrebko-petition-gegen-konzert-in-basel-690166581173",
+      "summary": "Am 30. November tritt die Sopranistin Anna Netrebko im Stadtcasino auf. Früher zeigte sie eine Nähe zum Kreml. Kritiker fordern mit einer Petition die Absage und lancieren eine Gegenveranstaltung.",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Aufstiegspläne: Der EHC Basel nimmt Kurs auf die National League",
+      "url": "https://www.bazonline.ch/ehc-basel-aufstieg-in-die-national-league-bis-2032-223536474704",
+      "summary": "Spätestens bis zum 100-jährigen Jubiläum 2032 wollen die Basler Eishockeyaner in die höchste Spielklasse aufgestiegen sein.",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Iran für Cyberangriffe verantwortlich",
+      "url": "https://www.zentralplus.ch/news/iran-fuer-cyberangriffe-verantwortlich-2910543/",
+      "summary": "Vor gut einem Monat sind hunderte Kühlschränke in französischen Supermärkten gehackt worden. Nun beschuldigt die französische Staatsanwaltschaft die iranischen Revolutionsgarden. Diese stünden hinter ",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Nvidia-Affäre: Auswirkungen auf Börse",
+      "url": "https://www.zentralplus.ch/news/nvidia-affaere-auswirkungen-auf-boerse-2910541/",
+      "summary": "Die eingeleitete Untersuchung gegen den Konzernchef von Nvidia, Jensen Huang, hat auch Auswirkungen auf die Kurse an der Wall Street und das Geschäft von Nvidia. «Die amerikanischen Investoren scheine",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Frankreich macht Iran für Hackerangriffe auf Kühlsysteme verantwortlich",
+      "url": "https://www.nzz.ch/international/frankreich-macht-iran-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-ld.10058965",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "«Persönlich»-Grafikerin bringt Erfolgsstück auf die Bühne",
+      "url": "https://www.persoenlich.com/gesellschaft/personlich-grafikerin-bringt-erfolgsstuck-auf-die-buhne",
+      "summary": "Das Theaterunternehmen Anda Kids, das von «persönlich»-Grafikerin Corinne Lüthi betrieben wird, bringt den Kinderbuchklassiker «Nils Holgerssons wunderbare Reise» auf die Bühne. Für Musik und Songs ze",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "In Daniel Badrauns «Mondläufer» wird ein erfundenes Leben zur Zuflucht",
+      "url": "https://www.shn.ch/region/stein-diessenhofen/2026-11-09/in-daniel-badrauns-mondlaeufer-wird-ein-erfundenes-leben-zur",
+      "summary": "Eine Sage vom Mond, ein Schriftsteller auf der Suche nach neuen Geschichten und ein inhaftierter Terrorist, der sich ein erfülltes Leben erfindet: Daniel Badrauns «Mondläufer» stellt die Frage, ob Ges",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Meta Co Erpressen wie die Mafia",
+      "url": "https://www.suedostschweiz.ch/graubuenden/meta-co-erpressen-wie-die-mafia-2227686",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Brand im Bundesasylzentrum Zürich das ist zur Ursache und Verletzten Bekannt",
+      "url": "https://www.suedostschweiz.ch/panorama/brand-im-bundesasylzentrum-zuerich-das-ist-zur-ursache-und-verletzten-bekannt-2228069",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Guide Michelin und Gault Millau im Linthgebiet Schafft es Nur Dieser Wirt in die Kränze",
+      "url": "https://www.suedostschweiz.ch/linth/guide-michelin-und-gault-millau-im-linthgebiet-schafft-es-nur-dieser-wirt-in-die-kraenze-2221571",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bierbar Hoperia in Muhen Schliesst Ende Jahr",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/bierbar-hoperia-in-muhen-schliesst-ende-jahr-ld.4264413",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Begabtenförderung Musik in Obwalden Jugendliche Spielen in Kerns",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/begabtenfoerderung-musik-in-obwalden-jugendliche-spielen-in-kerns-ld.4253399",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Werbung auf Schweizerdeutsch: Dieser Dialekt ist besonders beliebt",
+      "url": "https://www.watson.ch/schweiz/leben/320085990-werbung-auf-schweizerdeutsch-dieser-dialekt-ist-besonders-beliebt",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Frankreich: Iran hinter Cyberangriff auf Supermarkt-Kühlregale",
+      "url": "https://www.watson.ch/digital/international/545021142-frankreich-iran-hinter-cyberangriff-auf-supermarkt-kuehlregale",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Elon Musk wie einst Rockefeller – nur ist er viel gefährlicher",
+      "url": "https://www.watson.ch/international/analyse/709888719-elon-musk-wie-einst-rockefeller-nur-ist-er-viel-gefaehrlicher",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundesasylzentrum in Zürich brennt – Ursache unklar",
+      "url": "https://www.watson.ch/schweiz/zuerich/692742316-bundesasylzentrum-in-zuerich-brennt-ursache-unklar",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schauspieler Russell Brand zu zehneinhalb Jahren Haft verurteilt",
+      "url": "https://www.watson.ch/international/grossbritannien/135040250-schauspieler-russell-brand-zu-zehneinhalb-jahren-haft-verurteilt",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Russland an der WM? Kanadische Regierung bleibt hart und IIHF untersucht",
+      "url": "https://www.watson.ch/sport/eishockey/735382346-russland-an-der-wm-kanadische-regierung-bleibt-hart-und-iihf-untersucht",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Jordan Love sass lange nur auf der Bank – jetzt könnte er NFL-MVP werden",
+      "url": "https://www.watson.ch/sport/best-of-watson/559065928-jordan-love-sass-lange-nur-auf-der-bank-jetzt-koennte-er-nfl-mvp-werden",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Trump schürt Zweifel an rechtmässigem Wahlsieg der Demokraten",
+      "url": "https://www.watson.ch/international/usa/536192381-trump-schuert-zweifel-an-rechtmaessigem-wahlsieg-der-demokraten",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wo die Hähne um die Wette krähen",
+      "url": "https://www.freiburger-nachrichten.ch/story/303820/wo-die-h%C3%A4hne-um-die-wette-kr%C3%A4hen",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gelungener musikalischer Sonntagmorgen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/begabtenfoerderung-musik-in-obwalden-jugendliche-spielen-in-kerns-art-1731203",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Frankreich sieht Iran hinter Angriff auf Kühlanlagen",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/frankreich-sieht-iran-hinter-angriff-auf-kuehlanlagen-art-1731202",
+      "summary": "",
+      "published": "2026-11-09T17:32:30.043112+00:00"
     }
   ]
 }
