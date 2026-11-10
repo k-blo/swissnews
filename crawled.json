@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-09T23:32:24.290644+00:00",
+  "generated": "2026-11-10T00:02:12.586957+00:00",
   "date": "2026-11-10",
-  "count": 25,
+  "count": 26,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -177,6 +177,13 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/anpassung-an-den-klimawandel-soll-ins-baugesetz-art-1731175",
       "summary": "",
       "published": "2026-11-09T23:32:24.290644+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Spionageverdacht: Trump: FBI ermittelt bei Affäre des Nvidia-Chefs",
+      "url": "https://www.tagesanzeiger.ch/trump-fbi-ermittelt-bei-affaere-des-nvidia-chefs-213285503409",
+      "summary": "Nvidia-Chef Jensen Huang hatte eine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte. US-Präsident Donald Trump zeigt sich unbeeindruckt – trotz angeblicher FBI-Ermittlungen.",
+      "published": "2026-11-10T00:02:12.586957+00:00"
     }
   ]
 }
