@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T02:32:14.362419+00:00",
+  "generated": "2026-11-10T03:03:20.364397+00:00",
   "date": "2026-11-10",
-  "count": 35,
+  "count": 37,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -247,6 +247,20 @@
       "url": "https://www.watson.ch/digital/international/808525404-fbi-ermittelt-laut-trump-zu-affaere-des-nvidia-chefs-huang",
       "summary": "",
       "published": "2026-11-10T02:32:14.362419+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Weltweite CO2-Emissionen steigen – trotz Rückgang beim Öl",
+      "url": "https://www.20min.ch/story/klimakrise-weltweite-co2-emissionen-steigen-trotz-rueckgang-beim-oel-103664916",
+      "summary": "Die Welt verbraucht weniger Öl – und trotzdem steigen die klimaschädlichen Emissionen noch immer. Dabei hätte man eigentlich längst die Kurve bekommen müssen, um die Krise zu bändigen.",
+      "published": "2026-11-10T03:03:20.364397+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Klimakrise spitzt sich zu: Weltweite CO2-Emissionen steigen – trotz Rückgang beim Öl",
+      "url": "https://www.tagesanzeiger.ch/weltweite-co2-emissionen-steigen-trotz-rueckgang-beim-oel-275034268269",
+      "summary": "Die Welt verbraucht weniger Öl – und trotzdem steigen die klimaschädlichen Emissionen noch immer. Dabei hätte man eigentlich längst die Kurve bekommen müssen, um die Krise zu bändigen.",
+      "published": "2026-11-10T03:03:20.364397+00:00"
     }
   ]
 }
