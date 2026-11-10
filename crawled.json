@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T00:02:12.586957+00:00",
+  "generated": "2026-11-10T00:32:39.873961+00:00",
   "date": "2026-11-10",
-  "count": 26,
+  "count": 28,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -184,6 +184,20 @@
       "url": "https://www.tagesanzeiger.ch/trump-fbi-ermittelt-bei-affaere-des-nvidia-chefs-213285503409",
       "summary": "Nvidia-Chef Jensen Huang hatte eine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte. US-Präsident Donald Trump zeigt sich unbeeindruckt – trotz angeblicher FBI-Ermittlungen.",
       "published": "2026-11-10T00:02:12.586957+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kantonsrat will bei LUKB-Chefwechsel keine Eile",
+      "url": "https://www.zentralplus.ch/news/kantonsrat-will-bei-lukb-chefwechsel-keine-eile-2910552/",
+      "summary": "Der Chef geht in den Verwaltungsrat, sein Nachfolger kommt aus den eigenen Reihen. Das wirft im Luzerner Kantonsrat Fragen auf – besonders eilig wollte eine Mehrheit diese aber nicht behandeln. Der Lu",
+      "published": "2026-11-10T00:32:39.873961+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "FBI ermittelt im Fall von Nvidia-Chef",
+      "url": "https://www.zentralplus.ch/news/fbi-ermittelt-im-fall-von-nvidia-chef-2910573/",
+      "summary": "Das FBI ermittelt im Fall um Nvidia-Chef Jensen Huang und eine mutmassliche chinesische Spionin. Das sagte US-Präsident Donald Trump an einer Pressekonferenz im Weissen Haus. Ob sich die Ermittlungen ",
+      "published": "2026-11-10T00:32:39.873961+00:00"
     }
   ]
 }
