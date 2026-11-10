@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T18:32:12.552875+00:00",
+  "generated": "2026-11-10T19:02:42.751670+00:00",
   "date": "2026-11-10",
-  "count": 849,
+  "count": 860,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -5945,6 +5945,83 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/ag-sportbahnen-muss-reserven-anzapfen-art-1731357",
       "summary": "",
       "published": "2026-11-10T18:32:12.552875+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Feuerwerksinitiative – Welche Feuerwerke dürfen bleiben – und welche verschwinden?",
+      "url": "https://www.srf.ch/news/feuerwerksinitiative-welche-feuerwerke-duerfen-bleiben-und-welche-verschwinden",
+      "summary": "Grosse, öffentliche Feuerwerke sollen auch bei einem Ja zur Initiative noch möglich sein. Aber was ist damit gemeint?",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bis zu 310’000 Franken: So viel gibts 2027 in diesen Jobs",
+      "url": "https://www.20min.ch/story/gehaltsreport-2027-diese-skills-bleiben-trotz-haerterem-jobmarkt-gefragt-103665026",
+      "summary": "Für Berufseinsteigende wird der Eintritt in den Schweizer Arbeitsmarkt schwieriger. Gefragt bleiben Fachkräfte mit KI-Wissen, Erfahrung im Umgang mit gesetzlichen Vorschriften oder Verkaufstalent.",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Karotte» oder «arbeite»: Welche deutschen Wörter nerven dich?",
+      "url": "https://www.20min.ch/story/deutsche-woerter-im-schweizerdeutschen-was-nervt-euch-am-meisten-103665190",
+      "summary": "Mundart ist vielfältig – und verändert sich ständig. Doch wenn deutsche Begriffe oder Formulierungen im Schweizerdeutschen auftauchen, kann das einige stören. Dich auch?",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Generalstreik in Spanien: Die Wirtschaft boomt, doch der Missmut über die Sánchez-Regierung wächst",
+      "url": "https://www.tagesanzeiger.ch/spanien-erster-generalstreik-seit-14-jahren-529624183905",
+      "summary": "Die linke Regierung verweist auf gute Wirtschaftsdaten, auf der Strasse kämpfen Linke für bezahlbare Wohnungen, und in Umfragen führen die Rechten. Spanien bietet ein bizarres Bild vor den Wahlen.",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Klingt künstlich: In Südkorea steht ein KI-generierter Song an der Spitze der Charts",
+      "url": "https://www.tagesanzeiger.ch/suedkorea-ki-song-erobert-die-charts-952425030240",
+      "summary": "Eine mithilfe der Plattform Suno erzeugte Rockballade steigt in Südkoreas Charts auf. Viele Hörerinnen und Hörer erkennen zunächst nicht, dass kein menschlicher Interpret singt.",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Affäre von Nvidia-Chef: «Inzwischen erfolgt der Erstkontakt auch öfters über soziale Netzwerke»",
+      "url": "https://www.tagesanzeiger.ch/nvidia-chef-huang-basler-experte-erklaert-die-honeytrap-falle-726022527127",
+      "summary": "Chinas Geheimdienste verfügen über enorme Mittel. Im Interview erklärt der Basler China-Experte Ralph Weber die Risiken für Schweizer Firmen und ordnet den Fall Jensen Huang ein.",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Publica-Hack: Keine Forderung bekannt",
+      "url": "https://www.zentralplus.ch/news/publica-hack-keine-forderung-bekannt-2910784/",
+      "summary": "Das Staatssekretariat für Sicherheitspolitik Sepos reagiert auf SRF-Recherchen zum Angriff auf Daten der Bundespensionskasse Publica. Den Bundesbehörden seien keine konkreten Lösegeldforderungen an si",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Vier grosse Baustellen für die Zuger Regierung",
+      "url": "https://www.zentralplus.ch/news/vier-grosse-baustellen-fuer-die-zuger-regierung-2910780/",
+      "summary": "Der Zuger Regierungsrat hat grosse Pläne für die kommenden acht Jahre. Eine neue Strategie soll den Kanton auf künftige Herausforderungen vorbereiten. Der Zuger Regierungsrat hat seine Strategie für d",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Schratten Ältester Luzerner Skilift in Flühli Wird Rückgebaut",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/schratten-aeltester-luzerner-skilift-in-fluehli-wird-rueckgebaut-ld.4264994",
+      "summary": "",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Bald ist das alles Geschichte»&nbsp;– der älteste Luzerner Skilift kommt weg",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/schratten-aeltester-luzerner-skilift-in-fluehli-wird-rueckgebaut-art-1731432",
+      "summary": "",
+      "published": "2026-11-10T19:02:42.751670+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was wäre noch möglich? Feuerwerksinitiative verunsichert Schwyzer Veranstalter",
+      "url": "https://www.bote.ch/nachrichten/schwyz/was-waere-noch-moeglich-feuerwerksinitiative-verunsichert-schwyzer-veranstalter-art-1731366",
+      "summary": "",
+      "published": "2026-11-10T19:02:42.751670+00:00"
     }
   ]
 }
