@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T23:02:22.552320+00:00",
+  "generated": "2026-11-10T23:32:06.591998+00:00",
   "date": "2026-11-11",
-  "count": 6,
+  "count": 31,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -44,6 +44,181 @@
       "url": "https://www.freiburger-nachrichten.ch/story/304296/der-ehc-kerzers-unterliegt-den-ice-eagles-burgdorf",
       "summary": "",
       "published": "2026-11-10T23:02:22.552320+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Winterzauber mit de Tante Carmen» – ein bisschen Wärme zur Winterzeit",
+      "url": "https://www.bote.ch/nachrichten/schwyz/winterzauber-mit-de-tante-carmen-ein-bisschen-waerme-zur-winterzeit-art-1731397",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Würden Sie eingebürgert? Diese Fragen stellen die Schwyzer Gemeinden",
+      "url": "https://www.bote.ch/nachrichten/schwyz/wuerden-sie-eingebuergert-diese-fragen-stellen-die-schwyzer-gemeinden-art-1731385",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Starke Teamleistung der Steiner",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/starke-teamleistung-der-steiner-art-1731369",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Starke Schwyzer Turnleistungen gebührend geehrt",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/starke-schwyzer-turnleistungen-gebuehrend-geehrt-art-1731398",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Seewen steht vor wichtiger Bewährungsprobe",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/seewen-steht-vor-wichtiger-bewaehrungsprobe-art-1731376",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schwyzer Familie kann im Extremfall über 2000 Franken Prämien sparen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/schwyzer-familie-kann-im-extremfall-ueber-2000-franken-praemien-sparen-art-1731387",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Rachel Carmen: «Andere haben Kind, Haus und Hund, ich hab die Musik»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/rachel-carmen-andere-haben-kind-haus-und-hund-ich-hab-die-musik-art-1731362",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Neue Auszugsroute bei den Schwyzer Samichläusen",
+      "url": "https://www.bote.ch/nachrichten/vereine/neue-auszugsroute-bei-den-schwyzer-samichlaeusen-art-1731361",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Muss man KI-Musik anpreisen?",
+      "url": "https://www.bote.ch/service/leserbriefe/muss-man-ki-musik-anpreisen-art-1731420",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "LG Innerschwyz feierte grossartige Erfolge",
+      "url": "https://www.bote.ch/nachrichten/regionalsport/lg-innerschwyz-feierte-grossartige-erfolge-art-1731392",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Keine Wiederwahl ans Bundesgericht",
+      "url": "https://www.bote.ch/service/leserbriefe/keine-wiederwahl-ans-bundesgericht-art-1731425",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kammermusik im Talkessel",
+      "url": "https://www.bote.ch/nachrichten/schwyz/kammermusik-im-talkessel-art-1731399",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Junge sollen Politik verstehen, doch die Schwyzer Regierung blockt",
+      "url": "https://www.bote.ch/nachrichten/schwyz/junge-sollen-politik-verstehen-doch-die-schwyzer-regierung-blockt-art-1731355",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Jetzt wird auch in Ingenbohl für mehr günstige Wohnungen gekämpft",
+      "url": "https://www.bote.ch/nachrichten/schwyz/jetzt-wird-auch-in-ingenbohl-fuer-mehr-guenstige-wohnungen-gekaempft-art-1731408",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Jassclub reist nach Augsburg",
+      "url": "https://www.bote.ch/nachrichten/vereine/jassclub-reist-nach-augsburg-art-1731374",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Heiratsstrafe abschaffen – richtig",
+      "url": "https://www.bote.ch/service/leserbriefe/heiratsstrafe-abschaffen-richtig-art-1731370",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fairness statt Heiratsstrafe",
+      "url": "https://www.bote.ch/service/leserbriefe/fairness-statt-heiratsstrafe-art-1731427",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fairness sieht anders aus",
+      "url": "https://www.bote.ch/service/leserbriefe/fairness-sieht-anders-aus-art-1731426",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Fairness oder Steuer-Wirrwarr? Blunschy und Gössi kreuzen die Klingen zur Heiratsstrafe",
+      "url": "https://www.bote.ch/nachrichten/schwyz/fairness-oder-steuer-wirrwarr-blunschy-und-goessi-kreuzen-die-klingen-zur-heiratsstrafe-art-1731405",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Externer Investor soll ehemaliges Lehrerseminar in Rickenbach überbauen",
+      "url": "https://www.bote.ch/nachrichten/schwyz/externer-investor-soll-ehemaliges-lehrerseminar-in-rickenbach-ueberbauen-art-1731407",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Eine gemeinsame Steuererklärung",
+      "url": "https://www.bote.ch/service/leserbriefe/eine-gemeinsame-steuererklaerung-art-1731372",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein neues Metal-Festival für den Talkessel Schwyz",
+      "url": "https://www.bote.ch/nachrichten/schwyz/ein-neues-metal-festival-fuer-den-talkessel-schwyz-art-1731359",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Ein Leseerlebnis in Steinen",
+      "url": "https://www.bote.ch/nachrichten/vereine/ein-leseerlebnis-in-steinen-art-1731379",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bald ist Moosfahrt: «Es gibt nichts Gröberes in Muotathal»",
+      "url": "https://www.bote.ch/nachrichten/schwyz/bald-ist-moosfahrt-es-gibt-nichts-groeberes-in-muotathal-art-1731356",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "20 Millionen für den Allerwertesten",
+      "url": "https://www.bote.ch/service/leserbriefe/20-millionen-fuer-den-allerwertesten-art-1731424",
+      "summary": "",
+      "published": "2026-11-10T23:32:06.591998+00:00"
     }
   ]
 }
