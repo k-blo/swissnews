@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T02:02:08.137830+00:00",
+  "generated": "2026-11-10T02:32:14.362419+00:00",
   "date": "2026-11-10",
-  "count": 33,
+  "count": 35,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -233,6 +233,20 @@
       "url": "https://www.nebelspalter.ch/themen/2026/11/die-amerikanische-demokratie-lebt-donald-trump-hat-die-zwischenwahlen-zu-recht-verloren",
       "summary": "",
       "published": "2026-11-10T01:32:29.063429+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Druck auf Pentagon-Chef: Amtsenthebung von Hegseth beantragt – Trump stellt sich hinter ihn",
+      "url": "https://www.tagesanzeiger.ch/hegseth-zweiter-amtsenthebungsantrag-von-republikanern-239194850397",
+      "summary": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Pete Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich.",
+      "published": "2026-11-10T02:32:14.362419+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "FBI ermittelt laut Trump zu Affäre des Nvidia-Chefs Huang",
+      "url": "https://www.watson.ch/digital/international/808525404-fbi-ermittelt-laut-trump-zu-affaere-des-nvidia-chefs-huang",
+      "summary": "",
+      "published": "2026-11-10T02:32:14.362419+00:00"
     }
   ]
 }
