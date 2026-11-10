@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T12:32:25.709525+00:00",
+  "generated": "2026-11-10T13:02:30.709526+00:00",
   "date": "2026-11-10",
-  "count": 480,
+  "count": 515,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3362,6 +3362,251 @@
       "url": "https://www.bote.ch/nachrichten/sport/nati-vor-dem-wiederaufstieg-in-stgallen-ein-punkt-fehlt-noch-zum-gruppensieg-art-1731352",
       "summary": "",
       "published": "2026-11-10T12:32:25.709525+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nach Brand im Asylzentrum: Zwei Personen festgenommen",
+      "url": "https://www.20min.ch/story/zuerich-kreis-5-nach-brand-im-asylzentrum-zwei-personen-festgenommen-103665177",
+      "summary": "Nachdem am Montag in einem Zimmer des Bundesasylzentrums ein Brand ausbrach und vier Personen verletzt wurden, gibt die Stadtpolizei neue Details bekannt.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Ermittlungen gegen 24-Jährigen: Klinikchef stirbt auf Autobahn",
+      "url": "https://www.20min.ch/story/deutschland-ermittlungen-gegen-24-jaehrigen-klinikchef-stirbt-auf-autobahn-103665164",
+      "summary": "Ein 24-Jähriger soll mit hohem Tempo in das Auto des Ingolstädter Klinikchefs Andreas Tiete (63) gekracht sein. Der Herzchirurg starb. Die Staatsanwaltschaft ermittelt.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Hegseth unter Druck: Diese Vorwürfe belasten ihn",
+      "url": "https://www.20min.ch/story/impeachment-hegseth-unter-druck-diese-vorwuerfe-belasten-ihn-103665155",
+      "summary": "Der selbsternannte Kriegsminister der USA sieht sich mit einem Amtsenthebungsverfahren konfrontiert. In seiner Zeit als Verteidigungsminister sorgte er immer wieder für Skandale und Aufsehen.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verdacht gegen Nvidia-Chef: «The Spy Who Loved Me»? – Die Honigfalle ist ein Klassiker der Spionage",
+      "url": "https://www.tagesanzeiger.ch/jensen-huang-was-ist-eine-honigfalle-im-geheimdienst-186981090210",
+      "summary": "Von Mata Hari über die Stasi-Romeos bis zur Profumo-Affäre: Der Verdacht gegen Jensen Huang zeigt, wie intime Beziehungen in der Spionage genutzt wurden.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Flughafen Zürich: Luxusflieger Beond streicht schon wieder alle Linienflüge",
+      "url": "https://www.tagesanzeiger.ch/beond-streicht-alle-linienfluege-ab-zuerich-bis-ende-november-473882238396",
+      "summary": "Einmal kam Beond im Oktober nach Zürich, danach fielen die Flüge aus. Bis Ende November wurden sie nun gestrichen.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "«Dritte Halbzeit» zu Essendes Toren: «Sein älterer Bruder ist ermordet worden, als er sechs war»",
+      "url": "https://www.bernerzeitung.ch/samuel-essende-yb-torjaeger-auf-kurs-zum-clubrekord-885047057434",
+      "summary": "YB-Stürmer Samuel Essende steht bei 15 Saisontoren und nähert sich dem Clubrekord von Jean-Pierre Nsame. Ein Interview zeigt seine facettenreiche Persönlichkeit.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Über 80 Fahrzeuge involviert: Elf Tote nach Massenkarambolagen auf bulgarischer Autobahn",
+      "url": "https://www.bernerzeitung.ch/bulgarien-massenkarambolage-fordert-ueber-10-tote-auf-autobahn-441600025160",
+      "summary": "Bei zwei Massenkarambolagen nahe Jambol sind elf Menschen ums Leben gekommen, Dutzende wurden verletzt. Die Behörden nennen dichten Nebel als mögliche Ursache.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "«Dritte Halbzeit» zu FCB-Krise: «Er ist der, der die grossen Töne spuckt – und was leistet er? Er versaut den Match»",
+      "url": "https://www.bazonline.ch/fc-basel-kein-gefuege-nach-13-super-league-runden-380814369572",
+      "summary": "Nach dem 3:3 gegen Thun zeigen Interviews von Daniliuc und Trainer Jokanovic: Dem FC Basel fehlen Hierarchie und Leader in der Kabine – Captain Omlin blieb den Medien zudem fern.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Stadt investiert Millionen ins Abwassernetz",
+      "url": "https://www.zentralplus.ch/news/stadt-investiert-millionen-ins-abwassernetz-2910669/",
+      "summary": "Die Stadt Luzern will rund 100 Millionen Franken in ihr Abwassernetz investieren. Ab 2029 könnten zudem die Abwassergebühren steigen. Die Stadt Luzern plant bis 2035 Investitionen von rund 100 Million",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Künstliche Intelligenz berät Eltern",
+      "url": "https://www.zentralplus.ch/news/kuenstliche-intelligenz-beraet-eltern-2910694/",
+      "summary": "Die Stiftung Pro Juventute setzt bei der Elternberatung künftig künstliche Intelligenz ein. Ab nächstem Jahr können Eltern per Whatsapp Fragen stellen, die dann von einem KI-Assistenten von Pro Juvent",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Es geht um mehr als letztes Mal»",
+      "url": "https://www.zentralplus.ch/news/es-geht-um-mehr-als-letztes-mal-2910686/",
+      "summary": "Die neuen Ukraine-Gespräche seien anders als diejenigen in Genf im Februar, sagt Fredy Gsteiger, der sich bei SRF mit Sicherheitspolitik befasst. Es gehe nicht mehr nur um einen Waffenstillstand, sond",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Nvidia-Affäre: Jensen Huang kämpfte für lockerere Chipexporte nach China – doch nun drohen schärfere Kontrollen",
+      "url": "https://www.nzz.ch/wirtschaft/nvidia-affaere-jensen-huang-kaempfte-fuer-lockerere-chipexporte-nach-china-doch-nun-drohen-schaerfere-kontrollen-ld.10059482",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "In Neuhausen stinkt es, findet ein SVP-Einwohnerrat – nun macht er Druck bei der Gemeinde",
+      "url": "https://www.shn.ch/region/neuhausen/2026-11-10/in-neuhausen-stinkt-es-findet-ein-svp-einwohnerrat-nun-macht-er-druck",
+      "summary": "Herbert Hirsiger stinkt es. Zum einen ärgert er sich über eine Geruchsbelästigung im Sommer. Zum anderen darüber, wie der Gemeinderat mit ihm kommunizierte.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Samuel Ballet: Er sorgt mit speziellem Klub in der Türkei für Furore",
+      "url": "https://www.shn.ch/sport/fussball/2026-11-10/samuel-ballet-er-sorgt-mit-speziellem-klub-in-der-tuerkei-fuer-furore",
+      "summary": "Der 25-jährige Berner hat von Nati-Coach Murat Yakin erstmals ein Aufgebot erhalten. Ballet zeigt sich ambitioniert und ist eingerückt mit dem Ziel, Spuren zu hinterlassen.",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Digitalisierung Initiative Geht einen Wichtigen Schritt Weiter",
+      "url": "https://www.luzernerzeitung.ch/meinung/leserbriefe-lz/digitalisierung-initiative-geht-einen-wichtigen-schritt-weiter-ld.4259875",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Xshama Geboren Basler Zolli Feiert Nashorn Nachwuchs",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/xshama-geboren-basler-zolli-feiert-nashorn-nachwuchs-ld.4264866",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Brand in Zürcher Bundesasylzentrum: Polizei nimmt zwei Personen fest",
+      "url": "https://www.watson.ch/schweiz/polizeirapport/617779360-brand-in-zuercher-bundesasylzentrum-polizei-nimmt-zwei-personen-fest",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Pro Juventute lanciert Chatbot für Elternberatung",
+      "url": "https://www.watson.ch/schweiz/gesundheit/700415230-pro-juventute-lanciert-chatbot-fuer-elternberatung",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fall Fabian in Deutschland: Gina H. muss lebenslang ins Gefängnis",
+      "url": "https://www.watson.ch/international/deutschland/786881402-fall-fabian-in-deutschland-gina-h-muss-lebenslang-ins-gefaengnis",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Massenkarambolage auf Autobahn in Bulgarien fordert 10 Tote",
+      "url": "https://www.watson.ch/videos/strasse/635134035-massenkarambolage-auf-autobahn-in-bulgarien-fordert-10-tote",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Anthropic peilt Börsenbewertung von einer Billion Dollar an",
+      "url": "https://www.watson.ch/wirtschaft/wirtschafts-news/623691737-anthropic-peilt-boersenbewertung-von-einer-billion-dollar-an",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Lina Dschuni formt im Libanon Bombensplitter zu Skulpturen",
+      "url": "https://www.watson.ch/international/iran/987062156-lina-dschuni-formt-im-libanon-bombensplitter-zu-skulpturen",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nachwuchs bei den Panzernashörnern im Zoo Basel",
+      "url": "https://www.watson.ch/schweiz/basel/499551562-nachwuchs-bei-den-panzernashoernern-im-zoo-basel",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "On wächst weiter und steigert Gewinn",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/620638540-on-waechst-weiter-und-steigert-gewinn",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sportnews-Ticker: Neunte Operation für Lindsey Vonn",
+      "url": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-neunte-operation-fuer-lindsey-vonn",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nach Privatjet-Absturz in Florida bergen Ermittler Stimmenrekorder",
+      "url": "https://www.watson.ch/international/blaulicht/176791362-nach-privatjet-absturz-in-florida-bergen-ermittler-stimmenrekorder",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Ölpreis fällt erstmals seit August unter 90 Dollar",
+      "url": "https://www.watson.ch/wirtschaft/iran/311086465-oelpreis-faellt-erstmals-seit-august-unter-90-dollar",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So realistisch ist ein Impeachment von Pete Hegseth",
+      "url": "https://www.watson.ch/international/iran/371119856-so-realistisch-ist-ein-impeachment-von-pete-hegseth",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Roggerio Nyakossi: Der Nati-Abwehrchef der Zukunft ohne Akanji/Elvedi?",
+      "url": "https://www.watson.ch/sport/fussball/310189689-roggerio-nyakossi-der-nati-abwehrchef-der-zukunft-ohne-akanji-elvedi",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So geht E-Auto: Skodas kleinster Stromer Epiq überzeugt im Alltagstest",
+      "url": "https://www.watson.ch/digital/auto/308102059-so-geht-e-auto-skodas-kleinster-stromer-epiq-ueberzeugt-im-alltagstest",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So problematisch ist Tintenfisch von Coop, Aldi und Globus",
+      "url": "https://www.watson.ch/schweiz/food/307971024-so-problematisch-ist-tintenfisch-von-coop-aldi-und-globus",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "KFC bringt Fast-Food-Küche auf Italiens Skipisten – und sorgt für Unmut",
+      "url": "https://www.watson.ch/international/leben/422809378-kfc-bringt-fast-food-kueche-auf-italiens-skipisten-und-sorgt-fuer-unmut",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Nooch»-Betreiber verkaufen Mehrheit an deutsche Gustoso-Gruppe",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/859765196-nooch-betreiber-verkaufen-mehrheit-an-deutsche-gustoso-gruppe",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polizist bei Explosion in Spanien ums Leben gekommen",
+      "url": "https://www.watson.ch/international/spanien/254253280-polizist-bei-explosion-in-spanien-ums-leben-gekommen",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Spannender FIFA-Machtkampf: Tritt Wenger gegen Infantino an?",
+      "url": "https://www.bote.ch/nachrichten/sport/machtkampf-bei-der-fifa-wenger-als-gegenkandidat-art-1731354",
+      "summary": "",
+      "published": "2026-11-10T13:02:30.709526+00:00"
     }
   ]
 }
