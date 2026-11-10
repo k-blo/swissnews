@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T13:02:30.709526+00:00",
+  "generated": "2026-11-10T13:33:04.210397+00:00",
   "date": "2026-11-10",
-  "count": 515,
+  "count": 550,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3607,6 +3607,251 @@
       "url": "https://www.bote.ch/nachrichten/sport/machtkampf-bei-der-fifa-wenger-als-gegenkandidat-art-1731354",
       "summary": "",
       "published": "2026-11-10T13:02:30.709526+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Causa Blausee – Urteil im Fall zum Steinbruch Mitholz: Unternehmer schuldig",
+      "url": "https://www.srf.ch/news/schweiz/causa-blausee-urteil-im-fall-zum-steinbruch-mitholz-unternehmer-schuldig",
+      "summary": "Im Umweltskandal Mitholz gibt es ein Urteil. Der Berner Transportunternehmer wurde schuldig gesprochen.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Nach Brand im Bundesasylzentrum Zürich – zwei Personen festgenommen",
+      "url": "https://www.blick.ch/schweiz/zuerich/zwei-festnahmen-nach-brand-im-zuercher-bundesasylzentrum/ltg6zjk",
+      "summary": "Am Montag brach in einem Zimmer im Bundesasylzentrum im Zürcher Kreis 5 ein Brand aus. Vier Personen mussten zur Überprüfung ins Spital gebracht werden. Die Stadtpolizei Zürich nahm zwei Personen fest",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Auffahrunfall mit vier Fahrzeugen auf A14 bei Dietwil AG",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/zug/dietwil-ag-auffahrunfall-mit-vier-beteiligten-fahrzeugen/50ls14p",
+      "summary": "Auf der Autobahn A14 ist es am Dienstagmorgen zu einem Auffahrunfall mit vier beteiligten Fahrzeugen gekommen. Zwei Personen wurden leicht verletzt. An drei Fahrzeugen entstand Totalschaden.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "4000 Tonnen verschmutztes Material illegal entsorgt – verurteilt",
+      "url": "https://www.20min.ch/story/blausee-prozess-4000-tonnen-verschmutztes-material-illegal-entsorgt-verurteilt-103665046",
+      "summary": "Das Gericht hat im Blausee-Prozess den Geschäftsführer eines Transportunternehmens verurteilt. Er hatte rund 4000 Tonnen verschmutztes Material als sauberen Aushub deklariert, um Kosten zu sparen.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "1000 Liter Salzsäure ausgelaufen – Dampfwolke bildet sich",
+      "url": "https://www.20min.ch/story/liestal-bl-1000-liter-salzsaeure-ausgelaufen-103665202",
+      "summary": "Am Dienstag kommt es in Liestal zu einem Industrieunfall. Offenbar sind ungefähr 1000 Liter Salzsäure ausgelaufen.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Benjamin Fisch löst Sandro Brotz als «Arena»-Moderator ab",
+      "url": "https://www.20min.ch/story/politikjournalist-benjamin-fisch-loest-sandro-brotz-als-arena-moderator-ab-103665187",
+      "summary": "Nach dem Abgang von Sandro Brotz erhält die SRF-Politsendung «Arena» einen neuen Moderator: Politikjournalist Benjamin Fisch übernimmt voraussichtlich ab Februar 2027 den grössten Teil der Ausgaben.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sensible Daten vom Bund erbeutet: Verwirrung um Lösegeld",
+      "url": "https://www.20min.ch/story/publica-hack-hackergruppe-akira-fordert-loesegeld-und-droht-mit-datenverkauf-103664955",
+      "summary": "Nach dem Hackerangriff auf einen Softwarelieferanten von Publica befasste sich der Bundesrat unter Geheimhaltung mit dem Fall. Die Hackergruppe Akira soll nun Lösegeld gefordert haben.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Vom «Blick» zu SRF: Benjamin Fisch wird neuer Moderator der «Arena»",
+      "url": "https://www.tagesanzeiger.ch/srf-arena-benjamin-fisch-wird-neuer-moderator-2027-789080004595",
+      "summary": "Der Politjournalist wird ab Februar durch die Sendung führen. Er ersetzt Sandro Brotz, der seinerseits zum «Blick» wechselt.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Umweltkrimi Blausee: Urkundenfälschung und Sachbeschädigung: Berner Transporteur teilweise schuldig gesprochen",
+      "url": "https://www.bernerzeitung.ch/betrug-sachbeschaedigung-gewaesserverschmutzung-urteilsverkuendung-im-fall-blausee-970116459893",
+      "summary": "Ein Unternehmer brachte verschmutzte Abfälle in den Steinbruch Mitholz – jetzt wurde er dafür teilweise verurteilt.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Verdacht gegen Nvidia-Chef: «The Spy Who Loved Me»? Die Honigfalle ist ein Klassiker der Spionage",
+      "url": "https://www.bernerzeitung.ch/jensen-huang-was-ist-eine-honigfalle-im-geheimdienst-186981090210",
+      "summary": "Von Mata Hari über die Stasi-Romeos bis zur Profumo-Affäre: Der Verdacht gegen Jensen Huang zeigt, wie intime Beziehungen in der Spionage genutzt wurden.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Grüne nominieren Ständeratskandidatin",
+      "url": "https://www.zentralplus.ch/news/gruene-nominieren-staenderatskandidatin-2910695/",
+      "summary": "Die Luzerner Grünen schicken Irina Studhalter ins Ständeratsrennen. Die 33-Jährige wurde von ihrer Partei einstimmig nominiert. Die Grünen Kanton Luzern haben Irina Studhalter einstimmig als Ständerat",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "«Bund soll kein Lösegeld zahlen»",
+      "url": "https://www.zentralplus.ch/news/bund-soll-kein-loesegeld-zahlen-2910698/",
+      "summary": "Nach dem Datendiebstahl bei einem Softwarelieferanten der Bundespensionskasse Publica solle der Bund nicht auf die Lösegeldforderung der Hacker eingehen. Das sagt der Cybersicherheitsexperte Nicolas M",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Anthropic: Panne zum Start der IPO-Werbetour",
+      "url": "https://www.finews.ch/news/finanzplatz/74414-anthropic-ipo-69-3-milliarden-dollar-einsammeln-unternehmen-zieht-die-angaben-wieder-zurueck",
+      "summary": "Der KI-Entwickler Anthropic will an der Börse bis zu 69,3 Milliarden Dollar einsammeln. Doch kurz nach dem Versand der Emissionsdetails an beteiligte Banken zog das Unternehmen die Angaben wieder zurü",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "UBS sieht wieder etwas geringers Immobilienblasenrisiko",
+      "url": "https://www.finews.ch/news/finanzplatz/74413-ubs-immobilien-balsenrisiko-q3-2026",
+      "summary": "Das Risiko einer Immobilienblase in der Schweiz hat im dritten Quartal 2026 leicht abgenommen. Die Preise steigen zwar weiter deutlich, die Erholung der Konjunktur und die Einkommensentwicklung lässt ",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "IAZI: Druck Auf Schweizer Wohnimmobilienmarkt bleibt hoch",
+      "url": "https://www.finews.ch/news/finanzplatz/74412-iazi-studie-immobilien-kanton-zuerich-neubau-bedarf",
+      "summary": "Auch wenn der Bedarf an neuem Wohnraum durch die leicht tiefere Zuwanderung nicht mehr so stark wächst wie in den Vorjahren, der Wohnungsbau hält mit dem Bedarf weiterhin nicht Schritt. Laut einer Stu",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Industriezulieferer Erowa bestätigt möglichen Datenabfluss",
+      "url": "https://www.inside-it.ch/erowa-bestaetigt-moeglichen-datenabfluss-20261110",
+      "summary": "Das Unternehmen aus dem Kanton Luzern hat Mitte Oktober einen Ransomware-Angriff auf seine IT-Infrastruktur festgestellt. Teile der Server wurden verschlüsselt.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "OVHcloud schafft neuen Channel-Vertrieb für DACH-Region",
+      "url": "https://www.inside-it.ch/ovhcloud-schafft-neuen-channel-vertrieb-fuer-dach-region-20261110",
+      "summary": "Der Cloud-Anbieter will sich stärker auf die regulierten Märkte Public Sector, Healthcare und Banking fokussieren. Die Vertriebsleitung übernimmt Stefan Bodenburg.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Benjamin Fisch wird «Arena»-Moderator",
+      "url": "https://www.persoenlich.com/medien/benjamin-fisch-wird-arena-moderator",
+      "summary": "Der Blick-Journalist wechselt Anfang 2027 zu SRF und folgt auf Sandro Brotz, der seinerseits zu Blick wechselt. Seine erste Sendung ist voraussichtlich im Februar zu sehen.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "SRF hat die Nachfolge von Sandro Brotz bei der «Arena» geklärt",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-11-10/srf-hat-die-nachfolge-von-sandro-brotz-bei-der-arena-geklaert",
+      "summary": "Benjamin Fisch wird neuer Moderator der Politiksendung «Arena». Dies vermeldet SRF am Dienstag. Fisch ist bislang als Videojournalist und Moderator beim «Blick» tätig.",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Bilanz",
+      "title": "Die Website Worldwinerymap Verortet Weingüter und Parzellen",
+      "url": "https://www.bilanz.ch/enjoy/wein/die-website-worldwinerymap-verortet-weingueter-und-parzellen/x3w96mz",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Black Friday 2026 Warum Du Nicht Bis zum 27 November Warten Solltest",
+      "url": "https://www.suedostschweiz.ch/panorama/black-friday-2026-warum-du-nicht-bis-zum-27-november-warten-solltest-2228877",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Frick Ersetzt Boden der Mehrzweckhalle 1958",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/frick-ersetzt-boden-der-mehrzweckhalle-1958-ld.4264416",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Laura Spichtig und Raisa Durandi Erhalten Werkbeiträge",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/laura-spichtig-und-raisa-durandi-erhalten-werkbeitraege-ld.4264583",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Glp Obwalden Unterstützt Drei Vorlagen und Lehnt eine Ab",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/glp-obwalden-unterstuetzt-drei-vorlagen-und-lehnt-eine-ab-ld.4264553",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Gelungene Premiere Trumpf mit Genuss Begeisterte über 40 Jassfreunde",
+      "url": "https://www.urnerzeitung.ch/leserbeitrag/uz/gelungene-premiere-trumpf-mit-genuss-begeisterte-ueber-40-jassfreunde-ld.4264341",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Arte Uri in Flüelen Ausstellung mit Grossem Publikumsinteresse",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/arte-uri-in-flueelen-ausstellung-mit-grossem-publikumsinteresse-ld.4264260",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Gelungene Premiere mit Viel Humor und Einem Grossen Schuldenberg",
+      "url": "https://www.urnerzeitung.ch/leserbeitrag/uz/gelungene-premiere-mit-viel-humor-und-einem-grossen-schuldenberg-ld.4263738",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Trio Ausstellung im Schloss A Pro",
+      "url": "https://www.urnerzeitung.ch/leserbeitrag/uz/trio-ausstellung-im-schloss-a-pro-ld.4261462",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Tafers-Freiburg unter Druck, Villars bleibt auf Kurs",
+      "url": "https://www.freiburger-nachrichten.ch/story/304405/tafersfreiburg-unter-druck-villars-bleibt-auf-kurs",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "K.o.-Tropfen lassen sich jetzt länger nachweisen",
+      "url": "https://www.freiburger-nachrichten.ch/story/304419/kotropfen-lassen-sich-jetzt-l%C3%A4nger-nachweisen",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Kaufmann und Senti bestätigen Gang in die zweite Runde",
+      "url": "https://www.freiburger-nachrichten.ch/story/304092/kaufmann-und-senti-best%C3%A4tigen-gang-in-die-zweite-runde",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Arte Uri in Flüelen: Zwölf Kunstschaffende zeigen beeindruckende Vielfalt",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/arte-uri-in-flueelen-ausstellung-mit-grossem-publikumsinteresse-art-1731365",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Die GLP Obwalden sagt dreimal Ja und einmal Nein",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/glp-obwalden-unterstuetzt-drei-vorlagen-und-lehnt-eine-ab-art-1731364",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Werkbeiträge gehen an Laura Spichtig und Raisa Durandi",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/laura-spichtig-und-raisa-durandi-erhalten-werkbeitraege-art-1731363",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Schüsse in Hamburg&nbsp;– Tatverdächtiger tot in Hotel",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/schuesse-in-hamburg-tatverdaechtiger-tot-in-hotel-art-1731360",
+      "summary": "",
+      "published": "2026-11-10T13:33:04.210397+00:00"
     }
   ]
 }
