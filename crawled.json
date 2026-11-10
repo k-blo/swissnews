@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T01:02:32.841574+00:00",
+  "generated": "2026-11-10T01:32:29.063429+00:00",
   "date": "2026-11-10",
-  "count": 29,
+  "count": 33,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -205,6 +205,34 @@
       "url": "https://www.zentralplus.ch/news/81-jaehriger-autor-gewinnt-booker-preis-2910575/",
       "summary": "Der englische Buchautor M. John Harrison erhält den diesjährigen Booker-Preis. Es ist der wichtigste Literaturpreis Grossbritanniens. Ausgezeichnet wird er für seinen Roman «The End of Everything». M.",
       "published": "2026-11-10T01:02:32.841574+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Tötungsdelikt auf Kreuzfahrtschiff: FBI meldet Festnahme",
+      "url": "https://www.20min.ch/story/msc-seascape-in-texas-toetungsdelikt-auf-kreuzfahrtschiff-fbi-meldet-festnahme-103664910",
+      "summary": "Auf einem Kreuzfahrtschiff kommt ein Mensch ums Leben. Kurz nach dem Einlaufen in einen Hafen in Texas wird eine Person festgenommen. Vieles ist noch unklar.",
+      "published": "2026-11-10T01:32:29.063429+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Hässliche Seite von Metoo Vernünftiges zur Protestkultur und wie Linke Sich über Mord Freuen",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/die-haessliche-seite-von-metoo-vernuenftiges-zur-protestkultur-und-wie-linke-sich-ueber-mord-freuen",
+      "summary": "",
+      "published": "2026-11-10T01:32:29.063429+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "William Nordhaus Versuchte Vernunft in die Klimadebatte zu Bringen",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/william-nordhaus-versuchte-vernunft-in-die-klimadebatte-zu-bringen",
+      "summary": "",
+      "published": "2026-11-10T01:32:29.063429+00:00"
+    },
+    {
+      "source": "Nebelspalter",
+      "title": "Die Amerikanische Demokratie Lebt Donald Trump Hat die Zwischenwahlen zu Recht Verloren",
+      "url": "https://www.nebelspalter.ch/themen/2026/11/die-amerikanische-demokratie-lebt-donald-trump-hat-die-zwischenwahlen-zu-recht-verloren",
+      "summary": "",
+      "published": "2026-11-10T01:32:29.063429+00:00"
     }
   ]
 }
