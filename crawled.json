@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T14:02:10.390625+00:00",
+  "generated": "2026-11-10T14:32:23.212437+00:00",
   "date": "2026-11-10",
-  "count": 582,
+  "count": 612,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -4076,6 +4076,216 @@
       "url": "https://www.bote.ch/nachrichten/zentralschweiz/pro-natura-uri-kinder-bauen-igelhaus-und-wildbienen-hilfen-art-1731367",
       "summary": "",
       "published": "2026-11-10T14:02:10.390625+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Zwei Personen verhaftet – Polizei Zürich vermutet Brandstiftung bei Asylzentrum",
+      "url": "https://www.srf.ch/news/schweiz/zwei-personen-verhaftet-polizei-zuerich-vermutet-brandstiftung-bei-asylzentrum",
+      "summary": "Wegen Verdachts auf eine Rauchgasintoxikation mussten vier Personen ins Spital gebracht werden.",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Causa Blausee – «Keine Bagatelle»: Gericht verurteilt Transportunternehmer",
+      "url": "https://www.srf.ch/news/schweiz/causa-blausee-keine-bagatelle-gericht-verurteilt-transportunternehmer",
+      "summary": "Im Umweltskandal Mitholz gibt es ein Urteil. Der Berner Transportunternehmer wurde schuldig gesprochen.",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "17-Jähriger bei Verkehrsunfall schwer verletzt",
+      "url": "https://www.20min.ch/story/kriessern-sg-17-jaehriger-bei-verkehrsunfall-schwer-verletzt-103665227",
+      "summary": "Am Dienstagmorgen ereignete sich in Kriessern ein Unfall zwischen zwei Fahrzeuge. Der Lenker des Landwirtschaftsfahrzeugs musste nach der Erstversorgung ins Spital gebracht werden.",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fortschritt in der Rechtsmedizin: Zürcher Forschende finden verlässlicheren Weg, K.-o.-Tropfen nachzuweisen",
+      "url": "https://www.tagesanzeiger.ch/k-o-tropfen-uzh-findet-neuen-nachweismarker-574125335976",
+      "summary": "Ein Team der Universität Zürich untersucht einen Zucker im Urin, der auf die Einnahme von K.-o.-Tropfen hinweisen soll. Der Clou: Der Körper baut ihn viel langsamer ab als die Droge GHB.",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Ellen von Unwerth im Interview: «Ein Kuss zwischen zwei Frauen war ein Skandal – heute ist er banal»",
+      "url": "https://www.tagesanzeiger.ch/ellen-von-unwerth-toiletpaper-kalender-und-40-jahre-mode-660658239197",
+      "summary": "Sie wuchs als Waise auf, zog mit einem Zirkus umher und wurde schliesslich eine weltberühmte Fotografin. Ein Gespräch über Tabubrüche und ihren Kalender für das Kultmagazin «Toiletpaper».",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Skandal beim Techgiganten: Wer ist Nico Caprez? Dieser Schweizer könnte nach dem Spionagefall bei Nvidia auf Jensen Huang folgen",
+      "url": "https://www.bernerzeitung.ch/nico-caprez-buendner-als-nvidia-nachfolger-von-jensen-huang-774223309137",
+      "summary": "Der Bündner war früher Skiprofi und mit Wendy Holdener zusammen. Heute ist er Schwiegersohn des Techchefs – und wird in internationalen Medien als möglicher Nachfolger gehandelt.",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "US-Minister Hegseth weist Vorwürfe ab",
+      "url": "https://www.zentralplus.ch/news/us-minister-hegseth-weist-vorwuerfe-ab-2910717/",
+      "summary": "US-Verteidigungsminister Pete Hegseth hat das angestrebte Amtsenthebungsverfahren gegen sich als Farce und Sabotage bezeichnet. An einer Medienkonferenz in Washington sagte er, noch nie sei ein US-Ver",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Crash auf der A14 fordert zwei Verletzte",
+      "url": "https://www.zentralplus.ch/news/crash-auf-der-a14-fordert-zwei-verletzte-2910701/",
+      "summary": "Vier Autos, drei Totalschäden und zwei Verletzte: Ein Unfall auf der A14 sorgte für Chaos im Morgenverkehr. Auf der A14 kam es am Dienstagmorgen in Dietwil zu einem Auffahrunfall mit vier beteiligten ",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Salzsäure in Liestal ausgetreten",
+      "url": "https://www.zentralplus.ch/news/salzsaeure-in-liestal-ausgetreten-2910711/",
+      "summary": "In Liestal im Kanton Basel-Landschaft sind am Dienstag rund 1000 Liter flüssige Salzsäure ausgelaufen. Die Kantonspolizei bestätigte den Vorfall auf Anfrage von SRF. Daraus bildet sich eine Dampfwolke",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "Avaloq lanciert Plattform für US-Vermögensverwalter",
+      "url": "https://www.finews.ch/news/finanzplatz/74423-avaloq-expansion-usa-plattform-mosaic-weath-manager",
+      "summary": "Der Schweizer Wealth-Tech-Anbieter Avaloq expandiert in den US-amerikanischen Vermögensverwaltungsmarkt.",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Urs Prantl wird Verwaltungsrat von Bitstone",
+      "url": "https://www.inside-it.ch/urs-prantl-wird-verwaltungsrat-von-bitstone-20261110",
+      "summary": "Die seit Jahren in der Schweiz tätige rumänische Softwarefirma Bitstone hat zur Stärkung des hiesigen Geschäfts den Branchenkenner Urs Prantl als Verwaltungsrat berufen.",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Kesb Zürich ersetzt Fallführungs-Applikation",
+      "url": "https://www.inside-it.ch/kesb-zuerich-ersetzt-fallfuehrungs-applikation-20261110",
+      "summary": "Die Kindes- und Erwachsenenschutzbehörde der Stadt will ihre Fachanwendung für die Fallführung ablösen. Für die Behörde ein \"bedeutender Digitalisierungsschritt\".",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Chirurg Marko Turina war der «Herzschrittmacher der Nation». Nun ist er gestorben",
+      "url": "https://www.nzz.ch/zuerich/der-chirurg-marko-turina-war-der-herzschrittmacher-der-nation-nun-ist-er-gestorben-ld.10059523",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "In Afghanistan steigt der Mohnanbau wieder, doch noch grössere Sorge bereitet der Opium-Boom in Pakistan und Iran",
+      "url": "https://www.nzz.ch/international/in-afghanistan-steigt-der-mohnanbau-wieder-doch-noch-groessere-sorge-bereitet-der-opium-boom-in-pakistan-und-iran-ld.10058380",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Er betrieb eine Pizzeria und drohte seinen Feinden, sie in Säure aufzulösen: Schweizer Mafia-Statthalter zu mehrjähriger Haftstrafe verurteilt",
+      "url": "https://www.nzz.ch/zuerich/mafia-in-der-schweiz-klares-urteil-gegen-ndrangheta-statthalter-ld.10059628",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Knapp 7000 Migranten in einer Woche: Die Kanarischen Inseln rufen den Notstand aus",
+      "url": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Diese Frau aus Rapperswil Jona Will für eine Premiere im Nationalrat Sorgen",
+      "url": "https://www.suedostschweiz.ch/linth/diese-frau-aus-rapperswil-jona-will-fuer-eine-premiere-im-nationalrat-sorgen-1920920",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Stadt Luzern Kürzt Budget 2027 um 5 Millionen Franken",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/stadt-luzern-kuerzt-budget-2027-um-5-millionen-franken-ld.4263202",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Aarau Stockt Stellen im Flösserplatz für Jugendarbeit auf",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/aarau-stockt-stellen-im-floesserplatz-fuer-jugendarbeit-auf-ld.4261187",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Jugendliche Lernen Erste Hilfe im Surbtal Würenlingen",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/jugendliche-lernen-erste-hilfe-im-surbtal-wuerenlingen-ld.4262850",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Kriessern 17 Jähriger bei Kollision Schwer Verletzt",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/kriessern-17-jaehriger-bei-kollision-schwer-verletzt-ld.4265012",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Kanton Solothurn Will Sozialhilfe Kosten für die Gemeinden Dämpfen",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/kanton-solothurn-will-sozialhilfe-kosten-fuer-die-gemeinden-daempfen-ld.4264856",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bund setzt neuartige Designerdrogen auf Liste verbotener Substanzen",
+      "url": "https://www.watson.ch/schweiz/drogen/706774362-bund-setzt-neuartige-designerdrogen-auf-liste-verbotener-substanzen",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Sechsjährige Freiheitsstrafe für mutmassliches Mafiamitglied",
+      "url": "https://www.watson.ch/schweiz/justiz/143373450-sechsjaehrige-freiheitsstrafe-fuer-mutmassliches-mafiamitglied",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Polen nimmt Ukrainer festSpionage- und Sabotageverdacht:",
+      "url": "https://www.watson.ch/international/gesellschaft-politik/278780764-polen-nimmt-ukrainer-festspionage-und-sabotageverdacht",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Genfer Uhrenauktion erzielt fast 48 Millionen Franken",
+      "url": "https://www.watson.ch/schweiz/genf/350140679-genfer-uhrenauktion-erzielt-fast-48-millionen-franken",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Martinsmarkt: Herbstliches Markttreiben als Treffpunkt für Jung und Alt",
+      "url": "https://www.freiburger-nachrichten.ch/story/304445/martinsmarkt-herbstliches-markttreiben-als-treffpunkt-f%C3%BCr-jung-und-alt",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "US-Hersteller von medizinischen Diagnostiktests: +95.1% in fünf Jahren",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/boersen-blog-money-quest-diagnostics-us-hersteller-von-diagnostiktests-art-1731384",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Stadt Luzern spart 5 Millionen – allein mit «Buchhaltertricks»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/stadt-luzern-kuerzt-budget-2027-um-5-millionen-franken-art-1731382",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Das Ganze ist eine Farce»: Pete Hegseth wehrt sich vehement gegen Amtsenthebung",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/us-verteidigungsminister-pete-hegseth-wehrt-sich-gegen-amtsenthebung-art-1731378",
+      "summary": "",
+      "published": "2026-11-10T14:32:23.212437+00:00"
     }
   ]
 }
