@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T13:32:02.334024+00:00",
+  "generated": "2026-11-11T17:01:55.908215+00:00",
   "date": "2026-11-11",
-  "count": 614,
+  "count": 839,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -4300,6 +4300,1581 @@
       "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/auch-zweitauflage-von-crepes-ueber-dgass-ein-voller-erfolg-ld.4264730",
       "summary": "",
       "published": "2026-11-11T13:32:02.334024+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kontroverse um Brauchtum – Gansabhauet Sursee: Tolle Tradition oder barbarischer Brauch?",
+      "url": "https://www.srf.ch/news/schweiz/kontroverse-um-brauchtum-gansabhauet-sursee-tolle-tradition-oder-barbarischer-brauch",
+      "summary": "Jährlich feiert Sursee die Gansabhauet. Es gewinnt, wer einer Gans den Kopf abtrennen kann. Ein Brauch, der polarisiert.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung Kanton Genf – Stimmvolk entscheidet über Umzonung in Chêne-Bourg",
+      "url": "https://www.srf.ch/news/abstimmung-kanton-genf-stimmvolk-entscheidet-ueber-umzonung-in-chene-bourg",
+      "summary": "Im Kanton Genf steht die Wohnbaupolitik angesichts der akuten Wohnungsnot auf dem Stimmzettel.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Singles Day bis Black Friday – Warum die Schnäppchenjagd oft enttäuscht",
+      "url": "https://www.srf.ch/news/wirtschaft/singles-day-bis-black-friday-warum-die-schnaeppchenjagd-oft-enttaeuscht",
+      "summary": "Der November verlockt zu Impulskäufen, die später aber oft enttäuschen. Wie Sie dem Hype widerstehen können.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "IT-Sicherheit – Cyberangriff auf Churer Gesundheitszentrum",
+      "url": "https://www.srf.ch/news/schweiz/it-sicherheit-cyberangriff-auf-churer-gesundheitszentrum",
+      "summary": "Beim Cyberangriff auf das Churer Zentrum Gleis D sind Daten von Patienten und Mitarbeitenden abgeflossen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Abstimmung Kanton Schaffhausen – Weichen für das Spitalpersonal werden neu gestellt",
+      "url": "https://www.srf.ch/news/abstimmung-kanton-schaffhausen-weichen-fuer-das-spitalpersonal-werden-neu-gestellt",
+      "summary": "Nicht mehr das Parlament soll über die Personalpolitik am Kantonsspital entscheiden, sondern die Spitalleitung selbst.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Anklage gegen Politiker – SVP-Nationalrat Buffat muss wegen häuslicher Gewalt vor Gericht",
+      "url": "https://www.srf.ch/news/schweiz/anklage-gegen-politiker-svp-nationalrat-buffat-muss-wegen-haeuslicher-gewalt-vor-gericht",
+      "summary": "Der Waadtländer SVP-Nationalrat soll seine Ehefrau gedemütigt, bedroht und körperlich sowie psychisch misshandelt haben.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Stimmen aus der Community – «dialog»-Community: «Der EGMR agiert immer unverhohlener»",
+      "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-dialog-community-der-egmr-agiert-immer-unverhohlener",
+      "summary": "Nach zwei aktuellen Rügen des EGMR diskutiert die «dialog»-Community über Strassburgs Einfluss auf die Schweiz.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Imagewechsel – Weg von der «Agglo-Gemeinde»: Emmen will Stadt werden",
+      "url": "https://www.srf.ch/news/schweiz/imagewechsel-weg-von-der-agglo-gemeinde-emmen-will-stadt-werden",
+      "summary": "Emmen im Kanton Luzern ist über die Jahre stetig gewachsen. Nun will sich die Gemeinde zur Stadt umbenennen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Schweizer Arzttarifsystem – Bundesrat genehmigt erste Tardoc-Revision und fordert Korrekturen",
+      "url": "https://www.srf.ch/news/schweiz/schweizer-arzttarifsystem-bundesrat-genehmigt-erste-tardoc-revision-und-fordert-korrekturen",
+      "summary": "Besonders bei der Kostenentwicklung und der medizinischen Grundversorgung sieht der Bundesrat Handlungsbedarf.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Kurzzeitiger Unterbruch – Bahnverkehr bei Zürich wieder im Normalbetrieb",
+      "url": "https://www.srf.ch/news/schweiz/kurzzeitiger-unterbruch-bahnverkehr-bei-zuerich-wieder-im-normalbetrieb",
+      "summary": "Beim Bahnhof Zürich-Altstetten verkehrt der Bahnverkehr wieder planmässig.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Dubiose Obdachlosen-Zeitung auch in der Schweiz aufgetaucht",
+      "url": "https://www.blick.ch/schweiz/street-worker-im-surseepark-betrugswarnung/0hbqc6s",
+      "summary": "Kommt der Erlös wirklich Menschen in Not zugute? Beim Surseepark in Sursee LU ist «Street Worker» aufgetaucht, eine angebliche Obdachlosen-Zeitung, die in Deutschland seit Jahren umstritten und teils ",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Lastwagen kollidiert mit Fussgänger – Passant verletzt",
+      "url": "https://www.blick.ch/schweiz/zuerich/lastwagen-kollidiert-mit-fussgaenger-passant-verletzt/dm4vw3m",
+      "summary": "Am Mittwochnachmittag ist es an der Löwenstrasse in Zürich zu einem Verkehrsunfall gekommen. Ein Lastwagen kollidierte mit einem Fussgänger. Der Passant wurde verletzt.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Bewohner zeigt sein verwüstetes Zuhause",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/luzern/bewohner-zeigt-sein-verwuestetes-zuhause-nach-brand-in-kleinwangen-lu/90km15r",
+      "summary": "Das Feuer hat ihm fast alles genommen: Sandro Abplanalp (25) wollte mit seinem Tattoo-Studio in eine neue Zukunft starten. Doch weder von seinem Studio noch seiner Wohnung ist nach dem Brand vom Monta",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Kannst du alle Fragen zur Fasnacht beantworten?",
+      "url": "https://www.blick.ch/schweiz/fasnachts-quiz-kennst-du-dich-mit-braeuchen-und-guggen-aus/zz5tmj6",
+      "summary": "Die Fasnachtszeit ist offiziell eingeläutet! Zu diesem frohen Anlass haben wir ein Quiz vorbereitet. Wie gut kennst du dich mit Fasnachtsbräuchen und ihren Ursprüngen aus? Teste jetzt dein Wissen zur ",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Er schuf die heimliche Weltmacht aus Genf",
+      "url": "https://www.blick.ch/schweiz/westschweiz/genf/msc-wie-die-aponte-dynastie-die-weltwirtschaft-praegt/lp2jdje",
+      "summary": "Die Reederei MSC der Familie Aponte ist die Nummer eins im boomenden Containergeschäft. Und der Konzern expandiert in einem nie dagewesenen Tempo. Wie geht das?",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Walliser Polizist stellt Ex mit Airtag und Kameras nach",
+      "url": "https://www.20min.ch/story/walliser-polizist-er-soll-ex-mit-kameras-und-airtag-gestalkt-haben-103665706",
+      "summary": "Im Wallis erhob eine Frau eine Anzeige gegen einen Polizisten. Dabei handelt es sich um ihren Ex-Freund, der seit der Trennung ihr offenbar nachstellt. Dabei benutzte er offenbar auch Polizei-Ausrüstu",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Warum schlaue Tech-Bosse für Affären so viel riskieren",
+      "url": "https://www.20min.ch/story/nvidia-skandal-um-jensen-huang-warum-maechtige-maenner-fuer-affaeren-so-viel-riskieren-103665547",
+      "summary": "Sie führen Milliardenkonzerne, doch privat sorgen die Affären von Jensen Huang oder Jeff Bezos für Schlagzeilen. Warum Macht enthemmt – und Intelligenz davor nicht schützt.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Deutschlehrerin will Schüler an Sekten-Event locken",
+      "url": "https://www.20min.ch/story/ivo-sasek-deutschlehrerin-in-aarau-soll-schueler-an-sekten-event-locken-103664993",
+      "summary": "Statt nur Deutsch zu lernen, erhielt ein Kursteilnehmer in Aarau eine Einladung zu einem Anlass von Sektenprediger Ivo Sasek. ECAP untersucht den Vorfall.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Noemi: «Ich wurde erst mit 44 Mami – das bringt mehrere Vorteile»",
+      "url": "https://www.20min.ch/story/eizellenspende-und-spaete-mutterschaft-noemi-sieht-mehr-vorteile-als-nachteile-103664107",
+      "summary": "Noemi (47) wurde mit 44 Jahren Mutter. Bis dahin war es ein langer Weg mit einer Fehlgeburt, Kinderwunschbehandlungen und Kosten von rund 40’000 Franken. Doch sie sieht wenig Nachteile in einer späten",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Allergie hier, Intoleranz da – Beiz zu betreiben, ist die Hölle»",
+      "url": "https://www.20min.ch/story/eure-meinung-allergie-hier-intoleranz-da-beiz-zu-betreiben-ist-die-hoelle-103665558",
+      "summary": "Der Hinweis an Allergiker auf der Speisekarte einer Zürcher Beiz gibt in einem Onlineforum zu reden. Auch die 20-Minuten-Community ist sich nicht einig, was sie von dem Spruch hält.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Heisse Inflation in den USA: US-Notenbank kommt unter Druck",
+      "url": "https://www.20min.ch/story/folgt-xl-zinsschritt-heisse-inflation-in-den-usa-us-notenbank-kommt-unter-druck-103665635",
+      "summary": "Die Teuerung in den USA übertrifft die Erwartungen der Volkswirte. Vor allem die steigenden Benzinpreise fressen ein Loch ins Portemonnaie der US-Bevölkerung.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Kann nicht fassen, dass in Basel jemand ein Mittagessen stiehlt»",
+      "url": "https://www.20min.ch/story/tasche-vor-uni-geklaut-kann-nicht-fassen-dass-in-basel-jemand-ein-mittagessen-stiehlt-103665622",
+      "summary": "Einer Studentin aus China wurde vor der Uni Basel eine Tasche mit ihrem Zmittag gestohlen. Auf Facebook schreibt sie fassungslos darüber. Sie hofft, dass das Diebesgut zurückgebracht wird.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Betonpfeiler stürzt auf Bauarbeiter – Mann stirbt",
+      "url": "https://www.20min.ch/story/zuercher-kreis-9-betonpfeiler-stuerzt-auf-bauarbeiter-mann-stirbt-103665744",
+      "summary": "Im Zürcher Kreis 9 ist ein Mann bei einem Arbeitsunfall ums Leben gekommen. Ein Betonpfeiler stürzte in einem Rohbau um und traf ihn. Die Polizei ermittelt.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Singles' Day: Hier gibt's heute bis zu 66 Prozent Rabatt",
+      "url": "https://www.20min.ch/story/singles-day-hier-gibt-es-heute-bis-zu-66-rabatt-auf-technik-und-mode-103665650",
+      "summary": "Am Singles' Day locken Onlineshops mit Rabatten auf Technik, Mode und Beauty. Wir zeigen dir, wo es heute noch Schnäppchen gibt.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Vielleicht sollte man Infantino in die Psychiatrie schicken»",
+      "url": "https://www.20min.ch/story/attacke-von-sepp-blatter-vielleicht-sollte-man-infantino-in-die-psychiatrie-schicken-103665695",
+      "summary": "Ex-Fifa-Chef Sepp Blatter greift Gianni Infantino im «Spiegel» an und bringt gar die Psychiatrie ins Spiel.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Planst du einen Trip nach London? Dann pass auf dein Handy auf!",
+      "url": "https://www.20min.ch/video/dreiste-diebe-planst-du-einen-trip-nach-london-dann-pass-auf-dein-handy-auf-103665351",
+      "summary": "Eine Überwachungskamera filmte einen Handy-Diebstahl in einem Londoner Pub. Zwei Diebe nutzen die Unachtsamkeit eines Gastes aus. Er liess sein Handy auf dem Tisch liegen, während er mit Leuten sprach",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Gespräche in Abu Dhabi: Kein Durchbruch, aber neue US-Positionen",
+      "url": "https://www.20min.ch/story/ukraine-verhandlungen-gespraeche-in-abu-dhabi-kein-durchbruch-aber-neue-us-positionen-103665637",
+      "summary": "Zwei Tage verhandelten die USA, die Ukraine und Russland in Abu Dhabi über den Ukrainekrieg. Zu einem Durchbruch ist es nicht gekommen. Es sollen allerdings Fortschritte erzielt worden sein.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Baby in Hundekäfig begraben: Nach 24 Stunden lebend gerettet",
+      "url": "https://www.20min.ch/story/baby-koah-retter-finden-vermisstes-kind-nach-24-stunden-lebend-unter-der-erde-103665703",
+      "summary": "Ein elf Monate alter Bub wird in South Carolina lebendig in einem Hundekäfig vergraben. Nach rund 24 Stunden unter der Erde retten ihn Suchkräfte.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "«Zürich, war schön bei euch»: Tokio Hotel schwärmt nach Konzert",
+      "url": "https://www.20min.ch/story/tokio-hotel-in-zuerich-kaulitz-brueder-schwaermen-nach-konzert-vom-hotel-103665610",
+      "summary": "Tokio Hotel spielte am 10. November ein Konzert im Zürcher Hallenstadion. Im Publikum standen auch Heidi Klum und Yannik Zamboni. Die Kaulitz-Brüder schwärmen im Podcast von Zürich und vom aufmerksame",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Lastwagen erfasst Fussgängerin auf Löwenplatz – schwer verletzt",
+      "url": "https://www.20min.ch/story/zuerich-lastwagen-erfasst-fussgaengerin-auf-loewenplatz-schwer-verletzt-103665742",
+      "summary": "Eine Fussgängerin wurde schwer verletzt ins Spital gebracht, nachdem sie von einem Lastwagen erfasst wurde.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "11. November 2026: Das Wichtigste des Tages",
+      "url": "https://www.tagesanzeiger.ch/11-november-2026-das-wichtigste-des-tages-267404997833",
+      "summary": "Hegseth entgeht Impeachment | Anklage wegen überfahrenem Bub bei Escher-Wyss-Platz | Ukrainegespräche ohne Durchbruch | Portugal rüstet sich für Sturm Charles | Zuger Dentalfirma plant Milliardenbörse",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gezähmtes Raubtier: Er zog die Löwin mit der Flasche auf – jetzt zählt sie ihn zum Rudel",
+      "url": "https://www.tagesanzeiger.ch/valentin-gruener-leben-mit-loewin-sirga-in-der-kalahari-815102326176",
+      "summary": "Valentin Grüner hat in Botswana eine verstossene Löwin vor dem Verhungern gerettet. Heute geht er mit ihr auf die Jagd. Was passiert da zwischen Mensch und Tier? Eine Begegnung.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Russisch-amerikanischer Starökonom: «Und irgendwann fällt das System in sich zusammen»",
+      "url": "https://www.tagesanzeiger.ch/oekonom-itskhoki-irgendwann-faellt-das-system-zusammen-297883776892",
+      "summary": "Oleg Itskhoki erklärt im Interview, wie Russland nach vier Jahren Krieg in der Ukraine wirtschaftlich dasteht – und wo die Schwachstellen des Regimes sind, das Wladimir Putin errichtet hat.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nachruf auf  Marko Turina: Herztransplantationen? «Einfach vier Nähte und fertig»",
+      "url": "https://www.tagesanzeiger.ch/herzpionier-marko-turina-ist-mit-89-jahren-gestorben-787487511128",
+      "summary": "Der Schweizer Herzpionier hielt andere Eingriffe am Herzen für viel schwieriger und gehörte bei vielen Methoden zu den Ersten. Nun ist der Zürcher Herzchirurg Marko Turina mit 89 Jahren gestorben.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Benjamin Fisch im Porträt: Er war mit SVP-Aeschi beim Coiffeur: Wer ist der neue «Arena»-Moderator?",
+      "url": "https://www.tagesanzeiger.ch/arena-benjamin-fisch-folgt-sandro-brotz-ab-2027-937245114523",
+      "summary": "Schlagfertig und politisch schwer einzuordnen: So beschreiben Weggefährten den Nachfolger von Sandro Brotz. Ein Porträt des Mannes, der schon als 14-Jähriger auf der Bühne stand.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Autobiografie des Ex-Präsidenten: «Es sollte ihn bis ins Grab begleiten»: Biden rechnet in seinen Memoiren mit Trump ab",
+      "url": "https://www.tagesanzeiger.ch/joe-biden-das-schreibt-er-ueber-donald-trump-209796750383",
+      "summary": "In «Promise Me, America» schaut Joe Biden auf seine Amtszeit zurück. Die scheint davon geprägt zu sein, dass er der Staatschef vor und nach Donald Trump war.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Cyberangriff auf Supermärkte: 50 Grad in Kühlregalen, Schaden in Millionenhöhe – warum die Franzosen den Iran beschuldigen",
+      "url": "https://www.tagesanzeiger.ch/cyberangriff-supermaerkte-frankreich-nennt-hacker-namentlich-485164521729",
+      "summary": "Die Attacke auf 700 Supermärkte im Land gilt als Wendepunkt: Paris nennt erstmals Namen der mutmasslichen Täter. «Es handelt sich um eine terroristische Organisation», so Frankreichs Aussenminister.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neuer Zürcher Weihnachtsmarkt: Der begehbare Zürcher Adventskranz wächst in die Höhe",
+      "url": "https://www.tagesanzeiger.ch/adventskranz-zuerich-40-meter-kranz-auf-dem-sechselaeutenplatz-714667029065",
+      "summary": "Ab dem 19. November können Gäste vom Holzkranz auf dem Sechseläutenplatz über den Weihnachtsmarkt blicken. Dafür müssen sie vorab online ein kostenloses Zeitfenster buchen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Unfall in Zürich: Lastwagen verletzt Fuss­gängerin auf dem Löwen­platz schwer",
+      "url": "https://www.tagesanzeiger.ch/zuerich-fussgaengerin-auf-loewenplatz-von-lastwagen-erfasst-630904932576",
+      "summary": "Am Mittwochnachmittag erfasst ein Lastwagen eine 76-Jährige auf dem Zürcher Löwenplatz. Während die Sanität die Schwerverletzte ins Spital bringt, betreut ein Care Team die Augenzeugen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Einbürgerung im Aargau: Skifahren nicht schweizerisch genug? Neuenhof lehnt Einbürgerung ab",
+      "url": "https://www.tagesanzeiger.ch/neuenhof-einbuergerung-skifahren-keine-schweizer-sportart-988505814205",
+      "summary": "Eine Türkin und ihr Sohn leben seit 13 Jahren in Neuenhof, doch die Gemeinde lehnt ihre Einbürgerung ab. Die Aargauer Regierung verlangt nach einer Beschwerde eine neue Beurteilung.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Spuren der Trockenheit: Zürcher Pegelstände erholen sich bisher kaum",
+      "url": "https://www.tagesanzeiger.ch/zuerichsee-pegelstand-bleibt-53-cm-unter-median-228433364975",
+      "summary": "Der Seepegel steigt innert einer Woche um neun Zentimeter auf 405,4 Meter über Meer. Für eine Rückkehr zu üblichen Werten braucht es längere Niederschläge.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Papst in Lateinamerika: Er kam, sah und teilte aus",
+      "url": "https://www.tagesanzeiger.ch/papst-leo-xiv-stille-abrechnung-mit-milei-in-argentinien-809576565865",
+      "summary": "In Argentinien hat Leo XIV. höflichst mit Politik und Stil des Staatspräsidenten Javier Milei abgerechnet. Doch seine Kritik zielt viel weiter.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Deutscher Starautor: In Daniel Kehlmanns neuem Roman verschachern ein paar weisse Dummköpfe ganz Afrika",
+      "url": "https://www.tagesanzeiger.ch/afrika-von-daniel-kehlmann-so-ist-das-buch-des-starautors-879172672470",
+      "summary": "«Tyll» und «Lichtspiel» waren schwere Brocken zur deutschen Geschichte. Kehlmanns neuer Roman handelt von einer Afrikakonferenz – und kommt als Komödie daher. Kann das gut gehen?",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gescheitertes Impeachment: Hegseth bleibt im Amt: So, liebe Demokraten, wird das nichts",
+      "url": "https://www.tagesanzeiger.ch/impeachment-gegen-hegseth-wo-waren-die-demokraten-702110966979",
+      "summary": "Die Partei lässt die Chance achtlos verstreichen, ihre neue Stärke zu demonstrieren. Und so können Trumps Republikaner den Antrag auf Amtsenthebung von Minister Pete Hegseth abschmettern.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kritik an Schule Bassersdorf: «Wir haben es verpasst» – Gemeinderat zieht wegen verschleppter Tagesbetreuung Ärger auf sich",
+      "url": "https://www.tagesanzeiger.ch/bassersdorf-eltern-fordern-rasche-loesung-beim-mittagstisch-152130267731",
+      "summary": "Ein Mittagstisch mit langen Wartelisten, zu wenig Schulraum und eine zu zögerliche Politik: Der Unmut bei Eltern in Bassersdorf ist gross. Nun verspricht der Gemeinderat Abhilfe.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Frauen-WM in Dänemark: Die Schweiz verpasst den 2. Gruppenplatz wegen einem Doppelschlag",
+      "url": "https://www.tagesanzeiger.ch/eishockey-wm-schweiz-verliert-gegen-deutschland-1-3-652617584747",
+      "summary": "Die Schweizerinnen verlieren ihr letztes Gruppenspiel gegen Deutschland 1:3. Der Viertelfinalgegner am Freitag ist noch nicht klar.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Digitaler Schulalltag: Zürcher Schulen erhalten einen Leitfaden für künstliche Intelligenz",
+      "url": "https://www.tagesanzeiger.ch/ai-leitfaden-zuerich-lanciert-plattform-fuer-volksschulen-346880413588",
+      "summary": "Die neue Plattform erklärt anhand von vier Fragen, wie KI funktioniert und wie Schüler sie nutzen können. Schulen entscheiden weiterhin selbst über KI bei Prüfungen und Hausaufgaben.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Studie aus Brasilien: Mikroplastik im Blut von 43 der 47 untersuchten Wildtiere gefunden",
+      "url": "https://www.tagesanzeiger.ch/mikroplastik-forscher-finden-partikel-im-blut-von-tapir-505332211256",
+      "summary": "Forscher untersuchen Tapire und Ameisenbären in Brasilien. Je näher die Tiere an Siedlungen und Abfallanlagen leben, desto mehr Mikroplastik finden sie tendenziell im Blut.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kinder in Winterthur: Über 1800 Schulkinder zeichnen kleine Herzbilder für die Altstadt von Winterthur",
+      "url": "https://www.tagesanzeiger.ch/kunstprojekt-1800-winterthurer-kinder-gestalten-herzen-254310201011",
+      "summary": "Vom 2. bis 21. November zeigen Primarschulkinder ihre Werke in Schaufenstern. Das Projekt «Ein Herz für Winti» will Gemeinschaft ins Zentrum stellen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Neues Jahrbuch 2026: Wo Winterthur das Risiko sucht",
+      "url": "https://www.tagesanzeiger.ch/winterthurer-jahrbuch-2026-risiko-als-leitthema-490680418752",
+      "summary": "Vom Spielcasino bis zur Röntgenpionierin: Das neue Winterthurer Jahrbuch porträtiert risikofreudige Projekte und Persönlichkeiten.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Kontakte im Alter: Cham testet einen neuen Weg gegen Einsamkeit im Alter",
+      "url": "https://www.tagesanzeiger.ch/cham-testet-arevia-vernetzung-fuer-menschen-ab-60-690998585436",
+      "summary": "Das Angebot AREVIA soll Menschen ab 60 mit ähnlichen Interessen zusammenbringen. Chamerinnen und Chamer können sich bis zum 13. November kostenlos anmelden.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vor den Thuner Wahlen: Vom Stadion bis zum Kreisel: Thuns Regierung zeigt ihre Zukunftsorte",
+      "url": "https://www.bernerzeitung.ch/thun-vier-gemeinderaete-stellen-ihre-zukunftsorte-vor-263285264554",
+      "summary": "Die vier langjährigen Gemeinderatsmitglieder stehen bei den Thuner Wahlen in der Poleposition. Im Porträt zeigen sie, welche Orte für sie die Zukunft der Stadt verkörpern.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "11 Millionen Aufrufe: Bieler Gyros­laden polarisiert mit Werbe­video von inszeniertem Überfall",
+      "url": "https://www.bernerzeitung.ch/bieler-imbiss-greeka-ueberfall-video-geht-auf-instagram-viral-923433015026",
+      "summary": "Ein Maskierter fuchtelt mit einem Küchenmesser, doch statt Geld nimmt er sich ein Gyros. Mit dieser Szene wirbt der Bieler Imbiss Greeka und sorgt für Diskussionen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Von Kanton unterstützt: Aktion gegen Food-Waste: Steffisburger Schullager gewinnt mit nur 1,76 Gramm Essensabfall",
+      "url": "https://www.bernerzeitung.ch/food-waste-schule-steffisburg-gewinnt-berner-challenge-975759446695",
+      "summary": "Das Lager der Schule Sunneschyn gewinnt die Berner «Restlos Geniessen Challenge». Es produzierte über 99 Prozent weniger Lebensmittelabfälle als ein durchschnittlicher Schweizer Haushalt.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Hilfe für angeschlagene Stiftung: Stadt Biel stützt das Foyer Schöni mit einem Darlehen von 300’000 Franken",
+      "url": "https://www.bernerzeitung.ch/biel-rettet-foyer-schoeni-mit-darlehen-von-300000-franken-926646402586",
+      "summary": "Das Geld soll die Schliessung der Einrichtung für Erwachsene mit Betreuungsbedarf verhindern. Die Institution muss das Darlehen innert fünf Jahren mit Zinsen zurückzahlen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Vorwürfe häuslicher Gewalt: Gewaltprozess gegen SVP-Nationalrat Michaël Buffat – auch seine Ehefrau ist angeklagt",
+      "url": "https://www.bernerzeitung.ch/michael-buffat-nationalrat-wegen-haeuslicher-gewalt-angeklagt-644363290203",
+      "summary": "Der Waadtländer Politiker soll seine Frau jahrelang misshandelt haben. Sie hingegen soll mit einer Drohung Geld verlangt haben.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Wasserversorgung in Bern: Gemeinde kauft modernes Leck­überwachungs­system",
+      "url": "https://www.bernerzeitung.ch/boenigen-58000-franken-fuer-leckortungssystem-ortomat-882636734338",
+      "summary": "Die Behörde Bönigens bewilligte 58'000 Franken für das System «Ortomat» von vonRoll Hydro. Es überwacht das Leitungsnetz dauerhaft und ersetzt die bisherige Leckortung weitgehend.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Machtdemonstration in Palermo: Mafia-Clan zelebriert Trauermarsch und schüchtert Anwohnende ein",
+      "url": "https://www.derbund.ch/mafia-trauerzug-in-palermo-200-menschen-ehren-toten-boss-291366739225",
+      "summary": "Rund 200 Menschen begleiten den Sarg des verstorbenen Emanuele Rubino durch Siziliens Hauptstadt. Sein Clan nutzt die Beerdigung, um auf Palermos Strassen seine Macht zu demonstrieren.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Neues Zuhause für Fische: Alter Ozeanriese wird vor Florida versenkt",
+      "url": "https://www.derbund.ch/ss-united-states-ozeanriese-wird-riff-im-golf-von-mexiko-737704309366",
+      "summary": "Die S.S. United States soll am Mittwoch zum weltweit grössten künstlichen Riff werden. Das Projekt kostet 13,5 Millionen Dollar und soll Taucherinnen sowie Angelfans anlocken.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Feier für Basler Nationalrätin: Basel und Riehen spendieren Wahlparty für Katja Christ – für 240’000 Franken",
+      "url": "https://www.bazonline.ch/katja-christ-wahlparty-kostet-basel-240000-franken-888812887015",
+      "summary": "Ende Monat wird die Grünliberale zur Präsidentin des Nationalrats gewählt. Am 2. Dezember steigt eine grosse Sause, bezahlt mit Steuergeldern.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Entscheid im Grossen Rat: Keine Schläuche im Fenster mehr: Basler Politik will Hürden für Klimaanlagen lockern",
+      "url": "https://www.bazonline.ch/klimaanlagen-basel-erleichtert-bewilligung-nach-hitzesommer-545091679359",
+      "summary": "Der Einbau von Klimaanlagen soll vereinfacht werden. Dies hat das Parlament beschlossen. Der Hitzesommer hat bei vielen zu einem Umdenken geführt.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Bücherherbst: Was sollen wir lesen? Wir haben die Macherinnen der Buch Basel um Rat gefragt",
+      "url": "https://www.bazonline.ch/buch-basel-diese-4-buecher-empfiehlt-das-leitungsteam-727892104850",
+      "summary": "Das Leitungsteam des grössten Schweizer Literaturfestivals hat seine besten Tipps für den Bücherherbst zusammengetragen.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Erweiterung des Wasserspielangebots: Riehen erneuert den Spielplatz im Wenkenpark",
+      "url": "https://www.bazonline.ch/wenkenpark-riehen-spielplatz-wird-ab-november-umgebaut-150693573536",
+      "summary": "Ein defektes Holzspielgerät macht den Umbau nötig. Spätestens Ende Januar soll der Spielplatz mit erneuertem Sandkasten und erweitertem Wasserspielangebot wieder vollständig zugänglich sein.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Jugendangebot in Münchenstein: «KidzOnly» lädt ab der 5. Klasse zum gemeinsamen Kochen und Spielen",
+      "url": "https://www.bazonline.ch/kidzonly-muenchenstein-kochen-fuer-kinder-ab-5-klasse-321995617892",
+      "summary": "Jeden Mittwochabend treffen sich Kinder im Jugendhaus oder auf dem Robinsonspielplatz. Bis Dezember stehen noch fünf Abende auf dem Programm – Anmeldung erforderlich.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Halbe Stunde Stau in Emmen und Luzern",
+      "url": "https://www.zentralplus.ch/stau/halbe-stunde-stau-in-emmen-und-luzern-2911005/",
+      "summary": "Auf mehreren Strassen rund um Luzern, Emmen und Ebikon kommt es am Mittwochabend zu Staus. Autofahrerinnen und Autofahrer müssen mit bis zu 30 Minuten Zeitverlust rechnen. Am Mittwochabend kommt es in",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Kenia: Letzter Ebola-Patient aus Spital",
+      "url": "https://www.zentralplus.ch/news/kenia-letzter-ebola-patient-aus-spital-2911007/",
+      "summary": "In Kenia hat der letzte Ebola-Patient das Spital verlassen können. Das teilte der Gesundheitsminister des ostafrikanischen Landes mit. Bei den Kontaktpersonen sei es zu keinen weiteren Infektionen gek",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "In der Kegelbahn gehts weiter, aber völlig anders",
+      "url": "https://www.zentralplus.ch/kultur/fuer-die-kegelbahn-gehts-weiter-aber-voellig-anders-2910862/",
+      "summary": "Mit der Schliessung des Klub Kegelbahn ging diesen Sommer eine Ära zu Ende. Doch das Luzerner Kulturlokal bleibt der Stadt erhalten. zentralplus weiss exklusiv, in welcher Form. Die Luzerner Ausgangss",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "EU will Konsumenten besser schützen",
+      "url": "https://www.zentralplus.ch/news/eu-will-konsumenten-besser-schuetzen-2911003/",
+      "summary": "Wer im Internet unterwegs ist, soll in der EU besser geschützt werden, etwa vor Abo-Fallen oder vor Wucherpreisen bei Konzerttickets. Die EU-Kommission will den Konsumentenschutz mit einem &#171;Digit",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Anker-Werk gehörte wohl jüdischem Paar",
+      "url": "https://www.zentralplus.ch/news/anker-werk-gehoerte-wohl-juedischem-paar-2910986/",
+      "summary": "Beim Gemälde &#171;Der neue Wein I&#187; des Schweizer Künstlers Albert Anker aus dem Jahr 1874 bestehe die Möglichkeit, dass das Werk einst zur Sammlung von Erna Marcelina Reder Frenkel (1904-1971) u",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Winterthur: Verdacht auf NS-Raubkunst",
+      "url": "https://www.zentralplus.ch/news/winterthur-verdacht-auf-ns-raubkunst-2910981/",
+      "summary": "Die Winterthurer Stiftung für Kunst, Kultur und Geschichte lässt die Herkunft von zwei Werken aus ihrer Sammlung prüfen. Eine unabhängige Kommission will klären, ob die Werke in der Nazi-Zeit verfolgt",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Schluss mit Deals, die Zug am Ende nur Geld kosten",
+      "url": "https://www.zentralplus.ch/politik/mehr-kontrolle-ueber-stadtrats-deals-gefordert-2910810/",
+      "summary": "Die Zuger SVP will verhindern, dass der Stadtrat das Parlament mit teuren Vorverträgen unter Druck setzt. Mit der anstehenden Abstimmung zur Villa Unterer Frauenstein soll das nichts zu tun haben. Die",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "AG: Planungspanne im Kantonsspital",
+      "url": "https://www.zentralplus.ch/news/ag-planungspanne-im-kantonsspital-2910969/",
+      "summary": "Das Kantonsspital Aarau hat einen neunstöckigen Neubau erstellt, doch der vierte Stock darf vorerst nicht benutzt werden. Anwohnerinnen und Anwohner haben mit einem Rekurs gegen die Nutzung Recht beko",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "An fünf Orten baut Zug öffentliche Toiletten",
+      "url": "https://www.zentralplus.ch/news/an-fuenf-orten-baut-zug-oeffentliche-toiletten-2910953/",
+      "summary": "Die Stadt Zug baut ihr Angebot an öffentlichen Toiletten aus. An fünf Standorten sollen in den nächsten zwei Jahren WC-Anlagen entstehen oder erneuert werden. Die Stadt Zug investiert rund 1,69 Millio",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "SNB sieht weiterhin keine Anzeichen für eine Kreditklemme",
+      "url": "https://www.finews.ch/news/finanzplatz/74446-schweizer-kreditmarkt-einschaetzung-der-schweizerischen-nationalbank-snb-untergang-der-credit-suisse-wachstumsprognosen-fuer-die-schweizer-wirtschaft-inflation-deutlich-gestiegen",
+      "summary": "Der Schweizer Kreditmarkt hat sich nach Einschätzung der Schweizerischen Nationalbank (SNB) auch nach dem Untergang der Credit Suisse als widerstandsfähig erwiesen. Gleichzeitig bestätigt die National",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Finews",
+      "title": "US-Anleihen unter Druck: Fed erwägt ungewöhnlich grossen Zinsschritt",
+      "url": "https://www.finews.ch/news/finanzplatz/74445-inflation-in-den-usa-ausverkauf-am-anleihemark-rendite-zehnjaehriger-staatsanleihen-wieder-ueber-fuenf-prozent-gestiegen-us-notenbank-fed-die-zinsen-staerker-als-ueblich-erhoeht",
+      "summary": "Die hartnäckige Inflation in den USA sorgt für einen weiteren Ausverkauf am Anleihemarkt. Die Rendite zehnjähriger Staatsanleihen ist zeitweise wieder über fünf Prozent gestiegen. Gleichzeitig wächst ",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"Ari\" in der Kategorie Customer Experience",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-ari-in-der-kategorie-customer-experience",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"AI-Powered Contact Center Transformation\" in der Kategorie Integrated Business Software",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-ai-powered-contact-center-transformation-in-der-kategorie-integrated",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"Data Monetization mit Databricks bei Viasuisse\" in der Kategorie Data Platforms",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-data-monetization-mit-databricks-bei-viasuisse-in-der-kategorie-data",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"dLIS\" in der Kategorie Business Process Applications",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-dlis-in-der-kategorie-business-process-applications",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"Von AI-Services zur Agentic Platform\" in der Kategorie AI Systems",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-von-ai-services-zur-agentic-platform-in-der-kategorie-ai-systems",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Schweiz verliert im KI-Ranking an Boden",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/schweiz-verliert-im-ki-ranking-an-boden",
+      "summary": "Die Schweiz belegt im neuen World Digital and AI Ranking von IMD den 9. Platz - nach Rang 3 im Vorjahr. Stark schneidet sie bei Talenten und beim regulatorischen Rahmen ab. Bei der KI-spezifischen Gov",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Urner Landrat bewilligt mehr IT-Stellen",
+      "url": "https://www.inside-it.ch/urner-landrat-bewilligt-mehr-it-stellen-20261111",
+      "summary": "Das Amt für Informatik erhält zusätzliches Personal, das Landammannamt eine Koordinationsstelle KI. Das Parlament hat der Budgeterhöhung zugestimmt.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Schweizer IT-Löhne weiter auf hohem Niveau",
+      "url": "https://www.inside-it.ch/schweizer-it-loehne-weiter-auf-hohem-niveau-20261111",
+      "summary": "Die Saläre der Beschäftigten in der Schweizer IT-Industrie bewegen sich weiterhin seitwärts. Über alle Altersklassen hinweg gewinnen KI-Kompetenzen an Bedeutung.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Streik, so zerstritten wie das Land: Wie Spanien einen Tag im Ausstand erlebt",
+      "url": "https://www.nzz.ch/international/ein-streik-so-zerstritten-wie-das-land-wie-spanien-einen-tag-im-ausstand-erlebt-ld.10060954",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Grünen wollen die Solarpflicht auf alle Gebäude im Land ausweiten, der Bundesrat ist dagegen und verweist auf die Kantone",
+      "url": "https://www.nzz.ch/schweiz/die-gruenen-wollen-die-solarpflicht-auf-alle-gebaeude-im-land-ausweiten-der-bundesrat-ist-dagegen-und-verweist-auf-die-kantone-ld.10060881",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Schwere Vorwürfe gegen den britischen TV-Star David Walliams",
+      "url": "https://www.nzz.ch/feuilleton/schwere-vorwuerfe-gegen-den-britischen-tv-star-david-walliams-ld.10061008",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Hoffen auf Arsène Wenger und Streit um Infantinos Wählbarkeit: der Fifa-Machtkampf nähert sich der Deadline",
+      "url": "https://www.nzz.ch/sport/fussball/hoffen-auf-arsene-wenger-und-streit-um-infantinos-waehlbarkeit-der-fifa-machtkampf-naehert-sich-der-deadline-ld.10060494",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Goldküste bangt um ihre Direktverbindung zum Flughafen",
+      "url": "https://www.nzz.ch/zuerich/die-goldkueste-bangt-um-ihre-direktverbindung-zum-flughafen-ld.10060966",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Edelstahl, Ecken und ein abruptes Ende: wie der Tesla Cybertruck dennoch unsterblich werden könnte",
+      "url": "https://www.nzz.ch/mobilitaet/edelstahl-ecken-und-das-abrupte-ende-wie-der-tesla-cybertruck-unsterblichkeit-erlangen-koennte-ld.10060739",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "SVP-Nationalrat Michaël Buffat wegen Vorwurfs häuslicher Gewalt angeklagt",
+      "url": "https://www.nzz.ch/schweiz/svp-nationalrat-michael-buffat-wegen-vorwurfs-haeuslicher-gewalt-angeklagt-ld.10060961",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Schmidheiny und Eternit: Etappensieg in einer endlosen Justizsaga",
+      "url": "https://www.nzz.ch/wirtschaft/eternit-skandal-stephan-schmidheiny-erzielt-etappensieg-ld.10060511",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«‹Mona Lisa› der rosafarbenen Diamanten»: Ein seltener Edelstein wird in Genf für zwölf Millionen Franken versteigert",
+      "url": "https://www.nzz.ch/panorama/mona-lisa-der-rosafarbenen-diamanten-ein-seltener-edelstein-wird-in-genf-fuer-zwoelf-millionen-franken-versteigert-ld.10060558",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Streetdance-Weltfinal mit 39 Anlässen",
+      "url": "https://www.persoenlich.com/marketing/streetdance-weltfinal-mit-39-anlassen",
+      "summary": "Die Agentur hat für Red Bull das World Final von Dance Your Style umgesetzt. Neben vier Shows in Schiffbau und Hallenstadion betreute sie über 600 internationale Gäste vor Ort.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Eigener Marktplatz für Werbung",
+      "url": "https://www.persoenlich.com/marketing/eigener-marktplatz-fur-werbung",
+      "summary": "Podcastschaffende können sich neu selbst an Werbekunden vermarkten. Ein Profil auf der Plattform Connect ist kostenlos.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Tsüri-Artikel regelmässig im Blatt",
+      "url": "https://www.persoenlich.com/medien/tsuri-artikel-regelmassig-im-blatt",
+      "summary": "Das Gratisblatt übernimmt regelmässig Texte des Stadtzürcher Onlinemagazins. Tsüri.ch wird für die Zweitverwertung entschädigt. Chefredaktor Simon Jacoby sieht die redaktionelle Unabhängigkeit nicht g",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Ungebetener Gast stört den Winterspass",
+      "url": "https://www.persoenlich.com/kategorie-werbung/ungebetener-gast-stort-den-winterspass",
+      "summary": "Die Apothekenkette Benu wirbt in einer neuen Kampagne für die Grippeimpfung. Die Krankheit tritt darin als Störfaktor bei Schneeballschlachten, Skitagen und Familienfesten auf. Für die Zürcher Agentur",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Patrick Pierazzoli tritt nach 25 Jahren ab",
+      "url": "https://www.persoenlich.com/medien/patrick-pierazzoli-tritt-nach-25-jahren-ab",
+      "summary": "Der Mitgründer und langjährige Chefredaktor zieht sich per Ende 2026 aus dem operativen Geschäft zurück. Sein Bruder Stefan Berger übernimmt seine Anteile und führt die Mediengruppe als Alleininhaber ",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "Preis für Forschung über Forschung",
+      "url": "https://www.persoenlich.com/marketing/preis-fur-forschung-uber-forschung",
+      "summary": "Malte Bleeker hat am St. Galler Marketingtag 10'000 Franken für seine Dissertation erhalten. Darin kommt er zum Schluss, dass nur eine Minderheit der Fachleute aus der Praxis wissenschaftliche Marketi",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Marcel Hugs «X+1»: Wie man trotz Hindernissen Höchstleistungen erbringen kann",
+      "url": "https://www.shn.ch/region/weinland-rafzerfeld/2026-11-11/marcel-hugs-x1-wie-man-trotz-hindernissen-hoechstleistungen",
+      "summary": "Der erfolgreiche Schweizer Parasportler referierte auf Einladung der Leihkasse Stammheim über sein Leben, seine Erfolge im Rennrollstuhl – und sein Erfolgsrezept.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Das ist die neue Co-Geschäftsleitung im Kammgarn",
+      "url": "https://www.shn.ch/region/stadt/2026-11-11/das-ist-die-neue-co-geschaeftsleitung-im-kammgarn",
+      "summary": "Nach der Pensionierung des Kultur-Urgesteins Hausi Naef führen Raphael Schemel und Pascal Bührer seit September gemeinsam die Kultur im Kammgarn weiter.",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Weihnachten kommt: Wo findest du die besten Kleinigkeiten für den Adventskalender?",
+      "url": "https://www.shn.ch/region/kanton/2026-11-11/weihnachten-kommt-wo-findest-du-die-besten-kleinigkeiten-fuer-den",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bombenkoffer am Bahnhof: Der Tumult war mühsam, aber richtig",
+      "url": "https://www.shn.ch/forum-meinung/meinung/2026-11-11/bombenkoffer-am-bahnhof-der-tumult-war-muehsam-aber-richtig",
+      "summary": "Wegen eines verdächtigen Koffers wurde die Schaffhauser Bahnhofstrasse am Freitagabend gesperrt. Weil sich später herausstellte, dass dessen Inhalt harmlos war, hinterfragen manche die Sinnhaftigkeit ",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Ein 20-Jähriger will mit «Fokus» frischen Wind in die Schaffhauser Clubszene bringen",
+      "url": "https://www.shn.ch/region/kanton/2026-11-11/ein-20-jaehriger-will-mit-fokus-frischen-wind-in-die-schaffhauser",
+      "summary": "Früher mied Timo Kündig Partys, heute organisiert er sie selbst. Mit seinem Projekt «Fokus» will er die Schaffhauser Clubszene beleben, junge Künstler fördern und Veranstalter zusammenbringen. Was als",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Taylor Swift Tour 2027 was ist zu Konzerten Aktuell Bekannt",
+      "url": "https://www.suedostschweiz.ch/panorama/taylor-swift-tour-2027-was-ist-zu-konzerten-aktuell-bekannt-2230862",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Hunderte von Italienischen Schulen nach Bombendrohungen Evakuiert",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/hunderte-von-italienischen-schulen-nach-bombendrohungen-evakuiert-2230517",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Standseilbahn Braunwald So Stopft der Glarner Regierungsrat das Finanzloch",
+      "url": "https://www.suedostschweiz.ch/glarus/standseilbahn-braunwald-so-stopft-der-glarner-regierungsrat-das-finanzloch-2230880",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "So Fein Asiatische Küche in der Churer Altstadt Wir Testen das",
+      "url": "https://www.suedostschweiz.ch/graubuenden/so-fein-asiatische-kueche-in-der-churer-altstadt-wir-testen-das-2220181",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Schlagerstar Kann Nicht Mehr Singen Jetzt Kündigt sie Weitere Auftritte an",
+      "url": "https://www.suedostschweiz.ch/panorama/schlagerstar-kann-nicht-mehr-singen-jetzt-kuendigt-sie-weitere-auftritte-an-2230777",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Pensionierte Verschenken Ihre 13 Ahv Damit Kein Glarner Kind Aussen vor Bleibt",
+      "url": "https://www.suedostschweiz.ch/glarus/pensionierte-verschenken-ihre-13-ahv-damit-kein-glarner-kind-aussen-vor-bleibt-2215717",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wohnung Wärmen Ohne Heizung 5 Tipps für Mehr Wärme zu Hause",
+      "url": "https://www.suedostschweiz.ch/panorama/wohnung-waermen-ohne-heizung-5-tipps-fuer-mehr-waerme-zu-hause-2230550",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Wieso Nicht Schon in Nati Pause Darum Muss Hcd Topskorer Zadina Erst Jetzt Unters Messer",
+      "url": "https://www.suedostschweiz.ch/regionalsport/wieso-nicht-schon-in-nati-pause-darum-muss-hcd-topskorer-zadina-erst-jetzt-unters-messer-2229570",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Italien Setzt Hexenjagd Gegen Schweizer Asbest Unternehmer Schmidheiny Fort",
+      "url": "https://www.suedostschweiz.ch/schweiz-und-welt/italien-setzt-hexenjagd-gegen-schweizer-asbest-unternehmer-schmidheiny-fort-2230068",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Fast 90 Sachen in der 50er Zone Blitzer Knipst in Rapperswil Jona einen Vorbestraften",
+      "url": "https://www.suedostschweiz.ch/linth/fast-90-sachen-in-der-50er-zone-blitzer-knipst-in-rapperswil-jona-einen-vorbestraften-2215612",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Bischof Felix Gmür Stellt Sich der Luzerner Synode",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/bischof-felix-gmuer-stellt-sich-der-luzerner-synode-ld.4262428",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Altstadt Fasnachtsflohmarkt und Lfk Plakette",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzerner-altstadt-fasnachtsflohmarkt-und-lfk-plakette-ld.4265799",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Gastroküchen Warum Profis Ohne Chaos Nicht Arbeiten",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/gastrokuechen-warum-profis-ohne-chaos-nicht-arbeiten-ld.4265493",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Gansabhauet in Sursee Tierrechtsaktivisten Demonstrieren",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/gansabhauet-in-sursee-tierrechtsaktivisten-demonstrieren-ld.4265802",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Hat Bis zu 30 Kinder Missbraucht Jetzt Drohen 45 Jahre Haft",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/luzerner-hat-bis-zu-30-kinder-missbraucht-jetzt-drohen-45-jahre-haft-ld.4263087",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Niklaus Lenherr Zeigt Schatten und Mehr und Erinnert an Hitzesommer",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/niklaus-lenherr-zeigt-schatten-und-mehr-und-erinnert-an-hitzesommer-ld.4265695",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Luzerner Parteien Bringen Sich für Kantonsratswahl 2027 in Stellung",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/luzerner-parteien-bringen-sich-fuer-kantonsratswahl-2027-in-stellung-ld.4265208",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Kanton Luzern und Hslu Fördern Sieben Klimaprojekte",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/kanton-luzern-und-hslu-foerdern-sieben-klimaprojekte-ld.4265585",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Motzmotzer Hansjörg Schertenleibs Theater mit Werner Bodinek und Marco Käppeli",
+      "url": "https://www.aargauerzeitung.ch/kultur/aargau/motzmotzer-hansjoerg-schertenleibs-theater-mit-werner-bodinek-und-marco-kaeppeli-ld.4261225",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Kantonsspital Aarau vor Eröffnung Gericht Stoppt Ausbau",
+      "url": "https://www.aargauerzeitung.ch/aargau/aarau/kantonsspital-aarau-vor-eroeffnung-gericht-stoppt-ausbau-ld.4265356",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Kanton Optimiert Lichtsignalanlage Bleiche in Lenzburg",
+      "url": "https://www.aargauerzeitung.ch/aargau/lenzburg/kanton-optimiert-lichtsignalanlage-bleiche-in-lenzburg-ld.4264558",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Büttikon Erhöht die Steuern und Beruhigt den Streit",
+      "url": "https://www.aargauerzeitung.ch/aargau/freiamt/buettikon-erhoeht-die-steuern-und-beruhigt-den-streit-ld.4265271",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Bürgerpatrouille in Holziken Soll Sicherheitsgefühl Stärken",
+      "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/buergerpatrouille-in-holziken-soll-sicherheitsgefuehl-staerken-ld.4257230",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Akb Wirtschaftskongress So Können Firmen mit Ki und Robotik Arbeiten",
+      "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/akb-wirtschaftskongress-so-koennen-firmen-mit-ki-und-robotik-arbeiten-ld.4260367",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Rheinfelden Plant Sanierung von Schule Sportplätzen und Kunschti",
+      "url": "https://www.aargauerzeitung.ch/aargau/fricktal/rheinfelden-plant-sanierung-von-schule-sportplaetzen-und-kunschti-ld.4265316",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Aargauer Zeitung",
+      "title": "Kommentar Böttstein Will aus Zurzibiet Sozial Aussteigen",
+      "url": "https://www.aargauerzeitung.ch/aargau/zurzibiet/kommentar-boettstein-will-aus-zurzibiet-sozial-aussteigen-ld.4265149",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Stgallen Startet mit Guggenmusik in die Fasnacht",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/stgallen-startet-mit-guggenmusik-in-die-fasnacht-ld.4257460",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Naturmuseum Stgallen Eröffnet Neue Ausstellung mit Spiegelraum",
+      "url": "https://www.tagblatt.ch/ostschweiz/stgallen/naturmuseum-stgallen-eroeffnet-neue-ausstellung-mit-spiegelraum-ld.4262565",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Thurgaus Jamie Britt Nicht für Wm Aufgeboten Debatte Entbrannt",
+      "url": "https://www.tagblatt.ch/sport/thurgau/thurgaus-jamie-britt-nicht-fuer-wm-aufgeboten-debatte-entbrannt-ld.4265669",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "St. Galler Tagblatt",
+      "title": "Missbrauchsfall in Wil Kunstturntrainer zu Freiheitsstrafe Verurteilt",
+      "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/missbrauchsfall-in-wil-kunstturntrainer-zu-freiheitsstrafe-verurteilt-ld.4265541",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Weinfelder Tbs Turnhalle nach Wassereintritt Unbenutzbar",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/weinfelden-kreuzlingen/weinfelder-tbs-turnhalle-nach-wassereintritt-unbenutzbar-ld.4265693",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Bauvergaben im Thurgau Qualität vor Preis im Fokus",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/bauvergaben-im-thurgau-qualitaet-vor-preis-im-fokus-ld.4264662",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Aach Rückhaltebecken Sollen vor Jahrhunderthochwasser Schützen",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/oberthurgau/aach-rueckhaltebecken-sollen-vor-jahrhunderthochwasser-schuetzen-ld.4265269",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Stefan Saladin Bochin Verlangt Infos zum Projekt in Lupsingen",
+      "url": "https://www.bzbasel.ch/basel/baselland/stefan-saladin-bochin-verlangt-infos-zum-projekt-in-lupsingen-ld.4264642",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Basel Heimatschutz Prämiert Bauten mit Holzbezug",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/basel-heimatschutz-praemiert-bauten-mit-holzbezug-ld.4265774",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Basel Will Bewilligungspflicht für Klimaanlagen Abschaffen",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/basel-will-bewilligungspflicht-fuer-klimaanlagen-abschaffen-ld.4265616",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Bücher in Deutschland Kaufen Lohnt Sich für Schweizer",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/buecher-in-deutschland-kaufen-lohnt-sich-fuer-schweizer-ld.4264462",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Michelin Zeichnet das Löwen in Messen aus",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/michelin-zeichnet-das-loewen-in-messen-aus-ld.4264374",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurn Erhält Winter Bar auf dem Postplatz",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/solothurn-erhaelt-winter-bar-auf-dem-postplatz-ld.4265539",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Papieri Biberist Pläne für Neues Quartier Vorgestellt",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/lebern-bucheggberg-wasseramt/papieri-biberist-plaene-fuer-neues-quartier-vorgestellt-ld.4260840",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Solothurner Regierung Senkt Domherrenlöhne",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/solothurner-regierung-senkt-domherrenloehne-ld.4264638",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Holderbank 2045 So Soll Sich die Gemeinde Entwickeln",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/thal-gaeu/holderbank-2045-so-soll-sich-die-gemeinde-entwickeln-ld.4261844",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Solothurner Zeitung",
+      "title": "Pfas in Solothurner Landwirtschaftsböden Untersuchungsergebnisse Liegen vor",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/pfas-in-solothurner-landwirtschaftsboeden-untersuchungsergebnisse-liegen-vor-ld.4265509",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Niedergösgen Gemeinderat Will Erneut Steuern Erhöhen",
+      "url": "https://www.oltnertagblatt.ch/solothurn/niederamt/niedergoesgen-gemeinderat-will-erneut-steuern-erhoehen-ld.4265209",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "41 Jungmusikantenlager in Kienberg 2026",
+      "url": "https://www.oltnertagblatt.ch/leserbeitrag/ot/41-jungmusikantenlager-in-kienberg-2026-ld.4265752",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Oltner Tagblatt",
+      "title": "Pedro Lenz Gewinnt Italienischen Literaturpreis",
+      "url": "https://www.oltnertagblatt.ch/solothurn/olten/pedro-lenz-gewinnt-italienischen-literaturpreis-ld.4265711",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Benzinskandal in der Region Baden Unser Wasser Verdient Besseren Schutz",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/benzinskandal-in-der-region-baden-unser-wasser-verdient-besseren-schutz-ld.4265332",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Baden Benzinanteil im Trinkwasser Hat Sich Verdreifacht",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/baden-benzinanteil-im-trinkwasser-hat-sich-verdreifacht-ld.4263990",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Badener Tagblatt",
+      "title": "Krematorium Baden Spendet Erlös an Jugendgruppen",
+      "url": "https://www.badenertagblatt.ch/aargau/baden/krematorium-baden-spendet-erloes-an-jugendgruppen-ld.4265735",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Zürichsee Bleibt Tief Pegel Liegt bei 4054 Metern",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuerichsee-bleibt-tief-pegel-liegt-bei-4054-metern-ld.4265898",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Zürich Lanciert Ki Playbook für Schulen",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuerich-lanciert-ki-playbook-fuer-schulen-ld.4265870",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Escher Wyss Platz Lastwagenfahrer nach Unfall Angeklagt",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/escher-wyss-platz-lastwagenfahrer-nach-unfall-angeklagt-ld.4265843",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "King Zebra die Limmattaler Hardrockband ist Steil Aufgestiegen",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/king-zebra-die-limmattaler-hardrockband-ist-steil-aufgestiegen-ld.4257524",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Appenzeller Zeitung",
+      "title": "Jan Schoch vor Gericht nach Schwerem Filmunfall in Gonten",
+      "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/jan-schoch-vor-gericht-nach-schwerem-filmunfall-in-gonten-ld.4265367",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Anabolika Spritzen und Drogen Gefunden Strafgericht Zug Verurteilt Mann",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/anabolika-spritzen-und-drogen-gefunden-strafgericht-zug-verurteilt-mann-ld.4263967",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Mindy I Mohler Wird Erste Präsidentin der Letzibuzäli",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/mindy-i-mohler-wird-erste-praesidentin-der-letzibuzaeli-ld.4265385",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Innerschweizer Schachtag 2026 in Baar Schach Verbindet Generationen",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/innerschweizer-schachtag-2026-in-baar-schach-verbindet-generationen-ld.4265313",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Blick Hinter die Kulissen des Rettungsdienstes Zug",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/blick-hinter-die-kulissen-des-rettungsdienstes-zug-ld.4265270",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Gute Beziehungen Halten Uns Gesund Kiss Risch Zeigt wie es Geht",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/gute-beziehungen-halten-uns-gesund-kiss-risch-zeigt-wie-es-geht-ld.4265241",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Auch mit Wetterpech Viel Los am Stanser Märcht",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/auch-mit-wetterpech-viel-los-am-stanser-maercht-ld.4265686",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Woche der Religionen Zeigt Jüdische Christliche und Islamische Bräuche",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/woche-der-religionen-zeigt-juedische-christliche-und-islamische-braeuche-ld.4262544",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Nidwaldner Zeitung",
+      "title": "Oberdorf Fdp Sagt Ja zu Budget Steuerfuss und Reglement",
+      "url": "https://www.nidwaldnerzeitung.ch/zentralschweiz/nidwalden/oberdorf-fdp-sagt-ja-zu-budget-steuerfuss-und-reglement-ld.4264552",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Überbauung Allmend Ost in Alpnach Erhält Label Schweizer Holz",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/ueberbauung-allmend-ost-in-alpnach-erhaelt-label-schweizer-holz-ld.4265093",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Kerns Plant Neue Lösung für Schule Feuerwehr und Vereine",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/kerns-plant-neue-loesung-fuer-schule-feuerwehr-und-vereine-ld.4265290",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Obwaldner Zeitung",
+      "title": "Unfall in Alpnach Frau auf Fussgängerstreifen Angefahren",
+      "url": "https://www.obwaldnerzeitung.ch/zentralschweiz/obwalden/unfall-in-alpnach-frau-auf-fussgaengerstreifen-angefahren-ld.4265703",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Uri Mehr Transparenz bei Ausgelagerten Staatsaufgaben",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/uri-mehr-transparenz-bei-ausgelagerten-staatsaufgaben-ld.4265327",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Urner Landrat Alois Gisler Fragt nach Airbnb Regeln",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/urner-landrat-alois-gisler-fragt-nach-airbnb-regeln-ld.4265514",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Uri Landrat Will Mehr Sensibilisierung für Darmkrebs",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/uri-landrat-will-mehr-sensibilisierung-fuer-darmkrebs-ld.4265501",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Urner Landrat Bewilligt Mehr Geld für Zusätzliches Personal",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/urner-landrat-bewilligt-mehr-geld-fuer-zusaetzliches-personal-ld.4265268",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Uri Nino Arnold Verlangt Antworten zum Wohnungsmarkt",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/uri-nino-arnold-verlangt-antworten-zum-wohnungsmarkt-ld.4265500",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Urner Zeitung",
+      "title": "Uri Lehnt Bericht zur Armutssituation Ab",
+      "url": "https://www.urnerzeitung.ch/zentralschweiz/uri/uri-lehnt-bericht-zur-armutssituation-ab-ld.4265499",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundesrat will Ukrainer mit Status S weiter ins Ausland reisen lassen",
+      "url": "https://www.watson.ch/schweiz/international/201693792-bundesrat-will-ukrainer-mit-status-s-weiter-ins-ausland-reisen-lassen",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Beziehungsverträge und Arbeitsausfälle: Die Auswirkungen von GTA 6",
+      "url": "https://www.watson.ch/digital/leben/137699738-beziehungsvertraege-und-arbeitsausfaelle-die-auswirkungen-von-gta-6",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bund verschwieg Details zu Ransomware-Attacke von Akira – das wissen wir",
+      "url": "https://www.watson.ch/schweiz/digital/929554930-bund-verschwieg-details-zu-ransomware-attacke-von-akira-das-wissen-wir",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zentrum Gleis D: Ransomware-Attacke gegen medizinisches Zentrum in Chur",
+      "url": "https://www.watson.ch/wirtschaft/digital/217603350-zentrum-gleis-d-ransomware-attacke-gegen-medizinisches-zentrum-in-chur",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Genoni knackt als erster Goalie 1000 Spiele – seine Karriere in Zahlen",
+      "url": "https://www.watson.ch/sport/ev-zug/330501530-genoni-knackt-als-erster-goalie-1000-spiele-seine-karriere-in-zahlen",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Plus 347 Prozent: VW steigert Elektroauto-Verkäufe in China",
+      "url": "https://www.watson.ch/digital/auto/516438274-plus-347-prozent-vw-steigert-elektroauto-verkaeufe-in-china",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Besucher liessen sich im Kino hypnotisieren – so ist ihr Fazit",
+      "url": "https://www.watson.ch/leben/film-news/112820704-besucher-liessen-sich-im-kino-hypnotisieren-so-ist-ihr-fazit",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "So hilft eine Künstliche Intelligenz norwegischen Fischern",
+      "url": "https://www.watson.ch/videos/kuenstliche-intelligenz/697707152-so-hilft-eine-kuenstliche-intelligenz-norwegischen-fischern",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Die Schweizer Berufslehre stösst auf immer weniger Interesse",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/825128089-die-schweizer-berufslehre-stoesst-auf-immer-weniger-interesse",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Hacker können iMessage-Gruppenchats mitlesen",
+      "url": "https://www.watson.ch/digital/apple/865072950-hacker-koennen-imessage-gruppenchats-mitlesen",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Bundesrat genehmigt Tarif-Revision - Hausärzte unzufrieden",
+      "url": "https://www.watson.ch/schweiz/bundesrat/729567453-bundesrat-genehmigt-tarif-revision-hausaerzte-unzufrieden",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Spanien: Generalstreik legt Land vor Neuwahlen lahm",
+      "url": "https://www.watson.ch/international/spanien/966286743-spanien-generalstreik-legt-land-vor-neuwahlen-lahm",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Don’t Judge: Peter spricht in Watson-Podcast über Windelfetisch",
+      "url": "https://www.watson.ch/leben/podcast/585782787-don-t-judge-peter-spricht-in-watson-podcast-ueber-windelfetisch",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Chat-Futter: Pierre Crinon erzielt ein dummes Eigentor",
+      "url": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-pierre-crinon-erzielt-ein-dummes-eigentor",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Melbourne-Toulouse: Qantas stellt mit Airbus Langstreckenrekord auf",
+      "url": "https://www.watson.ch/international/luftfahrt/855066808-melbourne-toulouse-qantas-stellt-mit-airbus-langstreckenrekord-auf",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Kanadierin beendet als erste Frau Antarktis-Ultramarathon",
+      "url": "https://www.watson.ch/videos/extremsport/257971369-kanadierin-beendet-als-erste-frau-antarktis-ultramarathon",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Zürcher Schulen erhalten einen Leitfaden für Künstliche Intelligenz",
+      "url": "https://www.watson.ch/schweiz/schule-bildung/659571814-zuercher-schulen-erhalten-einen-leitfaden-fuer-kuenstliche-intelligenz",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "«Bulgari Pink»: Ring mit seltenem Diamant wechselt Besitzer in Genf",
+      "url": "https://www.watson.ch/schweiz/fashion/174646108-bulgari-pink-ring-mit-seltenem-diamant-wechselt-besitzer-in-genf",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Was der Hitzesommer mit Spinnen, Zecken und Baumwanzen macht",
+      "url": "https://www.freiburger-nachrichten.ch/story/304820/was-der-hitzesommer-mit-spinnen-zecken-und-baumwanzen-macht",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Grosser Rat will keine Untersuchung gegen den Freiburger Generalstaatsanwalt",
+      "url": "https://www.freiburger-nachrichten.ch/story/304631/grosser-rat-will-keine-untersuchung-gegen-den-freiburger-generalstaatsanwalt",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Flughafen Zürich baut WCs für 15 Millionen Franken um – und verzichtet neu auf Händetrockner",
+      "url": "https://www.freiburger-nachrichten.ch/story/304810/flughafen-z%C3%BCrich-baut-wcs-f%C3%BCr-15-millionen-franken-um-und-verzichtet-neu-auf-h%C3%A4ndetrockner",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Freiburger Polizei ist bald mit Körperkameras unterwegs",
+      "url": "https://www.freiburger-nachrichten.ch/story/304786/freiburger-polizei-ist-bald-mit-k%C3%B6rperkameras-unterwegs",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Der Grosse Rat will CO2-Schleudern nicht bestrafen",
+      "url": "https://www.freiburger-nachrichten.ch/story/304761/der-grosse-rat-will-co2schleudern-nicht-bestrafen",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "SVP-Nationalrat wegen häuslicher Gewalt angeklagt",
+      "url": "https://www.freiburger-nachrichten.ch/story/304808/svpnationalrat-wegen-h%C3%A4uslicher-gewalt-angeklagt",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Luftabwehr: Aeschis «Nein» kostet bis zu 100 Millionen",
+      "url": "https://www.freiburger-nachrichten.ch/story/304806/luftabwehr-aeschis-nein-kostet-bis-zu-100-millionen",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Putin wittert die Chance seines Lebens – dank Trump",
+      "url": "https://www.freiburger-nachrichten.ch/story/304803/putin-wittert-die-chance-seines-lebens-dank-trump",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das Urteil um die ehemalige Präsidentin des FC Freiburg steht fest",
+      "url": "https://www.freiburger-nachrichten.ch/story/304717/das-urteil-um-die-ehemalige-pr%C3%A4sidentin-des-fc-freiburg-steht-fest",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Zum 70. Mal steht Yakin an der Seitenlinie – und kratzt an den Rekorden seines Vorgängers",
+      "url": "https://www.freiburger-nachrichten.ch/story/304772/zum-70-mal-steht-yakin-an-der-seitenlinie-und-kratzt-an-den-rekorden-seines-vorg%C3%A4ngers",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "In Murten erklingen wieder die Guggen",
+      "url": "https://www.freiburger-nachrichten.ch/story/304734/in-murten-erklingen-wieder-die-guggen",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Leonardo Gomez Mariaca zu seiner erneuten Kandidatur: «Ich sehe mich als politische Alternative»",
+      "url": "https://www.freiburger-nachrichten.ch/story/304630/leonardo-gomez-mariaca-zu-seiner-erneuten-kandidatur-ich-sehe-mich-als-politische-alternative",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Anabolika, Spritzen und Drogen gefunden: Zuger kommt dennoch «glimpflich davon»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/anabolika-spritzen-und-drogen-gefunden-strafgericht-zug-verurteilt-mann-art-1731655",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wohin geht das Geld? – Mitte-Landrat fordert mehr Transparenz",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/uri-mehr-transparenz-bei-ausgelagerten-staatsaufgaben-art-1731654",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Vertrauen kann man nicht fordern»: Bischof Gmür stellt sich der Luzerner Synode",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/bischof-felix-gmuer-stellt-sich-der-luzerner-synode-art-1731650",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Airbnb in Uri: Reichen die Regeln aus?",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/urner-landrat-alois-gisler-fragt-nach-airbnb-regeln-art-1731649",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Der Super-Vor-Vorfasnachtssamstag steht bevor – mit Flohmi und neuer LFK-Plakette",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-altstadt-fasnachtsflohmarkt-und-lfk-plakette-art-1731648",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kerzen, Brot und Gebete: So nah kamen sich drei Religionen in Nidwalden",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/woche-der-religionen-zeigt-juedische-christliche-und-islamische-braeuche-art-1731642",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Historisch: Erstmals regiert bei den Letzibuzäli eine Prinzessin",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/mindy-i-mohler-wird-erste-praesidentin-der-letzibuzaeli-art-1731640",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Wohnhäuser Allmend Ost erhalten Auszeichnung für Schweizer Holz",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/ueberbauung-allmend-ost-in-alpnach-erhaelt-label-schweizer-holz-art-1731639",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Landrat setzt bei Darmkrebs auf Sensibilisierung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/uri-landrat-will-mehr-sensibilisierung-fuer-darmkrebs-art-1731635",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Gansabhauet in Sursee: Tierrechtsaktivisten demonstrieren bei Traditionsanlass",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/gansabhauet-in-sursee-tierrechtsaktivisten-demonstrieren-art-1731634",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Mehr Personal ja – aber kein Freipass für die Regierung",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/urner-landrat-bewilligt-mehr-geld-fuer-zusaetzliches-personal-art-1731633",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Was ist für Schule, Feuerwehr und Vereine die beste Lösung?",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kerns-plant-neue-loesung-fuer-schule-feuerwehr-und-vereine-art-1731632",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "SP-Landrat setzt sich für bezahlbaren Wohnraum ein",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/uri-nino-arnold-verlangt-antworten-zum-wohnungsmarkt-art-1731623",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Luzerner hat bis zu 30 Kinder missbraucht – und soll nun 4,5 Jahre lang ins Gefängnis",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/luzerner-hat-bis-zu-30-kinder-missbraucht-jetzt-drohen-45-jahre-haft-art-1731622",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Niklaus Lenherr zeigt «Schatten ... und mehr» – und erinnert dabei auch an den Hitzesommer",
+      "url": "https://www.bote.ch/nachrichten/kultur/niklaus-lenherr-zeigt-schatten-und-mehr-und-erinnert-an-hitzesommer-art-1731621",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Armutsbericht findet im Landrat keine Mehrheit",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/uri-lehnt-bericht-zur-armutssituation-ab-art-1731619",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«You’ve Got Mail»-Remake sorgt für Aufschrei unter Fans – doch etwas spricht auch dafür",
+      "url": "https://www.bote.ch/nachrichten/kultur/youve-got-mail-remake-sorgt-fuer-aufschrei-doch-etwas-spricht-dafuern-art-1731615",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kanton und Hochschule fördern sieben innovative Klimaprojekte",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/kanton-luzern-und-hslu-foerdern-sieben-klimaprojekte-art-1731614",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Autofahrer erfasst Frau auf Fussgängerstreifen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/unfall-in-alpnach-frau-auf-fussgaengerstreifen-angefahren-art-1731611",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "FDP Oberdorf fasst drei einstimmige Ja-Parolen",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/oberdorf-fdp-sagt-ja-zu-budget-steuerfuss-und-reglement-art-1731601",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Warum Wir Immer Häufiger bei Anderen Stehlen",
+      "url": "https://insideparadeplatz.ch/2026/11/11/warum-wir-immer-haeufiger-bei-anderen-stehlen/",
+      "summary": "",
+      "published": "2026-11-11T17:01:55.908215+00:00"
     }
   ]
 }
