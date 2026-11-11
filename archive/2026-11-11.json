@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T23:32:06.591998+00:00",
+  "generated": "2026-11-11T00:02:23.148938+00:00",
   "date": "2026-11-11",
-  "count": 31,
+  "count": 32,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -219,6 +219,13 @@
       "url": "https://www.bote.ch/service/leserbriefe/20-millionen-fuer-den-allerwertesten-art-1731424",
       "summary": "",
       "published": "2026-11-10T23:32:06.591998+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Entscheid zur Geisterstunde: Das hat das Schaffhauser Stadtparlament zum Budget beschlossen",
+      "url": "https://www.shn.ch/region/stadt/2026-11-11/entscheid-zur-geisterstunde-das-hat-das-schaffhauser-stadtparlament-zum",
+      "summary": "Nach Mitternacht erklang die Schlussglocke: Der Grosse Stadtrat hat am Dienstagabend das Budget 2027 beraten und mit 19 zu zehn Stimmen genehmigt. Keine Steuersenkung, moderate Lohnmassnahmen beim stä",
+      "published": "2026-11-11T00:02:23.148938+00:00"
     }
   ]
 }
