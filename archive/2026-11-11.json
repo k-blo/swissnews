@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T04:23:17.487395+00:00",
+  "generated": "2026-11-11T04:32:10.026494+00:00",
   "date": "2026-11-11",
-  "count": 157,
+  "count": 163,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1101,6 +1101,48 @@
       "url": "https://www.aargauerzeitung.ch/aargau/freiamt/niederwiler-organisiert-die-logistik-des-circus-knie-ld.4260684",
       "summary": "",
       "published": "2026-11-11T04:23:17.487395+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTKOMMENTAR - Damit die Taiwanstrasse nicht zum Donbass wird: Der Westen steht in der Verantwortung",
+      "url": "https://www.nzz.ch/meinung/damit-die-taiwanstrasse-nicht-zum-donbass-wird-der-westen-steht-in-der-verantwortung-ld.10058216",
+      "summary": "",
+      "published": "2026-11-11T04:32:10.026494+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTBEITRAG - CO2-Bepreisung, ja – Steuererhöhung durch die Hintertür, nein",
+      "url": "https://www.nzz.ch/meinung/co2-bepreisung-ja-steuererhoehung-durch-die-hintertuer-nein-ld.10049612",
+      "summary": "",
+      "published": "2026-11-11T04:32:10.026494+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "GASTBEITRAG - Entwicklungszusammenarbeit im Interesse der Schweiz",
+      "url": "https://www.nzz.ch/meinung/entwicklungszusammenarbeit-im-interesse-der-schweiz-ld.10026187",
+      "summary": "",
+      "published": "2026-11-11T04:32:10.026494+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Wie soll der Bund die 13. AHV-Rente finanzieren?",
+      "url": "https://www.freiburger-nachrichten.ch/story/302475/wie-soll-der-bund-die-13-ahvrente-finanzieren",
+      "summary": "",
+      "published": "2026-11-11T04:32:10.026494+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Julien Rod ist zurückgetreten",
+      "url": "https://www.freiburger-nachrichten.ch/story/304563/julien-rod-ist-zur%C3%BCckgetreten",
+      "summary": "",
+      "published": "2026-11-11T04:32:10.026494+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Liebe, Macht, Intrigen: Das Bundesgericht in der Krise",
+      "url": "https://www.freiburger-nachrichten.ch/story/304570/liebe-macht-intrigen-das-bundesgericht-in-der-krise",
+      "summary": "",
+      "published": "2026-11-11T04:32:10.026494+00:00"
     }
   ]
 }
