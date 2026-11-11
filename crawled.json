@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T01:02:19.862881+00:00",
+  "generated": "2026-11-11T01:32:04.655438+00:00",
   "date": "2026-11-11",
-  "count": 34,
+  "count": 36,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -240,6 +240,20 @@
       "url": "https://www.watson.ch/international/usa/559719441-republikaner-blockieren-impeachment-gegen-hegseth",
       "summary": "",
       "published": "2026-11-11T00:32:01.459723+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Fast 20 Anschläge: USA klagen mutmassliche Iran-Helfer an",
+      "url": "https://www.watson.ch/international/iran/910707901-fast-20-anschlaege-usa-klagen-mutmassliche-iran-helfer-an",
+      "summary": "",
+      "published": "2026-11-11T01:32:04.655438+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Nvidia-Aktie auf tiefstem Stand seit März",
+      "url": "https://www.watson.ch/wirtschaft/international/282114179-nvidia-aktie-auf-tiefstem-stand-seit-maerz",
+      "summary": "",
+      "published": "2026-11-11T01:32:04.655438+00:00"
     }
   ]
 }
