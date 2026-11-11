@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T00:02:23.148938+00:00",
+  "generated": "2026-11-11T00:32:01.459723+00:00",
   "date": "2026-11-11",
-  "count": 32,
+  "count": 34,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -226,6 +226,20 @@
       "url": "https://www.shn.ch/region/stadt/2026-11-11/entscheid-zur-geisterstunde-das-hat-das-schaffhauser-stadtparlament-zum",
       "summary": "Nach Mitternacht erklang die Schlussglocke: Der Grosse Stadtrat hat am Dienstagabend das Budget 2027 beraten und mit 19 zu zehn Stimmen genehmigt. Keine Steuersenkung, moderate Lohnmassnahmen beim stä",
       "published": "2026-11-11T00:02:23.148938+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Hegseth entgeht Amtsenthebung",
+      "url": "https://www.zentralplus.ch/news/hegseth-entgeht-amtsenthebung-2910797/",
+      "summary": "Das US-Repräsentantenhaus hat einen Antrag zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgelehnt. Eine Mehrheit der Abgeordneten sprach sich gegen das sogenannte Impeachment aus. Eingerei",
+      "published": "2026-11-11T00:32:01.459723+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Republikaner blockieren Impeachment gegen Hegseth",
+      "url": "https://www.watson.ch/international/usa/559719441-republikaner-blockieren-impeachment-gegen-hegseth",
+      "summary": "",
+      "published": "2026-11-11T00:32:01.459723+00:00"
     }
   ]
 }
