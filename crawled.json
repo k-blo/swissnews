@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T21:01:56.972721+00:00",
+  "generated": "2026-11-11T21:31:56.322005+00:00",
   "date": "2026-11-11",
-  "count": 1038,
+  "count": 1042,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -7268,6 +7268,34 @@
       "url": "https://www.freiburger-nachrichten.ch/story/304830/bei-der-sp-ist-die-ahvfinanzierung-nicht-unumstritten",
       "summary": "",
       "published": "2026-11-11T21:01:56.972721+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Zermatt Tourismus warnt Kunden vor Cyberangriff",
+      "url": "https://www.blick.ch/schweiz/westschweiz/wallis/zermatt-tourismus-meldet-cyberangriff-kundendaten-geklaut/dhfqnbn",
+      "summary": "Wer Wert- oder Erlebnisgutscheine von Zermatt Tourismus gekauft hat, könnte von einem Datenleck betroffen sein. Zermatt Tourismus bestätigt einen Cyberangriff und warnt vor möglichen Betrugsversuchen ",
+      "published": "2026-11-11T21:31:56.322005+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Krawalle bei Generalstreik in Spanien",
+      "url": "https://www.zentralplus.ch/news/krawalle-bei-generalstreik-in-spanien-2911042/",
+      "summary": "Bei Protesten gegen Wohnungsnot und Kaufkraftverlust sind in Spanien am Mittwochabend Krawalle ausgebrochen. Nach Kundgebungen in Madrid und Barcelona setzte die Polizei Tränengas und Gummigeschosse g",
+      "published": "2026-11-11T21:31:56.322005+00:00"
+    },
+    {
+      "source": "Persönlich",
+      "title": "FC St. Gallen holt den Mastertitel",
+      "url": "https://www.persoenlich.com/digital/fc-st-gallen-holt-den-mastertitel",
+      "summary": "Die Fan-Anwendung des Ostschweizer Fussballclubs ist am Mittwochabend in Zürich zum Projekt des Jahres gekürt worden. Zudem holte sie in vier Kategorien Gold. Zweifach ausgezeichnet wurde auch Livemap",
+      "published": "2026-11-11T21:31:56.322005+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Bundesgericht: Donzallaz zieht Kandidatur zurück – van de Graaf soll bestätigt werden",
+      "url": "https://www.freiburger-nachrichten.ch/story/304846/bundesgericht-donzallaz-zieht-kandidatur-zur%C3%BCck%C2%A0-van-de-graaf-soll-best%C3%A4tigt-werden",
+      "summary": "",
+      "published": "2026-11-11T21:31:56.322005+00:00"
     }
   ]
 }
