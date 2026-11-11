@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T18:02:03.018489+00:00",
+  "generated": "2026-11-11T18:32:11.493180+00:00",
   "date": "2026-11-11",
-  "count": 884,
+  "count": 961,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -6190,6 +6190,545 @@
       "url": "https://www.bote.ch/nachrichten/schwyz/srf-in-rothenthurm-kontroverse-um-ki-teletext-und-wahrheit-art-1731606",
       "summary": "",
       "published": "2026-11-11T18:02:03.018489+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "In Kölliken AG herrscht Stromausfall",
+      "url": "https://www.blick.ch/schweiz/mittelland/aargau/stromausfall-in-koelliken-ag-stoerung-im-netz/m3rn669",
+      "summary": "Am Mittwochabend kommt es in der Aargauer Gemeinde Kölliken zu einem Stromausfall. Grund dafür ist eine Störung im vorgelagerten Netz im Raum Bottenwil.",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Blick",
+      "title": "Luzerner missbraucht 30 Kinder – 4,5 Jahre Haft",
+      "url": "https://www.blick.ch/schweiz/zentralschweiz/luzern/luzerner-missbraucht-30-kinder-45-jahre-haft/k9h9lh1",
+      "summary": "Das Luzerner Kantonsgericht hat einen 54-Jährigen für den Missbrauch von bis zu 30 Buben zu 4,5 Jahren Haft verurteilt. Der Staatsanwalt forderte 7,5 Jahre, doch das Gericht blieb bei einer milderen S",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Bis zu 100 Mio. Mehrkosten: Aeschi verzögert Luftabwehr-Projekt",
+      "url": "https://www.20min.ch/story/ratsbuero-entscheid-bis-zu-100-mio-mehrkosten-aeschi-verzoegert-luftabwehr-projekt-103665734",
+      "summary": "Verteidigungsminister Pfister wollte die Beschaffung der Luftabwehr prioritär behandeln. Das Ratsbüro unter Federführung von Thomas Aeschi entschloss sich dagegen.",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Warum haben es Frauen gern wärmer? Forscher haben eine Erklärung",
+      "url": "https://www.20min.ch/story/temperaturempfinden-warum-haben-es-frauen-gern-waermer-forscher-haben-eine-erklaerung-103665717",
+      "summary": "Frauen frieren oft schneller als Männer. Wieso das so ist, könnte laut einer neuen Studie an speziellen Sensorproteinen und männlichen Sexualhormonen liegen.",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Monatszahlen für Oktober: Erneut mehr Passagiere am Flughafen Zürich als vor einem Jahr",
+      "url": "https://www.tagesanzeiger.ch/flughafen-zuerich-124751-passagiere-an-einem-tag-neuer-rekord-342626631424",
+      "summary": "Noch nie flogen an einem Tag mehr Fluggäste ab, via oder nach Zürich als am 4. Oktober. Über den ganzen Monat gesehen, gab es ebenfalls Höchstzahlen.",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Der Bund",
+      "title": "Benjamin Fisch im Porträt: Er schleppte SVP-Aeschi zum syrischen Coiffeur: Wer ist der neue «Arena»-Moderator?",
+      "url": "https://www.derbund.ch/arena-benjamin-fisch-folgt-sandro-brotz-ab-2027-937245114523",
+      "summary": "Schlagfertig und politisch schwer einzuordnen: So beschreiben Weggefährten den Nachfolger von Sandro Brotz. Über einen Mann, der schon als 14-Jähriger auf der Bühne brillierte.",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Streit um autofreien Bankverein: Esther Keller: «Die zusätzlichen Fahrzeuge haben kaum Auswirkungen auf den heutigen Aeschenplatz»»",
+      "url": "https://www.bazonline.ch/bankverein-autofrei-haelt-aeschenplatz-mehrverkehr-aus-840103417039",
+      "summary": "Ab Mitte November leitet Basel Autos vom Bankverein über den Aeschenplatz um. Die LDP bezweifelt die Verkehrsmodelle, doch Regierungsrätin Esther Keller verteidigt den Plan.",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Lohndumping bei Standbetreibern?: «Basler Herbstmesse darf nicht auf Kosten derer stattfinden, die sie ermöglichen»",
+      "url": "https://www.bazonline.ch/basler-herbstmesse-interpellation-zu-lohndumping-und-schwarzarbeit-355540559811",
+      "summary": "Am Mittwochnachmittag hat Regierungsrat Kaspar Sutter die Interpellation betreffend der Arbeitsbedingungen an der Basler «Mäss» von Basta-Grossrätin Franziska Stier beantwortet.",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Warum Van de Graaf vorgeschlagen wurde",
+      "url": "https://www.zentralplus.ch/news/warum-van-de-graaf-vorgeschlagen-wurde-2911028/",
+      "summary": "Eine Mehrheit der Gerichtskommission sei zum Schluss gekommen, Beatrice van de Graaf, die mit ihrem Richterkollegen Yves Donzallaz eine Liebesbeziehung geführt hatte, zur Wiederwahl vorzuschlagen, sag",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "BGer: Donzallaz zieht Kandidatur zurück",
+      "url": "https://www.zentralplus.ch/news/bger-donzallaz-zieht-kandidatur-zurueck-2911023/",
+      "summary": "Bundesrichter Yves Donzallaz hat seine Kandidatur für die Wiederwahl ans Bundesgericht zurückgezogen. Das gab die Gerichtskommission von National- und Ständerat bekannt. Bundesrichterin Beatrice van d",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"Ari\" in der Kategorie Innovation",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-ari-in-der-kategorie-innovation",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"SHV FSVL\" in der Kategorie Technology",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-shv-fsvl-in-der-kategorie-technology",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Netzwoche",
+      "title": "Gold für \"FCSG\" in der Kategorie User Engagement",
+      "url": "https://www.netzwoche.ch/news/2026-11-11/gold-fuer-fcsg-in-der-kategorie-user-engagement",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ein Gefangenenaustausch und weitere Gespräche: Die Verhandlungen in Abu Dhabi bringen keinen Durchbruch",
+      "url": "https://www.nzz.ch/international/ein-gefangenenaustausch-und-weitere-gespraeche-die-verhandlungen-in-abu-dhabi-bringen-keinen-durchbruch-ld.10060754",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Lega-Affäre im Tessin: Was hat sie mit den anstehenden Kantonalwahlen und dem Zustand der Rechtspartei zu tun?",
+      "url": "https://www.nzz.ch/schweiz/lega-affaere-im-tessin-was-hat-sie-mit-den-anstehenden-kantonalwahlen-und-dem-zustand-der-rechtspartei-zu-tun-ld.10060535",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Im Dauerclinch des Erzählens",
+      "url": "https://weltwoche.ch/story/im-dauerclinch-des-erzaehlens/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Brünstiger als das Weisse Haus Erlaubt",
+      "url": "https://weltwoche.ch/story/bruenstiger-als-das-weisse-haus-erlaubt/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Ikone der Woche 258",
+      "url": "https://weltwoche.ch/story/ikone-der-woche-258/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Oralsex Ja Petting Nein",
+      "url": "https://weltwoche.ch/story/oralsex-ja-petting-nein/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Kunst der Freiheit",
+      "url": "https://weltwoche.ch/story/kunst-der-freiheit/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Steuerschock im Januar",
+      "url": "https://weltwoche.ch/story/steuerschock-im-januar/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Die Stauffacherin",
+      "url": "https://weltwoche.ch/story/die-stauffacherin/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Ewr Staaten Leiden an Brüsseler Gesetzesflut",
+      "url": "https://weltwoche.ch/story/ewr-staaten-leiden-an-bruesseler-gesetzesflut/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Affäre Donzallaz Van De Graaf das Bundesgericht Spricht Klartext Victor Davis Hanson über die Chancen des Abgestraften Donald Trump Susanne Weigelin Schwiedrzik China Bereitet Sich auf Weltkrieg",
+      "url": "https://weltwoche.ch/story/affaere-donzallaz-van-de-graaf-das-bundesgericht-spricht-klartext-victor-davis-hanson-ueber-die-chancen-des-abgestraften-donald-trump-susanne-weigelin-schwiedrzik-china-bereitet-sich-auf-weltkrieg/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Waffendeals und Neutralität",
+      "url": "https://weltwoche.ch/story/waffendeals-und-neutralitaet/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Lob der Lausanner",
+      "url": "https://weltwoche.ch/story/lob-der-lausanner/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Iwp 40",
+      "url": "https://weltwoche.ch/story/iwp-40/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Afrikanische Begeisterung Trifft",
+      "url": "https://weltwoche.ch/story/afrikanische-begeisterung-trifft/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Mehr Staatseinnahmenhöhere Steuern",
+      "url": "https://weltwoche.ch/story/mehr-staatseinnahmenhoehere-steuern/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Neu Seit 1984",
+      "url": "https://weltwoche.ch/story/neu-seit-1984/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Chris von Rohr 40",
+      "url": "https://weltwoche.ch/story/chris-von-rohr-40/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Wie eine Mürrische Eule",
+      "url": "https://weltwoche.ch/story/wie-eine-muerrische-eule/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "In Aller Freundschaft",
+      "url": "https://weltwoche.ch/story/in-aller-freundschaft/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Madame Zwischen den Welten",
+      "url": "https://weltwoche.ch/story/madame-zwischen-den-welten/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Welt im Kleinformat",
+      "url": "https://weltwoche.ch/story/welt-im-kleinformat/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Brad Pitt in der Badehose das Wäre ein Renner Geworden",
+      "url": "https://weltwoche.ch/story/brad-pitt-in-der-badehose-das-waere-ein-renner-geworden/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Was Gta 6 mit dem Weltfrieden zu Tun Hat",
+      "url": "https://weltwoche.ch/story/was-gta-6-mit-dem-weltfrieden-zu-tun-hat/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Kühle Göttin der Salons",
+      "url": "https://weltwoche.ch/story/kuehle-goettin-der-salons/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Von Aussen und von Innen",
+      "url": "https://weltwoche.ch/story/von-aussen-und-von-innen/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Iouri Podladtchikov Olympiasieger",
+      "url": "https://weltwoche.ch/story/iouri-podladtchikov-olympiasieger/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Die Sprache Hat Sich Verändert",
+      "url": "https://weltwoche.ch/story/die-sprache-hat-sich-veraendert/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Lass den Condor Ziehen",
+      "url": "https://weltwoche.ch/story/lass-den-condor-ziehen/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Miriam Klein 1937 2026",
+      "url": "https://weltwoche.ch/story/miriam-klein-1937-2026/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Janosch 1931 2026",
+      "url": "https://weltwoche.ch/story/janosch-1931-2026/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Der zu Tiefe Falldes Russell Brand",
+      "url": "https://weltwoche.ch/story/der-zu-tiefe-falldes-russell-brand/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Leserbriefe 876",
+      "url": "https://weltwoche.ch/story/leserbriefe-876/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Der Tagi",
+      "url": "https://weltwoche.ch/story/der-tagi/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Ein Fast Aussichtsloser Fall",
+      "url": "https://weltwoche.ch/story/ein-fast-aussichtsloser-fall/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Frauen und Kinder Zürst 2",
+      "url": "https://weltwoche.ch/story/frauen-und-kinder-zuerst-2/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Migrantische Gewalt",
+      "url": "https://weltwoche.ch/story/migrantische-gewalt/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Erinnerungslücken 2",
+      "url": "https://weltwoche.ch/story/erinnerungsluecken-2/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Eisenkots Dilemma",
+      "url": "https://weltwoche.ch/story/eisenkots-dilemma/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Boris Palmer und die Moral",
+      "url": "https://weltwoche.ch/story/boris-palmer-und-die-moral/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Freiheit Verantwortung Liebe",
+      "url": "https://weltwoche.ch/story/freiheit-verantwortung-liebe/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Liebe Gülsha Adilji 2",
+      "url": "https://weltwoche.ch/story/liebe-guelsha-adilji-2/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Michels Euro Freisinnverliert Wahl um Wahl",
+      "url": "https://weltwoche.ch/story/michels-euro-freisinnverliert-wahl-um-wahl/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Armut im Geiste",
+      "url": "https://weltwoche.ch/story/armut-im-geiste/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Deutschlands Bundespräsident",
+      "url": "https://weltwoche.ch/story/deutschlands-bundespraesident/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Trump Kann Jetzt Tun was er Will",
+      "url": "https://weltwoche.ch/story/trump-kann-jetzt-tun-was-er-will/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Dann Tat sie Etwas Wunderbares",
+      "url": "https://weltwoche.ch/story/dann-tat-sie-etwas-wunderbares/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Ein Gefängnis für die Politiker",
+      "url": "https://weltwoche.ch/story/ein-gefaengnis-fuer-die-politiker/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Bitte Lösche Deinen Kommentar",
+      "url": "https://weltwoche.ch/story/bitte-loesche-deinen-kommentar/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Frieden Gibt es Nur mit Nicht Gegen Russland",
+      "url": "https://weltwoche.ch/story/frieden-gibt-es-nur-mit-nicht-gegen-russland/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Weltwoche",
+      "title": "Äschis Schräge Kandidatur",
+      "url": "https://weltwoche.ch/story/aeschis-schraege-kandidatur/",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Gemeindeversammlung Glarus Nord Wir Tickern Live für Euch",
+      "url": "https://www.suedostschweiz.ch/glarus/gemeindeversammlung-glarus-nord-wir-tickern-live-fuer-euch-2220383",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Surseer Gansabhauet Frau Holt zum Zweiten Mal eine Gans",
+      "url": "https://www.luzernerzeitung.ch/zentralschweiz/kanton-luzern/surseer-gansabhauet-frau-holt-zum-zweiten-mal-eine-gans-ld.4265351",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "bz Basel",
+      "title": "Michael Hug Gibt Brk Präsidium in Basel Ab",
+      "url": "https://www.bzbasel.ch/basel/basel-stadt/michael-hug-gibt-brk-praesidium-in-basel-ab-ld.4265649",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Zürich Frau 76 von Lastwagen Erfasst und Schwer Verletzt",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/zuerich-frau-76-von-lastwagen-erfasst-und-schwer-verletzt-ld.4265963",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Ev Zug Hc Ambri Piotta die Partie im Liveticker",
+      "url": "https://www.zugerzeitung.ch/sport/evz/ev-zug-hc-ambri-piotta-die-partie-im-liveticker-ld.4265618",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "GLC: Darum ist Mercedes' neuer Stromer auf Monate ausverkauft",
+      "url": "https://www.watson.ch/digital/auto/584977729-glc-darum-ist-mercedes-neuer-stromer-auf-monate-ausverkauft",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA-Iran-Krieg verursacht 200 Milliarden Dollar Schäden in Golfstaaten",
+      "url": "https://www.watson.ch/international/iran/116039645-usa-iran-krieg-verursacht-200-milliarden-dollar-schaeden-in-golfstaaten",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Swiss plant weiterhin keine Flüge nach Dubai",
+      "url": "https://www.watson.ch/schweiz/international/286479274-swiss-plant-weiterhin-keine-fluege-nach-dubai",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Grosser Rat: Diese Kandidierenden wurden nicht gewählt",
+      "url": "https://www.freiburger-nachrichten.ch/story/304800/grosser-rat-diese-kandidierenden-wurden-nicht-gew%C3%A4hlt",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das Mercosur-Abkommen spaltet das bürgerliche Lager und sogar die Landwirtschaft",
+      "url": "https://www.freiburger-nachrichten.ch/story/304646/das-mercosurabkommen-spaltet-das-b%C3%BCrgerliche-lager-und-sogar-die-landwirtschaft",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Genoni feiert 1000. NL-Spiel – Martschini gibt Comeback: EV Zug – Ambri-Piotta jetzt live",
+      "url": "https://www.bote.ch/nachrichten/sport/ev-zug-hc-ambri-piotta-die-partie-im-liveticker-art-1731661",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "«Von mir aus könnte es auch eine Gummigans sein»",
+      "url": "https://www.bote.ch/nachrichten/zentralschweiz/surseer-gansabhauet-frau-holt-zum-zweiten-mal-eine-gans-art-1731660",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Bundesgericht: Donzallaz zieht Kandidatur zurück&nbsp;– van de Graaf soll bestätigt werden",
+      "url": "https://www.bote.ch/nachrichten/schweizundwelt/bundesgericht-donzallaz-zieht-kandidatur-zurueck-van-de-graaf-bleibt-art-1731659",
+      "summary": "",
+      "published": "2026-11-11T18:32:11.493180+00:00"
     }
   ]
 }
