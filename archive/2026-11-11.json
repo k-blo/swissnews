@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T01:32:04.655438+00:00",
+  "generated": "2026-11-11T02:02:06.399588+00:00",
   "date": "2026-11-11",
-  "count": 36,
+  "count": 39,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -254,6 +254,27 @@
       "url": "https://www.watson.ch/wirtschaft/international/282114179-nvidia-aktie-auf-tiefstem-stand-seit-maerz",
       "summary": "",
       "published": "2026-11-11T01:32:04.655438+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Kennedy-Familie klagt gegen Trumps Triumphbogen",
+      "url": "https://www.20min.ch/story/mitten-in-washington-kennedy-familie-wehrt-sich-gegen-trumps-triumphbogen-103665377",
+      "summary": "US-Präsident Donald Trump will einen riesigen Triumphbogen in Washington bauen lassen. Doch der Plan ist umstritten. Nun gibt es prominenten Gegenwind.",
+      "published": "2026-11-11T02:02:06.399588+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Mitten in Washington: Kennedy-Familie klagt gegen Trumps Triumphbogen",
+      "url": "https://www.tagesanzeiger.ch/kennedy-familie-klagt-gegen-trumps-triumphbogen-919103340051",
+      "summary": "US-Präsident Donald Trump will einen riesigen Triumphbogen in Washington bauen lassen. Doch der Plan ist umstritten. Nun gibt es prominenten Gegenwind.",
+      "published": "2026-11-11T02:02:06.399588+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Artikel",
+      "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/artikel-ld.4262847",
+      "summary": "",
+      "published": "2026-11-11T02:02:06.399588+00:00"
     }
   ]
 }
