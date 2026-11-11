@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T02:02:06.399588+00:00",
+  "generated": "2026-11-11T02:31:58.883049+00:00",
   "date": "2026-11-11",
-  "count": 39,
+  "count": 40,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -275,6 +275,13 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/artikel-ld.4262847",
       "summary": "",
       "published": "2026-11-11T02:02:06.399588+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Sturm Charles erreicht Madeira: Erdrutsche und Flugausfälle",
+      "url": "https://www.20min.ch/story/unwetter-in-portugal-sturm-charles-erreicht-madeira-erdrutsche-und-flugausfaelle-103665380",
+      "summary": "Der Sturm Charles hat auf der portugiesischen Atlantikinsel Madeira bereits Überschwemmungen, Erdrutsche und Flugausfälle verursacht. Der Zivilschutz registrierte Dutzende Einsätze, während die Behörd",
+      "published": "2026-11-11T02:31:58.883049+00:00"
     }
   ]
 }
