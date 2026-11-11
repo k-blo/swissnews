@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T04:35:32.834794+00:00",
+  "generated": "2026-11-11T05:02:14.511958+00:00",
   "date": "2026-11-11",
-  "count": 164,
+  "count": 195,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1150,6 +1150,223 @@
       "url": "https://www.watson.ch/wirtschaft/schweiz/748433968-schweiz-geraet-laut-imd-bei-ki-und-digitalisierung-ins-hintertreffen",
       "summary": "",
       "published": "2026-11-11T04:35:32.834794+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Von der Rentnerin bis zum Promi: «Ich spende alles», sagt Bernhard Russi – fünf Schweizer erzählen, was sie mit ihrer 13. AHV-Rente machen",
+      "url": "https://www.tagesanzeiger.ch/13-ahv-rente-wofuer-rentnerinnen-und-rentner-sie-brauchen-585000778801",
+      "summary": "Zweieinhalb Millionen Pensionierte erhalten im Dezember die 13. AHV-Rente. Was haben sie damit vor? Fünf Antworten aus ganz unterschiedlichen Lebenslagen.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Datenanalyse zum Wetter: Grauer November: So wenig Sonne hat Ihre Gemeinde im Vergleich",
+      "url": "https://www.tagesanzeiger.ch/wetter-so-viel-regen-und-sonne-hat-ihre-gemeinde-923682827825",
+      "summary": "Scheint die Sonne häufiger als früher? Oder regnet es eher mehr? Dieser interaktive Vergleich zeigt es – schweizweit und für Ihren Wohnort.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Bestellt, geplant, bekämpft: «50 Raser pro Tag sind zu viel»: Zürichs Knorz mit den Velorouten",
+      "url": "https://www.tagesanzeiger.ch/velovorzugsroute-zuerich-27-kilometer-durch-rekurse-blockiert-176671682865",
+      "summary": "Egal ob in Wiedikon oder in Oerlikon: Wenn die Stadt ihre Vorzugsrouten präsentiert, folgt postwendend Widerstand aus der Nachbarschaft. Dabei will sie das Stimmvolk.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Nachspielzeit: Geschichten aus der Sportwelt: Eine krumme Torlinie, verpeilte Spielerinnen und ein nerviger ZDF-Reporter",
+      "url": "https://www.tagesanzeiger.ch/kurioses-im-sport-niclas-fuellkrug-laesst-zdf-interviewer-stehen-980620115096",
+      "summary": "In Turin macht ein Platzwart Überstunden, ein Apfel verirrt sich aufs Eis und ein Starstürmer sagt: «Nee, danke, ciao.» Sieben kuriose Geschichten der Woche aus dem Sport.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Wir sind Zukunft: Black-Friday-Boykott kann sich für Geschäfte lohnen",
+      "url": "https://www.tagesanzeiger.ch/black-friday-boykott-kann-sich-fuer-geschaefte-lohnen-742966201224",
+      "summary": "Bald ist wieder Black Friday. Während viele Händler und Marken bei der Rabattschlacht mitmischen, verweigern sich manche. Der Boykott nützt nicht nur dem Image, sondern kann sich auch finanziell ausza",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Tamedia-Umfrage: Vier Vorlagen: Wie stimmen Sie am 29. November ab?",
+      "url": "https://www.tagesanzeiger.ch/abstimmung-29-november-jetzt-an-umfrage-teilnehmen-128135501909",
+      "summary": "Bald stehen wieder Abstimmungen an. Haben Sie sich schon entschieden? Nehmen Sie hier an unserer Umfrage teil.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Stalking im Zürcher Unterland: Er legt ihr getragene Unterhosen in den Briefkasten – Gericht schützt Frau vor Ex-Partner",
+      "url": "https://www.tagesanzeiger.ch/stalking-in-zuerich-gericht-verlaengert-rayonverbot-gegen-ex-partner-668950346543",
+      "summary": "Ein Mann stellt seiner Ex-Partnerin monatelang nach. Das Verwaltungsgericht bestätigt das Kontakt- und Rayonverbot gegen ihn.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Amag-Aus in Jona: Amag schliesst grosse Autogarage in Jona – nun wären Wohnungen denkbar",
+      "url": "https://www.tagesanzeiger.ch/amag-schliesst-garage-in-rapperswil-jona-ende-2027-794213551242",
+      "summary": "Ende 2027 schliesst der Autogigant Amag seine Garage in Jona. Droht nun ein Garagensterben in der Region? Ein Experte ordnet ein.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Verkehr in Winterthur: Der Autoverkehr hat abgenommen – aber weniger stark als geplant",
+      "url": "https://www.tagesanzeiger.ch/winterthur-autoverkehr-im-zentrum-sank-um-13-prozent-843050640755",
+      "summary": "Der Autoverkehr in Winterthur ist seit 2015 spürbar zurückgegangen, besonders im Zentrum. Von den Zielen im Richtplan ist die Stadt aber noch weit entfernt.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Berner Zeitung",
+      "title": "Bedenken über die Zukunft: Die grösste Schweizer Berufsschule rüstet sich für den nächsten Umbruch",
+      "url": "https://www.bernerzeitung.ch/gibb-bern-200-jahre-berufslehre-im-zeichen-der-ki-620984312679",
+      "summary": "Seit 200 Jahren unterrichtet die Gibb in Bern Lernende. Von der Hutmacherin zum Zahnarzttechniker sind viele Berufe verschwunden. Nun steht mit der KI die nächste Umwälzung bevor.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die Waffenexportregeln müssen gelockert werden. Denn keinen Spielraum zu haben, ist keine Strategie",
+      "url": "https://www.nzz.ch/meinung/die-waffenexportregeln-muessen-gelockert-werden-denn-keinen-spielraum-zu-haben-ist-keine-strategie-ld.10051978",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ AKZENT» - «Honigfalle» im Silicon Valley: Wie eine mutmassliche Agentin den Nvidia-Chef umgarnte",
+      "url": "https://www.nzz.ch/podcast/honigfalle-im-silicon-valley-wie-eine-mutmassliche-agentin-den-nvidia-chef-umgarnte-ld.10060025",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - ETF ist nicht gleich ETF – Anleger sollten dem guten Ruf des Anlageprodukts nicht blind vertrauen",
+      "url": "https://www.nzz.ch/meinung/etf-ist-nicht-gleich-etf-anleger-sollten-dem-guten-ruf-des-anlageprodukts-nicht-blind-vertrauen-ld.10059953",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Ist Huang Le gar keine Spionin? Das vermutet der Mann, der jahrzehntelang Geheimagenten ausgebildet hat",
+      "url": "https://www.nzz.ch/technologie/geheimdienstexperte-zur-affaere-des-nvidia-ceo-huang-le-ist-keine-typische-spionin-ld.10059899",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Machtkampf in Venezuela: María Corina Machado drängt auf baldige Wahlen, die Amtsinhaberin hat es nicht eilig",
+      "url": "https://www.nzz.ch/international/machtkampf-in-venezuela-maria-corina-machado-draengt-auf-baldige-wahlen-die-amtsinhaberin-hat-es-nicht-eilig-ld.10059783",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ GEOPOLITIK» - Machtvakuum im Kreml: Wie könnte ein Russland nach Putin aussehen?",
+      "url": "https://www.nzz.ch/podcast/machtvakuum-im-kreml-wie-koennte-ein-russland-nach-putin-aussehen-ld.10059657",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Orbans Bruder wird des Menschenschmuggels bezichtigt – die Abrechnung mit dem alten System in Ungarn kommt dem früheren Regierungschef immer näher",
+      "url": "https://www.nzz.ch/international/ungarn-viktor-orbans-bruder-im-visier-von-ermittlungen-wegen-schlepperei-ld.10059651",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Die einstige Partei von Nelson Mandela verliert ihre Übermacht. Das ist gut für Südafrika",
+      "url": "https://www.nzz.ch/meinung/die-einstige-partei-von-nelson-mandela-verliert-ihre-uebermacht-das-ist-gut-fuer-suedafrika-ld.10059617",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Ciriaco Sforza und Mario Basler waren herablassend. Aber Weltmeister Andreas Brehme stellte sich dem Praktikanten mit Namen vor",
+      "url": "https://www.nzz.ch/sport/fussball/ciriaco-sforza-und-mario-basler-waren-herablassend-aber-weltmeister-andreas-brehme-stellte-sich-dem-praktikanten-mit-namen-vor-ld.10059593",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "BILDSTRECKE - Von Mata Hari bis Anna Chapman: Seit Jahrzehnten setzen Geheimdienste auf Spioninnen, um Gegner auszuhorchen",
+      "url": "https://www.nzz.ch/fotografie/von-mata-hari-bis-anna-chapman-seit-jahrzehnten-setzen-geheimdienste-auf-spioninnen-um-gegner-auszuhorchen-ld.10059548",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK - AfD und Linke testen rechtliche Spielräume aus – das müssen auch die Regierungsparteien lernen",
+      "url": "https://www.nzz.ch/der-andere-blick/afd-und-linke-testen-rechtliche-spielraeume-aus-das-muessen-auch-die-regierungsparteien-lernen-ld.10059485",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Iran soll hinter den Kühlregal-Hacks in Frankreich stehen. Europa muss eine Antwort auf diese Angriffe finden",
+      "url": "https://www.nzz.ch/meinung/iran-soll-hinter-den-kuehlregal-hacks-in-frankreich-stehen-europa-muss-eine-antwort-auf-diese-angriffe-finden-ld.10059128",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Schaut, was eine 18-Jährige bewirken kann»: In Texas hat die Generation Z eine blaue Revolution losgetreten",
+      "url": "https://www.nzz.ch/international/blaue-stunde-in-texas-wie-die-gen-z-die-zwischenwahlen-praegte-ld.10058267",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "In den USA erlebt der Katholizismus einen politischen Aufschwung – das sind die drei wichtigsten Gründe",
+      "url": "https://www.nzz.ch/pro/katholizismus-in-den-usa-3-gruende-fuer-den-politischen-aufschwung-ld.10055034",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Linkspartei googelte Mohamed Ali – und erwischte womöglich den Falschen. Der mutmassliche Wahlbetrug in Schweden wirft immer mehr Fragen auf",
+      "url": "https://www.nzz.ch/international/wahlskandal-in-schweden-mohamed-alis-dubiose-vergangenheit-ld.10054338",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Odysseus wird zum Krisencoach und Sappho schreibt SMS: Auf Tiktok und Instagram sind die Helden der Antike auf einmal ganz nah",
+      "url": "https://www.nzz.ch/feuilleton/sappho-schreibt-sms-und-odysseus-wird-zum-krisencoach-auf-tiktok-und-instagram-sind-die-helden-der-antike-auf-einmal-ganz-nah-ld.10052960",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Gestoppt in Polen, durchgewunken in Italien: So löchrig sind die EU-Sanktionen",
+      "url": "https://www.shn.ch/ueberregionales/ausland/2026-11-11/gestoppt-in-polen-durchgewunken-in-italien-so-loechrig-sind-die",
+      "summary": "Zwischen den europäischen Staaten gibt es grosse Unterschiede bei der Umsetzung der Sanktionen gegen Russland. Moskau nutzt das gezielt aus.",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Umstrittenes aus für Sbb Reisezentrum Uznach Jetzt Schaltet Sich Ständerat Würth ein",
+      "url": "https://www.suedostschweiz.ch/linth/umstrittenes-aus-fuer-sbb-reisezentrum-uznach-jetzt-schaltet-sich-staenderat-wuerth-ein-2218461",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Limmattaler Zeitung",
+      "title": "Oberstufenschulgemeinde Weiningen Senkt den Steuerfuss",
+      "url": "https://www.limmattalerzeitung.ch/limmattal/region-limmattal/oberstufenschulgemeinde-weiningen-senkt-den-steuerfuss-ld.4264329",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Das Repaircafé zieht um",
+      "url": "https://www.freiburger-nachrichten.ch/story/304062/das-repaircaf-zieht-um",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Nach BiCT-Schliessung: Neue Ausbildungsstätte für Freiburger Lernende",
+      "url": "https://www.freiburger-nachrichten.ch/story/302773/nach-bictschliessung-neue-ausbildungsst%C3%A4tte-f%C3%BCr-freiburger-lernende",
+      "summary": "",
+      "published": "2026-11-11T05:02:14.511958+00:00"
     }
   ]
 }
