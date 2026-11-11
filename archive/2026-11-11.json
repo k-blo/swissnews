@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T04:32:10.026494+00:00",
+  "generated": "2026-11-11T04:35:32.834794+00:00",
   "date": "2026-11-11",
-  "count": 163,
+  "count": 164,
   "articles": [
     {
       "source": "Freiburger Nachrichten",
@@ -1143,6 +1143,13 @@
       "url": "https://www.freiburger-nachrichten.ch/story/304570/liebe-macht-intrigen-das-bundesgericht-in-der-krise",
       "summary": "",
       "published": "2026-11-11T04:32:10.026494+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Schweiz gerät laut IMD bei KI und Digitalisierung ins Hintertreffen",
+      "url": "https://www.watson.ch/wirtschaft/schweiz/748433968-schweiz-geraet-laut-imd-bei-ki-und-digitalisierung-ins-hintertreffen",
+      "summary": "",
+      "published": "2026-11-11T04:35:32.834794+00:00"
     }
   ]
 }
