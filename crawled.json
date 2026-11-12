@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T23:31:37.008747+00:00",
+  "generated": "2026-11-12T00:02:01.041641+00:00",
   "date": "2026-11-12",
-  "count": 39,
+  "count": 40,
   "articles": [
     {
       "source": "Der Bund",
@@ -275,6 +275,13 @@
       "url": "https://www.bote.ch/nachrichten/vereine/bereit-zum-babysitten-art-1731605",
       "summary": "",
       "published": "2026-11-11T23:31:37.008747+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "«Abstimmungsarena» – 13. AHV-Rente: Elisabeth Baume-Schneider unter Dauerbeschuss",
+      "url": "https://www.srf.ch/news/schweiz/abstimmungsarena-13-ahv-rente-elisabeth-baume-schneider-unter-dauerbeschuss",
+      "summary": "Bundesrat und Parlament wollen zur Finanzierung der 13. AHV-Rente den Mehrwertsteuersatz um 0,4 Prozentpunkte anheben.",
+      "published": "2026-11-12T00:02:01.041641+00:00"
     }
   ]
 }
