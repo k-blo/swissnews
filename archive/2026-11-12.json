@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-12T01:01:53.041249+00:00",
+  "generated": "2026-11-12T01:32:09.200677+00:00",
   "date": "2026-11-12",
-  "count": 40,
+  "count": 46,
   "articles": [
     {
       "source": "Der Bund",
@@ -282,6 +282,48 @@
       "url": "https://www.srf.ch/news/schweiz/abstimmungsarena-13-ahv-rente-elisabeth-baume-schneider-unter-dauerbeschuss",
       "summary": "Bundesrat und Parlament wollen zur Finanzierung der 13. AHV-Rente den Mehrwertsteuersatz um 0,4 Prozentpunkte anheben.",
       "published": "2026-11-12T00:02:01.041641+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Nvidia-Aktie fällt nach Berichten über möglichen Chefwechsel",
+      "url": "https://www.20min.ch/story/nvidia-aktie-boerse-einbruch-berichte-um-chef-wechsel-vo-jensen-huang-103665918",
+      "summary": "Die Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin belastet den Chip-Konzern. Sein Börsenwert ist bereits deutlich gesunken – nach Medienberichten geht es nun weiter nach unten.",
+      "published": "2026-11-12T01:32:09.200677+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Niedrigstes Niveau seit Mitte 2025: Nvidia-Aktie fällt nach Berichten über möglichen Chefwechsel",
+      "url": "https://www.tagesanzeiger.ch/nvidia-aktie-an-boerse-einbruch-nach-bericht-ueber-moegliche-absetzung-von-ceo-jensen-huang-nach-affaere-801812306061",
+      "summary": "Die Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin belastet den Chip-Konzern. Sein Börsenwert ist bereits deutlich gesunken – nach Medienberichten geht es nun weiter nach unten.",
+      "published": "2026-11-12T01:32:09.200677+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Flughafen Zürich: Passagierrekord",
+      "url": "https://www.zentralplus.ch/news/flughafen-zuerich-passagierrekord-2911053/",
+      "summary": "Am Flughafen Zürich ist im Oktober deutlich weniger Fracht abgefertigt worden als im gleichen Monat vor einem Jahr. Insgesamt wurden im Oktober gut 34&#8217;200 Tonnen abgewickelt, also über 14 Prozen",
+      "published": "2026-11-12T01:32:09.200677+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Leo XIV. in Peru eingetroffen",
+      "url": "https://www.zentralplus.ch/news/leo-xiv-in-peru-eingetroffen-2911051/",
+      "summary": "Auf seiner Südamerika-Reise ist Papst Leo der Vierzehnte in seiner zweiten Heimat Peru eingetroffen. Vor seiner Wahl zum Papst im vergangenen Jahr hatte der gebürtige US-Amerikaner Leo zwei Jahrzehnte",
+      "published": "2026-11-12T01:32:09.200677+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Demokrat holt Senatssitz in Mississippi",
+      "url": "https://www.zentralplus.ch/news/demokrat-holt-senatssitz-in-mississippi-2911049/",
+      "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Rechtsanwalt Scott Colom siegte im Rennen gegen die Republikanerin",
+      "published": "2026-11-12T01:32:09.200677+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Nvidia-Verwaltungsrat berät über einen Rauswurf von CEO Jensen Huang, der noch eine zweite Affäre gehabt haben soll",
+      "url": "https://www.nzz.ch/wirtschaft/der-nvidia-verwaltungsrat-beraet-ueber-einen-rauswurf-von-ceo-jensen-huang-der-noch-eine-zweite-affaere-gehabt-haben-soll-ld.10061334",
+      "summary": "",
+      "published": "2026-11-12T01:32:09.200677+00:00"
     }
   ]
 }
