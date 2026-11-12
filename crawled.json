@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-12T03:02:08.759846+00:00",
+  "generated": "2026-11-12T03:31:38.399442+00:00",
   "date": "2026-11-12",
-  "count": 48,
+  "count": 53,
   "articles": [
     {
       "source": "Der Bund",
@@ -338,6 +338,41 @@
       "url": "https://www.luzernerzeitung.ch/aboplus/wettbewerbe/artikel-ld.4262994",
       "summary": "",
       "published": "2026-11-12T02:01:55.519076+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "In 30 Minuten mit der Seilbahn vom Kanton Bern ins Wallis",
+      "url": "https://www.20min.ch/story/seilbahn-zwischen-lenk-crans-montana-projekt-zwei-routen-moeglich-traegerschaft-cradle-103665924",
+      "summary": "Zwischen Lenk und Crans-Montana könnte eine neue Seilbahn über gut 10 Kilometer entstehen. In einer Studie wurden zwei Routen als die besten eingestuft. Es gibt auch Kritik.",
+      "published": "2026-11-12T03:31:38.399442+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Fermentieren wie ein Profi: Munotblick-Koch Daniel Riedener verrät seine Tipps",
+      "url": "https://www.shn.ch/leben-genuss/2026-11-12/fermentieren-wie-ein-profi-munotblick-koch-daniel-riedener-verraet-seine",
+      "summary": "Küchenchef und Munotblick-Geschäftsführer Daniel Riedener kennt kein Lieblingsessen: Zu gross ist seine Neugier auf das, was als Nächstes kommt. Mit Fermentieren beschäftigt er sich so intensiv wie ke",
+      "published": "2026-11-12T03:31:38.399442+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "«Marmor, Quecksilber, Nebel»: Judith Schalansky erklärt die Welt neu",
+      "url": "https://www.shn.ch/forum-meinung/kolumnen/2026-11-12/marmor-quecksilber-nebel-judith-schalansky-erklaert-die-welt-neu",
+      "summary": "Der Buchhändler und leidenschaftliche Leser Georg Freivogel schaut heute «Marmor, Quecksilber, Nebel» von Judith Schalansky an.",
+      "published": "2026-11-12T03:31:38.399442+00:00"
+    },
+    {
+      "source": "Thurgauer Zeitung",
+      "title": "Berlingen Bekämpft Schleichverkehr mit Polizei und Sperren",
+      "url": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/berlingen-bekaempft-schleichverkehr-mit-polizei-und-sperren-ld.4262672",
+      "summary": "",
+      "published": "2026-11-12T03:31:38.399442+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "13. AHV-Rente: Streit um Finanzierung in der SRF-«Arena»",
+      "url": "https://www.watson.ch/schweiz/reviews/289137606-13-ahv-rente-streit-um-finanzierung-in-der-srf-arena",
+      "summary": "",
+      "published": "2026-11-12T03:31:38.399442+00:00"
     }
   ]
 }
