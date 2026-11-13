@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T02:01:48.916699+00:00",
+  "generated": "2026-11-13T02:31:55.481986+00:00",
   "date": "2026-11-13",
-  "count": 31,
+  "count": 33,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -219,6 +219,20 @@
       "url": "https://www.zentralplus.ch/news/usa-melden-rekord-bei-abschiebungen-2911400/",
       "summary": "Die US-Regierung von Präsident Donald Trump hat nach eigenen Angaben innerhalb eines Jahres fast eine halbe Million Menschen abgeschoben. Bis zum Stichtag Ende September seien über 480&#8217;000 Mensc",
       "published": "2026-11-13T02:01:48.916699+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "Abfuhr für Infantino: Gericht in New York weist Fifa-Anträge ab",
+      "url": "https://www.20min.ch/story/fifa-gianni-infantino-gericht-entscheid-gegen-antraege-machtkampf-mit-der-uefa-103666579",
+      "summary": "Das hat sich Gianni Infantino anders erhofft. Ein US-Gericht weist einen Fifa-Antrag im Machtkampf mit der Uefa ab. Es geht um die Herausgabe von möglicherweise brisanten Unterlagen.",
+      "published": "2026-11-13T02:31:55.481986+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "DE: Cyberangriff auf Drohnenhersteller",
+      "url": "https://www.zentralplus.ch/news/de-cyberangriff-auf-drohnenhersteller-2911404/",
+      "summary": "Beim Kampf gegen Russland wird die ukrainische Armee auch von Drohnen des deutschen Rüstungskonzerns Quantum Systems unterstützt. Nun ist das Unternehmen mit Sitz in Bayern Opfer eines Cyberangriffs g",
+      "published": "2026-11-13T02:31:55.481986+00:00"
     }
   ]
 }
