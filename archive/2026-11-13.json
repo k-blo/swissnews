@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T04:31:57.803065+00:00",
+  "generated": "2026-11-13T04:34:12.642763+00:00",
   "date": "2026-11-13",
-  "count": 172,
+  "count": 188,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1206,6 +1206,118 @@
       "url": "https://www.bote.ch/nachrichten/sport/schweizer-nati-manzambi-und-kobel-gewinner-embolo-und-okafor-die-verlierer-art-1731986",
       "summary": "",
       "published": "2026-11-13T04:31:57.803065+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Jensen Huang sah die KI-Revolution früher kommen als alle anderen. Trotzdem fiel er tief",
+      "url": "https://www.nzz.ch/wirtschaft/jensen-huang-sein-sagenhafter-aufstieg-und-sein-abgang-im-portrait-nzz-ld.10062199",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "KOMMENTAR - Selektive Toleranz: Der Westen misst religiöse Äusserungen mit zweierlei Mass",
+      "url": "https://www.nzz.ch/meinung/selektive-toleranz-der-westen-misst-religioese-aeusserungen-mit-zweierlei-mass-ld.10061768",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Die Kapitalisten füllen die Kasse: Ihre Steuern tragen immer mehr zum Schweizer Staatshaushalt bei",
+      "url": "https://www.nzz.ch/wirtschaft/die-kapitalisten-fuellen-die-kasse-ihre-steuern-tragen-immer-mehr-zum-schweizer-staatshaushalt-bei-ld.10061747",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Der Nvidia-Chef führe eine «unangenehm enge Beziehung», schrieb ein unbekannter Finanzanalyst im Mai. Nun wird er gefeiert",
+      "url": "https://www.nzz.ch/wirtschaft/der-nvidia-chef-fuehre-eine-unangenehm-enge-beziehung-schrieb-ein-unbekannter-finanzanalyst-mai-nun-wird-er-gefeiert-ld.10061693",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Das Virus der Angst: wie E-Mails Italiens Schulen lahmlegen",
+      "url": "https://www.nzz.ch/international/italien-wie-bombendrohungen-schulen-und-politik-erschuettern-ld.10061670",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Esther und Hendrik Pfeiffer gelten als Traumpaar des Marathons. Doch mit dem Verband sind sie zerstritten",
+      "url": "https://www.nzz.ch/sport/leichtathletik/team-pfeiffer-deutschlands-schnellstes-paar-und-ihr-streit-mit-dem-dlv-ld.10061166",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Parmelin gerät in Dublin unverhofft ins Rampenlicht: Die Schweiz bereitet sich in Irland auf ihren eigenen Monsteranlass vor",
+      "url": "https://www.nzz.ch/schweiz/parmelin-geraet-in-dublin-unverhofft-ins-rampenlicht-die-schweiz-bereitet-sich-in-irland-auf-ihren-eigenen-monsteranlass-vor-ld.10061105",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "ERKLÄRT - Kaufen, leasen oder Abo: Welches Modell eignet sich für welche Autofahrer?",
+      "url": "https://www.nzz.ch/mobilitaet/auto-kaufen-leasen-oder-abo-warum-die-kilometer-allein-nicht-entscheiden-ld.10061050",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Tonhalle Zürich: Mit Wucht in die Apokalypse",
+      "url": "https://www.nzz.ch/feuilleton/tonhalle-zuerich-mit-wucht-in-die-apokalypse-ld.10061013",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Bald soll der Zaun um die Wisente fallen: Das wollen längst nicht alle",
+      "url": "https://www.nzz.ch/schweiz/bald-soll-der-zaun-um-die-wisente-fallen-das-wollen-laengst-nicht-alle-ld.10059753",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "INTERVIEW - Robert Habeck warnt vor dem nächsten grossen Krieg: «Die Parallelen zur Ukraine sind sehr beängstigend»",
+      "url": "https://www.nzz.ch/feuilleton/robert-habeck-warnt-vor-dem-naechsten-grossen-krieg-die-parallelen-zur-ukraine-sind-sehr-beaengstigend-ld.10059454",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "Länger arbeiten oder mehr vom Lohn abgeben: wie sich die 13. AHV-Rente auch noch finanzieren liesse",
+      "url": "https://www.nzz.ch/schweiz/laenger-arbeiten-oder-mehr-vom-lohn-abgeben-wie-sich-die-13-ahv-rente-auch-noch-finanzieren-liesse-ld.10058815",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "DER ANDERE BLICK - Die Linke schlägt ein neues Kapitel im Kulturkampf auf",
+      "url": "https://www.nzz.ch/meinung/die-linke-schlaegt-ein-neues-kapitel-im-kulturkampf-auf-ld.10058763",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "PODCAST «NZZ QUANTENSPRUNG» - Die Suche nach der zweiten Erde (live)",
+      "url": "https://www.nzz.ch/podcast/die-suche-nach-der-zweiten-erde-live-ld.10055060",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "SERIE - Nach den Ursachen von Long Covid wird intensiv gefahndet: Verstopfte Arterien zählen zu den Hauptverdächtigen",
+      "url": "https://www.nzz.ch/wissenschaft/nach-den-ursachen-von-long-covid-wird-intensiv-gefahndet-verstopfte-arterien-zaehlen-zu-den-hauptverdaechtigen-ld.10052169",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
+    },
+    {
+      "source": "NZZ",
+      "title": "«Wenn die Sonne untergeht, kommt die Angst zurück.» Zu Besuch bei den Menschen in al-Obeid, einer belagerten Stadt",
+      "url": "https://www.nzz.ch/international/sudan-krieg-drohnen-angst-und-alltag-im-belagerten-al-obeid-ld.10049270",
+      "summary": "",
+      "published": "2026-11-13T04:34:12.642763+00:00"
     }
   ]
 }
