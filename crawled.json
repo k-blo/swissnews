@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T12:31:59.488804+00:00",
+  "generated": "2026-11-13T13:02:18.212452+00:00",
   "date": "2026-11-13",
-  "count": 535,
+  "count": 550,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -3747,6 +3747,111 @@
       "url": "https://www.freiburger-nachrichten.ch/story/305239/microsoft-gibt-teilweise-entwarnung-behebung-der-weltweiten-st%C3%B6rung-kommt-voran",
       "summary": "",
       "published": "2026-11-13T12:31:59.488804+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "SRF, SBB, Post: So trifft der Microsoft-Ausfall Schweizer Firmen",
+      "url": "https://www.tagesanzeiger.ch/microsoft-365-ausfall-post-swiss-und-sbb-betroffen-422567239875",
+      "summary": "Der Bürobetrieb etlicher Firmen ist massiv eingeschränkt. Grössere Pannen blieben aber vorerst aus.",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Umstrittenes Konzert in Zürich: Bürgerliche fordern Einreisesperre für die Band Kneecap",
+      "url": "https://www.tagesanzeiger.ch/kneecap-zuercher-parteien-fordern-einreiseverbot-390363449340",
+      "summary": "Das nordirische Trio soll am 22. November im ausverkauften X-tra auftreten. Wegen früherer Äusserungen verlangen drei Parteien, dass der Stadtrat beim Bund ein Einreiseverbot prüfen lässt.",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Razzia im Bezirk Dielsdorf: Polizei findet Hanfanlage – und ein ganzes Waffenarsenal",
+      "url": "https://www.tagesanzeiger.ch/einsatz-im-kanton-zuerich-polizei-stellt-waffen-und-hanfanlage-sicher-558893179806",
+      "summary": "Bei Hausdurchsuchungen tauchen kiloweise Marihuana, Bargeld und Waffen auf. Drei Personen sind in Polizeigewahrsam.",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Argentinischer Cheftrainer: Pochettino folgt bei Manchester United auf Carrick",
+      "url": "https://www.tagesanzeiger.ch/pochettino-wird-neuer-trainer-von-manchester-united-155356735714",
+      "summary": "Manchester United hat seinen Wunschkandidaten für die Nachfolge von Michael Carrick verpflichtet. Nach dem schlechtesten Saisonstart seit 40 Jahren soll Mauricio Pochettino die Wende schaffen.",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Zug bewilligt 700’000 für eigene KI",
+      "url": "https://www.zentralplus.ch/news/zug-bewilligt-700000-fuer-eigene-ki-2911530/",
+      "summary": "Das Zuger Stadtparlament hat mehrere Ausgaben bewilligt. Unter anderem investiert die Stadt in künstliche Intelligenz und unterstützt weiterhin Deutschkurse. Bei der Zukunft der Kunsteisbahn verlangt ",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Inside IT",
+      "title": "Europol legt drei Malware-Netzwerke lahm",
+      "url": "https://www.inside-it.ch/europol-legt-drei-malware-netzwerke-lahm-20261113",
+      "summary": "Die Behörden haben in einer internationalen Polizeiaktion Gootloader, CastleRAT und Stealc zerschlagen und identifizierten zudem 6,4 Millionen gestohlene Zugangsdaten.",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Microsoft Outlook Störung Wann ist sie Behoben",
+      "url": "https://www.suedostschweiz.ch/panorama/microsoft-outlook-stoerung-wann-ist-sie-behoben-2233664",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Apache 207 Tour 2027 was ist zu Konzerten Aktuell Bekannt",
+      "url": "https://www.suedostschweiz.ch/panorama/apache-207-tour-2027-was-ist-zu-konzerten-aktuell-bekannt-2233607",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Luzerner Zeitung",
+      "title": "Lucerne Blüs Festival 2026 Start mit Janiva Magness Les Green Eugene Bridge",
+      "url": "https://www.luzernerzeitung.ch/kultur/zentralschweiz/lucerne-blues-festival-2026-start-mit-janiva-magness-les-green-eugene-bridge-ld.4260183",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Gelebte Tradition und Beste Stimmung in Baarinwil",
+      "url": "https://www.zugerzeitung.ch/leserbeitrag/zz/gelebte-tradition-und-beste-stimmung-in-baarinwil-ld.4266668",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Manchester United hat 2,5 Milliarden ausgegeben und nichts erreicht",
+      "url": "https://www.watson.ch/sport/analyse/410616575-manchester-united-hat-2-5-milliarden-ausgegeben-und-nichts-erreicht",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Geheimdienst in Deutschland: Mehr Befugnisse für Abwehr von Spionage",
+      "url": "https://www.watson.ch/international/deutschland/571908092-geheimdienst-in-deutschland-mehr-befugnisse-fuer-abwehr-von-spionage",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Freiburger Nachrichten",
+      "title": "Von der intelligenten Heizung bis zum Mikrochip: Freiburg prämiert seine besten Innovationen",
+      "url": "https://www.freiburger-nachrichten.ch/story/305036/von-der-intelligenten-heizung-bis-zum-mikrochip-freiburg-pr%C3%A4miert-seine-besten-innovationen",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Massagepistole und Liebesgeständnis: So reagiert Bachelorette Ariel auf die grossen Worte",
+      "url": "https://www.bote.ch/nachrichten/kultur/bachelorette-2026-so-reagiert-bachelorette-ariel-auf-die-grossen-worte-art-1732044",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
+    },
+    {
+      "source": "Bote der Urschweiz",
+      "title": "Kraftvolle Show: «Die Musik hat einen Weg gefunden, mich am Leben zu erhalten»",
+      "url": "https://www.bote.ch/nachrichten/kultur/lucerne-blues-festival-2026-start-mit-janiva-magness-les-green-eugene-bridge-art-1732043",
+      "summary": "",
+      "published": "2026-11-13T13:02:18.212452+00:00"
     }
   ]
 }
