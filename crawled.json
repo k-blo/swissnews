@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T06:02:08.419153+00:00",
+  "generated": "2026-11-13T06:31:57.463617+00:00",
   "date": "2026-11-13",
-  "count": 232,
+  "count": 245,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1626,6 +1626,97 @@
       "url": "https://www.bote.ch/nachrichten/schweizundwelt/stundenlange-stoerung-bei-microsofts-cloud-e-mail-art-1731987",
       "summary": "",
       "published": "2026-11-13T06:02:08.419153+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Musikpreis in Las Vegas: Sängerin Rosalía gewinnt Latin Grammy für das Album des Jahres",
+      "url": "https://www.tagesanzeiger.ch/latin-grammys-rosalia-gewinnt-album-des-jahres-664801794499",
+      "summary": "Die spanische Sängerin gewinnt mit «Lux» den Preis für das Album des Jahres. Auch ihr Song «La Perla» wird ausgezeichnet.",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Sisyphus Bar am Klosterberg: «Panini Bildli» als Cocktail-Karte – das steckt hinter dem «Wednesday Club»",
+      "url": "https://www.bazonline.ch/sisyphus-bar-klosterberg-basel-das-steckt-hinter-wednesday-club-187704250067",
+      "summary": "Fünf junge Männer wollen mit einer speziellen Event-Reihe einmal wöchentlich einen Community-Anlass in Basel etablieren. Einblick in das neue Konzept in der Sisyphus Bar.",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "800 neuen Wohnungen droht eine lange Verzögerung",
+      "url": "https://www.zentralplus.ch/news/800-neuen-wohnungen-droht-eine-lange-verzoegerung-2911410/",
+      "summary": "Die SP/Juso will in Reussbühl West mehr gemeinnützige Wohnungen durchsetzen und hat deshalb das Referendum ergriffen. Damit droht sich das Bauprojekt mit bis zu 800 Wohnungen deutlich zu verzögern. Di",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Störung bei Microsoft – Outlook und Teams fallen grossflächig aus",
+      "url": "https://www.shn.ch/ueberregionales/wirtschaft/2026-11-13/stoerung-bei-microsoft-outlook-und-teams-fallen-grossflaechig",
+      "summary": "Zahlreiche Unternehmen und Verbraucher lassen ihre E-Mails über den Outlook-Dienst von Microsoft laufen. Viele Postfächer waren plötzlich unerreichbar.",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Manzambi ist der neue Nati-Superstar – Embolo sorgt für Ärger",
+      "url": "https://www.shn.ch/sport/fussball/2026-11-13/manzambi-ist-der-neue-nati-superstar-embolo-sorgt-fuer-aerger",
+      "summary": "Mit einem Punkt kann das Team von Murat Yakin heute Abend in Slowenien den Wiederaufstieg in die Nations League A klarmachen. Schon jetzt stehen für uns die Gewinner und Verlierer des historischen WM-",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Bundesrichter Donzallaz rettet mit Rücktritt seine Ex-Geliebte – vorerst",
+      "url": "https://www.shn.ch/ueberregionales/schweiz/2026-11-13/bundesrichter-donzallaz-rettet-mit-ruecktritt-seine-ex-geliebte",
+      "summary": "Lange klammerte sich Bundesrichter Yves Donzallaz an sein Amt, obwohl er eine verbotene Beziehung mit Richterkollegin Beatrice van de Graaf führte. Dann machte er einen überraschenden Schachzug.",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Schaffhauser Nachrichten",
+      "title": "Liebesbeziehungen auf dem Arbeitsplatz: Welche Regeln gelten in der Verwaltung und bei Arbeitgebern in der Region?",
+      "url": "https://www.shn.ch/region/kanton/2026-11-13/liebesbeziehungen-auf-dem-arbeitsplatz-welche-regeln-gelten-in-der",
+      "summary": "Nach den Verwerfungen einer Liebesbeziehung bei den Spitälern Schaffhausen stellt sich die Frage, wie andere Arbeitgeber mit Liebe am Arbeitsplatz umgehen. Einen «Code of Conduct» sucht man vielerorts",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Zuger Zeitung",
+      "title": "Walchwil Reduziert Gewässerräume am Seeufer Deutlich",
+      "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/walchwil-reduziert-gewaesserraeume-am-seeufer-deutlich-ld.4262885",
+      "summary": "",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "NHL-Star Kevin Fiala punktet in seinem Comeback – Bichsel verletzt sich",
+      "url": "https://www.watson.ch/sport/eishockey/141859048-nhl-star-kevin-fiala-punktet-in-seinem-comeback-bichsel-verletzt-sich",
+      "summary": "",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "USA: Putin will Europäer an den Verhandlungstisch lassen",
+      "url": "https://www.watson.ch/international/eu/702680408-usa-putin-will-europaeer-an-den-verhandlungstisch-lassen",
+      "summary": "",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Infantino scheitert vor US-Gericht im Machtkampf mit der UEFA",
+      "url": "https://www.watson.ch/sport/fifa/649862195-infantino-scheitert-vor-us-gericht-im-machtkampf-mit-der-uefa",
+      "summary": "",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Nvidia Schlägt Loch in Snb Bilanz 3 Mrd Pulverisiert",
+      "url": "https://insideparadeplatz.ch/2026/11/13/nvidia-schlaegt-loch-in-snb-bilanz-3-mrd-pulverisiert/",
+      "summary": "",
+      "published": "2026-11-13T06:31:57.463617+00:00"
+    },
+    {
+      "source": "Inside Paradeplatz",
+      "title": "Ich Will Härter Werden",
+      "url": "https://insideparadeplatz.ch/2026/11/13/ich-will-haerter-werden/",
+      "summary": "",
+      "published": "2026-11-13T06:31:57.463617+00:00"
     }
   ]
 }
