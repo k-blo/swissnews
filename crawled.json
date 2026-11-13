@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T01:02:17.231204+00:00",
+  "generated": "2026-11-13T01:32:16.766126+00:00",
   "date": "2026-11-13",
-  "count": 26,
+  "count": 28,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -184,6 +184,20 @@
       "url": "https://www.bote.ch/service/leserbriefe/ent-scheidung-trennung-bei-heirat-art-1731840",
       "summary": "",
       "published": "2026-11-12T23:31:43.980844+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Fast eine halbe Million Menschen: US-Einwanderungsbehörde meldet Rekord bei Abschiebungen",
+      "url": "https://www.tagesanzeiger.ch/ice-rekord-usa-schieben-483000-menschen-ab-978607280753",
+      "summary": "US-Präsident Trump hat die Migrationspolitik drastisch verschärft. Das drückt sich auch in den Abschiebezahlen aus.",
+      "published": "2026-11-13T01:32:16.766126+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Selenski: Europa soll mitreden",
+      "url": "https://www.zentralplus.ch/news/selenski-europa-soll-mitreden-2911398/",
+      "summary": "Bei den nächsten Verhandlungen über ein Ende des Krieges in der Ukraine soll auch Europa mit am Tisch sitzen. Das kündigte der ukrainische Präsident Wolodimir Selenski nach einem Treffen mit den US-So",
+      "published": "2026-11-13T01:32:16.766126+00:00"
     }
   ]
 }
