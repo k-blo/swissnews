@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T05:01:56.952396+00:00",
+  "generated": "2026-11-13T05:31:51.187291+00:00",
   "date": "2026-11-13",
-  "count": 206,
+  "count": 220,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -1444,6 +1444,104 @@
       "url": "https://www.freiburger-nachrichten.ch/story/305231/manzambi-ist-neuer-superstar-embolo-macht-sich-unbeliebt-die-gewinner-und-verlierer-im-natijahr",
       "summary": "",
       "published": "2026-11-13T05:01:56.952396+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "3 Fragen zur SVP-Bundesratskür – Wer passt ins SVP-Profil – und wer fällt durch?",
+      "url": "https://www.srf.ch/news/schweiz/3-fragen-zur-svp-bundesratskuer-wer-passt-ins-svp-profil-und-wer-faellt-durch",
+      "summary": "Der Politologe hat acht Kandidierende anhand von Parteitreue, Kernthemen-Konformität und Führungserfahrung analysiert.",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Nach Spionagefall bei Nvidia – Wer in der Schweiz chinesische Spionage befürchten muss",
+      "url": "https://www.srf.ch/news/dialog/nach-spionagefall-bei-nvidia-wer-in-der-schweiz-chinesische-spionage-befuerchten-muss",
+      "summary": "Die Nvidia-Affäre rückt die chinesische Spionage in den Fokus. Auch die Schweiz bleibt nicht verschont.",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "SRF",
+      "title": "Familienrecht – Bundesgericht definiert alternierende Obhut: Die 30-Prozent-Regel",
+      "url": "https://www.srf.ch/news/schweiz/familienrecht-bundesgericht-definiert-alternierende-obhut-die-30-prozent-regel",
+      "summary": "Das Bundesgericht schafft nach der Klage eines Vaters Klarheit, wann ein Kind rechtlich bei beiden Eltern zu Hause ist.",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Lugano Global Forum: Der umtriebige Amerikaner, der in Lugano ein Mini-WEF veranstaltet",
+      "url": "https://www.tagesanzeiger.ch/lugano-global-forum-ein-mini-wef-als-davos-alternative-951054101147",
+      "summary": "US-Journalist Alan Friedman erklärt den Italienern die USA. Seit kurzem lebt er in der Schweiz. Nun lanciert er ein neues Wirtschaftsforum – und stichelt gegen die Übermacht in Davos.",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Aufruhr wegen Felchen: Fischer schlagen Alarm: Gibts für Herrn und Frau Zürcher bald weniger von ihrem Lieblingsfisch?",
+      "url": "https://www.tagesanzeiger.ch/felchen-im-zuerichsee-berufsfischer-bekaempfen-einschraenkungen-224790289768",
+      "summary": "Der Kanton will die Felchenfischerei im Zürichsee einschränken. Ein Naturschützer jubelt. Ein Berufsfischer und ein Gastronom sind entsetzt.",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Tages-Anzeiger",
+      "title": "Gipfel in Dublin: Europa kann es sich nicht leisten, bei der KI abgehängt zu werden",
+      "url": "https://www.tagesanzeiger.ch/eu-gipfel-dublin-wie-europa-bei-ki-aufholen-will-411042349567",
+      "summary": "Soll sich die EU darauf konzentrieren, die amerikanischen Modelle industriell anzuwenden? Oder braucht sie auch eigene Software und Rechenzentren? Die Antwort ist klar.",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Eklat vor Pop-Preis-Vergabe: «Das war eine satte Grätsche vom Kanton Baselland»",
+      "url": "https://www.bazonline.ch/musikbuero-basel-baselland-stoppt-30-jaehrige-partnerschaft-774946314251",
+      "summary": "In der Popmusik tut sich zwischen beiden Basel ein «Fördergraben» auf, weil sich das Baselbiet weitgehend aus dem Musikbüro Basel zurückzieht. Das stosse viele vor den Kopf, sagt Geschäftsleiter Alain",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Basler Zeitung",
+      "title": "Ruderrennen auf dem Rhein: Weltmeisterinnen und Olympiasieger zu bestaunen – zum Nulltarif",
+      "url": "https://www.bazonline.ch/baselhead-regatta-weltklasse-rudern-auf-dem-rhein-758003151637",
+      "summary": "Am Samstag wird die Innenstadt einmal mehr zur Kulisse für einige der weltbesten Ruderinnen und Ruderer: Die 14. BaselHead-Regatta steht an.",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "US-Senat will Nvidia-Chef befragen",
+      "url": "https://www.zentralplus.ch/news/us-senat-will-nvidia-chef-befragen-2911408/",
+      "summary": "Der zurückgetretene Chef des US-Chipherstellers Nvidia, Jensen Huang, soll im US-Senat befragt werden, und zwar von dessen Bankenausschuss. Hintergrund ist Huangs aussereheliche Affäre mit einer mutma",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Südostschweiz",
+      "title": "Lakers Verteidiger Robin Bisig Sein Abstecher in die Swiss Leagü Hat den Zweck Erfüllt",
+      "url": "https://www.suedostschweiz.ch/linth/lakers-verteidiger-robin-bisig-sein-abstecher-in-die-swiss-league-hat-den-zweck-erfuellt-2231608",
+      "summary": "",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Biel verliert gegen den ZSC nach Penaltys – wird es mit Wüthrich besser?",
+      "url": "https://www.watson.ch/sport/eismeister-zaugg/101510336-biel-verliert-gegen-den-zsc-nach-penaltys-wird-es-mit-wuethrich-besser",
+      "summary": "",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Störung bei Microsofts Cloud-E-Mail – Outlook betroffen",
+      "url": "https://www.watson.ch/digital/microsoft/332962208-stoerung-bei-microsofts-cloud-e-mail-outlook-betroffen",
+      "summary": "",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Umbruch bei den Frauen von Swiss-Ski – Didier Plaschy ordnet ein",
+      "url": "https://www.watson.ch/sport/ski/214833853-umbruch-bei-den-frauen-von-swiss-ski-didier-plaschy-ordnet-ein",
+      "summary": "",
+      "published": "2026-11-13T05:31:51.187291+00:00"
+    },
+    {
+      "source": "Watson",
+      "title": "Cute News: Die lustigsten Tierbilder der Woche – gute Laune garantiert!",
+      "url": "https://www.watson.ch/spass/cute-news/446411920-cute-news-die-lustigsten-tierbilder-der-woche-gute-laune-garantiert",
+      "summary": "",
+      "published": "2026-11-13T05:31:51.187291+00:00"
     }
   ]
 }
