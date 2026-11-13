@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13T01:32:16.766126+00:00",
+  "generated": "2026-11-13T02:01:48.916699+00:00",
   "date": "2026-11-13",
-  "count": 28,
+  "count": 31,
   "articles": [
     {
       "source": "Luzerner Zeitung",
@@ -198,6 +198,27 @@
       "url": "https://www.zentralplus.ch/news/selenski-europa-soll-mitreden-2911398/",
       "summary": "Bei den nächsten Verhandlungen über ein Ende des Krieges in der Ukraine soll auch Europa mit am Tisch sitzen. Das kündigte der ukrainische Präsident Wolodimir Selenski nach einem Treffen mit den US-So",
       "published": "2026-11-13T01:32:16.766126+00:00"
+    },
+    {
+      "source": "20 Minuten",
+      "title": "ICE meldet Rekord bei Abschiebungen",
+      "url": "https://www.20min.ch/story/us-einwanderungsbehoerde-ice-meldet-rekord-bei-abschiebungen-103666576",
+      "summary": "US-Präsident Trump hat die Migrationspolitik drastisch verschärft. Das drückt sich auch in den Abschiebezahlen aus. Dennoch fallen sie tiefer aus als vom Weissen Haus gewünscht.",
+      "published": "2026-11-13T02:01:48.916699+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "Weltweite Störungen bei Microsoft",
+      "url": "https://www.zentralplus.ch/news/weltweite-stoerungen-bei-microsoft-2911402/",
+      "summary": "Seit Donnerstagabend kämpft der Technologiekonzern Microsoft weltweit mit Störungen. Betroffen ist der Cloud-Dienst Microsoft 365, dazu gehören unter anderem das Mail-Programm Outlook, der Kommunikati",
+      "published": "2026-11-13T02:01:48.916699+00:00"
+    },
+    {
+      "source": "Zentralplus",
+      "title": "USA melden Rekord bei Abschiebungen",
+      "url": "https://www.zentralplus.ch/news/usa-melden-rekord-bei-abschiebungen-2911400/",
+      "summary": "Die US-Regierung von Präsident Donald Trump hat nach eigenen Angaben innerhalb eines Jahres fast eine halbe Million Menschen abgeschoben. Bis zum Stichtag Ende September seien über 480&#8217;000 Mensc",
+      "published": "2026-11-13T02:01:48.916699+00:00"
     }
   ]
 }
